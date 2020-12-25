@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T19:35:03.454Z",
+  "lastUpdated": "2020-12-25T19:50:02.836Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -50,6 +50,36 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T15:14:31.622Z",
       "raw": "https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ"
+    },
+    {
+      "airingId": "717",
+      "content": "Sociology professor James Nolan warns of the danger to society of an unchecked technological mindset. His new book explores the complicity of doctors in covering up the dangers of the atom bomb.",
+      "description": "Sociology professor James Nolan warns of the danger to society of an unchecked technological mindset.  His new book explores the complicity of doctors in covering up the dangers of the atom bomb.",
+      "endDate": "2020-12-18T07:30:00.000Z",
+      "link": "https://mega.nz/folder/wkFEVTQR#J3-ZDMgD1lud5aDxQaB5JA",
+      "recordDateEnd": "2020-12-18T07:30:26.608Z",
+      "recordDateStart": "2020-12-18T07:14:20.017Z",
+      "seriesId": "2058",
+      "sha256": "35ff79eaa1ba3538e6539fa81ac8dc480836a1da15d8c843f57653b0b5c1a22d",
+      "startDate": "2020-12-18T07:15:00.000Z",
+      "subtitle": "Technology's Power to Shape Us: James Nolan / Professor of Sociology",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T19:48:11.985Z"
+    },
+    {
+      "airingId": "718",
+      "content": "Kogenji Ryota is a world champion pole dancer who was named Mr. Pole Dance 2020. How does he come up with his routines, for which audiences have described him as being like a floating white fairy?",
+      "description": "Kogenji Ryota is a world champion pole dancer who was named Mr. Pole Dance 2020. How does he come up with his routines, for which audiences have described him as being like a floating white fairy?",
+      "endDate": "2020-12-21T07:30:00.000Z",
+      "link": "https://mega.nz/folder/3FNWVRoL#ArgyZIyUY7Wk36Xsa09tcw",
+      "recordDateEnd": "2020-12-21T07:31:06.937Z",
+      "recordDateStart": "2020-12-21T07:14:20.098Z",
+      "seriesId": "2058",
+      "sha256": "ec3768d53f2615b19abbb14a2e1cb76dfeda529eb504de03b4ab34de921eae1d",
+      "startDate": "2020-12-21T07:15:00.000Z",
+      "subtitle": "A Perch to Be Myself: Kogenji Ryota / Pole Dancer",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T19:49:01.356Z"
     },
     {
       "airingId": "719",

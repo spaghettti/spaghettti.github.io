@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T19:35:03.452Z</lastUpdated>
+  <lastUpdated>2020-12-25T19:50:02.832Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -51,6 +51,36 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T15:14:31.622Z</uploadedDate>
     <raw>https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ</raw>
+  </episode>
+  <episode>
+    <airingId>717</airingId>
+    <content>Sociology professor James Nolan warns of the danger to society of an unchecked technological mindset. His new book explores the complicity of doctors in covering up the dangers of the atom bomb.</content>
+    <description>Sociology professor James Nolan warns of the danger to society of an unchecked technological mindset.  His new book explores the complicity of doctors in covering up the dangers of the atom bomb.</description>
+    <endDate>2020-12-18T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/wkFEVTQR#J3-ZDMgD1lud5aDxQaB5JA</link>
+    <recordDateEnd>2020-12-18T07:30:26.608Z</recordDateEnd>
+    <recordDateStart>2020-12-18T07:14:20.017Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>35ff79eaa1ba3538e6539fa81ac8dc480836a1da15d8c843f57653b0b5c1a22d</sha256>
+    <startDate>2020-12-18T07:15:00.000Z</startDate>
+    <subtitle>Technology's Power to Shape Us: James Nolan / Professor of Sociology</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T19:48:11.985Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>718</airingId>
+    <content>Kogenji Ryota is a world champion pole dancer who was named Mr. Pole Dance 2020. How does he come up with his routines, for which audiences have described him as being like a floating white fairy?</content>
+    <description>Kogenji Ryota is a world champion pole dancer who was named Mr. Pole Dance 2020. How does he come up with his routines, for which audiences have described him as being like a floating white fairy?</description>
+    <endDate>2020-12-21T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/3FNWVRoL#ArgyZIyUY7Wk36Xsa09tcw</link>
+    <recordDateEnd>2020-12-21T07:31:06.937Z</recordDateEnd>
+    <recordDateStart>2020-12-21T07:14:20.098Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>ec3768d53f2615b19abbb14a2e1cb76dfeda529eb504de03b4ab34de921eae1d</sha256>
+    <startDate>2020-12-21T07:15:00.000Z</startDate>
+    <subtitle>A Perch to Be Myself: Kogenji Ryota / Pole Dancer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T19:49:01.356Z</uploadedDate>
   </episode>
   <episode>
     <airingId>719</airingId>

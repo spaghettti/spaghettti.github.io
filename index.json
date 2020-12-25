@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T19:35:03.617Z",
+  "lastUpdated": "2020-12-25T19:50:02.966Z",
   "series": [
     {
       "count": 2,
@@ -98,10 +98,10 @@
       "title": "DESIGN TALKS plus"
     },
     {
-      "count": 6,
+      "count": 8,
       "uniqueId": "07d8499767117509",
       "lastAiring": "2020-12-25T09:15:00.000Z",
-      "lastUpload": "2020-12-25T15:14:31.622Z",
+      "lastUpload": "2020-12-25T19:49:01.356Z",
       "seriesId": "2058",
       "title": "Direct Talk"
     },
@@ -114,10 +114,10 @@
       "title": "Doctor's Insight"
     },
     {
-      "count": 2,
+      "count": 3,
       "uniqueId": "3181d5ae26726a28",
       "lastAiring": "2020-12-08T01:30:00.000Z",
-      "lastUpload": "2020-12-25T19:33:08.913Z",
+      "lastUpload": "2020-12-25T19:49:33.557Z",
       "seriesId": "4026",
       "title": "Document 72 Hours"
     },
