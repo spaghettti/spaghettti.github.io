@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T14:45:03.320Z</lastUpdated>
+  <lastUpdated>2020-12-25T14:50:03.085Z</lastUpdated>
   <seriesId>98fe604353582b62</seriesId>
   <title>Muscles for All!</title>
   <episode>
@@ -65,6 +65,22 @@
     <title>Muscles for All! (Push-ups 2)</title>
     <uploadedDate>2020-12-24T22:12:07.519Z</uploadedDate>
     <raw>https://mega.nz/folder/m81QDLpL#-AIR0ZPNh9KTCbnqq9CX1Q</raw>
+  </episode>
+  <episode>
+    <airingId>006</airingId>
+    <content/>
+    <description>No matter your age or gender, just 5 minutes of the right workout can build strength and transform your body. "Muscles don't lie." Let's tax our muscles to the max!</description>
+    <endDate>2020-12-25T07:15:00.000Z</endDate>
+    <link>https://mega.nz/folder/IckGHSDR#FrpkNGNcB0q_GCAaKl8BsQ</link>
+    <recordDateEnd>2020-12-25T07:15:24.006Z</recordDateEnd>
+    <recordDateStart>2020-12-25T07:09:20.099Z</recordDateStart>
+    <seriesId>6029</seriesId>
+    <sha256>080578895fd505b5eb06009c537f9032d63b97d5b2e5c41c8d8857df1e298235</sha256>
+    <startDate>2020-12-25T07:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Muscles for All! (Abs 2)</title>
+    <uploadedDate>2020-12-25T14:46:01.906Z</uploadedDate>
+    <raw>https://mega.nz/folder/gM0wkSDA#eFqQNGkb_A4asle7sT0s-Q</raw>
   </episode>
   <episode>
     <airingId>010</airingId>
