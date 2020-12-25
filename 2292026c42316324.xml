@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T05:40:03.384Z</lastUpdated>
+  <lastUpdated>2020-12-25T14:45:03.287Z</lastUpdated>
   <seriesId>2292026c42316324</seriesId>
   <title>Your Japanese Kitchen mini</title>
   <episode>
@@ -154,6 +154,22 @@
     <title>Your Japanese Kitchen mini</title>
     <uploadedDate>2020-12-24T05:10:13.790Z</uploadedDate>
     <raw>https://mega.nz/folder/R98iVQwY#aAkX5OH8X8NE9K0_IIOt4w</raw>
+  </episode>
+  <episode>
+    <airingId>026</airingId>
+    <content/>
+    <description>Each edition of this five-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from "Your Japanese Kitchen". Today: Sea Bream Soboro Bento.</description>
+    <endDate>2020-12-25T06:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/7AlUHAYA#ZDhLJW09qQ9Ef5KiLd8ljQ</link>
+    <recordDateEnd>2020-12-25T06:25:28.818Z</recordDateEnd>
+    <recordDateStart>2020-12-25T06:19:20.099Z</recordDateStart>
+    <seriesId>6014</seriesId>
+    <sha256>cc5da12c8bd52afe5fb87c24756a1f34d58045af40f4af468946eb04679024b9</sha256>
+    <startDate>2020-12-25T06:20:00.000Z</startDate>
+    <subtitle/>
+    <title>Your Japanese Kitchen mini</title>
+    <uploadedDate>2020-12-25T14:44:31.646Z</uploadedDate>
+    <raw>https://mega.nz/folder/0101Wapa#pF8to5UElguC_dV1DWsuSQ</raw>
   </episode>
   <episode>
     <airingId>027</airingId>
