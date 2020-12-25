@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T15:30:03.248Z</lastUpdated>
+  <lastUpdated>2020-12-25T15:45:03.922Z</lastUpdated>
   <seriesId>cb742a1cc3a28577</seriesId>
   <title>EXTREME JAPAN</title>
   <episode>
@@ -50,5 +50,20 @@
     <title>EXTREME JAPAN</title>
     <uploadedDate>2020-12-24T04:01:00.926Z</uploadedDate>
     <raw>https://mega.nz/folder/gUkmRaAb#S3Faefli9su5KpkYDalbIA</raw>
+  </episode>
+  <episode>
+    <airingId>005</airingId>
+    <content/>
+    <description>Rugged mountains. Sheer coastal cliffs. Serene forests. Join us on a journey to Japan's wild frontiers and hidden scenic wonders... a journey to Extreme Japan. Tateyama/ Kurobe.</description>
+    <endDate>2020-12-25T03:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/ixtGXLgZ#lYnNX4AYDZbaBj1ZVRkwbQ</link>
+    <recordDateEnd>2020-12-25T03:25:25.752Z</recordDateEnd>
+    <recordDateStart>2020-12-25T03:09:20.099Z</recordDateStart>
+    <seriesId>6202</seriesId>
+    <sha256>ef243606276ce7003f9b583f5447a4a5323f179d03bcf19c4bef8bfdb90a4561</sha256>
+    <startDate>2020-12-25T03:10:00.000Z</startDate>
+    <subtitle/>
+    <title>EXTREME JAPAN</title>
+    <uploadedDate>2020-12-25T15:42:44.378Z</uploadedDate>
   </episode>
 </episodeList>
