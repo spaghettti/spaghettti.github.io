@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T14:50:02.964Z</lastUpdated>
+  <lastUpdated>2020-12-25T15:15:02.949Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -37,6 +37,21 @@
     <raw>https://mega.nz/folder/BwtRBaQT#KcqvJ_9szhiwj9Z1COgwpw</raw>
   </episode>
   <episode>
+    <airingId>670</airingId>
+    <content/>
+    <description>Dominique Chen, known for his outstanding research in the field of information studies, talks about ways to achieve well-being through digital communications.</description>
+    <endDate>2020-12-25T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/jklmXSoY#FnyxatrRqleGMaf7PsZOCQ</link>
+    <recordDateEnd>2020-12-25T09:30:26.969Z</recordDateEnd>
+    <recordDateStart>2020-12-25T09:14:22.736Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>56322568ca055662eb9040e9a7304c8b220dce82a3c97f020cb296baf76b97ca</sha256>
+    <startDate>2020-12-25T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T15:14:31.622Z</uploadedDate>
+  </episode>
+  <episode>
     <airingId>719</airingId>
     <content>Dr. Claire Wardle is on a mission to help the global public understand the dangers of disinformation and misinformation, which have proliferated with the rise of social media and now the coronavirus.</content>
     <description>Dr. Claire Wardle is on a mission to help the global public understand the dangers of disinformation and misinformation, which have proliferated with the rise of social media and now the coronavirus.</description>
@@ -51,6 +66,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-24T02:11:37.807Z</uploadedDate>
     <raw>https://mega.nz/folder/E1F2WTbT#UDhcllmO3gLVlMyGP6f-SA</raw>
+  </episode>
+  <episode>
+    <airingId>721</airingId>
+    <content>Yukari Suzuki has been working for reconciliation between the Dutch, Japanese and Indonesian. How can people transcend division through dialogue?</content>
+    <description>Yukari Suzuki has been working for reconciliation between the Dutch, Japanese and Indonesian. How can people transcend division through dialogue?</description>
+    <endDate>2020-12-25T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/WksWgIrB#CniykuQ2ukEQVFuRSE7aiQ</link>
+    <recordDateEnd>2020-12-25T07:30:27.525Z</recordDateEnd>
+    <recordDateStart>2020-12-25T07:14:20.004Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>4921c7a21ac572b3035be0ec848e358784044ab6744607b451e6538e88965537</sha256>
+    <startDate>2020-12-25T07:15:00.000Z</startDate>
+    <subtitle>Bridging the Division: Yukari Tangena Suzuki / Chairperson "The Foundation Dialogue Netherlands-Japan-Indonesia"</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T15:11:01.501Z</uploadedDate>
   </episode>
   <episode>
     <airingId>725</airingId>
