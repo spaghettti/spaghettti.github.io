@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T23:05:02.454Z</lastUpdated>
+  <lastUpdated>2020-12-25T23:10:02.696Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-24T22:20:18.161Z</uploadedDate>
     <raw>https://mega.nz/folder/BwtRBaQT#KcqvJ_9szhiwj9Z1COgwpw</raw>
+  </episode>
+  <episode>
+    <airingId>636</airingId>
+    <content/>
+    <description>Hagiuda Megumi imports and sells African roses from Kenya as part of an effort to contribute to women's employment in the region. She talks about what roses mean to her, and what drives her.</description>
+    <endDate>2020-12-15T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/fk9EHYCR#f1uB1gk_3ExNzqbPhBU__Q</link>
+    <recordDateEnd>2020-12-15T09:30:26.236Z</recordDateEnd>
+    <recordDateStart>2020-12-15T09:14:20.017Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>cc574de34cdc2e9a01647c8a81c3dc31b1dd0374a229aee0e2fa26922914856b</sha256>
+    <startDate>2020-12-15T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T23:05:39.409Z</uploadedDate>
   </episode>
   <episode>
     <airingId>642</airingId>
