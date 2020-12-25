@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T16:05:03.123Z</lastUpdated>
+  <lastUpdated>2020-12-25T16:45:03.290Z</lastUpdated>
   <seriesId>77fae6769682674d</seriesId>
   <title>Masterpieces Performed by NHK Symphony Orchestra III</title>
   <episode>
@@ -34,5 +34,20 @@
     <subtitle>Part 2 Christoph Eschenbach: Brahms, Symphony No.2 in D major op.73</subtitle>
     <title>Masterpieces Performed by NHK Symphony Orchestra III</title>
     <uploadedDate>2020-12-24T16:34:27.086Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>693</airingId>
+    <content/>
+    <description>Richard Strauss, Ein Heldenleben sym.poem op.40 Performed by NHK Symphony Orchestra. Conductor: Paavo Jarvi</description>
+    <endDate>2020-12-25T12:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/2h1DSYDT#5y90fq-JjMcASPTqxXiC2Q</link>
+    <recordDateEnd>2020-12-25T12:00:23.413Z</recordDateEnd>
+    <recordDateStart>2020-12-25T11:09:20.098Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>6604e0f1997edd9c25f5ea3ce8a53ec8732cc5406f515cdc39b512aca311ccb0</sha256>
+    <startDate>2020-12-25T11:10:00.000Z</startDate>
+    <subtitle>Part 3 Paavo Jarvi: Richard Strauss, Ein Heldenleben sym. poem op.40</subtitle>
+    <title>Masterpieces Performed by NHK Symphony Orchestra III</title>
+    <uploadedDate>2020-12-25T16:43:17.976Z</uploadedDate>
   </episode>
 </episodeList>
