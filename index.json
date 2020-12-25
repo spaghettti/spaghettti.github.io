@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T17:35:03.654Z",
+  "lastUpdated": "2020-12-25T17:40:02.760Z",
   "series": [
     {
       "count": 2,
@@ -48,6 +48,14 @@
       "lastUpload": "2020-12-25T15:57:46.156Z",
       "seriesId": "3004",
       "title": "BIZ STREAM"
+    },
+    {
+      "count": 1,
+      "uniqueId": "67100a925b586aba",
+      "lastAiring": "2020-12-24T23:30:00.000Z",
+      "lastUpload": "2020-12-25T17:35:19.404Z",
+      "seriesId": "7000",
+      "title": "CATCH JAPAN"
     },
     {
       "count": 1,
