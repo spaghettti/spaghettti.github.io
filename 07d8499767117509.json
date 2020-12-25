@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T20:55:02.808Z",
+  "lastUpdated": "2020-12-25T21:30:03.097Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -52,6 +52,36 @@
       "raw": "https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ"
     },
     {
+      "airingId": "707",
+      "content": "HARA is an illusionist who has performed live and on television in over 30 countries, winning numerous awards. We speak with him about how he strives to conjure up \"magic that only I can do.\"",
+      "description": "HARA is an illusionist who has performed live and on television in over 30 countries, winning numerous awards. We speak with him about how he strives to conjure up \"magic that only I can do.\"",
+      "endDate": "2020-11-30T07:30:00.000Z",
+      "link": "https://mega.nz/folder/N5NQmBpA#U3kYjqxkRHge0puicK5I8A",
+      "recordDateEnd": "2020-11-30T07:30:29.405Z",
+      "recordDateStart": "2020-11-30T07:14:20.018Z",
+      "seriesId": "2058",
+      "sha256": "b8d0d4d127d101a0b0412479c5534aa9d9de6ff67f07228692f7145b11a19d37",
+      "startDate": "2020-11-30T07:15:00.000Z",
+      "subtitle": "Original Magic That Captivates the World: HARA / Illusionist",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T21:27:21.769Z"
+    },
+    {
+      "airingId": "708",
+      "content": "Graphic designer Shimada Tamotsu was chosen to design the official logo for the 2025 World Exposition to be held in Osaka Prefecture, Japan. What is the concept behind the eye-catching design?",
+      "description": "Graphic designer Shimada Tamotsu was chosen to design the official logo for the 2025 World Exposition to be held in Osaka, Japan. What is the concept behind the eye-catching design?",
+      "endDate": "2020-12-01T07:30:00.000Z",
+      "link": "https://mega.nz/folder/Cxc2DZQC#pzC_ugU1xpo4tVOtFrZhSA",
+      "recordDateEnd": "2020-12-01T07:30:32.440Z",
+      "recordDateStart": "2020-12-01T07:14:20.016Z",
+      "seriesId": "2058",
+      "sha256": "76928c5448be1f5e29468f3d2b0f4309168fcdfc1d653498908b8f390d368443",
+      "startDate": "2020-12-01T07:15:00.000Z",
+      "subtitle": "Behind the Logo: Shimada Tamotsu / Graphic Designer",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T21:27:46.427Z"
+    },
+    {
       "airingId": "709",
       "content": "Londoner, Josie Naughton co-founded Help Refugees, a charity devoted to raising funds to help refugees and displaced people who are escaping war, persecution and poverty.",
       "description": "Londoner, Josie Naughton co-founded Help Refugees, a charity devoted to raising funds to help refugees and displaced people who are escaping war, persecution and poverty.",
@@ -80,6 +110,21 @@
       "subtitle": "Freeing the World of Racism: Lilian Thuram / Anti-Discrimination Advocate",
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T20:32:36.002Z"
+    },
+    {
+      "airingId": "711",
+      "content": "Producer of hit musicals discusses how Broadway theaters should reopen safely and profitably in the COVID-19 era and respond to the Black Lives Matter movement by appealing to a more diverse audience.",
+      "description": "Producer of hit musicals discusses how Broadway theaters should reopen safely and profitably in the COVID-19 era and respond to the Black Lives Matter movement by appealing to a more diverse audience.",
+      "endDate": "2020-12-02T07:30:00.000Z",
+      "link": "https://mega.nz/folder/xJdkgLIA#0tKliv_ZSg2PamOEmkdOCQ",
+      "recordDateEnd": "2020-12-02T07:30:23.223Z",
+      "recordDateStart": "2020-12-02T07:14:22.562Z",
+      "seriesId": "2058",
+      "sha256": "50e48b69be15a59c50b3bdab738d6baa7f229fe421e55593425a4f1032574f07",
+      "startDate": "2020-12-02T07:15:00.000Z",
+      "subtitle": "Bringing the Lights Back to Broadway: Yasuhiro Kawana / Theater Producer",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T21:25:03.169Z"
     },
     {
       "airingId": "712",

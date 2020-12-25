@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T20:55:02.800Z</lastUpdated>
+  <lastUpdated>2020-12-25T21:30:03.079Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -53,6 +53,36 @@
     <raw>https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ</raw>
   </episode>
   <episode>
+    <airingId>707</airingId>
+    <content>HARA is an illusionist who has performed live and on television in over 30 countries, winning numerous awards. We speak with him about how he strives to conjure up "magic that only I can do."</content>
+    <description>HARA is an illusionist who has performed live and on television in over 30 countries, winning numerous awards. We speak with him about how he strives to conjure up "magic that only I can do."</description>
+    <endDate>2020-11-30T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/N5NQmBpA#U3kYjqxkRHge0puicK5I8A</link>
+    <recordDateEnd>2020-11-30T07:30:29.405Z</recordDateEnd>
+    <recordDateStart>2020-11-30T07:14:20.018Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>b8d0d4d127d101a0b0412479c5534aa9d9de6ff67f07228692f7145b11a19d37</sha256>
+    <startDate>2020-11-30T07:15:00.000Z</startDate>
+    <subtitle>Original Magic That Captivates the World: HARA / Illusionist</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T21:27:21.769Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>708</airingId>
+    <content>Graphic designer Shimada Tamotsu was chosen to design the official logo for the 2025 World Exposition to be held in Osaka Prefecture, Japan. What is the concept behind the eye-catching design?</content>
+    <description>Graphic designer Shimada Tamotsu was chosen to design the official logo for the 2025 World Exposition to be held in Osaka, Japan. What is the concept behind the eye-catching design?</description>
+    <endDate>2020-12-01T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/Cxc2DZQC#pzC_ugU1xpo4tVOtFrZhSA</link>
+    <recordDateEnd>2020-12-01T07:30:32.440Z</recordDateEnd>
+    <recordDateStart>2020-12-01T07:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>76928c5448be1f5e29468f3d2b0f4309168fcdfc1d653498908b8f390d368443</sha256>
+    <startDate>2020-12-01T07:15:00.000Z</startDate>
+    <subtitle>Behind the Logo: Shimada Tamotsu / Graphic Designer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T21:27:46.427Z</uploadedDate>
+  </episode>
+  <episode>
     <airingId>709</airingId>
     <content>Londoner, Josie Naughton co-founded Help Refugees, a charity devoted to raising funds to help refugees and displaced people who are escaping war, persecution and poverty.</content>
     <description>Londoner, Josie Naughton co-founded Help Refugees, a charity devoted to raising funds to help refugees and displaced people who are escaping war, persecution and poverty.</description>
@@ -81,6 +111,21 @@
     <subtitle>Freeing the World of Racism: Lilian Thuram / Anti-Discrimination Advocate</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T20:32:36.002Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>711</airingId>
+    <content>Producer of hit musicals discusses how Broadway theaters should reopen safely and profitably in the COVID-19 era and respond to the Black Lives Matter movement by appealing to a more diverse audience.</content>
+    <description>Producer of hit musicals discusses how Broadway theaters should reopen safely and profitably in the COVID-19 era and respond to the Black Lives Matter movement by appealing to a more diverse audience.</description>
+    <endDate>2020-12-02T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/xJdkgLIA#0tKliv_ZSg2PamOEmkdOCQ</link>
+    <recordDateEnd>2020-12-02T07:30:23.223Z</recordDateEnd>
+    <recordDateStart>2020-12-02T07:14:22.562Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>50e48b69be15a59c50b3bdab738d6baa7f229fe421e55593425a4f1032574f07</sha256>
+    <startDate>2020-12-02T07:15:00.000Z</startDate>
+    <subtitle>Bringing the Lights Back to Broadway: Yasuhiro Kawana / Theater Producer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T21:25:03.169Z</uploadedDate>
   </episode>
   <episode>
     <airingId>712</airingId>
