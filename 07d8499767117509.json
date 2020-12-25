@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T20:10:03.353Z",
+  "lastUpdated": "2020-12-25T20:20:03.023Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -65,6 +65,36 @@
       "subtitle": "A New Style of Sit-Down Comedy: Purintei Merin / Rakugo Storyteller",
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T20:07:54.967Z"
+    },
+    {
+      "airingId": "715",
+      "content": "For former astronaut Chris Hadfield, life in self-isolation amid the pandemic is similar to that of an astronaut in space. He shares his tips on how to survive and thrive in the long-running pandemic.",
+      "description": "For former astronaut Chris Hadfield, life in self-isolation amid the pandemic is similar to that of an astronaut in space. He shares his tips on how to survive and thrive in the long-running pandemic.",
+      "endDate": "2020-12-09T07:30:00.000Z",
+      "link": "https://mega.nz/folder/e4sXTABQ#_fyr2p74iq93kuo28XaCtg",
+      "recordDateEnd": "2020-12-09T07:30:28.628Z",
+      "recordDateStart": "2020-12-09T07:14:20.011Z",
+      "seriesId": "2058",
+      "sha256": "a18554eec400c5b52b6687e246d95eaf86ba0e856630d44c26d3b4d74fd5fa39",
+      "startDate": "2020-12-09T07:15:00.000Z",
+      "subtitle": "Command Your Spaceship in Isolation: Chris Hadfield / Former Astronaut",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T20:17:32.170Z"
+    },
+    {
+      "airingId": "716",
+      "content": "In 2017, Fujiki Daichi became the first Asian countertenor to debut at the Vienna State Opera. What does he wish to convey to audiences through his dazzling performances?",
+      "description": "In 2017, Fujiki Daichi became the first Asian countertenor to debut at the Vienna State Opera. What does he wish to convey to audiences through his dazzling performances?",
+      "endDate": "2020-12-14T07:30:00.000Z",
+      "link": "https://mega.nz/folder/ggsjzSCK#9RAWd18LiUhbahM86jPVZg",
+      "recordDateEnd": "2020-12-14T07:30:30.537Z",
+      "recordDateStart": "2020-12-14T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "3ded0365a09bf3e5ba0089b45bf0ff7be9429f9177835914903e99be546fd5ea",
+      "startDate": "2020-12-14T07:15:00.000Z",
+      "subtitle": "Reaching Operatic Heights: Fujiki Daichi / Countertenor",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T20:15:07.099Z"
     },
     {
       "airingId": "717",

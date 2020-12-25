@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T20:10:03.349Z</lastUpdated>
+  <lastUpdated>2020-12-25T20:20:03.019Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -66,6 +66,36 @@
     <subtitle>A New Style of Sit-Down Comedy: Purintei Merin / Rakugo Storyteller</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T20:07:54.967Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>715</airingId>
+    <content>For former astronaut Chris Hadfield, life in self-isolation amid the pandemic is similar to that of an astronaut in space. He shares his tips on how to survive and thrive in the long-running pandemic.</content>
+    <description>For former astronaut Chris Hadfield, life in self-isolation amid the pandemic is similar to that of an astronaut in space. He shares his tips on how to survive and thrive in the long-running pandemic.</description>
+    <endDate>2020-12-09T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/e4sXTABQ#_fyr2p74iq93kuo28XaCtg</link>
+    <recordDateEnd>2020-12-09T07:30:28.628Z</recordDateEnd>
+    <recordDateStart>2020-12-09T07:14:20.011Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>a18554eec400c5b52b6687e246d95eaf86ba0e856630d44c26d3b4d74fd5fa39</sha256>
+    <startDate>2020-12-09T07:15:00.000Z</startDate>
+    <subtitle>Command Your Spaceship in Isolation: Chris Hadfield / Former Astronaut</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T20:17:32.170Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>716</airingId>
+    <content>In 2017, Fujiki Daichi became the first Asian countertenor to debut at the Vienna State Opera. What does he wish to convey to audiences through his dazzling performances?</content>
+    <description>In 2017, Fujiki Daichi became the first Asian countertenor to debut at the Vienna State Opera. What does he wish to convey to audiences through his dazzling performances?</description>
+    <endDate>2020-12-14T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/ggsjzSCK#9RAWd18LiUhbahM86jPVZg</link>
+    <recordDateEnd>2020-12-14T07:30:30.537Z</recordDateEnd>
+    <recordDateStart>2020-12-14T07:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>3ded0365a09bf3e5ba0089b45bf0ff7be9429f9177835914903e99be546fd5ea</sha256>
+    <startDate>2020-12-14T07:15:00.000Z</startDate>
+    <subtitle>Reaching Operatic Heights: Fujiki Daichi / Countertenor</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T20:15:07.099Z</uploadedDate>
   </episode>
   <episode>
     <airingId>717</airingId>
