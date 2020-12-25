@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T16:55:02.728Z",
+  "lastUpdated": "2020-12-25T17:20:02.909Z",
   "series": [
     {
       "count": 2,
@@ -266,10 +266,10 @@
       "title": "J-MELO"
     },
     {
-      "count": 27,
+      "count": 28,
       "uniqueId": "afe5ace13e6c293d",
       "lastAiring": "2020-12-22T23:25:00.000Z",
-      "lastUpload": "2020-12-25T02:24:22.347Z",
+      "lastUpload": "2020-12-25T17:17:52.592Z",
       "seriesId": "6023",
       "title": "JAPAN FROM ABOVE: UP CLOSE"
     },
@@ -322,10 +322,10 @@
       "title": "JAPN SPORTSCOPE \"KARATE\""
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "b7a2bc9b23a9c5ee",
       "lastAiring": "2020-12-21T23:30:00.000Z",
-      "lastUpload": "2020-12-25T00:16:03.418Z",
+      "lastUpload": "2020-12-25T17:18:40.646Z",
       "seriesId": "2007",
       "title": "Journeys in Japan"
     },

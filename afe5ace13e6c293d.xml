@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T16:55:02.685Z</lastUpdated>
+  <lastUpdated>2020-12-25T17:20:02.819Z</lastUpdated>
   <seriesId>afe5ace13e6c293d</seriesId>
   <title>JAPAN FROM ABOVE: UP CLOSE</title>
   <episode>
@@ -303,6 +303,21 @@
     <subtitle/>
     <title>JAPAN FROM ABOVE: UP CLOSE</title>
     <uploadedDate>2020-12-25T02:03:45.942Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>022</airingId>
+    <content/>
+    <description>This program takes you on an aerial journey across 21st century Japan. Enjoy the bird's-eye view of unique landscapes as well as intimate portraits of the people who inhabit the archipelago.</description>
+    <endDate>2020-12-20T23:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/FEAlXCKR#mQFRgVlTYGlo0aenmfiCsA</link>
+    <recordDateEnd>2020-12-20T23:31:08.290Z</recordDateEnd>
+    <recordDateStart>2020-12-20T23:24:20.100Z</recordDateStart>
+    <seriesId>6023</seriesId>
+    <sha256>697014c276a64483c04b79c24a25d2da93c7f863ab75d7011c96f83f760ee301</sha256>
+    <startDate>2020-12-20T23:25:00.000Z</startDate>
+    <subtitle/>
+    <title>JAPAN FROM ABOVE: UP CLOSE</title>
+    <uploadedDate>2020-12-25T17:17:52.592Z</uploadedDate>
   </episode>
   <episode>
     <airingId>023</airingId>

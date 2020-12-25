@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T16:55:02.553Z",
+  "lastUpdated": "2020-12-25T17:20:02.647Z",
   "seriesId": "2007",
   "title": "Journeys in Japan",
   "episodes": [
@@ -62,6 +62,21 @@
       "subtitle": "Ashio: Memory of the Forest",
       "title": "Journeys in Japan",
       "uploadedDate": "2020-12-24T23:51:08.704Z"
+    },
+    {
+      "airingId": "427",
+      "content": "The Michinoku Coastal Trail stretches more than 1,000 kilometers along the Pacific coast, crossing 4 prefectures from Aomori in the north, to Fukushima in the south. Canadian actor, Kyle Card hikes a length of untamed nature in Miyagi Prefecture, starting from the northern border with Iwate Prefecture to Kesennuma and Onagawa. He savors the rugged landscape and sees how locals are moving forward and recovering from the 2011 Great East Japan Earthquake.",
+      "description": "Kyle Card once again picks up his backpack to walk a stretch of the Michinoku Trail, which follows towns impacted by the 2011 earthquake and tsunami, to meet people making a brave comeback.",
+      "endDate": "2020-12-15T00:00:00.000Z",
+      "link": "https://mega.nz/folder/l4dXzCIa#sZSbP5yuhFQPeZGgAJ8NWg",
+      "recordDateEnd": "2020-12-15T00:00:26.672Z",
+      "recordDateStart": "2020-12-14T23:29:20.006Z",
+      "seriesId": "2007",
+      "sha256": "54c67e538dc22e48e5315635317ac71febdbaf1a35ea8eae58018a4953780c26",
+      "startDate": "2020-12-14T23:30:00.000Z",
+      "subtitle": "Miyagi: On the Trail to Recovery",
+      "title": "Journeys in Japan",
+      "uploadedDate": "2020-12-25T17:18:40.646Z"
     },
     {
       "airingId": "428",
