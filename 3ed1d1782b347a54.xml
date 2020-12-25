@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T15:45:03.815Z</lastUpdated>
+  <lastUpdated>2020-12-25T16:00:03.244Z</lastUpdated>
   <seriesId>3ed1d1782b347a54</seriesId>
   <title>Fresh Eyes on Japan</title>
   <episode>
@@ -64,5 +64,20 @@
     <subtitle>From Toyama to Tanzania: Oki-gusuri Medicine Peddlers Cross the World</subtitle>
     <title>Fresh Eyes on Japan</title>
     <uploadedDate>2020-12-24T04:18:17.411Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>009</airingId>
+    <content/>
+    <description>Russian reporter Anastasia Monakova found a similarity between the Japanese story of a faithful dog "Hachi" and a story in Russia. She visits Odate in Akita, the hometown of Hachi and meets a breeder.</description>
+    <endDate>2020-12-25T01:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/2V02UQSJ#XpazCsi41kWi_mg5xPl8Xg</link>
+    <recordDateEnd>2020-12-25T01:30:25.383Z</recordDateEnd>
+    <recordDateStart>2020-12-25T01:19:23.002Z</recordDateStart>
+    <seriesId>2076</seriesId>
+    <sha256>815f53f20aa6d053d2fce3edb7f218b44b6c6a7ab7d8383b6b58521cc736bfd1</sha256>
+    <startDate>2020-12-25T01:20:00.000Z</startDate>
+    <subtitle>Faithful Dogs, True Friends</subtitle>
+    <title>Fresh Eyes on Japan</title>
+    <uploadedDate>2020-12-25T15:58:18.235Z</uploadedDate>
   </episode>
 </episodeList>
