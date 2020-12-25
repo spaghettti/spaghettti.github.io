@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T20:20:03.019Z</lastUpdated>
+  <lastUpdated>2020-12-25T20:35:02.984Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -51,6 +51,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T15:14:31.622Z</uploadedDate>
     <raw>https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ</raw>
+  </episode>
+  <episode>
+    <airingId>710</airingId>
+    <content>Lilian Thuram, a former football star who contributed to the victory of France in FIFA World Cup 1998, has fought with his foundation against racism through books, exhibitions and workshops since 2008.</content>
+    <description>Lilian Thuram, former football star who contributed the victory of France in FIFA World Cup 1998, has fought with his foundation against racism through books, exhibitions and workshops since 2008.</description>
+    <endDate>2020-11-26T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/KAchUYiQ#gF9ZRHuLqpwAEk-1g3aGnQ</link>
+    <recordDateEnd>2020-11-26T07:30:30.504Z</recordDateEnd>
+    <recordDateStart>2020-11-26T07:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>d76cf324471d8f36da0b7da37a449ef5f0bb179cb01819463c908ee383a5922b</sha256>
+    <startDate>2020-11-26T07:15:00.000Z</startDate>
+    <subtitle>Freeing the World of Racism: Lilian Thuram / Anti-Discrimination Advocate</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T20:32:36.002Z</uploadedDate>
   </episode>
   <episode>
     <airingId>714</airingId>

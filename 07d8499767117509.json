@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T20:20:03.023Z",
+  "lastUpdated": "2020-12-25T20:35:02.989Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T15:14:31.622Z",
       "raw": "https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ"
+    },
+    {
+      "airingId": "710",
+      "content": "Lilian Thuram, a former football star who contributed to the victory of France in FIFA World Cup 1998, has fought with his foundation against racism through books, exhibitions and workshops since 2008.",
+      "description": "Lilian Thuram, former football star who contributed the victory of France in FIFA World Cup 1998, has fought with his foundation against racism through books, exhibitions and workshops since 2008.",
+      "endDate": "2020-11-26T07:30:00.000Z",
+      "link": "https://mega.nz/folder/KAchUYiQ#gF9ZRHuLqpwAEk-1g3aGnQ",
+      "recordDateEnd": "2020-11-26T07:30:30.504Z",
+      "recordDateStart": "2020-11-26T07:14:20.016Z",
+      "seriesId": "2058",
+      "sha256": "d76cf324471d8f36da0b7da37a449ef5f0bb179cb01819463c908ee383a5922b",
+      "startDate": "2020-11-26T07:15:00.000Z",
+      "subtitle": "Freeing the World of Racism: Lilian Thuram / Anti-Discrimination Advocate",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T20:32:36.002Z"
     },
     {
       "airingId": "714",
