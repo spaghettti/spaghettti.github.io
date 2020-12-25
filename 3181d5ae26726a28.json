@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T19:50:02.894Z",
+  "lastUpdated": "2020-12-25T19:55:03.654Z",
   "seriesId": "4026",
   "title": "Document 72 Hours",
   "episodes": [
@@ -17,6 +17,21 @@
       "subtitle": "Flipping Backward, Looking Forward",
       "title": "Document 72 Hours",
       "uploadedDate": "2020-12-25T19:33:08.913Z"
+    },
+    {
+      "airingId": "130",
+      "content": "Runners have 72 hours to complete a 400-km \"Survival Run\" around the main island of Okinawa Prefecture, southern Japan. The 68 participants from across Japan complain that the race is exhausting and torturous, yet they continue to push themselves, day and night. Some say that running allows them to forget all their worries and stress, others say they enjoy increasing their distance. We spent 3 days chasing after them to find out what motivates them to continue running.",
+      "description": "In a 400K race in Okinawa Pref., participants keep running day and night to finish within the 72-hour time limit. We chased after them to find out why they push themselves to the brink of exhaustion.",
+      "endDate": "2020-11-24T02:00:00.000Z",
+      "link": "https://mega.nz/folder/hAIAzRjL#DUVWD3HPpyEJSMxus4NMAQ",
+      "recordDateEnd": "2020-11-24T02:00:27.916Z",
+      "recordDateStart": "2020-11-24T01:29:20.101Z",
+      "seriesId": "4026",
+      "sha256": "e4ea568d8807cc84d2e810dc4fd84fb42fae8f517bf43803cc19e5cca5012fb1",
+      "startDate": "2020-11-24T01:30:00.000Z",
+      "subtitle": "A 400K \"Survival Run\" in Okinawa",
+      "title": "Document 72 Hours",
+      "uploadedDate": "2020-12-25T19:51:21.780Z"
     },
     {
       "airingId": "131",
