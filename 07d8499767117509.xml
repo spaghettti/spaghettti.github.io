@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T22:25:02.920Z</lastUpdated>
+  <lastUpdated>2020-12-25T22:45:03.542Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -66,6 +66,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T15:14:31.622Z</uploadedDate>
     <raw>https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ</raw>
+  </episode>
+  <episode>
+    <airingId>677</airingId>
+    <content>Saengduean Chailert, the founder of Elephant Nature Park in northern Thailand, has devoted her life to caring for Asian elephants that were wounded while made to work as performance animals or in logging.</content>
+    <description>Saengduean Chailert, founder of Elephant Nature Park in northern Thailand, has devoted her life to caring for Asian elephants that were wounded while made to work as performance animals or in logging.</description>
+    <endDate>2020-12-03T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/j0tnAKJY#iJdVd8VaEUq_JEouAHdrIA</link>
+    <recordDateEnd>2020-12-03T07:30:27.547Z</recordDateEnd>
+    <recordDateStart>2020-12-03T07:14:20.015Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>60aaf4d8f4d8e58309d5ccb873daf4a75d7b0dbe04d5d988f491562a27c9486b</sha256>
+    <startDate>2020-12-03T07:15:00.000Z</startDate>
+    <subtitle>All Life on Earth Is Equal: Saengduean Chailert / Founder of Save Elephant Foundation, Director of Elephant Nature Park</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T22:44:22.222Z</uploadedDate>
   </episode>
   <episode>
     <airingId>680</airingId>
