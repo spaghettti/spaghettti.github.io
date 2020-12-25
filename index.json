@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T05:35:03.635Z",
+  "lastUpdated": "2020-12-25T05:40:03.445Z",
   "series": [
     {
       "count": 2,
@@ -96,6 +96,14 @@
       "lastUpload": "2020-12-25T05:04:39.662Z",
       "seriesId": "3004",
       "title": "Easy Travel Japanese"
+    },
+    {
+      "count": 1,
+      "uniqueId": "36ed2478bfbb56ea",
+      "lastAiring": "2020-12-17T23:30:00.000Z",
+      "lastUpload": "2020-12-25T05:36:46.693Z",
+      "seriesId": "7000",
+      "title": "Explore Japan"
     },
     {
       "count": 3,
