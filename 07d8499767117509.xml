@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T20:35:02.984Z</lastUpdated>
+  <lastUpdated>2020-12-25T20:45:03.438Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -66,6 +66,21 @@
     <subtitle>Freeing the World of Racism: Lilian Thuram / Anti-Discrimination Advocate</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T20:32:36.002Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>713</airingId>
+    <content>The bicycles painstakingly crafted by Konno Shinichi offer superior technology and design. Japanese cyclists love them, and they've won multiple awards at international trade shows.</content>
+    <description>The bicycles painstakingly crafted by Konno Shinichi offer superior technology and design. Japanese cyclists love them, and they've won multiple awards at international trade shows.</description>
+    <endDate>2020-12-07T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/dM4nDYSK#vroBLrs3izKHNURaYQuYig</link>
+    <recordDateEnd>2020-12-07T07:30:29.740Z</recordDateEnd>
+    <recordDateStart>2020-12-07T07:14:20.015Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>a756a6b904afc32ff5cde408dcedff1eb86e0665b0387fd4457702622f90c64d</sha256>
+    <startDate>2020-12-07T07:15:00.000Z</startDate>
+    <subtitle>Ideal Framing: Konno Shinichi / Bicycle Framebuilder</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T20:41:56.395Z</uploadedDate>
   </episode>
   <episode>
     <airingId>714</airingId>
