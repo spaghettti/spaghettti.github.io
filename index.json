@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T18:15:03.511Z",
+  "lastUpdated": "2020-12-25T18:20:03.408Z",
   "series": [
     {
       "count": 2,
@@ -104,6 +104,14 @@
       "lastUpload": "2020-12-25T15:14:31.622Z",
       "seriesId": "2058",
       "title": "Direct Talk"
+    },
+    {
+      "count": 1,
+      "uniqueId": "5d6cd359adade3e0",
+      "lastAiring": "2020-12-06T11:50:00.000Z",
+      "lastUpload": "2020-12-25T18:16:20.097Z",
+      "seriesId": "2075",
+      "title": "Doki Doki! NHK WORLD-JAPAN"
     },
     {
       "count": 1,
