@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-25T18:20:03.402Z</lastUpdated>
+  <lastUpdated>2020-12-25T18:25:03.448Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -107,10 +107,10 @@
     <title>Direct Talk</title>
   </series>
   <series>
-    <count>1</count>
+    <count>6</count>
     <uniqueId>5d6cd359adade3e0</uniqueId>
-    <lastAiring>2020-12-06T11:50:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T18:16:20.097Z</lastUpload>
+    <lastAiring>2020-12-20T11:50:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T18:24:42.184Z</lastUpload>
     <seriesId>2075</seriesId>
     <title>Doki Doki! NHK WORLD-JAPAN</title>
   </series>

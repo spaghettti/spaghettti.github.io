@@ -1,8 +1,53 @@
 {
-  "lastUpdated": "2020-12-25T18:20:03.288Z",
+  "lastUpdated": "2020-12-25T18:25:03.352Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
+    {
+      "airingId": "063",
+      "content": "",
+      "description": "This time we introduce \"Kawaii International,\" which shows various \"home made kawaii goods\" such as hair clips with miniature dolls, appetizing confectionery-shaped soaps. All can be made at home.",
+      "endDate": "2020-11-22T11:55:00.000Z",
+      "link": "https://mega.nz/folder/Xg1WkDzR#GyzJ_92UKNomjI6dgI9yEg",
+      "recordDateEnd": "2020-11-22T11:55:27.666Z",
+      "recordDateStart": "2020-11-22T11:49:20.100Z",
+      "seriesId": "2075",
+      "sha256": "06f18ea65ebbd983a13eb35518e7747be77ef215d4099b69abcb5e532fb6e14d",
+      "startDate": "2020-11-22T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2020-12-25T18:22:36.498Z"
+    },
+    {
+      "airingId": "071",
+      "content": "",
+      "description": "This time we introduce \"TOKYO EYE 2020.\" It shows the activity of Hinohara Village, Tokyo, trying to recover from COVID-19 shock. They make mask cases and perfume with Hinoki cypress in their village.",
+      "endDate": "2020-11-15T11:55:00.000Z",
+      "link": "https://mega.nz/folder/MMhQBLTS#EEGHMNfKwUO5A8arHzgibw",
+      "recordDateEnd": "2020-11-15T11:55:26.710Z",
+      "recordDateStart": "2020-11-15T11:49:20.006Z",
+      "seriesId": "2075",
+      "sha256": "8b0257dd60389f7b7f73670db07b02d190dde152f4fdb123007fd579e6879669",
+      "startDate": "2020-11-15T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2020-12-25T18:24:08.889Z"
+    },
+    {
+      "airingId": "072",
+      "content": "",
+      "description": "This time we introduce \"3-Day Dare*Devils.\" It shows the experience of a Chinese social media icon learning the job of Yumori, hot spring maintenance expert. He struggles in snow to master the job.",
+      "endDate": "2020-11-29T11:55:00.000Z",
+      "link": "https://mega.nz/folder/twk0mDzS#yBv2xy-NBiZNkdG64eaMTg",
+      "recordDateEnd": "2020-11-29T11:55:28.474Z",
+      "recordDateStart": "2020-11-29T11:49:20.099Z",
+      "seriesId": "2075",
+      "sha256": "30bc610313e82999cdd16b26b76ca0ecbad13547c0d52f9cfc50abeda8ad5250",
+      "startDate": "2020-11-29T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2020-12-25T18:24:25.845Z"
+    },
     {
       "airingId": "073",
       "content": "",
@@ -17,6 +62,36 @@
       "subtitle": "",
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2020-12-25T18:16:20.097Z"
+    },
+    {
+      "airingId": "074",
+      "content": "",
+      "description": "This time we introduce \"Castle Quest.\" It shows the defence ability of Hikone Castle, the national treasure. It has a bridge which forces the enemy detour and the wall which endures the cannon balls.",
+      "endDate": "2020-12-13T11:55:00.000Z",
+      "link": "https://mega.nz/folder/kAlGzLRR#53SsiLC8_D7xUZWPySeW_Q",
+      "recordDateEnd": "2020-12-13T11:55:25.910Z",
+      "recordDateStart": "2020-12-13T11:49:20.101Z",
+      "seriesId": "2075",
+      "sha256": "1c7f35dc58f79df2183e1b81cb2f5d4185d894349238ebe107b2805828c625f5",
+      "startDate": "2020-12-13T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2020-12-25T18:20:04.977Z"
+    },
+    {
+      "airingId": "075",
+      "content": "",
+      "description": "This time we introduce \"Kawaii International\" It shows. \"The world of sneakers,\" such as a vintage of \\800,000 making a buzz on social media and a cleaning service making old ones brand-new-like.",
+      "endDate": "2020-12-20T11:55:00.000Z",
+      "link": "https://mega.nz/folder/7okwATRL#WMHTFNwA2S2oYqH1-BdSIg",
+      "recordDateEnd": "2020-12-20T11:56:01.892Z",
+      "recordDateStart": "2020-12-20T11:49:20.093Z",
+      "seriesId": "2075",
+      "sha256": "f73f5b622ade02b4b3283432cc967919857c65a5cc6a0f6768d38d0bee6aaf0e",
+      "startDate": "2020-12-20T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2020-12-25T18:24:42.184Z"
     }
   ]
 }
