@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T05:30:03.687Z",
+  "lastUpdated": "2020-12-25T05:35:03.635Z",
   "series": [
     {
       "count": 2,
@@ -82,10 +82,10 @@
       "title": "Easy Japanese"
     },
     {
-      "count": 3,
+      "count": 5,
       "uniqueId": "ae19acce46550858",
       "lastAiring": "2020-12-14T00:45:00.000Z",
-      "lastUpload": "2020-12-25T05:25:46.141Z",
+      "lastUpload": "2020-12-25T05:34:58.349Z",
       "seriesId": "2078",
       "title": "Easy Japanese for Work"
     },
@@ -104,6 +104,14 @@
       "lastUpload": "2020-12-25T05:08:07.228Z",
       "seriesId": "6202",
       "title": "EXTREME JAPAN"
+    },
+    {
+      "count": 2,
+      "uniqueId": "c2cfe904ce7ecfa5",
+      "lastAiring": "2020-12-20T01:10:00.000Z",
+      "lastUpload": "2020-12-25T05:35:01.857Z",
+      "seriesId": "2043",
+      "title": "Face To Face"
     },
     {
       "count": 1,

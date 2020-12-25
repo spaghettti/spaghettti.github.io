@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-25T05:30:03.682Z</lastUpdated>
+  <lastUpdated>2020-12-25T05:35:03.631Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -83,10 +83,10 @@
     <title>Easy Japanese</title>
   </series>
   <series>
-    <count>3</count>
+    <count>5</count>
     <uniqueId>ae19acce46550858</uniqueId>
     <lastAiring>2020-12-14T00:45:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T05:25:46.141Z</lastUpload>
+    <lastUpload>2020-12-25T05:34:58.349Z</lastUpload>
     <seriesId>2078</seriesId>
     <title>Easy Japanese for Work</title>
   </series>
@@ -105,6 +105,14 @@
     <lastUpload>2020-12-25T05:08:07.228Z</lastUpload>
     <seriesId>6202</seriesId>
     <title>EXTREME JAPAN</title>
+  </series>
+  <series>
+    <count>2</count>
+    <uniqueId>c2cfe904ce7ecfa5</uniqueId>
+    <lastAiring>2020-12-20T01:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T05:35:01.857Z</lastUpload>
+    <seriesId>2043</seriesId>
+    <title>Face To Face</title>
   </series>
   <series>
     <count>1</count>

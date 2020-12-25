@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T05:30:03.553Z</lastUpdated>
+  <lastUpdated>2020-12-25T05:35:03.532Z</lastUpdated>
   <seriesId>ae19acce46550858</seriesId>
   <title>Easy Japanese for Work</title>
+  <episode>
+    <airingId>024</airingId>
+    <content>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</content>
+    <description>Today: adjusting a schedule with a client. Lan Cheng, from China, works in Gunma Prefecture at a company that makes pizza ovens. He'd like to learn how to better communicate with customers.</description>
+    <endDate>2020-11-23T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/p8UVWIYL#qFQToMGlI8176rla9AwoxQ</link>
+    <recordDateEnd>2020-11-23T01:00:29.902Z</recordDateEnd>
+    <recordDateStart>2020-11-23T00:44:20.001Z</recordDateStart>
+    <seriesId>2078</seriesId>
+    <sha256>ed2c9722e36d6582655fa7ffd27243513d821a7a05b95b68737e6607d1a11d6e</sha256>
+    <startDate>2020-11-23T00:45:00.000Z</startDate>
+    <subtitle>#24 Adjusting a schedule with a client</subtitle>
+    <title>Easy Japanese for Work</title>
+    <uploadedDate>2020-12-25T05:34:58.349Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>025</airingId>
     <content>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</content>
@@ -18,6 +33,21 @@
     <subtitle>#25 Making small talk with a client</subtitle>
     <title>Easy Japanese for Work</title>
     <uploadedDate>2020-12-25T05:25:46.141Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>026</airingId>
+    <content>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</content>
+    <description>Today: cheering up a junior employee who is feeling down. Nyamjav Baljinnyam, from Mongolia, works at a car maintenance company. He takes on a roleplay challenge to help improve his Japanese skills.</description>
+    <endDate>2020-11-16T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/P9FjXChS#HkkSlA9pL8eqQ8cULmYmLw</link>
+    <recordDateEnd>2020-11-16T01:00:27.342Z</recordDateEnd>
+    <recordDateStart>2020-11-16T00:44:21.005Z</recordDateStart>
+    <seriesId>2078</seriesId>
+    <sha256>36152ed7cfe25ed2881da0040f419c5fd2f92610740538a642bb48d467e36af9</sha256>
+    <startDate>2020-11-16T00:45:00.000Z</startDate>
+    <subtitle>#26 Cheering up a junior employee who is feeling down</subtitle>
+    <title>Easy Japanese for Work</title>
+    <uploadedDate>2020-12-25T05:30:23.343Z</uploadedDate>
   </episode>
   <episode>
     <airingId>027</airingId>

@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2020-12-25T05:30:03.555Z",
+  "lastUpdated": "2020-12-25T05:35:03.533Z",
   "seriesId": "2078",
   "title": "Easy Japanese for Work",
   "episodes": [
+    {
+      "airingId": "024",
+      "content": "Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.",
+      "description": "Today: adjusting a schedule with a client. Lan Cheng, from China, works in Gunma Prefecture at a company that makes pizza ovens. He'd like to learn how to better communicate with customers.",
+      "endDate": "2020-11-23T01:00:00.000Z",
+      "link": "https://mega.nz/folder/p8UVWIYL#qFQToMGlI8176rla9AwoxQ",
+      "recordDateEnd": "2020-11-23T01:00:29.902Z",
+      "recordDateStart": "2020-11-23T00:44:20.001Z",
+      "seriesId": "2078",
+      "sha256": "ed2c9722e36d6582655fa7ffd27243513d821a7a05b95b68737e6607d1a11d6e",
+      "startDate": "2020-11-23T00:45:00.000Z",
+      "subtitle": "#24 Adjusting a schedule with a client",
+      "title": "Easy Japanese for Work",
+      "uploadedDate": "2020-12-25T05:34:58.349Z"
+    },
     {
       "airingId": "025",
       "content": "Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.",
@@ -17,6 +32,21 @@
       "subtitle": "#25 Making small talk with a client",
       "title": "Easy Japanese for Work",
       "uploadedDate": "2020-12-25T05:25:46.141Z"
+    },
+    {
+      "airingId": "026",
+      "content": "Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.",
+      "description": "Today: cheering up a junior employee who is feeling down. Nyamjav Baljinnyam, from Mongolia, works at a car maintenance company. He takes on a roleplay challenge to help improve his Japanese skills.",
+      "endDate": "2020-11-16T01:00:00.000Z",
+      "link": "https://mega.nz/folder/P9FjXChS#HkkSlA9pL8eqQ8cULmYmLw",
+      "recordDateEnd": "2020-11-16T01:00:27.342Z",
+      "recordDateStart": "2020-11-16T00:44:21.005Z",
+      "seriesId": "2078",
+      "sha256": "36152ed7cfe25ed2881da0040f419c5fd2f92610740538a642bb48d467e36af9",
+      "startDate": "2020-11-16T00:45:00.000Z",
+      "subtitle": "#26 Cheering up a junior employee who is feeling down",
+      "title": "Easy Japanese for Work",
+      "uploadedDate": "2020-12-25T05:30:23.343Z"
     },
     {
       "airingId": "027",
