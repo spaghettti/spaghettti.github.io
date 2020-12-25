@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2020-12-25T05:25:03.376Z",
+  "lastUpdated": "2020-12-25T05:30:03.638Z",
   "seriesId": "6022",
   "title": "Easy Japanese",
   "episodes": [
+    {
+      "airingId": "033",
+      "content": "",
+      "description": "#33 How long does it take to get in? / To ask how long something takes, say \"donokurai\" (how long and how much), then a verb like \"machimasu\" (to wait), and finally add \"ka.\"",
+      "endDate": "2020-11-28T05:00:00.000Z",
+      "link": "https://mega.nz/folder/F0FzWYwb#FDnX0KrQMlUa5Dg4eZrUmA",
+      "recordDateEnd": "2020-11-28T05:00:25.967Z",
+      "recordDateStart": "2020-11-28T04:54:20.066Z",
+      "seriesId": "6022",
+      "sha256": "e8da95659672bceb61ff88917c415d6fae45038ad778e1a0d57a7f3ba3045ea5",
+      "startDate": "2020-11-28T04:55:00.000Z",
+      "subtitle": "",
+      "title": "Easy Japanese",
+      "uploadedDate": "2020-12-25T05:28:27.039Z"
+    },
+    {
+      "airingId": "034",
+      "content": "",
+      "description": "#34 I've read it. / To explain you've done something before, change a verb to past tense (for example, \"yomu\"--to read--to \"yonda\"--to have read), then add \"koto arimasu.\"",
+      "endDate": "2020-12-05T05:00:00.000Z",
+      "link": "https://mega.nz/folder/C0dBXaBZ#jcmsiutgsEUCdlRQsp2LEw",
+      "recordDateEnd": "2020-12-05T04:59:20.810Z",
+      "recordDateStart": "2020-12-05T04:54:22.534Z",
+      "seriesId": "6022",
+      "sha256": "c00651e232aa52b84cfad66cad6b0377db2dc2a8515fe0f425a6efc70da92530",
+      "startDate": "2020-12-05T04:55:00.000Z",
+      "subtitle": "",
+      "title": "Easy Japanese",
+      "uploadedDate": "2020-12-25T05:26:57.663Z"
+    },
     {
       "airingId": "035",
       "content": "",

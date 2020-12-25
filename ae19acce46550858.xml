@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T05:25:03.317Z</lastUpdated>
+  <lastUpdated>2020-12-25T05:30:03.553Z</lastUpdated>
   <seriesId>ae19acce46550858</seriesId>
   <title>Easy Japanese for Work</title>
+  <episode>
+    <airingId>025</airingId>
+    <content>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</content>
+    <description>Today: making small talk with a client. Raphael Marso, from Germany, works at a company that makes manufacturing equipment. He takes on a roleplay challenge to help improve his Japanese skills.</description>
+    <endDate>2020-11-30T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/MRYTjAxD#A2piyxQA10qrtoTvUOyBJQ</link>
+    <recordDateEnd>2020-11-30T01:00:30.755Z</recordDateEnd>
+    <recordDateStart>2020-11-30T00:44:20.004Z</recordDateStart>
+    <seriesId>2078</seriesId>
+    <sha256>a65ff90c858aeff5e0d39f184f4d986eb827e41a9d578405c423801def79f7b7</sha256>
+    <startDate>2020-11-30T00:45:00.000Z</startDate>
+    <subtitle>#25 Making small talk with a client</subtitle>
+    <title>Easy Japanese for Work</title>
+    <uploadedDate>2020-12-25T05:25:46.141Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>027</airingId>
     <content>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</content>

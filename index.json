@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T05:25:03.427Z",
+  "lastUpdated": "2020-12-25T05:30:03.687Z",
   "series": [
     {
       "count": 2,
@@ -74,18 +74,18 @@
       "title": "Direct Talk"
     },
     {
-      "count": 2,
+      "count": 4,
       "uniqueId": "b60ca341c528e0e4",
       "lastAiring": "2020-12-20T16:47:00.000Z",
-      "lastUpload": "2020-12-25T05:24:52.920Z",
+      "lastUpload": "2020-12-25T05:28:27.039Z",
       "seriesId": "6022",
       "title": "Easy Japanese"
     },
     {
-      "count": 2,
+      "count": 3,
       "uniqueId": "ae19acce46550858",
       "lastAiring": "2020-12-14T00:45:00.000Z",
-      "lastUpload": "2020-12-25T05:24:39.951Z",
+      "lastUpload": "2020-12-25T05:25:46.141Z",
       "seriesId": "2078",
       "title": "Easy Japanese for Work"
     },

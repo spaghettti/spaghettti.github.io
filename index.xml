@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-25T05:25:03.421Z</lastUpdated>
+  <lastUpdated>2020-12-25T05:30:03.682Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -75,18 +75,18 @@
     <title>Direct Talk</title>
   </series>
   <series>
-    <count>2</count>
+    <count>4</count>
     <uniqueId>b60ca341c528e0e4</uniqueId>
     <lastAiring>2020-12-20T16:47:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T05:24:52.920Z</lastUpload>
+    <lastUpload>2020-12-25T05:28:27.039Z</lastUpload>
     <seriesId>6022</seriesId>
     <title>Easy Japanese</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>ae19acce46550858</uniqueId>
     <lastAiring>2020-12-14T00:45:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T05:24:39.951Z</lastUpload>
+    <lastUpload>2020-12-25T05:25:46.141Z</lastUpload>
     <seriesId>2078</seriesId>
     <title>Easy Japanese for Work</title>
   </series>
