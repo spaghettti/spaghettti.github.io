@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T21:30:03.097Z",
+  "lastUpdated": "2020-12-25T21:35:02.586Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T15:14:31.622Z",
       "raw": "https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ"
+    },
+    {
+      "airingId": "706",
+      "content": "Lee Ayu Chuepa, founder of Akha Ama Coffee and a member of Thailand's Akha ethnic minority, provides high-quality coffee to global consumers while protecting the livelihood of his community's farmers.",
+      "description": "Lee Ayu Chuepa, founder of Akha Ama Coffee and a member of Thailand's Akha ethnic minority, provides high-quality coffee to global consumers while protecting the livelihood of his community's farmers.",
+      "endDate": "2020-11-27T07:30:00.000Z",
+      "link": "https://mega.nz/folder/701QQYQT#OOErwLm-cSxifnBJVasPoA",
+      "recordDateEnd": "2020-11-27T07:30:31.303Z",
+      "recordDateStart": "2020-11-27T07:14:20.012Z",
+      "seriesId": "2058",
+      "sha256": "bc9746cb8b9d4540f6f0a6ec42908a3658c76aad06dad3e564235e01e7cb14d5",
+      "startDate": "2020-11-27T07:15:00.000Z",
+      "subtitle": "Enriching People's Lives With Coffee: Lee Ayu Chuepa / Founder of Akha Ama Coffee, Social Entrepreneur",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T21:31:16.082Z"
     },
     {
       "airingId": "707",
