@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T21:40:03.029Z</lastUpdated>
+  <lastUpdated>2020-12-25T22:05:03.028Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -81,6 +81,21 @@
     <subtitle>Communicating With Music: Max Richter / Composer</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T21:38:24.040Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>703</airingId>
+    <content>Endo Ken is developing next-generation artificial limbs, including the world's best sports prosthetic and a robotic leg that reduces strain for those with disabilities. What is his vision for society?</content>
+    <description>Endo Ken is developing next-generation artificial limbs, including the world's best sports prosthetic and a robotic leg that reduces strain for those with disabilities. What is his vision for society?</description>
+    <endDate>2020-11-16T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/8NtViK4K#ogNMowH2rAofgm3D4MwJdw</link>
+    <recordDateEnd>2020-11-16T07:30:27.738Z</recordDateEnd>
+    <recordDateStart>2020-11-16T07:14:20.017Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>a087be6f342587d78b276039e74a8dded7cfc01e427f10d1502d649d08c1f34d</sha256>
+    <startDate>2020-11-16T07:15:00.000Z</startDate>
+    <subtitle>Giving the Joy of Running: Endo Ken / Prosthetic Leg Engineer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T22:03:56.355Z</uploadedDate>
   </episode>
   <episode>
     <airingId>706</airingId>
