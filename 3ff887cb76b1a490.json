@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T18:45:03.263Z",
+  "lastUpdated": "2020-12-25T18:50:02.813Z",
   "seriesId": "2049",
   "title": "Japan Railway Journal",
   "episodes": [
@@ -32,6 +32,21 @@
       "subtitle": "Chizu Express: A Top Tier Third Sector Railway",
       "title": "Japan Railway Journal",
       "uploadedDate": "2020-12-25T01:43:07.088Z"
+    },
+    {
+      "airingId": "076",
+      "content": "Hitachinaka Seaside Railway in Ibaraki Prefecture opened in 2008. When it began operation, the 14.3km railway had a ridership of less than 700,000. Now, ridership exceeds 1 million annually. Making a profit in 2017, the company now plans to extend the line by 3.1km. See how the company is working with locals to increase ridership even further, and how the company's president is putting passengers first.",
+      "description": "Since it opened, Hitachinaka Seaside Railway in Ibaraki Prefecture has seen an increase in ridership. See how this passenger focused railway is working with locals to increase ridership even further.",
+      "endDate": "2020-12-10T22:00:00.000Z",
+      "link": "https://mega.nz/folder/ShMggTBa#9QrTUuMADosXY0_AsmUYzw",
+      "recordDateEnd": "2020-12-10T22:00:29.764Z",
+      "recordDateStart": "2020-12-10T21:29:20.079Z",
+      "seriesId": "2049",
+      "sha256": "24f15d97e2e3558bfef9a380ad6778e0e663395d15f7923ae7ca35e1f98bf702",
+      "startDate": "2020-12-10T21:30:00.000Z",
+      "subtitle": "Hitachinaka Seaside Railway: Pulling Together with the Local Community",
+      "title": "Japan Railway Journal",
+      "uploadedDate": "2020-12-25T18:46:05.431Z"
     },
     {
       "airingId": "093",

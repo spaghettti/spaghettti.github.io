@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T18:45:03.260Z</lastUpdated>
+  <lastUpdated>2020-12-25T18:50:02.808Z</lastUpdated>
   <seriesId>3ff887cb76b1a490</seriesId>
   <title>Japan Railway Journal</title>
   <episode>
@@ -33,6 +33,21 @@
     <subtitle>Chizu Express: A Top Tier Third Sector Railway</subtitle>
     <title>Japan Railway Journal</title>
     <uploadedDate>2020-12-25T01:43:07.088Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>076</airingId>
+    <content>Hitachinaka Seaside Railway in Ibaraki Prefecture opened in 2008. When it began operation, the 14.3km railway had a ridership of less than 700,000. Now, ridership exceeds 1 million annually. Making a profit in 2017, the company now plans to extend the line by 3.1km. See how the company is working with locals to increase ridership even further, and how the company's president is putting passengers first.</content>
+    <description>Since it opened, Hitachinaka Seaside Railway in Ibaraki Prefecture has seen an increase in ridership. See how this passenger focused railway is working with locals to increase ridership even further.</description>
+    <endDate>2020-12-10T22:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ShMggTBa#9QrTUuMADosXY0_AsmUYzw</link>
+    <recordDateEnd>2020-12-10T22:00:29.764Z</recordDateEnd>
+    <recordDateStart>2020-12-10T21:29:20.079Z</recordDateStart>
+    <seriesId>2049</seriesId>
+    <sha256>24f15d97e2e3558bfef9a380ad6778e0e663395d15f7923ae7ca35e1f98bf702</sha256>
+    <startDate>2020-12-10T21:30:00.000Z</startDate>
+    <subtitle>Hitachinaka Seaside Railway: Pulling Together with the Local Community</subtitle>
+    <title>Japan Railway Journal</title>
+    <uploadedDate>2020-12-25T18:46:05.431Z</uploadedDate>
   </episode>
   <episode>
     <airingId>093</airingId>

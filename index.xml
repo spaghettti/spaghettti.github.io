@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-25T18:45:03.427Z</lastUpdated>
+  <lastUpdated>2020-12-25T18:50:02.991Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -299,10 +299,10 @@
     <title>JAPAN FROM ABOVE: UP CLOSE</title>
   </series>
   <series>
-    <count>5</count>
+    <count>6</count>
     <uniqueId>3ff887cb76b1a490</uniqueId>
     <lastAiring>2020-12-24T15:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T18:01:16.085Z</lastUpload>
+    <lastUpload>2020-12-25T18:46:05.431Z</lastUpload>
     <seriesId>2049</seriesId>
     <title>Japan Railway Journal</title>
   </series>
