@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T18:00:03.999Z",
+  "lastUpdated": "2020-12-25T18:05:03.680Z",
   "series": [
     {
       "count": 2,
@@ -106,10 +106,10 @@
       "title": "Direct Talk"
     },
     {
-      "count": 4,
+      "count": 5,
       "uniqueId": "b60ca341c528e0e4",
       "lastAiring": "2020-12-20T16:47:00.000Z",
-      "lastUpload": "2020-12-25T05:28:27.039Z",
+      "lastUpload": "2020-12-25T18:04:22.219Z",
       "seriesId": "6022",
       "title": "Easy Japanese"
     },
@@ -282,10 +282,10 @@
       "title": "JAPAN FROM ABOVE: UP CLOSE"
     },
     {
-      "count": 4,
+      "count": 5,
       "uniqueId": "3ff887cb76b1a490",
       "lastAiring": "2020-12-24T15:30:00.000Z",
-      "lastUpload": "2020-12-25T01:43:07.088Z",
+      "lastUpload": "2020-12-25T18:01:16.085Z",
       "seriesId": "2049",
       "title": "Japan Railway Journal"
     },

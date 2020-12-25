@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-25T18:00:03.995Z</lastUpdated>
+  <lastUpdated>2020-12-25T18:05:03.675Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -107,10 +107,10 @@
     <title>Direct Talk</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>b60ca341c528e0e4</uniqueId>
     <lastAiring>2020-12-20T16:47:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T05:28:27.039Z</lastUpload>
+    <lastUpload>2020-12-25T18:04:22.219Z</lastUpload>
     <seriesId>6022</seriesId>
     <title>Easy Japanese</title>
   </series>
@@ -283,10 +283,10 @@
     <title>JAPAN FROM ABOVE: UP CLOSE</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>3ff887cb76b1a490</uniqueId>
     <lastAiring>2020-12-24T15:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T01:43:07.088Z</lastUpload>
+    <lastUpload>2020-12-25T18:01:16.085Z</lastUpload>
     <seriesId>2049</seriesId>
     <title>Japan Railway Journal</title>
   </series>

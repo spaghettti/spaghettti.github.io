@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T18:00:03.832Z",
+  "lastUpdated": "2020-12-25T18:05:03.485Z",
   "seriesId": "2049",
   "title": "Japan Railway Journal",
   "episodes": [
@@ -47,6 +47,21 @@
       "subtitle": "JR West: Redefining the Role of the Railway Post Pandemic",
       "title": "Japan Railway Journal",
       "uploadedDate": "2020-12-25T01:25:33.297Z"
+    },
+    {
+      "airingId": "094",
+      "content": "The 67.7km Tenryu Hamanako Railroad in Shizuoka Prefecture is a third sector railway that connects 5 cities and 1 town. The railway is famous for its railway heritage, remnants of which can be found along the line, such as a turntable and roundhouse, old station buildings and bridges, 36 of which are registered tangible cultural property of Japan. This year marks the railway's 80th anniversary, but the coronavirus pandemic has seen ridership decline. See how Tenryu Hamanako Railroad is working with the local community to revitalize the area and make a comeback.",
+      "description": "Tenryu Hamanako Railroad is famous for its turntable and old station buildings, but the pandemic has seen ridership decline. See how the railway is making a comeback with the local community.",
+      "endDate": "2020-12-17T16:00:00.000Z",
+      "link": "https://mega.nz/folder/tcp32CST#ZSU6SIOyE21kMHL1MuY_bw",
+      "recordDateEnd": "2020-12-17T16:00:20.832Z",
+      "recordDateStart": "2020-12-17T15:29:20.098Z",
+      "seriesId": "2049",
+      "sha256": "b68193205c2955534dd81636d005080e6dbe97366c1cd5e1344a9a0b92117f56",
+      "startDate": "2020-12-17T15:30:00.000Z",
+      "subtitle": "Tenryu Hamanako Railroad: Working with the Community to Revitalize the Railway",
+      "title": "Japan Railway Journal",
+      "uploadedDate": "2020-12-25T18:01:16.085Z"
     },
     {
       "airingId": "095",

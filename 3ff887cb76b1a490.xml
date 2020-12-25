@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T18:00:03.828Z</lastUpdated>
+  <lastUpdated>2020-12-25T18:05:03.481Z</lastUpdated>
   <seriesId>3ff887cb76b1a490</seriesId>
   <title>Japan Railway Journal</title>
   <episode>
@@ -48,6 +48,21 @@
     <subtitle>JR West: Redefining the Role of the Railway Post Pandemic</subtitle>
     <title>Japan Railway Journal</title>
     <uploadedDate>2020-12-25T01:25:33.297Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>094</airingId>
+    <content>The 67.7km Tenryu Hamanako Railroad in Shizuoka Prefecture is a third sector railway that connects 5 cities and 1 town. The railway is famous for its railway heritage, remnants of which can be found along the line, such as a turntable and roundhouse, old station buildings and bridges, 36 of which are registered tangible cultural property of Japan. This year marks the railway's 80th anniversary, but the coronavirus pandemic has seen ridership decline. See how Tenryu Hamanako Railroad is working with the local community to revitalize the area and make a comeback.</content>
+    <description>Tenryu Hamanako Railroad is famous for its turntable and old station buildings, but the pandemic has seen ridership decline. See how the railway is making a comeback with the local community.</description>
+    <endDate>2020-12-17T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/tcp32CST#ZSU6SIOyE21kMHL1MuY_bw</link>
+    <recordDateEnd>2020-12-17T16:00:20.832Z</recordDateEnd>
+    <recordDateStart>2020-12-17T15:29:20.098Z</recordDateStart>
+    <seriesId>2049</seriesId>
+    <sha256>b68193205c2955534dd81636d005080e6dbe97366c1cd5e1344a9a0b92117f56</sha256>
+    <startDate>2020-12-17T15:30:00.000Z</startDate>
+    <subtitle>Tenryu Hamanako Railroad: Working with the Community to Revitalize the Railway</subtitle>
+    <title>Japan Railway Journal</title>
+    <uploadedDate>2020-12-25T18:01:16.085Z</uploadedDate>
   </episode>
   <episode>
     <airingId>095</airingId>
