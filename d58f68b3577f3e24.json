@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T15:25:03.682Z",
+  "lastUpdated": "2020-12-25T15:30:03.194Z",
   "seriesId": "6001",
   "title": "BEGIN Japanology mini",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "BEGIN Japanology mini",
       "uploadedDate": "2020-12-24T03:40:58.392Z",
       "raw": "https://mega.nz/folder/0UxUDKpA#5BfGVLtH9rJxdgozPQ7GTQ"
+    },
+    {
+      "airingId": "007",
+      "content": "",
+      "description": "Trivia on aspects of Japan's unique culture and products that reflect the aesthetic sense and values of the Japanese people. Today: Miso.",
+      "endDate": "2020-12-25T02:30:00.000Z",
+      "link": "https://mega.nz/folder/EcBjwKRB#BpEZz1kvEykNjB4kloesWQ",
+      "recordDateEnd": "2020-12-25T02:30:29.755Z",
+      "recordDateStart": "2020-12-25T02:22:20.003Z",
+      "seriesId": "6001",
+      "sha256": "fde4ab52764585efc49c6f44f6759f2969fb321802f805a3331d873e0e0e6045",
+      "startDate": "2020-12-25T02:23:00.000Z",
+      "subtitle": "",
+      "title": "BEGIN Japanology mini",
+      "uploadedDate": "2020-12-25T15:27:47.851Z"
     }
   ]
 }
