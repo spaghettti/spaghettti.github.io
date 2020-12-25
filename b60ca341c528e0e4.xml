@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T18:10:03.150Z</lastUpdated>
+  <lastUpdated>2020-12-25T18:15:03.452Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
+  <episode>
+    <airingId>031</airingId>
+    <content/>
+    <description>#31 Why don't we all go together? / To ask someone to go somewhere with you, say "isshoni" (together), change the verb to the polite negative form, i.e. "ikimasu" to "ikimasen," and finally add "ka."</description>
+    <endDate>2020-11-15T16:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/3htBGIwb#wrixSroe8S-GAL8YBgh1vg</link>
+    <recordDateEnd>2020-11-15T16:30:26.221Z</recordDateEnd>
+    <recordDateStart>2020-11-15T16:24:20.290Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>920bd86be2d5d571f4d62d46d27febd2c05b3dc3f7574aeb5051c862f0b9519a</sha256>
+    <startDate>2020-11-15T16:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2020-12-25T18:12:13.187Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>032</airingId>
     <content/>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T18:10:03.202Z",
+  "lastUpdated": "2020-12-25T18:15:03.511Z",
   "series": [
     {
       "count": 2,
@@ -106,10 +106,18 @@
       "title": "Direct Talk"
     },
     {
-      "count": 5,
+      "count": 1,
+      "uniqueId": "3adb4b64c51ae5ba",
+      "lastAiring": "2020-12-19T23:57:00.000Z",
+      "lastUpload": "2020-12-25T18:10:05.431Z",
+      "seriesId": "3004",
+      "title": "Drainspotters #4 Morning Market"
+    },
+    {
+      "count": 6,
       "uniqueId": "b60ca341c528e0e4",
       "lastAiring": "2020-12-20T16:47:00.000Z",
-      "lastUpload": "2020-12-25T18:04:22.219Z",
+      "lastUpload": "2020-12-25T18:12:13.187Z",
       "seriesId": "6022",
       "title": "Easy Japanese"
     },
@@ -242,10 +250,10 @@
       "title": "Human Security in the COVID-19 Era"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "30aa2c9c765292e1",
       "lastAiring": "2020-12-20T16:30:00.000Z",
-      "lastUpload": "2020-12-25T18:07:44.328Z",
+      "lastUpload": "2020-12-25T18:10:59.449Z",
       "seriesId": "6206",
       "title": "Inspiring Landscapes"
     },

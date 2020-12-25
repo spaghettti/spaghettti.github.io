@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T18:10:03.189Z</lastUpdated>
+  <lastUpdated>2020-12-25T18:15:03.493Z</lastUpdated>
   <seriesId>30aa2c9c765292e1</seriesId>
   <title>Inspiring Landscapes</title>
   <episode>
@@ -33,6 +33,21 @@
     <subtitle/>
     <title>Inspiring Landscapes</title>
     <uploadedDate>2020-12-25T17:58:51.977Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>043</airingId>
+    <content/>
+    <description>The Takatsu River in western Shimane Prefecture. This is one of the few rivers in Japan that has some of the most transparent water along its full length.</description>
+    <endDate>2020-11-22T20:47:00.000Z</endDate>
+    <link>https://mega.nz/folder/WotBzCbR#8p6ECYhwFZk1XADfSsnPkw</link>
+    <recordDateEnd>2020-11-22T20:47:22.923Z</recordDateEnd>
+    <recordDateStart>2020-11-22T20:29:22.576Z</recordDateStart>
+    <seriesId>6206</seriesId>
+    <sha256>6afbe3b7143ce82a273a96ea3aed1555188be13a1475e27aeaf78fb8718a0965</sha256>
+    <startDate>2020-11-22T20:30:00.000Z</startDate>
+    <subtitle/>
+    <title>Inspiring Landscapes</title>
+    <uploadedDate>2020-12-25T18:10:59.449Z</uploadedDate>
   </episode>
   <episode>
     <airingId>045</airingId>
