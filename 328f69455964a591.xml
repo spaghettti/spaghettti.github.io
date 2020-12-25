@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T19:15:03.831Z</lastUpdated>
+  <lastUpdated>2020-12-25T19:20:03.256Z</lastUpdated>
   <seriesId>328f69455964a591</seriesId>
   <title>Doctor's Insight</title>
+  <episode>
+    <airingId>007</airingId>
+    <content>COVID-19 poses a higher risk of serious illness for people with underlying conditions. Recent studies show that heart patients particularly have a high mortality rate. People with heart failure, a form of heart disease, have symptoms similar to COVID-19 and this can lead to late detection of the infection. What are the signs to look out for? How can heart patients prevent serious illness? Find out tips on what people with heart conditions can do in their daily lives.</content>
+    <description>COVID-19 poses a higher risk of serious illness for people with underlying conditions. Heart patients particularly have a high mortality rate. Find out what they can do to protect themselves.</description>
+    <endDate>2020-12-08T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/HwNW2J5b#VRxmokvwBE_EWDo7QqllKg</link>
+    <recordDateEnd>2020-12-08T04:55:23.530Z</recordDateEnd>
+    <recordDateStart>2020-12-08T04:44:20.004Z</recordDateStart>
+    <seriesId>2086</seriesId>
+    <sha256>d928261e44a7f7cf4ee0ac68a44beb04d1e3757669ffafa5be02145723811cce</sha256>
+    <startDate>2020-12-08T04:45:00.000Z</startDate>
+    <subtitle>COVID-19: Reducing Your Risk of Serious Illness #1: Heart Disease</subtitle>
+    <title>Doctor's Insight</title>
+    <uploadedDate>2020-12-25T19:16:48.908Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>008</airingId>
     <content>COVID-19 can cause serious illness for people with underlying conditions. Kidney disease patients, increasing globally, need to be extra careful. Recent studies found that immunosuppressive drugs used for treating kidney conditions increase the risk of infection. Furthermore, kidney patients that do get infected have a higher risk of developing pneumonia and even acute kidney injury. What can they do to avoid becoming severely ill from COVID-19? Find out coronavirus tips that kidney patients can apply in their everyday lives from an expert in treating kidney disease.</content>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-25T19:15:03.956Z</lastUpdated>
+  <lastUpdated>2020-12-25T19:20:03.368Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -107,10 +107,10 @@
     <title>Direct Talk</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>328f69455964a591</uniqueId>
     <lastAiring>2020-12-15T04:45:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T19:08:02.054Z</lastUpload>
+    <lastUpload>2020-12-25T19:16:48.908Z</lastUpload>
     <seriesId>2086</seriesId>
     <title>Doctor's Insight</title>
   </series>
