@@ -1,0 +1,82 @@
+{
+  "lastUpdated": "2020-12-25T04:55:02.499Z",
+  "seriesId": "2050",
+  "title": "Medical Frontiers",
+  "episodes": [
+    {
+      "airingId": "095",
+      "content": "One of the immune system's important roles is to produce antibodies to neutralize pathogens. Japanese researchers found that the activity of immune cells called lymphocytes, which produce antibodies, is closely linked to the autonomic nervous system. A division of the ANS switches on and off, sending signals for the production of antibodies and their circulation around the body. We also focus on how to balance the ANS so that your immunity functions properly.",
+      "description": "Researchers recently discovered that the immune system, which protects the body from disease, is controlled by the autonomic nervous system. We focus on the latest discoveries on the ANS.",
+      "endDate": "2020-11-16T22:00:00.000Z",
+      "link": "https://mega.nz/folder/sslCjIRb#9YdApAD1qKZV3E1-pM12cg",
+      "recordDateEnd": "2020-11-16T22:00:23.931Z",
+      "recordDateStart": "2020-11-16T21:29:20.097Z",
+      "seriesId": "2050",
+      "sha256": "082d8482ace91ffdd30afe2ac3f954eced1cbdcfad9d59624d86f751bdaf535f",
+      "startDate": "2020-11-16T21:30:00.000Z",
+      "subtitle": "The Autonomic Nervous System: A Regulator of Immunity",
+      "title": "Medical Frontiers",
+      "uploadedDate": "2020-12-24T20:54:30.595Z"
+    },
+    {
+      "airingId": "096",
+      "content": "Vaccines protect the body from infectious diseases. Despite the large number of pathogens that exist, only a few vaccines have been developed. Ensuring the safety and effectiveness of vaccines is very difficult. We look at the history of vaccines, as well as how they are made and how they prevent disease. The COVID-19 vaccine that's closest to completion is a new type. Experts offer their input on its safety and effectiveness.",
+      "description": "Vaccines for the novel coronavirus are being created around the world, with some in their final stage of development. We look at how valuable they might be.",
+      "endDate": "2020-11-23T16:00:00.000Z",
+      "link": "https://mega.nz/folder/Lp0kVIYY#aER0M3Mbyvi_kcZOJdekOg",
+      "recordDateEnd": "2020-11-23T16:00:22.210Z",
+      "recordDateStart": "2020-11-23T15:29:20.100Z",
+      "seriesId": "2050",
+      "sha256": "dac1ade23f4b6983c34823d1421159723c083e313bfd75cad32eeff280f26285",
+      "startDate": "2020-11-23T15:30:00.000Z",
+      "subtitle": "COVID-19: The True Value of Vaccines",
+      "title": "Medical Frontiers",
+      "uploadedDate": "2020-12-24T20:48:02.202Z"
+    },
+    {
+      "airingId": "097",
+      "content": "We focus on a hospital that accepted people from a cruise ship with a COVID-19 outbreak, which has since treated many seriously ill coronavirus patients. At first, little was known about the disease and how to treat it. The number of patients grew along with concerns that staff would become infected and unable to treat patients. The hospital introduced remote monitoring of patients and altered its layout to protect staff. We look at changes hospitals can make to keep functioning amid COVID-19.",
+      "description": "One of the biggest concerns medical institutions have is the possibility that staff could become infected with COVID-19. We look at the innovative ways one hospital has managed to avoid that.",
+      "endDate": "2020-12-14T22:00:00.000Z",
+      "link": "https://mega.nz/folder/nl8mWJDK#IrdTem2X94zFA_GkLn2jYw",
+      "recordDateEnd": "2020-12-14T22:00:36.995Z",
+      "recordDateStart": "2020-12-14T21:29:20.101Z",
+      "seriesId": "2050",
+      "sha256": "a87770603557c2fedee7bc7819ab016f0dc3f5bce6018764ad20f8f85651a0de",
+      "startDate": "2020-12-14T21:30:00.000Z",
+      "subtitle": "COVID-19: Healthcare's New Normal - Protecting Both Staff and Patients",
+      "title": "Medical Frontiers",
+      "uploadedDate": "2020-12-24T20:55:50.518Z"
+    },
+    {
+      "airingId": "100",
+      "content": "Atopic dermatitis patients suffer from an itch-scratch cycle in which itchiness leads to scratching, triggering inflammation that in turn causes skin damage, prompting even more itching. The condition is usually treated with steroids, but a Japanese dermatologist has developed a drug that stops the itching, breaking the cycle. We also introduce tips on how to prevent dry skin in winter.",
+      "description": "Atopic dermatitis is thought to affect over 200 million people worldwide. A drug awaiting approval is expected to break the condition's itch-scratch cycle, in which the immune system plays a role.",
+      "endDate": "2020-11-30T16:00:00.000Z",
+      "link": "https://mega.nz/folder/QZR1gIzZ#j314pnBEwFDKW1Gi3_6Apg",
+      "recordDateEnd": "2020-11-30T16:00:22.831Z",
+      "recordDateStart": "2020-11-30T15:29:22.389Z",
+      "seriesId": "2050",
+      "sha256": "d467151c4c8521eb419d1ad1c0bd6102f3db562d6e509483c8518822c5179a5b",
+      "startDate": "2020-11-30T15:30:00.000Z",
+      "subtitle": "Atopic Dermatitis: Breaking the Itch-Scratch Cycle",
+      "title": "Medical Frontiers",
+      "uploadedDate": "2020-12-24T20:42:37.575Z"
+    },
+    {
+      "airingId": "101",
+      "content": "Alzheimer's disease makes up almost 70% of dementia cases. No cure is available, but a vaccine against it is being developed in Japan. The key is the body's own immune system. The vaccine aims to harness it to remove amyloid-beta, which is thought to cause Alzheimer's. Efforts are also being made to detect the disease early on to slow its progression. To this end, imaging software has been created that can detect the possibility of Alzheimer's using MRI images of the brain.",
+      "description": "No cure has yet been found for Alzheimer's disease. But in Japan, a vaccine is being developed. New imaging software using MRI images of the brain is also helping to detect the disease early on.",
+      "endDate": "2020-12-07T16:00:00.000Z",
+      "link": "https://mega.nz/folder/IVg0VSwK#wmkAmz2zSxz-3VvJ_27lkw",
+      "recordDateEnd": "2020-12-07T16:00:34.233Z",
+      "recordDateStart": "2020-12-07T15:29:20.098Z",
+      "seriesId": "2050",
+      "sha256": "660b1a087d55fa214c4a615943775fcf4abcefd8ea5b6c6762954c0d8d12be43",
+      "startDate": "2020-12-07T15:30:00.000Z",
+      "subtitle": "Preventing Alzheimer's Disease",
+      "title": "Medical Frontiers",
+      "uploadedDate": "2020-12-24T20:45:27.852Z"
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
+<seriesList>
+  <lastUpdated>2020-12-25T04:55:02.623Z</lastUpdated>
+  <series>
+    <count>2</count>
+    <uniqueId>c656328a0f33bc89</uniqueId>
+    <lastAiring>2020-12-23T00:45:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T17:00:41.344Z</lastUpload>
+    <seriesId>3019</seriesId>
+    <title>15 Minutes</title>
+  </series>
+  <series>
+    <count>2</count>
+    <uniqueId>d58f68b3577f3e24</uniqueId>
+    <lastAiring>2020-12-24T02:23:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T08:26:30.015Z</lastUpload>
+    <seriesId>6001</seriesId>
+    <title>BEGIN Japanology mini</title>
+  </series>
+  <series>
+    <count>2</count>
+    <uniqueId>830c4969cf7e7135</uniqueId>
+    <lastAiring>2020-12-24T02:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T08:41:23.873Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>BIZ STREAM</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>67d2ae7ac69fb919</uniqueId>
+    <lastAiring>2020-12-23T23:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T05:46:14.720Z</lastUpload>
+    <seriesId>2029</seriesId>
+    <title>Core Kyoto</title>
+  </series>
+  <series>
+    <count>2</count>
+    <uniqueId>582ad0f8b7805a6b</uniqueId>
+    <lastAiring>2020-12-24T03:25:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T07:39:37.579Z</lastUpload>
+    <seriesId>6024</seriesId>
+    <title>Core Kyoto mini</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>849018bc46f056a7</uniqueId>
+    <lastAiring>2020-12-23T15:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-23T22:48:45.697Z</lastUpload>
+    <seriesId>2083</seriesId>
+    <title>Culture Crossroads</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>054ab52e36a50c36</uniqueId>
+    <lastAiring>2020-12-24T14:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T22:41:28.471Z</lastUpload>
+    <seriesId>2070</seriesId>
+    <title>CYCLE AROUND JAPAN  Highlights</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>93f1898b227dbd5d</uniqueId>
+    <lastAiring>2020-12-24T00:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T04:41:46.569Z</lastUpload>
+    <seriesId>2046</seriesId>
+    <title>DESIGN TALKS plus</title>
+  </series>
+  <series>
+    <count>4</count>
+    <uniqueId>07d8499767117509</uniqueId>
+    <lastAiring>2020-12-24T09:15:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T22:32:49.986Z</lastUpload>
+    <seriesId>2058</seriesId>
+    <title>Direct Talk</title>
+  </series>
+  <series>
+    <count>2</count>
+    <uniqueId>cb742a1cc3a28577</uniqueId>
+    <lastAiring>2020-12-24T03:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T08:08:00.099Z</lastUpload>
+    <seriesId>6202</seriesId>
+    <title>EXTREME JAPAN</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>40644dacc921d847</uniqueId>
+    <lastAiring>2020-11-28T14:35:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T04:50:09.139Z</lastUpload>
+    <seriesId>6015</seriesId>
+    <title>FLOWERS WILL BLOOM</title>
+  </series>
+  <series>
+    <count>4</count>
+    <uniqueId>3ade7fb84e8cc130</uniqueId>
+    <lastAiring>2020-12-24T01:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T04:50:47.319Z</lastUpload>
+    <seriesId>6101</seriesId>
+    <title>Four Seasons in Japan</title>
+  </series>
+  <series>
+    <count>4</count>
+    <uniqueId>3ed1d1782b347a54</uniqueId>
+    <lastAiring>2020-12-24T01:20:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T04:43:48.164Z</lastUpload>
+    <seriesId>2076</seriesId>
+    <title>Fresh Eyes on Japan</title>
+  </series>
+  <series>
+    <count>6</count>
+    <uniqueId>b2f243cf934b4de8</uniqueId>
+    <lastAiring>2020-11-20T16:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T04:47:06.753Z</lastUpload>
+    <seriesId>2061</seriesId>
+    <title>GRAND SUMO Highlights</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>c4202a1fd6bc966c</uniqueId>
+    <lastAiring>2020-11-15T08:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T04:39:43.697Z</lastUpload>
+    <seriesId>2081</seriesId>
+    <title>GRAND SUMO LIVE</title>
+  </series>
+  <series>
+    <count>3</count>
+    <uniqueId>da958502b69dde1e</uniqueId>
+    <lastAiring>2020-12-16T01:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T04:03:05.997Z</lastUpload>
+    <seriesId>2048</seriesId>
+    <title>Her Story</title>
+  </series>
+  <series>
+    <count>4</count>
+    <uniqueId>b70d3103ab6de48b</uniqueId>
+    <lastAiring>2020-12-12T23:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T04:03:28.581Z</lastUpload>
+    <seriesId>3018</seriesId>
+    <title>Home Sweet Tokyo</title>
+  </series>
+  <series>
+    <count>5</count>
+    <uniqueId>810a4b40916c42c4</uniqueId>
+    <lastAiring>2020-12-20T00:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T03:54:51.888Z</lastUpload>
+    <seriesId>5003</seriesId>
+    <title>Hometown Stories</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>470a27fa769cea06</uniqueId>
+    <lastAiring>2020-12-10T23:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T03:43:49.430Z</lastUpload>
+    <seriesId>7000</seriesId>
+    <title>Human Security in the COVID-19 Era</title>
+  </series>
+  <series>
+    <count>3</count>
+    <uniqueId>30aa2c9c765292e1</uniqueId>
+    <lastAiring>2020-12-20T16:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T02:55:59.897Z</lastUpload>
+    <seriesId>6206</seriesId>
+    <title>Inspiring Landscapes</title>
+  </series>
+  <series>
+    <count>3</count>
+    <uniqueId>4b75bcecb7568a5f</uniqueId>
+    <lastAiring>2020-12-11T04:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T01:19:07.052Z</lastUpload>
+    <seriesId>2073</seriesId>
+    <title>J-Arena</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>bb37f38613051f9c</uniqueId>
+    <lastAiring>2020-12-18T23:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T01:09:10.422Z</lastUpload>
+    <seriesId>2036</seriesId>
+    <title>J-FLICKS</title>
+  </series>
+  <series>
+    <count>3</count>
+    <uniqueId>f03694b92087f911</uniqueId>
+    <lastAiring>2020-12-13T21:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T00:37:45.915Z</lastUpload>
+    <seriesId>2004</seriesId>
+    <title>J-MELO</title>
+  </series>
+  <series>
+    <count>27</count>
+    <uniqueId>afe5ace13e6c293d</uniqueId>
+    <lastAiring>2020-12-22T23:25:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T02:24:22.347Z</lastUpload>
+    <seriesId>6023</seriesId>
+    <title>JAPAN FROM ABOVE: UP CLOSE</title>
+  </series>
+  <series>
+    <count>4</count>
+    <uniqueId>3ff887cb76b1a490</uniqueId>
+    <lastAiring>2020-12-24T15:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T01:43:07.088Z</lastUpload>
+    <seriesId>2049</seriesId>
+    <title>Japan Railway Journal</title>
+  </series>
+  <series>
+    <count>6</count>
+    <uniqueId>fb3ddf5a1a053dcd</uniqueId>
+    <lastAiring>2020-12-23T15:45:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T00:56:53.971Z</lastUpload>
+    <seriesId>2072</seriesId>
+    <title>Japan's Top Inventions</title>
+  </series>
+  <series>
+    <count>6</count>
+    <uniqueId>6cdfbabc0d0bcd6e</uniqueId>
+    <lastAiring>2020-12-20T11:25:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T03:05:01.406Z</lastUpload>
+    <seriesId>6210</seriesId>
+    <title>Japan-easy2</title>
+  </series>
+  <series>
+    <count>8</count>
+    <uniqueId>f2fee2555c450616</uniqueId>
+    <lastAiring>2020-12-24T05:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T02:14:38.811Z</lastUpload>
+    <seriesId>6200</seriesId>
+    <title>JAPANGLE</title>
+  </series>
+  <series>
+    <count>5</count>
+    <uniqueId>845116d579af2806</uniqueId>
+    <lastAiring>2020-12-22T14:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T03:59:13.837Z</lastUpload>
+    <seriesId>2032</seriesId>
+    <title>Japanology Plus</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>3bcfda82f2c7ee58</uniqueId>
+    <lastAiring>2020-11-23T06:20:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T00:30:58.765Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>JAPN SPORTSCOPE "KARATE"</title>
+  </series>
+  <series>
+    <count>5</count>
+    <uniqueId>b7a2bc9b23a9c5ee</uniqueId>
+    <lastAiring>2020-12-21T23:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T00:16:03.418Z</lastUpload>
+    <seriesId>2007</seriesId>
+    <title>Journeys in Japan</title>
+  </series>
+  <series>
+    <count>5</count>
+    <uniqueId>59ce1816235dcb05</uniqueId>
+    <lastAiring>2020-12-23T04:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T23:50:09.659Z</lastUpload>
+    <seriesId>2035</seriesId>
+    <title>KABUKI KOOL</title>
+  </series>
+  <series>
+    <count>4</count>
+    <uniqueId>25a805bf2ec43458</uniqueId>
+    <lastAiring>2020-12-11T06:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T23:22:17.654Z</lastUpload>
+    <seriesId>2025</seriesId>
+    <title>Kawaii International</title>
+  </series>
+  <series>
+    <count>6</count>
+    <uniqueId>0fb6afa0f420e9e6</uniqueId>
+    <lastAiring>2020-12-19T02:40:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T21:14:35.946Z</lastUpload>
+    <seriesId>6116</seriesId>
+    <title>Little Charo</title>
+  </series>
+  <series>
+    <count>5</count>
+    <uniqueId>2ac7100c81ee10d6</uniqueId>
+    <lastAiring>2020-12-24T04:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T23:13:22.173Z</lastUpload>
+    <seriesId>4023</seriesId>
+    <title>Lunch ON!</title>
+  </series>
+  <series>
+    <count>2</count>
+    <uniqueId>77fae6769682674d</uniqueId>
+    <lastAiring>2020-12-24T11:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T16:34:27.086Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>Masterpieces Performed by NHK Symphony Orchestra III</title>
+  </series>
+  <series>
+    <count>5</count>
+    <uniqueId>a5d2cf270dcd5679</uniqueId>
+    <lastAiring>2020-12-14T21:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T20:55:50.518Z</lastUpload>
+    <seriesId>2050</seriesId>
+    <title>Medical Frontiers</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>945d35e844a7ed5b</uniqueId>
+    <lastAiring>2020-11-23T03:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T20:33:37.031Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>Moonlit Nights - Superb Scenes of Japan</title>
+  </series>
+  <series>
+    <count>7</count>
+    <uniqueId>98fe604353582b62</uniqueId>
+    <lastAiring>2020-12-24T07:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T22:12:07.519Z</lastUpload>
+    <seriesId>6029</seriesId>
+    <title>Muscles for All!</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>fd9a7adf99b60fe1</uniqueId>
+    <lastAiring>2020-11-27T23:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T21:08:36.297Z</lastUpload>
+    <seriesId>5001</seriesId>
+    <title>Music for Tomorrow</title>
+  </series>
+  <series>
+    <count>2</count>
+    <uniqueId>2ad415cdc920b946</uniqueId>
+    <lastAiring>2020-12-19T15:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T23:55:38.067Z</lastUpload>
+    <seriesId>3016</seriesId>
+    <title>NHK Documentary</title>
+  </series>
+  <series>
+    <count>4</count>
+    <uniqueId>56ef83def0753222</uniqueId>
+    <lastAiring>2020-12-05T15:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T20:08:30.544Z</lastUpload>
+    <seriesId>4001</seriesId>
+    <title>NHK Documentary</title>
+  </series>
+  <series>
+    <count>5</count>
+    <uniqueId>156d54897e343840</uniqueId>
+    <lastAiring>2020-12-21T11:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T23:32:15.405Z</lastUpload>
+    <seriesId>3016</seriesId>
+    <title>NHK WORLD PRIME</title>
+  </series>
+  <series>
+    <count>6</count>
+    <uniqueId>da2ed3151c7e82e4</uniqueId>
+    <lastAiring>2020-12-19T02:50:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T18:14:10.068Z</lastUpload>
+    <seriesId>6026</seriesId>
+    <title>no art, no life</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>a57f560b7c24b065</uniqueId>
+    <lastAiring>2020-12-01T01:55:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T18:00:17.559Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>Paprika  Let's dance!</title>
+  </series>
+  <series>
+    <count>6</count>
+    <uniqueId>3bee8422e8005b98</uniqueId>
+    <lastAiring>2020-12-19T03:55:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T18:04:17.137Z</lastUpload>
+    <seriesId>6021</seriesId>
+    <title>PythagoraSwitch mini</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>a01d9a00b00929a8</uniqueId>
+    <lastAiring>2020-11-23T01:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T18:21:32.987Z</lastUpload>
+    <seriesId>5001</seriesId>
+    <title>Question Time: Building Back Better</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>d94ff9b70001c569</uniqueId>
+    <lastAiring>2020-11-28T14:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T18:10:10.325Z</lastUpload>
+    <seriesId>5001</seriesId>
+    <title>Reviving the Voices of Himeyuri - The Rebirth of the Museum 75 Years After the War</title>
+  </series>
+  <series>
+    <count>5</count>
+    <uniqueId>509fab78036b7f12</uniqueId>
+    <lastAiring>2020-12-24T01:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T22:51:24.010Z</lastUpload>
+    <seriesId>2042</seriesId>
+    <title>RISING</title>
+  </series>
+  <series>
+    <count>5</count>
+    <uniqueId>87b2998a16373792</uniqueId>
+    <lastAiring>2020-12-22T15:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T03:17:27.176Z</lastUpload>
+    <seriesId>2015</seriesId>
+    <title>Science View</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>45ebec430ef6a9b9</uniqueId>
+    <lastAiring>2020-12-18T20:00:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T17:47:15.040Z</lastUpload>
+    <seriesId>5001</seriesId>
+    <title>Searching for the Standing Boy of Nagasaki</title>
+  </series>
+  <series>
+    <count>6</count>
+    <uniqueId>206e7d7b56906c70</uniqueId>
+    <lastAiring>2020-12-20T23:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T23:03:36.647Z</lastUpload>
+    <seriesId>2024</seriesId>
+    <title>Seasoning the Seasons</title>
+  </series>
+  <series>
+    <count>3</count>
+    <uniqueId>0d8539ab8172c64c</uniqueId>
+    <lastAiring>2020-12-13T01:55:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T15:34:37.770Z</lastUpload>
+    <seriesId>6028</seriesId>
+    <title>Selfie Japan!</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>72ae94229bae355a</uniqueId>
+    <lastAiring>2020-11-18T00:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T09:13:21.895Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>Shuri Castle: Rebirth in 3D</title>
+  </series>
+  <series>
+    <count>2</count>
+    <uniqueId>5ce8e3dcbf90e5b7</uniqueId>
+    <lastAiring>2020-12-09T01:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T09:07:46.142Z</lastUpload>
+    <seriesId>2037</seriesId>
+    <title>Side by Side</title>
+  </series>
+  <series>
+    <count>5</count>
+    <uniqueId>aefa3128a4eaf8eb</uniqueId>
+    <lastAiring>2020-12-20T04:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T16:54:09.042Z</lastUpload>
+    <seriesId>4017</seriesId>
+    <title>Somewhere Street</title>
+  </series>
+  <series>
+    <count>4</count>
+    <uniqueId>5ddcbdd570129633</uniqueId>
+    <lastAiring>2020-12-05T23:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T08:30:07.710Z</lastUpload>
+    <seriesId>6209</seriesId>
+    <title>Somewhere Street mini</title>
+  </series>
+  <series>
+    <count>3</count>
+    <uniqueId>ee84cdd8cbb8021b</uniqueId>
+    <lastAiring>2020-12-20T15:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T16:19:43.607Z</lastUpload>
+    <seriesId>2080</seriesId>
+    <title>SONGS OF TOKYO</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>29c1799bc492d0cf</uniqueId>
+    <lastAiring>2020-11-29T06:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T08:00:24.921Z</lastUpload>
+    <seriesId>2088</seriesId>
+    <title>Spiritual Explorers</title>
+  </series>
+  <series>
+    <count>3</count>
+    <uniqueId>05e910e7289de2b7</uniqueId>
+    <lastAiring>2020-12-24T04:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T07:27:42.798Z</lastUpload>
+    <seriesId>6113</seriesId>
+    <title>The Great Summits</title>
+  </series>
+  <series>
+    <count>3</count>
+    <uniqueId>aca3c5281f781918</uniqueId>
+    <lastAiring>2020-12-21T04:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T08:05:53.594Z</lastUpload>
+    <seriesId>4018</seriesId>
+    <title>The Mark of Beauty</title>
+  </series>
+  <series>
+    <count>2</count>
+    <uniqueId>ac0dc75327258b51</uniqueId>
+    <lastAiring>2020-12-06T01:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T08:20:10.031Z</lastUpload>
+    <seriesId>4003</seriesId>
+    <title>The Professionals</title>
+  </series>
+  <series>
+    <count>5</count>
+    <uniqueId>44913f78df1c0e91</uniqueId>
+    <lastAiring>2020-12-19T03:40:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T15:44:27.670Z</lastUpload>
+    <seriesId>2089</seriesId>
+    <title>The Signs</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>84b9722394481d31</uniqueId>
+    <lastAiring>2020-11-28T23:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T07:45:29.392Z</lastUpload>
+    <seriesId>5001</seriesId>
+    <title>The Sounds of Okinawa: Joy and Prayers for Shuri Castle</title>
+  </series>
+  <series>
+    <count>16</count>
+    <uniqueId>20f91db4b1d2406e</uniqueId>
+    <lastAiring>2020-12-21T23:20:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T06:49:53.530Z</lastUpload>
+    <seriesId>6025</seriesId>
+    <title>TIME-LAPSE</title>
+  </series>
+  <series>
+    <count>6</count>
+    <uniqueId>a5fed3c217d7b7f6</uniqueId>
+    <lastAiring>2020-12-18T15:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T15:56:28.169Z</lastUpload>
+    <seriesId>4002</seriesId>
+    <title>Today's Close-Up</title>
+  </series>
+  <series>
+    <count>6</count>
+    <uniqueId>e3257daa0a525ec2</uniqueId>
+    <lastAiring>2020-12-22T23:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T18:22:26.088Z</lastUpload>
+    <seriesId>2053</seriesId>
+    <title>TOKYO EYE 2020</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>81dcccf83c34c6bc</uniqueId>
+    <lastAiring>2020-12-03T23:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T06:24:06.395Z</lastUpload>
+    <seriesId>7000</seriesId>
+    <title>Tokyo Life</title>
+  </series>
+  <series>
+    <count>6</count>
+    <uniqueId>31851bb3dfae7f8a</uniqueId>
+    <lastAiring>2020-12-23T14:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T15:58:33.272Z</lastUpload>
+    <seriesId>2054</seriesId>
+    <title>Trails to Oishii Tokyo</title>
+  </series>
+  <series>
+    <count>7</count>
+    <uniqueId>e54e1987b2418557</uniqueId>
+    <lastAiring>2020-12-24T04:20:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T07:15:00.198Z</lastUpload>
+    <seriesId>6119</seriesId>
+    <title>Trails to Oishii Tokyo mini</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>80afb7aa5174d5ac</uniqueId>
+    <lastAiring>2020-12-05T00:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T03:30:41.188Z</lastUpload>
+    <seriesId>2068</seriesId>
+    <title>Train Cruise</title>
+  </series>
+  <series>
+    <count>20</count>
+    <uniqueId>3afe9a7a6f85079a</uniqueId>
+    <lastAiring>2020-12-12T11:55:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T04:29:56.207Z</lastUpload>
+    <seriesId>6030</seriesId>
+    <title>Ukiyoe EDO-LIFE</title>
+  </series>
+  <series>
+    <count>6</count>
+    <uniqueId>96934130ea8f6060</uniqueId>
+    <lastAiring>2020-12-20T23:15:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T01:47:40.742Z</lastUpload>
+    <seriesId>6033</seriesId>
+    <title>We, in the Time of Corona</title>
+  </series>
+  <series>
+    <count>5</count>
+    <uniqueId>4c42bed9def1d9d4</uniqueId>
+    <lastAiring>2020-12-21T01:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T01:50:50.466Z</lastUpload>
+    <seriesId>2087</seriesId>
+    <title>Where We Call Home</title>
+  </series>
+  <series>
+    <count>6</count>
+    <uniqueId>b2d48e71e072a1aa</uniqueId>
+    <lastAiring>2020-12-20T00:45:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T04:29:50.159Z</lastUpload>
+    <seriesId>2069</seriesId>
+    <title>Wild Hokkaido!</title>
+  </series>
+  <series>
+    <count>13</count>
+    <uniqueId>2292026c42316324</uniqueId>
+    <lastAiring>2020-12-24T06:20:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T15:20:44.408Z</lastUpload>
+    <seriesId>6014</seriesId>
+    <title>Your Japanese Kitchen mini</title>
+  </series>
+  <series>
+    <count>2</count>
+    <uniqueId>e425ad11d70fcae3</uniqueId>
+    <lastAiring>2020-12-12T23:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-24T00:29:13.443Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>Zeroing In: Carbon Neutral 2050</title>
+  </series>
+</seriesList>
