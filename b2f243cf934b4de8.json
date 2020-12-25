@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T19:10:03.494Z",
+  "lastUpdated": "2020-12-25T19:15:03.808Z",
   "seriesId": "2061",
   "title": "GRAND SUMO Highlights",
   "episodes": [
@@ -92,6 +92,21 @@
       "subtitle": "November Tournament Day 13",
       "title": "GRAND SUMO Highlights",
       "uploadedDate": "2020-12-25T04:29:34.587Z"
+    },
+    {
+      "airingId": "389",
+      "content": "The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!",
+      "description": "NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from Nov. 21, Day 14 of the Grand Sumo Tournament in Tokyo.",
+      "endDate": "2020-11-21T16:57:00.000Z",
+      "link": "https://mega.nz/folder/r5d0XRgR#xXFRfh9DanjHZxkzS4ua0g",
+      "recordDateEnd": "2020-11-21T16:57:26.203Z",
+      "recordDateStart": "2020-11-21T16:29:20.067Z",
+      "seriesId": "2061",
+      "sha256": "ab494aefe1b1cf9b02f2f392b147325d7e5c89712fa3b978c6ab95378b710d0b",
+      "startDate": "2020-11-21T16:30:00.000Z",
+      "subtitle": "November Tournament Day 14",
+      "title": "GRAND SUMO Highlights",
+      "uploadedDate": "2020-12-25T19:12:53.944Z"
     }
   ]
 }
