@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T17:40:02.637Z</lastUpdated>
+  <lastUpdated>2020-12-25T17:50:02.593Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -48,5 +48,20 @@
     <subtitle>Gymnastics - Horizontal Bar</subtitle>
     <title>J-Arena</title>
     <uploadedDate>2020-12-25T00:32:29.949Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>077</airingId>
+    <content>Core training has become a buzzword in the fitness industry in recent years, with well-known sports personalities like Japanese footballer Nagatomo Yuto extolling its benefits. We find out how balanced conditioning of the low back and abdomen not only boosts performance for elite athletes, but also provides the stability to avoid many common sports injuries and health issues. We meet a core training expert who has helped many of Japan's top athletes, and explore some of the similarities between core training methods and traditional Japanese martial arts principles.</content>
+    <description>Core training has become a buzzword in the fitness industry. We find out how balanced conditioning of the low back and abdomen can boost performance and provide the stability to avoid common injuries.</description>
+    <endDate>2020-12-18T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/IlVDxaKA#AmUkuXk18x8YI8pltStQ6A</link>
+    <recordDateEnd>2020-12-18T05:00:29.702Z</recordDateEnd>
+    <recordDateStart>2020-12-18T04:29:20.103Z</recordDateStart>
+    <seriesId>2073</seriesId>
+    <sha256>e6d58db38e0c430001ebbbdced790f659494b40c86a2cb225fde417644789eaa</sha256>
+    <startDate>2020-12-18T04:30:00.000Z</startDate>
+    <subtitle>Core Training</subtitle>
+    <title>J-Arena</title>
+    <uploadedDate>2020-12-25T17:46:58.519Z</uploadedDate>
   </episode>
 </episodeList>
