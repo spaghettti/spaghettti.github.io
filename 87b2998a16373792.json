@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T17:20:02.651Z",
+  "lastUpdated": "2020-12-25T17:35:03.480Z",
   "seriesId": "2015",
   "title": "Science View",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "Science View",
       "uploadedDate": "2020-12-25T03:17:27.176Z",
       "raw": "https://mega.nz/folder/LpME1DzJ#T0fQuVCGxY0c85bjjwH2Iw"
+    },
+    {
+      "airingId": "225",
+      "content": "Cryptography, the computerized encoding and decoding of information, makes data exchanges on the internet secure. The current encryption system is based on the difficulty of factorizing huge numbers into prime numbers and cannot be solved easily even with supercomputers. However, the processing power of \"quantum computers\" has rapidly advanced in recent years posing a threat to cybersecurity. Researchers are now working to develop a new encryption system to protect data from quantum computing. One of the most important candidates is called \"lattice-based cryptography.\" This system of finding hidden codes inside lattices is said to withstand quantum computers. Find out about the latest research in cryptography.\n[Science News Watch]\n2019 Nobel Prize in Chemistry Awarded to Akira Yoshino for Developing Lithium-ion Batteries\n[J-Innovators]\nAn Innovative Quake-Resistant Bookshelf",
+      "description": "Quantum computers could potentially break encryption codes, posing a threat to cybersecurity. Find out about \"lattice-base cryptography\" which may be the solution to withstand quantum computing.",
+      "endDate": "2020-12-01T16:00:00.000Z",
+      "link": "https://mega.nz/folder/xMFDFaxR#d6-qjvaTKmFCewUC9nNsyA",
+      "recordDateEnd": "2020-12-01T16:00:26.309Z",
+      "recordDateStart": "2020-12-01T15:29:22.304Z",
+      "seriesId": "2015",
+      "sha256": "71a78e8badd6891cefc47678ff725f0b8439e9b15ae74f901ac67992da37950a",
+      "startDate": "2020-12-01T15:30:00.000Z",
+      "subtitle": "The Future of Cybersecurity - Exploring a Quantum-Proof Encryption System",
+      "title": "Science View",
+      "uploadedDate": "2020-12-25T17:34:24.946Z"
     },
     {
       "airingId": "226",
