@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T21:35:02.577Z</lastUpdated>
+  <lastUpdated>2020-12-25T21:40:03.029Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -51,6 +51,36 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T15:14:31.622Z</uploadedDate>
     <raw>https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ</raw>
+  </episode>
+  <episode>
+    <airingId>680</airingId>
+    <content/>
+    <description>Anoushka Shankar is a sitarist, composer and producer who has won many awards in the world music scene. She is the daughter of Indian musician Ravi Shankar. She is also a social activist and feminist.</description>
+    <endDate>2020-12-02T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/dhkmyCKB#9r3L2hwojrLs6b8CcC5IVg</link>
+    <recordDateEnd>2020-12-02T09:30:29.320Z</recordDateEnd>
+    <recordDateStart>2020-12-02T09:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>47bc3fa904081c1e86e0e8765a562321136b3e6070ba93be72aa585aa195e617</sha256>
+    <startDate>2020-12-02T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T21:38:17.197Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>701</airingId>
+    <content>Max Richter is one of the most successful composers in the contemporary music world. He has produced critically acclaimed albums of his own compositions, and also writes for films, ballet and opera.</content>
+    <description>Max Richter is one of the most successful composers in the contemporary music world. He has produced critically acclaimed albums of his own compositions, and also writes for films, ballet, and opera.</description>
+    <endDate>2020-12-11T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/DI8SGa5S#MXH0eua2hX_Qqn9DKQOwug</link>
+    <recordDateEnd>2020-12-11T07:30:25.385Z</recordDateEnd>
+    <recordDateStart>2020-12-11T07:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>4928c34b6d4206bfc06b85c9db44745941e8cc9627b0aa95364143bbb7cb0a03</sha256>
+    <startDate>2020-12-11T07:15:00.000Z</startDate>
+    <subtitle>Communicating With Music: Max Richter / Composer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T21:38:24.040Z</uploadedDate>
   </episode>
   <episode>
     <airingId>706</airingId>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T21:35:02.586Z",
+  "lastUpdated": "2020-12-25T21:40:03.044Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -50,6 +50,36 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T15:14:31.622Z",
       "raw": "https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ"
+    },
+    {
+      "airingId": "680",
+      "content": "",
+      "description": "Anoushka Shankar is a sitarist, composer and producer who has won many awards in the world music scene. She is the daughter of Indian musician Ravi Shankar. She is also a social activist and feminist.",
+      "endDate": "2020-12-02T09:30:00.000Z",
+      "link": "https://mega.nz/folder/dhkmyCKB#9r3L2hwojrLs6b8CcC5IVg",
+      "recordDateEnd": "2020-12-02T09:30:29.320Z",
+      "recordDateStart": "2020-12-02T09:14:20.016Z",
+      "seriesId": "2058",
+      "sha256": "47bc3fa904081c1e86e0e8765a562321136b3e6070ba93be72aa585aa195e617",
+      "startDate": "2020-12-02T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T21:38:17.197Z"
+    },
+    {
+      "airingId": "701",
+      "content": "Max Richter is one of the most successful composers in the contemporary music world. He has produced critically acclaimed albums of his own compositions, and also writes for films, ballet and opera.",
+      "description": "Max Richter is one of the most successful composers in the contemporary music world. He has produced critically acclaimed albums of his own compositions, and also writes for films, ballet, and opera.",
+      "endDate": "2020-12-11T07:30:00.000Z",
+      "link": "https://mega.nz/folder/DI8SGa5S#MXH0eua2hX_Qqn9DKQOwug",
+      "recordDateEnd": "2020-12-11T07:30:25.385Z",
+      "recordDateStart": "2020-12-11T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "4928c34b6d4206bfc06b85c9db44745941e8cc9627b0aa95364143bbb7cb0a03",
+      "startDate": "2020-12-11T07:15:00.000Z",
+      "subtitle": "Communicating With Music: Max Richter / Composer",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T21:38:24.040Z"
     },
     {
       "airingId": "706",
