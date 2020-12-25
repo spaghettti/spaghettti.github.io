@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T23:00:03.333Z</lastUpdated>
+  <lastUpdated>2020-12-25T23:05:02.454Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -37,6 +37,21 @@
     <raw>https://mega.nz/folder/BwtRBaQT#KcqvJ_9szhiwj9Z1COgwpw</raw>
   </episode>
   <episode>
+    <airingId>642</airingId>
+    <content/>
+    <description>Extreme weather around the world is causing an increase in major natural disasters. We ask Ishii Mieko, a nurse who has worked in several disaster zones, about how to save lives.</description>
+    <endDate>2020-12-21T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/ZUt02apS#NWlIchuW7rAlFFq0eldY3A</link>
+    <recordDateEnd>2020-12-21T09:31:00.794Z</recordDateEnd>
+    <recordDateStart>2020-12-21T09:14:20.098Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>c8df8ca37bc538e4c79d0ad7c2eba454bf0809abe4eb5a1d1b397312a4c80d57</sha256>
+    <startDate>2020-12-21T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T23:00:55.120Z</uploadedDate>
+  </episode>
+  <episode>
     <airingId>652</airingId>
     <content>As the coronavirus strikes the world, South Korea's corona prevention measures are recognized as a success. Professor Ki Moran, the chief of COVID-19 task force is leading the success with the government.</content>
     <description>As the coronavirus strikes the world, South Korea's corona prevention measures are recognized as a success. Professor Moran Ki, the chief of COVID-19 task force is leading the success with government.</description>
@@ -50,6 +65,21 @@
     <subtitle>The Story Behind COVID-19 Measures: Ki Moran / Professor, Department of Cancer Control and Population Health at the National Cancer Center</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T22:22:32.630Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>654</airingId>
+    <content/>
+    <description>Taavi Kotka of Estonia, an IT powerhouse with 99% of its government services available online, speaks on how engineering will shape our technological future.</description>
+    <endDate>2020-12-17T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/1NlEiArT#1paNxm31tcv_emohJDgksA</link>
+    <recordDateEnd>2020-12-17T09:30:27.903Z</recordDateEnd>
+    <recordDateStart>2020-12-17T09:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>4001af5589ef2a1568b43e61f7f8b0d171d76d27664598133fc83f54c5a7465e</sha256>
+    <startDate>2020-12-17T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T23:01:10.799Z</uploadedDate>
   </episode>
   <episode>
     <airingId>670</airingId>
@@ -66,6 +96,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T15:14:31.622Z</uploadedDate>
     <raw>https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ</raw>
+  </episode>
+  <episode>
+    <airingId>671</airingId>
+    <content>Earth Heir, a social enterprise in Malaysia is founded by Sasibai Kimis to empower the lives of marginalized communities, emphasizing on combining traditional craftsmanship with modern design.</content>
+    <description>Earth Heir, a social enterprise in Malaysia is founded by Sasibai Kimis to empower the lives of marginalized communities, emphasizing on combining traditional craftsmanship with modern design.</description>
+    <endDate>2020-12-04T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/DhkkRQ6a#0UQnFp0HdpePIKqXuYTstQ</link>
+    <recordDateEnd>2020-12-04T07:30:30.707Z</recordDateEnd>
+    <recordDateStart>2020-12-04T07:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>9d02fa8552ed6dd87c660f9de5eaee1d354a91bbdeaed65e49c3f1e380822c8f</sha256>
+    <startDate>2020-12-04T07:15:00.000Z</startDate>
+    <subtitle>Changing Perceptions: Sasibai Kimis / Founder of Earth Heir</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T23:04:18.080Z</uploadedDate>
   </episode>
   <episode>
     <airingId>675</airingId>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T23:00:03.358Z",
+  "lastUpdated": "2020-12-25T23:05:02.469Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -36,6 +36,21 @@
       "raw": "https://mega.nz/folder/BwtRBaQT#KcqvJ_9szhiwj9Z1COgwpw"
     },
     {
+      "airingId": "642",
+      "content": "",
+      "description": "Extreme weather around the world is causing an increase in major natural disasters. We ask Ishii Mieko, a nurse who has worked in several disaster zones, about how to save lives.",
+      "endDate": "2020-12-21T09:30:00.000Z",
+      "link": "https://mega.nz/folder/ZUt02apS#NWlIchuW7rAlFFq0eldY3A",
+      "recordDateEnd": "2020-12-21T09:31:00.794Z",
+      "recordDateStart": "2020-12-21T09:14:20.098Z",
+      "seriesId": "2058",
+      "sha256": "c8df8ca37bc538e4c79d0ad7c2eba454bf0809abe4eb5a1d1b397312a4c80d57",
+      "startDate": "2020-12-21T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T23:00:55.120Z"
+    },
+    {
       "airingId": "652",
       "content": "As the coronavirus strikes the world, South Korea's corona prevention measures are recognized as a success. Professor Ki Moran, the chief of COVID-19 task force is leading the success with the government.",
       "description": "As the coronavirus strikes the world, South Korea's corona prevention measures are recognized as a success. Professor Moran Ki, the chief of COVID-19 task force is leading the success with government.",
@@ -49,6 +64,21 @@
       "subtitle": "The Story Behind COVID-19 Measures: Ki Moran / Professor, Department of Cancer Control and Population Health at the National Cancer Center",
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T22:22:32.630Z"
+    },
+    {
+      "airingId": "654",
+      "content": "",
+      "description": "Taavi Kotka of Estonia, an IT powerhouse with 99% of its government services available online, speaks on how engineering will shape our technological future.",
+      "endDate": "2020-12-17T09:30:00.000Z",
+      "link": "https://mega.nz/folder/1NlEiArT#1paNxm31tcv_emohJDgksA",
+      "recordDateEnd": "2020-12-17T09:30:27.903Z",
+      "recordDateStart": "2020-12-17T09:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "4001af5589ef2a1568b43e61f7f8b0d171d76d27664598133fc83f54c5a7465e",
+      "startDate": "2020-12-17T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T23:01:10.799Z"
     },
     {
       "airingId": "670",
@@ -65,6 +95,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T15:14:31.622Z",
       "raw": "https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ"
+    },
+    {
+      "airingId": "671",
+      "content": "Earth Heir, a social enterprise in Malaysia is founded by Sasibai Kimis to empower the lives of marginalized communities, emphasizing on combining traditional craftsmanship with modern design.",
+      "description": "Earth Heir, a social enterprise in Malaysia is founded by Sasibai Kimis to empower the lives of marginalized communities, emphasizing on combining traditional craftsmanship with modern design.",
+      "endDate": "2020-12-04T07:30:00.000Z",
+      "link": "https://mega.nz/folder/DhkkRQ6a#0UQnFp0HdpePIKqXuYTstQ",
+      "recordDateEnd": "2020-12-04T07:30:30.707Z",
+      "recordDateStart": "2020-12-04T07:14:20.016Z",
+      "seriesId": "2058",
+      "sha256": "9d02fa8552ed6dd87c660f9de5eaee1d354a91bbdeaed65e49c3f1e380822c8f",
+      "startDate": "2020-12-04T07:15:00.000Z",
+      "subtitle": "Changing Perceptions: Sasibai Kimis / Founder of Earth Heir",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T23:04:18.080Z"
     },
     {
       "airingId": "675",
