@@ -27,7 +27,8 @@
           <xsl:value-of select="translate(seriesList/lastUpdated, 'TZ', ' ')"/> UTC
         </p>
         <p>
-          <a href="index.json">JSON version</a> │ 
+          <a href="index.json">JSON index</a> │ 
+          <a href="https://nhk-world.archivist.observer/">Clearnet</a> │
           <a href="http://nhkwdt2ljw4zwc2jgdwymfo4yquw2edzodlinwkoi34t5bhrduvrjgid.onion/">Tor Hidden Service</a> │
           <a href="mailto:contact@archivist.observer">contact@archivist.observer</a> (<a href="gpg.txt">GPG Key</a>)
         </p>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T05:08:50.399Z",
+  "lastUpdated": "2020-12-25T05:20:03.021Z",
   "series": [
     {
       "count": 2,
@@ -112,6 +112,22 @@
       "lastUpload": "2020-12-25T04:43:48.164Z",
       "seriesId": "2076",
       "title": "Fresh Eyes on Japan"
+    },
+    {
+      "count": 1,
+      "uniqueId": "2db080459cbd9d82",
+      "lastAiring": "2020-12-05T04:10:00.000Z",
+      "lastUpload": "2020-12-25T05:15:45.953Z",
+      "seriesId": "4031",
+      "title": "GATTEN!"
+    },
+    {
+      "count": 1,
+      "uniqueId": "3bc8dcb0dce4c540",
+      "lastAiring": "2020-12-19T01:10:00.000Z",
+      "lastUpload": "2020-12-25T05:17:34.291Z",
+      "seriesId": "2047",
+      "title": "GLOBAL AGENDA"
     },
     {
       "count": 6,
