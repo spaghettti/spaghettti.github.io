@@ -1,8 +1,53 @@
 {
-  "lastUpdated": "2020-12-25T04:55:02.606Z",
+  "lastUpdated": "2020-12-25T05:08:50.381Z",
   "seriesId": "6101",
   "title": "Four Seasons in Japan",
   "episodes": [
+    {
+      "airingId": "041",
+      "content": "",
+      "description": "Aomori's Shimokita Peninsula, jutting into the Tsugaru Straight toward Hokkaido, features osprey nests, flocks of brown-eared bulbuls, and the battle for survival with the peregrine falcon.",
+      "endDate": "2020-11-29T01:50:00.000Z",
+      "link": "https://mega.nz/folder/6x12TaJC#v-I0sxaqexx4xcfzkX3uSA",
+      "recordDateEnd": "2020-11-29T01:50:24.402Z",
+      "recordDateStart": "2020-11-29T01:39:22.608Z",
+      "seriesId": "6101",
+      "sha256": "36f1a93b45641c9779c15b6f6e280bee0ce67471fd213c41017a9ef1e008eedf",
+      "startDate": "2020-11-29T01:40:00.000Z",
+      "subtitle": "",
+      "title": "Four Seasons in Japan",
+      "uploadedDate": "2020-12-25T04:59:44.964Z"
+    },
+    {
+      "airingId": "042",
+      "content": "",
+      "description": "Yamagata's Tobishima Island in the Sea of Japan features flocks of birds resting their wings or raising their young while peregrine falcons hunt from the cliffs above to feed their nesting chicks.",
+      "endDate": "2020-12-20T01:50:00.000Z",
+      "link": "https://mega.nz/folder/6ddW2BaJ#y2rWsjakS5MIu2bapZCl7w",
+      "recordDateEnd": "2020-12-20T01:51:07.488Z",
+      "recordDateStart": "2020-12-20T01:39:22.876Z",
+      "seriesId": "6101",
+      "sha256": "1ff6038092e632102d3856449b1a069a8e47991562e3b674915a021cb9ee297c",
+      "startDate": "2020-12-20T01:40:00.000Z",
+      "subtitle": "",
+      "title": "Four Seasons in Japan",
+      "uploadedDate": "2020-12-25T04:58:59.586Z"
+    },
+    {
+      "airingId": "043",
+      "content": "",
+      "description": "Chiba's Isumi Seashore on the Boso Peninsula features a lagoon with tidal mudflat crabs and feasting birds, breeding grounds for the endangered little tern, and crucial habitat for rare beach plants.",
+      "endDate": "2020-12-22T01:20:00.000Z",
+      "link": "https://mega.nz/folder/pNNAxZwS#j7jvA3aYx9NLjvijw5niZQ",
+      "recordDateEnd": "2020-12-22T01:22:30.908Z",
+      "recordDateStart": "2020-12-22T01:09:20.098Z",
+      "seriesId": "6101",
+      "sha256": "57b094761dfe5552547f3a151067d5fa5b59c2d91e0a6027997952b335098206",
+      "startDate": "2020-12-22T01:10:00.000Z",
+      "subtitle": "",
+      "title": "Four Seasons in Japan",
+      "uploadedDate": "2020-12-25T04:55:26.889Z"
+    },
     {
       "airingId": "045",
       "content": "",
@@ -64,6 +109,21 @@
       "subtitle": "",
       "title": "Four Seasons in Japan",
       "uploadedDate": "2020-12-25T04:49:27.470Z"
+    },
+    {
+      "airingId": "070",
+      "content": "",
+      "description": "Surrounded by coral reefs, Chibishi in Okinawa offers thousands of terns and other birds an ideal breeding ground. They coexist with hermit crabs and other creatures in an island paradise.",
+      "endDate": "2020-11-23T11:40:00.000Z",
+      "link": "https://mega.nz/folder/JdAm3LSL#rL1m4LJlkyajgkZFcf6UkA",
+      "recordDateEnd": "2020-11-23T11:40:25.247Z",
+      "recordDateStart": "2020-11-23T11:29:20.101Z",
+      "seriesId": "6101",
+      "sha256": "f17639350b114335ba6fd32238acdba6871710bb8ddd5545b63651ac0f9e275f",
+      "startDate": "2020-11-23T11:30:00.000Z",
+      "subtitle": "",
+      "title": "Four Seasons in Japan",
+      "uploadedDate": "2020-12-25T04:57:09.523Z"
     }
   ]
 }

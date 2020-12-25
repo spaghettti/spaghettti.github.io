@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T04:55:02.615Z</lastUpdated>
+  <lastUpdated>2020-12-25T05:08:50.388Z</lastUpdated>
   <seriesId>cb742a1cc3a28577</seriesId>
   <title>EXTREME JAPAN</title>
+  <episode>
+    <airingId>001</airingId>
+    <content/>
+    <description>Rugged mountains. Sheer coastal cliffs. Serene forests. Join us on a journey to Japan's wild frontiers and hidden scenic wonders... a journey to Extreme Japan. Shiretoko.</description>
+    <endDate>2020-12-21T03:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/8ApCBR6B#eHYms5OdgHEddQBbaXd5hQ</link>
+    <recordDateEnd>2020-12-21T03:26:09.424Z</recordDateEnd>
+    <recordDateStart>2020-12-21T03:09:20.099Z</recordDateStart>
+    <seriesId>6202</seriesId>
+    <sha256>b7a7ce220367e8b3ed0b7b5cb28f7ef5f837efabf9233737e6ab90d1625617f5</sha256>
+    <startDate>2020-12-21T03:10:00.000Z</startDate>
+    <subtitle/>
+    <title>EXTREME JAPAN</title>
+    <uploadedDate>2020-12-25T05:08:07.228Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>003</airingId>
     <content/>

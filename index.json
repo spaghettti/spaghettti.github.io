@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T04:55:02.627Z",
+  "lastUpdated": "2020-12-25T05:08:50.399Z",
   "series": [
     {
       "count": 2,
@@ -75,9 +75,17 @@
     },
     {
       "count": 2,
+      "uniqueId": "8bc137fd12f759b5",
+      "lastAiring": "2020-12-06T00:37:00.000Z",
+      "lastUpload": "2020-12-25T05:04:39.662Z",
+      "seriesId": "3004",
+      "title": "Easy Travel Japanese"
+    },
+    {
+      "count": 3,
       "uniqueId": "cb742a1cc3a28577",
       "lastAiring": "2020-12-24T03:10:00.000Z",
-      "lastUpload": "2020-12-24T08:08:00.099Z",
+      "lastUpload": "2020-12-25T05:08:07.228Z",
       "seriesId": "6202",
       "title": "EXTREME JAPAN"
     },
@@ -90,10 +98,10 @@
       "title": "FLOWERS WILL BLOOM"
     },
     {
-      "count": 4,
+      "count": 8,
       "uniqueId": "3ade7fb84e8cc130",
       "lastAiring": "2020-12-24T01:10:00.000Z",
-      "lastUpload": "2020-12-25T04:50:47.319Z",
+      "lastUpload": "2020-12-25T04:59:44.964Z",
       "seriesId": "6101",
       "title": "Four Seasons in Japan"
     },

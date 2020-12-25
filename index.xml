@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-25T04:55:02.623Z</lastUpdated>
+  <lastUpdated>2020-12-25T05:08:50.394Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -76,9 +76,17 @@
   </series>
   <series>
     <count>2</count>
+    <uniqueId>8bc137fd12f759b5</uniqueId>
+    <lastAiring>2020-12-06T00:37:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T05:04:39.662Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>Easy Travel Japanese</title>
+  </series>
+  <series>
+    <count>3</count>
     <uniqueId>cb742a1cc3a28577</uniqueId>
     <lastAiring>2020-12-24T03:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T08:08:00.099Z</lastUpload>
+    <lastUpload>2020-12-25T05:08:07.228Z</lastUpload>
     <seriesId>6202</seriesId>
     <title>EXTREME JAPAN</title>
   </series>
@@ -91,10 +99,10 @@
     <title>FLOWERS WILL BLOOM</title>
   </series>
   <series>
-    <count>4</count>
+    <count>8</count>
     <uniqueId>3ade7fb84e8cc130</uniqueId>
     <lastAiring>2020-12-24T01:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T04:50:47.319Z</lastUpload>
+    <lastUpload>2020-12-25T04:59:44.964Z</lastUpload>
     <seriesId>6101</seriesId>
     <title>Four Seasons in Japan</title>
   </series>
