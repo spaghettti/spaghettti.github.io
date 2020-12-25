@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T20:45:03.448Z",
+  "lastUpdated": "2020-12-25T20:55:02.808Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -52,6 +52,21 @@
       "raw": "https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ"
     },
     {
+      "airingId": "709",
+      "content": "Londoner, Josie Naughton co-founded Help Refugees, a charity devoted to raising funds to help refugees and displaced people who are escaping war, persecution and poverty.",
+      "description": "Londoner, Josie Naughton co-founded Help Refugees, a charity devoted to raising funds to help refugees and displaced people who are escaping war, persecution and poverty.",
+      "endDate": "2020-11-25T07:30:00.000Z",
+      "link": "https://mega.nz/folder/GlsAjZjY#u2juJ8ZKme_j4kRKMcV1CA",
+      "recordDateEnd": "2020-11-25T07:30:31.133Z",
+      "recordDateStart": "2020-11-25T07:14:20.018Z",
+      "seriesId": "2058",
+      "sha256": "37d3efb07c60e7271f80fb8e86f04efc48a132a747b1fc9b6deb6b0e949952d0",
+      "startDate": "2020-11-25T07:15:00.000Z",
+      "subtitle": "The Forgotten Refugees: Josie Naughton / Co-founder & CEO Help Refugees",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T20:53:18.856Z"
+    },
+    {
       "airingId": "710",
       "content": "Lilian Thuram, a former football star who contributed to the victory of France in FIFA World Cup 1998, has fought with his foundation against racism through books, exhibitions and workshops since 2008.",
       "description": "Lilian Thuram, former football star who contributed the victory of France in FIFA World Cup 1998, has fought with his foundation against racism through books, exhibitions and workshops since 2008.",
@@ -65,6 +80,21 @@
       "subtitle": "Freeing the World of Racism: Lilian Thuram / Anti-Discrimination Advocate",
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T20:32:36.002Z"
+    },
+    {
+      "airingId": "712",
+      "content": "Stella Jean has submitted action plans to the council to eliminate discrimination in the Italian fashion industry. In particular, she is struggling to give non-white youth a chance to get jobs.",
+      "description": "Stella Jean has submitted action plans to the council to eliminate discrimination in the Italian fashion industry. In particular, she is struggling to give non-white youth a chance to get jobs.",
+      "endDate": "2020-12-10T07:30:00.000Z",
+      "link": "https://mega.nz/folder/Os0QUTgC#A6zvbNVZugVbpDlV01e8VQ",
+      "recordDateEnd": "2020-12-10T07:30:26.272Z",
+      "recordDateStart": "2020-12-10T07:14:20.011Z",
+      "seriesId": "2058",
+      "sha256": "0e65322775d2df6e6e4c104055eab2c5469974f795e47aa2b94a3bad697ab2fe",
+      "startDate": "2020-12-10T07:15:00.000Z",
+      "subtitle": "Building Bridges to Diversity: Stella Jean / Fashion Designer",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T20:53:03.114Z"
     },
     {
       "airingId": "713",

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T20:45:03.438Z</lastUpdated>
+  <lastUpdated>2020-12-25T20:55:02.800Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -53,6 +53,21 @@
     <raw>https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ</raw>
   </episode>
   <episode>
+    <airingId>709</airingId>
+    <content>Londoner, Josie Naughton co-founded Help Refugees, a charity devoted to raising funds to help refugees and displaced people who are escaping war, persecution and poverty.</content>
+    <description>Londoner, Josie Naughton co-founded Help Refugees, a charity devoted to raising funds to help refugees and displaced people who are escaping war, persecution and poverty.</description>
+    <endDate>2020-11-25T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/GlsAjZjY#u2juJ8ZKme_j4kRKMcV1CA</link>
+    <recordDateEnd>2020-11-25T07:30:31.133Z</recordDateEnd>
+    <recordDateStart>2020-11-25T07:14:20.018Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>37d3efb07c60e7271f80fb8e86f04efc48a132a747b1fc9b6deb6b0e949952d0</sha256>
+    <startDate>2020-11-25T07:15:00.000Z</startDate>
+    <subtitle>The Forgotten Refugees: Josie Naughton / Co-founder &amp; CEO Help Refugees</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T20:53:18.856Z</uploadedDate>
+  </episode>
+  <episode>
     <airingId>710</airingId>
     <content>Lilian Thuram, a former football star who contributed to the victory of France in FIFA World Cup 1998, has fought with his foundation against racism through books, exhibitions and workshops since 2008.</content>
     <description>Lilian Thuram, former football star who contributed the victory of France in FIFA World Cup 1998, has fought with his foundation against racism through books, exhibitions and workshops since 2008.</description>
@@ -66,6 +81,21 @@
     <subtitle>Freeing the World of Racism: Lilian Thuram / Anti-Discrimination Advocate</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T20:32:36.002Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>712</airingId>
+    <content>Stella Jean has submitted action plans to the council to eliminate discrimination in the Italian fashion industry. In particular, she is struggling to give non-white youth a chance to get jobs.</content>
+    <description>Stella Jean has submitted action plans to the council to eliminate discrimination in the Italian fashion industry. In particular, she is struggling to give non-white youth a chance to get jobs.</description>
+    <endDate>2020-12-10T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/Os0QUTgC#A6zvbNVZugVbpDlV01e8VQ</link>
+    <recordDateEnd>2020-12-10T07:30:26.272Z</recordDateEnd>
+    <recordDateStart>2020-12-10T07:14:20.011Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>0e65322775d2df6e6e4c104055eab2c5469974f795e47aa2b94a3bad697ab2fe</sha256>
+    <startDate>2020-12-10T07:15:00.000Z</startDate>
+    <subtitle>Building Bridges to Diversity: Stella Jean / Fashion Designer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T20:53:03.114Z</uploadedDate>
   </episode>
   <episode>
     <airingId>713</airingId>
