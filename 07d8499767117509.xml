@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T22:05:03.028Z</lastUpdated>
+  <lastUpdated>2020-12-25T22:25:02.920Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-24T22:20:18.161Z</uploadedDate>
     <raw>https://mega.nz/folder/BwtRBaQT#KcqvJ_9szhiwj9Z1COgwpw</raw>
+  </episode>
+  <episode>
+    <airingId>652</airingId>
+    <content>As the coronavirus strikes the world, South Korea's corona prevention measures are recognized as a success. Professor Ki Moran, the chief of COVID-19 task force is leading the success with the government.</content>
+    <description>As the coronavirus strikes the world, South Korea's corona prevention measures are recognized as a success. Professor Moran Ki, the chief of COVID-19 task force is leading the success with government.</description>
+    <endDate>2020-12-17T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/h01lBQbJ#eizOh8oxLZJ2weSQGTVZgg</link>
+    <recordDateEnd>2020-12-17T07:30:28.058Z</recordDateEnd>
+    <recordDateStart>2020-12-17T07:14:20.013Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>c555ae115bd031165b67a8fbc94cc4ddf46cc9002ecf651ca150194247502daf</sha256>
+    <startDate>2020-12-17T07:15:00.000Z</startDate>
+    <subtitle>The Story Behind COVID-19 Measures: Ki Moran / Professor, Department of Cancer Control and Population Health at the National Cancer Center</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T22:22:32.630Z</uploadedDate>
   </episode>
   <episode>
     <airingId>670</airingId>

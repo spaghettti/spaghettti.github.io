@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T22:05:03.039Z",
+  "lastUpdated": "2020-12-25T22:25:02.930Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-24T22:20:18.161Z",
       "raw": "https://mega.nz/folder/BwtRBaQT#KcqvJ_9szhiwj9Z1COgwpw"
+    },
+    {
+      "airingId": "652",
+      "content": "As the coronavirus strikes the world, South Korea's corona prevention measures are recognized as a success. Professor Ki Moran, the chief of COVID-19 task force is leading the success with the government.",
+      "description": "As the coronavirus strikes the world, South Korea's corona prevention measures are recognized as a success. Professor Moran Ki, the chief of COVID-19 task force is leading the success with government.",
+      "endDate": "2020-12-17T07:30:00.000Z",
+      "link": "https://mega.nz/folder/h01lBQbJ#eizOh8oxLZJ2weSQGTVZgg",
+      "recordDateEnd": "2020-12-17T07:30:28.058Z",
+      "recordDateStart": "2020-12-17T07:14:20.013Z",
+      "seriesId": "2058",
+      "sha256": "c555ae115bd031165b67a8fbc94cc4ddf46cc9002ecf651ca150194247502daf",
+      "startDate": "2020-12-17T07:15:00.000Z",
+      "subtitle": "The Story Behind COVID-19 Measures: Ki Moran / Professor, Department of Cancer Control and Population Health at the National Cancer Center",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T22:22:32.630Z"
     },
     {
       "airingId": "670",
