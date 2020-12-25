@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T19:55:03.654Z",
+  "lastUpdated": "2020-12-25T20:05:02.932Z",
   "seriesId": "4026",
   "title": "Document 72 Hours",
   "episodes": [
@@ -62,6 +62,21 @@
       "subtitle": "Small Wedding Stories",
       "title": "Document 72 Hours",
       "uploadedDate": "2020-12-25T19:49:33.557Z"
+    },
+    {
+      "airingId": "146",
+      "content": "A road near Tokyo's Roppongi district is an oasis for taxi drivers who are allowed to park here for as long as they like. There, the drivers can relax, eat and even sleep on a break. As the coronavirus pandemic rumbles on, how do drivers feel about their jobs? The drivers we met included one who started this career after the pandemic erupted, one thinking of quitting because his income has plunged and another who cannot quit because he has a family to support. For 3 days, we asked drivers who parked along this road about their job and what the future holds.",
+      "description": "How has the coronavirus pandemic hit taxi drivers? What are they thinking as they drive the streets of Tokyo? For 3 days, we spoke to drivers relaxing along a street, which they call their \"oasis.\"",
+      "endDate": "2020-12-15T02:00:00.000Z",
+      "link": "https://mega.nz/folder/lRAEWTgT#I1fIH2x4OLKlV3KW8200pA",
+      "recordDateEnd": "2020-12-15T02:00:35.567Z",
+      "recordDateStart": "2020-12-15T01:29:20.102Z",
+      "seriesId": "4026",
+      "sha256": "601e5ffd22c7ffbbb5c3c0a27e66b6345492d731b56af66cdfaf2cef33d90dc7",
+      "startDate": "2020-12-15T01:30:00.000Z",
+      "subtitle": "Tokyo Taxi Oasis",
+      "title": "Document 72 Hours",
+      "uploadedDate": "2020-12-25T20:02:29.590Z"
     }
   ]
 }

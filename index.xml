@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-25T19:55:03.718Z</lastUpdated>
+  <lastUpdated>2020-12-25T20:05:02.997Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -115,10 +115,10 @@
     <title>Doctor's Insight</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>3181d5ae26726a28</uniqueId>
-    <lastAiring>2020-12-08T01:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T19:51:21.780Z</lastUpload>
+    <lastAiring>2020-12-15T01:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-25T20:02:29.590Z</lastUpload>
     <seriesId>4026</seriesId>
     <title>Document 72 Hours</title>
   </series>
