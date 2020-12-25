@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T22:45:03.542Z</lastUpdated>
+  <lastUpdated>2020-12-25T23:00:03.333Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -66,6 +66,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T15:14:31.622Z</uploadedDate>
     <raw>https://mega.nz/folder/Mdk0lQYY#Xm3PUI3tlIS1qfzAsQIJIQ</raw>
+  </episode>
+  <episode>
+    <airingId>675</airingId>
+    <content/>
+    <description>With amazing economic growth in recent years, Rwanda has been pursuing a progressive ICT policy. The woman appointed Minister of ICT and Innovation at merely 35 talks about the future ICT offers.</description>
+    <endDate>2020-11-25T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/898wgIKZ#zAlzJe1aRolr_wdUlm9rWA</link>
+    <recordDateEnd>2020-11-25T09:30:27.300Z</recordDateEnd>
+    <recordDateStart>2020-11-25T09:14:20.018Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>6ef439f1855683c77af2f3d3f8ad936045de0a9761ebd8eb72e543864451ffda</sha256>
+    <startDate>2020-11-25T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T22:56:49.494Z</uploadedDate>
   </episode>
   <episode>
     <airingId>677</airingId>
