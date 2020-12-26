@@ -1,9 +1,29 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T08:10:03.255Z</lastUpdated>
+  <lastUpdated>2020-12-26T08:15:03.832Z</lastUpdated>
   <seriesId>4365cf84c14911e8</seriesId>
   <title>BIZ STREAM</title>
+  <episode>
+    <airingId>086</airingId>
+    <content>[On-Site Report]
+Strong, portable and weather resistant, shipping containers are becoming a popular choice in modern architecture. Recently, a company that operates 20 shipping container hotels in Japan's Kanto region has made many of its units available for use as portable "rescue hotels" that can be deployed almost anywhere in the country for use by rescue workers, medical staff, or for other relief services. An industrial equipment dealer also was similar potential in shipping containers and is now equipping them with solar-powered generators and high capacity batteries to create emergency response stations that can instantly provide local areas with a much needed boost to infrastructure during times of trouble. In this episode, we focus on how shipping containers can be used to bolster the Japan's emergency response capabilities.
+[In Depth: Japan Economy on Uncertain Path After GDP Bounce]
+Japan's economy had a record surge in the July to September quarter after taking a deep dive in the previous 3 months. Much of the bounce came from reopening parts of the economy that had been shut to stem the spread of the coronavirus. Now, a resurgence of cases is threatening a sustained recovery.
+[Global Trends: Indian Hotel on Wheels Offer Safe Journey]
+Tourism in India has been decimated by COVID-19, as foreign visitor numbers have plummeted and sites like the Taj Mahal have seen temporary closures to stem the spread of the virus. A hotel outside New Delhi is trying to make up for some of its lost business by offering guests something different -- a luxury suite on a bus that can take them anywhere without exposing them to anyone outside their social bubble. We catch a ride on the bus to see what the five-star hotel service looks like on wheels.</content>
+    <description>From earthquakes to typhoons, Japan is prone to a variety of natural disasters. This episode shows how shipping containers are being used to bolster the country's emergency response capabilities.</description>
+    <endDate>2020-11-21T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/V49wgbqb#ZNlWyeQBSpWbAij5A5sSlA</link>
+    <recordDateEnd>2020-11-21T14:40:27.876Z</recordDateEnd>
+    <recordDateStart>2020-11-21T14:09:20.101Z</recordDateStart>
+    <seriesId>2074</seriesId>
+    <sha256>fd77ac8d50fd3093133d46aaa85e5d3c2c617cedb0cb795ea2d9628d6dc4b9b1</sha256>
+    <startDate>2020-11-21T14:10:00.000Z</startDate>
+    <subtitle>Shipping Containers to the Rescue</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2020-12-26T08:11:06.092Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>088</airingId>
     <content>[On-Site Report]
