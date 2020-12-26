@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T00:25:02.624Z",
+  "lastUpdated": "2020-12-26T00:35:03.384Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-23T23:27:27.470Z",
       "raw": "https://mega.nz/folder/m1EjVS7T#MOfvbRn8fJwC-QOVLnwBKQ"
+    },
+    {
+      "airingId": "559",
+      "content": "",
+      "description": "Delia Ferreira Rubio represents an international NGO that aims to eliminate crimes such as bribery and embezzlement worldwide. How can we prevent corruption, which she says undermines our daily lives?",
+      "endDate": "2020-11-18T09:30:00.000Z",
+      "link": "https://mega.nz/folder/1F0FQSSS#4LY8r6glgY0XVb9dslXuqg",
+      "recordDateEnd": "2020-11-18T09:30:27.967Z",
+      "recordDateStart": "2020-11-18T09:14:20.078Z",
+      "seriesId": "2058",
+      "sha256": "c83cb48ab0e8b40e794f1116ea3a1f290d9486d72beb54af6c3358a98ef9a4a6",
+      "startDate": "2020-11-18T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-26T00:34:17.496Z"
     },
     {
       "airingId": "561",
