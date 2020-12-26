@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T07:55:02.832Z</lastUpdated>
+  <lastUpdated>2020-12-26T08:00:03.852Z</lastUpdated>
   <seriesId>e5a5b6a12ffc2a6e</seriesId>
   <title>BENTO EXPO</title>
+  <episode>
+    <airingId>024</airingId>
+    <content>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</content>
+    <description>Mark's bento features sweet and savory steak on rice. Maki uses crabsticks to make a Chinese omelet. Bento Topics takes you to New York City, where teriyaki and bento have become all the rage.</description>
+    <endDate>2020-11-23T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/clliWQjK#9IdgnQszGs8_XNWJo0WM4A</link>
+    <recordDateEnd>2020-11-23T00:45:23.537Z</recordDateEnd>
+    <recordDateStart>2020-11-23T00:29:20.003Z</recordDateStart>
+    <seriesId>2077</seriesId>
+    <sha256>295aa1bdd7b60088226b240855376c6a8e67fbe939bfcf1e117df32bcabf31be</sha256>
+    <startDate>2020-11-23T00:30:00.000Z</startDate>
+    <subtitle>Season 5-14 Steak Gyudon Bento &amp; Kanitama(crab and egg)-don Bento</subtitle>
+    <title>BENTO EXPO</title>
+    <uploadedDate>2020-12-26T07:57:59.126Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>025</airingId>
     <content>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</content>

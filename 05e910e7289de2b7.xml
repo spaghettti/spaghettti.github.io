@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T07:55:02.943Z</lastUpdated>
+  <lastUpdated>2020-12-26T08:00:04.014Z</lastUpdated>
   <seriesId>05e910e7289de2b7</seriesId>
   <title>The Great Summits</title>
   <episode>
@@ -51,6 +51,21 @@
     <title>The Great Summits</title>
     <uploadedDate>2020-12-24T07:14:08.842Z</uploadedDate>
     <raw>https://mega.nz/folder/1YsynYYR#NrEJtQKZ2SfKsL6krCrNDA</raw>
+  </episode>
+  <episode>
+    <airingId>014</airingId>
+    <content/>
+    <description>"The Great Summit" presents you with breathtaking views and stories behind famous mountains around the world. Today: Living off the riches of the mountain, Huascaran, the Andes.</description>
+    <endDate>2020-12-22T04:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/gA0kmC4I#QaX_ZDXp12kVteUj-a96TQ</link>
+    <recordDateEnd>2020-12-22T04:20:31.868Z</recordDateEnd>
+    <recordDateStart>2020-12-22T04:09:20.098Z</recordDateStart>
+    <seriesId>6113</seriesId>
+    <sha256>4e745d540d3c11c09d91d46fa0c07831ed8ca848f914a2e91816f66484d9083e</sha256>
+    <startDate>2020-12-22T04:10:00.000Z</startDate>
+    <subtitle/>
+    <title>The Great Summits</title>
+    <uploadedDate>2020-12-26T07:58:52.677Z</uploadedDate>
   </episode>
   <episode>
     <airingId>015</airingId>
