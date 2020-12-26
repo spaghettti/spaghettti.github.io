@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T03:50:03.428Z</lastUpdated>
+  <lastUpdated>2020-12-26T03:55:02.794Z</lastUpdated>
   <seriesId>582ad0f8b7805a6b</seriesId>
   <title>Core Kyoto mini</title>
   <episode>
@@ -18,6 +18,21 @@
     <subtitle/>
     <title>Core Kyoto mini</title>
     <uploadedDate>2020-12-26T03:49:58.438Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>Tsubo-niwa, life enhanced by quintessential spaces. Dive deep into the beauty of the ancient capital, still innovative 1,200 years after its foundation.</description>
+    <endDate>2020-12-20T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/5RsC1TLa#O3j_DhZfhbEl57dm2nu0fQ</link>
+    <recordDateEnd>2020-12-20T00:46:31.948Z</recordDateEnd>
+    <recordDateStart>2020-12-20T00:39:20.028Z</recordDateStart>
+    <seriesId>6024</seriesId>
+    <sha256>fdfe2be6da990fb1d27ec16caa462684dadb1ecbc74f297978e65b328d2f6898</sha256>
+    <startDate>2020-12-20T00:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Core Kyoto mini</title>
+    <uploadedDate>2020-12-26T03:52:06.490Z</uploadedDate>
   </episode>
   <episode>
     <airingId>003</airingId>
@@ -52,6 +67,36 @@
     <raw>https://mega.nz/folder/Sk8ERAAS#Fazw-cKyN6_6-OGnsYla0A</raw>
   </episode>
   <episode>
+    <airingId>006</airingId>
+    <content/>
+    <description>Kagai, Kyoto's entertainment district where elegant dreams bloom. Dive deep into the ancient capital, still innovative 1,200 years after its foundation.</description>
+    <endDate>2020-11-15T22:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/p8sQxLaT#T1rngJT56-zgU7Br8hNvng</link>
+    <recordDateEnd>2020-11-15T22:30:32.878Z</recordDateEnd>
+    <recordDateStart>2020-11-15T22:24:20.097Z</recordDateStart>
+    <seriesId>6024</seriesId>
+    <sha256>be8d806a53e1338e5ff02dc3cabddff28e95c0db7469174bc506eef26a82fe45</sha256>
+    <startDate>2020-11-15T22:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Core Kyoto mini</title>
+    <uploadedDate>2020-12-26T03:50:14.798Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>010</airingId>
+    <content/>
+    <description>Folding Fans, cooling accessories encapsulate elegance. Dive deep into the ancient capital, still innovative 1,200 years after its foundation.</description>
+    <endDate>2020-11-22T22:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/0gsAgLSB#MbT1wNLgCs4M9W8RwuB4YQ</link>
+    <recordDateEnd>2020-11-22T22:30:30.046Z</recordDateEnd>
+    <recordDateStart>2020-11-22T22:24:20.098Z</recordDateStart>
+    <seriesId>6024</seriesId>
+    <sha256>fa55433092b70b154632cefa52c1259b7a243b606d4c42637e81f91f8f47d922</sha256>
+    <startDate>2020-11-22T22:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Core Kyoto mini</title>
+    <uploadedDate>2020-12-26T03:50:19.727Z</uploadedDate>
+  </episode>
+  <episode>
     <airingId>017</airingId>
     <content/>
     <description>Modern Architecture, breathing life into the ancient capital in a new age. Dive deep into Kyoto, still innovative 1,200 years after its foundation.</description>
@@ -80,6 +125,21 @@
     <subtitle/>
     <title>Core Kyoto mini</title>
     <uploadedDate>2020-12-26T03:47:11.091Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>019</airingId>
+    <content/>
+    <description>Fabric pieces, honoring the past. Dive deep into the ancient capital, still innovative 1,200 years after its foundation.</description>
+    <endDate>2020-11-29T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/hV1CFZAK#34NKYN0XD2MC1KotU-H0AQ</link>
+    <recordDateEnd>2020-11-29T00:45:23.056Z</recordDateEnd>
+    <recordDateStart>2020-11-29T00:39:20.138Z</recordDateStart>
+    <seriesId>6024</seriesId>
+    <sha256>dae800f856b3964a6e198ecfd532829c491cf9195c625d77cdcfbe4a663ab777</sha256>
+    <startDate>2020-11-29T00:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Core Kyoto mini</title>
+    <uploadedDate>2020-12-26T03:50:25.060Z</uploadedDate>
   </episode>
   <episode>
     <airingId>020</airingId>

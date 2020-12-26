@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T03:50:03.430Z",
+  "lastUpdated": "2020-12-26T03:55:02.796Z",
   "seriesId": "6024",
   "title": "Core Kyoto mini",
   "episodes": [
@@ -17,6 +17,21 @@
       "subtitle": "",
       "title": "Core Kyoto mini",
       "uploadedDate": "2020-12-26T03:49:58.438Z"
+    },
+    {
+      "airingId": "002",
+      "content": "",
+      "description": "Tsubo-niwa, life enhanced by quintessential spaces. Dive deep into the beauty of the ancient capital, still innovative 1,200 years after its foundation.",
+      "endDate": "2020-12-20T00:45:00.000Z",
+      "link": "https://mega.nz/folder/5RsC1TLa#O3j_DhZfhbEl57dm2nu0fQ",
+      "recordDateEnd": "2020-12-20T00:46:31.948Z",
+      "recordDateStart": "2020-12-20T00:39:20.028Z",
+      "seriesId": "6024",
+      "sha256": "fdfe2be6da990fb1d27ec16caa462684dadb1ecbc74f297978e65b328d2f6898",
+      "startDate": "2020-12-20T00:40:00.000Z",
+      "subtitle": "",
+      "title": "Core Kyoto mini",
+      "uploadedDate": "2020-12-26T03:52:06.490Z"
     },
     {
       "airingId": "003",
@@ -51,6 +66,36 @@
       "raw": "https://mega.nz/folder/Sk8ERAAS#Fazw-cKyN6_6-OGnsYla0A"
     },
     {
+      "airingId": "006",
+      "content": "",
+      "description": "Kagai, Kyoto's entertainment district where elegant dreams bloom. Dive deep into the ancient capital, still innovative 1,200 years after its foundation.",
+      "endDate": "2020-11-15T22:30:00.000Z",
+      "link": "https://mega.nz/folder/p8sQxLaT#T1rngJT56-zgU7Br8hNvng",
+      "recordDateEnd": "2020-11-15T22:30:32.878Z",
+      "recordDateStart": "2020-11-15T22:24:20.097Z",
+      "seriesId": "6024",
+      "sha256": "be8d806a53e1338e5ff02dc3cabddff28e95c0db7469174bc506eef26a82fe45",
+      "startDate": "2020-11-15T22:25:00.000Z",
+      "subtitle": "",
+      "title": "Core Kyoto mini",
+      "uploadedDate": "2020-12-26T03:50:14.798Z"
+    },
+    {
+      "airingId": "010",
+      "content": "",
+      "description": "Folding Fans, cooling accessories encapsulate elegance. Dive deep into the ancient capital, still innovative 1,200 years after its foundation.",
+      "endDate": "2020-11-22T22:30:00.000Z",
+      "link": "https://mega.nz/folder/0gsAgLSB#MbT1wNLgCs4M9W8RwuB4YQ",
+      "recordDateEnd": "2020-11-22T22:30:30.046Z",
+      "recordDateStart": "2020-11-22T22:24:20.098Z",
+      "seriesId": "6024",
+      "sha256": "fa55433092b70b154632cefa52c1259b7a243b606d4c42637e81f91f8f47d922",
+      "startDate": "2020-11-22T22:25:00.000Z",
+      "subtitle": "",
+      "title": "Core Kyoto mini",
+      "uploadedDate": "2020-12-26T03:50:19.727Z"
+    },
+    {
       "airingId": "017",
       "content": "",
       "description": "Modern Architecture, breathing life into the ancient capital in a new age. Dive deep into Kyoto, still innovative 1,200 years after its foundation.",
@@ -79,6 +124,21 @@
       "subtitle": "",
       "title": "Core Kyoto mini",
       "uploadedDate": "2020-12-26T03:47:11.091Z"
+    },
+    {
+      "airingId": "019",
+      "content": "",
+      "description": "Fabric pieces, honoring the past. Dive deep into the ancient capital, still innovative 1,200 years after its foundation.",
+      "endDate": "2020-11-29T00:45:00.000Z",
+      "link": "https://mega.nz/folder/hV1CFZAK#34NKYN0XD2MC1KotU-H0AQ",
+      "recordDateEnd": "2020-11-29T00:45:23.056Z",
+      "recordDateStart": "2020-11-29T00:39:20.138Z",
+      "seriesId": "6024",
+      "sha256": "dae800f856b3964a6e198ecfd532829c491cf9195c625d77cdcfbe4a663ab777",
+      "startDate": "2020-11-29T00:40:00.000Z",
+      "subtitle": "",
+      "title": "Core Kyoto mini",
+      "uploadedDate": "2020-12-26T03:50:25.060Z"
     },
     {
       "airingId": "020",
