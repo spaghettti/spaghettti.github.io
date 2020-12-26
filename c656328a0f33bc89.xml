@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T18:00:03.639Z</lastUpdated>
+  <lastUpdated>2020-12-26T18:30:03.309Z</lastUpdated>
   <seriesId>c656328a0f33bc89</seriesId>
   <title>15 Minutes</title>
   <episode>
@@ -21,6 +21,21 @@ Tami Hiyama, 92 years old, lives alone in Fukuoka City, where she has taught hom
     <uploadedDate>2020-12-26T15:08:40.092Z</uploadedDate>
   </episode>
   <episode>
+    <airingId>113</airingId>
+    <content>Tokyo's many waterways are home to the goby, a 10cm fish that's been prized by anglers since the Edo era. Today goby fever is alive and well, attracting enthusiasts wishing to catch their beloved little fish and to do so in style! Whether it's with the traditional method like it was done hundreds of years ago, with modern lures or even by drifting along the city's canals on a floater, join us and discover the diverse and unique ways anglers enjoy goby fishing at the heart of Japan's capital.</content>
+    <description>Found in Tokyo's waterways, the goby is a 10cm fish prized by anglers since the Edo era. Today, it attracts enthusiasts who use a variety of unique ways to catch their beloved fish and do it in style!</description>
+    <endDate>2020-12-09T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/YB0k1DwB#j3AxbHkZNhzcODJNd7Ws3g</link>
+    <recordDateEnd>2020-12-09T00:45:19.469Z</recordDateEnd>
+    <recordDateStart>2020-12-09T00:29:23.223Z</recordDateStart>
+    <seriesId>3019</seriesId>
+    <sha256>15c8636b933a089550f852d04a8728d211838eff88caa0fa8bafcb71e21437ac</sha256>
+    <startDate>2020-12-09T00:30:00.000Z</startDate>
+    <subtitle>Fishing Crazy: Tokyo's Underwater Darling</subtitle>
+    <title>15 Minutes</title>
+    <uploadedDate>2020-12-26T18:27:00.363Z</uploadedDate>
+  </episode>
+  <episode>
     <airingId>116</airingId>
     <content>The coronavirus has changed everything. How can we overcome this crisis? How can we restore our normal lifestyles? In Japan, Tokyo had the largest number of coronavirus infections. In this series, we look inside 3 places in this megacity. Hotels, where many people stay. Schools, where young people gather. And airports, major transportation hubs. We'll bring you insight on how the people in these places are trying to recover.
 Tokyo International Airport is commonly known as Haneda Airport. It's a crossroads for 49 domestic and 55 international routes. In 2019, travelers using the airport averaged around 240,000 daily - the highest number in Japan. In March 2020, a new international terminal opened to increase the number of international flights to and from Haneda. However, due to the pandemic, the new terminal remains closed and never used. How do they reopen the airport as a source of transportation for people? This episode follows the efforts of those who are trying to regain safe airport operations.</content>
@@ -35,6 +50,22 @@ Tokyo International Airport is commonly known as Haneda Airport. It's a crossroa
     <subtitle>Starting Over: The Flight Goes On Part 1</subtitle>
     <title>15 Minutes</title>
     <uploadedDate>2020-12-26T17:58:49.469Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>117</airingId>
+    <content>The coronavirus has changed everything. How can we overcome this crisis? How can we restore our normal lifestyles? In Japan, Tokyo had the largest number of coronavirus infections. In this series, we look inside 3 places in this megacity. Hotels, where many people stay. Schools, where young people gather. And airports, major transportation hubs. We'll bring you insight on how the people in these places are trying to recover.
+Ever since Jiyu Gakuen opened in 1921, students had been preparing school lunches themselves. Preparing and sharing meals together is a valuable opportunity for students to socialize and bond. It's a tradition the school has proudly preserved over the years. Since the campus has been closed, naturally, the dining hall too remains empty. Can the school keep this legacy going in spite of the pandemic? As the school reopens after a period of about 6 months, the first phase of lunch preparation begins. We follow the challenges of students and teachers.</content>
+    <description>Ever since Jiyu Gakuen opened in 1921, students had been preparing school lunches themselves. Can the school keep this legacy in spite of the pandemic? The first phase of lunch preparation begins.</description>
+    <endDate>2020-12-16T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/hRx2DBKb#DfyD2tDzir8ZPj5QlO8DHA</link>
+    <recordDateEnd>2020-12-16T00:45:31.217Z</recordDateEnd>
+    <recordDateStart>2020-12-16T00:29:20.095Z</recordDateStart>
+    <seriesId>3019</seriesId>
+    <sha256>4005d7d06c136796b093ec1a946802633c9cb3fad4b852ef0654b27debff10c7</sha256>
+    <startDate>2020-12-16T00:30:00.000Z</startDate>
+    <subtitle>Starting Over: Back to School Part 2</subtitle>
+    <title>15 Minutes</title>
+    <uploadedDate>2020-12-26T18:25:56.011Z</uploadedDate>
   </episode>
   <episode>
     <airingId>118</airingId>
