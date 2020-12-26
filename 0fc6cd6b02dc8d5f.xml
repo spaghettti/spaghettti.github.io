@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T17:00:03.911Z</lastUpdated>
+  <lastUpdated>2020-12-26T17:05:02.771Z</lastUpdated>
   <seriesId>0fc6cd6b02dc8d5f</seriesId>
   <title>Anime Supernova</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Anime Supernova</title>
     <uploadedDate>2020-12-26T09:10:49.715Z</uploadedDate>
     <raw>https://mega.nz/folder/iollHQZR#rG4E2E_fli85vxQ619VIMw</raw>
+  </episode>
+  <episode>
+    <airingId>044</airingId>
+    <content>The up-and-coming creator has made the cover art for various novels, created music videos, and put together image boards for animated shows, all while attending university. Okada has gained the attention of international animation fans because of the detailed, beautiful worlds he creates and his ability to tell a story in every single cut. Watch and find out why the animation world has high expectations for this young 20-something creator.</content>
+    <description>Up-and-coming student creator Okada Shogo is known for his wide variety of work and detailed, beautiful worlds. Find out why the animation world has high expectations for this young artist.</description>
+    <endDate>2020-11-21T00:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/3gNCiZAI#CXNaRn4ifDuLu2-qTeBamw</link>
+    <recordDateEnd>2020-11-21T00:25:28.927Z</recordDateEnd>
+    <recordDateStart>2020-11-21T00:09:20.139Z</recordDateStart>
+    <seriesId>2065</seriesId>
+    <sha256>c3ccab348b9f17af6ee081f8300f6a062975dba8be95532eb8a1c2421bf3d0a5</sha256>
+    <startDate>2020-11-21T00:10:00.000Z</startDate>
+    <subtitle>A Student Creator With a Bright Future</subtitle>
+    <title>Anime Supernova</title>
+    <uploadedDate>2020-12-26T17:00:29.883Z</uploadedDate>
   </episode>
   <episode>
     <airingId>045</airingId>
