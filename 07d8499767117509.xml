@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T01:15:03.290Z</lastUpdated>
+  <lastUpdated>2020-12-26T01:20:02.833Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
+  <episode>
+    <airingId>472</airingId>
+    <content/>
+    <description>Jon Jandai is a Thai organic farmer whose self-reliant way of living attracts people from around the world. He simplifies life with the question: "Life is easy, why make it difficult?"</description>
+    <endDate>2020-11-19T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/AMgjFAgZ#C-OoT4ZR30l5VP5-zOUAxw</link>
+    <recordDateEnd>2020-11-19T09:30:34.517Z</recordDateEnd>
+    <recordDateStart>2020-11-19T09:14:20.011Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>3a16cafd4e033cfceb3468016a6144ad05e328a6f774a68ddb600322585058c7</sha256>
+    <startDate>2020-11-19T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-26T01:19:04.433Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>503</airingId>
     <content/>
@@ -19,6 +34,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-23T23:27:27.470Z</uploadedDate>
     <raw>https://mega.nz/folder/m1EjVS7T#MOfvbRn8fJwC-QOVLnwBKQ</raw>
+  </episode>
+  <episode>
+    <airingId>520</airingId>
+    <content/>
+    <description>Professor at Harvard Graduate School of Education Todd Rose demystifies the century-old average-based systems in society and proposes design paradigms to embrace individuality and unique talents.</description>
+    <endDate>2020-12-11T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/oMtljA7L#I1Fio-FNApc74FL7SwxwDw</link>
+    <recordDateEnd>2020-12-11T09:30:31.773Z</recordDateEnd>
+    <recordDateStart>2020-12-11T09:14:22.723Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>218756f87652536fd28500d59672d0e5b9c27c41565be9ead11e2cf944aa34fd</sha256>
+    <startDate>2020-12-11T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-26T01:16:49.736Z</uploadedDate>
   </episode>
   <episode>
     <airingId>548</airingId>
@@ -305,6 +335,21 @@
     <subtitle/>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T23:00:55.120Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>643</airingId>
+    <content/>
+    <description>Richard H. Kaszynski formed a global network to rapidly conduct clinical drug trials in order to fight against infectious disease pandemics. He talks about a promising drug candidate for COVID-19.</description>
+    <endDate>2020-12-22T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/1BhlEabY#7C6xHj39GTcg4oE6HEWTrQ</link>
+    <recordDateEnd>2020-12-22T09:30:30.060Z</recordDateEnd>
+    <recordDateStart>2020-12-22T09:14:20.098Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>a22a6a8235b2742723cfec175d5200c1289bde7165db5f675c605b7c1523a836</sha256>
+    <startDate>2020-12-22T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-26T01:15:39.299Z</uploadedDate>
   </episode>
   <episode>
     <airingId>644</airingId>

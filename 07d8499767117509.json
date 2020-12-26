@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2020-12-26T01:15:03.314Z",
+  "lastUpdated": "2020-12-26T01:20:02.869Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
+    {
+      "airingId": "472",
+      "content": "",
+      "description": "Jon Jandai is a Thai organic farmer whose self-reliant way of living attracts people from around the world. He simplifies life with the question: \"Life is easy, why make it difficult?\"",
+      "endDate": "2020-11-19T09:30:00.000Z",
+      "link": "https://mega.nz/folder/AMgjFAgZ#C-OoT4ZR30l5VP5-zOUAxw",
+      "recordDateEnd": "2020-11-19T09:30:34.517Z",
+      "recordDateStart": "2020-11-19T09:14:20.011Z",
+      "seriesId": "2058",
+      "sha256": "3a16cafd4e033cfceb3468016a6144ad05e328a6f774a68ddb600322585058c7",
+      "startDate": "2020-11-19T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-26T01:19:04.433Z"
+    },
     {
       "airingId": "503",
       "content": "",
@@ -18,6 +33,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-23T23:27:27.470Z",
       "raw": "https://mega.nz/folder/m1EjVS7T#MOfvbRn8fJwC-QOVLnwBKQ"
+    },
+    {
+      "airingId": "520",
+      "content": "",
+      "description": "Professor at Harvard Graduate School of Education Todd Rose demystifies the century-old average-based systems in society and proposes design paradigms to embrace individuality and unique talents.",
+      "endDate": "2020-12-11T09:30:00.000Z",
+      "link": "https://mega.nz/folder/oMtljA7L#I1Fio-FNApc74FL7SwxwDw",
+      "recordDateEnd": "2020-12-11T09:30:31.773Z",
+      "recordDateStart": "2020-12-11T09:14:22.723Z",
+      "seriesId": "2058",
+      "sha256": "218756f87652536fd28500d59672d0e5b9c27c41565be9ead11e2cf944aa34fd",
+      "startDate": "2020-12-11T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-26T01:16:49.736Z"
     },
     {
       "airingId": "548",
@@ -304,6 +334,21 @@
       "subtitle": "",
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T23:00:55.120Z"
+    },
+    {
+      "airingId": "643",
+      "content": "",
+      "description": "Richard H. Kaszynski formed a global network to rapidly conduct clinical drug trials in order to fight against infectious disease pandemics. He talks about a promising drug candidate for COVID-19.",
+      "endDate": "2020-12-22T09:30:00.000Z",
+      "link": "https://mega.nz/folder/1BhlEabY#7C6xHj39GTcg4oE6HEWTrQ",
+      "recordDateEnd": "2020-12-22T09:30:30.060Z",
+      "recordDateStart": "2020-12-22T09:14:20.098Z",
+      "seriesId": "2058",
+      "sha256": "a22a6a8235b2742723cfec175d5200c1289bde7165db5f675c605b7c1523a836",
+      "startDate": "2020-12-22T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-26T01:15:39.299Z"
     },
     {
       "airingId": "644",
