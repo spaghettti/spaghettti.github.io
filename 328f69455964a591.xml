@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T10:35:03.549Z</lastUpdated>
+  <lastUpdated>2020-12-26T11:00:03.051Z</lastUpdated>
   <seriesId>328f69455964a591</seriesId>
   <title>Doctor's Insight</title>
   <episode>
@@ -64,5 +64,20 @@
     <subtitle>Eye Diseases #5: Diabetic Retinopathy</subtitle>
     <title>Doctor's Insight</title>
     <uploadedDate>2020-12-25T19:25:12.681Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>017</airingId>
+    <content>Glaucoma is the leading cause of blindness in many countries. An estimated 7.6 billion people are living with glaucoma worldwide. In Japan, it is the leading cause of visual impairment including blindness. 1 in 20 people over the age of 40 is reported to have glaucoma, but it's hard to detect. It is thought that 90% of people living with glaucoma are unaware of it. Why is the disease hard to notice? Find out how to detect glaucoma early in order to protect your vision.</content>
+    <description>Glaucoma affects 7.6 billion people worldwide. In Japan, glaucoma is the leading cause of visual impairment, but it is hard to spot. Find out how to detect glaucoma early to protect your vision.</description>
+    <endDate>2020-12-01T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/vh0SXaqZ#8c3forVwzAaP7JyKqixWjg</link>
+    <recordDateEnd>2020-12-01T04:55:30.590Z</recordDateEnd>
+    <recordDateStart>2020-12-01T04:44:20.017Z</recordDateStart>
+    <seriesId>2086</seriesId>
+    <sha256>94d9c56cb3c306ea3c5cacdd1a67c1a9631fde3a2770212a75e04822a3bf2bf2</sha256>
+    <startDate>2020-12-01T04:45:00.000Z</startDate>
+    <subtitle>Eye Diseases #6: Glaucoma</subtitle>
+    <title>Doctor's Insight</title>
+    <uploadedDate>2020-12-26T10:55:26.091Z</uploadedDate>
   </episode>
 </episodeList>
