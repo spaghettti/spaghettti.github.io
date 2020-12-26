@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2020-12-26T13:40:02.979Z",
+  "lastUpdated": "2020-12-26T13:55:03.276Z",
   "seriesId": "6001",
   "title": "BEGIN Japanology mini",
   "episodes": [
+    {
+      "airingId": "001",
+      "content": "",
+      "description": "Trivia on aspects of Japan's unique culture and products that reflect the aesthetic sense and values of the Japanese people. Today: Sushi.",
+      "endDate": "2020-12-05T01:00:00.000Z",
+      "link": "https://mega.nz/folder/DwEXjAqY#xh52l_Ld_L4lmqYvM_80eQ",
+      "recordDateEnd": "2020-12-05T01:00:24.308Z",
+      "recordDateStart": "2020-12-05T00:54:22.691Z",
+      "seriesId": "6001",
+      "sha256": "b4e307079552c658fd87f074f19bd1ea3f309dd0414b03d1b54f6d2038e21908",
+      "startDate": "2020-12-05T00:55:00.000Z",
+      "subtitle": "",
+      "title": "BEGIN Japanology mini",
+      "uploadedDate": "2020-12-26T13:54:21.500Z"
+    },
     {
       "airingId": "002",
       "content": "",

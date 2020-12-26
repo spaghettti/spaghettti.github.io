@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T13:40:03.044Z</lastUpdated>
+  <lastUpdated>2020-12-26T13:55:03.347Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -35,10 +35,10 @@
     <title>Asia Insight</title>
   </series>
   <series>
-    <count>7</count>
+    <count>8</count>
     <uniqueId>d58f68b3577f3e24</uniqueId>
     <lastAiring>2020-12-25T02:23:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T08:20:03.236Z</lastUpload>
+    <lastUpload>2020-12-26T13:54:21.500Z</lastUpload>
     <seriesId>6001</seriesId>
     <title>BEGIN Japanology mini</title>
   </series>
