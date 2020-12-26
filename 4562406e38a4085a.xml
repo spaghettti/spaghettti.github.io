@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T12:00:03.355Z</lastUpdated>
+  <lastUpdated>2020-12-26T12:45:02.852Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
+  <episode>
+    <airingId>185</airingId>
+    <content>Our theme for this episode is steaming. We'll be making Kabura-mushi, or steamed turnip, steaming pure white grated turnip together with shrimp and vegetables for a beautiful traditional Japanese dish. The fluffy white of the grated turnip is evocative of snow, and the thick and shiny yet clear sauce shimmers like ice, giving it a look wonderfully reminiscent of winter scenery in Japan. We'll also be making delicious and nutritious Kayaku Gohan, or rice with chicken and various vegetables mixed in.</content>
+    <description>Today's recipe: (1) Kabura-mushi "Steamed Turnips" (2) Kayaku-gohan "Mixed Rice." Why not learn Japanese food culture and try real Japanese dishes at your home!</description>
+    <endDate>2020-12-08T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/L1MEUJSZ#cQrEtXCQiOIe0-2UA3Raog</link>
+    <recordDateEnd>2020-12-08T01:00:35.633Z</recordDateEnd>
+    <recordDateStart>2020-12-08T00:29:20.100Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>f85264429de2a2a60fd6226a85e608162ba80ee097a1fe198711b8e5b68405a9</sha256>
+    <startDate>2020-12-08T00:30:00.000Z</startDate>
+    <subtitle>Authentic Japanese Cooking: Kabura-mushi "Steamed Turnips"</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2020-12-26T12:40:26.220Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>219</airingId>
     <content>In this episode, we'll be making 3 uniquely Japanese sandwiches, made with Japanese ingredients, to be served like a multi-course meal. Our main sandwich features a Menchi-katsu ground meat cutlet: the crunchy fried panko bread crumbs and the juicy pork go perfectly with bread. We'll also be making a side sandwich with burdock root -- a popular vegetable in Japan -- and chicken, tossed with mayonnaise. For dessert, we have one more sandwich, filled with a combination of cream and a sweet bean paste made with Azuki beans, an indispensable ingredient for Japanese sweets. We hope you'll join us for these 3 convenient and delicious tastes of Japanese cuisine!</content>
