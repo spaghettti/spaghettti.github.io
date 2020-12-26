@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T00:00:04.078Z",
+  "lastUpdated": "2020-12-26T00:15:03.041Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -49,6 +49,36 @@
       "subtitle": "Tackling Air Pollution in Mongolia: Oyun Sanjaasuren / Director of Green Climate Fund",
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T23:56:51.961Z"
+    },
+    {
+      "airingId": "629",
+      "content": "",
+      "description": "For many foreigners living in Japan, the language barrier is hard to overcome. Choi Sungja is an advisor at a cafe where foreigners become chefs, communicating with Japan through their native cuisine.",
+      "endDate": "2020-12-01T09:30:00.000Z",
+      "link": "https://mega.nz/folder/rQcF0SRT#sW1uXDH1FPex53bNsxJThA",
+      "recordDateEnd": "2020-12-01T09:30:27.160Z",
+      "recordDateStart": "2020-12-01T09:14:22.788Z",
+      "seriesId": "2058",
+      "sha256": "26843e1890b9a48b1220db46c5ec7af2b0a040484466fa6bcd89edd22d775e3e",
+      "startDate": "2020-12-01T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-26T00:11:15.037Z"
+    },
+    {
+      "airingId": "630",
+      "content": "",
+      "description": "Director Iwaisawa Kenji won the top prize at the Ottawa International Animation Festival for his 2019 feature film. He talks about his hand-drawn approach and what he hopes to convey through his work.",
+      "endDate": "2020-12-07T18:55:00.000Z",
+      "link": "https://mega.nz/folder/VEl1UCgT#Os1VC0Sg3SDm2K0LRpdIzA",
+      "recordDateEnd": "2020-12-07T18:55:25.990Z",
+      "recordDateStart": "2020-12-07T18:39:23.527Z",
+      "seriesId": "2058",
+      "sha256": "3fc1da39c42f6f3e5c6705947f4140cbcea02bd98a6a125208514a4bebc4682d",
+      "startDate": "2020-12-07T18:40:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-26T00:14:40.759Z"
     },
     {
       "airingId": "632",
