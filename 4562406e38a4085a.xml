@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T01:55:03.359Z</lastUpdated>
+  <lastUpdated>2020-12-26T02:00:03.345Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
+  <episode>
+    <airingId>248</airingId>
+    <content>In this episode, we'll be making beautiful Chirashi sushi. This dish is perfect for winter, which is a great season for parties: not only is Chirashi sushi healthy and delicious, it's also incredibly picturesque and great for sharing on social media! This sushi features toppings in 5 different colors, arranged in straight lines, for a striking appearance that will make you want to show this dish off! For our side dish, we're preparing Chawan-mushi savory custard, a popular side for sushi, served topped with a gorgeous thickened Ankake sauce made with crab and Naganegi long onion. This meal is a great way to learn about the careful techniques used in Japanese cuisine, including how the rice is cooked, how the ingredients are prepared and advice for cooking eggs. And the result makes for a spectacular dish to serve at your next party!</content>
+    <description>Today's recipe: (1) Shrimp Chirashi Sushi (2) Chawan-mushi with Crabmeat Sauce. A gorgeous Chirashi-sushi set that's perfect for parties. Give it a try at home!</description>
+    <endDate>2020-12-22T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/XxslHSCA#CxYwib9ZPXLmiJR9J_W3cQ</link>
+    <recordDateEnd>2020-12-22T01:01:07.976Z</recordDateEnd>
+    <recordDateStart>2020-12-22T00:29:20.130Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>abd00edb4eea2419528365dcbe031997e2ab5cb0dd1f3993aee64dbfa05e29a6</sha256>
+    <startDate>2020-12-22T00:30:00.000Z</startDate>
+    <subtitle>Rika's TOKYO CUISINE: Shrimp Chirashi Sushi</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2020-12-26T01:56:36.158Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>279</airingId>
     <content>Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques! Featured recipes: (1) Squid and Nori Rolls (Isobe-age) (2) Ankake Noodles with Mushrooms.</content>
