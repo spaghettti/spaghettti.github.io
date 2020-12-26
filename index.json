@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T02:35:03.121Z",
+  "lastUpdated": "2020-12-26T02:50:03.622Z",
   "series": [
     {
       "count": 2,
@@ -90,10 +90,18 @@
       "title": "CYCLE AROUND JAPAN  Highlights"
     },
     {
-      "count": 1,
+      "count": 2,
+      "uniqueId": "f85084a2d40d190a",
+      "lastAiring": "2020-12-01T04:30:00.000Z",
+      "lastUpload": "2020-12-26T02:48:32.562Z",
+      "seriesId": "2085",
+      "title": "DEEPER LOOK from New York"
+    },
+    {
+      "count": 2,
       "uniqueId": "93f1898b227dbd5d",
       "lastAiring": "2020-12-24T00:30:00.000Z",
-      "lastUpload": "2020-12-24T04:41:46.569Z",
+      "lastUpload": "2020-12-26T02:47:48.438Z",
       "seriesId": "2046",
       "title": "DESIGN TALKS plus"
     },
