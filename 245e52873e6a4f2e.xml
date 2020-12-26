@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
+<episodeList>
+  <lastUpdated>2020-12-26T07:50:02.757Z</lastUpdated>
+  <seriesId>245e52873e6a4f2e</seriesId>
+  <title>Broadcasters' Eye</title>
+  <episode>
+    <airingId>028</airingId>
+    <content/>
+    <description>Broadcasters'Eye showcases excellent programs produced by Japanese commercial broadcasters.This episode tells the tale of an  Ainu man trying to save his indigenous culture.</description>
+    <endDate>2020-11-15T10:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/Ig10BCrS#f2ZNLG_XmZrPWpB8nIZ9Qw</link>
+    <recordDateEnd>2020-11-15T10:55:24.251Z</recordDateEnd>
+    <recordDateStart>2020-11-15T10:09:20.314Z</recordDateStart>
+    <seriesId>5006</seriesId>
+    <sha256>e4f690a4f336b1590dea49acaa9d7fedb0642c823584de3c5ab8fb0b6fd218df</sha256>
+    <startDate>2020-11-15T10:10:00.000Z</startDate>
+    <subtitle>Notebooks of Heritage: Reclaiming Traditions of the Ainu People</subtitle>
+    <title>Broadcasters' Eye</title>
+    <uploadedDate>2020-12-26T07:49:46.784Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>030</airingId>
+    <content/>
+    <description>This program gives a touching portrait of nine-year-old Michitsuji Yuna, a strong and determined blind girl from the city of Isahaya in Nagasaki Prefecture who dreams of delighting people as a singer.</description>
+    <endDate>2020-12-19T23:57:00.000Z</endDate>
+    <link>https://mega.nz/folder/hQ0QXSxB#9HrNsxBxV9_7tODG0fkV1A</link>
+    <recordDateEnd>2020-12-19T23:58:29.183Z</recordDateEnd>
+    <recordDateStart>2020-12-19T23:09:20.101Z</recordDateStart>
+    <seriesId>5006</seriesId>
+    <sha256>62cdb18ff3d4575847ce93aceabf86754778f60cfbb771341a7f0b8a886f2d65</sha256>
+    <startDate>2020-12-19T23:10:00.000Z</startDate>
+    <subtitle>Yuna's Song of Light</subtitle>
+    <title>Broadcasters' Eye</title>
+    <uploadedDate>2020-12-26T07:46:08.227Z</uploadedDate>
+  </episode>
+</episodeList>
