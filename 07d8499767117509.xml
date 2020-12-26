@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T00:55:02.696Z</lastUpdated>
+  <lastUpdated>2020-12-26T01:15:03.290Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -34,6 +34,21 @@
     <subtitle/>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T00:52:44.667Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>554</airingId>
+    <content/>
+    <description>Trinh Khanh Ha works on developing robotic prosthetic arms in Vietnam. With groundbreaking prosthetic arms, she gives hope to disabled people who gave up their work.</description>
+    <endDate>2020-12-09T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/oVoxzSLS#3xtyvTzd3RLRWwBZJ7__jg</link>
+    <recordDateEnd>2020-12-09T09:30:28.327Z</recordDateEnd>
+    <recordDateStart>2020-12-09T09:14:20.013Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>a2edecf0659182988adf1fc030352ba76f191bcf20be84e9b6c2005bccfcd4fb</sha256>
+    <startDate>2020-12-09T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-26T01:13:15.162Z</uploadedDate>
   </episode>
   <episode>
     <airingId>559</airingId>
