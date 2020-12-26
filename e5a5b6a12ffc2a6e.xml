@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T08:30:03.898Z</lastUpdated>
+  <lastUpdated>2020-12-26T08:40:03.208Z</lastUpdated>
   <seriesId>e5a5b6a12ffc2a6e</seriesId>
   <title>BENTO EXPO</title>
+  <episode>
+    <airingId>020</airingId>
+    <content>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</content>
+    <description>Marc's bento features chicken wings braised in a sweet and savory sauce. Maki brings you a bento of meat-stuffed mushrooms. And from Lyon, France, a one-of-a-kind bento full of local specialties.</description>
+    <endDate>2020-11-30T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/HM9zWSST#mXtKSY4dvunPm7boK3PlxQ</link>
+    <recordDateEnd>2020-11-30T00:45:31.940Z</recordDateEnd>
+    <recordDateStart>2020-11-30T00:29:20.090Z</recordDateStart>
+    <seriesId>2077</seriesId>
+    <sha256>e006091d8c1fa9ce8b60bf006a50e676860f14759add1a6db4770c10fbbb216c</sha256>
+    <startDate>2020-11-30T00:30:00.000Z</startDate>
+    <subtitle>Season 5-10 Braised Chicken Wing Bento &amp; Stuffed Mushroom Bento</subtitle>
+    <title>BENTO EXPO</title>
+    <uploadedDate>2020-12-26T08:38:35.723Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>021</airingId>
     <content>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</content>
