@@ -1,9 +1,26 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T04:05:02.908Z</lastUpdated>
+  <lastUpdated>2020-12-26T04:35:02.843Z</lastUpdated>
   <seriesId>830c4969cf7e7135</seriesId>
   <title>BIZ STREAM</title>
+  <episode>
+    <airingId>705</airingId>
+    <content>[BIZ STREAM SPECIAL EDITION]
+This series of special editions feature selected stories from BIZ STREAM's signature "On-Site" reports. Businesses that help customers to stay socially distanced are catching on as people seek ways to venture out while still following safety guidelines. This episode features a shopping complex with AI-driven digital floor maps that show customers how crowded shops and restaurants are in real-time and a restaurant management company that is using outdoor spaces to provide customers with safer ways to dine out.</content>
+    <description>From AI-driven digital floor maps to open-air restaurants, this special edition of Biz Stream features businesses that are helping customers to remain socially-distanced while eating out.</description>
+    <endDate>2020-12-22T02:23:00.000Z</endDate>
+    <link>https://mega.nz/folder/xgtyWZ4b#DqtNxQr0xqlogMxrv8hMvA</link>
+    <recordDateEnd>2020-12-22T02:23:31.296Z</recordDateEnd>
+    <recordDateStart>2020-12-22T02:09:20.098Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>6dfebde5ca414e9fcc73e1fe6251769b113668a216d5ecdca4708dffa7e66420</sha256>
+    <startDate>2020-12-22T02:10:00.000Z</startDate>
+    <subtitle>Distancing-Based Businesses Providing Peace of Mind</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2020-12-26T04:31:35.400Z</uploadedDate>
+    <raw>https://mega.nz/folder/69s0EDwR#3QY81TP8kuB414c051I7iA</raw>
+  </episode>
   <episode>
     <airingId>706</airingId>
     <content>[BIZ STREAM SPECIAL EDITION]
