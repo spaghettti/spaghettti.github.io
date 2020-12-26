@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2020-12-26T16:05:02.554Z",
+  "lastUpdated": "2020-12-26T16:10:02.841Z",
   "seriesId": "2022",
   "title": "Asia Insight",
   "episodes": [
+    {
+      "airingId": "278",
+      "content": "In July of 2018, a new theater group was formed in the southern Chinese city of Guangzhou. The subject of their performances is their own audience: Through improvisational theater, they express personal experiences suggested by the audience members, helping to give voices to the struggles of average people. However, they hit a major setback when a show was halted by the police, after which almost no theater would consent to renting them space. Now the group pushes on to find a new place in their home city, where they work to increase understanding and empathy among both loyal fans and new audience members.",
+      "description": "This episode follows a theater group in China, that improvises shows based on audience members' stories. Despite being shut down, they are determined to express the voices of their supporters.",
+      "endDate": "2020-12-04T02:00:00.000Z",
+      "link": "https://mega.nz/folder/ppNWBLaI#IbHwmr-yHXcg23DpXPfMWQ",
+      "recordDateEnd": "2020-12-04T02:00:30.217Z",
+      "recordDateStart": "2020-12-04T01:29:20.099Z",
+      "seriesId": "2022",
+      "sha256": "25de2e88ddb8f2a37bc1833bd7777be1f7a3a1522a86a65bcd27a2b5281cd530",
+      "startDate": "2020-12-04T01:30:00.000Z",
+      "subtitle": "Performing Your Story in China",
+      "title": "Asia Insight",
+      "uploadedDate": "2020-12-26T16:05:24.387Z"
+    },
     {
       "airingId": "279",
       "content": "Ho Chi Minh, Vietnam, is home to the Center for Disability Research and Capacity Development (DRD), an NGO led by Vo Thi Hoang Yen. As well as providing university scholarships and support for job-searching, Yen and her 13 staff are developing a digital map with detailed accessibility information for locations around Vietnam. Many people in Vietnam believe that people with disabilities are being punished for transgressions in a past life, leaving them marginalized and unable to find work. By encouraging Vietnam's disabled population to become independent, Yen and the DRD are looking to change Vietnam's attitude towards disability.",
