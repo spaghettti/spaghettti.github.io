@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T03:25:03.790Z</lastUpdated>
+  <lastUpdated>2020-12-26T03:30:04.202Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -75,11 +75,11 @@
     <title>Core Kyoto mini</title>
   </series>
   <series>
-    <count>1</count>
-    <uniqueId>849018bc46f056a7</uniqueId>
+    <count>2</count>
+    <uniqueId>1e180bdf5031da76</uniqueId>
     <lastAiring>2020-12-23T15:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-23T22:48:45.697Z</lastUpload>
-    <seriesId>2083</seriesId>
+    <lastUpload>2020-12-26T03:29:56.575Z</lastUpload>
+    <seriesId>2083,2084</seriesId>
     <title>Culture Crossroads</title>
   </series>
   <series>
@@ -91,10 +91,10 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>de77f30c8ee5dd46</uniqueId>
     <lastAiring>2020-12-19T00:25:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T03:16:17.659Z</lastUpload>
+    <lastUpload>2020-12-26T03:28:15.637Z</lastUpload>
     <seriesId>4030</seriesId>
     <title>Darwin's Amazing Animals</title>
   </series>
