@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T17:05:02.816Z</lastUpdated>
+  <lastUpdated>2020-12-26T17:30:03.071Z</lastUpdated>
   <seriesId>c656328a0f33bc89</seriesId>
   <title>15 Minutes</title>
   <episode>
@@ -36,6 +36,21 @@ With 87 million passengers per year, Haneda Airport is one of the world's busies
     <title>15 Minutes</title>
     <uploadedDate>2020-12-24T17:00:41.344Z</uploadedDate>
     <raw>https://mega.nz/folder/Wl8AkAJL#8sWCFg1TMS23fC7SApJ5NA</raw>
+  </episode>
+  <episode>
+    <airingId>123</airingId>
+    <content>Just north of Tokyo there's a place where whale fossils have been found on dry land! And the shaved ice desserts in that area taste amazing! Could those 2 facts be related? How can we find out? We'll need to call in an expert. We'll need to call ... Ground Detective Simon Wallis, a professor whose sideline is traveling around Japan solving geologic mysteries! In this episode, he travels to the Chichibu area in Saitama Prefecture to see just what makes their shaved ice so tasty!</content>
+    <description>Ground Detective Simon Wallis travels around Japan solving geologic mysteries! In this episode, he travels to the Chichibu area in Saitama prefecture to see what makes their shaved ice so tasty!</description>
+    <endDate>2020-11-25T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/KsNUGZJR#GnuCtIU0ChuEJc0prevpXw</link>
+    <recordDateEnd>2020-11-25T00:45:26.660Z</recordDateEnd>
+    <recordDateStart>2020-11-25T00:29:22.987Z</recordDateStart>
+    <seriesId>3019</seriesId>
+    <sha256>ffe2d5132f593c25a762ed0ef4ab7839d428eb1f6d54e0c61d4e6094f5b109a7</sha256>
+    <startDate>2020-11-25T00:30:00.000Z</startDate>
+    <subtitle>Ground Detective Simon Wallis: File #1 "The Case of the Kakigori"</subtitle>
+    <title>15 Minutes</title>
+    <uploadedDate>2020-12-26T17:29:51.058Z</uploadedDate>
   </episode>
   <episode>
     <airingId>126</airingId>

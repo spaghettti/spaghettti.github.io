@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T17:05:02.890Z</lastUpdated>
+  <lastUpdated>2020-12-26T17:30:03.148Z</lastUpdated>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
     <lastAiring>2020-12-23T00:45:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T15:08:40.092Z</lastUpload>
+    <lastUpload>2020-12-26T17:29:51.058Z</lastUpload>
     <seriesId>3019</seriesId>
     <title>15 Minutes</title>
   </series>
@@ -35,12 +35,20 @@
     <title>Anime Supernova</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>b6a4aecdfcf53169</uniqueId>
     <lastAiring>2020-12-25T01:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T16:48:15.859Z</lastUpload>
+    <lastUpload>2020-12-26T17:29:27.089Z</lastUpload>
     <seriesId>2022</seriesId>
     <title>Asia Insight</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>f5e3954766b12687</uniqueId>
+    <lastAiring>2020-11-22T05:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-26T17:29:42.755Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>Barakan Discovers: The Tokyo of 2020</title>
   </series>
   <series>
     <count>8</count>
