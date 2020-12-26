@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-25T23:15:03.484Z",
+  "lastUpdated": "2020-12-26T00:00:04.078Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -34,6 +34,36 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-24T22:20:18.161Z",
       "raw": "https://mega.nz/folder/BwtRBaQT#KcqvJ_9szhiwj9Z1COgwpw"
+    },
+    {
+      "airingId": "589",
+      "content": "Air pollution is causing health problems in Ulaanbaatar, the Mongolian capital. We speak with former Mongolian Minister of the Environment, Oyun Sanjaasuren, on its causes and solutions.",
+      "description": "Air pollution is causing health problems in Ulaanbaatar, the Mongolian capital. We speak with former Mongolian Minister of the Environment, Oyun Sanjaasuren, on its causes and solutions.",
+      "endDate": "2020-11-18T07:30:00.000Z",
+      "link": "https://mega.nz/folder/9IpkASSR#UnHiMZgOaQcHh7YHT3N3WA",
+      "recordDateEnd": "2020-11-18T07:30:28.897Z",
+      "recordDateStart": "2020-11-18T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "0313839073baf1e59eff052a8756239cdb0b6fd5d6d24aff510d012de78327a2",
+      "startDate": "2020-11-18T07:15:00.000Z",
+      "subtitle": "Tackling Air Pollution in Mongolia: Oyun Sanjaasuren / Director of Green Climate Fund",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T23:56:51.961Z"
+    },
+    {
+      "airingId": "632",
+      "content": "",
+      "description": "Yoshitake Shinsuke is one of Japan's best known children's book authors, the winner of multiple international prizes. He finds inspiration in aspects of kids' lives that grown-ups tend to ignore.",
+      "endDate": "2020-12-08T18:55:00.000Z",
+      "link": "https://mega.nz/folder/80UlzYzL#koqsu5ZioEisdTdNPxQXUQ",
+      "recordDateEnd": "2020-12-08T18:55:27.935Z",
+      "recordDateStart": "2020-12-08T18:39:20.098Z",
+      "seriesId": "2058",
+      "sha256": "afe1791ce382f0de8ccd424ac8d635924aed7d5f0b9aaeaf802412d25f7f918c",
+      "startDate": "2020-12-08T18:40:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-25T23:58:04.043Z"
     },
     {
       "airingId": "636",

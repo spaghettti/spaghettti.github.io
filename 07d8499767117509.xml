@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-25T23:15:03.468Z</lastUpdated>
+  <lastUpdated>2020-12-26T00:00:04.059Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -35,6 +35,36 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-24T22:20:18.161Z</uploadedDate>
     <raw>https://mega.nz/folder/BwtRBaQT#KcqvJ_9szhiwj9Z1COgwpw</raw>
+  </episode>
+  <episode>
+    <airingId>589</airingId>
+    <content>Air pollution is causing health problems in Ulaanbaatar, the Mongolian capital. We speak with former Mongolian Minister of the Environment, Oyun Sanjaasuren, on its causes and solutions.</content>
+    <description>Air pollution is causing health problems in Ulaanbaatar, the Mongolian capital. We speak with former Mongolian Minister of the Environment, Oyun Sanjaasuren, on its causes and solutions.</description>
+    <endDate>2020-11-18T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/9IpkASSR#UnHiMZgOaQcHh7YHT3N3WA</link>
+    <recordDateEnd>2020-11-18T07:30:28.897Z</recordDateEnd>
+    <recordDateStart>2020-11-18T07:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>0313839073baf1e59eff052a8756239cdb0b6fd5d6d24aff510d012de78327a2</sha256>
+    <startDate>2020-11-18T07:15:00.000Z</startDate>
+    <subtitle>Tackling Air Pollution in Mongolia: Oyun Sanjaasuren / Director of Green Climate Fund</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T23:56:51.961Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>632</airingId>
+    <content/>
+    <description>Yoshitake Shinsuke is one of Japan's best known children's book authors, the winner of multiple international prizes. He finds inspiration in aspects of kids' lives that grown-ups tend to ignore.</description>
+    <endDate>2020-12-08T18:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/80UlzYzL#koqsu5ZioEisdTdNPxQXUQ</link>
+    <recordDateEnd>2020-12-08T18:55:27.935Z</recordDateEnd>
+    <recordDateStart>2020-12-08T18:39:20.098Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>afe1791ce382f0de8ccd424ac8d635924aed7d5f0b9aaeaf802412d25f7f918c</sha256>
+    <startDate>2020-12-08T18:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-25T23:58:04.043Z</uploadedDate>
   </episode>
   <episode>
     <airingId>636</airingId>
