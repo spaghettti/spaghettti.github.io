@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T09:45:03.702Z</lastUpdated>
+  <lastUpdated>2020-12-26T10:25:02.760Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -601,6 +601,14 @@
     <lastUpload>2020-12-24T22:51:24.010Z</lastUpload>
     <seriesId>2042</seriesId>
     <title>RISING</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>1556f6f237b61d69</uniqueId>
+    <lastAiring>2020-12-25T15:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-26T10:22:04.936Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>SAMURAI WHEELS 2020 SPECIAL</title>
   </series>
   <series>
     <count>6</count>

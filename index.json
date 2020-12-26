@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T09:45:03.707Z",
+  "lastUpdated": "2020-12-26T10:25:02.765Z",
   "series": [
     {
       "count": 2,
@@ -600,6 +600,14 @@
       "lastUpload": "2020-12-24T22:51:24.010Z",
       "seriesId": "2042",
       "title": "RISING"
+    },
+    {
+      "count": 1,
+      "uniqueId": "1556f6f237b61d69",
+      "lastAiring": "2020-12-25T15:30:00.000Z",
+      "lastUpload": "2020-12-26T10:22:04.936Z",
+      "seriesId": "3004",
+      "title": "SAMURAI WHEELS 2020 SPECIAL"
     },
     {
       "count": 6,
