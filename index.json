@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T06:15:04.120Z",
+  "lastUpdated": "2020-12-26T06:30:04.098Z",
   "series": [
     {
       "count": 2,
@@ -34,10 +34,10 @@
       "title": "BEGIN Japanology mini"
     },
     {
-      "count": 3,
+      "count": 4,
       "uniqueId": "830c4969cf7e7135",
       "lastAiring": "2020-12-24T02:10:00.000Z",
-      "lastUpload": "2020-12-26T04:31:35.400Z",
+      "lastUpload": "2020-12-26T06:28:32.933Z",
       "seriesId": "3004",
       "title": "BIZ STREAM"
     },
@@ -50,10 +50,10 @@
       "title": "BIZ STREAM"
     },
     {
-      "count": 2,
+      "count": 3,
       "uniqueId": "67100a925b586aba",
       "lastAiring": "2020-12-24T23:30:00.000Z",
-      "lastUpload": "2020-12-26T06:11:59.266Z",
+      "lastUpload": "2020-12-26T06:26:52.991Z",
       "seriesId": "7000",
       "title": "CATCH JAPAN"
     },

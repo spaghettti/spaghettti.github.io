@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T06:15:04.117Z</lastUpdated>
+  <lastUpdated>2020-12-26T06:30:04.094Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -35,10 +35,10 @@
     <title>BEGIN Japanology mini</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>830c4969cf7e7135</uniqueId>
     <lastAiring>2020-12-24T02:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T04:31:35.400Z</lastUpload>
+    <lastUpload>2020-12-26T06:28:32.933Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>BIZ STREAM</title>
   </series>
@@ -51,10 +51,10 @@
     <title>BIZ STREAM</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>67100a925b586aba</uniqueId>
     <lastAiring>2020-12-24T23:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T06:11:59.266Z</lastUpload>
+    <lastUpload>2020-12-26T06:26:52.991Z</lastUpload>
     <seriesId>7000</seriesId>
     <title>CATCH JAPAN</title>
   </series>

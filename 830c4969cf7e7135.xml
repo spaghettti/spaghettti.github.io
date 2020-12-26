@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T06:15:04.016Z</lastUpdated>
+  <lastUpdated>2020-12-26T06:30:04.009Z</lastUpdated>
   <seriesId>830c4969cf7e7135</seriesId>
   <title>BIZ STREAM</title>
+  <episode>
+    <airingId>704</airingId>
+    <content>[BIZ STREAM SPECIAL EDITION]
+This series of special editions feature selected stories from BIZ STREAM's signature "On-Site" reports. As the pandemic approaches the one-year mark, the way many people live and work has changed drastically. In Japan, a new type of share house system has been introduced that allows customers to rotate between several locations all over the country. The company's business model is also attracting attention as one way to make use of the increasing amount of vacant housing in Japan's rural areas.</content>
+    <description>This special edition features a business that converts vacant properties in scenic rural areas across Japan into share houses that tenants can rotate between.</description>
+    <endDate>2020-12-21T02:23:00.000Z</endDate>
+    <link>https://mega.nz/folder/vZNm0LpT#1uxyCIuUIpn_J-V6daLIGw</link>
+    <recordDateEnd>2020-12-21T02:24:00.902Z</recordDateEnd>
+    <recordDateStart>2020-12-21T02:09:20.103Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>951e8af278ba329d3a4f23bcde8de5a023bbe6b1611f79ec7c32eb975dddbc5e</sha256>
+    <startDate>2020-12-21T02:10:00.000Z</startDate>
+    <subtitle>Getting a New Lease on Life During the Pandemic</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2020-12-26T06:28:32.933Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>705</airingId>
     <content>[BIZ STREAM SPECIAL EDITION]
