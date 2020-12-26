@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T03:30:04.046Z</lastUpdated>
+  <lastUpdated>2020-12-26T03:35:03.208Z</lastUpdated>
   <seriesId>054ab52e36a50c36</seriesId>
   <title>CYCLE AROUND JAPAN  Highlights</title>
+  <episode>
+    <airingId>017</airingId>
+    <content>Summer, when Hokkaido Prefecture's flowers are in full bloom, is the best season to visit the most northerly of Japan's major islands. On this 530km cycle trip, Zac Reynolds from Australia discovers the history of Hokkaido's early pioneering farmers, and explores the culture of the island's indigenous Ainu people.</content>
+    <description>Hokkaido is the best place for cycling in summer. We'll see the history of its early pioneering farmers and the indigenous people, Ainu. Come with us on a 530km ride to the northernmost tip of Japan.</description>
+    <endDate>2020-12-17T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/oJgB3IwQ#NQruh-PJNw0fK8BIVeepxQ</link>
+    <recordDateEnd>2020-12-17T15:00:27.910Z</recordDateEnd>
+    <recordDateStart>2020-12-17T14:29:20.099Z</recordDateStart>
+    <seriesId>2070</seriesId>
+    <sha256>6727b61a1ac6a8b7798bdf0e63ae47619d32160da4044cf8156ae15e66970545</sha256>
+    <startDate>2020-12-17T14:30:00.000Z</startDate>
+    <subtitle>Hokkaido - Journey to The Far North</subtitle>
+    <title>CYCLE AROUND JAPAN  Highlights</title>
+    <uploadedDate>2020-12-26T03:30:10.292Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>029</airingId>
     <content>This three-day, 360km trip takes us from lowland Gifu Prefecture and its blossoming cherry trees north into the snow-covered central mountains. We'll visit a traditional swordsmith to watch him forge katana blades from living flame, a hillside town built on water and some of Japan's most iconic thatched-roof homes. A final adventure involves our cyclist in a 200-year old tradition of amateur village kabuki, one of the many ways people have found to enjoy life in the remote mountains.</content>
