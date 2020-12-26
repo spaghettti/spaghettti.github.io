@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T01:20:03.051Z</lastUpdated>
+  <lastUpdated>2020-12-26T01:25:03.546Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -99,10 +99,10 @@
     <title>DESIGN TALKS plus</title>
   </series>
   <series>
-    <count>49</count>
+    <count>50</count>
     <uniqueId>07d8499767117509</uniqueId>
     <lastAiring>2020-12-25T09:15:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T01:19:04.433Z</lastUpload>
+    <lastUpload>2020-12-26T01:22:44.655Z</lastUpload>
     <seriesId>2058</seriesId>
     <title>Direct Talk</title>
   </series>

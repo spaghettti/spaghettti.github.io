@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T01:20:02.869Z",
+  "lastUpdated": "2020-12-26T01:25:03.390Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -17,6 +17,21 @@
       "subtitle": "",
       "title": "Direct Talk",
       "uploadedDate": "2020-12-26T01:19:04.433Z"
+    },
+    {
+      "airingId": "487",
+      "content": "",
+      "description": "Andria Zafirakou, an art teacher in London, won the Global Teacher Prize 2018 and is using the prize money of $1 million to create a foundation to help provide arts to disadvantaged school children.",
+      "endDate": "2020-11-20T09:30:00.000Z",
+      "link": "https://mega.nz/folder/Md9FnQZJ#aB08wZT6MARQGfWgMpRkKg",
+      "recordDateEnd": "2020-11-20T09:30:30.568Z",
+      "recordDateStart": "2020-11-20T09:14:20.041Z",
+      "seriesId": "2058",
+      "sha256": "0e8570f053758d45d87d89c2b0784d61125a41703f41ce24a2490fd7566cfd09",
+      "startDate": "2020-11-20T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-26T01:22:44.655Z"
     },
     {
       "airingId": "503",
@@ -348,7 +363,8 @@
       "startDate": "2020-12-22T09:15:00.000Z",
       "subtitle": "",
       "title": "Direct Talk",
-      "uploadedDate": "2020-12-26T01:15:39.299Z"
+      "uploadedDate": "2020-12-26T01:15:39.299Z",
+      "raw": "https://mega.nz/folder/Bp12RDRD#gbfDZWSP-Sc8_ua8LMbAIg"
     },
     {
       "airingId": "644",
