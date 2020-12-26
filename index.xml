@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T03:40:03.879Z</lastUpdated>
+  <lastUpdated>2020-12-26T03:45:03.875Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -67,26 +67,26 @@
     <title>Core Kyoto</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>582ad0f8b7805a6b</uniqueId>
     <lastAiring>2020-12-24T03:25:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T07:39:37.579Z</lastUpload>
+    <lastUpload>2020-12-26T03:43:15.916Z</lastUpload>
     <seriesId>6024</seriesId>
     <title>Core Kyoto mini</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>1f5fba41f3b4738b</uniqueId>
-    <lastAiring>2020-11-23T23:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T03:36:15.200Z</lastUpload>
+    <lastAiring>2020-12-11T23:55:00.000Z</lastAiring>
+    <lastUpload>2020-12-26T03:43:53.362Z</lastUpload>
     <seriesId>6034</seriesId>
     <title>Covid-19: Medical Frontiers</title>
   </series>
   <series>
-    <count>3</count>
-    <uniqueId>dbf0b35ed1dd2ddb</uniqueId>
+    <count>5</count>
+    <uniqueId>849018bc46f056a7</uniqueId>
     <lastAiring>2020-12-23T15:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T03:38:37.202Z</lastUpload>
+    <lastUpload>2020-12-26T03:43:36.210Z</lastUpload>
     <seriesId>2076,2083,2084</seriesId>
     <title>Culture Crossroads</title>
   </series>

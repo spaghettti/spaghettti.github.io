@@ -1,9 +1,39 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T03:25:03.788Z</lastUpdated>
+  <lastUpdated>2020-12-26T03:45:03.872Z</lastUpdated>
   <seriesId>849018bc46f056a7</seriesId>
   <title>Culture Crossroads</title>
+  <episode>
+    <airingId>004</airingId>
+    <content>Would you know what to do in an earthquake in a crowded city? Learn the keys to survival in the life-or-death 72-hour period after an urban earthquake through a hands-on tour at SONA AREA TOKYO.</content>
+    <description>Would you know what to do in an earthquake in a crowded city? Learn the keys to survival in the life-or-death 72-hour period after an urban earthquake through a hands-on tour at SONA AREA TOKYO.</description>
+    <endDate>2020-12-02T15:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/wx1FBYLa#ZL3uxERtJzN_WsewUTnH1A</link>
+    <recordDateEnd>2020-12-02T15:40:28.706Z</recordDateEnd>
+    <recordDateStart>2020-12-02T15:29:20.096Z</recordDateStart>
+    <seriesId>2084</seriesId>
+    <sha256>2cd50919094408e4e3e8836c99018b3bea3a0c544e37fc1aaa195382e5276167</sha256>
+    <startDate>2020-12-02T15:30:00.000Z</startDate>
+    <subtitle>BOSAI: Be Prepared - What to Do in an Urban Earthquake</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2020-12-26T03:29:56.575Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>013</airingId>
+    <content>Over 300,000 foreign students are currently in Japan pursuing studies and looking for work after graduation. However, like many others, they too are being severely affected by the coronavirus pandemic. This program focuses on the efforts of a Japanese language school and an employment agency as they take on new approaches to help students from abroad overcome the crisis.</content>
+    <description>As foreign students in Japan struggle to overcome the crisis brought on by the pandemic, a Japanese language school and an employment agency take on new approaches to provide them with support.</description>
+    <endDate>2020-11-25T15:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/7lknnQBB#4RNLRPANnyDRv62GXomCIA</link>
+    <recordDateEnd>2020-11-25T15:45:29.037Z</recordDateEnd>
+    <recordDateStart>2020-11-25T15:29:22.921Z</recordDateStart>
+    <seriesId>2083</seriesId>
+    <sha256>ac35bc6a15c2626132c5145d425eb97bd5d37bd9b3ebeeb96e9bb4c0f25cc4d9</sha256>
+    <startDate>2020-11-25T15:30:00.000Z</startDate>
+    <subtitle>Foreign Students - Japan's Future</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2020-12-26T03:43:36.210Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>014</airingId>
     <content>Pandemic-era Japan's foreign residents are more isolated than ever. We look at the efforts of Kalakasan, a group empowering immigrant women, and a teacher who supports foreign students in Yamaguchi Prefecture.</content>
@@ -19,5 +49,35 @@
     <title>Culture Crossroads</title>
     <uploadedDate>2020-12-23T22:48:45.697Z</uploadedDate>
     <raw>https://mega.nz/folder/HosyiZQL#TQqX2XgB9K9BiUkpEe7WUg</raw>
+  </episode>
+  <episode>
+    <airingId>016</airingId>
+    <content>This time, we respond to a request from a viewer in Pakistan who wants to know about kite-flying in Japan. Our reporter is Bilal Khan, an announcer in our Urdu broadcasting division. A kite-flying event is held all over Japan to offer wishes for an end to the COVID-19 pandemic. By attending the event, Bilal learns about the unique meaning of kites in Japan. Japan's kite-flying culture goes back to the 8th century. It experienced a boom during the 17th century and then developed differently from region to region. Bilal visits Niigata Prefecture where a huge kite battle will take place. He experiences a culture of unique large kites with a 300-year history and meets a craftsman who makes kites using traditional techniques. Bilal tries to make and fly a kite himself. How are kites unique in Japan? And will his kite fly?</content>
+    <description>Our theme is Japanese kite culture. We look at their history through a Niigata kite battle and a craftsman in a traditional shop. Our reporter tries to make and fly a kite. Will it get off the ground?</description>
+    <endDate>2020-12-16T15:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/ZQ8R2K6R#RY4pNNdo7MhoJXiEr8YFsA</link>
+    <recordDateEnd>2020-12-16T15:45:28.355Z</recordDateEnd>
+    <recordDateStart>2020-12-16T15:29:22.811Z</recordDateStart>
+    <seriesId>2083</seriesId>
+    <sha256>3e72cde59e305ef7ea760b534b1248298635350309e8cd0f5843a3547415922e</sha256>
+    <startDate>2020-12-16T15:30:00.000Z</startDate>
+    <subtitle>WHAT'S YOUR CONNECTION?: Wishing on a Kite</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2020-12-26T03:41:05.954Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>023</airingId>
+    <content>This time, we answer a question from carpet designer Abdelilah Boubchir, a resident of Algeria, who wants to know about Japanese carpet making and the history. Our reporter is Karima Elsamny, an Arabic broadcast announcer from Egypt. In Okayama Prefecture's Kurashiki area, local Igusa rush grass is used to produce Hanagoza mats and Igusa carpets called Kurashiki Dantsu. Both were once exported overseas. Made of dyed Igusa rush grass woven into patterns, Hanagoza mats were especially popular. Igusa can absorb moisture and thus be used in hot, humid Japanese summers. We explore the appeal of rugs and carpets designed for the climate of Japan.</content>
+    <description>We explore the world of rugs created for hot, humid Japan. Okayama Prefecture produces rugs and woven carpets made of Igusa rush grass. We report on their export history and local popularity.</description>
+    <endDate>2020-12-09T15:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/qwt0XJCY#qcUXKQGsToxDvtpBjZ0b9Q</link>
+    <recordDateEnd>2020-12-09T15:40:32.683Z</recordDateEnd>
+    <recordDateStart>2020-12-09T15:29:20.099Z</recordDateStart>
+    <seriesId>2076</seriesId>
+    <sha256>3b37e6442d11e1e50d938772efb1eb80e454832cf20155ba95ae3d8285f12fc5</sha256>
+    <startDate>2020-12-09T15:30:00.000Z</startDate>
+    <subtitle>WHAT'S YOUR CONNECTION?: Japanese Grass Mats</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2020-12-26T03:38:37.202Z</uploadedDate>
   </episode>
 </episodeList>
