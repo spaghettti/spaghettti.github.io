@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T11:50:03.159Z</lastUpdated>
+  <lastUpdated>2020-12-26T12:00:03.443Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -80,6 +80,21 @@
     <subtitle/>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T01:16:49.736Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>528</airingId>
+    <content/>
+    <description>Madeline Stuart is a fashion model and entrepreneur with Down syndrome, traveling around the world with the support of her mother Rosanne. She breaks from conventional ways to open people's minds.</description>
+    <endDate>2020-11-27T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/kFh2gKQT#AsIuoFAWgd0G3UlYi8JuaQ</link>
+    <recordDateEnd>2020-11-27T09:30:31.733Z</recordDateEnd>
+    <recordDateStart>2020-11-27T09:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>3eec8fa335aaa32faa75c783f39ecd6f0df0aa8566f066d980719c4a946e7918</sha256>
+    <startDate>2020-11-27T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-26T11:56:09.543Z</uploadedDate>
   </episode>
   <episode>
     <airingId>548</airingId>
@@ -170,6 +185,21 @@
     <subtitle>No Salsa, No Life: NORA / Singer</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T00:24:31.135Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>572</airingId>
+    <content>Sho Kitagawa plays the balalaika, a traditional Russian stringed musical instrument. He was the first person from outside Russia to win a prestigious Russian music competition.</content>
+    <description>Sho Kitagawa plays the balalaika, a traditional Russian stringed musical instrument. He was the first person from outside Russia to win a prestigious Russian music competition.</description>
+    <endDate>2020-11-23T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/r89ASQjZ#8WtLbFKQePTxW2D7mi0pGw</link>
+    <recordDateEnd>2020-11-23T07:30:26.960Z</recordDateEnd>
+    <recordDateStart>2020-11-23T07:14:20.100Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>bd7d2071630edd0c89d848e55e0fc9df2d7c372016d04b3be533933194437c84</sha256>
+    <startDate>2020-11-23T07:15:00.000Z</startDate>
+    <subtitle>A Three Generation Dream: Sho Kitagawa / Balalaika Player</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-26T11:58:26.375Z</uploadedDate>
   </episode>
   <episode>
     <airingId>573</airingId>
