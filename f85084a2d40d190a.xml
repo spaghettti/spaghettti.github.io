@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T07:05:03.095Z</lastUpdated>
+  <lastUpdated>2020-12-26T07:15:03.792Z</lastUpdated>
   <seriesId>f85084a2d40d190a</seriesId>
   <title>DEEPER LOOK from New York</title>
   <episode>
@@ -18,6 +18,22 @@
     <subtitle>Fighting Anti-Asian Racism: Russell Jeung / Professor of Asian American Studies, San Francisco State University</subtitle>
     <title>DEEPER LOOK from New York</title>
     <uploadedDate>2020-12-26T02:58:23.806Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>012</airingId>
+    <content>This year, as countries continue to grapple with the pandemic, there are many discussions about whether or not it is the right time to return to school. In the U.S., images of high school hallways packed with students not wearing facemasks went viral on social media, and in some states, schools have been forced to shut down shortly after reopening. But on the flipside, many students and their families are already experiencing difficulties with online learning. So, is this the right time to reopen schools? We asked the director of education UNESCO, Dr. Borhene Chakroun who joins us from Paris, France.</content>
+    <description>An experienced anchor Del Irani has a cutting-edge dialogue. This time, she talks with Dr. Borhene Chakroun, Director of the Division for Policies and Lifelong Learning Systems in UNESCO.</description>
+    <endDate>2020-12-22T04:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/M09xiIKC#Ob0NclSrJthA9mha53hOSg</link>
+    <recordDateEnd>2020-12-22T04:45:20.368Z</recordDateEnd>
+    <recordDateStart>2020-12-22T04:29:20.098Z</recordDateStart>
+    <seriesId>2085</seriesId>
+    <sha256>013cdfc8440bbfed13c3990debd699ada9b1fe770c62407bf4c386730d6502b2</sha256>
+    <startDate>2020-12-22T04:30:00.000Z</startDate>
+    <subtitle>Is it the Right Time to Reopen Schools?: Borhene Chakroun / Director, Division for Policies and Lifelong Learning Systems, UNESCO</subtitle>
+    <title>DEEPER LOOK from New York</title>
+    <uploadedDate>2020-12-26T07:10:29.581Z</uploadedDate>
+    <raw>https://mega.nz/folder/hw1hTKRB#QQygKtJks8A040mBSTZ4mQ</raw>
   </episode>
   <episode>
     <airingId>018</airingId>
