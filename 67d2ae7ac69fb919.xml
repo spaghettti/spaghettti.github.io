@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T14:20:03.300Z</lastUpdated>
+  <lastUpdated>2020-12-26T14:55:03.434Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -18,6 +18,21 @@
     <subtitle>Karesansui: The Zen Cosmos in a Garden for Spiritual Training</subtitle>
     <title>Core Kyoto</title>
     <uploadedDate>2020-12-26T05:57:50.983Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>018</airingId>
+    <content>Kyoto confections are Wagashi, or traditional confections, infused with Kyoto's charm and influenced by the tea ceremony. With beautiful designs and names that subtly reflect the seasons, tea confections are an art form to be appreciated with the 5 senses. When making these confections, importance is placed on the semblance and name they are given. Inspiration is drawn from local nature, art, music and literature. Feel Japan's culture, nature and climate through flavorsome Kyoto confections.</content>
+    <description>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core. Today: Kyoto confections as experiencing Kyoto culture through the five senses.</description>
+    <endDate>2020-12-07T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/QFRFXCaQ#TT42_ePVZzn5rl_E8QJnlQ</link>
+    <recordDateEnd>2020-12-07T15:00:32.167Z</recordDateEnd>
+    <recordDateStart>2020-12-07T14:29:20.098Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>cfc54d74b8c88a3dd0c94b520560fc38e05fafd54493031bafc0a06d93d5a2f6</sha256>
+    <startDate>2020-12-07T14:30:00.000Z</startDate>
+    <subtitle>Kyoto Confections: Experiencing Kyoto Culture through the Five Senses</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2020-12-26T14:51:12.246Z</uploadedDate>
   </episode>
   <episode>
     <airingId>027</airingId>

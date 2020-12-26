@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T14:20:03.539Z</lastUpdated>
+  <lastUpdated>2020-12-26T14:55:03.633Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -107,10 +107,10 @@
     <title>COOL JAPAN</title>
   </series>
   <series>
-    <count>8</count>
+    <count>9</count>
     <uniqueId>67d2ae7ac69fb919</uniqueId>
     <lastAiring>2020-12-23T23:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T14:15:25.628Z</lastUpload>
+    <lastUpload>2020-12-26T14:51:12.246Z</lastUpload>
     <seriesId>2029</seriesId>
     <title>Core Kyoto</title>
   </series>
