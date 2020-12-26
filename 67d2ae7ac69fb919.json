@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T04:35:02.707Z",
+  "lastUpdated": "2020-12-26T04:55:02.599Z",
   "seriesId": "2029",
   "title": "Core Kyoto",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "Core Kyoto",
       "uploadedDate": "2020-12-24T05:46:14.720Z",
       "raw": "https://mega.nz/folder/jZdECT7I#VHWIFwxTedb8tR4iD_HO-w"
+    },
+    {
+      "airingId": "146",
+      "content": "Solid, durable and decorative, lacquer is a lustrous, natural polymer used in art, architecture, Buddhist statues, and everyday items. Kyoto was the seat of the emperor and aristocratic culture, so lacquerers always strove to out-dazzle each other and, in the process, refined their workmanship. Undeterred by difficulties they face from the pandemic, lacquerers today continue the art while searching for fresh ideas. Discover how they create the unconventional and innovative within the traditional.",
+      "description": "Solid, durable and decorative, lacquer is used in art, buildings, and everyday articles. Kyoto lacquerers strive to out-dazzle each other to create unconventional and innovative within the tradition.",
+      "endDate": "2020-12-17T00:00:00.000Z",
+      "link": "https://mega.nz/folder/3BdjiapC#L2yW58sPutoIiVh6LwrSkw",
+      "recordDateEnd": "2020-12-17T00:00:25.846Z",
+      "recordDateStart": "2020-12-16T23:29:23.004Z",
+      "seriesId": "2029",
+      "sha256": "b9845a688f7705fd79b5961c0618b044be8c976c450a2d0848eeb4eaa7a7f9de",
+      "startDate": "2020-12-16T23:30:00.000Z",
+      "subtitle": "Nouveau Lacquerware: Vibrant, Dazzling Beauty",
+      "title": "Core Kyoto",
+      "uploadedDate": "2020-12-26T04:53:28.963Z"
     }
   ]
 }
