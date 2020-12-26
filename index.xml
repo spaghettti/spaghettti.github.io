@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T03:35:03.348Z</lastUpdated>
+  <lastUpdated>2020-12-26T03:40:03.879Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -76,17 +76,25 @@
   </series>
   <series>
     <count>2</count>
-    <uniqueId>1e180bdf5031da76</uniqueId>
-    <lastAiring>2020-12-23T15:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T03:29:56.575Z</lastUpload>
-    <seriesId>2083,2084</seriesId>
-    <title>Culture Crossroads</title>
+    <uniqueId>1f5fba41f3b4738b</uniqueId>
+    <lastAiring>2020-11-23T23:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-26T03:36:15.200Z</lastUpload>
+    <seriesId>6034</seriesId>
+    <title>Covid-19: Medical Frontiers</title>
   </series>
   <series>
     <count>3</count>
+    <uniqueId>dbf0b35ed1dd2ddb</uniqueId>
+    <lastAiring>2020-12-23T15:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-26T03:38:37.202Z</lastUpload>
+    <seriesId>2076,2083,2084</seriesId>
+    <title>Culture Crossroads</title>
+  </series>
+  <series>
+    <count>5</count>
     <uniqueId>054ab52e36a50c36</uniqueId>
     <lastAiring>2020-12-24T14:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T03:30:10.292Z</lastUpload>
+    <lastUpload>2020-12-26T03:39:36.502Z</lastUpload>
     <seriesId>2070</seriesId>
     <title>CYCLE AROUND JAPAN  Highlights</title>
   </series>

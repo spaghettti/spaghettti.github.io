@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2020-12-26T03:35:03.209Z",
+  "lastUpdated": "2020-12-26T03:40:03.771Z",
   "seriesId": "2070",
   "title": "CYCLE AROUND JAPAN  Highlights",
   "episodes": [
+    {
+      "airingId": "014",
+      "content": "Spring has come at last in Aomori Prefecture, at the northernmost tip of Honshu. In May, buds are blooming and the countryside is turning lushly green. Our cyclist takes a ride from the ocean to the mountainside. Scallops are cultivated in the rich spring ocean and apple trees are blooming in the vast plane. Locals love the soulful melody played with Tsugaru Shamisen, a traditional musical instrument. They endure long severe winters and bring up the spirit of fortitude. Join us on a trip through nature and experience traditions of northern Japan!",
+      "description": "Spring has come at last in Aomori, at the northernmost tip of Honshu. In May, the countryside is turning lushly green. Come with us on a four-day cycle ride through this beautiful northern land.",
+      "endDate": "2020-11-19T15:00:00.000Z",
+      "link": "https://mega.nz/folder/nwlEjTAD#hgNSOCK68LVcZNIqgWAHjg",
+      "recordDateEnd": "2020-11-19T15:00:28.161Z",
+      "recordDateStart": "2020-11-19T14:29:20.136Z",
+      "seriesId": "2070",
+      "sha256": "ac91d6dacc2e62cb8554a94e93deb32c1fadbcf4ad203c25a001c4b35530e842",
+      "startDate": "2020-11-19T14:30:00.000Z",
+      "subtitle": "Aomori - A Spirit of Fortitude",
+      "title": "CYCLE AROUND JAPAN  Highlights",
+      "uploadedDate": "2020-12-26T03:39:36.502Z"
+    },
+    {
+      "airingId": "015",
+      "content": "If you're a thrill seeker, we recommend the steep roads of Aizu, in the Fukushima mountains. Our cyclist heads deep into the woods where autumn colors decorate the forest. He finds a village stuck in time where locals gladly share their traditions. He learns about a style of hand weaving called, Karamushi and explores 300-year-old storehouses where sake is brewed. We'll also be exposed to an education system from the samurai era for girls that remains unchanged. This 300km ride provides a glimpse into the lives of proud locals with a resilient culture.",
+      "description": "Our rider heads to Aizu, high in the Fukushima mountains where autumn has arrived. He steps back in time when he visits an old village steeped in tradition. Join us on our 300-kilometer journey!",
+      "endDate": "2020-12-03T15:00:00.000Z",
+      "link": "https://mega.nz/folder/KotmWRSb#4KSY7EZr9MwdI-y5EIYx-A",
+      "recordDateEnd": "2020-12-03T15:00:33.635Z",
+      "recordDateStart": "2020-12-03T14:29:20.086Z",
+      "seriesId": "2070",
+      "sha256": "9d1301ed92389213819d933039f14a8c9dc87c41dc464bb32475ed92449ec44f",
+      "startDate": "2020-12-03T14:30:00.000Z",
+      "subtitle": "Aizu - A Tapestry of Tradition",
+      "title": "CYCLE AROUND JAPAN  Highlights",
+      "uploadedDate": "2020-12-26T03:39:05.286Z"
+    },
     {
       "airingId": "017",
       "content": "Summer, when Hokkaido Prefecture's flowers are in full bloom, is the best season to visit the most northerly of Japan's major islands. On this 530km cycle trip, Zac Reynolds from Australia discovers the history of Hokkaido's early pioneering farmers, and explores the culture of the island's indigenous Ainu people.",

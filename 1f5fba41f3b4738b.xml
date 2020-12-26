@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
+<episodeList>
+  <lastUpdated>2020-12-26T03:40:03.858Z</lastUpdated>
+  <seriesId>1f5fba41f3b4738b</seriesId>
+  <title>Covid-19: Medical Frontiers</title>
+  <episode>
+    <airingId>004</airingId>
+    <content/>
+    <description>In this unprecedented time of the coronavirus pandemic, we've put together several healthy living tips from past episodes to help keep you and your family healthy.</description>
+    <endDate>2020-11-23T23:15:00.000Z</endDate>
+    <link>https://mega.nz/folder/aYsEFDQT#4nPIaBpkOQhcYqrgwckirg</link>
+    <recordDateEnd>2020-11-23T23:15:30.806Z</recordDateEnd>
+    <recordDateStart>2020-11-23T23:09:20.099Z</recordDateStart>
+    <seriesId>6034</seriesId>
+    <sha256>423488d5c85a0b0788beea38ae0bf3dc9ac2ed6301e50541f62bce3b1ceadccb</sha256>
+    <startDate>2020-11-23T23:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Covid-19: Medical Frontiers</title>
+    <uploadedDate>2020-12-26T03:36:15.200Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>005</airingId>
+    <content/>
+    <description>In this unprecedented time of the coronavirus pandemic, we've put together several healthy living tips from past episodes to help keep you and your family healthy.</description>
+    <endDate>2020-11-15T11:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/wUgWEDQY#iGmtqe5nvMdrnxfvrqgtLg</link>
+    <recordDateEnd>2020-11-15T11:00:28.803Z</recordDateEnd>
+    <recordDateStart>2020-11-15T10:54:21.006Z</recordDateStart>
+    <seriesId>6034</seriesId>
+    <sha256>26b27d528dfa10d0ffb0ec657d0441e46cc5ea336114572ab9f32fc58d7a81db</sha256>
+    <startDate>2020-11-15T10:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Covid-19: Medical Frontiers</title>
+    <uploadedDate>2020-12-26T03:35:16.584Z</uploadedDate>
+  </episode>
+</episodeList>
