@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T02:55:02.738Z</lastUpdated>
+  <lastUpdated>2020-12-26T03:00:03.889Z</lastUpdated>
   <seriesId>93f1898b227dbd5d</seriesId>
   <title>DESIGN TALKS plus</title>
   <episode>
@@ -18,6 +18,21 @@
     <subtitle>Ancient Design</subtitle>
     <title>DESIGN TALKS plus</title>
     <uploadedDate>2020-12-24T04:41:46.569Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>135</airingId>
+    <content>On Design Hunts Andy and Shaula search for designs rooted in regional history and climates. This time they visit Ishikawa Prefecture. In the first episode, they explore the historic city of Kanazawa and its many traditions. A castle town and stronghold of the Kaga domain, it flourished under the Maeda family as the home of traditional arts, crafts and foods. Today structures such as the glass dome and Noh drum gate of Kanazawa station, and the 21st Century Museum of Contemporary Art have also put it on the map for cutting-edge design. Discover how the city is still creating arts and crafts while shaping a future for regional culture. Join us on a design hunt in Kanazawa!</content>
+    <description>Today's theme: Design Hunting in Kanazawa, Ishikawa prefecture. This historic castle town is home to a variety of traditional arts, crafts, and food as well as dazzling modern architecture and design.</description>
+    <endDate>2020-12-03T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/6slAQBYA#aydP7p-51TwIup3g6VGLqQ</link>
+    <recordDateEnd>2020-12-03T01:00:29.728Z</recordDateEnd>
+    <recordDateStart>2020-12-03T00:29:20.100Z</recordDateStart>
+    <seriesId>2046</seriesId>
+    <sha256>809c7a1cc1e0cafea08b2806f7b0c0ba251ded231736cf8aaec9b1ec7f60ca2d</sha256>
+    <startDate>2020-12-03T00:30:00.000Z</startDate>
+    <subtitle>Design Hunting in Kanazawa, Ishikawa Prefecture</subtitle>
+    <title>DESIGN TALKS plus</title>
+    <uploadedDate>2020-12-26T02:57:57.196Z</uploadedDate>
   </episode>
   <episode>
     <airingId>137</airingId>

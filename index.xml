@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T02:55:03.006Z</lastUpdated>
+  <lastUpdated>2020-12-26T03:00:04.049Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -91,18 +91,18 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>f85084a2d40d190a</uniqueId>
     <lastAiring>2020-12-15T04:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T02:51:32.578Z</lastUpload>
+    <lastUpload>2020-12-26T02:58:23.806Z</lastUpload>
     <seriesId>2085</seriesId>
     <title>DEEPER LOOK from New York</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>93f1898b227dbd5d</uniqueId>
     <lastAiring>2020-12-24T00:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T02:47:48.438Z</lastUpload>
+    <lastUpload>2020-12-26T02:57:57.196Z</lastUpload>
     <seriesId>2046</seriesId>
     <title>DESIGN TALKS plus</title>
   </series>
@@ -115,10 +115,10 @@
     <title>Dig More Japan</title>
   </series>
   <series>
-    <count>7</count>
+    <count>8</count>
     <uniqueId>4562406e38a4085a</uniqueId>
     <lastAiring>2020-12-22T00:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T02:33:03.935Z</lastUpload>
+    <lastUpload>2020-12-26T02:58:18.052Z</lastUpload>
     <seriesId>2019</seriesId>
     <title>Dining with the Chef</title>
   </series>
