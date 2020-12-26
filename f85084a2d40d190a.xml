@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T02:50:03.527Z</lastUpdated>
+  <lastUpdated>2020-12-26T02:55:02.846Z</lastUpdated>
   <seriesId>f85084a2d40d190a</seriesId>
   <title>DEEPER LOOK from New York</title>
   <episode>
@@ -33,5 +33,20 @@
     <subtitle>How Has America Changed?: Yo-Yo Ma / Cellist</subtitle>
     <title>DEEPER LOOK from New York</title>
     <uploadedDate>2020-12-26T02:48:32.562Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>020</airingId>
+    <content>2020 has become a historic year for women. Senator Kamala Harris will be the first woman and person of color to serve as Vice President of the United States. Women also made significant gains in both the House and the Senate. Still, the number of women who will hold seats in Congress is only about 26%, far from equal representation. How can we enhance women's participation in politics? And why is it important? We asked Debbie Walsh, who has been helping women run for public office.</content>
+    <description>An experienced anchor Del Irani has a cutting-edge dialogue. This time, Debbie Walsh, director of Center for American Women and Politics, talks how we can enhance women's participation in politics.</description>
+    <endDate>2020-12-15T04:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/EA0QyJjI#JscEf0TsM2ioe7QgL3nIWg</link>
+    <recordDateEnd>2020-12-15T04:45:26.181Z</recordDateEnd>
+    <recordDateStart>2020-12-15T04:29:22.641Z</recordDateStart>
+    <seriesId>2085</seriesId>
+    <sha256>a5cecc4898d1ffc80e61fa3ad1e035d763c26b69fc3ece9936f1a95655bc9baa</sha256>
+    <startDate>2020-12-15T04:30:00.000Z</startDate>
+    <subtitle>How Can Women's Political Participation Be Enhanced?: Debbie Walsh / Director, Center for American Women and Politics, Rutgers University</subtitle>
+    <title>DEEPER LOOK from New York</title>
+    <uploadedDate>2020-12-26T02:51:32.578Z</uploadedDate>
   </episode>
 </episodeList>

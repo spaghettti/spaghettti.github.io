@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T02:50:03.618Z</lastUpdated>
+  <lastUpdated>2020-12-26T02:55:03.006Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -91,10 +91,10 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>f85084a2d40d190a</uniqueId>
-    <lastAiring>2020-12-01T04:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T02:48:32.562Z</lastUpload>
+    <lastAiring>2020-12-15T04:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-26T02:51:32.578Z</lastUpload>
     <seriesId>2085</seriesId>
     <title>DEEPER LOOK from New York</title>
   </series>
