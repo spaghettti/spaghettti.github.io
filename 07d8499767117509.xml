@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T00:15:03.019Z</lastUpdated>
+  <lastUpdated>2020-12-26T00:20:03.016Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -37,6 +37,21 @@
     <raw>https://mega.nz/folder/BwtRBaQT#KcqvJ_9szhiwj9Z1COgwpw</raw>
   </episode>
   <episode>
+    <airingId>584</airingId>
+    <content/>
+    <description>Ziauddin Yousafzai is a teacher and activist who stood up to the Taliban in Pakistan. With his daughter Malala, he campaigns for girl's education and equality around the world.</description>
+    <endDate>2020-12-10T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/po0FAKRD#0tzk6X3MmUH63zKpvX3Vng</link>
+    <recordDateEnd>2020-12-10T09:30:32.746Z</recordDateEnd>
+    <recordDateStart>2020-12-10T09:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>07a5bc60e235fcef0f27b30a9ea8ef8e416c628947dff43372325afe7ef1e60b</sha256>
+    <startDate>2020-12-10T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-26T00:19:17.633Z</uploadedDate>
+  </episode>
+  <episode>
     <airingId>589</airingId>
     <content>Air pollution is causing health problems in Ulaanbaatar, the Mongolian capital. We speak with former Mongolian Minister of the Environment, Oyun Sanjaasuren, on its causes and solutions.</content>
     <description>Air pollution is causing health problems in Ulaanbaatar, the Mongolian capital. We speak with former Mongolian Minister of the Environment, Oyun Sanjaasuren, on its causes and solutions.</description>
@@ -50,6 +65,36 @@
     <subtitle>Tackling Air Pollution in Mongolia: Oyun Sanjaasuren / Director of Green Climate Fund</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T23:56:51.961Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>619</airingId>
+    <content/>
+    <description>Koichiro Kobayashi has won gold at the Paraclimbing World Championships four times in a row. He works to help people who are visually impaired take up climbing. What does the sport mean to him?</description>
+    <endDate>2020-11-17T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/1AoDxALZ#pm_Y2nAVaP0EseKh5-fI1g</link>
+    <recordDateEnd>2020-11-17T09:30:28.707Z</recordDateEnd>
+    <recordDateStart>2020-11-17T09:14:20.018Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>a5ff656931beb2dc2f65d8a81592a952891b088445c64ce111facd8f47983464</sha256>
+    <startDate>2020-11-17T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-26T00:16:23.049Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>628</airingId>
+    <content/>
+    <description>Bartender Gokan Shingo was named 2017 International Bartender of the Year. He talks about the secrets behind his signature cocktails and what he loves about bar culture.</description>
+    <endDate>2020-11-30T18:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/po8FnA5R#9IcEq-Upm2T8oRfxpzZvWg</link>
+    <recordDateEnd>2020-11-30T18:55:28.618Z</recordDateEnd>
+    <recordDateStart>2020-11-30T18:39:22.730Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>61e4c55573808a444ea3a470926c8645d0e85fe032f0585e8563693ac3a324d4</sha256>
+    <startDate>2020-11-30T18:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-26T00:17:05.781Z</uploadedDate>
   </episode>
   <episode>
     <airingId>629</airingId>
