@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T03:00:03.908Z</lastUpdated>
+  <lastUpdated>2020-12-26T03:15:02.999Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -33,6 +33,21 @@
     <subtitle/>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T01:22:44.655Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>498</airingId>
+    <content>Acclaimed Japan-China expert and Harvard Professor Emeritus Ezra Vogel discusses the history, cultural connection, and relationship between the 2 nations, and suggests how they can forge closer ties.</content>
+    <description>Acclaimed Japan-China expert and Harvard Professor Emeritus Ezra Vogel discussed the history, cultural connection and relationship between the 2 nations, and suggested how they can forge closer ties.</description>
+    <endDate>2020-12-22T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/QYdwlByR#xr8xa2sYVLi6sEhn4ZoCYg</link>
+    <recordDateEnd>2020-12-22T07:30:30.190Z</recordDateEnd>
+    <recordDateStart>2020-12-22T07:14:20.002Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>bba32154f9a3724a9efbe59ca257840932a69bc483b04d33e4f8c70bd7b94b22</sha256>
+    <startDate>2020-12-22T07:15:00.000Z</startDate>
+    <subtitle>Japan-China Relations, an Outsider's Perspective: Ezra Vogel / Sociologist</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-26T03:10:30.321Z</uploadedDate>
   </episode>
   <episode>
     <airingId>503</airingId>
