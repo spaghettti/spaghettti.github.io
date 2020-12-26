@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T08:00:03.940Z",
+  "lastUpdated": "2020-12-26T08:10:03.309Z",
   "seriesId": "6001",
   "title": "BEGIN Japanology mini",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "BEGIN Japanology mini",
       "uploadedDate": "2020-12-25T15:27:47.851Z",
       "raw": "https://mega.nz/folder/MFVEDDIY#kT9VP15Q-50lPrO77ORM0w"
+    },
+    {
+      "airingId": "020",
+      "content": "",
+      "description": "Trivia on aspects of Japan's unique culture and products that reflect the aesthetic sense and values of the Japanese people. Today: Katsura Imperial Villa.",
+      "endDate": "2020-12-20T02:00:00.000Z",
+      "link": "https://mega.nz/folder/OckkjLzR#eq1kUewjczeXkQot4fclmA",
+      "recordDateEnd": "2020-12-20T02:01:07.632Z",
+      "recordDateStart": "2020-12-20T01:54:20.101Z",
+      "seriesId": "6001",
+      "sha256": "52c12728399f69a06ce807495852336e79f3a3ff3b144756551e2f0751a7b8b5",
+      "startDate": "2020-12-20T01:55:00.000Z",
+      "subtitle": "",
+      "title": "BEGIN Japanology mini",
+      "uploadedDate": "2020-12-26T08:08:17.080Z"
     }
   ]
 }
