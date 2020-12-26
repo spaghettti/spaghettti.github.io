@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T08:20:02.942Z</lastUpdated>
+  <lastUpdated>2020-12-26T08:25:03.370Z</lastUpdated>
   <seriesId>e5a5b6a12ffc2a6e</seriesId>
   <title>BENTO EXPO</title>
+  <episode>
+    <airingId>022</airingId>
+    <content>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</content>
+    <description>From Marc, a dry version of everyone's favorite nikujaga. Maki uses corn kernels and edamame to wrap shumai. And from London, a bento maker whose popularity is symbolic of the rise in vegan cuisine.</description>
+    <endDate>2020-12-14T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/E89wAZrS#jAHyH3vq4Ii7KNlo0sxCzg</link>
+    <recordDateEnd>2020-12-14T00:45:23.579Z</recordDateEnd>
+    <recordDateStart>2020-12-14T00:29:23.135Z</recordDateStart>
+    <seriesId>2077</seriesId>
+    <sha256>56c4d7dd33293a53b7d0488c63a51268be76b87e9c7d57375f6c34afc2020416</sha256>
+    <startDate>2020-12-14T00:30:00.000Z</startDate>
+    <subtitle>Season 5-12 Dry Nikujaga Bento &amp; Colorful Shumai Bento</subtitle>
+    <title>BENTO EXPO</title>
+    <uploadedDate>2020-12-26T08:22:16.410Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>023</airingId>
     <content>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</content>
