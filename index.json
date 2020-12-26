@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T10:30:03.734Z",
+  "lastUpdated": "2020-12-26T10:35:03.657Z",
   "series": [
     {
       "count": 2,
@@ -546,10 +546,10 @@
       "title": "NHK Documentary"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "156d54897e343840",
-      "lastAiring": "2020-12-21T11:10:00.000Z",
-      "lastUpload": "2020-12-24T23:32:15.405Z",
+      "lastAiring": "2020-12-26T01:10:00.000Z",
+      "lastUpload": "2020-12-26T10:34:34.320Z",
       "seriesId": "3016",
       "title": "NHK WORLD PRIME"
     },
