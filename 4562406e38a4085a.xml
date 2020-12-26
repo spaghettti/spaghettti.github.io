@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T02:00:03.345Z</lastUpdated>
+  <lastUpdated>2020-12-26T02:05:02.734Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -18,6 +18,36 @@
     <subtitle>Rika's TOKYO CUISINE: Shrimp Chirashi Sushi</subtitle>
     <title>Dining with the Chef</title>
     <uploadedDate>2020-12-26T01:56:36.158Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>251</airingId>
+    <content>In this episode of Authentic Japanese Cooking, professional chef and Japanese cuisine expert Tatsuo Saito will be teaching us about the fascinating essence of Japanese cooking. Recipes: (1) Chikuzen-ni (simmered chicken and root vegetables), (2) octopus rice. We hope that this look at Japan's food culture will inspire you to try these authentic dishes at home!</content>
+    <description>Today's recipes: (1) Chikuzen-ni (Simmered Chicken and Root Vegetables) (2) Octopus Rice. Why not learn Japanese food culture and try real Japanese dishes at your home!</description>
+    <endDate>2020-12-15T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Xw9xjaKR#i86fWP1wOeSgiPfcjAL2aw</link>
+    <recordDateEnd>2020-12-15T01:00:29.485Z</recordDateEnd>
+    <recordDateStart>2020-12-15T00:29:23.062Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>d432cfaef86804c9b891688fe787fb26eebe0f20541c858cd3197ff8f491b8cb</sha256>
+    <startDate>2020-12-15T00:30:00.000Z</startDate>
+    <subtitle>Authentic Japanese Cooking: Chikuzen-ni (Simmered Chicken and Root Vegetables)</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2020-12-26T02:05:00.008Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>278</airingId>
+    <content>Learn about easy, delicious and healthy cooking with Chef Rika! Featured recipes: (1) Homemade Udon Noodles (2) Homemade Udon Noodles with Poached Eggs (3) Homemade Udon Noodles with Black Sesame Sauce (4) Homemade Udon Noodles with Sudachi Citrus.</content>
+    <description>Featured recipes: (1) Homemade Udon Noodles (2) With Poached Eggs (3) With Black Sesame Sauce (4) With Sudachi Citrus. Learn about easy, delicious, and healthy cooking with Chef Rika!</description>
+    <endDate>2020-11-20T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Ow13CKKb#y1pln1MkrlZCot1aT6llHQ</link>
+    <recordDateEnd>2020-11-20T15:00:30.380Z</recordDateEnd>
+    <recordDateStart>2020-11-20T14:29:20.102Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>8abd1bd559fa7aafe7d1b5297bf912e1a0907b11e3698492189e650cc993bfaf</sha256>
+    <startDate>2020-11-20T14:30:00.000Z</startDate>
+    <subtitle>Rika's TOKYO CUISINE: Three Ways to Enjoy Homemade Udon Noodles</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2020-12-26T02:00:19.771Z</uploadedDate>
   </episode>
   <episode>
     <airingId>279</airingId>
