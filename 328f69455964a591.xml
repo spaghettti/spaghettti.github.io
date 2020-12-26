@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T06:35:03.065Z</lastUpdated>
+  <lastUpdated>2020-12-26T06:55:03.920Z</lastUpdated>
   <seriesId>328f69455964a591</seriesId>
   <title>Doctor's Insight</title>
   <episode>
@@ -33,6 +33,21 @@
     <subtitle>COVID-19: Reducing Your Risk of Serious Illness #2: Kidney Disease</subtitle>
     <title>Doctor's Insight</title>
     <uploadedDate>2020-12-25T19:08:02.054Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>009</airingId>
+    <content>Underlying health conditions are said to increase the risk for severe COVID-19. People with COPD (chronic obstructive pulmonary disease) mainly caused by smoking need to be especially careful. They are more susceptible to the novel coronavirus and to infection in general. This is due to the impaired function of the "cilia" in the airway that protects us from viruses. It's crucial to quit smoking and avoid becoming infected. Find out the precautions COPD patients should take to protect themselves.</content>
+    <description>Underlying health conditions are said to increase the risk for severe COVID-19. Smokers and COPD patients need to be especially careful. Find out what COPD patients need to know about COVID-19.</description>
+    <endDate>2020-12-22T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/K1Nz1QqI#YZ7_h-ufGcNg6qf9IZN6nQ</link>
+    <recordDateEnd>2020-12-22T04:55:27.822Z</recordDateEnd>
+    <recordDateStart>2020-12-22T04:44:20.006Z</recordDateStart>
+    <seriesId>2086</seriesId>
+    <sha256>f27b4db4e4f7ed87795abd948c3da5ffa7e9b688289f12d6cf6ad8eab3645884</sha256>
+    <startDate>2020-12-22T04:45:00.000Z</startDate>
+    <subtitle>COVID-19: Reducing Your Risk of Serious Illness #3: COPD</subtitle>
+    <title>Doctor's Insight</title>
+    <uploadedDate>2020-12-26T06:51:17.777Z</uploadedDate>
   </episode>
   <episode>
     <airingId>016</airingId>
