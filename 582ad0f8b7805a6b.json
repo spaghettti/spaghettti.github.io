@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2020-12-26T03:45:03.823Z",
+  "lastUpdated": "2020-12-26T03:50:03.430Z",
   "seriesId": "6024",
   "title": "Core Kyoto mini",
   "episodes": [
+    {
+      "airingId": "001",
+      "content": "",
+      "description": "Kyokusui-no-Utage, poetry with classic Heian elegance. Dive deep into the beauty of the ancient capital, still innovative 1,200 years after its foundation.",
+      "endDate": "2020-12-21T03:30:00.000Z",
+      "link": "https://mega.nz/folder/2xskzLxY#VSEfgEmMkOfDJCR9Bg2ryQ",
+      "recordDateEnd": "2020-12-21T03:31:03.624Z",
+      "recordDateStart": "2020-12-21T03:24:22.715Z",
+      "seriesId": "6024",
+      "sha256": "ad361b722634196120a447cef2bfeb1b50216dea2d416a4d01f9bbfbf0efa7d6",
+      "startDate": "2020-12-21T03:25:00.000Z",
+      "subtitle": "",
+      "title": "Core Kyoto mini",
+      "uploadedDate": "2020-12-26T03:49:58.438Z"
+    },
     {
       "airingId": "003",
       "content": "",
@@ -34,6 +49,36 @@
       "title": "Core Kyoto mini",
       "uploadedDate": "2020-12-24T03:38:20.699Z",
       "raw": "https://mega.nz/folder/Sk8ERAAS#Fazw-cKyN6_6-OGnsYla0A"
+    },
+    {
+      "airingId": "017",
+      "content": "",
+      "description": "Modern Architecture, breathing life into the ancient capital in a new age. Dive deep into Kyoto, still innovative 1,200 years after its foundation.",
+      "endDate": "2020-11-15T12:45:00.000Z",
+      "link": "https://mega.nz/folder/BZ9iRbLL#8hO1lvuBGOPKWBaBaFMnlQ",
+      "recordDateEnd": "2020-11-15T12:45:22.340Z",
+      "recordDateStart": "2020-11-15T12:39:20.098Z",
+      "seriesId": "6024",
+      "sha256": "3430c20d3f6dd446802ba32a75fde36314a51b3ead512bb74db16e0fbc20ac45",
+      "startDate": "2020-11-15T12:40:00.000Z",
+      "subtitle": "",
+      "title": "Core Kyoto mini",
+      "uploadedDate": "2020-12-26T03:48:09.572Z"
+    },
+    {
+      "airingId": "018",
+      "content": "",
+      "description": "The changing leaves, the transient beauty of the ancient capital in fall. Dive deep into Kyoto, still innovative 1,200 years after its foundation.",
+      "endDate": "2020-11-22T06:45:00.000Z",
+      "link": "https://mega.nz/folder/uU9A1ZqT#wNb_t_kVoJxWB9zrN23ufg",
+      "recordDateEnd": "2020-11-22T06:45:26.770Z",
+      "recordDateStart": "2020-11-22T06:39:20.102Z",
+      "seriesId": "6024",
+      "sha256": "62015fa059a591c8dcc977277711662845eba6d30b909cd721808ca59d0beeaf",
+      "startDate": "2020-11-22T06:40:00.000Z",
+      "subtitle": "",
+      "title": "Core Kyoto mini",
+      "uploadedDate": "2020-12-26T03:47:11.091Z"
     },
     {
       "airingId": "020",
