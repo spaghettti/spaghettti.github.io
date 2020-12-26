@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T03:55:02.841Z",
+  "lastUpdated": "2020-12-26T04:05:02.988Z",
   "series": [
     {
       "count": 2,
@@ -26,10 +26,10 @@
       "title": "Asia Insight"
     },
     {
-      "count": 3,
+      "count": 4,
       "uniqueId": "d58f68b3577f3e24",
       "lastAiring": "2020-12-25T02:23:00.000Z",
-      "lastUpload": "2020-12-25T15:27:47.851Z",
+      "lastUpload": "2020-12-26T04:00:25.171Z",
       "seriesId": "6001",
       "title": "BEGIN Japanology mini"
     },
@@ -762,10 +762,10 @@
       "title": "Wild Hokkaido!"
     },
     {
-      "count": 14,
+      "count": 15,
       "uniqueId": "2292026c42316324",
       "lastAiring": "2020-12-25T06:20:00.000Z",
-      "lastUpload": "2020-12-25T14:44:31.646Z",
+      "lastUpload": "2020-12-26T04:00:37.651Z",
       "seriesId": "6014",
       "title": "Your Japanese Kitchen mini"
     },

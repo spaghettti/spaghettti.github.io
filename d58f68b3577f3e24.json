@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2020-12-26T03:55:02.785Z",
+  "lastUpdated": "2020-12-26T04:05:02.938Z",
   "seriesId": "6001",
   "title": "BEGIN Japanology mini",
   "episodes": [
+    {
+      "airingId": "002",
+      "content": "",
+      "description": "Trivia on aspects of Japan's unique culture and products that reflect the aesthetic sense and values of the Japanese people. Today: The 53 Stations of the Tokaido by Utagawa Hiroshige.",
+      "endDate": "2020-12-22T02:30:00.000Z",
+      "link": "https://mega.nz/folder/WJ1QxRwQ#8dpAnDuvJ6IHYiX5E7pUfg",
+      "recordDateEnd": "2020-12-22T02:30:26.296Z",
+      "recordDateStart": "2020-12-22T02:22:20.002Z",
+      "seriesId": "6001",
+      "sha256": "25c1d801364bfed2fd5273d38bbd1dccc16d4c35e2edfe6e80c7946857a0d049",
+      "startDate": "2020-12-22T02:23:00.000Z",
+      "subtitle": "",
+      "title": "BEGIN Japanology mini",
+      "uploadedDate": "2020-12-26T04:00:25.171Z"
+    },
     {
       "airingId": "003",
       "content": "",
