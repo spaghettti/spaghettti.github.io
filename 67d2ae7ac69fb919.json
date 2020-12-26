@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2020-12-26T05:05:03.462Z",
+  "lastUpdated": "2020-12-26T05:20:03.367Z",
   "seriesId": "2029",
   "title": "Core Kyoto",
   "episodes": [
+    {
+      "airingId": "077",
+      "content": "At 3 a.m. on October 22, 2 large pine torches over 10m long are lit to signal the start of the fire festival at Iwakura Jinja. Long ago, it was believed that demons were contained by a huge boulder in the area, after which both the shrine and the area are named. In the late 1100's the shrine was built and the deity was transferred there, but it returns to the boulder on the day of the festival. Discover this 500-year-old festival through the preparations of the residents of Iwakura.",
+      "description": "Today: Iwakura Fire Festival, the boulder's divine spirit returns. The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive program.",
+      "endDate": "2020-11-30T15:00:00.000Z",
+      "link": "https://mega.nz/folder/24kmhZIT#alWSljuHwpgupqnbEdvi5Q",
+      "recordDateEnd": "2020-11-30T15:00:30.794Z",
+      "recordDateStart": "2020-11-30T14:29:20.098Z",
+      "seriesId": "2029",
+      "sha256": "df216dc7e3ef2f6dbb93e13fb338fd4150777ea7d57193f8505c18025040fc19",
+      "startDate": "2020-11-30T14:30:00.000Z",
+      "subtitle": "Iwakura Fire Festival: The Divine Spirit Returns",
+      "title": "Core Kyoto",
+      "uploadedDate": "2020-12-26T05:16:44.681Z"
+    },
     {
       "airingId": "080",
       "content": "Sento, or bathhouses, were built in Kyoto to cater to the large student and artisan population who lived in lodgings without baths. Many are worthy of historic note. One has been operating for 1,300 years; another is part of a temple complex. Some have splendid decors or interesting baths. Today they remain lively social hubs of their communities. A young manager strives to create a Sento young people frequent. Discover the allure of Sento where people gather to relieve the stress of the day.",
@@ -17,6 +32,21 @@
       "subtitle": "Public Baths: People Gather to Wash Their Troubles Away",
       "title": "Core Kyoto",
       "uploadedDate": "2020-12-26T05:01:47.459Z"
+    },
+    {
+      "airingId": "108",
+      "content": "The \"satoyama\" style of living in harmony with nature, and the customs that influenced life in the ancient capital, survive in the mountains north of central Kyoto. An old inn in the town of Hanase continues to serve the local specialty, Tsumikusa (foraged wild foods) cuisine. Miyama is famous for its thatching tradition, and the local artisans use skills passed down for generations to re-thatch Kyoto's many temples and shrines. Discover the local customs that keep Kyoto's culture alive.",
+      "description": "Today: Satoyama Living, country customs that sustain the ancient capital. Kyoto continues to be innovative after 1,200 years. We dive deep into its core in this definitive program.",
+      "endDate": "2020-11-26T13:00:00.000Z",
+      "link": "https://mega.nz/folder/u5liRLCK#FGvxLHevBK3tYy0PDNzBPQ",
+      "recordDateEnd": "2020-11-26T13:00:34.278Z",
+      "recordDateStart": "2020-11-26T12:29:20.098Z",
+      "seriesId": "2029",
+      "sha256": "e100135ace28b53713cbb11c39723e7ae156bf6c5e2763aa1bd23bbe5745ee85",
+      "startDate": "2020-11-26T12:30:00.000Z",
+      "subtitle": "Satoyama Living: Country Customs Sustaining the Ancient Capital",
+      "title": "Core Kyoto",
+      "uploadedDate": "2020-12-26T05:17:56.812Z"
     },
     {
       "airingId": "137",
