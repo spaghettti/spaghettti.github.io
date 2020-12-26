@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T00:20:03.031Z",
+  "lastUpdated": "2020-12-26T00:25:02.624Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -18,6 +18,66 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-23T23:27:27.470Z",
       "raw": "https://mega.nz/folder/m1EjVS7T#MOfvbRn8fJwC-QOVLnwBKQ"
+    },
+    {
+      "airingId": "561",
+      "content": "",
+      "description": "Robert Riener founded the Cybathlon, a global contest spurring the development of robotic assistive devices for people with disabilities. What role can robotics play in creating a diverse society?",
+      "endDate": "2020-11-26T09:30:00.000Z",
+      "link": "https://mega.nz/folder/NcthjARC#HaUk8PrXXhx2m7vTfFJy4Q",
+      "recordDateEnd": "2020-11-26T09:30:24.014Z",
+      "recordDateStart": "2020-11-26T09:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "d90c930cea8e83007dc72bc5dbb1d4c6d302b011c7f1696e730d9dec5afb12ee",
+      "startDate": "2020-11-26T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-26T00:23:59.012Z"
+    },
+    {
+      "airingId": "568",
+      "content": "",
+      "description": "Bart Roetert, co-founder of Instock, a restaurant in the Netherlands, has rescued 800,000 kilograms of food waste. He tells how to address food waste issues in an efficient and positive manner.",
+      "endDate": "2020-12-03T09:30:00.000Z",
+      "link": "https://mega.nz/folder/9Z5BiKAB#s95-YhP8OBoUjhweSvnJOA",
+      "recordDateEnd": "2020-12-03T09:30:25.015Z",
+      "recordDateStart": "2020-12-03T09:14:20.016Z",
+      "seriesId": "2058",
+      "sha256": "e0ab3eb5044cdcb03d2d071fd7f9c326b46a9cab9f2c76a45df0cdc25e3a527e",
+      "startDate": "2020-12-03T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-26T00:24:56.628Z"
+    },
+    {
+      "airingId": "569",
+      "content": "NORA is the lead vocalist of Orquesta de la Luz, a world-famous salsa band from Japan. She speaks about her passion for music, and what she hopes to accomplish through her work with the group.",
+      "description": "NORA is the lead vocalist of Orquesta de la Luz, a world-famous salsa band from Japan. She speaks about her passion for music, and what she hopes to accomplish through her work with the group.",
+      "endDate": "2020-11-17T07:30:00.000Z",
+      "link": "https://mega.nz/folder/oA9nzQCJ#t0-vfVd85CyDMksqUFAPjQ",
+      "recordDateEnd": "2020-11-17T07:30:29.811Z",
+      "recordDateStart": "2020-11-17T07:14:20.012Z",
+      "seriesId": "2058",
+      "sha256": "f66db2884ace37b2938a4e2a4b2e2c32514dfbb339c996b66c3e5f4f73c9e9ee",
+      "startDate": "2020-11-17T07:15:00.000Z",
+      "subtitle": "No Salsa, No Life: NORA / Singer",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-26T00:24:31.135Z"
+    },
+    {
+      "airingId": "573",
+      "content": "Noriaki Imai returned to Japan after a hostage ordeal in Iraq only to face harsh criticism, which made him a social recluse. Today, he supports young people who have similarly withdrawn from society.",
+      "description": "Noriaki Imai returned to Japan after a hostage ordeal in Iraq only to face harsh criticism, which made him a social recluse. Today, he supports young people who have similarly withdrawn from society.",
+      "endDate": "2020-11-24T07:30:00.000Z",
+      "link": "https://mega.nz/folder/f48zVCoL#La98Nom7gLtPfL0ieNAKrw",
+      "recordDateEnd": "2020-11-24T07:30:31.470Z",
+      "recordDateStart": "2020-11-24T07:14:20.016Z",
+      "seriesId": "2058",
+      "sha256": "af8c988bcd57544c2626c4c293d81e1bfe0f06fc9d8ae7e989c7f44feb244675",
+      "startDate": "2020-11-24T07:15:00.000Z",
+      "subtitle": "Giving Young People Hope: Noriaki Imai / President, DxP",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-26T00:23:01.261Z"
     },
     {
       "airingId": "574",
@@ -79,6 +139,21 @@
       "subtitle": "",
       "title": "Direct Talk",
       "uploadedDate": "2020-12-26T00:16:23.049Z"
+    },
+    {
+      "airingId": "625",
+      "content": "",
+      "description": "Terumo is a Japanese manufacturer of medical devices such as catheter-based solutions for the treatment of coronary arteries. Company CEO Sato Shinjiro talks about reducing the burden on patients.",
+      "endDate": "2020-11-23T09:30:00.000Z",
+      "link": "https://mega.nz/folder/9EsR2Y6a#9TDdJRQWaq2aXA6Wd2PVLQ",
+      "recordDateEnd": "2020-11-23T09:30:25.322Z",
+      "recordDateStart": "2020-11-23T09:14:20.102Z",
+      "seriesId": "2058",
+      "sha256": "cd37ee572b3ae4dfa285afa5dd1d983c45a330926f0b597047a629b9f343ab44",
+      "startDate": "2020-11-23T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-26T00:21:23.224Z"
     },
     {
       "airingId": "628",
