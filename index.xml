@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T06:05:03.518Z</lastUpdated>
+  <lastUpdated>2020-12-26T06:15:04.117Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -51,10 +51,10 @@
     <title>BIZ STREAM</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>67100a925b586aba</uniqueId>
     <lastAiring>2020-12-24T23:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T17:35:19.404Z</lastUpload>
+    <lastUpload>2020-12-26T06:11:59.266Z</lastUpload>
     <seriesId>7000</seriesId>
     <title>CATCH JAPAN</title>
   </series>

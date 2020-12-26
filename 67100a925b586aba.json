@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2020-12-26T06:05:03.517Z",
+  "lastUpdated": "2020-12-26T06:15:04.111Z",
   "seriesId": "7000",
   "title": "CATCH JAPAN",
   "episodes": [
+    {
+      "airingId": "453",
+      "content": "",
+      "description": "Explore a colorful variety of modern Japan's most popular topics, including food, technology, ecology and regional promotions, with a focus on the innovative ideas of the people behind it all.",
+      "endDate": "2020-11-27T00:00:00.000Z",
+      "link": "https://mega.nz/folder/cl82yLRJ#pSkLt9xr3nDPULyrI0xrnA",
+      "recordDateEnd": "2020-11-27T00:00:28.067Z",
+      "recordDateStart": "2020-11-26T23:29:20.004Z",
+      "seriesId": "7000",
+      "sha256": "90dd7498f1395a2d1b1ca9c31f111f99d20b3ab849b05efda57089ebd6c65415",
+      "startDate": "2020-11-26T23:30:00.000Z",
+      "subtitle": "",
+      "title": "CATCH JAPAN",
+      "uploadedDate": "2020-12-26T06:11:59.266Z"
+    },
     {
       "airingId": "457",
       "content": "",
