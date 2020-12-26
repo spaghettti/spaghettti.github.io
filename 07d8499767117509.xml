@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T11:00:02.990Z</lastUpdated>
+  <lastUpdated>2020-12-26T11:15:03.415Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -397,6 +397,21 @@
     <subtitle>Making a Difference: Rashvin Singh / Co-Founder of Biji-Biji Initiative</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T23:14:12.059Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>645</airingId>
+    <content/>
+    <description>Minister Audrey Tang's IT measures against COVID-19 greatly contributed to Taiwan's successful containment of the virus. She is also a leading force behind Taiwan's digital democracy.</description>
+    <endDate>2020-12-18T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/ZdgGiK4Y#4Cgheix1jv__oBnM8VhLLA</link>
+    <recordDateEnd>2020-12-18T09:30:27.565Z</recordDateEnd>
+    <recordDateStart>2020-12-18T09:14:22.544Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>dfaf46ab1d84e139a277049417bce3df28d5d57415cca7206fe0ddbad637c91d</sha256>
+    <startDate>2020-12-18T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-26T11:12:39.200Z</uploadedDate>
   </episode>
   <episode>
     <airingId>652</airingId>
