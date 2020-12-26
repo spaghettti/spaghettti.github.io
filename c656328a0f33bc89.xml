@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T15:00:03.656Z</lastUpdated>
+  <lastUpdated>2020-12-26T15:10:02.933Z</lastUpdated>
   <seriesId>c656328a0f33bc89</seriesId>
   <title>15 Minutes</title>
+  <episode>
+    <airingId>006</airingId>
+    <content>Recipes are often developed over several lifetimes of work, lovingly crafted and passed on from generation to generation. These dishes represent much more than home cooking. This program delves into traditional recipes to shine a light on unique food cultures across Japan, and discover the older generation's seasoned philosophies of life.
+Tami Hiyama, 92 years old, lives alone in Fukuoka City, where she has taught home cooking for more than 60 years. We learn her recipe for "chirashi-zushi," a special kind of sushi eaten at family celebrations. Tami prepares the finest ingredients but she says mindset is just as important -- she cooks the dish imagining those who will soon enjoy it. What does "chirashi-zushi" mean to 92-year-old Tami? We discover her recipes for life and the secrets of her good health.</content>
+    <description>We learn 92-year-old Tami Hiyama's recipe for "chirashi-zushi," a special kind of sushi eaten at family celebrations. What does "chirashi" mean to Tami? We discover her recipes for life.</description>
+    <endDate>2020-12-09T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/qgcSzJpD#tHp89tQPVS1VdV6lWtAQFw</link>
+    <recordDateEnd>2020-12-09T01:00:32.316Z</recordDateEnd>
+    <recordDateStart>2020-12-09T00:44:23.000Z</recordDateStart>
+    <seriesId>3019</seriesId>
+    <sha256>8ba57baa39eed7b2cd5ecc09d257e1a91acaa15e5658083dac3a903e655b92ab</sha256>
+    <startDate>2020-12-09T00:45:00.000Z</startDate>
+    <subtitle>Through the Kitchen Window: Tami Hiyama - Chirashi-Zushi, Home-party Sushi</subtitle>
+    <title>15 Minutes</title>
+    <uploadedDate>2020-12-26T15:08:40.092Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>118</airingId>
     <content>The coronavirus has changed everything. How can we overcome this crisis? How can we restore our normal lifestyles? In Japan, Tokyo had the largest number of coronavirus infections. In this series, we look inside 3 places in this megacity. Hotels, where many people stay. Schools, where young people gather. And airports, major transportation hubs. We'll bring you insight on how the people in these places are trying to recover.
