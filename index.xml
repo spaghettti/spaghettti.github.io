@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T05:00:04.163Z</lastUpdated>
+  <lastUpdated>2020-12-26T05:05:03.656Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -59,10 +59,10 @@
     <title>CATCH JAPAN</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>67d2ae7ac69fb919</uniqueId>
     <lastAiring>2020-12-23T23:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T04:58:51.334Z</lastUpload>
+    <lastUpload>2020-12-26T05:01:47.459Z</lastUpload>
     <seriesId>2029</seriesId>
     <title>Core Kyoto</title>
   </series>
