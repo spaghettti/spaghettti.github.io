@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T04:55:02.598Z</lastUpdated>
+  <lastUpdated>2020-12-26T05:00:03.862Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Core Kyoto</title>
     <uploadedDate>2020-12-24T05:46:14.720Z</uploadedDate>
     <raw>https://mega.nz/folder/jZdECT7I#VHWIFwxTedb8tR4iD_HO-w</raw>
+  </episode>
+  <episode>
+    <airingId>144</airingId>
+    <content>Through novels and movies, the name Miyamoto Musashi has become synonymous with the word "samurai." The undefeated, 17th-century swordsman was also a master of calligraphy, the way of tea, and other arts. In his later years, he wrote "The Book of Five Rings" to relate the wisdom he gained through his duels. His teachings act a guide to living a significant life and remain seminal today during the pandemic. Discover Musashi's Kyoto through people who feel a deep affiliation with his way of life.</content>
+    <description>Miyamoto Musashi, master of the sword and the arts, wrote his teachings 400 years ago. They act as a guide to living a significant life and remain seminal today, especially during the pandemic.</description>
+    <endDate>2020-11-19T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Ogt2xBAa#NXHQEB_iWp3gLO18jeqnqw</link>
+    <recordDateEnd>2020-11-19T00:00:23.702Z</recordDateEnd>
+    <recordDateStart>2020-11-18T23:29:21.005Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>22863a50f43b0544fe1b9132e639e9703b2c8be92de5a6ce1846039122a36fdc</sha256>
+    <startDate>2020-11-18T23:30:00.000Z</startDate>
+    <subtitle>Miyamoto Musashi: Sword Mastery in the Ancient Capital</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2020-12-26T04:58:51.334Z</uploadedDate>
   </episode>
   <episode>
     <airingId>146</airingId>
