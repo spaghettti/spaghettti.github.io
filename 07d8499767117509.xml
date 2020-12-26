@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T00:35:03.363Z</lastUpdated>
+  <lastUpdated>2020-12-26T00:55:02.696Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-23T23:27:27.470Z</uploadedDate>
     <raw>https://mega.nz/folder/m1EjVS7T#MOfvbRn8fJwC-QOVLnwBKQ</raw>
+  </episode>
+  <episode>
+    <airingId>548</airingId>
+    <content/>
+    <description>In China, most visually impaired people become masseuses or masseurs, but the blind Dong Lina became a verbal artist. She presents her thoughts on the determination needed to overcome many obstacles.</description>
+    <endDate>2020-12-04T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/PUk0QKxI#iSv9OoZn1vVuF_fy5h83HQ</link>
+    <recordDateEnd>2020-12-04T09:30:26.176Z</recordDateEnd>
+    <recordDateStart>2020-12-04T09:14:22.888Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>13155c469dca1e8d27ebc7f3e1fd86e448f2b373fae0cadb4d58a15ad2022dd9</sha256>
+    <startDate>2020-12-04T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-26T00:52:44.667Z</uploadedDate>
   </episode>
   <episode>
     <airingId>559</airingId>
