@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T14:55:03.434Z</lastUpdated>
+  <lastUpdated>2020-12-26T15:00:03.531Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -48,6 +48,21 @@
     <subtitle>Kyoto Dolls: Adored by All, Their Grace Brings Peace</subtitle>
     <title>Core Kyoto</title>
     <uploadedDate>2020-12-26T14:15:25.628Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>028</airingId>
+    <content>Kyoto is home to most Buddhist head temples, which shaped the ancient capital's historical landscape and fascinate visitors. Shichido-garan, the 7 most important buildings for Zen religious training, are positioned in the shape of a person. Maintaining temples for centuries, carpenters conduct major repairs at Chion-in and thatch Kiyomizu-dera's main-hall with cypress bark using traditional roofing methods. Look at the world of Buddhist architecture, sustained by craftsmanship and faith.</content>
+    <description>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core. Today: Buddhist Architecture, craftsmanship unites places of worship.</description>
+    <endDate>2020-12-21T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/3lk21BYZ#Gzfp7gfOfnkaw_jbSoUvqg</link>
+    <recordDateEnd>2020-12-21T15:01:06.494Z</recordDateEnd>
+    <recordDateStart>2020-12-21T14:29:22.611Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>593b21eccc4336886a7c327162540b8960fd620030f30f5499475c418995d8a2</sha256>
+    <startDate>2020-12-21T14:30:00.000Z</startDate>
+    <subtitle>Buddhist Architecture: Craftsmanship Unites Places of Worship</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2020-12-26T14:56:27.804Z</uploadedDate>
   </episode>
   <episode>
     <airingId>077</airingId>
