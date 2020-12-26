@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T09:15:04.148Z</lastUpdated>
+  <lastUpdated>2020-12-26T09:45:03.702Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -147,10 +147,10 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>de77f30c8ee5dd46</uniqueId>
-    <lastAiring>2020-12-19T00:25:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T03:28:15.637Z</lastUpload>
+    <lastAiring>2020-12-26T00:25:00.000Z</lastAiring>
+    <lastUpload>2020-12-26T09:40:51.493Z</lastUpload>
     <seriesId>4030</seriesId>
     <title>Darwin's Amazing Animals</title>
   </series>

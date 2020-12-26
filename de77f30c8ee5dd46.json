@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T09:15:04.086Z",
+  "lastUpdated": "2020-12-26T09:45:03.608Z",
   "seriesId": "4030",
   "title": "Darwin's Amazing Animals",
   "episodes": [
@@ -32,6 +32,22 @@
       "subtitle": "Ballet in Black -- Parotia, Papua New Guinea",
       "title": "Darwin's Amazing Animals",
       "uploadedDate": "2020-12-26T03:16:17.659Z"
+    },
+    {
+      "airingId": "049",
+      "content": "Dirty scavenger? Laughing opportunist? Oh, that's all a misunderstanding! The hyena clan is a marvel to behold. School starts early: just a few weeks after birth. The young are introduced to a strict matriarchal hierarchy where dissent is rare and males hardly register. Teamwork is an important subject for patrolling borders and stalking prey. But those first at the kill scene best get their fill before the clan's alpha female arrives. She eats uncontested. Her role? Simply producing offspring.",
+      "description": "School starts early for the hyena: just a few weeks after birth! It's introduced to a strict social system ensuring peace within the clan. The fact that males hardly register is no laughing matter!",
+      "endDate": "2020-12-26T00:50:00.000Z",
+      "link": "https://mega.nz/folder/1ZkWnSCZ#s1xfa5jVvOQmhnaHTEJJPQ",
+      "recordDateEnd": "2020-12-26T00:50:27.320Z",
+      "recordDateStart": "2020-12-26T00:24:24.502Z",
+      "seriesId": "4030",
+      "sha256": "45e960e6ce9d30f828a89b77fd98670deca9d683aed366f660761c53fa1db134",
+      "startDate": "2020-12-26T00:25:00.000Z",
+      "subtitle": "Learning the System -- Spotted Hyena, Tanzania",
+      "title": "Darwin's Amazing Animals",
+      "uploadedDate": "2020-12-26T09:40:51.493Z",
+      "raw": "https://mega.nz/folder/Ud8mnKwa#7qnXU8VbeT6EQgShjUbBQQ"
     }
   ]
 }
