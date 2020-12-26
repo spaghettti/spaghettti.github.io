@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T01:50:02.801Z</lastUpdated>
+  <lastUpdated>2020-12-26T01:55:03.547Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -99,10 +99,10 @@
     <title>DESIGN TALKS plus</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>6f88b7eb5aa1e989</uniqueId>
     <lastAiring>2020-11-23T02:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T01:47:11.836Z</lastUpload>
+    <lastUpload>2020-12-26T01:51:20.325Z</lastUpload>
     <seriesId>6122</seriesId>
     <title>Dig More Japan</title>
   </series>

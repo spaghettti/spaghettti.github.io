@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T01:50:02.789Z</lastUpdated>
+  <lastUpdated>2020-12-26T01:55:03.532Z</lastUpdated>
   <seriesId>6f88b7eb5aa1e989</seriesId>
   <title>Dig More Japan</title>
+  <episode>
+    <airingId>017</airingId>
+    <content/>
+    <description>In this episode, we'll be digging deeper into the samurai legacies that have been preserved throughout Japan. You might be able to touch a hidden aspect of the samurai culture like swordsmith.</description>
+    <endDate>2020-11-23T01:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/NVp1XSgL#zeQWPyEx9aSxVk4Gjg8MEQ</link>
+    <recordDateEnd>2020-11-23T01:20:26.601Z</recordDateEnd>
+    <recordDateStart>2020-11-23T01:09:22.518Z</recordDateStart>
+    <seriesId>6122</seriesId>
+    <sha256>0784a33bd9d810d6248a7230eb395e88e5940130a00b3254a479d1dce7fbe63d</sha256>
+    <startDate>2020-11-23T01:10:00.000Z</startDate>
+    <subtitle>Samurai Legacy</subtitle>
+    <title>Dig More Japan</title>
+    <uploadedDate>2020-12-26T01:51:20.325Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>018</airingId>
     <content/>
