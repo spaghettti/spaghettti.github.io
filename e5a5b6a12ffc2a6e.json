@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2020-12-26T08:25:03.371Z",
+  "lastUpdated": "2020-12-26T08:30:03.899Z",
   "seriesId": "2077",
   "title": "BENTO EXPO",
   "episodes": [
+    {
+      "airingId": "021",
+      "content": "Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!",
+      "description": "Marc makes chicken tender rolls with two Japanese stuffings, while Maki wraps her meat rolls with nori! Bento Topics introduces a temple famous for its Zen Buddhist cuisine, including a vegan burger.",
+      "endDate": "2020-12-07T06:45:00.000Z",
+      "link": "https://mega.nz/folder/Jssw2BYR#bvwXkpA7-MNKAWE6YDbDDg",
+      "recordDateEnd": "2020-12-07T06:45:32.665Z",
+      "recordDateStart": "2020-12-07T06:29:20.100Z",
+      "seriesId": "2077",
+      "sha256": "934abbf76e29ad58ff867b4da1974d5869d4853b90fddf527753085c1d79159f",
+      "startDate": "2020-12-07T06:30:00.000Z",
+      "subtitle": "Season 5-11 Chicken Tender Rolls Bento & Norimaki Meat Roll Bento",
+      "title": "BENTO EXPO",
+      "uploadedDate": "2020-12-26T08:27:14.704Z"
+    },
     {
       "airingId": "022",
       "content": "Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!",
