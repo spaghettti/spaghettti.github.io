@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2020-12-26T08:15:03.833Z",
+  "lastUpdated": "2020-12-26T08:20:02.938Z",
   "seriesId": "2074",
   "title": "BIZ STREAM",
   "episodes": [
+    {
+      "airingId": "085",
+      "content": "[On-Site Report]\nAn online bus tour started by a small bus tour company in western Japan is growing in popularity. Participants are sent food and drinks from the tour destination in advance and are able to enjoy them while listening to the tour conductor from the comfort of their homes. Another advantage these online tours offer clients is the lack of travel time between destinations. Realizing that these virtual tours can allow clients to participate from anywhere in the world, the tour company has also created tours for clients in the United States in an effort to expand on what was once a completely domestic client base. This episode focuses on how the pandemic has forced a local tour company to shift its business model in order to survive.\n[In Depth: China Gives Agriculture Tech Boost]\nChina is gearing up to digitalize its agricultural industry to make farming more profitable. It is hoping that the shift will help close the income gap between urban and rural households. We see how these efforts are helping farmers.\n[Global Trends: Pandemic Turns Chinese Thrifty]\nIn China, being seen as a cheapskate can bring shame. But that has been changing during the economic uncertainty of the coronavirus era. A website showing people how to save money is a hit with younger people. Some of them did not have savings when the virus appeared. We take a look at changes in consumer awareness among young Chinese, and how their new thrifty habits will affect the future of consumption in China, and the global economy.",
+      "description": "This episode examines how a small bus company that saw its core business threatened by the pandemic was able to adapt and survive by taking its popular guided tours online.",
+      "endDate": "2020-11-17T20:30:00.000Z",
+      "link": "https://mega.nz/folder/1Is2kTCa#J-_Emtn2t6ywAMq6xdJvAg",
+      "recordDateEnd": "2020-11-17T20:30:24.987Z",
+      "recordDateStart": "2020-11-17T19:59:20.366Z",
+      "seriesId": "2074",
+      "sha256": "09ba00a38dc4b41e0fc74c773fd92a3f626633dbf3b85af2dde872832118318f",
+      "startDate": "2020-11-17T20:00:00.000Z",
+      "subtitle": "Pandemic Pushes Bus Tours Online",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2020-12-26T08:17:28.000Z"
+    },
     {
       "airingId": "086",
       "content": "[On-Site Report]\nStrong, portable and weather resistant, shipping containers are becoming a popular choice in modern architecture. Recently, a company that operates 20 shipping container hotels in Japan's Kanto region has made many of its units available for use as portable \"rescue hotels\" that can be deployed almost anywhere in the country for use by rescue workers, medical staff, or for other relief services. An industrial equipment dealer also was similar potential in shipping containers and is now equipping them with solar-powered generators and high capacity batteries to create emergency response stations that can instantly provide local areas with a much needed boost to infrastructure during times of trouble. In this episode, we focus on how shipping containers can be used to bolster the Japan's emergency response capabilities.\n[In Depth: Japan Economy on Uncertain Path After GDP Bounce]\nJapan's economy had a record surge in the July to September quarter after taking a deep dive in the previous 3 months. Much of the bounce came from reopening parts of the economy that had been shut to stem the spread of the coronavirus. Now, a resurgence of cases is threatening a sustained recovery.\n[Global Trends: Indian Hotel on Wheels Offer Safe Journey]\nTourism in India has been decimated by COVID-19, as foreign visitor numbers have plummeted and sites like the Taj Mahal have seen temporary closures to stem the spread of the virus. A hotel outside New Delhi is trying to make up for some of its lost business by offering guests something different -- a luxury suite on a bus that can take them anywhere without exposing them to anyone outside their social bubble. We catch a ride on the bus to see what the five-star hotel service looks like on wheels.",
@@ -17,6 +32,21 @@
       "subtitle": "Shipping Containers to the Rescue",
       "title": "BIZ STREAM",
       "uploadedDate": "2020-12-26T08:11:06.092Z"
+    },
+    {
+      "airingId": "087",
+      "content": "[On-Site Report]\nThis week's episode gives you an inside look at 2 companies that are combining modern technology with personal experience in order to create custom-made products for their disabled clients. One company, with a large number of disabled staff, is creating custom-built vehicles for people with disabilities. From design to fabrication, the company's staff incorporate their own experiences into the creation process as they seek to provide their clients with the best solutions possible. A small start-up is also using a similar approach to create \"powered prosthetics.\" These new prosthetics use sensors and motors to assist users with movement. The CEO and lead developer, an amputee himself, has spent the last 5 years developing a powered prosthetic leg and is aiming to have it ready for market in 2021.\n[In Depth: China's Export Law Has Trade Partners Guessing]\nThe trade standoff between the U.S. and China just got worse after Beijing rolled out new restrictions on exports. That puts global businesses at the risk of once again being caught between the world's 2 biggest economies.\n[Global Trends: Tourists in Asia Still Get Their Japan Fix]\nThe popularity of Japan as a tourist destination had been growing steadily in the past decade. But travel restrictions earlier this year reduced the flood of foreign visitors to a trickle. With people unable to make the journey by plane, some businesses in Southeast Asia are offering them a chance to experience Japan closer to home. We visit an inn in Bangkok that has all the touches of an authentic Japanese ryokan, and see plans for a hotel in Vietnam that is modeled after large-scale resorts in Japan.",
+      "description": "This episode features Japanese companies that are combining modern technology with first-hand experience in order to create products that can meet the specific needs of their disabled clients.",
+      "endDate": "2020-12-05T14:40:00.000Z",
+      "link": "https://mega.nz/folder/FB5CjbZR#FxzSv8rek0qRi4LzMtso1A",
+      "recordDateEnd": "2020-12-05T14:40:29.086Z",
+      "recordDateStart": "2020-12-05T14:09:20.102Z",
+      "seriesId": "2074",
+      "sha256": "4cfa0b721bd7b52ce8d564b278efe7604dac46d433d79a29ea526bd80366144b",
+      "startDate": "2020-12-05T14:10:00.000Z",
+      "subtitle": "Designing for Disabilities",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2020-12-26T08:17:25.549Z"
     },
     {
       "airingId": "088",

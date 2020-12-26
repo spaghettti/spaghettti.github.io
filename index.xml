@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T08:15:03.964Z</lastUpdated>
+  <lastUpdated>2020-12-26T08:20:03.051Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -27,26 +27,26 @@
     <title>Asia Insight</title>
   </series>
   <series>
-    <count>5</count>
+    <count>6</count>
     <uniqueId>d58f68b3577f3e24</uniqueId>
     <lastAiring>2020-12-25T02:23:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T08:08:17.080Z</lastUpload>
+    <lastUpload>2020-12-26T08:17:21.220Z</lastUpload>
     <seriesId>6001</seriesId>
     <title>BEGIN Japanology mini</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>e5a5b6a12ffc2a6e</uniqueId>
     <lastAiring>2020-12-21T00:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T07:57:59.126Z</lastUpload>
+    <lastUpload>2020-12-26T08:19:08.695Z</lastUpload>
     <seriesId>2077</seriesId>
     <title>BENTO EXPO</title>
   </series>
   <series>
-    <count>3</count>
+    <count>5</count>
     <uniqueId>4365cf84c14911e8</uniqueId>
     <lastAiring>2020-12-19T14:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T08:11:06.092Z</lastUpload>
+    <lastUpload>2020-12-26T08:17:28.000Z</lastUpload>
     <seriesId>2074</seriesId>
     <title>BIZ STREAM</title>
   </series>
@@ -75,10 +75,10 @@
     <title>BOSAI: Science that Can Save Your Life</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>245e52873e6a4f2e</uniqueId>
     <lastAiring>2020-12-19T23:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T07:49:46.784Z</lastUpload>
+    <lastUpload>2020-12-26T08:18:56.592Z</lastUpload>
     <seriesId>5006</seriesId>
     <title>Broadcasters' Eye</title>
   </series>

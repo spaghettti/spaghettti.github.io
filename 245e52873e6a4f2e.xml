@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T08:15:03.890Z</lastUpdated>
+  <lastUpdated>2020-12-26T08:20:02.991Z</lastUpdated>
   <seriesId>245e52873e6a4f2e</seriesId>
   <title>Broadcasters' Eye</title>
   <episode>
@@ -18,6 +18,21 @@
     <subtitle>Notebooks of Heritage: Reclaiming Traditions of the Ainu People</subtitle>
     <title>Broadcasters' Eye</title>
     <uploadedDate>2020-12-26T07:49:46.784Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>029</airingId>
+    <content/>
+    <description>Broadcasters' Eye showcases excellent programs produced by Japanese commercial broadcasters. This episode focuses on the stories of two young people in a small fishing town who dream of great hauls.</description>
+    <endDate>2020-11-21T06:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/4F8UGZQD#9bQP4Pi6VRhxoBYb4Nl2jQ</link>
+    <recordDateEnd>2020-11-21T06:00:27.360Z</recordDateEnd>
+    <recordDateStart>2020-11-21T05:09:20.150Z</recordDateStart>
+    <seriesId>5006</seriesId>
+    <sha256>6eb45094cfc568c8d6b52c22c9f574f4f5a4f41ed6c2723daf4ccc8df8be9efd</sha256>
+    <startDate>2020-11-21T05:10:00.000Z</startDate>
+    <subtitle>Dreaming of Great Hauls: Passing the Baton</subtitle>
+    <title>Broadcasters' Eye</title>
+    <uploadedDate>2020-12-26T08:18:56.592Z</uploadedDate>
   </episode>
   <episode>
     <airingId>030</airingId>

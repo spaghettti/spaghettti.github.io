@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2020-12-26T08:15:03.838Z",
+  "lastUpdated": "2020-12-26T08:20:02.943Z",
   "seriesId": "2077",
   "title": "BENTO EXPO",
   "episodes": [
+    {
+      "airingId": "023",
+      "content": "Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!",
+      "description": "Marc sautes shrimp with butter-soy sauce while Maki cooks up some delicious shrimp cakes. Bento Topics takes you to Shizuoka for a taste of two local specialities, wasabi and wasabi-fed shamo chicken!",
+      "endDate": "2020-11-16T00:45:00.000Z",
+      "link": "https://mega.nz/folder/H89k3DrT#hCnwRjt67ZAaVu2-P9EAmA",
+      "recordDateEnd": "2020-11-16T00:45:26.586Z",
+      "recordDateStart": "2020-11-16T00:29:20.147Z",
+      "seriesId": "2077",
+      "sha256": "c7bba202649ead3207fafc934ffdbeb1c5dd1293935c23b01799f802e67df4be",
+      "startDate": "2020-11-16T00:30:00.000Z",
+      "subtitle": "Season 5-13 Butter-Soy Sauce Shrimp Bento & Ebi Katsu (a cutlet made from minced shrimp) Bento",
+      "title": "BENTO EXPO",
+      "uploadedDate": "2020-12-26T08:19:08.695Z"
+    },
     {
       "airingId": "024",
       "content": "Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!",

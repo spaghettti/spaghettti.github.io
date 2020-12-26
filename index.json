@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T08:15:03.968Z",
+  "lastUpdated": "2020-12-26T08:20:03.056Z",
   "series": [
     {
       "count": 2,
@@ -26,26 +26,26 @@
       "title": "Asia Insight"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "d58f68b3577f3e24",
       "lastAiring": "2020-12-25T02:23:00.000Z",
-      "lastUpload": "2020-12-26T08:08:17.080Z",
+      "lastUpload": "2020-12-26T08:17:21.220Z",
       "seriesId": "6001",
       "title": "BEGIN Japanology mini"
     },
     {
-      "count": 2,
+      "count": 3,
       "uniqueId": "e5a5b6a12ffc2a6e",
       "lastAiring": "2020-12-21T00:30:00.000Z",
-      "lastUpload": "2020-12-26T07:57:59.126Z",
+      "lastUpload": "2020-12-26T08:19:08.695Z",
       "seriesId": "2077",
       "title": "BENTO EXPO"
     },
     {
-      "count": 3,
+      "count": 5,
       "uniqueId": "4365cf84c14911e8",
       "lastAiring": "2020-12-19T14:10:00.000Z",
-      "lastUpload": "2020-12-26T08:11:06.092Z",
+      "lastUpload": "2020-12-26T08:17:28.000Z",
       "seriesId": "2074",
       "title": "BIZ STREAM"
     },
@@ -74,10 +74,10 @@
       "title": "BOSAI: Science that Can Save Your Life"
     },
     {
-      "count": 2,
+      "count": 3,
       "uniqueId": "245e52873e6a4f2e",
       "lastAiring": "2020-12-19T23:10:00.000Z",
-      "lastUpload": "2020-12-26T07:49:46.784Z",
+      "lastUpload": "2020-12-26T08:18:56.592Z",
       "seriesId": "5006",
       "title": "Broadcasters' Eye"
     },

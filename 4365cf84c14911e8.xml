@@ -1,9 +1,29 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T08:15:03.832Z</lastUpdated>
+  <lastUpdated>2020-12-26T08:20:02.937Z</lastUpdated>
   <seriesId>4365cf84c14911e8</seriesId>
   <title>BIZ STREAM</title>
+  <episode>
+    <airingId>085</airingId>
+    <content>[On-Site Report]
+An online bus tour started by a small bus tour company in western Japan is growing in popularity. Participants are sent food and drinks from the tour destination in advance and are able to enjoy them while listening to the tour conductor from the comfort of their homes. Another advantage these online tours offer clients is the lack of travel time between destinations. Realizing that these virtual tours can allow clients to participate from anywhere in the world, the tour company has also created tours for clients in the United States in an effort to expand on what was once a completely domestic client base. This episode focuses on how the pandemic has forced a local tour company to shift its business model in order to survive.
+[In Depth: China Gives Agriculture Tech Boost]
+China is gearing up to digitalize its agricultural industry to make farming more profitable. It is hoping that the shift will help close the income gap between urban and rural households. We see how these efforts are helping farmers.
+[Global Trends: Pandemic Turns Chinese Thrifty]
+In China, being seen as a cheapskate can bring shame. But that has been changing during the economic uncertainty of the coronavirus era. A website showing people how to save money is a hit with younger people. Some of them did not have savings when the virus appeared. We take a look at changes in consumer awareness among young Chinese, and how their new thrifty habits will affect the future of consumption in China, and the global economy.</content>
+    <description>This episode examines how a small bus company that saw its core business threatened by the pandemic was able to adapt and survive by taking its popular guided tours online.</description>
+    <endDate>2020-11-17T20:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/1Is2kTCa#J-_Emtn2t6ywAMq6xdJvAg</link>
+    <recordDateEnd>2020-11-17T20:30:24.987Z</recordDateEnd>
+    <recordDateStart>2020-11-17T19:59:20.366Z</recordDateStart>
+    <seriesId>2074</seriesId>
+    <sha256>09ba00a38dc4b41e0fc74c773fd92a3f626633dbf3b85af2dde872832118318f</sha256>
+    <startDate>2020-11-17T20:00:00.000Z</startDate>
+    <subtitle>Pandemic Pushes Bus Tours Online</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2020-12-26T08:17:28.000Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>086</airingId>
     <content>[On-Site Report]
@@ -23,6 +43,26 @@ Tourism in India has been decimated by COVID-19, as foreign visitor numbers have
     <subtitle>Shipping Containers to the Rescue</subtitle>
     <title>BIZ STREAM</title>
     <uploadedDate>2020-12-26T08:11:06.092Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>087</airingId>
+    <content>[On-Site Report]
+This week's episode gives you an inside look at 2 companies that are combining modern technology with personal experience in order to create custom-made products for their disabled clients. One company, with a large number of disabled staff, is creating custom-built vehicles for people with disabilities. From design to fabrication, the company's staff incorporate their own experiences into the creation process as they seek to provide their clients with the best solutions possible. A small start-up is also using a similar approach to create "powered prosthetics." These new prosthetics use sensors and motors to assist users with movement. The CEO and lead developer, an amputee himself, has spent the last 5 years developing a powered prosthetic leg and is aiming to have it ready for market in 2021.
+[In Depth: China's Export Law Has Trade Partners Guessing]
+The trade standoff between the U.S. and China just got worse after Beijing rolled out new restrictions on exports. That puts global businesses at the risk of once again being caught between the world's 2 biggest economies.
+[Global Trends: Tourists in Asia Still Get Their Japan Fix]
+The popularity of Japan as a tourist destination had been growing steadily in the past decade. But travel restrictions earlier this year reduced the flood of foreign visitors to a trickle. With people unable to make the journey by plane, some businesses in Southeast Asia are offering them a chance to experience Japan closer to home. We visit an inn in Bangkok that has all the touches of an authentic Japanese ryokan, and see plans for a hotel in Vietnam that is modeled after large-scale resorts in Japan.</content>
+    <description>This episode features Japanese companies that are combining modern technology with first-hand experience in order to create products that can meet the specific needs of their disabled clients.</description>
+    <endDate>2020-12-05T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/FB5CjbZR#FxzSv8rek0qRi4LzMtso1A</link>
+    <recordDateEnd>2020-12-05T14:40:29.086Z</recordDateEnd>
+    <recordDateStart>2020-12-05T14:09:20.102Z</recordDateStart>
+    <seriesId>2074</seriesId>
+    <sha256>4cfa0b721bd7b52ce8d564b278efe7604dac46d433d79a29ea526bd80366144b</sha256>
+    <startDate>2020-12-05T14:10:00.000Z</startDate>
+    <subtitle>Designing for Disabilities</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2020-12-26T08:17:25.549Z</uploadedDate>
   </episode>
   <episode>
     <airingId>088</airingId>
