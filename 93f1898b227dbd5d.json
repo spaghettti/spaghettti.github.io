@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T13:30:03.427Z",
+  "lastUpdated": "2020-12-26T13:40:02.861Z",
   "seriesId": "2046",
   "title": "DESIGN TALKS plus",
   "episodes": [
@@ -32,6 +32,21 @@
       "subtitle": "Designing Emergence: Part 1",
       "title": "DESIGN TALKS plus",
       "uploadedDate": "2020-12-26T13:28:29.813Z"
+    },
+    {
+      "airingId": "134",
+      "content": "A special two-part series of discussions between leading Japanese product designer Naoto Fukasawa and top interface designer Yugo Nakamura. In part 2, Fukasawa explores Nakamura's intriguing interfaces which connect the virtual and physical worlds. 2 cutting-edge designers outline their thoughts on the future of creativity.",
+      "description": "Top Japanese product designer Naoto Fukasawa and global interface designer Yugo Nakamura discuss their experiences and philosophies in a two-part special! In part two dive into Nakamura's designs.",
+      "endDate": "2020-11-26T07:00:00.000Z",
+      "link": "https://mega.nz/folder/2gkFiaLB#F6AQ_OrOf0rngP5bT8c7sA",
+      "recordDateEnd": "2020-11-26T07:00:29.571Z",
+      "recordDateStart": "2020-11-26T06:29:20.002Z",
+      "seriesId": "2046",
+      "sha256": "b773c797282e2c8d69bcec4927ed1d42bee7a63b8864adf8b411e172b2e73729",
+      "startDate": "2020-11-26T06:30:00.000Z",
+      "subtitle": "Designing Emergence: Part 2",
+      "title": "DESIGN TALKS plus",
+      "uploadedDate": "2020-12-26T13:37:50.156Z"
     },
     {
       "airingId": "135",
