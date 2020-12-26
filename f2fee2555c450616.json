@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T05:20:03.525Z",
+  "lastUpdated": "2020-12-26T05:55:02.941Z",
   "seriesId": "6200",
   "title": "JAPANGLE",
   "episodes": [
@@ -17,6 +17,21 @@
       "subtitle": "Public Rest Rooms",
       "title": "JAPANGLE",
       "uploadedDate": "2020-12-25T02:14:38.811Z"
+    },
+    {
+      "airingId": "002",
+      "content": "",
+      "description": "JAPANGLE is a series of educational entertainment programs that put a spotlight on various aspects of Japan. This episode is Manga.",
+      "endDate": "2020-12-22T05:30:00.000Z",
+      "link": "https://mega.nz/folder/fZdGERaS#JGVlrps4T0veSjCvDGSu2g",
+      "recordDateEnd": "2020-12-22T05:30:25.408Z",
+      "recordDateStart": "2020-12-22T05:09:23.005Z",
+      "seriesId": "6200",
+      "sha256": "66e692974ef193a1f97d4e2a6c5d9e3896589e5adc30829b5da512f2f043bd92",
+      "startDate": "2020-12-22T05:10:00.000Z",
+      "subtitle": "Manga",
+      "title": "JAPANGLE",
+      "uploadedDate": "2020-12-26T05:51:35.367Z"
     },
     {
       "airingId": "003",

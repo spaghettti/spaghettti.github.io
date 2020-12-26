@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T05:20:03.524Z</lastUpdated>
+  <lastUpdated>2020-12-26T05:55:02.940Z</lastUpdated>
   <seriesId>f2fee2555c450616</seriesId>
   <title>JAPANGLE</title>
   <episode>
@@ -18,6 +18,21 @@
     <subtitle>Public Rest Rooms</subtitle>
     <title>JAPANGLE</title>
     <uploadedDate>2020-12-25T02:14:38.811Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>JAPANGLE is a series of educational entertainment programs that put a spotlight on various aspects of Japan. This episode is Manga.</description>
+    <endDate>2020-12-22T05:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/fZdGERaS#JGVlrps4T0veSjCvDGSu2g</link>
+    <recordDateEnd>2020-12-22T05:30:25.408Z</recordDateEnd>
+    <recordDateStart>2020-12-22T05:09:23.005Z</recordDateStart>
+    <seriesId>6200</seriesId>
+    <sha256>66e692974ef193a1f97d4e2a6c5d9e3896589e5adc30829b5da512f2f043bd92</sha256>
+    <startDate>2020-12-22T05:10:00.000Z</startDate>
+    <subtitle>Manga</subtitle>
+    <title>JAPANGLE</title>
+    <uploadedDate>2020-12-26T05:51:35.367Z</uploadedDate>
   </episode>
   <episode>
     <airingId>003</airingId>
