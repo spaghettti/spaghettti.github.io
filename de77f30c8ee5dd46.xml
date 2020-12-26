@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T12:50:03.085Z</lastUpdated>
+  <lastUpdated>2020-12-26T13:30:03.528Z</lastUpdated>
   <seriesId>de77f30c8ee5dd46</seriesId>
   <title>Darwin's Amazing Animals</title>
+  <episode>
+    <airingId>030</airingId>
+    <content>Hundreds of thousands of insect species make their home in the jungles of Costa Rica. But it's a constant battle for survival. Bugs of all shapes and sizes have had to develop unique defensive strategies just to make it through the day. Some use color to advertise their venomous shield; others blend in by mimicking the natural environment. A few even resemble excrement to guard their privacy ... with great success! But none will capture your heart like a tiny yellow bug that smiles and dances!</content>
+    <description>Survival is the name of the game in the insect kingdom of Costa Rica. Some use color to stand out; others resemble excrement to blend in. But all will woo you with their clever defensive strategies!</description>
+    <endDate>2020-11-28T00:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/9RRBEapY#SxtNFpnVN0AUaCL2ZL1uIQ</link>
+    <recordDateEnd>2020-11-28T00:50:26.467Z</recordDateEnd>
+    <recordDateStart>2020-11-28T00:24:20.008Z</recordDateStart>
+    <seriesId>4030</seriesId>
+    <sha256>12d5f433554bedac2b103efc78d38ea15c6637f717d04f5ba26d1b4c6bf9d494</sha256>
+    <startDate>2020-11-28T00:25:00.000Z</startDate>
+    <subtitle>Masters of Disguise -- Rare Insects, Costa Rica</subtitle>
+    <title>Darwin's Amazing Animals</title>
+    <uploadedDate>2020-12-26T13:25:35.201Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>047</airingId>
     <content>Reaching 1.5 meters in length, the Japanese giant salamander will need more than its size to battle daunting odds. Environmental degradation and loss of habitat have led to a decline in these "living fossils" that have remained relatively unchanged in 170 million years. After heavy rains caused massive damage to one region's towns and rivers, a team of experts, assisted by local schoolchildren, launches a project to locate and return their amphibian neighbors that have been washed downstream.</content>

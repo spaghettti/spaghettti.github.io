@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T12:50:02.991Z</lastUpdated>
+  <lastUpdated>2020-12-26T13:30:03.423Z</lastUpdated>
   <seriesId>93f1898b227dbd5d</seriesId>
   <title>DESIGN TALKS plus</title>
   <episode>
@@ -18,6 +18,21 @@
     <subtitle>Ancient Design</subtitle>
     <title>DESIGN TALKS plus</title>
     <uploadedDate>2020-12-24T04:41:46.569Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>133</airingId>
+    <content>A special two-part series of discussions between leading Japanese product designer Naoto Fukasawa and top interface designer Yugo Nakamura. In part 1, Nakamura dives into the extraordinary forms and simple beauty of Fukasawa's designs. 2 cutting-edge designers outline their thoughts on the future of creativity.</content>
+    <description>Top Japanese product designer Naoto Fukasawa and global interface designer Yugo Nakamura discuss their experiences and philosophies in a two-part special! In part one we explore Fukasawa's designs.</description>
+    <endDate>2020-11-19T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/n4V1kYJZ#MLgEBZAlf9efTIutWHAbrA</link>
+    <recordDateEnd>2020-11-19T01:00:27.109Z</recordDateEnd>
+    <recordDateStart>2020-11-19T00:29:20.102Z</recordDateStart>
+    <seriesId>2046</seriesId>
+    <sha256>0aca64882a8b010ff317e7cfc4ce1e274e3751a999cc8e444237e954c2855ef4</sha256>
+    <startDate>2020-11-19T00:30:00.000Z</startDate>
+    <subtitle>Designing Emergence: Part 1</subtitle>
+    <title>DESIGN TALKS plus</title>
+    <uploadedDate>2020-12-26T13:28:29.813Z</uploadedDate>
   </episode>
   <episode>
     <airingId>135</airingId>

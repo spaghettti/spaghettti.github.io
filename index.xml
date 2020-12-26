@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-26T12:50:03.153Z</lastUpdated>
+  <lastUpdated>2020-12-26T13:30:03.588Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -147,10 +147,10 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>de77f30c8ee5dd46</uniqueId>
     <lastAiring>2020-12-26T00:25:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T09:40:51.493Z</lastUpload>
+    <lastUpload>2020-12-26T13:25:35.201Z</lastUpload>
     <seriesId>4030</seriesId>
     <title>Darwin's Amazing Animals</title>
   </series>
@@ -163,10 +163,10 @@
     <title>DEEPER LOOK from New York</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>93f1898b227dbd5d</uniqueId>
     <lastAiring>2020-12-24T00:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T02:57:57.196Z</lastUpload>
+    <lastUpload>2020-12-26T13:28:29.813Z</lastUpload>
     <seriesId>2046</seriesId>
     <title>DESIGN TALKS plus</title>
   </series>
