@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T12:45:02.852Z</lastUpdated>
+  <lastUpdated>2020-12-26T12:50:02.956Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -48,6 +48,21 @@
     <subtitle>Rika's TOKYO CUISINE: Ten Don "Tempura Rice Bowl"</subtitle>
     <title>Dining with the Chef</title>
     <uploadedDate>2020-12-26T02:58:18.052Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>223</airingId>
+    <content>In this episode, we'll be cooking with sake -- it's more than just a drink! Steaming salmon and Asari clams with sake gives those foods the savory umami flavor of the sake, for a dish with a delicious depth. We'll also be making a dessert with sake: Chef Rika's own original recipe for Castella sponge cake, featuring the light, fragrant aroma of sake, and coarse sugar to provide a crunchy accent.</content>
+    <description>Today's recipe: (1) Sake-steamed Salmon, Potatoes, and Clams (2) Sake Kasutera. You can cook modern Japanese home meals by yourself with Rika's fun lesson!</description>
+    <endDate>2020-12-01T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/bsMACLbJ#I0wHUNiDsy8AaFwS8t4ugA</link>
+    <recordDateEnd>2020-12-01T01:00:28.850Z</recordDateEnd>
+    <recordDateStart>2020-12-01T00:29:20.100Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>5999a7cdf2d987188183d9c9c862bdb959241d726dfa0fd90b08d5058cb06503</sha256>
+    <startDate>2020-12-01T00:30:00.000Z</startDate>
+    <subtitle>Rika's TOKYO CUISINE: Sake-steamed Salmon, Potatoes, and Clams</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2020-12-26T12:46:18.354Z</uploadedDate>
   </episode>
   <episode>
     <airingId>246</airingId>
