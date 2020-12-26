@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T15:35:02.949Z",
+  "lastUpdated": "2020-12-26T16:05:02.627Z",
   "seriesId": "2065",
   "title": "Anime Supernova",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "Anime Supernova",
       "uploadedDate": "2020-12-26T09:10:49.715Z",
       "raw": "https://mega.nz/folder/iollHQZR#rG4E2E_fli85vxQ619VIMw"
+    },
+    {
+      "airingId": "045",
+      "content": "Coming from a live-action film background, Iwaisawa is almost entirely self-taught in animation production. He continues to move up in the animation world and separate himself from other animators through self-developed techniques. Iwaisawa specializes in rotoscope, an animation technique that is based on tracing over live-action footage. The painstaking work leads to highly detailed images that come to life in ways not seen in traditional animation. We will introduce you to the one-of-a-kind, internationally-acclaimed world of Iwaisawa Kenji.",
+      "description": "Iwaisawa Kenji is a self-taught creator who uses a technique called rotoscoping to produce one-of-a-kind animated works. Watch and get lost in the fantastical worlds of a visionary creator.",
+      "endDate": "2020-12-19T00:25:00.000Z",
+      "link": "https://mega.nz/folder/zgMUGLLb#WwW2rqfrjek4fknN7S1G7g",
+      "recordDateEnd": "2020-12-19T00:26:01.373Z",
+      "recordDateStart": "2020-12-19T00:09:23.019Z",
+      "seriesId": "2065",
+      "sha256": "009a0951c49aa774ecc71104d9aa7ae8bb2b27640644f8bb816499d35a232619",
+      "startDate": "2020-12-19T00:10:00.000Z",
+      "subtitle": "Aiming for an Academy Award! A Creator Taking on Unprecedented Challenges",
+      "title": "Anime Supernova",
+      "uploadedDate": "2020-12-26T16:02:39.880Z"
     }
   ]
 }
