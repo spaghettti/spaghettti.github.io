@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-27T23:15:03.540Z</lastUpdated>
+  <lastUpdated>2020-12-27T23:25:03.283Z</lastUpdated>
   <seriesId>29c1799bc492d0cf</seriesId>
   <title>Spiritual Explorers</title>
   <episode>
@@ -19,5 +19,20 @@
     <title>Spiritual Explorers</title>
     <uploadedDate>2020-12-24T08:00:24.921Z</uploadedDate>
     <raw>https://mega.nz/folder/2YcWGJbA#OF27ZcRJd53yCgSmtUblEA</raw>
+  </episode>
+  <episode>
+    <airingId>005</airingId>
+    <content/>
+    <description>Mikawa in central Japan. Fireworks have long held a special significance in this region. Mikawa's traditional Tezutsu fireworks are held as an offering to its own tutelary deity who protects the land.</description>
+    <endDate>2020-12-27T00:35:00.000Z</endDate>
+    <link>https://mega.nz/folder/0Y5SUQoQ#LXffLyNTgh4weX-5se98dg</link>
+    <recordDateEnd>2020-12-27T00:35:29.461Z</recordDateEnd>
+    <recordDateStart>2020-12-27T00:09:20.101Z</recordDateStart>
+    <seriesId>2088</seriesId>
+    <sha256>d1b51900f9d9d798d154e9a0eeadf54e4947e58798a9dcb2062b8f121c83a922</sha256>
+    <startDate>2020-12-27T00:10:00.000Z</startDate>
+    <subtitle>Mikawa's Tezutsu Fireworks</subtitle>
+    <title>Spiritual Explorers</title>
+    <uploadedDate>2020-12-27T23:20:42.890Z</uploadedDate>
   </episode>
 </episodeList>

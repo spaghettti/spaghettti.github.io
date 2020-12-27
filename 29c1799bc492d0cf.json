@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-27T23:15:03.541Z",
+  "lastUpdated": "2020-12-27T23:25:03.284Z",
   "seriesId": "2088",
   "title": "Spiritual Explorers",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "Spiritual Explorers",
       "uploadedDate": "2020-12-24T08:00:24.921Z",
       "raw": "https://mega.nz/folder/2YcWGJbA#OF27ZcRJd53yCgSmtUblEA"
+    },
+    {
+      "airingId": "005",
+      "content": "",
+      "description": "Mikawa in central Japan. Fireworks have long held a special significance in this region. Mikawa's traditional Tezutsu fireworks are held as an offering to its own tutelary deity who protects the land.",
+      "endDate": "2020-12-27T00:35:00.000Z",
+      "link": "https://mega.nz/folder/0Y5SUQoQ#LXffLyNTgh4weX-5se98dg",
+      "recordDateEnd": "2020-12-27T00:35:29.461Z",
+      "recordDateStart": "2020-12-27T00:09:20.101Z",
+      "seriesId": "2088",
+      "sha256": "d1b51900f9d9d798d154e9a0eeadf54e4947e58798a9dcb2062b8f121c83a922",
+      "startDate": "2020-12-27T00:10:00.000Z",
+      "subtitle": "Mikawa's Tezutsu Fireworks",
+      "title": "Spiritual Explorers",
+      "uploadedDate": "2020-12-27T23:20:42.890Z"
     }
   ]
 }
