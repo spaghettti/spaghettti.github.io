@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-27T22:40:02.587Z</lastUpdated>
+  <lastUpdated>2020-12-27T22:50:03.535Z</lastUpdated>
   <seriesId>811a68ab0166cacc</seriesId>
   <title>ANIMATION X PARALYMPIC</title>
+  <episode>
+    <airingId>008</airingId>
+    <content/>
+    <description>By Kouji Seo, a manga creator known for his many romantic comedies, such as Fuuka. Para badminton is roughly divided into wheelchair and standing, and this episode features wheelchair badminton.</description>
+    <endDate>2020-12-26T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Sw81SISL#kAmyeuaw4BI1IwY_I3p9Zw</link>
+    <recordDateEnd>2020-12-26T16:00:31.612Z</recordDateEnd>
+    <recordDateStart>2020-12-26T15:54:20.002Z</recordDateStart>
+    <seriesId>6027</seriesId>
+    <sha256>aa68b0e29c4a33c45b30d6e7efed28043ab37f6f939b33ac301fbf984e8423ea</sha256>
+    <startDate>2020-12-26T15:55:00.000Z</startDate>
+    <subtitle/>
+    <title>ANIMATION X PARALYMPIC</title>
+    <uploadedDate>2020-12-27T22:49:55.651Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>010</airingId>
     <content/>
