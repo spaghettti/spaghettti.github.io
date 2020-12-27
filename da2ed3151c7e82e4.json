@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-27T23:05:27.382Z",
+  "lastUpdated": "2020-12-27T23:15:03.609Z",
   "seriesId": "6026",
   "title": "no art, no life",
   "episodes": [
@@ -97,6 +97,22 @@
       "subtitle": "",
       "title": "no art, no life",
       "uploadedDate": "2020-12-24T18:01:52.424Z"
+    },
+    {
+      "airingId": "019",
+      "content": "",
+      "description": "Outsider artists like Yasuhiro Nishikawa are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.",
+      "endDate": "2020-12-26T02:55:00.000Z",
+      "link": "https://mega.nz/folder/i900BZQa#vPCtE789d1RGDfjezHcCFQ",
+      "recordDateEnd": "2020-12-26T02:55:30.348Z",
+      "recordDateStart": "2020-12-26T02:49:20.002Z",
+      "seriesId": "6026",
+      "sha256": "a73a4230a530a835b73d798ecc59defbcea58376d54ad001a5e91934d61fa84f",
+      "startDate": "2020-12-26T02:50:00.000Z",
+      "subtitle": "",
+      "title": "no art, no life",
+      "uploadedDate": "2020-12-27T23:14:26.404Z",
+      "raw": "https://mega.nz/folder/6Z9wwSaa#LzuE1DIKQpbaWH5HxFSgGQ"
     }
   ]
 }

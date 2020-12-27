@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-27T23:05:27.423Z",
+  "lastUpdated": "2020-12-27T23:15:03.651Z",
   "series": [
     {
       "count": 7,
@@ -562,10 +562,10 @@
       "title": "NHK WORLD PRIME"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "da2ed3151c7e82e4",
-      "lastAiring": "2020-12-19T02:50:00.000Z",
-      "lastUpload": "2020-12-24T18:14:10.068Z",
+      "lastAiring": "2020-12-26T02:50:00.000Z",
+      "lastUpload": "2020-12-27T23:14:26.404Z",
       "seriesId": "6026",
       "title": "no art, no life"
     },
