@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-27T23:25:03.238Z</lastUpdated>
+  <lastUpdated>2020-12-27T23:55:03.031Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -291,6 +291,21 @@
     <subtitle/>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T11:24:27.423Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>615</airingId>
+    <content/>
+    <description>Myanmar in southeast Asia suffers from a lack of safe drinking water. Hisafumi Shogi works with locals to develop the water supply infrastructure. He talks about the road so far and what lies ahead.</description>
+    <endDate>2020-11-16T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/W01hwSAI#_vXjNiX42fEHJ3Y4TNVdeA</link>
+    <recordDateEnd>2020-11-16T09:30:27.264Z</recordDateEnd>
+    <recordDateStart>2020-11-16T09:14:20.013Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>f1936c5e35155c677e2eb13b43ade0f1e9e9371c74079281d2ba9e06a5cc1a12</sha256>
+    <startDate>2020-11-16T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-27T23:52:23.742Z</uploadedDate>
   </episode>
   <episode>
     <airingId>619</airingId>
