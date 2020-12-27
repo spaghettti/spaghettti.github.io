@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-27T22:50:03.567Z</lastUpdated>
+  <lastUpdated>2020-12-27T23:05:27.417Z</lastUpdated>
   <series>
     <count>7</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -75,27 +75,11 @@
     <title>BENTO EXPO</title>
   </series>
   <series>
-    <count>5</count>
+    <count>10</count>
     <uniqueId>4365cf84c14911e8</uniqueId>
-    <lastAiring>2020-12-19T14:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T08:17:28.000Z</lastUpload>
-    <seriesId>2074</seriesId>
-    <title>BIZ STREAM</title>
-  </series>
-  <series>
-    <count>4</count>
-    <uniqueId>830c4969cf7e7135</uniqueId>
-    <lastAiring>2020-12-24T02:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T06:28:32.933Z</lastUpload>
-    <seriesId>3004</seriesId>
-    <title>BIZ STREAM</title>
-  </series>
-  <series>
-    <count>1</count>
-    <uniqueId>5abf87f62c1d54a0</uniqueId>
     <lastAiring>2020-12-25T02:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T15:57:46.156Z</lastUpload>
-    <seriesId>3004</seriesId>
+    <lastUpload>2020-12-26T08:17:28.000Z</lastUpload>
+    <seriesId>2074,3004</seriesId>
     <title>BIZ STREAM</title>
   </series>
   <series>
@@ -835,10 +819,10 @@
     <title>Where We Call Home</title>
   </series>
   <series>
-    <count>6</count>
+    <count>7</count>
     <uniqueId>b2d48e71e072a1aa</uniqueId>
-    <lastAiring>2020-12-20T00:45:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T04:29:50.159Z</lastUpload>
+    <lastAiring>2020-12-27T00:45:00.000Z</lastAiring>
+    <lastUpload>2020-12-27T23:00:51.006Z</lastUpload>
     <seriesId>2069</seriesId>
     <title>Wild Hokkaido!</title>
   </series>

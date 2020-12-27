@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-27T22:50:03.463Z</lastUpdated>
+  <lastUpdated>2020-12-27T23:05:27.307Z</lastUpdated>
   <seriesId>b2d48e71e072a1aa</seriesId>
   <title>Wild Hokkaido!</title>
   <episode>
@@ -66,6 +66,22 @@
     <subtitle>Notsuke Peninsula</subtitle>
     <title>Wild Hokkaido!</title>
     <uploadedDate>2020-12-24T01:00:48.967Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>066</airingId>
+    <content>Our stage this time is Kiritappu in the eastern part of Hokkaido Prefecture. Here, you will find the unique natural environment created by the Pacific Ocean, coastal wetland and forest. Our program host explores the vast wetland, and observes a variety of wildlife as well as plants during winter. In addition, he joins a tour to fully enjoy the seafood of Kiritappu, where fishing industry is thriving. Later, we show you rare footage of wildlife that strives to secure food, in order to survive the harsh winter.</content>
+    <description>Our stage this time is Kiritappu in the eastern part of Hokkaido Prefecture. Our program host explores the vast wetland, and observes a variety of wildlife as well as plants during winter.</description>
+    <endDate>2020-12-27T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/PZVVGChI#eUkgH9ZqNifxkHK0_4dgIg</link>
+    <recordDateEnd>2020-12-27T01:00:27.786Z</recordDateEnd>
+    <recordDateStart>2020-12-27T00:44:20.101Z</recordDateStart>
+    <seriesId>2069</seriesId>
+    <sha256>278428239715f45ec9997c4efff1e4be5fc24191f3e86f730ed648ce6c32c04c</sha256>
+    <startDate>2020-12-27T00:45:00.000Z</startDate>
+    <subtitle>Kiritappu in Winter</subtitle>
+    <title>Wild Hokkaido!</title>
+    <uploadedDate>2020-12-27T23:00:51.006Z</uploadedDate>
+    <raw>https://mega.nz/folder/MENxGIRK#CWoi9FBNRnQ82Baq28GrcA</raw>
   </episode>
   <episode>
     <airingId>077</airingId>
