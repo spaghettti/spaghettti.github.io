@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T20:10:03.344Z",
+  "lastUpdated": "2020-12-27T07:40:03.608Z",
   "seriesId": "2042",
   "title": "RISING",
   "episodes": [
@@ -34,6 +34,21 @@
       "uploadedDate": "2020-12-24T18:03:10.756Z"
     },
     {
+      "airingId": "099",
+      "content": "In March 2020, to curb the spread of COVID-19, schools across Japan were urged to close, prompting widespread fears that children may fall behind on their studies. Enter Yunokawa Takahiko, developer of a unique e-learning platform that uses AI to assess students' shortcomings and provide an adaptive learning experience to match. Having rolled out to almost 370 schools during the pandemic, Yunokawa aims to provide affordable, egalitarian learning opportunities to students in Japan and overseas.",
+      "description": "In March 2020, COVID-19 forced schools across Japan to close. Yunokawa Takahiko helped to fill the gap with e-learning materials that use AI to provide an adaptive, accessible educational experience.",
+      "endDate": "2020-12-17T02:00:00.000Z",
+      "link": "https://mega.nz/folder/fwdR1ArK#pzSjZRyJ1Pq7kTobfx3HdA",
+      "recordDateEnd": "2020-12-17T02:00:33.047Z",
+      "recordDateStart": "2020-12-17T01:29:20.101Z",
+      "seriesId": "2042",
+      "sha256": "91a5a7c228a7ad5c603a56c9c4bdf17d15ae20097a1edffdad2d567a85b0e4f4",
+      "startDate": "2020-12-17T01:30:00.000Z",
+      "subtitle": "AI - Leveling the Educational Playing Field: E-Learning Innovator - Yunokawa Takahiko",
+      "title": "RISING",
+      "uploadedDate": "2020-12-27T07:36:12.024Z"
+    },
+    {
       "airingId": "105",
       "content": "Throughout the COVID-19 pandemic, Japan has placed great emphasis on avoiding the Three Cs: closed spaces, crowding and close contact. Kawano Takanobu runs a business that aims to bring peace of mind through digital systems that allow users to avoid such conditions and curb the risk of infection. Rolled out in restaurants, restrooms, hotels and more, his solutions leverage AI, IoT and sensor technology to help people cope with the new normal.",
       "description": "Against the backdrop of COVID-19, Kawano Takanobu runs a venture that offers peace of mind through digital solutions leveraging AI, IoT, and sensor technology to help users curb the risk of infection.",
@@ -61,7 +76,8 @@
       "startDate": "2020-12-10T01:30:00.000Z",
       "subtitle": "Bringing a \"Can-Do\" Spirit to Specialty Produce: Preserved Food Pioneer - Inoue Kazuma",
       "title": "RISING",
-      "uploadedDate": "2020-12-24T17:46:08.202Z"
+      "uploadedDate": "2020-12-24T17:46:08.202Z",
+      "raw": "https://mega.nz/folder/YQ9Q3Jab#S3xX9aRTYOd04JBkuFyJDg"
     },
     {
       "airingId": "107",

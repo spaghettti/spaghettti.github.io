@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T20:10:03.460Z</lastUpdated>
+  <lastUpdated>2020-12-27T07:40:03.736Z</lastUpdated>
   <seriesId>aca3c5281f781918</seriesId>
   <title>The Mark of Beauty</title>
   <episode>
@@ -18,6 +18,7 @@
     <subtitle>Bashofu Fabric</subtitle>
     <title>The Mark of Beauty</title>
     <uploadedDate>2020-12-24T08:05:53.594Z</uploadedDate>
+    <raw>https://mega.nz/folder/jNNRCI5b#Q7ZdQUvLKkTydyzDz17V-Q</raw>
   </episode>
   <episode>
     <airingId>109</airingId>
@@ -48,5 +49,6 @@
     <subtitle>Bingata</subtitle>
     <title>The Mark of Beauty</title>
     <uploadedDate>2020-12-24T07:49:16.266Z</uploadedDate>
+    <raw>https://mega.nz/folder/wVkXVYDK#WpGJH_nzVPvOhpNLPJx69Q</raw>
   </episode>
 </episodeList>

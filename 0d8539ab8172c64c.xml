@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-26T20:10:03.493Z</lastUpdated>
+  <lastUpdated>2020-12-27T07:40:03.766Z</lastUpdated>
   <seriesId>0d8539ab8172c64c</seriesId>
   <title>Selfie Japan!</title>
   <episode>
@@ -18,6 +18,7 @@
     <subtitle/>
     <title>Selfie Japan! Kyoto</title>
     <uploadedDate>2020-12-24T15:31:26.335Z</uploadedDate>
+    <raw>https://mega.nz/folder/xdJFhSzA#jGKv3ZXhyziC3KrMNZgg0A</raw>
   </episode>
   <episode>
     <airingId>010</airingId>
@@ -33,6 +34,7 @@
     <subtitle/>
     <title>Selfie Japan!</title>
     <uploadedDate>2020-12-24T15:34:37.770Z</uploadedDate>
+    <raw>https://mega.nz/folder/RdAXxQiA#4wKZLP4Lmxbz8e5UvgY_rQ</raw>
   </episode>
   <episode>
     <airingId>011</airingId>
@@ -48,5 +50,6 @@
     <subtitle/>
     <title>Selfie Japan!</title>
     <uploadedDate>2020-12-24T15:30:30.021Z</uploadedDate>
+    <raw>https://mega.nz/folder/lEAj2SxY#zZ_VrgaLjO69NEVSSA6ecA</raw>
   </episode>
 </episodeList>

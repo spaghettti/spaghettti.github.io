@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-26T20:10:03.459Z",
+  "lastUpdated": "2020-12-27T07:40:03.735Z",
   "seriesId": "4017",
   "title": "Somewhere Street",
   "episodes": [
@@ -16,7 +16,8 @@
       "startDate": "2020-11-29T14:10:00.000Z",
       "subtitle": "Hakodate, Japan",
       "title": "Somewhere Street",
-      "uploadedDate": "2020-12-24T09:26:24.721Z"
+      "uploadedDate": "2020-12-24T09:26:24.721Z",
+      "raw": "https://mega.nz/folder/EZhAhS6Y#oKJhRnCsM8jLqNkXL9ER7Q"
     },
     {
       "airingId": "082",
@@ -31,7 +32,8 @@
       "startDate": "2020-11-15T14:10:00.000Z",
       "subtitle": "Da Nang, Vietnam",
       "title": "Somewhere Street",
-      "uploadedDate": "2020-12-24T09:27:28.463Z"
+      "uploadedDate": "2020-12-24T09:27:28.463Z",
+      "raw": "https://mega.nz/folder/ZA1g3JLQ#NraimKbWEWsl19GkVldMuA"
     },
     {
       "airingId": "084",
@@ -46,7 +48,8 @@
       "startDate": "2020-11-22T14:10:00.000Z",
       "subtitle": "Venice, Los Angeles, US",
       "title": "Somewhere Street",
-      "uploadedDate": "2020-12-24T16:54:09.042Z"
+      "uploadedDate": "2020-12-24T16:54:09.042Z",
+      "raw": "https://mega.nz/folder/z0UylJbA#nM_PuT4A9P7agX6ZWgCNfg"
     },
     {
       "airingId": "107",
@@ -61,7 +64,8 @@
       "startDate": "2020-12-06T04:10:00.000Z",
       "subtitle": "Zanzibar, Tanzania",
       "title": "Somewhere Street",
-      "uploadedDate": "2020-12-24T09:16:33.151Z"
+      "uploadedDate": "2020-12-24T09:16:33.151Z",
+      "raw": "https://mega.nz/folder/pZpGWRoT#aRUeoHZbnI0Uy2BXgwNUTg"
     },
     {
       "airingId": "109",
@@ -76,7 +80,8 @@
       "startDate": "2020-12-20T04:10:00.000Z",
       "subtitle": "Da Lat, Vietnam",
       "title": "Somewhere Street",
-      "uploadedDate": "2020-12-24T09:27:31.745Z"
+      "uploadedDate": "2020-12-24T09:27:31.745Z",
+      "raw": "https://mega.nz/folder/Z91z1SwL#TNYzITNvXydYY4LR05W2AA"
     }
   ]
 }
