@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2020-12-27T07:40:03.672Z",
+  "lastUpdated": "2020-12-27T22:40:02.522Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
+    {
+      "airingId": "062",
+      "content": "",
+      "description": "This time we introduce \"Japan Railway Journal.\" The show reveals the attractive points of \"Next Generation Shinkan-sen.\" The train has advanced facilities and state-of-the-art technologies.",
+      "endDate": "2020-12-27T11:55:00.000Z",
+      "link": "https://mega.nz/folder/FFEmkJgT#aXmJQgedfMm8OQkMKSHepQ",
+      "recordDateEnd": "2020-12-27T11:55:29.996Z",
+      "recordDateStart": "2020-12-27T11:49:20.128Z",
+      "seriesId": "2075",
+      "sha256": "44f27c02fefe958920133bae2e117ec79e81a8c6a95cc52edeed6c4aaa16e982",
+      "startDate": "2020-12-27T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2020-12-27T22:37:30.044Z"
+    },
     {
       "airingId": "063",
       "content": "",

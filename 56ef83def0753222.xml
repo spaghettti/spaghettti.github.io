@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-27T07:40:03.729Z</lastUpdated>
+  <lastUpdated>2020-12-27T22:40:02.555Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -18,6 +18,7 @@
     <subtitle>COVID-19 Pandemic: Transforming the Way We Work</subtitle>
     <title>NHK Documentary</title>
     <uploadedDate>2020-12-24T20:08:30.544Z</uploadedDate>
+    <raw>https://mega.nz/folder/MoMwgJjT#HH0fO7et4-_VLrpyaAL7uA</raw>
   </episode>
   <episode>
     <airingId>378</airingId>
@@ -63,5 +64,6 @@
     <subtitle>Inferno: Letters from Auschwitz</subtitle>
     <title>NHK Documentary</title>
     <uploadedDate>2020-12-24T19:39:05.543Z</uploadedDate>
+    <raw>https://mega.nz/folder/6JtxSa7b#ckBUwX3lmpd3HfhpsR2M7g</raw>
   </episode>
 </episodeList>

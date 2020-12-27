@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-27T07:40:03.730Z",
+  "lastUpdated": "2020-12-27T22:40:02.556Z",
   "seriesId": "4001",
   "title": "NHK Documentary",
   "episodes": [
@@ -16,7 +16,8 @@
       "startDate": "2020-11-15T09:10:00.000Z",
       "subtitle": "COVID-19 Pandemic: Transforming the Way We Work",
       "title": "NHK Documentary",
-      "uploadedDate": "2020-12-24T20:08:30.544Z"
+      "uploadedDate": "2020-12-24T20:08:30.544Z",
+      "raw": "https://mega.nz/folder/MoMwgJjT#HH0fO7et4-_VLrpyaAL7uA"
     },
     {
       "airingId": "378",
@@ -61,7 +62,8 @@
       "startDate": "2020-12-05T15:10:00.000Z",
       "subtitle": "Inferno: Letters from Auschwitz",
       "title": "NHK Documentary",
-      "uploadedDate": "2020-12-24T19:39:05.543Z"
+      "uploadedDate": "2020-12-24T19:39:05.543Z",
+      "raw": "https://mega.nz/folder/6JtxSa7b#ckBUwX3lmpd3HfhpsR2M7g"
     }
   ]
 }

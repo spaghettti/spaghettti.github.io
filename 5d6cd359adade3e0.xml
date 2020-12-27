@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-27T07:40:03.671Z</lastUpdated>
+  <lastUpdated>2020-12-27T22:40:02.521Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
+  <episode>
+    <airingId>062</airingId>
+    <content/>
+    <description>This time we introduce "Japan Railway Journal." The show reveals the attractive points of "Next Generation Shinkan-sen." The train has advanced facilities and state-of-the-art technologies.</description>
+    <endDate>2020-12-27T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/FFEmkJgT#aXmJQgedfMm8OQkMKSHepQ</link>
+    <recordDateEnd>2020-12-27T11:55:29.996Z</recordDateEnd>
+    <recordDateStart>2020-12-27T11:49:20.128Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>44f27c02fefe958920133bae2e117ec79e81a8c6a95cc52edeed6c4aaa16e982</sha256>
+    <startDate>2020-12-27T11:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2020-12-27T22:37:30.044Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>063</airingId>
     <content/>
