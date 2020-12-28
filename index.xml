@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T22:35:03.053Z</lastUpdated>
+  <lastUpdated>2020-12-28T23:00:03.807Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -563,7 +563,7 @@
     <title>NHK WORLD PRIME</title>
   </series>
   <series>
-    <count>6</count>
+    <count>5</count>
     <uniqueId>da2ed3151c7e82e4</uniqueId>
     <lastAiring>2020-12-26T02:50:00.000Z</lastAiring>
     <lastUpload>2020-12-27T23:14:26.404Z</lastUpload>
