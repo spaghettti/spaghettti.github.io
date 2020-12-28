@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T21:50:03.180Z</lastUpdated>
+  <lastUpdated>2020-12-28T21:55:02.714Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -492,6 +492,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T11:12:39.200Z</uploadedDate>
     <raw>https://mega.nz/folder/7dUBgKSQ#c7g76KQfIBSrCzzm100gqg</raw>
+  </episode>
+  <episode>
+    <airingId>650</airingId>
+    <content/>
+    <description>Fashion designer Morinaga Kunihiko creates technologically innovative styles that no one has ever seen before. He tells us what motivates his work, and discusses the untapped potential of clothing.</description>
+    <endDate>2020-12-28T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/fw8yxRIB#_VZbbXSW699t09wR7Zf1_A</link>
+    <recordDateEnd>2020-12-28T09:30:28.697Z</recordDateEnd>
+    <recordDateStart>2020-12-28T09:14:20.125Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>878ee58478b6a3e470c90c7486134b8cd716d22f2ad2efdb1d248f5d639fec8c</sha256>
+    <startDate>2020-12-28T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-28T21:53:46.563Z</uploadedDate>
   </episode>
   <episode>
     <airingId>652</airingId>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T21:50:03.314Z",
+  "lastUpdated": "2020-12-28T21:55:02.857Z",
   "series": [
     {
       "count": 6,
@@ -122,18 +122,18 @@
       "title": "COOL JAPAN"
     },
     {
-      "count": 11,
+      "count": 10,
       "uniqueId": "67d2ae7ac69fb919",
       "lastAiring": "2020-12-23T23:30:00.000Z",
-      "lastUpload": "2020-12-28T00:22:29.831Z",
+      "lastUpload": "2020-12-26T14:56:27.804Z",
       "seriesId": "2029",
       "title": "Core Kyoto"
     },
     {
-      "count": 10,
+      "count": 11,
       "uniqueId": "582ad0f8b7805a6b",
-      "lastAiring": "2020-12-24T03:25:00.000Z",
-      "lastUpload": "2020-12-26T03:52:06.490Z",
+      "lastAiring": "2020-12-28T03:25:00.000Z",
+      "lastUpload": "2020-12-28T21:52:35.084Z",
       "seriesId": "6024",
       "title": "Core Kyoto mini"
     },
@@ -202,10 +202,10 @@
       "title": "Dining with the Chef"
     },
     {
-      "count": 55,
+      "count": 56,
       "uniqueId": "07d8499767117509",
-      "lastAiring": "2020-12-25T09:15:00.000Z",
-      "lastUpload": "2020-12-28T00:09:42.934Z",
+      "lastAiring": "2020-12-28T09:15:00.000Z",
+      "lastUpload": "2020-12-28T21:53:46.563Z",
       "seriesId": "2058",
       "title": "Direct Talk"
     },

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T21:50:03.275Z</lastUpdated>
+  <lastUpdated>2020-12-28T21:55:02.810Z</lastUpdated>
   <seriesId>582ad0f8b7805a6b</seriesId>
   <title>Core Kyoto mini</title>
   <episode>
@@ -83,6 +83,21 @@
     <title>Core Kyoto mini</title>
     <uploadedDate>2020-12-26T03:50:14.798Z</uploadedDate>
     <raw>https://mega.nz/folder/BFZgAbQQ#LqIQ7TXcZAR5K3tqCwC9mw</raw>
+  </episode>
+  <episode>
+    <airingId>007</airingId>
+    <content/>
+    <description>Kyoto Confections, experience Kyoto culture through all your senses. Dive deep into the ancient capital, still innovative 1,200 years after its foundation.</description>
+    <endDate>2020-12-28T03:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/et1UWBCa#T0m_0Lxpermokz06a4ktXQ</link>
+    <recordDateEnd>2020-12-28T03:30:28.563Z</recordDateEnd>
+    <recordDateStart>2020-12-28T03:24:24.387Z</recordDateStart>
+    <seriesId>6024</seriesId>
+    <sha256>cb4d6a56f2e177d426d3516763277ddcee3f005b163f3788254f64231ef4df64</sha256>
+    <startDate>2020-12-28T03:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Core Kyoto mini</title>
+    <uploadedDate>2020-12-28T21:52:35.084Z</uploadedDate>
   </episode>
   <episode>
     <airingId>010</airingId>
