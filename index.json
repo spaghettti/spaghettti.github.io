@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2020-12-28T18:35:03.247Z",
+  "lastUpdated": "2020-12-28T18:55:03.289Z",
   "series": [
     {
-      "count": 8,
+      "count": 7,
       "uniqueId": "c656328a0f33bc89",
       "lastAiring": "2020-12-23T00:45:00.000Z",
       "lastUpload": "2020-12-28T00:32:06.550Z",
@@ -114,7 +114,7 @@
       "title": "CATCH JAPAN"
     },
     {
-      "count": 3,
+      "count": 2,
       "uniqueId": "be55ba93c748813c",
       "lastAiring": "2020-12-19T04:10:00.000Z",
       "lastUpload": "2020-12-28T01:18:39.590Z",
@@ -778,7 +778,7 @@
       "title": "Tokyo Life"
     },
     {
-      "count": 6,
+      "count": 5,
       "uniqueId": "31851bb3dfae7f8a",
       "lastAiring": "2020-12-23T14:30:00.000Z",
       "lastUpload": "2020-12-24T15:58:33.272Z",

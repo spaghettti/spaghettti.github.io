@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T18:35:03.243Z</lastUpdated>
+  <lastUpdated>2020-12-28T18:55:03.285Z</lastUpdated>
   <series>
-    <count>8</count>
+    <count>7</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
     <lastAiring>2020-12-23T00:45:00.000Z</lastAiring>
     <lastUpload>2020-12-28T00:32:06.550Z</lastUpload>
@@ -115,7 +115,7 @@
     <title>CATCH JAPAN</title>
   </series>
   <series>
-    <count>3</count>
+    <count>2</count>
     <uniqueId>be55ba93c748813c</uniqueId>
     <lastAiring>2020-12-19T04:10:00.000Z</lastAiring>
     <lastUpload>2020-12-28T01:18:39.590Z</lastUpload>
@@ -779,7 +779,7 @@
     <title>Tokyo Life</title>
   </series>
   <series>
-    <count>6</count>
+    <count>5</count>
     <uniqueId>31851bb3dfae7f8a</uniqueId>
     <lastAiring>2020-12-23T14:30:00.000Z</lastAiring>
     <lastUpload>2020-12-24T15:58:33.272Z</lastUpload>

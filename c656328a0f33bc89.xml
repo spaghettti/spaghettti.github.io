@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T18:35:03.178Z</lastUpdated>
+  <lastUpdated>2020-12-28T18:55:03.204Z</lastUpdated>
   <seriesId>c656328a0f33bc89</seriesId>
   <title>15 Minutes</title>
   <episode>
@@ -34,22 +34,6 @@ Tami Hiyama, 92 years old, lives alone in Fukuoka City, where she has taught hom
     <subtitle>Fishing Crazy: Tokyo's Underwater Darling</subtitle>
     <title>15 Minutes</title>
     <uploadedDate>2020-12-26T18:27:00.363Z</uploadedDate>
-  </episode>
-  <episode>
-    <airingId>116</airingId>
-    <content>The coronavirus has changed everything. How can we overcome this crisis? How can we restore our normal lifestyles? In Japan, Tokyo had the largest number of coronavirus infections. In this series, we look inside 3 places in this megacity. Hotels, where many people stay. Schools, where young people gather. And airports, major transportation hubs. We'll bring you insight on how the people in these places are trying to recover.
-Tokyo International Airport is commonly known as Haneda Airport. It's a crossroads for 49 domestic and 55 international routes. In 2019, travelers using the airport averaged around 240,000 daily - the highest number in Japan. In March 2020, a new international terminal opened to increase the number of international flights to and from Haneda. However, due to the pandemic, the new terminal remains closed and never used. How do they reopen the airport as a source of transportation for people? This episode follows the efforts of those who are trying to regain safe airport operations.</content>
-    <description>The brand new international terminal at Tokyo International Airport has yet to be used due to Covid-19. This episode follows the efforts of those who are trying to regain safe airport operations.</description>
-    <endDate>2020-11-15T11:25:00.000Z</endDate>
-    <link>https://mega.nz/folder/fw0G1ZRA#SKib8pDiym46BYzhJBS54w</link>
-    <recordDateEnd>2020-11-15T11:25:31.314Z</recordDateEnd>
-    <recordDateStart>2020-11-15T11:09:20.102Z</recordDateStart>
-    <seriesId>3019</seriesId>
-    <sha256>23eabbf374c2653035d44b1904735d3e8dc009bb1f1e3dfb8231775d9433c9ae</sha256>
-    <startDate>2020-11-15T11:10:00.000Z</startDate>
-    <subtitle>Starting Over: The Flight Goes On Part 1</subtitle>
-    <title>15 Minutes</title>
-    <uploadedDate>2020-12-26T17:58:49.469Z</uploadedDate>
   </episode>
   <episode>
     <airingId>117</airingId>
