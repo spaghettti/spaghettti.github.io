@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T22:00:03.375Z",
+  "lastUpdated": "2020-12-28T22:05:03.480Z",
   "seriesId": "6113",
   "title": "The Great Summits",
   "episodes": [
@@ -49,6 +49,21 @@
       "title": "The Great Summits",
       "uploadedDate": "2020-12-26T07:58:52.677Z",
       "raw": "https://mega.nz/folder/dAtiVbZY#cQu2U21VFV2qVVhrjEhJjA"
+    },
+    {
+      "airingId": "023",
+      "content": "",
+      "description": "\"The Great Summit\" presents you with breathtaking views and stories behind famous mountains around the world. Today: Mer de Glace, Mont Blanc in the Alps.",
+      "endDate": "2020-12-28T04:20:00.000Z",
+      "link": "https://mega.nz/folder/0RsUlTyQ#Vwro9O3oudVekkO3H5IohQ",
+      "recordDateEnd": "2020-12-28T04:20:33.265Z",
+      "recordDateStart": "2020-12-28T04:09:20.241Z",
+      "seriesId": "6113",
+      "sha256": "035755920bbfbb1c6cb372edcd809fa4450485d5ea524ec85642cdbcc5a844f3",
+      "startDate": "2020-12-28T04:10:00.000Z",
+      "subtitle": "",
+      "title": "The Great Summits",
+      "uploadedDate": "2020-12-28T22:00:06.422Z"
     }
   ]
 }
