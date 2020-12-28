@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T19:20:02.722Z</lastUpdated>
+  <lastUpdated>2020-12-28T19:30:02.977Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -258,22 +258,6 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T11:46:36.967Z</uploadedDate>
     <raw>https://mega.nz/folder/CZt0yQAQ#Yhs_Za2f4TFMR65dsrh8wg</raw>
-  </episode>
-  <episode>
-    <airingId>584</airingId>
-    <content/>
-    <description>Ziauddin Yousafzai is a teacher and activist who stood up to the Taliban in Pakistan. With his daughter Malala, he campaigns for girl's education and equality around the world.</description>
-    <endDate>2020-12-10T09:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/po0FAKRD#0tzk6X3MmUH63zKpvX3Vng</link>
-    <recordDateEnd>2020-12-10T09:30:32.746Z</recordDateEnd>
-    <recordDateStart>2020-12-10T09:14:20.016Z</recordDateStart>
-    <seriesId>2058</seriesId>
-    <sha256>07a5bc60e235fcef0f27b30a9ea8ef8e416c628947dff43372325afe7ef1e60b</sha256>
-    <startDate>2020-12-10T09:15:00.000Z</startDate>
-    <subtitle/>
-    <title>Direct Talk</title>
-    <uploadedDate>2020-12-26T00:19:17.633Z</uploadedDate>
-    <raw>https://mega.nz/folder/3980BYrZ#0k8pJfdf4YvHHC8sV4FW7Q</raw>
   </episode>
   <episode>
     <airingId>591</airingId>

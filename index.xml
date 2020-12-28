@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T19:20:02.857Z</lastUpdated>
+  <lastUpdated>2020-12-28T19:30:03.125Z</lastUpdated>
   <series>
     <count>7</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -203,7 +203,7 @@
     <title>Dining with the Chef</title>
   </series>
   <series>
-    <count>56</count>
+    <count>55</count>
     <uniqueId>07d8499767117509</uniqueId>
     <lastAiring>2020-12-25T09:15:00.000Z</lastAiring>
     <lastUpload>2020-12-28T00:09:42.934Z</lastUpload>
@@ -411,7 +411,7 @@
     <title>J-MELO</title>
   </series>
   <series>
-    <count>28</count>
+    <count>27</count>
     <uniqueId>afe5ace13e6c293d</uniqueId>
     <lastAiring>2020-12-22T23:25:00.000Z</lastAiring>
     <lastUpload>2020-12-25T17:17:52.592Z</lastUpload>
