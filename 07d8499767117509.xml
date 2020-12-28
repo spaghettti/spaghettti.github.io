@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T14:40:02.748Z</lastUpdated>
+  <lastUpdated>2020-12-28T15:40:02.610Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -384,7 +384,6 @@
     <subtitle/>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T00:17:05.781Z</uploadedDate>
-    <raw>https://mega.nz/folder/RB4wySRB#LQemEVjnKO2g4a752Ri83g</raw>
   </episode>
   <episode>
     <airingId>629</airingId>
@@ -463,7 +462,6 @@
     <subtitle>Taking Action Makes a Difference: Bernd Gaiser / Activist of the Lesbian and Gay Movement</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T23:11:50.026Z</uploadedDate>
-    <raw>https://mega.nz/folder/jZcgkbQT#HneG2YD9RqTeIzUV2cYWLQ</raw>
   </episode>
   <episode>
     <airingId>642</airingId>
@@ -926,21 +924,5 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T15:11:01.501Z</uploadedDate>
     <raw>https://mega.nz/folder/KY8WzYqZ#5aX4tdkeORvRAg5yxUW1Yw</raw>
-  </episode>
-  <episode>
-    <airingId>725</airingId>
-    <content>Mounir Biba, multiple world champion of Breaking, runs the project about breaking and coaching to support young people. He also contributed to the promotion of Breaking for Olympic sports inclusion.</content>
-    <description>Mounir Biba, multiple world champion of Breaking, runs the project about breaking and coaching to support young people. He contributed also to the promotion of Breaking for Olympic sports inclusion.</description>
-    <endDate>2020-12-24T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/agsj1K5J#5uYgOgDQR0PKrGgKIOyjMA</link>
-    <recordDateEnd>2020-12-24T07:30:25.970Z</recordDateEnd>
-    <recordDateStart>2020-12-24T07:14:23.002Z</recordDateStart>
-    <seriesId>2058</seriesId>
-    <sha256>0aab4e030b98128ab12e3f16cbb390a140e1be548676c1d47f7227f9b22a91b4</sha256>
-    <startDate>2020-12-24T07:15:00.000Z</startDate>
-    <subtitle>Breaking Makes Everything Possible: Mounir Biba / Breaker/Motivational Coach</subtitle>
-    <title>Direct Talk</title>
-    <uploadedDate>2020-12-24T22:32:49.986Z</uploadedDate>
-    <raw>https://mega.nz/folder/ax0Sma6C#NzqhTQZ_DGGGLS63WPGJgA</raw>
   </episode>
 </episodeList>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T14:40:02.769Z",
+  "lastUpdated": "2020-12-28T15:40:02.630Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -382,8 +382,7 @@
       "startDate": "2020-11-30T18:40:00.000Z",
       "subtitle": "",
       "title": "Direct Talk",
-      "uploadedDate": "2020-12-26T00:17:05.781Z",
-      "raw": "https://mega.nz/folder/RB4wySRB#LQemEVjnKO2g4a752Ri83g"
+      "uploadedDate": "2020-12-26T00:17:05.781Z"
     },
     {
       "airingId": "629",
@@ -461,8 +460,7 @@
       "startDate": "2020-12-16T07:15:00.000Z",
       "subtitle": "Taking Action Makes a Difference: Bernd Gaiser / Activist of the Lesbian and Gay Movement",
       "title": "Direct Talk",
-      "uploadedDate": "2020-12-25T23:11:50.026Z",
-      "raw": "https://mega.nz/folder/jZcgkbQT#HneG2YD9RqTeIzUV2cYWLQ"
+      "uploadedDate": "2020-12-25T23:11:50.026Z"
     },
     {
       "airingId": "642",
@@ -925,22 +923,6 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T15:11:01.501Z",
       "raw": "https://mega.nz/folder/KY8WzYqZ#5aX4tdkeORvRAg5yxUW1Yw"
-    },
-    {
-      "airingId": "725",
-      "content": "Mounir Biba, multiple world champion of Breaking, runs the project about breaking and coaching to support young people. He also contributed to the promotion of Breaking for Olympic sports inclusion.",
-      "description": "Mounir Biba, multiple world champion of Breaking, runs the project about breaking and coaching to support young people. He contributed also to the promotion of Breaking for Olympic sports inclusion.",
-      "endDate": "2020-12-24T07:30:00.000Z",
-      "link": "https://mega.nz/folder/agsj1K5J#5uYgOgDQR0PKrGgKIOyjMA",
-      "recordDateEnd": "2020-12-24T07:30:25.970Z",
-      "recordDateStart": "2020-12-24T07:14:23.002Z",
-      "seriesId": "2058",
-      "sha256": "0aab4e030b98128ab12e3f16cbb390a140e1be548676c1d47f7227f9b22a91b4",
-      "startDate": "2020-12-24T07:15:00.000Z",
-      "subtitle": "Breaking Makes Everything Possible: Mounir Biba / Breaker/Motivational Coach",
-      "title": "Direct Talk",
-      "uploadedDate": "2020-12-24T22:32:49.986Z",
-      "raw": "https://mega.nz/folder/ax0Sma6C#NzqhTQZ_DGGGLS63WPGJgA"
     }
   ]
 }

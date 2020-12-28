@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T14:40:02.801Z</lastUpdated>
+  <lastUpdated>2020-12-28T15:40:02.654Z</lastUpdated>
   <seriesId>328f69455964a591</seriesId>
   <title>Doctor's Insight</title>
   <episode>
@@ -19,22 +19,6 @@
     <title>Doctor's Insight</title>
     <uploadedDate>2020-12-25T19:16:48.908Z</uploadedDate>
     <raw>https://mega.nz/folder/rx9GABrC#p3ZMoRPW9mXM_LFxD4BoNA</raw>
-  </episode>
-  <episode>
-    <airingId>008</airingId>
-    <content>COVID-19 can cause serious illness for people with underlying conditions. Kidney disease patients, increasing globally, need to be extra careful. Recent studies found that immunosuppressive drugs used for treating kidney conditions increase the risk of infection. Furthermore, kidney patients that do get infected have a higher risk of developing pneumonia and even acute kidney injury. What can they do to avoid becoming severely ill from COVID-19? Find out coronavirus tips that kidney patients can apply in their everyday lives from an expert in treating kidney disease.</content>
-    <description>COVID-19 can cause serious illness for people with underlying conditions. Kidney disease patients, increasing globally, need to be extra careful. We'll ask a doctor on what they can do to stay safe.</description>
-    <endDate>2020-12-15T04:55:00.000Z</endDate>
-    <link>https://mega.nz/folder/0wNA0JTJ#F6gVGT8aJYj-vv0lih5YCQ</link>
-    <recordDateEnd>2020-12-15T04:55:27.795Z</recordDateEnd>
-    <recordDateStart>2020-12-15T04:44:20.002Z</recordDateStart>
-    <seriesId>2086</seriesId>
-    <sha256>56aa5b4e6aa88cec64a0ba82311b4082c324955d461e11705ac3c8b531e47d96</sha256>
-    <startDate>2020-12-15T04:45:00.000Z</startDate>
-    <subtitle>COVID-19: Reducing Your Risk of Serious Illness #2: Kidney Disease</subtitle>
-    <title>Doctor's Insight</title>
-    <uploadedDate>2020-12-25T19:08:02.054Z</uploadedDate>
-    <raw>https://mega.nz/folder/I09UkDRA#QZl7NND_xkSvy6jZj8_-ZQ</raw>
   </episode>
   <episode>
     <airingId>009</airingId>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T14:40:02.828Z</lastUpdated>
+  <lastUpdated>2020-12-28T15:40:02.679Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -66,6 +66,5 @@
     <subtitle>Inferno: Letters from Auschwitz</subtitle>
     <title>NHK Documentary</title>
     <uploadedDate>2020-12-24T19:39:05.543Z</uploadedDate>
-    <raw>https://mega.nz/folder/6JtxSa7b#ckBUwX3lmpd3HfhpsR2M7g</raw>
   </episode>
 </episodeList>
