@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T15:50:02.976Z</lastUpdated>
+  <lastUpdated>2020-12-28T15:55:02.688Z</lastUpdated>
   <series>
     <count>8</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -587,7 +587,7 @@
     <title>Paprika  Let's dance!</title>
   </series>
   <series>
-    <count>6</count>
+    <count>5</count>
     <uniqueId>3bee8422e8005b98</uniqueId>
     <lastAiring>2020-12-19T03:55:00.000Z</lastAiring>
     <lastUpload>2020-12-24T18:04:17.137Z</lastUpload>
@@ -803,7 +803,7 @@
     <title>Train Cruise</title>
   </series>
   <series>
-    <count>20</count>
+    <count>19</count>
     <uniqueId>3afe9a7a6f85079a</uniqueId>
     <lastAiring>2020-12-12T11:55:00.000Z</lastAiring>
     <lastUpload>2020-12-24T04:29:56.207Z</lastUpload>

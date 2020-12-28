@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T15:50:02.955Z</lastUpdated>
+  <lastUpdated>2020-12-28T15:55:02.667Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -131,22 +131,6 @@
     <title>Ukiyoe EDO-LIFE: On a Snowy Night</title>
     <uploadedDate>2020-12-24T02:06:15.672Z</uploadedDate>
     <raw>https://mega.nz/folder/Ls9WADKb#ZjuZrmyvhLNsU43B7Z7GHg</raw>
-  </episode>
-  <episode>
-    <airingId>009</airingId>
-    <content/>
-    <description>Caught in an evening shower, Edo townspeople scramble across a bridge in search of shelter. On the river beyond, a lone figure steers his boat, unfazed by the rain. What is his destination?</description>
-    <endDate>2020-11-23T12:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/Q90kmRwT#OPHBeSpHgvUzlaWIxBKpZQ</link>
-    <recordDateEnd>2020-11-23T12:00:25.980Z</recordDateEnd>
-    <recordDateStart>2020-11-23T11:54:20.100Z</recordDateStart>
-    <seriesId>6030</seriesId>
-    <sha256>f0e807b9f5a56e74668a6652ba8d66f6b7b94abeeacff321c52f139bc3af45d8</sha256>
-    <startDate>2020-11-23T11:55:00.000Z</startDate>
-    <subtitle/>
-    <title>Ukiyoe EDO-LIFE: Sudden Shower</title>
-    <uploadedDate>2020-12-24T01:53:57.604Z</uploadedDate>
-    <raw>https://mega.nz/folder/FE1EzZ5Y#-TFaySY1ii6IKhiF5iAkIw</raw>
   </episode>
   <episode>
     <airingId>010</airingId>
