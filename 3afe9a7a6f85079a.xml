@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T01:20:03.165Z</lastUpdated>
+  <lastUpdated>2020-12-28T03:10:03.846Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -98,6 +98,7 @@
     <subtitle/>
     <title>Ukiyoe EDO-LIFE: The Piercing Gaze</title>
     <uploadedDate>2020-12-24T04:21:56.046Z</uploadedDate>
+    <raw>https://mega.nz/folder/jwtAjIYZ#-6eykrCRfNQouVLLPvbM9Q</raw>
   </episode>
   <episode>
     <airingId>007</airingId>
@@ -161,6 +162,7 @@
     <subtitle/>
     <title>Ukiyoe EDO-LIFE: A Bedtime Routine</title>
     <uploadedDate>2020-12-24T04:29:56.207Z</uploadedDate>
+    <raw>https://mega.nz/folder/DddQFTIR#vsugcOjS-7ZlLGgOpFwMSg</raw>
   </episode>
   <episode>
     <airingId>011</airingId>
@@ -320,5 +322,6 @@
     <subtitle/>
     <title>Ukiyoe EDO-LIFE: Edo's Rush Hour</title>
     <uploadedDate>2020-12-24T02:08:38.370Z</uploadedDate>
+    <raw>https://mega.nz/folder/clM2UbzI#ca0Nd5yJ96LcV_y6aD4t3Q</raw>
   </episode>
 </episodeList>

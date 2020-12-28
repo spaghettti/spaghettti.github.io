@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T01:20:03.190Z</lastUpdated>
+  <lastUpdated>2020-12-28T03:10:03.867Z</lastUpdated>
   <series>
     <count>8</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -715,10 +715,10 @@
     <title>The Great Summits</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>aca3c5281f781918</uniqueId>
     <lastAiring>2020-12-21T04:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T08:05:53.594Z</lastUpload>
+    <lastUpload>2020-12-28T03:07:46.408Z</lastUpload>
     <seriesId>4018</seriesId>
     <title>The Mark of Beauty</title>
   </series>

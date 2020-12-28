@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T01:20:03.125Z",
+  "lastUpdated": "2020-12-28T03:10:03.808Z",
   "seriesId": "4018",
   "title": "The Mark of Beauty",
   "episodes": [
@@ -32,7 +32,8 @@
       "startDate": "2020-12-21T04:30:00.000Z",
       "subtitle": "Sake",
       "title": "The Mark of Beauty",
-      "uploadedDate": "2020-12-24T07:50:26.906Z"
+      "uploadedDate": "2020-12-24T07:50:26.906Z",
+      "raw": "https://mega.nz/folder/J9lCVazZ#YcORI54VqF92cl0jdd99kg"
     },
     {
       "airingId": "117",
@@ -49,6 +50,22 @@
       "title": "The Mark of Beauty",
       "uploadedDate": "2020-12-24T07:49:16.266Z",
       "raw": "https://mega.nz/folder/wVkXVYDK#WpGJH_nzVPvOhpNLPJx69Q"
+    },
+    {
+      "airingId": "121",
+      "content": "This episode features zori, or the flat, thonged sandals that have evolved with the Japanese lifestyle. The variety of materials used for the soles and the thong straps provide limitless opportunities for design. Dr. Robert Campbell, an authority on Japanese literature, describes how this footwear is a living tradition. 2 brothers, who have been crafting zori for 60 years, show us sandals offering the ultimate in comfort. And a Kyoto-based footwear store, which has been in business for more than 100 years, shows how it produces its beautifully crafted and functional thong straps. Also featured are the tatami-padded sandals with straw straps, which are worn by the referees for sumo bouts.",
+      "description": "Zori sandals have long kept Japanese feet happy. Not only is it a fashion item that comes in many styles, it also has a cultural role. Tune in to step into the comfy appeal of zori sandals.",
+      "endDate": "2020-12-14T05:00:00.000Z",
+      "link": "https://mega.nz/folder/DkECXZRK#d7IuPDeEgAc4SfmKA5xr0A",
+      "recordDateEnd": "2020-12-14T05:00:28.105Z",
+      "recordDateStart": "2020-12-14T04:29:22.775Z",
+      "seriesId": "4018",
+      "sha256": "206a34e1cbedd200f9ea4e68a8f263d3f1f4fd20980e1543fa64e955a6056c80",
+      "startDate": "2020-12-14T04:30:00.000Z",
+      "subtitle": "Zori Sandals",
+      "title": "The Mark of Beauty",
+      "uploadedDate": "2020-12-28T03:07:46.408Z",
+      "raw": "https://mega.nz/folder/RNM2kTgI#IPassARFF51oUMPQ0k271w"
     }
   ]
 }
