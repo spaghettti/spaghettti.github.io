@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T23:00:03.811Z",
+  "lastUpdated": "2020-12-28T23:05:02.614Z",
   "series": [
     {
       "count": 6,
@@ -578,10 +578,10 @@
       "title": "Paprika  Let's dance!"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "3bee8422e8005b98",
-      "lastAiring": "2020-12-19T03:55:00.000Z",
-      "lastUpload": "2020-12-24T18:04:17.137Z",
+      "lastAiring": "2020-12-26T03:55:00.000Z",
+      "lastUpload": "2020-12-28T23:04:15.721Z",
       "seriesId": "6021",
       "title": "PythagoraSwitch mini"
     },
@@ -794,7 +794,7 @@
       "title": "Train Cruise"
     },
     {
-      "count": 18,
+      "count": 17,
       "uniqueId": "3afe9a7a6f85079a",
       "lastAiring": "2020-12-12T11:55:00.000Z",
       "lastUpload": "2020-12-24T04:29:56.207Z",

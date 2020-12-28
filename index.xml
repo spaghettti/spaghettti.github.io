@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T23:00:03.807Z</lastUpdated>
+  <lastUpdated>2020-12-28T23:05:02.610Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -579,10 +579,10 @@
     <title>Paprika  Let's dance!</title>
   </series>
   <series>
-    <count>5</count>
+    <count>6</count>
     <uniqueId>3bee8422e8005b98</uniqueId>
-    <lastAiring>2020-12-19T03:55:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T18:04:17.137Z</lastUpload>
+    <lastAiring>2020-12-26T03:55:00.000Z</lastAiring>
+    <lastUpload>2020-12-28T23:04:15.721Z</lastUpload>
     <seriesId>6021</seriesId>
     <title>PythagoraSwitch mini</title>
   </series>
@@ -795,7 +795,7 @@
     <title>Train Cruise</title>
   </series>
   <series>
-    <count>18</count>
+    <count>17</count>
     <uniqueId>3afe9a7a6f85079a</uniqueId>
     <lastAiring>2020-12-12T11:55:00.000Z</lastAiring>
     <lastUpload>2020-12-24T04:29:56.207Z</lastUpload>
