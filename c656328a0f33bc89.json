@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T00:25:03.343Z",
+  "lastUpdated": "2020-12-28T00:35:03.419Z",
   "seriesId": "3019",
   "title": "15 Minutes",
   "episodes": [
@@ -93,6 +93,21 @@
       "subtitle": "Ground Detective Simon Wallis: File #1 \"The Case of the Kakigori\"",
       "title": "15 Minutes",
       "uploadedDate": "2020-12-26T17:29:51.058Z"
+    },
+    {
+      "airingId": "124",
+      "content": "Hayama, a seaside resort to the west of Tokyo, is known for its high-quality vegetables and beef ... but not its seafood. But it wasn't always this way. Hatakeyama Akira, born and raised in the town, is determined to restore the place of her childhood memories. As the only fisherwoman in the port, she is working to revive the fishing industry, establishing a direct sales shop and her own kitchen. Her goal -- to bring Hayama's rich seafood culture back to local dining tables.",
+      "description": "Hatakeyama Akira, the only fisherwoman in the port of Hayama - is determined to save the local fishing industry and bring the area's rich seafood culture back.",
+      "endDate": "2020-12-02T00:45:00.000Z",
+      "link": "https://mega.nz/folder/xd4UAbwb#Tz6w1CBYvu-XIp5MvpPasw",
+      "recordDateEnd": "2020-12-02T00:45:31.019Z",
+      "recordDateStart": "2020-12-02T00:29:20.100Z",
+      "seriesId": "3019",
+      "sha256": "3f143edf4cd22493b4832b94f4128c57ca21278be1fff0982eef055e5f0552af",
+      "startDate": "2020-12-02T00:30:00.000Z",
+      "subtitle": "Through the Kitchen Window: Hayama - Bringing Seafood Back",
+      "title": "15 Minutes",
+      "uploadedDate": "2020-12-28T00:32:06.550Z"
     },
     {
       "airingId": "126",
