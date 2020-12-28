@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-27T23:55:03.099Z",
+  "lastUpdated": "2020-12-28T00:05:03.200Z",
   "seriesId": "4017",
   "title": "Somewhere Street",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "Somewhere Street",
       "uploadedDate": "2020-12-24T09:26:24.721Z",
       "raw": "https://mega.nz/folder/EZhAhS6Y#oKJhRnCsM8jLqNkXL9ER7Q"
+    },
+    {
+      "airingId": "054",
+      "content": "San Marino is the capital of the Republic of San Marino, which lies in the middle of the Italian peninsula. It's the oldest surviving republic in the world with a medieval feel and its town atop the cliff is registered as a World Heritage Site. Although it's surrounded by Italy, San Marino has maintained its independence for 1,700 years. Let's take a stroll in San Marino streets!",
+      "description": "San Marino is the capital of the Republic of San Marino and the oldest surviving republic in the world, lying in the middle of the Italian peninsula. Let's take a stroll in San Marino streets!",
+      "endDate": "2020-12-27T05:00:00.000Z",
+      "link": "https://mega.nz/folder/KA0h2IrK#Ubj-YsUGkTGUucAEKeAX6g",
+      "recordDateEnd": "2020-12-27T05:00:22.851Z",
+      "recordDateStart": "2020-12-27T04:09:20.098Z",
+      "seriesId": "4017",
+      "sha256": "3e796faf6e2bf8d2d64b9160dc9d22327e5a02d41ada353855ce7189746be0e6",
+      "startDate": "2020-12-27T04:10:00.000Z",
+      "subtitle": "San Marino",
+      "title": "Somewhere Street",
+      "uploadedDate": "2020-12-28T00:00:55.161Z"
     },
     {
       "airingId": "082",
