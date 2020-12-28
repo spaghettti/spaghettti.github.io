@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T18:30:03.024Z</lastUpdated>
+  <lastUpdated>2020-12-28T18:35:03.243Z</lastUpdated>
   <series>
     <count>8</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -243,7 +243,7 @@
     <title>Drainspotters #4 Morning Market</title>
   </series>
   <series>
-    <count>7</count>
+    <count>6</count>
     <uniqueId>b60ca341c528e0e4</uniqueId>
     <lastAiring>2020-12-26T04:55:00.000Z</lastAiring>
     <lastUpload>2020-12-26T08:46:58.706Z</lastUpload>
@@ -379,9 +379,9 @@
     <title>Human Security in the COVID-19 Era</title>
   </series>
   <series>
-    <count>6</count>
+    <count>5</count>
     <uniqueId>30aa2c9c765292e1</uniqueId>
-    <lastAiring>2020-12-20T16:30:00.000Z</lastAiring>
+    <lastAiring>2020-12-13T16:30:00.000Z</lastAiring>
     <lastUpload>2020-12-25T18:10:59.449Z</lastUpload>
     <seriesId>6206</seriesId>
     <title>Inspiring Landscapes</title>
@@ -747,7 +747,7 @@
     <title>The Sounds of Okinawa: Joy and Prayers for Shuri Castle</title>
   </series>
   <series>
-    <count>16</count>
+    <count>15</count>
     <uniqueId>20f91db4b1d2406e</uniqueId>
     <lastAiring>2020-12-21T23:20:00.000Z</lastAiring>
     <lastUpload>2020-12-24T06:49:53.530Z</lastUpload>

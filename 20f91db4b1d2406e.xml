@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T18:30:02.991Z</lastUpdated>
+  <lastUpdated>2020-12-28T18:35:03.210Z</lastUpdated>
   <seriesId>20f91db4b1d2406e</seriesId>
   <title>TIME-LAPSE</title>
   <episode>
@@ -195,22 +195,6 @@
     <title>Tokyo Time-Lapse</title>
     <uploadedDate>2020-12-24T05:38:08.596Z</uploadedDate>
     <raw>https://mega.nz/folder/AkkhyAiS#cPsL42r5Pq_hYNAZBhA4rw</raw>
-  </episode>
-  <episode>
-    <airingId>013</airingId>
-    <content/>
-    <description>Stunning time-lapse images offer a new angle on Tokyo. We hope you enjoy these original takes on what may be the world's most exciting metropolis! This time: Nightview.</description>
-    <endDate>2020-11-16T23:25:00.000Z</endDate>
-    <link>https://mega.nz/folder/LwEAwBJZ#iATv6yNjg68s3FJEUNfPew</link>
-    <recordDateEnd>2020-11-16T23:25:27.038Z</recordDateEnd>
-    <recordDateStart>2020-11-16T23:19:20.137Z</recordDateStart>
-    <seriesId>6025</seriesId>
-    <sha256>b3c9de395452af5bd682b19f1410b4e1262882cabfb26cdd17484b9f342dd625</sha256>
-    <startDate>2020-11-16T23:20:00.000Z</startDate>
-    <subtitle/>
-    <title>Tokyo Time-Lapse</title>
-    <uploadedDate>2020-12-24T05:34:17.872Z</uploadedDate>
-    <raw>https://mega.nz/folder/v4VHlC7b#wmtWe9Vums7pDf53yJHEtg</raw>
   </episode>
   <episode>
     <airingId>014</airingId>
