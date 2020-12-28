@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T22:25:03.043Z</lastUpdated>
+  <lastUpdated>2020-12-28T22:30:02.762Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -275,10 +275,10 @@
     <title>Explore Japan</title>
   </series>
   <series>
-    <count>5</count>
+    <count>6</count>
     <uniqueId>cb742a1cc3a28577</uniqueId>
-    <lastAiring>2020-12-25T03:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T16:59:36.096Z</lastUpload>
+    <lastAiring>2020-12-28T03:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-28T22:25:18.400Z</lastUpload>
     <seriesId>6202</seriesId>
     <title>EXTREME JAPAN</title>
   </series>
