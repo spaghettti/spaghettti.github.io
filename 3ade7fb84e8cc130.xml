@@ -1,25 +1,9 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T16:40:03.049Z</lastUpdated>
+  <lastUpdated>2020-12-28T16:45:03.317Z</lastUpdated>
   <seriesId>3ade7fb84e8cc130</seriesId>
   <title>Four Seasons in Japan</title>
-  <episode>
-    <airingId>041</airingId>
-    <content/>
-    <description>Aomori's Shimokita Peninsula, jutting into the Tsugaru Straight toward Hokkaido, features osprey nests, flocks of brown-eared bulbuls, and the battle for survival with the peregrine falcon.</description>
-    <endDate>2020-11-29T01:50:00.000Z</endDate>
-    <link>https://mega.nz/folder/6x12TaJC#v-I0sxaqexx4xcfzkX3uSA</link>
-    <recordDateEnd>2020-11-29T01:50:24.402Z</recordDateEnd>
-    <recordDateStart>2020-11-29T01:39:22.608Z</recordDateStart>
-    <seriesId>6101</seriesId>
-    <sha256>36f1a93b45641c9779c15b6f6e280bee0ce67471fd213c41017a9ef1e008eedf</sha256>
-    <startDate>2020-11-29T01:40:00.000Z</startDate>
-    <subtitle/>
-    <title>Four Seasons in Japan</title>
-    <uploadedDate>2020-12-25T04:59:44.964Z</uploadedDate>
-    <raw>https://mega.nz/folder/zhMHSSKb#r4-Xj5FxcXZ5ioHvV4Qn6Q</raw>
-  </episode>
   <episode>
     <airingId>042</airingId>
     <content/>
