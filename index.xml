@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T21:35:02.588Z</lastUpdated>
+  <lastUpdated>2020-12-28T21:40:02.748Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -403,7 +403,7 @@
     <title>J-MELO</title>
   </series>
   <series>
-    <count>27</count>
+    <count>26</count>
     <uniqueId>afe5ace13e6c293d</uniqueId>
     <lastAiring>2020-12-22T23:25:00.000Z</lastAiring>
     <lastUpload>2020-12-25T17:17:52.592Z</lastUpload>
@@ -827,10 +827,10 @@
     <title>Wild Hokkaido!</title>
   </series>
   <series>
-    <count>14</count>
+    <count>15</count>
     <uniqueId>2292026c42316324</uniqueId>
-    <lastAiring>2020-12-24T06:20:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T04:00:37.651Z</lastUpload>
+    <lastAiring>2020-12-28T06:20:00.000Z</lastAiring>
+    <lastUpload>2020-12-28T21:36:57.589Z</lastUpload>
     <seriesId>6014</seriesId>
     <title>Your Japanese Kitchen mini</title>
   </series>

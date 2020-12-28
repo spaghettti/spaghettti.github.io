@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T21:35:02.545Z",
+  "lastUpdated": "2020-12-28T21:40:02.705Z",
   "seriesId": "6014",
   "title": "Your Japanese Kitchen mini",
   "episodes": [
@@ -161,6 +161,21 @@
       "title": "Your Japanese Kitchen mini",
       "uploadedDate": "2020-12-24T05:10:13.790Z",
       "raw": "https://mega.nz/folder/R98iVQwY#aAkX5OH8X8NE9K0_IIOt4w"
+    },
+    {
+      "airingId": "025",
+      "content": "",
+      "description": "Each edition of this five-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from \"Your Japanese Kitchen\". Today: Herb chicken Donburi Style.",
+      "endDate": "2020-12-28T06:25:00.000Z",
+      "link": "https://mega.nz/folder/jVswiS4C#l8ZgqZe8Lg3oJuwWBkEvEg",
+      "recordDateEnd": "2020-12-28T06:25:30.388Z",
+      "recordDateStart": "2020-12-28T06:19:20.114Z",
+      "seriesId": "6014",
+      "sha256": "57b939daecf0c59804ef16ac6435c7f39e67b9e125a391e60d21aaded330cdfc",
+      "startDate": "2020-12-28T06:20:00.000Z",
+      "subtitle": "",
+      "title": "Your Japanese Kitchen mini",
+      "uploadedDate": "2020-12-28T21:36:57.589Z"
     },
     {
       "airingId": "027",

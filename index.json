@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T21:35:02.591Z",
+  "lastUpdated": "2020-12-28T21:40:02.752Z",
   "series": [
     {
       "count": 6,
@@ -402,7 +402,7 @@
       "title": "J-MELO"
     },
     {
-      "count": 27,
+      "count": 26,
       "uniqueId": "afe5ace13e6c293d",
       "lastAiring": "2020-12-22T23:25:00.000Z",
       "lastUpload": "2020-12-25T17:17:52.592Z",
@@ -826,10 +826,10 @@
       "title": "Wild Hokkaido!"
     },
     {
-      "count": 14,
+      "count": 15,
       "uniqueId": "2292026c42316324",
-      "lastAiring": "2020-12-24T06:20:00.000Z",
-      "lastUpload": "2020-12-26T04:00:37.651Z",
+      "lastAiring": "2020-12-28T06:20:00.000Z",
+      "lastUpload": "2020-12-28T21:36:57.589Z",
       "seriesId": "6014",
       "title": "Your Japanese Kitchen mini"
     },
