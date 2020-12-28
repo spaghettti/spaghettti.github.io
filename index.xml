@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T19:30:03.125Z</lastUpdated>
+  <lastUpdated>2020-12-28T19:35:02.592Z</lastUpdated>
   <series>
     <count>7</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -35,7 +35,7 @@
     <title>ANIMATION X PARALYMPIC</title>
   </series>
   <series>
-    <count>4</count>
+    <count>3</count>
     <uniqueId>0fc6cd6b02dc8d5f</uniqueId>
     <lastAiring>2020-12-26T00:10:00.000Z</lastAiring>
     <lastUpload>2020-12-28T00:31:48.470Z</lastUpload>
@@ -707,7 +707,7 @@
     <title>Spiritual Explorers</title>
   </series>
   <series>
-    <count>5</count>
+    <count>4</count>
     <uniqueId>05e910e7289de2b7</uniqueId>
     <lastAiring>2020-12-25T04:10:00.000Z</lastAiring>
     <lastUpload>2020-12-26T07:58:52.677Z</lastUpload>
