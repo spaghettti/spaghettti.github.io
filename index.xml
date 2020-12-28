@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T19:15:02.875Z</lastUpdated>
+  <lastUpdated>2020-12-28T19:20:02.857Z</lastUpdated>
   <series>
     <count>7</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -675,7 +675,7 @@
     <title>Side by Side</title>
   </series>
   <series>
-    <count>6</count>
+    <count>5</count>
     <uniqueId>aefa3128a4eaf8eb</uniqueId>
     <lastAiring>2020-12-27T04:10:00.000Z</lastAiring>
     <lastUpload>2020-12-28T00:00:55.161Z</lastUpload>
