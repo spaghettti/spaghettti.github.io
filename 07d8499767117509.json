@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T21:55:02.731Z",
+  "lastUpdated": "2020-12-28T22:00:03.277Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -887,6 +887,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-25T15:11:01.501Z",
       "raw": "https://mega.nz/folder/KY8WzYqZ#5aX4tdkeORvRAg5yxUW1Yw"
+    },
+    {
+      "airingId": "722",
+      "content": "Nodoka Okisawa is one of the world's most buzzed-about young conductors. In 2019 she won the prestigious International Besançon Competition. We speak to her about her musical passions.",
+      "description": "Nodoka Okisawa is one of the world's most buzzed-about young conductors. In 2019 she won the prestigious International Besancon Competition. We speak to her about her musical passions.",
+      "endDate": "2020-12-28T07:30:00.000Z",
+      "link": "https://mega.nz/folder/I5lA3YqQ#C7EpKkJ-12L1D8pkFVmmNQ",
+      "recordDateEnd": "2020-12-28T07:30:32.494Z",
+      "recordDateStart": "2020-12-28T07:14:20.023Z",
+      "seriesId": "2058",
+      "sha256": "6ac1621b6c32e1bc3bde54ebac4913f80cbffb2a995973d14aaa8f99fa6684a2",
+      "startDate": "2020-12-28T07:15:00.000Z",
+      "subtitle": "Musical Direction: Nodoka Okisawa / Conductor",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-28T21:57:49.220Z"
     }
   ]
 }
