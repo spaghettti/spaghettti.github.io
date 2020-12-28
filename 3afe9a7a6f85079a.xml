@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T21:45:03.240Z</lastUpdated>
+  <lastUpdated>2020-12-28T21:50:03.289Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -275,22 +275,6 @@
     <title>Ukiyoe EDO-LIFE: Summer Delicacy</title>
     <uploadedDate>2020-12-24T01:51:28.467Z</uploadedDate>
     <raw>https://mega.nz/folder/RQ02xDLS#nOvyfDLCDkX85TyaG1p6wA</raw>
-  </episode>
-  <episode>
-    <airingId>019</airingId>
-    <content/>
-    <description>For a time during the Edo period, fireworks lit up the skies practically every night in the summer. It was a chance for women to dress up and let loose ... and grab the attention of male suitors.</description>
-    <endDate>2020-12-12T08:55:00.000Z</endDate>
-    <link>https://mega.nz/folder/CpUxHYwT#5FAze2UV25ca7k2XcmY65Q</link>
-    <recordDateEnd>2020-12-12T08:55:27.756Z</recordDateEnd>
-    <recordDateStart>2020-12-12T08:49:20.098Z</recordDateStart>
-    <seriesId>6030</seriesId>
-    <sha256>d1f4e05029b87a3d39e8c6ff615fa526487bb4e5631bfc134e7077007562f22e</sha256>
-    <startDate>2020-12-12T08:50:00.000Z</startDate>
-    <subtitle/>
-    <title>Ukiyoe EDO-LIFE: A Fashion Night</title>
-    <uploadedDate>2020-12-24T02:13:04.478Z</uploadedDate>
-    <raw>https://mega.nz/folder/3p12HTwR#a1bP7Uvnjva0eVWILhfHAA</raw>
   </episode>
   <episode>
     <airingId>020</airingId>

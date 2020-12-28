@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T21:45:03.260Z</lastUpdated>
+  <lastUpdated>2020-12-28T21:50:03.311Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -795,7 +795,7 @@
     <title>Train Cruise</title>
   </series>
   <series>
-    <count>19</count>
+    <count>18</count>
     <uniqueId>3afe9a7a6f85079a</uniqueId>
     <lastAiring>2020-12-12T11:55:00.000Z</lastAiring>
     <lastUpload>2020-12-24T04:29:56.207Z</lastUpload>
