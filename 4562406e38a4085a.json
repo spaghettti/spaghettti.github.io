@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T00:10:02.964Z",
+  "lastUpdated": "2020-12-28T00:20:02.983Z",
   "seriesId": "2019",
   "title": "Dining with the Chef",
   "episodes": [
@@ -77,6 +77,21 @@
       "subtitle": "Authentic Japanese Cooking: Temari Sushi",
       "title": "Dining with the Chef",
       "uploadedDate": "2020-12-26T02:33:03.935Z"
+    },
+    {
+      "airingId": "247",
+      "content": "Our theme for this episode is seasoning. We'll be making a stir-fry, a home-cooked dish popular for its casual simplicity, and add a seasoning made with miso to give it a deliciously sophisticated flavor. Chef Saito will share his own unique seasoning blend, too: by mixing miso with other distinctively Japanese seasonings, you too can bring out the best of ingredients' flavors and give dishes a satisfying depth! For our side dish, we'll be cooking rice with sweet potato, an ingredient commonly eaten throughout Japan in autumn and winter. We'll also learn about how to use a versatile Japanese seasoning that has long been beloved as a drink, to help enhance the sweetness of other ingredients.",
+      "description": "Today's recipe: (1) Miso Stir Fry with Lotus Root and Chicken (2) Sweet Potato Rice. Why not learn Japanese food culture and try real Japanese dishes at your home!",
+      "endDate": "2020-11-27T15:00:00.000Z",
+      "link": "https://mega.nz/folder/OgNTGA6L#FxGbmS5nlHATeHZYLpjXOA",
+      "recordDateEnd": "2020-11-27T15:00:31.192Z",
+      "recordDateStart": "2020-11-27T14:29:20.092Z",
+      "seriesId": "2019",
+      "sha256": "5d4f2b7f24caa5825640527f757704709904962064ea7925514b6d19c5f4c242",
+      "startDate": "2020-11-27T14:30:00.000Z",
+      "subtitle": "Authentic Japanese Cooking: Miso Stir Fry with Lotus Root and Chicken",
+      "title": "Dining with the Chef",
+      "uploadedDate": "2020-12-28T00:18:04.305Z"
     },
     {
       "airingId": "248",
