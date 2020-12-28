@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T15:40:02.654Z</lastUpdated>
+  <lastUpdated>2020-12-28T15:45:03.404Z</lastUpdated>
   <seriesId>328f69455964a591</seriesId>
   <title>Doctor's Insight</title>
   <episode>
@@ -35,22 +35,6 @@
     <title>Doctor's Insight</title>
     <uploadedDate>2020-12-26T06:51:17.777Z</uploadedDate>
     <raw>https://mega.nz/folder/TYlCkB5B#MhPOw9QqLRZa3uqwN5ht4Q</raw>
-  </episode>
-  <episode>
-    <airingId>016</airingId>
-    <content>The retina is a layer of tissue in the back of our eyes. It acts as a screen where images are projected. We need a healthy retina to see things clearly. However, diabetes can slowly damage the retina. According to the WHO, among the 420 million people with diabetes worldwide, 1 in 3 people have diabetic retinopathy, a retinal disease caused by diabetes. People with good vision can experience sudden vision loss. Find out how to protect yourself from this silent killer of eyesight.</content>
-    <description>The retina plays an essential part of our vision. However, "diabetic retinopathy" can slowly damage the retina and even cause sudden vision loss. Find out what you can do to protect your eyes.</description>
-    <endDate>2020-11-24T04:55:00.000Z</endDate>
-    <link>https://mega.nz/folder/X58GnKTL#AzK3XGI7nz8wAovdN_V_6A</link>
-    <recordDateEnd>2020-11-24T04:55:26.301Z</recordDateEnd>
-    <recordDateStart>2020-11-24T04:44:20.029Z</recordDateStart>
-    <seriesId>2086</seriesId>
-    <sha256>84ac7397bb4b1f54ceb499ce0367a36962184fcec9fa97a45dc3f95c94147b1f</sha256>
-    <startDate>2020-11-24T04:45:00.000Z</startDate>
-    <subtitle>Eye Diseases #5: Diabetic Retinopathy</subtitle>
-    <title>Doctor's Insight</title>
-    <uploadedDate>2020-12-25T19:25:12.681Z</uploadedDate>
-    <raw>https://mega.nz/folder/FB5glbaR#rmMFQWBdUS3rIOR8DQ0Ihg</raw>
   </episode>
   <episode>
     <airingId>017</airingId>
