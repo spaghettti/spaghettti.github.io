@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T18:55:03.251Z</lastUpdated>
+  <lastUpdated>2020-12-28T19:15:02.838Z</lastUpdated>
   <seriesId>da2ed3151c7e82e4</seriesId>
   <title>no art, no life</title>
   <episode>
@@ -83,21 +83,6 @@
     <title>no art, no life</title>
     <uploadedDate>2020-12-24T18:09:15.318Z</uploadedDate>
     <raw>https://mega.nz/folder/m0dFHQ7C#dnl3LtCfXCm_n63SEuco4A</raw>
-  </episode>
-  <episode>
-    <airingId>018</airingId>
-    <content/>
-    <description>Outsider artists like Tomoyuki Hirano are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.</description>
-    <endDate>2020-12-19T02:55:00.000Z</endDate>
-    <link>https://mega.nz/folder/txdg1RhD#7nfbSToYvFGYJYoTRYg2xQ</link>
-    <recordDateEnd>2020-12-19T02:56:06.089Z</recordDateEnd>
-    <recordDateStart>2020-12-19T02:49:20.019Z</recordDateStart>
-    <seriesId>6026</seriesId>
-    <sha256>75a7a5031e78e11110b54659a3636fb1404c4116d9e7f216fa64cc5e8bd8e1b6</sha256>
-    <startDate>2020-12-19T02:50:00.000Z</startDate>
-    <subtitle/>
-    <title>no art, no life</title>
-    <uploadedDate>2020-12-24T18:01:52.424Z</uploadedDate>
   </episode>
   <episode>
     <airingId>019</airingId>
