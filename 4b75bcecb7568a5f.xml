@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T03:10:03.767Z</lastUpdated>
+  <lastUpdated>2020-12-28T08:00:02.999Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -18,6 +18,7 @@
     <subtitle>Sport Climbing - Speed</subtitle>
     <title>J-Arena</title>
     <uploadedDate>2020-12-25T01:19:07.052Z</uploadedDate>
+    <raw>https://mega.nz/folder/XlU2hbhI#9QeT9nYLkk9nmCHb4vPaWw</raw>
   </episode>
   <episode>
     <airingId>075</airingId>
@@ -33,6 +34,7 @@
     <subtitle>Wakeboarding</subtitle>
     <title>J-Arena</title>
     <uploadedDate>2020-12-25T00:54:42.499Z</uploadedDate>
+    <raw>https://mega.nz/folder/IcoAEI6K#qb5allW8QlqYmu9xpYC4Ag</raw>
   </episode>
   <episode>
     <airingId>076</airingId>
@@ -48,6 +50,7 @@
     <subtitle>Gymnastics - Horizontal Bar</subtitle>
     <title>J-Arena</title>
     <uploadedDate>2020-12-25T00:32:29.949Z</uploadedDate>
+    <raw>https://mega.nz/folder/SclQlSAL#ISNaiIQbEcLRejc6n5hhfw</raw>
   </episode>
   <episode>
     <airingId>077</airingId>
@@ -63,5 +66,6 @@
     <subtitle>Core Training</subtitle>
     <title>J-Arena</title>
     <uploadedDate>2020-12-25T17:46:58.519Z</uploadedDate>
+    <raw>https://mega.nz/folder/ix9igSLJ#2chXxFpRbVqSrc10pWk9eg</raw>
   </episode>
 </episodeList>

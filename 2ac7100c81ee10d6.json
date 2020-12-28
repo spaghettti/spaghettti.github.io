@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T03:10:03.810Z",
+  "lastUpdated": "2020-12-28T08:00:03.051Z",
   "seriesId": "4023",
   "title": "Lunch ON!",
   "episodes": [
@@ -16,7 +16,8 @@
       "startDate": "2020-11-26T08:30:00.000Z",
       "subtitle": "Lunch on the Run",
       "title": "Lunch ON!",
-      "uploadedDate": "2020-12-24T21:20:30.521Z"
+      "uploadedDate": "2020-12-24T21:20:30.521Z",
+      "raw": "https://mega.nz/folder/JRpwgAgR#STjcGnTfFgE6YW-nyIwl3g"
     },
     {
       "airingId": "141",
@@ -31,7 +32,8 @@
       "startDate": "2020-12-17T04:30:00.000Z",
       "subtitle": "Lunch at the Fishcake Factory",
       "title": "Lunch ON!",
-      "uploadedDate": "2020-12-24T20:58:55.288Z"
+      "uploadedDate": "2020-12-24T20:58:55.288Z",
+      "raw": "https://mega.nz/folder/6V8GxCzB#kWoDwxJRZcegycJ6EivTAQ"
     },
     {
       "airingId": "142",
@@ -78,7 +80,8 @@
       "startDate": "2020-12-10T04:30:00.000Z",
       "subtitle": "Lunch at the Mushroom Farm",
       "title": "Lunch ON!",
-      "uploadedDate": "2020-12-24T23:13:22.173Z"
+      "uploadedDate": "2020-12-24T23:13:22.173Z",
+      "raw": "https://mega.nz/folder/cc1yRCZa#XXwAgL-b0WeLhaGliTyKFg"
     }
   ]
 }

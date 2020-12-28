@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T03:10:03.768Z",
+  "lastUpdated": "2020-12-28T08:00:03.002Z",
   "seriesId": "2073",
   "title": "J-Arena",
   "episodes": [
@@ -16,7 +16,8 @@
       "startDate": "2020-12-04T04:30:00.000Z",
       "subtitle": "Sport Climbing - Speed",
       "title": "J-Arena",
-      "uploadedDate": "2020-12-25T01:19:07.052Z"
+      "uploadedDate": "2020-12-25T01:19:07.052Z",
+      "raw": "https://mega.nz/folder/XlU2hbhI#9QeT9nYLkk9nmCHb4vPaWw"
     },
     {
       "airingId": "075",
@@ -31,7 +32,8 @@
       "startDate": "2020-11-27T04:30:00.000Z",
       "subtitle": "Wakeboarding",
       "title": "J-Arena",
-      "uploadedDate": "2020-12-25T00:54:42.499Z"
+      "uploadedDate": "2020-12-25T00:54:42.499Z",
+      "raw": "https://mega.nz/folder/IcoAEI6K#qb5allW8QlqYmu9xpYC4Ag"
     },
     {
       "airingId": "076",
@@ -46,7 +48,8 @@
       "startDate": "2020-12-11T04:30:00.000Z",
       "subtitle": "Gymnastics - Horizontal Bar",
       "title": "J-Arena",
-      "uploadedDate": "2020-12-25T00:32:29.949Z"
+      "uploadedDate": "2020-12-25T00:32:29.949Z",
+      "raw": "https://mega.nz/folder/SclQlSAL#ISNaiIQbEcLRejc6n5hhfw"
     },
     {
       "airingId": "077",
@@ -61,7 +64,8 @@
       "startDate": "2020-12-18T04:30:00.000Z",
       "subtitle": "Core Training",
       "title": "J-Arena",
-      "uploadedDate": "2020-12-25T17:46:58.519Z"
+      "uploadedDate": "2020-12-25T17:46:58.519Z",
+      "raw": "https://mega.nz/folder/ix9igSLJ#2chXxFpRbVqSrc10pWk9eg"
     }
   ]
 }

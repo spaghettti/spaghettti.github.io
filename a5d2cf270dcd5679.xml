@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T03:10:03.731Z</lastUpdated>
+  <lastUpdated>2020-12-28T08:00:02.956Z</lastUpdated>
   <seriesId>a5d2cf270dcd5679</seriesId>
   <title>Medical Frontiers</title>
   <episode>
@@ -34,6 +34,7 @@
     <subtitle>COVID-19: The True Value of Vaccines</subtitle>
     <title>Medical Frontiers</title>
     <uploadedDate>2020-12-24T20:48:02.202Z</uploadedDate>
+    <raw>https://mega.nz/folder/y4t22ATI#Bxk5UGF-gAFf6RHS8g_VCg</raw>
   </episode>
   <episode>
     <airingId>097</airingId>
@@ -97,5 +98,6 @@
     <subtitle>Preventing Alzheimer's Disease</subtitle>
     <title>Medical Frontiers</title>
     <uploadedDate>2020-12-24T20:45:27.852Z</uploadedDate>
+    <raw>https://mega.nz/folder/k19W2KpK#mTH_VixOb8kUjX3xXWkENg</raw>
   </episode>
 </episodeList>
