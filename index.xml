@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T23:35:02.992Z</lastUpdated>
+  <lastUpdated>2020-12-28T23:45:03.616Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -19,10 +19,10 @@
     <title>2020 GRAND SUMO Review</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>80c159d773764353</uniqueId>
     <lastAiring>2020-12-02T00:45:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T17:45:11.405Z</lastUpload>
+    <lastUpload>2020-12-28T23:44:00.528Z</lastUpload>
     <seriesId>3019</seriesId>
     <title>A*B*C Tours</title>
   </series>
@@ -219,7 +219,7 @@
     <title>Doctor's Insight</title>
   </series>
   <series>
-    <count>4</count>
+    <count>3</count>
     <uniqueId>3181d5ae26726a28</uniqueId>
     <lastAiring>2020-12-15T01:30:00.000Z</lastAiring>
     <lastUpload>2020-12-25T20:02:29.590Z</lastUpload>
@@ -283,10 +283,10 @@
     <title>EXTREME JAPAN</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>c2cfe904ce7ecfa5</uniqueId>
-    <lastAiring>2020-12-20T01:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T05:35:01.857Z</lastUpload>
+    <lastAiring>2020-12-27T01:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-28T23:43:10.813Z</lastUpload>
     <seriesId>2043</seriesId>
     <title>Face To Face</title>
   </series>
@@ -603,10 +603,10 @@
     <title>Reviving the Voices of Himeyuri - The Rebirth of the Museum 75 Years After the War</title>
   </series>
   <series>
-    <count>5</count>
+    <count>6</count>
     <uniqueId>509fab78036b7f12</uniqueId>
-    <lastAiring>2020-12-24T01:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-27T07:36:12.024Z</lastUpload>
+    <lastAiring>2020-12-26T14:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-28T23:42:49.732Z</lastUpload>
     <seriesId>2042</seriesId>
     <title>RISING</title>
   </series>
@@ -747,7 +747,7 @@
     <title>TIME-LAPSE</title>
   </series>
   <series>
-    <count>6</count>
+    <count>5</count>
     <uniqueId>a5fed3c217d7b7f6</uniqueId>
     <lastAiring>2020-12-18T15:30:00.000Z</lastAiring>
     <lastUpload>2020-12-24T15:56:28.169Z</lastUpload>

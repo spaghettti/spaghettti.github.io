@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T23:35:02.928Z</lastUpdated>
+  <lastUpdated>2020-12-28T23:45:03.553Z</lastUpdated>
   <seriesId>a5fed3c217d7b7f6</seriesId>
   <title>Today's Close-Up</title>
   <episode>
@@ -44,24 +44,6 @@ Miyata Hiroaki (Professor, Keio University)</content>
     <title>Today's Close-Up</title>
     <uploadedDate>2020-12-24T07:02:22.420Z</uploadedDate>
     <raw>https://mega.nz/folder/FVkASCrS#EyFybDVqwBuTFAc5tZkdjg</raw>
-  </episode>
-  <episode>
-    <airingId>810</airingId>
-    <content>The Tokyo Olympic Games are due to open in eight months' time, but can they really be held while the coronavirus pandemic shows no sign of ending? An international gymnastics competition held in Tokyo in early November was used as a test event. The organizers took strict anti-infection measures, but were troubled by a series of unexpected problems. NHK went behind the scenes to see what will be necessary to safely hold the Tokyo 2020 Olympic Games.
-Guest:
-Kaku Mitsuo (Specially Appointed Professor, Tohoku Medical and Pharmaceutical University)</content>
-    <description>What difficulties await the organizers of the Tokyo Olympic Games next year because of the coronavirus pandemic? We look behind the scenes of an international gymnastics meet held as a test in Tokyo.</description>
-    <endDate>2020-11-27T22:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/ocQGgTIC#9zi3R8FgQcerk8k6XzT60A</link>
-    <recordDateEnd>2020-11-27T22:00:32.665Z</recordDateEnd>
-    <recordDateStart>2020-11-27T21:29:20.098Z</recordDateStart>
-    <seriesId>4002</seriesId>
-    <sha256>3bf6f259ea0ec44ad1c5bb90b928046f77856629251dcb0be05c803bf50db17f</sha256>
-    <startDate>2020-11-27T21:30:00.000Z</startDate>
-    <subtitle>Are the Tokyo Games Possible? - Int'l Gymnastics Meet Held as Test</subtitle>
-    <title>Today's Close-Up</title>
-    <uploadedDate>2020-12-24T06:32:12.742Z</uploadedDate>
-    <raw>https://mega.nz/folder/tgtSUQID#r_xpY3mk-uJDIy9Am4EwzA</raw>
   </episode>
   <episode>
     <airingId>811</airingId>

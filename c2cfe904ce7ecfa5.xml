@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T23:35:02.841Z</lastUpdated>
+  <lastUpdated>2020-12-28T23:45:03.457Z</lastUpdated>
   <seriesId>c2cfe904ce7ecfa5</seriesId>
   <title>Face To Face</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Face To Face</title>
     <uploadedDate>2020-12-25T05:35:01.857Z</uploadedDate>
     <raw>https://mega.nz/folder/4ZZ0TbID#Ag8AlgM4S-pzQj2hvNlrMg</raw>
+  </episode>
+  <episode>
+    <airingId>055</airingId>
+    <content>Kodan is a traditional storytelling art that is enjoying a spectacular revival thanks to Kanda Hakuzan (36). Although he made his debut just 13 years ago, tickets to his performances sell out in no time. He manages to bring historic characters to life with his energetic performances that are grounded in solid technique and style. In February 2020, he assumed the highest rank possible in Kodan, the fastest rise in history. He joins us for a chat on Japanese culture as reflected in Kodan.</content>
+    <description>The traditional storytelling art of kodan is enjoying a spectacular revival thanks to rising star Kanda Hakuzan. Tickets to his performances sell out in no time. He shares with us his love of kodan.</description>
+    <endDate>2020-12-27T01:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/uxFkQJKI#pWfebEab2MRw-AZmP_G3aA</link>
+    <recordDateEnd>2020-12-27T01:40:26.550Z</recordDateEnd>
+    <recordDateStart>2020-12-27T01:09:23.361Z</recordDateStart>
+    <seriesId>2043</seriesId>
+    <sha256>4099e26912d7064701eee5fc1508950d80fe1ea905d3d70958a9b2609e8997cc</sha256>
+    <startDate>2020-12-27T01:10:00.000Z</startDate>
+    <subtitle>Kanda Hakuzan: Championing the Art of Kodan</subtitle>
+    <title>Face To Face</title>
+    <uploadedDate>2020-12-28T23:43:10.813Z</uploadedDate>
   </episode>
   <episode>
     <airingId>063</airingId>
