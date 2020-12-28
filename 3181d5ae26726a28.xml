@@ -1,24 +1,9 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T19:35:02.534Z</lastUpdated>
+  <lastUpdated>2020-12-28T19:50:02.641Z</lastUpdated>
   <seriesId>3181d5ae26726a28</seriesId>
   <title>Document 72 Hours</title>
-  <episode>
-    <airingId>115</airingId>
-    <content>A gym in a residential area of Tokyo offers classes for a slightly unusual activity where going backward is actually a sign of progress - doing backflips. These lessons are becoming increasingly popular among children, housewives, and company employees who drop by to master their technique after work. Among the people at this gym are a man in his 40's who has long admired Jackie Chan and a young woman who hopes doing backflips might give her cosplay photos a stylish edge. For 3 days, we spoke to people determined to find out if doing a complete backflip will also help their lives take a turn for the better.</content>
-    <description>Could backflip lessons help your life take a turn for the better? For 3 days, we asked people attending classes at a small Tokyo gymnasium about what drives them to master this unusual activity.</description>
-    <endDate>2020-12-01T01:55:00.000Z</endDate>
-    <link>https://mega.nz/folder/cBxQBC4J#jpoj-YoDPkemkE-07aWnLA</link>
-    <recordDateEnd>2020-12-01T01:55:27.725Z</recordDateEnd>
-    <recordDateStart>2020-12-01T01:29:20.100Z</recordDateStart>
-    <seriesId>4026</seriesId>
-    <sha256>52d99943a2a822ff0c78f1dff058acfd1b92815693393e440c939da4d21a5442</sha256>
-    <startDate>2020-12-01T01:30:00.000Z</startDate>
-    <subtitle>Flipping Backward, Looking Forward</subtitle>
-    <title>Document 72 Hours</title>
-    <uploadedDate>2020-12-25T19:33:08.913Z</uploadedDate>
-  </episode>
   <episode>
     <airingId>130</airingId>
     <content>Runners have 72 hours to complete a 400-km "Survival Run" around the main island of Okinawa Prefecture, southern Japan. The 68 participants from across Japan complain that the race is exhausting and torturous, yet they continue to push themselves, day and night. Some say that running allows them to forget all their worries and stress, others say they enjoy increasing their distance. We spent 3 days chasing after them to find out what motivates them to continue running.</content>

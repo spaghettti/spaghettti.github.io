@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T19:35:02.592Z</lastUpdated>
+  <lastUpdated>2020-12-28T19:50:02.699Z</lastUpdated>
   <series>
     <count>7</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -219,7 +219,7 @@
     <title>Doctor's Insight</title>
   </series>
   <series>
-    <count>6</count>
+    <count>5</count>
     <uniqueId>3181d5ae26726a28</uniqueId>
     <lastAiring>2020-12-22T01:30:00.000Z</lastAiring>
     <lastUpload>2020-12-26T06:00:20.614Z</lastUpload>
@@ -507,7 +507,7 @@
     <title>Lunch ON!</title>
   </series>
   <series>
-    <count>3</count>
+    <count>2</count>
     <uniqueId>77fae6769682674d</uniqueId>
     <lastAiring>2020-12-25T11:10:00.000Z</lastAiring>
     <lastUpload>2020-12-25T16:43:17.976Z</lastUpload>
