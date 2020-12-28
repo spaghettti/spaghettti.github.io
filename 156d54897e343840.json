@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T00:45:03.715Z",
+  "lastUpdated": "2020-12-28T01:05:02.557Z",
   "seriesId": "3016",
   "title": "NHK WORLD PRIME",
   "episodes": [
@@ -17,6 +17,22 @@
       "subtitle": "No More Plastic: In Search of a Sustainable Future - Part 1: Clearing Plastic from the Ocean",
       "title": "NHK WORLD PRIME",
       "uploadedDate": "2020-12-24T19:45:24.081Z"
+    },
+    {
+      "airingId": "059",
+      "content": "Plastic pollution litters the world's oceans. The move away from the use of plastic is currently gaining steam around the globe. In part 2 of this series, we look at business trends leading us away from a world of plastic and towards circular economies. One example is a Japanese startup hoping to sell its proprietary recycling technology abroad. And also we look at disposable plastics regulation strategies in France and New York City. Can we find ways to leave our plastic civilization behind?",
+      "description": "Plastic pollution litters the world's oceans. A war on plastic is breaking out and the goal is a circular economy. Part 2 looks at the latest business trends leading us away from a world of plastic.",
+      "endDate": "2020-12-22T12:00:00.000Z",
+      "link": "https://mega.nz/folder/fk9Q3J7R#jyRD9XCsaj6not3NlLTCWg",
+      "recordDateEnd": "2020-12-22T12:00:26.371Z",
+      "recordDateStart": "2020-12-22T11:09:22.468Z",
+      "seriesId": "3016",
+      "sha256": "28c2f44924a0cfcec18781b47ab383691e999d1de35821bf73d881bd5326b4c3",
+      "startDate": "2020-12-22T11:10:00.000Z",
+      "subtitle": "No More Plastic: In Search of a Sustainable Future - Part 2: Frontlines of Global Business",
+      "title": "NHK WORLD PRIME",
+      "uploadedDate": "2020-12-28T01:00:47.371Z",
+      "raw": "https://mega.nz/folder/L10yAQbB#lUNZkeKZ8tXqz4DDwR_zHA"
     },
     {
       "airingId": "060",

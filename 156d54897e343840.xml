@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T00:45:03.713Z</lastUpdated>
+  <lastUpdated>2020-12-28T01:05:02.556Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
   <episode>
@@ -18,6 +18,22 @@
     <subtitle>No More Plastic: In Search of a Sustainable Future - Part 1: Clearing Plastic from the Ocean</subtitle>
     <title>NHK WORLD PRIME</title>
     <uploadedDate>2020-12-24T19:45:24.081Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>059</airingId>
+    <content>Plastic pollution litters the world's oceans. The move away from the use of plastic is currently gaining steam around the globe. In part 2 of this series, we look at business trends leading us away from a world of plastic and towards circular economies. One example is a Japanese startup hoping to sell its proprietary recycling technology abroad. And also we look at disposable plastics regulation strategies in France and New York City. Can we find ways to leave our plastic civilization behind?</content>
+    <description>Plastic pollution litters the world's oceans. A war on plastic is breaking out and the goal is a circular economy. Part 2 looks at the latest business trends leading us away from a world of plastic.</description>
+    <endDate>2020-12-22T12:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/fk9Q3J7R#jyRD9XCsaj6not3NlLTCWg</link>
+    <recordDateEnd>2020-12-22T12:00:26.371Z</recordDateEnd>
+    <recordDateStart>2020-12-22T11:09:22.468Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>28c2f44924a0cfcec18781b47ab383691e999d1de35821bf73d881bd5326b4c3</sha256>
+    <startDate>2020-12-22T11:10:00.000Z</startDate>
+    <subtitle>No More Plastic: In Search of a Sustainable Future - Part 2: Frontlines of Global Business</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2020-12-28T01:00:47.371Z</uploadedDate>
+    <raw>https://mega.nz/folder/L10yAQbB#lUNZkeKZ8tXqz4DDwR_zHA</raw>
   </episode>
   <episode>
     <airingId>060</airingId>
