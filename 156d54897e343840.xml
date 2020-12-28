@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T19:50:02.624Z</lastUpdated>
+  <lastUpdated>2020-12-28T19:55:03.074Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
   <episode>
@@ -51,22 +51,6 @@
     <title>NHK WORLD PRIME</title>
     <uploadedDate>2020-12-24T19:45:43.577Z</uploadedDate>
     <raw>https://mega.nz/folder/uk9UQLaQ#mLftUzkkCx9RuGb-njGkMQ</raw>
-  </episode>
-  <episode>
-    <airingId>083</airingId>
-    <content>75 years ago, Japan and the US each developed chemical weapons and trained their troops to use them. Near the end of the Pacific War, the Imperial Japanese Army stockpiled vast amounts of poison gas for use as a last resort. The US military, meanwhile, drew up chemical weapons plans that would have devastated Japan. After the war, both the US and Japan concealed the truth concerning these weapons. But newly unearthed documents and personal accounts shed light on this dark legacy.</content>
-    <description>At the end of WWII, both Japan and the US were prepared to use chemical weapons on each other. Newly unearthed documents and personal accounts have finally cast light on this dark legacy.</description>
-    <endDate>2020-11-20T20:50:00.000Z</endDate>
-    <link>https://mega.nz/folder/gZ4VjahT#2Gsgt5rPwJpbaiBt7Urgcw</link>
-    <recordDateEnd>2020-11-20T20:50:25.525Z</recordDateEnd>
-    <recordDateStart>2020-11-20T19:59:20.034Z</recordDateStart>
-    <seriesId>3016</seriesId>
-    <sha256>c1ce4f7f94111036c51200ec0dbc3d2d92695d53e2a50fb7da8fbdb784565a9b</sha256>
-    <startDate>2020-11-20T20:00:00.000Z</startDate>
-    <subtitle>Poisonous Secrets: What did Japan and the US bury?</subtitle>
-    <title>NHK WORLD PRIME</title>
-    <uploadedDate>2020-12-24T20:04:02.801Z</uploadedDate>
-    <raw>https://mega.nz/folder/wU9mWYQI#LoiV3Ae1FH8jBcvMXqcFUw</raw>
   </episode>
   <episode>
     <airingId>084</airingId>
