@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T08:00:02.951Z</lastUpdated>
+  <lastUpdated>2020-12-28T14:40:02.735Z</lastUpdated>
   <seriesId>da958502b69dde1e</seriesId>
   <title>Her Story</title>
   <episode>
@@ -18,6 +18,7 @@
     <subtitle>Work of Heart</subtitle>
     <title>Her Story</title>
     <uploadedDate>2020-12-25T04:03:03.479Z</uploadedDate>
+    <raw>https://mega.nz/folder/g0siTbLJ#t0-pO_qh2yGyGTdGklu_GA</raw>
   </episode>
   <episode>
     <airingId>018</airingId>
@@ -33,6 +34,7 @@
     <subtitle>Another Walk of Life</subtitle>
     <title>Her Story</title>
     <uploadedDate>2020-12-25T04:03:05.997Z</uploadedDate>
+    <raw>https://mega.nz/folder/IRlUCY5A#HU-gFdrZgH5Q4bu31dKkSA</raw>
   </episode>
   <episode>
     <airingId>036</airingId>
@@ -48,5 +50,6 @@
     <subtitle>Light Comes to Life</subtitle>
     <title>Her Story</title>
     <uploadedDate>2020-12-25T03:59:03.116Z</uploadedDate>
+    <raw>https://mega.nz/folder/m18WGYgD#PxENMl0koeoRLZDWVjCD5g</raw>
   </episode>
 </episodeList>

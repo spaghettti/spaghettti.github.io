@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T08:00:02.945Z</lastUpdated>
+  <lastUpdated>2020-12-28T14:40:02.730Z</lastUpdated>
   <seriesId>93f1898b227dbd5d</seriesId>
   <title>DESIGN TALKS plus</title>
   <episode>
@@ -63,6 +63,21 @@
     <subtitle>Design Hunting in Kanazawa, Ishikawa Prefecture</subtitle>
     <title>DESIGN TALKS plus</title>
     <uploadedDate>2020-12-26T02:57:57.196Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>136</airingId>
+    <content>On Design Hunts Andy and Shaula search for designs rooted in regional history and climates. This time they visit Ishikawa Prefecture. In the second episode, they explore the Noto peninsula and its stunning vistas of land and sea. Its isolated location led to unbroken traditions such as Wajima-nuri and other handicrafts and natural materials. New designs showcase the beauty of Noto, its unique time scale, and the sustainable creativity that comes from living alongside nature. Join us on a design hunt in Noto!</content>
+    <description>Today's theme: Design Hunting in Noto, Ishikawa prefecture. This peninsula offers stunning vistas of land and sea as well as sustainable handicrafts and materials rooted in its unique geography.</description>
+    <endDate>2020-12-10T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/vBtWTTzB#_U84XIjsi9F1RhmWBLIyaw</link>
+    <recordDateEnd>2020-12-10T01:00:32.105Z</recordDateEnd>
+    <recordDateStart>2020-12-10T00:29:20.116Z</recordDateStart>
+    <seriesId>2046</seriesId>
+    <sha256>012772f5e15f79b3b6286b4ec94a1b90c699d9e0db2f0c98e624e7d786421a5a</sha256>
+    <startDate>2020-12-10T00:30:00.000Z</startDate>
+    <subtitle>Design Hunting in Noto, Ishikawa Prefecture</subtitle>
+    <title>DESIGN TALKS plus</title>
+    <uploadedDate>2020-12-28T14:35:06.586Z</uploadedDate>
   </episode>
   <episode>
     <airingId>137</airingId>

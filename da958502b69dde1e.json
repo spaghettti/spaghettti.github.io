@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T08:00:02.952Z",
+  "lastUpdated": "2020-12-28T14:40:02.738Z",
   "seriesId": "2048",
   "title": "Her Story",
   "episodes": [
@@ -16,7 +16,8 @@
       "startDate": "2020-11-25T01:30:00.000Z",
       "subtitle": "Work of Heart",
       "title": "Her Story",
-      "uploadedDate": "2020-12-25T04:03:03.479Z"
+      "uploadedDate": "2020-12-25T04:03:03.479Z",
+      "raw": "https://mega.nz/folder/g0siTbLJ#t0-pO_qh2yGyGTdGklu_GA"
     },
     {
       "airingId": "018",
@@ -31,7 +32,8 @@
       "startDate": "2020-11-18T01:30:00.000Z",
       "subtitle": "Another Walk of Life",
       "title": "Her Story",
-      "uploadedDate": "2020-12-25T04:03:05.997Z"
+      "uploadedDate": "2020-12-25T04:03:05.997Z",
+      "raw": "https://mega.nz/folder/IRlUCY5A#HU-gFdrZgH5Q4bu31dKkSA"
     },
     {
       "airingId": "036",
@@ -46,7 +48,8 @@
       "startDate": "2020-12-16T01:30:00.000Z",
       "subtitle": "Light Comes to Life",
       "title": "Her Story",
-      "uploadedDate": "2020-12-25T03:59:03.116Z"
+      "uploadedDate": "2020-12-25T03:59:03.116Z",
+      "raw": "https://mega.nz/folder/m18WGYgD#PxENMl0koeoRLZDWVjCD5g"
     }
   ]
 }
