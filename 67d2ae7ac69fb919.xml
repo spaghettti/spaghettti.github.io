@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T16:10:02.906Z</lastUpdated>
+  <lastUpdated>2020-12-28T16:40:02.896Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -48,6 +48,7 @@
     <subtitle>Kyoto Dolls: Adored by All, Their Grace Brings Peace</subtitle>
     <title>Core Kyoto</title>
     <uploadedDate>2020-12-26T14:15:25.628Z</uploadedDate>
+    <raw>https://mega.nz/folder/oVcRTKAD#mGD9nAGOMkz9EnM_nftaWw</raw>
   </episode>
   <episode>
     <airingId>028</airingId>
@@ -170,5 +171,6 @@
     <subtitle>Nouveau Lacquerware: Vibrant, Dazzling Beauty</subtitle>
     <title>Core Kyoto</title>
     <uploadedDate>2020-12-26T04:53:28.963Z</uploadedDate>
+    <raw>https://mega.nz/folder/w58Q0TzL#2CVMrscBkMsYZq4B3SWvbQ</raw>
   </episode>
 </episodeList>
