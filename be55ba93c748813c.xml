@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T01:05:02.566Z</lastUpdated>
+  <lastUpdated>2020-12-28T01:20:03.121Z</lastUpdated>
   <seriesId>be55ba93c748813c</seriesId>
   <title>COOL JAPAN</title>
   <episode>
@@ -33,5 +33,20 @@
     <subtitle>Gyoza</subtitle>
     <title>COOL JAPAN</title>
     <uploadedDate>2020-12-26T16:31:21.481Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>221</airingId>
+    <content>The 7th COOL JAPAN Outing is in Nara Prefecture. It has the most national treasures and important cultural properties in Japan and, along with Kyoto Prefecture, it is a common destination for school excursions for Japanese people. The number of foreign tourists is increasing every year. However, about 80% of foreigners go to Nara to see deer and the Great Buddha. The average number of nights and money spent by foreigners at the destination are at the lowest level in Japan. So this time we gathered 8 foreigners living there. We investigated the surprising appeals and spots of Nara that the world considers to be cool and that Japanese people haven't noticed, and thoroughly discuss them.</content>
+    <description>Nara Prefecture, with its many historical edifices and art, draws many foreign tourists but does not quite succeed in keeping them long. The panelists discuss how the visitors' stays can be extended.</description>
+    <endDate>2020-12-19T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/B4sARIgS#w0E9wWcwUslkXhCUqHYl0w</link>
+    <recordDateEnd>2020-12-19T05:01:17.084Z</recordDateEnd>
+    <recordDateStart>2020-12-19T04:09:20.103Z</recordDateStart>
+    <seriesId>4008</seriesId>
+    <sha256>313a4013bd31c8c69067118d263558d0ed0768fd94b55009de6c339a65f8d1bd</sha256>
+    <startDate>2020-12-19T04:10:00.000Z</startDate>
+    <subtitle>Nara Prefecture</subtitle>
+    <title>COOL JAPAN</title>
+    <uploadedDate>2020-12-28T01:18:39.590Z</uploadedDate>
   </episode>
 </episodeList>
