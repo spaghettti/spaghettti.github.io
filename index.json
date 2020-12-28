@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T00:40:03.136Z",
+  "lastUpdated": "2020-12-28T00:45:03.792Z",
   "series": [
     {
       "count": 8,
@@ -48,6 +48,14 @@
       "lastUpload": "2020-12-28T00:35:57.031Z",
       "seriesId": "2022",
       "title": "Asia Insight"
+    },
+    {
+      "count": 1,
+      "uniqueId": "3403d86c0b7797fe",
+      "lastAiring": "2020-12-25T23:10:00.000Z",
+      "lastUpload": "2020-12-28T00:41:58.259Z",
+      "seriesId": "3004",
+      "title": "Barakan Discovers Tokyo"
     },
     {
       "count": 1,
