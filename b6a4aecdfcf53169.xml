@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T00:35:03.306Z</lastUpdated>
+  <lastUpdated>2020-12-28T00:40:02.947Z</lastUpdated>
   <seriesId>b6a4aecdfcf53169</seriesId>
   <title>Asia Insight</title>
   <episode>
@@ -63,6 +63,21 @@
     <subtitle>Echoes of Musical Tradition: Mongolia</subtitle>
     <title>Asia Insight</title>
     <uploadedDate>2020-12-26T16:48:15.859Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>318</airingId>
+    <content>Thailand was the first country outside of China to detect cases of COVID-19. However, with less than 4,000 infections and 60 deaths as of the end of November, the measures they have taken are drawing global attention. The unsung heroes behind the scenes are the 1.2 million Health Volunteers who work closely with the local community, doing everything from distributing masks to monitoring those who may be infected. We find out who they are and why they are so devoted to defeating the virus.</content>
+    <description>One of Thailand's unique measures against the novel Coronavirus is the 1.2 million health volunteers providing masks and safety to their community. We follow the efforts of these unsung heroes.</description>
+    <endDate>2020-12-18T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/NkV00biT#krwJkIBJcW1AEGBfFnpIpg</link>
+    <recordDateEnd>2020-12-18T02:00:31.125Z</recordDateEnd>
+    <recordDateStart>2020-12-18T01:29:20.099Z</recordDateStart>
+    <seriesId>2022</seriesId>
+    <sha256>57b6d95111a224ac122dc64906ec4798d9f934c88355d3ea4add38cb77370fc5</sha256>
+    <startDate>2020-12-18T01:30:00.000Z</startDate>
+    <subtitle>The Unsung Heroes Fighting the Coronavirus: Thailand</subtitle>
+    <title>Asia Insight</title>
+    <uploadedDate>2020-12-28T00:35:57.031Z</uploadedDate>
   </episode>
   <episode>
     <airingId>319</airingId>
