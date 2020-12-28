@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T20:15:02.919Z</lastUpdated>
+  <lastUpdated>2020-12-28T20:50:03.111Z</lastUpdated>
   <series>
     <count>7</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -321,14 +321,6 @@
     <lastUpload>2020-12-25T05:15:45.953Z</lastUpload>
     <seriesId>4031</seriesId>
     <title>GATTEN!</title>
-  </series>
-  <series>
-    <count>1</count>
-    <uniqueId>3bc8dcb0dce4c540</uniqueId>
-    <lastAiring>2020-12-19T01:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T05:17:34.291Z</lastUpload>
-    <seriesId>2047</seriesId>
-    <title>GLOBAL AGENDA</title>
   </series>
   <series>
     <count>7</count>
@@ -707,9 +699,9 @@
     <title>Spiritual Explorers</title>
   </series>
   <series>
-    <count>4</count>
+    <count>3</count>
     <uniqueId>05e910e7289de2b7</uniqueId>
-    <lastAiring>2020-12-25T04:10:00.000Z</lastAiring>
+    <lastAiring>2020-12-24T04:10:00.000Z</lastAiring>
     <lastUpload>2020-12-26T07:58:52.677Z</lastUpload>
     <seriesId>6113</seriesId>
     <title>The Great Summits</title>
