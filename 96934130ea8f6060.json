@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T22:30:02.745Z",
+  "lastUpdated": "2020-12-28T22:35:03.035Z",
   "seriesId": "6033",
   "title": "We, in the Time of Corona",
   "episodes": [
@@ -98,6 +98,21 @@
       "title": "We, in the Time of Corona",
       "uploadedDate": "2020-12-24T01:33:36.510Z",
       "raw": "https://mega.nz/folder/IYJmCTQb#R4VqdIMMnRdhdlz8XJT7jg"
+    },
+    {
+      "airingId": "038",
+      "content": "Osaka University professor Hiroshi Ishiguro, who leads the field of humanlike robots, discusses how living in harmony with remote-controlled robots and avatars in the near future will change society.",
+      "description": "Osaka University professor Hiroshi Ishiguro, who leads the field of humanlike robots, discusses how living in harmony with remote-controlled robots and avatars in the near future will change society.",
+      "endDate": "2020-12-27T23:20:00.000Z",
+      "link": "https://mega.nz/folder/lZ5n0KgJ#DKE0KbCihDCJkmlaAptu2w",
+      "recordDateEnd": "2020-12-27T23:20:32.569Z",
+      "recordDateStart": "2020-12-27T23:14:20.100Z",
+      "seriesId": "6033",
+      "sha256": "a28fd452811fcba2f91f00861b6c7c5d1c46918c3082b02aa5bd856ee5d87170",
+      "startDate": "2020-12-27T23:15:00.000Z",
+      "subtitle": "Hiroshi Ishiguro, Roboticist",
+      "title": "We, in the Time of Corona",
+      "uploadedDate": "2020-12-28T22:33:43.070Z"
     }
   ]
 }

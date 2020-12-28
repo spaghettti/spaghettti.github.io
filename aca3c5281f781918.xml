@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T22:30:02.703Z</lastUpdated>
+  <lastUpdated>2020-12-28T22:35:02.991Z</lastUpdated>
   <seriesId>aca3c5281f781918</seriesId>
   <title>The Mark of Beauty</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>The Mark of Beauty</title>
     <uploadedDate>2020-12-24T07:50:26.906Z</uploadedDate>
     <raw>https://mega.nz/folder/J9lCVazZ#YcORI54VqF92cl0jdd99kg</raw>
+  </episode>
+  <episode>
+    <airingId>111</airingId>
+    <content>This episode features fragrances that can immediately evoke spring. We focus on the lavish bouquets of a Paris-based floral artist that look and smell like a spring garden, as well as pretty art nouveau-style perfume bottles and the quest to produce unique fragrances that express the motions of this season. In Japan, where the appreciation of fragrances has developed into an art form, devotees rely on small fragrant pieces of wood to evoke the plum blossoms that appear in spring. The knack is sensing the plum blossoms without them actually being there. Various smells in the woods and mountains herald the arrival of spring, stirring memories of home, as well as stirring the appetite.</content>
+    <description>The arrival of spring is always signaled by the fresh scents that waft from nature. This episode shines light on kodo, the Japanese art of recreating, appreciating and describing such fragrances.</description>
+    <endDate>2020-12-28T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/4dYwjLSa#rXeihGDMvZ98fFj2xbRysA</link>
+    <recordDateEnd>2020-12-28T05:00:29.795Z</recordDateEnd>
+    <recordDateStart>2020-12-28T04:29:22.568Z</recordDateStart>
+    <seriesId>4018</seriesId>
+    <sha256>bba6de7f94633a2503f1fecf65672e0e672ad9ab8eab33c07051b11b59934e55</sha256>
+    <startDate>2020-12-28T04:30:00.000Z</startDate>
+    <subtitle>Fragrances of Early Spring</subtitle>
+    <title>The Mark of Beauty</title>
+    <uploadedDate>2020-12-28T22:30:08.080Z</uploadedDate>
+    <raw>https://mega.nz/folder/5dFwgTpI#qj9VE1e0n5Sok1PeFPsLGg</raw>
   </episode>
   <episode>
     <airingId>121</airingId>

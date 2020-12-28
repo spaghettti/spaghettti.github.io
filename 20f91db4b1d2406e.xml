@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T22:30:02.728Z</lastUpdated>
+  <lastUpdated>2020-12-28T22:35:03.018Z</lastUpdated>
   <seriesId>20f91db4b1d2406e</seriesId>
   <title>TIME-LAPSE</title>
   <episode>
@@ -99,22 +99,6 @@
     <title>TIME-LAPSE JAPAN</title>
     <uploadedDate>2020-12-24T06:37:59.577Z</uploadedDate>
     <raw>https://mega.nz/folder/SkMAEBSR#0zgps-1EBcud2pH3B0WtEg</raw>
-  </episode>
-  <episode>
-    <airingId>007</airingId>
-    <content/>
-    <description>NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</description>
-    <endDate>2020-11-29T23:25:00.000Z</endDate>
-    <link>https://mega.nz/folder/nUsxWQxQ#FBZAfgz3N9jfwQ1K5lsUlQ</link>
-    <recordDateEnd>2020-11-29T23:25:26.373Z</recordDateEnd>
-    <recordDateStart>2020-11-29T23:19:20.002Z</recordDateStart>
-    <seriesId>6025</seriesId>
-    <sha256>856c1fc402b096e14befe99cd925389e971bbc483f0c8af6b5b131b8d0ee5cdc</sha256>
-    <startDate>2020-11-29T23:20:00.000Z</startDate>
-    <subtitle/>
-    <title>TIME-LAPSE JAPAN</title>
-    <uploadedDate>2020-12-24T06:40:25.313Z</uploadedDate>
-    <raw>https://mega.nz/folder/xA8GGQSC#rM2tYLJPURGCo1elMK0WYA</raw>
   </episode>
   <episode>
     <airingId>008</airingId>

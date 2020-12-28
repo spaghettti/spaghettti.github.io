@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T22:30:02.766Z",
+  "lastUpdated": "2020-12-28T22:35:03.057Z",
   "series": [
     {
       "count": 6,
@@ -602,7 +602,7 @@
       "title": "Reviving the Voices of Himeyuri - The Rebirth of the Museum 75 Years After the War"
     },
     {
-      "count": 6,
+      "count": 5,
       "uniqueId": "509fab78036b7f12",
       "lastAiring": "2020-12-24T01:30:00.000Z",
       "lastUpload": "2020-12-27T07:36:12.024Z",
@@ -706,10 +706,10 @@
       "title": "The Great Summits"
     },
     {
-      "count": 3,
+      "count": 4,
       "uniqueId": "aca3c5281f781918",
-      "lastAiring": "2020-12-21T04:30:00.000Z",
-      "lastUpload": "2020-12-28T03:07:46.408Z",
+      "lastAiring": "2020-12-28T04:30:00.000Z",
+      "lastUpload": "2020-12-28T22:30:08.080Z",
       "seriesId": "4018",
       "title": "The Mark of Beauty"
     },
@@ -738,7 +738,7 @@
       "title": "The Sounds of Okinawa: Joy and Prayers for Shuri Castle"
     },
     {
-      "count": 15,
+      "count": 14,
       "uniqueId": "20f91db4b1d2406e",
       "lastAiring": "2020-12-21T23:20:00.000Z",
       "lastUpload": "2020-12-24T06:49:53.530Z",
@@ -802,10 +802,10 @@
       "title": "Ukiyoe EDO-LIFE"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "96934130ea8f6060",
-      "lastAiring": "2020-12-20T23:15:00.000Z",
-      "lastUpload": "2020-12-24T01:47:40.742Z",
+      "lastAiring": "2020-12-27T23:15:00.000Z",
+      "lastUpload": "2020-12-28T22:33:43.070Z",
       "seriesId": "6033",
       "title": "We, in the Time of Corona"
     },

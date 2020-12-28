@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T22:30:02.762Z</lastUpdated>
+  <lastUpdated>2020-12-28T22:35:03.053Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -603,7 +603,7 @@
     <title>Reviving the Voices of Himeyuri - The Rebirth of the Museum 75 Years After the War</title>
   </series>
   <series>
-    <count>6</count>
+    <count>5</count>
     <uniqueId>509fab78036b7f12</uniqueId>
     <lastAiring>2020-12-24T01:30:00.000Z</lastAiring>
     <lastUpload>2020-12-27T07:36:12.024Z</lastUpload>
@@ -707,10 +707,10 @@
     <title>The Great Summits</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>aca3c5281f781918</uniqueId>
-    <lastAiring>2020-12-21T04:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-28T03:07:46.408Z</lastUpload>
+    <lastAiring>2020-12-28T04:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-28T22:30:08.080Z</lastUpload>
     <seriesId>4018</seriesId>
     <title>The Mark of Beauty</title>
   </series>
@@ -739,7 +739,7 @@
     <title>The Sounds of Okinawa: Joy and Prayers for Shuri Castle</title>
   </series>
   <series>
-    <count>15</count>
+    <count>14</count>
     <uniqueId>20f91db4b1d2406e</uniqueId>
     <lastAiring>2020-12-21T23:20:00.000Z</lastAiring>
     <lastUpload>2020-12-24T06:49:53.530Z</lastUpload>
@@ -803,10 +803,10 @@
     <title>Ukiyoe EDO-LIFE</title>
   </series>
   <series>
-    <count>6</count>
+    <count>7</count>
     <uniqueId>96934130ea8f6060</uniqueId>
-    <lastAiring>2020-12-20T23:15:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T01:47:40.742Z</lastUpload>
+    <lastAiring>2020-12-27T23:15:00.000Z</lastAiring>
+    <lastUpload>2020-12-28T22:33:43.070Z</lastUpload>
     <seriesId>6033</seriesId>
     <title>We, in the Time of Corona</title>
   </series>
