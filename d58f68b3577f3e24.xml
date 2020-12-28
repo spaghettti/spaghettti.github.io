@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T18:15:03.117Z</lastUpdated>
+  <lastUpdated>2020-12-28T18:30:02.979Z</lastUpdated>
   <seriesId>d58f68b3577f3e24</seriesId>
   <title>BEGIN Japanology mini</title>
   <episode>
@@ -65,7 +65,6 @@
     <subtitle/>
     <title>BEGIN Japanology mini</title>
     <uploadedDate>2020-12-24T03:40:58.392Z</uploadedDate>
-    <raw>https://mega.nz/folder/0UxUDKpA#5BfGVLtH9rJxdgozPQ7GTQ</raw>
   </episode>
   <episode>
     <airingId>007</airingId>
@@ -82,21 +81,6 @@
     <title>BEGIN Japanology mini</title>
     <uploadedDate>2020-12-25T15:27:47.851Z</uploadedDate>
     <raw>https://mega.nz/folder/MFVEDDIY#kT9VP15Q-50lPrO77ORM0w</raw>
-  </episode>
-  <episode>
-    <airingId>018</airingId>
-    <content/>
-    <description>Trivia on aspects of Japan's unique culture and products that reflect the aesthetic sense and values of the Japanese people. Today: Matcha Powdered Green Tea.</description>
-    <endDate>2020-11-29T08:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/c08gXZRD#qXlyn5eZnIQyRSvyAs049w</link>
-    <recordDateEnd>2020-11-29T08:00:28.857Z</recordDateEnd>
-    <recordDateStart>2020-11-29T07:54:20.102Z</recordDateStart>
-    <seriesId>6001</seriesId>
-    <sha256>dc49f13a106367eda94eec167e610f3cf8ae5654cefa9cfa96a4acd724d9e0f0</sha256>
-    <startDate>2020-11-29T07:55:00.000Z</startDate>
-    <subtitle/>
-    <title>BEGIN Japanology mini</title>
-    <uploadedDate>2020-12-26T08:17:21.220Z</uploadedDate>
   </episode>
   <episode>
     <airingId>019</airingId>

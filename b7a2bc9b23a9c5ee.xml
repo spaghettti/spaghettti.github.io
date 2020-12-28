@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T18:15:02.946Z</lastUpdated>
+  <lastUpdated>2020-12-28T18:30:02.828Z</lastUpdated>
   <seriesId>b7a2bc9b23a9c5ee</seriesId>
   <title>Journeys in Japan</title>
   <episode>
@@ -19,22 +19,6 @@
     <title>Journeys in Japan</title>
     <uploadedDate>2020-12-25T00:11:36.799Z</uploadedDate>
     <raw>https://mega.nz/folder/bhdDmYDS#IpKHTxMcgNOrmh-8N6Bv0w</raw>
-  </episode>
-  <episode>
-    <airingId>424</airingId>
-    <content>The Michinoku Coastal Trail runs along the Pacific coast of northeastern Japan, covering a distance of about 1,000 kilometers through 4 prefectures, from Aomori down to Fukushima. It was launched by Ministry of the Environment following the 2011 Great East Japan Earthquake. On this episode of Journeys in Japan, Canadian actor Kyle Card hikes from Ofunato to Rikuzen-takata in southern Iwate Prefecture. He enjoys the bracing landscape, meets the local people, and sees how communities along the way are rebounding from the devastating Great East Japan Earthquake and tsunami of 2011.</content>
-    <description>Kyle Card returns to the Michinoku Coastal Trail to see how communities are rebuilding in southern Iwate Pref. On this program, get to know the real Japan and discover useful travel tips.</description>
-    <endDate>2020-11-24T00:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/BIQ2QbYa#ytqw7VsNilRMuW43lJ_O2g</link>
-    <recordDateEnd>2020-11-24T00:00:29.778Z</recordDateEnd>
-    <recordDateStart>2020-11-23T23:29:20.002Z</recordDateStart>
-    <seriesId>2007</seriesId>
-    <sha256>468fa9725778a3ec8a64a6c9e6dad59b798c1e56bb77b28d29370e25488e1775</sha256>
-    <startDate>2020-11-23T23:30:00.000Z</startDate>
-    <subtitle>South Iwate: On the Trail to Recovery</subtitle>
-    <title>Journeys in Japan</title>
-    <uploadedDate>2020-12-25T00:16:03.418Z</uploadedDate>
-    <raw>https://mega.nz/folder/lEoj0ITQ#M74-H5SOJoRV3rc2rgAcmg</raw>
   </episode>
   <episode>
     <airingId>425</airingId>
