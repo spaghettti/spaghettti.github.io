@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T23:05:02.610Z</lastUpdated>
+  <lastUpdated>2020-12-28T23:10:02.668Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -811,10 +811,10 @@
     <title>We, in the Time of Corona</title>
   </series>
   <series>
-    <count>5</count>
+    <count>6</count>
     <uniqueId>4c42bed9def1d9d4</uniqueId>
-    <lastAiring>2020-12-21T01:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T01:50:50.466Z</lastUpload>
+    <lastAiring>2020-12-28T01:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-28T23:06:20.609Z</lastUpload>
     <seriesId>2087</seriesId>
     <title>Where We Call Home</title>
   </series>
@@ -835,10 +835,10 @@
     <title>Your Japanese Kitchen mini</title>
   </series>
   <series>
-    <count>2</count>
+    <count>1</count>
     <uniqueId>e425ad11d70fcae3</uniqueId>
     <lastAiring>2020-12-12T23:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T00:29:13.443Z</lastUpload>
+    <lastUpload>2020-12-24T00:11:06.382Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>Zeroing In: Carbon Neutral 2050</title>
   </series>
