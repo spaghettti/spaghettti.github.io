@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T22:10:03.220Z</lastUpdated>
+  <lastUpdated>2020-12-28T22:25:03.043Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -83,10 +83,10 @@
     <title>BENTO EXPO</title>
   </series>
   <series>
-    <count>10</count>
-    <uniqueId>4365cf84c14911e8</uniqueId>
-    <lastAiring>2020-12-25T02:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T08:17:28.000Z</lastUpload>
+    <count>11</count>
+    <uniqueId>830c4969cf7e7135</uniqueId>
+    <lastAiring>2020-12-28T02:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-28T22:24:43.411Z</lastUpload>
     <seriesId>2074,3004</seriesId>
     <title>BIZ STREAM</title>
   </series>
@@ -355,7 +355,7 @@
     <title>Home Sweet Tokyo</title>
   </series>
   <series>
-    <count>5</count>
+    <count>4</count>
     <uniqueId>810a4b40916c42c4</uniqueId>
     <lastAiring>2020-12-20T00:10:00.000Z</lastAiring>
     <lastUpload>2020-12-25T03:54:51.888Z</lastUpload>
@@ -507,10 +507,10 @@
     <title>Masterpieces Performed by NHK Symphony Orchestra III</title>
   </series>
   <series>
-    <count>6</count>
+    <count>7</count>
     <uniqueId>a5d2cf270dcd5679</uniqueId>
-    <lastAiring>2020-12-21T15:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T20:06:09.601Z</lastUpload>
+    <lastAiring>2020-12-28T15:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-28T22:23:55.854Z</lastUpload>
     <seriesId>2050</seriesId>
     <title>Medical Frontiers</title>
   </series>

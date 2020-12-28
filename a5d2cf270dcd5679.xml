@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T22:10:03.066Z</lastUpdated>
+  <lastUpdated>2020-12-28T22:25:02.901Z</lastUpdated>
   <seriesId>a5d2cf270dcd5679</seriesId>
   <title>Medical Frontiers</title>
   <episode>
@@ -67,6 +67,21 @@
     <title>Medical Frontiers</title>
     <uploadedDate>2020-12-26T20:06:09.601Z</uploadedDate>
     <raw>https://mega.nz/folder/PpFzSaCb#bape0wsGKsfKjHubmed7zQ</raw>
+  </episode>
+  <episode>
+    <airingId>099</airingId>
+    <content>Depression is a disorder in which chronic stress triggers an abnormality in the brain. Much of the mechanism behind it remains a mystery, but in recent years attention has focused on inflammation that occurs in certain brain cells. We look at why this inflammation occurs and how it causes depression, and hear from an expert who hopes to use this knowledge to create a new drug to treat depression. Studies are also being done on whether stress can be relieved through certain aromas.</content>
+    <description>Since the coronavirus pandemic began, the number of people with depression has been increasing around the world. We focus on the disorder and the mechanism behind it, as well as the latest research.</description>
+    <endDate>2020-12-28T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/BUNgnBSS#MSXP7OuOBLbaP3wZ7QDVmQ</link>
+    <recordDateEnd>2020-12-28T16:00:28.953Z</recordDateEnd>
+    <recordDateStart>2020-12-28T15:29:20.102Z</recordDateStart>
+    <seriesId>2050</seriesId>
+    <sha256>8a9d40d204326c6bcea6ee655856510c421b15a48e2faa0bc029da2773049a23</sha256>
+    <startDate>2020-12-28T15:30:00.000Z</startDate>
+    <subtitle>Understanding Depression: A Disorder Surging amid the Pandemic</subtitle>
+    <title>Medical Frontiers</title>
+    <uploadedDate>2020-12-28T22:23:55.854Z</uploadedDate>
   </episode>
   <episode>
     <airingId>100</airingId>
