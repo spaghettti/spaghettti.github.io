@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T19:55:03.150Z</lastUpdated>
+  <lastUpdated>2020-12-28T20:00:03.412Z</lastUpdated>
   <series>
     <count>7</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -835,10 +835,10 @@
     <title>Wild Hokkaido!</title>
   </series>
   <series>
-    <count>16</count>
+    <count>15</count>
     <uniqueId>2292026c42316324</uniqueId>
-    <lastAiring>2020-12-27T01:50:00.000Z</lastAiring>
-    <lastUpload>2020-12-27T22:35:53.513Z</lastUpload>
+    <lastAiring>2020-12-25T06:20:00.000Z</lastAiring>
+    <lastUpload>2020-12-26T04:00:37.651Z</lastUpload>
     <seriesId>6014</seriesId>
     <title>Your Japanese Kitchen mini</title>
   </series>

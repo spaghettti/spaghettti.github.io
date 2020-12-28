@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T19:55:03.105Z</lastUpdated>
+  <lastUpdated>2020-12-28T20:00:03.363Z</lastUpdated>
   <seriesId>2292026c42316324</seriesId>
   <title>Your Japanese Kitchen mini</title>
   <episode>
@@ -162,21 +162,6 @@
     <title>Your Japanese Kitchen mini</title>
     <uploadedDate>2020-12-24T05:10:13.790Z</uploadedDate>
     <raw>https://mega.nz/folder/R98iVQwY#aAkX5OH8X8NE9K0_IIOt4w</raw>
-  </episode>
-  <episode>
-    <airingId>019</airingId>
-    <content/>
-    <description>Each edition of this five-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from "Your Japanese Kitchen". Today: Deep-fried Salty-sweet Taro.</description>
-    <endDate>2020-12-27T01:55:00.000Z</endDate>
-    <link>https://mega.nz/folder/oFMUTToC#G_f525DPNjijejbXR2kyaA</link>
-    <recordDateEnd>2020-12-27T01:55:26.171Z</recordDateEnd>
-    <recordDateStart>2020-12-27T01:49:20.122Z</recordDateStart>
-    <seriesId>6014</seriesId>
-    <sha256>36bf271abc576979c740d28798eecb0f1b7bff9172239b894ee4f1fbd9e34ee7</sha256>
-    <startDate>2020-12-27T01:50:00.000Z</startDate>
-    <subtitle/>
-    <title>Your Japanese Kitchen mini</title>
-    <uploadedDate>2020-12-27T22:35:53.513Z</uploadedDate>
   </episode>
   <episode>
     <airingId>026</airingId>
