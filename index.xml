@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-28T18:05:03.505Z</lastUpdated>
+  <lastUpdated>2020-12-28T18:15:03.163Z</lastUpdated>
   <series>
     <count>8</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -715,7 +715,7 @@
     <title>The Great Summits</title>
   </series>
   <series>
-    <count>4</count>
+    <count>3</count>
     <uniqueId>aca3c5281f781918</uniqueId>
     <lastAiring>2020-12-21T04:30:00.000Z</lastAiring>
     <lastUpload>2020-12-28T03:07:46.408Z</lastUpload>
