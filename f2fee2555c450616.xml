@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T01:50:03.299Z</lastUpdated>
+  <lastUpdated>2020-12-29T01:55:02.551Z</lastUpdated>
   <seriesId>f2fee2555c450616</seriesId>
   <title>JAPANGLE</title>
   <episode>
@@ -82,22 +82,6 @@
     <title>JAPANGLE</title>
     <uploadedDate>2020-12-25T02:07:48.587Z</uploadedDate>
     <raw>https://mega.nz/folder/eZkEAS6S#jBB-mshPU4CNaurHB6id5w</raw>
-  </episode>
-  <episode>
-    <airingId>010</airingId>
-    <content/>
-    <description>"JAPANGLE" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. The episode "Water" focuses on water in Japan.</description>
-    <endDate>2020-12-06T03:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/Y4tglThL#LO35Ep9w1J-ZnFJH9cp39g</link>
-    <recordDateEnd>2020-12-06T03:00:26.799Z</recordDateEnd>
-    <recordDateStart>2020-12-06T02:39:20.068Z</recordDateStart>
-    <seriesId>6200</seriesId>
-    <sha256>74aa1bed0fd2c471cc6133009d01c49ca44859b9aa184f3c411ecad2bdd49c37</sha256>
-    <startDate>2020-12-06T02:40:00.000Z</startDate>
-    <subtitle>Water</subtitle>
-    <title>JAPANGLE</title>
-    <uploadedDate>2020-12-25T02:01:06.169Z</uploadedDate>
-    <raw>https://mega.nz/folder/w8lmnYjY#eTkqBKlIBRFH6NFXsZkBPw</raw>
   </episode>
   <episode>
     <airingId>011</airingId>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T01:50:03.181Z</lastUpdated>
+  <lastUpdated>2020-12-29T01:55:02.433Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -763,22 +763,6 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T20:41:56.395Z</uploadedDate>
     <raw>https://mega.nz/folder/rc0mwSKS#Eg1qEGY5LvJ0QwZHV-v02A</raw>
-  </episode>
-  <episode>
-    <airingId>714</airingId>
-    <content>Purintei Merin performs Rakugo, a type of storytelling that has a more than 400-year history. She writes and delivers original pieces in both Japanese and English. Hear her story.</content>
-    <description>Purintei Merin performs rakugo, a type of storytelling that has a more than 400-year history. She writes and delivers original pieces in both Japanese and English. Hear her story.</description>
-    <endDate>2020-12-08T16:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/kQ0GTDhT#LURvaHRN0UsfunJerQ2XDg</link>
-    <recordDateEnd>2020-12-08T16:30:24.203Z</recordDateEnd>
-    <recordDateStart>2020-12-08T16:14:20.100Z</recordDateStart>
-    <seriesId>2058</seriesId>
-    <sha256>5d8817aeea6830fde5e133c6f78d7430c07e3943a7ad3d87ae8d10aa0a35235f</sha256>
-    <startDate>2020-12-08T16:15:00.000Z</startDate>
-    <subtitle>A New Style of Sit-Down Comedy: Purintei Merin / Rakugo Storyteller</subtitle>
-    <title>Direct Talk</title>
-    <uploadedDate>2020-12-25T20:07:54.967Z</uploadedDate>
-    <raw>https://mega.nz/folder/8c1ShQZS#fUsfpaH5m2TFgYWoGYW9yg</raw>
   </episode>
   <episode>
     <airingId>715</airingId>
