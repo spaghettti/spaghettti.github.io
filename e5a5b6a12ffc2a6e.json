@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T03:55:03.227Z",
+  "lastUpdated": "2020-12-29T04:00:02.986Z",
   "seriesId": "2077",
   "title": "BENTO EXPO",
   "episodes": [
@@ -96,6 +96,22 @@
       "subtitle": "Season 5-15 Banbanji Bento & Miso Tsukune Bento",
       "title": "BENTO EXPO",
       "uploadedDate": "2020-12-26T07:51:50.526Z"
+    },
+    {
+      "airingId": "026",
+      "content": "Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!",
+      "description": "From Marc, a Teriyaki Hamburg bento, and from Maki, Chirashi-zushi. Bento Topics features two Balinese favorites: spicy pork satay, and a dish called babi guling that features a spit-roasted pig.",
+      "endDate": "2020-12-28T00:45:00.000Z",
+      "link": "https://mega.nz/folder/whVQxTgI#m8mqZTfQI5dvf6YofRoGQw",
+      "recordDateEnd": "2020-12-28T00:45:32.273Z",
+      "recordDateStart": "2020-12-28T00:29:20.113Z",
+      "seriesId": "2077",
+      "sha256": "fe0092375d1d1c37fdf4312f3cd9537e8c5d3e36d7569d21eaac17ab8cc0c572",
+      "startDate": "2020-12-28T00:30:00.000Z",
+      "subtitle": "Season 5-16 Teriyaki Hamburg Bento & Chirashi-zushi Bento",
+      "title": "BENTO EXPO",
+      "uploadedDate": "2020-12-29T03:55:10.562Z",
+      "raw": "https://mega.nz/folder/58lCCDaK#g2mYDKX-ahSDYJHb25Rj8Q"
     }
   ]
 }

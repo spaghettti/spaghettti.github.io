@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T03:55:03.343Z",
+  "lastUpdated": "2020-12-29T04:00:03.125Z",
   "series": [
     {
       "count": 6,
@@ -66,10 +66,10 @@
       "title": "BEGIN Japanology mini"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "e5a5b6a12ffc2a6e",
-      "lastAiring": "2020-12-21T00:30:00.000Z",
-      "lastUpload": "2020-12-26T08:38:35.723Z",
+      "lastAiring": "2020-12-28T00:30:00.000Z",
+      "lastUpload": "2020-12-29T03:55:10.562Z",
       "seriesId": "2077",
       "title": "BENTO EXPO"
     },
@@ -434,10 +434,10 @@
       "title": "Japan's Top Inventions"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "6cdfbabc0d0bcd6e",
-      "lastAiring": "2020-12-20T11:25:00.000Z",
-      "lastUpload": "2020-12-25T03:05:01.406Z",
+      "lastAiring": "2020-12-27T11:25:00.000Z",
+      "lastUpload": "2020-12-29T03:58:02.719Z",
       "seriesId": "6210",
       "title": "Japan-easy2"
     },
@@ -778,9 +778,9 @@
       "title": "Tokyo Life"
     },
     {
-      "count": 5,
+      "count": 4,
       "uniqueId": "31851bb3dfae7f8a",
-      "lastAiring": "2020-12-23T14:30:00.000Z",
+      "lastAiring": "2020-12-16T14:30:00.000Z",
       "lastUpload": "2020-12-24T15:58:33.272Z",
       "seriesId": "2054",
       "title": "Trails to Oishii Tokyo"
