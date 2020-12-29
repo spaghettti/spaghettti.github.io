@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T08:10:02.851Z</lastUpdated>
+  <lastUpdated>2020-12-29T10:00:03.952Z</lastUpdated>
   <seriesId>830c4969cf7e7135</seriesId>
   <title>BIZ STREAM</title>
   <episode>
@@ -192,23 +192,6 @@ This series of special editions feature selected stories from BIZ STREAM's signa
     <title>BIZ STREAM </title>
     <uploadedDate>2020-12-25T15:57:46.156Z</uploadedDate>
     <raw>https://mega.nz/folder/6l802CDS#2asu-7sNLEODKnlrmlWs6A</raw>
-  </episode>
-  <episode>
-    <airingId>709</airingId>
-    <content>[BIZ STREAM SPECIAL EDITION]
-This series of special editions feature selected stories from BIZ STREAM's signature "On-Site" reports. This episode examines how technology could play a key role in saving Japan's struggling agriculture industry. One company is drawing attention for its AI-driven robots, which are assisting farmers with harvesting produce. Another business is hoping that its online matching service will bring much needed short-term workers from across the country to assist farmers in need of support.</content>
-    <description>Japan is facing a major lack of farmers. This special edition explores how an online matching service and specially designed harvesting robots may be the key to saving the agriculture industry.</description>
-    <endDate>2020-12-28T02:23:00.000Z</endDate>
-    <link>https://mega.nz/folder/NVZSWTYB#ML4lOJC4-Lg21gPjuwpO3w</link>
-    <recordDateEnd>2020-12-28T02:23:32.396Z</recordDateEnd>
-    <recordDateStart>2020-12-28T02:09:20.098Z</recordDateStart>
-    <seriesId>3004</seriesId>
-    <sha256>512c11b48d860453314c3ab4c55a6e1b0e0b90c16e249698809aca397e6bf963</sha256>
-    <startDate>2020-12-28T02:10:00.000Z</startDate>
-    <subtitle>Solving Farmer Shortage with Technology</subtitle>
-    <title>BIZ STREAM</title>
-    <uploadedDate>2020-12-28T22:24:43.411Z</uploadedDate>
-    <raw>https://mega.nz/folder/1lFQRRKT#GzxNBWPpb704NsiK6X5wEA</raw>
   </episode>
   <episode>
     <airingId>710</airingId>

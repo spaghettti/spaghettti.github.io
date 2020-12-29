@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T08:10:02.860Z",
+  "lastUpdated": "2020-12-29T10:00:03.959Z",
   "series": [
     {
       "count": 6,
@@ -74,7 +74,7 @@
       "title": "BENTO EXPO"
     },
     {
-      "count": 12,
+      "count": 11,
       "uniqueId": "830c4969cf7e7135",
       "lastAiring": "2020-12-29T02:10:00.000Z",
       "lastUpload": "2020-12-29T05:45:43.404Z",
@@ -194,10 +194,10 @@
       "title": "Dining with the Chef"
     },
     {
-      "count": 50,
+      "count": 51,
       "uniqueId": "07d8499767117509",
-      "lastAiring": "2020-12-28T09:15:00.000Z",
-      "lastUpload": "2020-12-28T21:57:49.220Z",
+      "lastAiring": "2020-12-29T09:15:00.000Z",
+      "lastUpload": "2020-12-29T09:59:50.035Z",
       "seriesId": "2058",
       "title": "Direct Talk"
     },

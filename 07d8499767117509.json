@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T08:10:02.706Z",
+  "lastUpdated": "2020-12-29T10:00:03.839Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -459,6 +459,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-28T21:53:46.563Z",
       "raw": "https://mega.nz/folder/c500xLpb#XsOLpqSuRMIbUFVVaYPTYA"
+    },
+    {
+      "airingId": "651",
+      "content": "",
+      "description": "Social entrepreneur Nakamoto Chizu started up a brand that makes colorful bags out of African fabrics. She talks about her vision of providing stable employment to Uganda's single mothers.",
+      "endDate": "2020-12-29T09:30:00.000Z",
+      "link": "https://mega.nz/folder/cFkijSAT#AA8uELUZoYy0MTtrVmY4zA",
+      "recordDateEnd": "2020-12-29T09:30:27.048Z",
+      "recordDateStart": "2020-12-29T09:14:23.156Z",
+      "seriesId": "2058",
+      "sha256": "ec9c8d3fa2b7cb056600c0716ff0f3b014024983eb8c526dda69a81ebc39da7d",
+      "startDate": "2020-12-29T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-29T09:59:50.035Z"
     },
     {
       "airingId": "652",
