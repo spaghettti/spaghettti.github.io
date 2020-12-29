@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T00:00:03.861Z",
+  "lastUpdated": "2020-12-29T00:15:03.819Z",
   "series": [
     {
       "count": 6,
@@ -546,10 +546,10 @@
       "title": "NHK Documentary"
     },
     {
-      "count": 4,
+      "count": 5,
       "uniqueId": "56ef83def0753222",
-      "lastAiring": "2020-12-05T15:10:00.000Z",
-      "lastUpload": "2020-12-24T20:08:30.544Z",
+      "lastAiring": "2020-12-26T15:10:00.000Z",
+      "lastUpload": "2020-12-29T00:14:56.447Z",
       "seriesId": "4001",
       "title": "NHK Documentary"
     },

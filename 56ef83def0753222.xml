@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T00:00:03.792Z</lastUpdated>
+  <lastUpdated>2020-12-29T00:15:03.749Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -66,5 +66,21 @@
     <subtitle>Inferno: Letters from Auschwitz</subtitle>
     <title>NHK Documentary</title>
     <uploadedDate>2020-12-24T19:39:05.543Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>381</airingId>
+    <content>How do you know if what you're reading is true or just a carefully crafted lie? Increasingly, social media exposes us to a flood of information, much of which aims to persuade us to believe things that are false. It can even encourage acts of violence. Fake images are being used in applications ranging from politics to pornography. And they're threatening our ability to tell fact from fiction. How can we stem the tide of bogus information? Or is it already too late?</content>
+    <description>Social media exposes us to a flood of disinformation in areas ranging from politics to pornography. How can we tell fact from fiction? Can we stem the tide of fake news? Or is it already too late?</description>
+    <endDate>2020-12-26T15:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/5p8gCQaZ#hOcqubfl6sb3-WpONyTFkQ</link>
+    <recordDateEnd>2020-12-26T15:55:28.395Z</recordDateEnd>
+    <recordDateStart>2020-12-26T15:09:22.860Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>258857ab3ef5cf1682ed49f0720661d3a5cf4cfa099e7e42c68ccc7c7b772d39</sha256>
+    <startDate>2020-12-26T15:10:00.000Z</startDate>
+    <subtitle>Digital vs. Real: Infodemic - The Onslaught of Fake News</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2020-12-29T00:14:56.447Z</uploadedDate>
+    <raw>https://mega.nz/folder/r1dVlS6A#pF0B71BOkm8kIPJuaNGJsQ</raw>
   </episode>
 </episodeList>
