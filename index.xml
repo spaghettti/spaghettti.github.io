@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T05:40:02.654Z</lastUpdated>
+  <lastUpdated>2020-12-29T05:50:02.940Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -75,10 +75,10 @@
     <title>BENTO EXPO</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>830c4969cf7e7135</uniqueId>
-    <lastAiring>2020-12-28T02:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-28T22:24:43.411Z</lastUpload>
+    <lastAiring>2020-12-29T02:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-29T05:45:43.404Z</lastUpload>
     <seriesId>2074,3004</seriesId>
     <title>BIZ STREAM</title>
   </series>
@@ -195,7 +195,7 @@
     <title>Dining with the Chef</title>
   </series>
   <series>
-    <count>52</count>
+    <count>51</count>
     <uniqueId>07d8499767117509</uniqueId>
     <lastAiring>2020-12-28T09:15:00.000Z</lastAiring>
     <lastUpload>2020-12-28T21:57:49.220Z</lastUpload>
@@ -347,7 +347,7 @@
     <title>Her Story</title>
   </series>
   <series>
-    <count>5</count>
+    <count>4</count>
     <uniqueId>b70d3103ab6de48b</uniqueId>
     <lastAiring>2020-12-12T10:10:00.000Z</lastAiring>
     <lastUpload>2020-12-28T07:58:02.651Z</lastUpload>

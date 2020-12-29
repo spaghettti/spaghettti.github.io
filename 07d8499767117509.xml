@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T05:40:02.527Z</lastUpdated>
+  <lastUpdated>2020-12-29T05:50:02.813Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -190,22 +190,6 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T00:23:01.261Z</uploadedDate>
     <raw>https://mega.nz/folder/j8NVDQzJ#-szkUQJM6kElGQ5J7BSSFQ</raw>
-  </episode>
-  <episode>
-    <airingId>574</airingId>
-    <content/>
-    <description>Famous for its "Freak Cabaret" performances, the Ukrainian music and theater band Dakh Daughters sings about the harsh situation in Ukraine. Its vocalist explains the thoughts behind the lyrics.</description>
-    <endDate>2020-12-24T09:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/mJNymD7R#bWKini3Nhk320bkslobOEA</link>
-    <recordDateEnd>2020-12-24T09:30:26.220Z</recordDateEnd>
-    <recordDateStart>2020-12-24T09:14:23.446Z</recordDateStart>
-    <seriesId>2058</seriesId>
-    <sha256>dd86402a18c58374091acff0fa6fd79d7f645033424a38230479c396e6917854</sha256>
-    <startDate>2020-12-24T09:15:00.000Z</startDate>
-    <subtitle/>
-    <title>Direct Talk</title>
-    <uploadedDate>2020-12-24T22:20:18.161Z</uploadedDate>
-    <raw>https://mega.nz/folder/BwtRBaQT#KcqvJ_9szhiwj9Z1COgwpw</raw>
   </episode>
   <episode>
     <airingId>575</airingId>
@@ -824,5 +808,6 @@
     <subtitle>Musical Direction: Nodoka Okisawa / Conductor</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-28T21:57:49.220Z</uploadedDate>
+    <raw>https://mega.nz/folder/sl8lAAyD#_3Q2n7NfETgc-zQ7YbnkOw</raw>
   </episode>
 </episodeList>

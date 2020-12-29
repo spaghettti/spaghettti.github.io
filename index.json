@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T05:40:02.658Z",
+  "lastUpdated": "2020-12-29T05:50:02.944Z",
   "series": [
     {
       "count": 6,
@@ -74,10 +74,10 @@
       "title": "BENTO EXPO"
     },
     {
-      "count": 11,
+      "count": 12,
       "uniqueId": "830c4969cf7e7135",
-      "lastAiring": "2020-12-28T02:10:00.000Z",
-      "lastUpload": "2020-12-28T22:24:43.411Z",
+      "lastAiring": "2020-12-29T02:10:00.000Z",
+      "lastUpload": "2020-12-29T05:45:43.404Z",
       "seriesId": "2074,3004",
       "title": "BIZ STREAM"
     },
@@ -194,7 +194,7 @@
       "title": "Dining with the Chef"
     },
     {
-      "count": 52,
+      "count": 51,
       "uniqueId": "07d8499767117509",
       "lastAiring": "2020-12-28T09:15:00.000Z",
       "lastUpload": "2020-12-28T21:57:49.220Z",
@@ -346,7 +346,7 @@
       "title": "Her Story"
     },
     {
-      "count": 5,
+      "count": 4,
       "uniqueId": "b70d3103ab6de48b",
       "lastAiring": "2020-12-12T10:10:00.000Z",
       "lastUpload": "2020-12-28T07:58:02.651Z",

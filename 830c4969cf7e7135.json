@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T05:40:02.652Z",
+  "lastUpdated": "2020-12-29T05:50:02.938Z",
   "seriesId": "2074,3004",
   "title": "BIZ STREAM",
   "episodes": [
@@ -177,6 +177,21 @@
       "title": "BIZ STREAM",
       "uploadedDate": "2020-12-28T22:24:43.411Z",
       "raw": "https://mega.nz/folder/1lFQRRKT#GzxNBWPpb704NsiK6X5wEA"
+    },
+    {
+      "airingId": "710",
+      "content": "[BIZ STREAM SPECIAL EDITION]\nThis series of special editions feature selected stories from BIZ STREAM's signature \"On-Site\" reports. \"Clean Water and Sanitation\" is one of the 17 sustainable development goals set forth by the United Nations. This episode features 2 Japanese companies that have made it their mission to find ways to conserve on water usage. One company has created a recycling system that makes up to 98% of household water reusable, and the other has developed an automated cultivation system that uses solar heat to grow crops with small amounts of water.",
+      "description": "This special edition of Biz Stream features Japanese companies that are developing new water conserving technologies for both domestic and agricultural use.",
+      "endDate": "2020-12-29T02:23:00.000Z",
+      "link": "https://mega.nz/folder/UkkTXCrB#O-2ZFKs1EGT0_Le3LiyhZw",
+      "recordDateEnd": "2020-12-29T02:23:33.144Z",
+      "recordDateStart": "2020-12-29T02:09:20.048Z",
+      "seriesId": "3004",
+      "sha256": "56b4dd241a0744a7b14dfa6f01e44f13012987e841508897d70a929431199a2e",
+      "startDate": "2020-12-29T02:10:00.000Z",
+      "subtitle": "Making Every Drop Count",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2020-12-29T05:45:43.404Z"
     }
   ]
 }
