@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T07:50:02.784Z</lastUpdated>
+  <lastUpdated>2020-12-29T07:55:03.397Z</lastUpdated>
   <seriesId>2292026c42316324</seriesId>
   <title>Your Japanese Kitchen mini</title>
   <episode>
@@ -129,6 +129,22 @@
     <subtitle/>
     <title>Your Japanese Kitchen mini</title>
     <uploadedDate>2020-12-24T05:10:13.790Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>024</airingId>
+    <content/>
+    <description>Each edition of this five-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from "Your Japanese Kitchen". Today: Okonomiyaki (Japanese Pancakes).</description>
+    <endDate>2020-12-29T06:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/iolGxBAS#tl5JnlPjoy0GCamdn8WE0w</link>
+    <recordDateEnd>2020-12-29T06:25:28.138Z</recordDateEnd>
+    <recordDateStart>2020-12-29T06:19:20.100Z</recordDateStart>
+    <seriesId>6014</seriesId>
+    <sha256>9d2f12d3168277e505befd3ce41732b8b5ee2fd371081024e013be10fa3118e0</sha256>
+    <startDate>2020-12-29T06:20:00.000Z</startDate>
+    <subtitle/>
+    <title>Your Japanese Kitchen mini</title>
+    <uploadedDate>2020-12-29T07:53:38.198Z</uploadedDate>
+    <raw>https://mega.nz/folder/P4kGWbSB#X8wCdN-5vb5M1tDt3AAVVQ</raw>
   </episode>
   <episode>
     <airingId>025</airingId>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T07:50:02.832Z",
+  "lastUpdated": "2020-12-29T07:55:03.445Z",
   "series": [
     {
       "count": 6,
@@ -410,7 +410,7 @@
       "title": "JAPAN FROM ABOVE: UP CLOSE"
     },
     {
-      "count": 5,
+      "count": 4,
       "uniqueId": "3ff887cb76b1a490",
       "lastAiring": "2020-12-24T15:30:00.000Z",
       "lastUpload": "2020-12-25T18:46:05.431Z",
@@ -754,7 +754,7 @@
       "title": "The Sounds of Okinawa: Joy and Prayers for Shuri Castle"
     },
     {
-      "count": 14,
+      "count": 13,
       "uniqueId": "20f91db4b1d2406e",
       "lastAiring": "2020-12-21T23:20:00.000Z",
       "lastUpload": "2020-12-24T06:49:53.530Z",
@@ -842,10 +842,10 @@
       "title": "Wild Hokkaido!"
     },
     {
-      "count": 13,
+      "count": 14,
       "uniqueId": "2292026c42316324",
-      "lastAiring": "2020-12-28T06:20:00.000Z",
-      "lastUpload": "2020-12-28T21:36:57.589Z",
+      "lastAiring": "2020-12-29T06:20:00.000Z",
+      "lastUpload": "2020-12-29T07:53:38.198Z",
       "seriesId": "6014",
       "title": "Your Japanese Kitchen mini"
     }
