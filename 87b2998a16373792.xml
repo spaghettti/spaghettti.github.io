@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T18:15:03.165Z</lastUpdated>
+  <lastUpdated>2020-12-29T21:50:02.999Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>Science View</title>
     <uploadedDate>2020-12-25T03:17:27.176Z</uploadedDate>
     <raw>https://mega.nz/folder/LpME1DzJ#T0fQuVCGxY0c85bjjwH2Iw</raw>
+  </episode>
+  <episode>
+    <airingId>199</airingId>
+    <content>2 special episodes of Science View filmed in Nagasaki Prefecture. Part 2 features points of interest in the Shimabara Peninsula located in the southern part of Nagasaki. In 2009, 3 places were designated as Japan's first Global Geopark including the entire Shimabara Peninsula, known as Unzen Volcanic Area UNESCO Global Geopark. Geoparks are areas with geological heritage of scientific value that actively promote educational activities and regional development. The Unzen Volcanic Area was recognized for its coexistence with active volcanoes. In this episode, we will visit "geosites" to learn about the major destruction caused by the eruptions of Unzen Volcano. Find out what new technology has come out of the experience as well as the blessings brought by the volcano.</content>
+    <description>Discover Shimabara Peninsula, designated as a UNESCO Global Geopark. Tour the "geosites" to find out what damages and blessings Unzen Volcano has brought in Part 2 of 2 special episodes from Nagasaki.</description>
+    <endDate>2020-12-29T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/e4l0kA5J#hFSqv2N_qufd0SGTVJ7xAQ</link>
+    <recordDateEnd>2020-12-29T16:00:30.463Z</recordDateEnd>
+    <recordDateStart>2020-12-29T15:29:20.098Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>ba16bb5ca790cd79f3d3bb33241bf54627d3c0963822d3b2e0cffcab9103d551</sha256>
+    <startDate>2020-12-29T15:30:00.000Z</startDate>
+    <subtitle>Nagasaki - The Origin of Japan's Breakthroughs, Part 2 Coexistence with Active Volcanoes in Unzen Volcanic Area UNESCO Global Geopark</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2020-12-29T21:45:46.703Z</uploadedDate>
+    <raw>https://mega.nz/folder/q41CHISL#ijJ_e84A9mOw4SnKdSs_NA</raw>
   </episode>
   <episode>
     <airingId>225</airingId>

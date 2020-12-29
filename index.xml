@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T18:15:03.391Z</lastUpdated>
+  <lastUpdated>2020-12-29T21:50:03.204Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -187,7 +187,7 @@
     <title>Dig More Japan</title>
   </series>
   <series>
-    <count>11</count>
+    <count>10</count>
     <uniqueId>4562406e38a4085a</uniqueId>
     <lastAiring>2020-12-29T00:30:00.000Z</lastAiring>
     <lastUpload>2020-12-29T03:47:21.740Z</lastUpload>
@@ -627,10 +627,10 @@
     <title>SAMURAI WHEELS 2020 SPECIAL</title>
   </series>
   <series>
-    <count>5</count>
+    <count>6</count>
     <uniqueId>87b2998a16373792</uniqueId>
-    <lastAiring>2020-12-22T15:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T17:34:24.946Z</lastUpload>
+    <lastAiring>2020-12-29T15:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-29T21:45:46.703Z</lastUpload>
     <seriesId>2015</seriesId>
     <title>Science View</title>
   </series>

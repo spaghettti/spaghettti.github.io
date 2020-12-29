@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T18:15:03.395Z",
+  "lastUpdated": "2020-12-29T21:50:03.208Z",
   "series": [
     {
       "count": 6,
@@ -186,7 +186,7 @@
       "title": "Dig More Japan"
     },
     {
-      "count": 11,
+      "count": 10,
       "uniqueId": "4562406e38a4085a",
       "lastAiring": "2020-12-29T00:30:00.000Z",
       "lastUpload": "2020-12-29T03:47:21.740Z",
@@ -626,10 +626,10 @@
       "title": "SAMURAI WHEELS 2020 SPECIAL"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "87b2998a16373792",
-      "lastAiring": "2020-12-22T15:30:00.000Z",
-      "lastUpload": "2020-12-25T17:34:24.946Z",
+      "lastAiring": "2020-12-29T15:30:00.000Z",
+      "lastUpload": "2020-12-29T21:45:46.703Z",
       "seriesId": "2015",
       "title": "Science View"
     },
