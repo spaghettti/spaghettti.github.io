@@ -1,25 +1,9 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T03:00:02.760Z</lastUpdated>
+  <lastUpdated>2020-12-29T03:05:03.337Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
-  <episode>
-    <airingId>058</airingId>
-    <content>Plastic pollution litters the world's oceans. It's damaging marine wildlife and ecosystems. A war on plastic is breaking out. In part 1 of this 2-part series, we meet Dutch young pioneer Boyan Slat's team working to clear plastic from the Great Pacific Garbage Patch. They have developed a system based on a 600-meter long floating tube. We also look at how microplastics affect living creatures and explore a shocking study that shows how plastic is contributing to rising levels of greenhouse gases.</content>
-    <description>Plastic pollution litters the world's oceans. A war on plastic is breaking out. Part 1 introduces Dutch young pioneer Boyan Slat's team working to clear plastic from the Great Pacific Garbage Patch.</description>
-    <endDate>2020-12-21T12:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/s4F2GJSD#m6KGA0gi8VCb3ACFRaA30Q</link>
-    <recordDateEnd>2020-12-21T12:01:15.645Z</recordDateEnd>
-    <recordDateStart>2020-12-21T11:09:20.098Z</recordDateStart>
-    <seriesId>3016</seriesId>
-    <sha256>2c7b4ca8433c531344475a9726637a9a23fb31b5a4522bb425bf3fbbe34ffa27</sha256>
-    <startDate>2020-12-21T11:10:00.000Z</startDate>
-    <subtitle>No More Plastic: In Search of a Sustainable Future - Part 1: Clearing Plastic from the Ocean</subtitle>
-    <title>NHK WORLD PRIME</title>
-    <uploadedDate>2020-12-24T19:45:24.081Z</uploadedDate>
-    <raw>https://mega.nz/folder/oRUmybIK#VNHd0v3bC__w50KsHJHTWw</raw>
-  </episode>
   <episode>
     <airingId>059</airingId>
     <content>Plastic pollution litters the world's oceans. The move away from the use of plastic is currently gaining steam around the globe. In part 2 of this series, we look at business trends leading us away from a world of plastic and towards circular economies. One example is a Japanese startup hoping to sell its proprietary recycling technology abroad. And also we look at disposable plastics regulation strategies in France and New York City. Can we find ways to leave our plastic civilization behind?</content>
