@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T05:10:03.396Z</lastUpdated>
+  <lastUpdated>2020-12-29T05:20:02.894Z</lastUpdated>
   <seriesId>582ad0f8b7805a6b</seriesId>
   <title>Core Kyoto mini</title>
   <episode>
@@ -98,6 +98,22 @@
     <title>Core Kyoto mini</title>
     <uploadedDate>2020-12-28T21:52:35.084Z</uploadedDate>
     <raw>https://mega.nz/folder/lJ9SmJRK#UV8lKXz4nxhEwUituwxqZg</raw>
+  </episode>
+  <episode>
+    <airingId>008</airingId>
+    <content/>
+    <description>Kyo-kanoko Shibori, untying the beauty bound within. Dive deep into the ancient capital, still innovative 1,200 years after its foundation.</description>
+    <endDate>2020-12-29T03:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/Jw9AmC7Q#vVh4vbV1NHmPuDBL2Fqovw</link>
+    <recordDateEnd>2020-12-29T03:30:26.704Z</recordDateEnd>
+    <recordDateStart>2020-12-29T03:24:23.041Z</recordDateStart>
+    <seriesId>6024</seriesId>
+    <sha256>5dc66f71503c3f89254f2218a0bca5a1edf18b3397a0d5a69e6292e2262ce477</sha256>
+    <startDate>2020-12-29T03:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Core Kyoto mini</title>
+    <uploadedDate>2020-12-29T05:18:05.490Z</uploadedDate>
+    <raw>https://mega.nz/folder/p9kglADa#LUFjboqtLpRkhTSkOBbZkw</raw>
   </episode>
   <episode>
     <airingId>010</airingId>
