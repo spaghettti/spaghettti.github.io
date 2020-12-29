@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T05:20:02.834Z",
+  "lastUpdated": "2020-12-29T05:25:03.375Z",
   "seriesId": "2086",
   "title": "Doctor's Insight",
   "episodes": [
@@ -33,6 +33,21 @@
       "title": "Doctor's Insight",
       "uploadedDate": "2020-12-26T06:51:17.777Z",
       "raw": "https://mega.nz/folder/TYlCkB5B#MhPOw9QqLRZa3uqwN5ht4Q"
+    },
+    {
+      "airingId": "010",
+      "content": "Underlying health conditions are said to increase the risk for severe COVID-19. Diabetes patients have more than twice the mortality rate and risk of severe illness from COVID-19 compared to non-diabetics. Studies also found that severe symptoms can be seen not only in the lungs but other organs such as the heart and kidneys. Keeping the blood sugar level normal is key to protecting yourself from the virus. Find out specific ways to control your blood sugar level and tips to reduce the risk.",
+      "description": "People with underlying conditions are said to have a higher risk for severe COVID-19. Diabetics have twice the risk of mortality and serious illness from COVID-19. Find out tips to reduce the risk.",
+      "endDate": "2020-12-29T04:55:00.000Z",
+      "link": "https://mega.nz/folder/qs9DUISJ#VnRUF-CaH8U-EzT3yWcGYg",
+      "recordDateEnd": "2020-12-29T04:55:29.202Z",
+      "recordDateStart": "2020-12-29T04:44:20.031Z",
+      "seriesId": "2086",
+      "sha256": "69e8e114d0f37245b42e0a1ca407c639560aedb326f231a2bd367919288fba93",
+      "startDate": "2020-12-29T04:45:00.000Z",
+      "subtitle": "COVID-19: Reducing Your Risk of Serious Illness #4: Diabetes",
+      "title": "Doctor's Insight",
+      "uploadedDate": "2020-12-29T05:23:02.857Z"
     },
     {
       "airingId": "017",
