@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T03:30:03.562Z</lastUpdated>
+  <lastUpdated>2020-12-29T03:40:02.668Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -299,10 +299,10 @@
     <title>FLOWERS WILL BLOOM</title>
   </series>
   <series>
-    <count>7</count>
+    <count>8</count>
     <uniqueId>3ade7fb84e8cc130</uniqueId>
     <lastAiring>2020-12-29T01:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-29T03:01:11.875Z</lastUpload>
+    <lastUpload>2020-12-29T03:37:04.450Z</lastUpload>
     <seriesId>6101</seriesId>
     <title>Four Seasons in Japan</title>
   </series>
@@ -411,7 +411,7 @@
     <title>J-MELO</title>
   </series>
   <series>
-    <count>24</count>
+    <count>23</count>
     <uniqueId>afe5ace13e6c293d</uniqueId>
     <lastAiring>2020-12-22T23:25:00.000Z</lastAiring>
     <lastUpload>2020-12-25T02:24:22.347Z</lastUpload>

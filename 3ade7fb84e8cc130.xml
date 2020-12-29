@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T03:30:03.544Z</lastUpdated>
+  <lastUpdated>2020-12-29T03:40:02.645Z</lastUpdated>
   <seriesId>3ade7fb84e8cc130</seriesId>
   <title>Four Seasons in Japan</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>Four Seasons in Japan</title>
     <uploadedDate>2020-12-24T04:25:58.933Z</uploadedDate>
     <raw>https://mega.nz/folder/H8NhhAqA#vp36XiphQlgg8ILbSlqpQw</raw>
+  </episode>
+  <episode>
+    <airingId>048</airingId>
+    <content/>
+    <description>This episode of Four Seasons in Japan introduces Goshikigahara, an alpine plateau in the Tateyama mountains. In July, flowers bloom and birds gather. A ptarmigan raises chicks over the short summer.</description>
+    <endDate>2020-12-28T01:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/6Vkw1RAA#ZfpqVXq8EtkFkNj46AKDCQ</link>
+    <recordDateEnd>2020-12-28T01:20:27.378Z</recordDateEnd>
+    <recordDateStart>2020-12-28T01:09:20.099Z</recordDateStart>
+    <seriesId>6101</seriesId>
+    <sha256>7ef7bc605481cdba2cd7e420085e0ee82030670ed782e9414e4aee04d04ccde7</sha256>
+    <startDate>2020-12-28T01:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Four Seasons in Japan</title>
+    <uploadedDate>2020-12-29T03:37:04.450Z</uploadedDate>
+    <raw>https://mega.nz/folder/5Z5k1TQI#XhGMUqADnoCMCAkfRMoi2w</raw>
   </episode>
   <episode>
     <airingId>049</airingId>
