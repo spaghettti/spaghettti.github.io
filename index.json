@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T03:45:04.010Z",
+  "lastUpdated": "2020-12-29T03:50:03.446Z",
   "series": [
     {
       "count": 6,
@@ -186,10 +186,10 @@
       "title": "Dig More Japan"
     },
     {
-      "count": 11,
+      "count": 12,
       "uniqueId": "4562406e38a4085a",
-      "lastAiring": "2020-12-25T14:30:00.000Z",
-      "lastUpload": "2020-12-28T00:18:04.305Z",
+      "lastAiring": "2020-12-29T00:30:00.000Z",
+      "lastUpload": "2020-12-29T03:47:21.740Z",
       "seriesId": "2019",
       "title": "Dining with the Chef"
     },
@@ -826,7 +826,7 @@
       "title": "Where We Call Home"
     },
     {
-      "count": 6,
+      "count": 5,
       "uniqueId": "b2d48e71e072a1aa",
       "lastAiring": "2020-12-27T00:45:00.000Z",
       "lastUpload": "2020-12-27T23:00:51.006Z",
