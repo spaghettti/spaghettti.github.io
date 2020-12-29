@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T00:15:03.771Z</lastUpdated>
+  <lastUpdated>2020-12-29T00:20:02.899Z</lastUpdated>
   <seriesId>2292026c42316324</seriesId>
   <title>Your Japanese Kitchen mini</title>
   <episode>
@@ -66,21 +66,6 @@
     <title>Your Japanese Kitchen mini</title>
     <uploadedDate>2020-12-24T00:24:07.288Z</uploadedDate>
     <raw>https://mega.nz/folder/oVlkGDpY#5kzxiBXD6z1pUmi0_ktUtw</raw>
-  </episode>
-  <episode>
-    <airingId>013</airingId>
-    <content/>
-    <description>Each edition of this five-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from "Your Japanese Kitchen". Today: Chicken Nuggets.</description>
-    <endDate>2020-11-22T01:55:00.000Z</endDate>
-    <link>https://mega.nz/folder/uVsFmISB#cOgDYDR43Gw29kZ8m8OSDw</link>
-    <recordDateEnd>2020-11-22T01:55:27.607Z</recordDateEnd>
-    <recordDateStart>2020-11-22T01:49:20.101Z</recordDateStart>
-    <seriesId>6014</seriesId>
-    <sha256>adf0e4b82c621483288ef2dd6d45c9940d087857456acef80cd53dbda3f6912e</sha256>
-    <startDate>2020-11-22T01:50:00.000Z</startDate>
-    <subtitle/>
-    <title>Your Japanese Kitchen mini</title>
-    <uploadedDate>2020-12-24T00:15:02.519Z</uploadedDate>
   </episode>
   <episode>
     <airingId>014</airingId>
