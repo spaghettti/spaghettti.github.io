@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T04:30:03.346Z</lastUpdated>
+  <lastUpdated>2020-12-29T04:35:03.546Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -617,6 +617,14 @@
     <lastUpload>2020-12-27T07:36:12.024Z</lastUpload>
     <seriesId>2042</seriesId>
     <title>RISING</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>5ea9f3730faa196f</uniqueId>
+    <lastAiring>2020-12-28T11:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-29T04:31:08.546Z</lastUpload>
+    <seriesId>5001</seriesId>
+    <title>SAKE R-Evolution: A Fever Brewing across the Globe</title>
   </series>
   <series>
     <count>1</count>
