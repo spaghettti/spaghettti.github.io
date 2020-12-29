@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T00:20:02.880Z",
+  "lastUpdated": "2020-12-29T00:30:03.471Z",
   "seriesId": "4008",
   "title": "COOL JAPAN",
   "episodes": [
@@ -32,8 +32,23 @@
       "startDate": "2020-12-19T04:10:00.000Z",
       "subtitle": "Nara Prefecture",
       "title": "COOL JAPAN",
-      "uploadedDate": "2020-12-28T01:18:39.590Z",
-      "raw": "https://mega.nz/folder/w4F2XTgL#-wEA1yGNZ-0wDIe5iNwNvw"
+      "uploadedDate": "2020-12-28T01:18:39.590Z"
+    },
+    {
+      "airingId": "246",
+      "content": "Historical plays have become rarer on terrestrial TV. In fact, they are very popular on satellite TV and specialized channels. Japanese people love historical plays. When the hero of a large-scale TV series is announced, related locations are enlivened and people get excited about revitalization. Are there any other countries that love historical plays as much as Japan? We investigate the cools of Japanese historical plays in Japanese people whose hearts are captivated by historical plays and their productions sites at the end of this year in which they were a hot topic.",
+      "description": "The panelists explore how historical plays continue to entertain audiences of all ages in Japan, and how regional communities strive to promote their ties with historical heroes portrayed in TV drama.",
+      "endDate": "2020-12-26T04:55:00.000Z",
+      "link": "https://mega.nz/folder/h51nECYB#gRT0Hk2G1LVe01cpcX6tGg",
+      "recordDateEnd": "2020-12-26T04:55:25.357Z",
+      "recordDateStart": "2020-12-26T04:09:20.100Z",
+      "seriesId": "4008",
+      "sha256": "d7fded1a7a9abed8b748948ecbecc167f06b48dcbd28d64a10bba54fd9829126",
+      "startDate": "2020-12-26T04:10:00.000Z",
+      "subtitle": "Historical Plays",
+      "title": "COOL JAPAN",
+      "uploadedDate": "2020-12-29T00:27:45.849Z",
+      "raw": "https://mega.nz/folder/vFE3QCwK#zr9hJznvCWTiJN0Xyki7fQ"
     }
   ]
 }
