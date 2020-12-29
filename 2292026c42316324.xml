@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T00:45:03.653Z</lastUpdated>
+  <lastUpdated>2020-12-29T00:50:02.858Z</lastUpdated>
   <seriesId>2292026c42316324</seriesId>
   <title>Your Japanese Kitchen mini</title>
   <episode>
@@ -66,22 +66,6 @@
     <title>Your Japanese Kitchen mini</title>
     <uploadedDate>2020-12-24T00:24:07.288Z</uploadedDate>
     <raw>https://mega.nz/folder/oVlkGDpY#5kzxiBXD6z1pUmi0_ktUtw</raw>
-  </episode>
-  <episode>
-    <airingId>014</airingId>
-    <content/>
-    <description>Each edition of this 5-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from "Your Japanese Kitchen". Today: Tonjiru - Pork and Vegetable Miso Soup.</description>
-    <endDate>2020-11-26T05:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/tMNnVSiZ#GYoo0yF8gMWmKR-4jM-36g</link>
-    <recordDateEnd>2020-11-26T05:00:26.298Z</recordDateEnd>
-    <recordDateStart>2020-11-26T04:54:20.051Z</recordDateStart>
-    <seriesId>6014</seriesId>
-    <sha256>6a143ba12324469f2968fec1d91aa80b12782d5d462330a58475f372e9bd16e7</sha256>
-    <startDate>2020-11-26T04:55:00.000Z</startDate>
-    <subtitle/>
-    <title>Your Japanese Kitchen mini</title>
-    <uploadedDate>2020-12-24T00:12:02.591Z</uploadedDate>
-    <raw>https://mega.nz/folder/sNtggIZK#HWoAI7JWjxDnZRv-iIwE7A</raw>
   </episode>
   <episode>
     <airingId>015</airingId>
