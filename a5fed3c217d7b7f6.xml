@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T04:35:03.482Z</lastUpdated>
+  <lastUpdated>2020-12-29T04:40:02.742Z</lastUpdated>
   <seriesId>a5fed3c217d7b7f6</seriesId>
   <title>Today's Close-Up</title>
   <episode>
@@ -44,24 +44,6 @@ Miyata Hiroaki (Professor, Keio University)</content>
     <title>Today's Close-Up</title>
     <uploadedDate>2020-12-24T07:02:22.420Z</uploadedDate>
     <raw>https://mega.nz/folder/FVkASCrS#EyFybDVqwBuTFAc5tZkdjg</raw>
-  </episode>
-  <episode>
-    <airingId>811</airingId>
-    <content>In the latest Global Gender Gap Index survey, Japan came 121st out of 153 countries, and was the lowest among major advanced nations. The government is aiming to have women in 30 percent of leadership roles by 2020, but the figure currently stands at just 14.8 percent. What does Japanese society need to do to change this? Overcoming "unconscious bias" might be the answer. NHK took a close look at how some companies are trying to tackle this issue to find out the key to creating a workplace where women can shine.
-Guests:
-Takeishi Emiko (Professor, Hosei University)
-Miyata Hiroaki (Professor, Keio University)</content>
-    <description>Unconscious biases are regarded as one of the main factors behind the struggle to get women to play more active roles in Japanese companies. We take a look at the effort to overcome them.</description>
-    <endDate>2020-12-04T16:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/dABEgZzA#ssYcbCWBnowUk8KtIxVg6g</link>
-    <recordDateEnd>2020-12-04T16:00:29.689Z</recordDateEnd>
-    <recordDateStart>2020-12-04T15:29:22.949Z</recordDateStart>
-    <seriesId>4002</seriesId>
-    <sha256>0b973b8f03f45940dab536cc803a0023a097b7915f8e8bc6a4333d0010d7e373</sha256>
-    <startDate>2020-12-04T15:30:00.000Z</startDate>
-    <subtitle>A Workplace Where Women Can Shine: Overcoming Innate Gender Bias</subtitle>
-    <title>Today's Close-Up</title>
-    <uploadedDate>2020-12-24T06:29:21.467Z</uploadedDate>
   </episode>
   <episode>
     <airingId>812</airingId>

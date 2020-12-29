@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T04:35:03.546Z</lastUpdated>
+  <lastUpdated>2020-12-29T04:40:02.810Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -763,7 +763,7 @@
     <title>TIME-LAPSE</title>
   </series>
   <series>
-    <count>5</count>
+    <count>4</count>
     <uniqueId>a5fed3c217d7b7f6</uniqueId>
     <lastAiring>2020-12-18T15:30:00.000Z</lastAiring>
     <lastUpload>2020-12-24T15:56:28.169Z</lastUpload>
