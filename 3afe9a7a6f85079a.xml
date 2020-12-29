@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T00:50:02.884Z</lastUpdated>
+  <lastUpdated>2020-12-29T01:05:03.221Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -19,22 +19,6 @@
     <title>Ukiyoe EDO-LIFE(1)</title>
     <uploadedDate>2020-12-24T02:26:54.722Z</uploadedDate>
     <raw>https://mega.nz/folder/3dFnxSBQ#3SEpcE2UvpxVltlqrre-CQ</raw>
-  </episode>
-  <episode>
-    <airingId>002</airingId>
-    <content/>
-    <description>The top 3 geisha idol celebrities in Edo: Tomimoto Toyohina, Takashima Ohisa, and Naniwaya Kita. See how Kitagawa Utamaro, the master of female beauty has illustrated them so differently.</description>
-    <endDate>2020-11-17T06:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/C10yBToT#UaDAdFxK6D4un192q5p4iA</link>
-    <recordDateEnd>2020-11-17T06:30:33.401Z</recordDateEnd>
-    <recordDateStart>2020-11-17T06:22:20.100Z</recordDateStart>
-    <seriesId>6030</seriesId>
-    <sha256>948c15ed123e369c8d0f4e4470a1ffec16752c713ffc80db34219ff709c3335d</sha256>
-    <startDate>2020-11-17T06:23:00.000Z</startDate>
-    <subtitle/>
-    <title>Ukiyoe EDO-LIFE(2)</title>
-    <uploadedDate>2020-12-24T02:26:07.602Z</uploadedDate>
-    <raw>https://mega.nz/folder/ydtWmJwR#DJcRE6zkOIeki3VxeuzjRw</raw>
   </episode>
   <episode>
     <airingId>003</airingId>
