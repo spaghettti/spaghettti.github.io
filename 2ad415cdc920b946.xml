@@ -1,26 +1,9 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T04:40:02.733Z</lastUpdated>
+  <lastUpdated>2020-12-29T04:50:03.068Z</lastUpdated>
   <seriesId>2ad415cdc920b946</seriesId>
   <title>NHK Documentary</title>
-  <episode>
-    <airingId>074</airingId>
-    <content>The assassination of US President John F. Kennedy is still shrouded in mystery. With the help of top experts, NHK takes a new look at the incident through reenactments and fresh theories on the case.
-Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Atsugi, Japan who later defected to the Soviet Union. While his own upbringing played a role in his decisions, there is also a possibility that a certain organization was manipulating him behind the scenes. The testimony of Oswald's wife, Marina, also reveals a failed assassination attempt by Oswald in the months leading up to Kennedy's death. We follow the little-known footprints left by this infamous assassin.</content>
-    <description>The assassination of US President John F. Kennedy is still shrouded in mystery. With the help of top experts, NHK takes a new look at the incident through reenactments and fresh theories on the case.</description>
-    <endDate>2020-12-14T20:50:00.000Z</endDate>
-    <link>https://mega.nz/folder/K0UjRCaQ#XB0ilzWbndZu__PXMWYlUw</link>
-    <recordDateEnd>2020-12-14T20:50:27.508Z</recordDateEnd>
-    <recordDateStart>2020-12-14T19:59:20.093Z</recordDateStart>
-    <seriesId>3016</seriesId>
-    <sha256>7294b5998c5ba8f6de51b063aeb734e53f72cd5e35ecd14295ea8ed3e00501d2</sha256>
-    <startDate>2020-12-14T20:00:00.000Z</startDate>
-    <subtitle>Oswald and JFK UNSOLVED CASES Part 1: The Pawn</subtitle>
-    <title>NHK Documentary</title>
-    <uploadedDate>2020-12-24T20:42:24.341Z</uploadedDate>
-    <raw>https://mega.nz/folder/cRUkCDza#PUPmr40TPXZGY8XDd9uf7Q</raw>
-  </episode>
   <episode>
     <airingId>075</airingId>
     <content>6 months before JFK was killed, Lee Harvey Oswald attempted a separate assassination. Our coverage reveals the possibility that this attempt served as a focal point that linked Oswald to the JFK killing. The day of that killing, Oswald brought a rifle into a Dallas building. The US government report says 3 shots from that building killed JFK, but we take a new look at witness testimony and speak to 66 prominent campaigners to ask: was the assassination really the work of a "lone wolf"?</content>
