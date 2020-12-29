@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T05:50:02.882Z</lastUpdated>
+  <lastUpdated>2020-12-29T06:15:03.650Z</lastUpdated>
   <seriesId>aca3c5281f781918</seriesId>
   <title>The Mark of Beauty</title>
   <episode>
@@ -52,6 +52,21 @@
     <raw>https://mega.nz/folder/5dFwgTpI#qj9VE1e0n5Sok1PeFPsLGg</raw>
   </episode>
   <episode>
+    <airingId>120</airingId>
+    <content>This episode features Japanese swords. We look at Chikakage, a sword of the 16th-century warlord Akechi Mitsuhide, which was discovered in 2019, and ponder what he might have thought about this weapon. We delve into the fascinating craftsmanship that goes into forging the ultimate sword. The Hon'ami Family has been polishing and sharpening swords since the Muromachi Period (1336-1573). The current head of the family, who has been designated as one of Japan's Living Treasures, shows us what this craft involves. An accomplished sword drawer shows off his swordsmanship and how the forms of swords have evolved over the ages. Also featured is a sword dating from the Heian Period (794-1185). Its scabbard, featuring the oldest extant feline motif in Japan, is a national treasure. A fictional swordsman and computer game character Mikazuki Munechika, who has taken his name from another well-known weapon, makes his appearance.</content>
+    <description>The Japanese sword has long been admired across the world as both an excellent weapon and an exquisite work of art. Tune in to find out the secret behind its beautiful glow.</description>
+    <endDate>2020-12-07T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/xclznS4J#TuGobn_VTlvheJpAuZKY5Q</link>
+    <recordDateEnd>2020-12-07T05:00:16.282Z</recordDateEnd>
+    <recordDateStart>2020-12-07T04:29:20.100Z</recordDateStart>
+    <seriesId>4018</seriesId>
+    <sha256>a2dcb4b96afd74fbf79746a505fe71c835aab617b9951dd1b4d9dca74463013d</sha256>
+    <startDate>2020-12-07T04:30:00.000Z</startDate>
+    <subtitle>Japanese Sword</subtitle>
+    <title>The Mark of Beauty</title>
+    <uploadedDate>2020-12-29T06:10:31.908Z</uploadedDate>
+  </episode>
+  <episode>
     <airingId>121</airingId>
     <content>This episode features zori, or the flat, thonged sandals that have evolved with the Japanese lifestyle. The variety of materials used for the soles and the thong straps provide limitless opportunities for design. Dr. Robert Campbell, an authority on Japanese literature, describes how this footwear is a living tradition. 2 brothers, who have been crafting zori for 60 years, show us sandals offering the ultimate in comfort. And a Kyoto-based footwear store, which has been in business for more than 100 years, shows how it produces its beautifully crafted and functional thong straps. Also featured are the tatami-padded sandals with straw straps, which are worn by the referees for sumo bouts.</content>
     <description>Zori sandals have long kept Japanese feet happy. Not only is it a fashion item that comes in many styles, it also has a cultural role. Tune in to step into the comfy appeal of zori sandals.</description>
@@ -65,6 +80,5 @@
     <subtitle>Zori Sandals</subtitle>
     <title>The Mark of Beauty</title>
     <uploadedDate>2020-12-28T03:07:46.408Z</uploadedDate>
-    <raw>https://mega.nz/folder/RNM2kTgI#IPassARFF51oUMPQ0k271w</raw>
   </episode>
 </episodeList>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T05:50:02.940Z</lastUpdated>
+  <lastUpdated>2020-12-29T06:15:03.727Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -195,7 +195,7 @@
     <title>Dining with the Chef</title>
   </series>
   <series>
-    <count>51</count>
+    <count>50</count>
     <uniqueId>07d8499767117509</uniqueId>
     <lastAiring>2020-12-28T09:15:00.000Z</lastAiring>
     <lastUpload>2020-12-28T21:57:49.220Z</lastUpload>
@@ -467,10 +467,10 @@
     <title>JAPN SPORTSCOPE "KARATE"</title>
   </series>
   <series>
-    <count>5</count>
+    <count>6</count>
     <uniqueId>b7a2bc9b23a9c5ee</uniqueId>
-    <lastAiring>2020-12-21T23:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T17:18:40.646Z</lastUpload>
+    <lastAiring>2020-12-28T23:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-29T06:12:12.333Z</lastUpload>
     <seriesId>2007</seriesId>
     <title>Journeys in Japan</title>
   </series>
@@ -723,10 +723,10 @@
     <title>The Great Summits</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>aca3c5281f781918</uniqueId>
     <lastAiring>2020-12-28T04:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-28T22:30:08.080Z</lastUpload>
+    <lastUpload>2020-12-29T06:10:31.908Z</lastUpload>
     <seriesId>4018</seriesId>
     <title>The Mark of Beauty</title>
   </series>
