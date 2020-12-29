@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T04:05:02.867Z</lastUpdated>
+  <lastUpdated>2020-12-29T04:30:03.275Z</lastUpdated>
   <seriesId>b70d3103ab6de48b</seriesId>
   <title>Home Sweet Tokyo</title>
   <episode>
@@ -83,21 +83,5 @@
     <title>Home Sweet Tokyo Season 4</title>
     <uploadedDate>2020-12-28T07:58:02.651Z</uploadedDate>
     <raw>https://mega.nz/folder/3YlnSIZB#Lzd5NjOiUEeTXhY7K_gGwg</raw>
-  </episode>
-  <episode>
-    <airingId>026</airingId>
-    <content>As the traditional spring equinox approaches, Bryan learns what Oni (Japanese demons) are, but Alice and Setsuko have to face up to real-life challenges far scarier than an angry, red mask. With some inspiration from the tale of Momotaro (The Peach Boy), and some symbolic soybeans, the Matsuyama-Jenkins family come together to drive their demons out and keep their good luck in!</content>
-    <description>As the traditonal Spring equinox approaches, Bryan learns what oni (Japanese demons) are, but Alice and Setsuko have to face up to real-life challenges far scarier than an angry, red mask.</description>
-    <endDate>2020-12-12T23:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/b09GwRSb#7q_HqTdkM407LkqIf3daBQ</link>
-    <recordDateEnd>2020-12-12T23:30:29.139Z</recordDateEnd>
-    <recordDateStart>2020-12-12T23:09:22.685Z</recordDateStart>
-    <seriesId>3018</seriesId>
-    <sha256>90fe5302e0ba3ce7b6952c9ff17870ef1d2d8c0299e724ba355a87cbc3eaaf0d</sha256>
-    <startDate>2020-12-12T23:10:00.000Z</startDate>
-    <subtitle>Ep.4 Facing Your Demons!</subtitle>
-    <title>Home Sweet Tokyo Season 4</title>
-    <uploadedDate>2020-12-25T03:33:55.274Z</uploadedDate>
-    <raw>https://mega.nz/folder/P1lREQzT#4U2_ob742kNUbVTxQJYeKg</raw>
   </episode>
 </episodeList>

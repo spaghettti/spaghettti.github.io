@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T04:05:02.936Z</lastUpdated>
+  <lastUpdated>2020-12-29T04:30:03.346Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -347,9 +347,9 @@
     <title>Her Story</title>
   </series>
   <series>
-    <count>6</count>
+    <count>5</count>
     <uniqueId>b70d3103ab6de48b</uniqueId>
-    <lastAiring>2020-12-12T23:10:00.000Z</lastAiring>
+    <lastAiring>2020-12-12T10:10:00.000Z</lastAiring>
     <lastUpload>2020-12-28T07:58:02.651Z</lastUpload>
     <seriesId>3018</seriesId>
     <title>Home Sweet Tokyo</title>
@@ -403,7 +403,7 @@
     <title>J-MELO</title>
   </series>
   <series>
-    <count>23</count>
+    <count>22</count>
     <uniqueId>afe5ace13e6c293d</uniqueId>
     <lastAiring>2020-12-22T23:25:00.000Z</lastAiring>
     <lastUpload>2020-12-25T02:24:22.347Z</lastUpload>
@@ -643,10 +643,10 @@
     <title>Searching for the Standing Boy of Nagasaki</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>206e7d7b56906c70</uniqueId>
-    <lastAiring>2020-12-20T23:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T16:43:06.651Z</lastUpload>
+    <lastAiring>2020-12-27T23:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-29T04:29:14.630Z</lastUpload>
     <seriesId>2024</seriesId>
     <title>Seasoning the Seasons</title>
   </series>

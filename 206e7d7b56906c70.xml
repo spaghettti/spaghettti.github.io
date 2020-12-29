@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T04:05:02.764Z</lastUpdated>
+  <lastUpdated>2020-12-29T04:30:03.178Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2020-12-24T16:43:06.651Z</uploadedDate>
     <raw>https://mega.nz/folder/ohciHD7I#ZEE4C2gsB9gsJosH_nWtFw</raw>
+  </episode>
+  <episode>
+    <airingId>096</airingId>
+    <content>Mount Tsukuba is located in Ibaraki Prefecture, about 70 km northeast from Tokyo. The Japanese have revered the mountain since ancient times, as a sacred mountain akin to Mount Fuji. The mountain has a height of 877 meters. Mount Tsukuba, called Tsukuba-san in Japanese, is popular with visitors as anyone can easily climb it. More than 2 million people visit a year. From the old days, it has been believed that a mysterious force dwells in this mountain. In this episode, we present the story of Mount Tsukuba, a sacred mountain rich in mysterious charm.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history. Today: Mount Tsukuba; The Mysterious Twin Peaks.</description>
+    <endDate>2020-12-28T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/OwskDIyJ#abZEOKOp-8C1FZtKRcV9yw</link>
+    <recordDateEnd>2020-12-28T00:00:28.585Z</recordDateEnd>
+    <recordDateStart>2020-12-27T23:29:20.098Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>ebf68ceade988d09f845f5029b008c390aecc2184d53a8de284e938a1ae0c1a6</sha256>
+    <startDate>2020-12-27T23:30:00.000Z</startDate>
+    <subtitle>Mount Tsukuba: The Mysterious Twin Peaks</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2020-12-29T04:29:14.630Z</uploadedDate>
+    <raw>https://mega.nz/folder/OksVQaQZ#TSqV-1QAAoTJ4F51gRpAaw</raw>
   </episode>
   <episode>
     <airingId>116</airingId>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T04:05:02.940Z",
+  "lastUpdated": "2020-12-29T04:30:03.351Z",
   "series": [
     {
       "count": 6,
@@ -346,9 +346,9 @@
       "title": "Her Story"
     },
     {
-      "count": 6,
+      "count": 5,
       "uniqueId": "b70d3103ab6de48b",
-      "lastAiring": "2020-12-12T23:10:00.000Z",
+      "lastAiring": "2020-12-12T10:10:00.000Z",
       "lastUpload": "2020-12-28T07:58:02.651Z",
       "seriesId": "3018",
       "title": "Home Sweet Tokyo"
@@ -402,7 +402,7 @@
       "title": "J-MELO"
     },
     {
-      "count": 23,
+      "count": 22,
       "uniqueId": "afe5ace13e6c293d",
       "lastAiring": "2020-12-22T23:25:00.000Z",
       "lastUpload": "2020-12-25T02:24:22.347Z",
@@ -642,10 +642,10 @@
       "title": "Searching for the Standing Boy of Nagasaki"
     },
     {
-      "count": 4,
+      "count": 5,
       "uniqueId": "206e7d7b56906c70",
-      "lastAiring": "2020-12-20T23:30:00.000Z",
-      "lastUpload": "2020-12-24T16:43:06.651Z",
+      "lastAiring": "2020-12-27T23:30:00.000Z",
+      "lastUpload": "2020-12-29T04:29:14.630Z",
       "seriesId": "2024",
       "title": "Seasoning the Seasons"
     },
