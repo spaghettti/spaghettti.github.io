@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T01:35:03.379Z</lastUpdated>
+  <lastUpdated>2020-12-29T01:40:02.648Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -39,26 +39,6 @@ An Innovative Quake-Resistant Bookshelf</content>
     <title>Science View</title>
     <uploadedDate>2020-12-25T17:34:24.946Z</uploadedDate>
     <raw>https://mega.nz/folder/mEk02RgB#GLgAs4YsJDPtPnyImboAXg</raw>
-  </episode>
-  <episode>
-    <airingId>226</airingId>
-    <content>The technology of projection mapping is rapidly advancing. Images can be projected not only onto stationary surfaces such as buildings and walls, but also onto fast-moving objects. Undistorted images are appearing on bouncing balls and T-shirts. And now, this technology goes beyond the realm of entertainment, bringing hope to saving people's lives. It is about to be applied even in the field of medicine. Find out about the latest development in projection mapping and how it can change our lives.
-[Science News Watch]
-Japan to Take Part in US Lunar Exploration Project
-[J-Innovators]
-The World's First Plywood Using Colorful Recycled Paper</content>
-    <description>Recent advances in projection mapping has made it possible to project images onto moving objects. Find out how this technology is about to be applied in medicine, making a difference in our lives.</description>
-    <endDate>2020-12-15T16:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/KYFRSCBI#nJuAOWoxsupvKFcOc4RfvA</link>
-    <recordDateEnd>2020-12-15T16:00:31.745Z</recordDateEnd>
-    <recordDateStart>2020-12-15T15:29:20.042Z</recordDateStart>
-    <seriesId>2015</seriesId>
-    <sha256>e450a5785545923ed019ad8e86a5a55f40ddf761623a40220dc5e8da90ceddb7</sha256>
-    <startDate>2020-12-15T15:30:00.000Z</startDate>
-    <subtitle>Projection Mapping Evolving to New Heights</subtitle>
-    <title>Science View</title>
-    <uploadedDate>2020-12-24T17:11:56.989Z</uploadedDate>
-    <raw>https://mega.nz/folder/LIVxSSAJ#AIrqbLTMomc633Va8sZXBg</raw>
   </episode>
   <episode>
     <airingId>246</airingId>

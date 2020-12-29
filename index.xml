@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T01:35:03.565Z</lastUpdated>
+  <lastUpdated>2020-12-29T01:40:02.837Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -203,7 +203,7 @@
     <title>Dining with the Chef</title>
   </series>
   <series>
-    <count>56</count>
+    <count>55</count>
     <uniqueId>07d8499767117509</uniqueId>
     <lastAiring>2020-12-28T09:15:00.000Z</lastAiring>
     <lastUpload>2020-12-28T21:57:49.220Z</lastUpload>
@@ -627,7 +627,7 @@
     <title>SAMURAI WHEELS 2020 SPECIAL</title>
   </series>
   <series>
-    <count>6</count>
+    <count>5</count>
     <uniqueId>87b2998a16373792</uniqueId>
     <lastAiring>2020-12-22T15:30:00.000Z</lastAiring>
     <lastUpload>2020-12-25T17:34:24.946Z</lastUpload>
