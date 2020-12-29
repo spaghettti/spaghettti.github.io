@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T00:40:03.098Z</lastUpdated>
+  <lastUpdated>2020-12-29T00:45:03.697Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -99,7 +99,7 @@
     <title>BOSAI: Science that Can Save Your Life</title>
   </series>
   <series>
-    <count>3</count>
+    <count>2</count>
     <uniqueId>245e52873e6a4f2e</uniqueId>
     <lastAiring>2020-12-19T23:10:00.000Z</lastAiring>
     <lastUpload>2020-12-26T08:18:56.592Z</lastUpload>
@@ -763,7 +763,7 @@
     <title>Today's Close-Up</title>
   </series>
   <series>
-    <count>6</count>
+    <count>5</count>
     <uniqueId>e3257daa0a525ec2</uniqueId>
     <lastAiring>2020-12-22T23:30:00.000Z</lastAiring>
     <lastUpload>2020-12-24T18:22:26.088Z</lastUpload>
