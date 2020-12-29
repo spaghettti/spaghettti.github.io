@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T16:15:03.408Z</lastUpdated>
+  <lastUpdated>2020-12-29T17:35:03.362Z</lastUpdated>
   <seriesId>ae19acce46550858</seriesId>
   <title>Easy Japanese for Work</title>
   <episode>
@@ -49,21 +49,6 @@
     <subtitle>#26 Cheering up a junior employee who is feeling down</subtitle>
     <title>Easy Japanese for Work</title>
     <uploadedDate>2020-12-25T05:30:23.343Z</uploadedDate>
-  </episode>
-  <episode>
-    <airingId>027</airingId>
-    <content>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</content>
-    <description>Today: asking others for favors. Warni Letty Yuhara, from Indonesia, works at a farm in Ibaraki Prefecture. She struggles with others to stay late. To improve, she tackles a roleplay challenge.</description>
-    <endDate>2020-12-07T01:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/y51m1Q5Q#z26muzXaOKjnNaSgsNj2Mw</link>
-    <recordDateEnd>2020-12-07T01:00:30.292Z</recordDateEnd>
-    <recordDateStart>2020-12-07T00:44:20.099Z</recordDateStart>
-    <seriesId>2078</seriesId>
-    <sha256>cb1f5b00f6abf654bce6f5e36d679f1d61d65af3034a7bb8aa2824031ac53d61</sha256>
-    <startDate>2020-12-07T00:45:00.000Z</startDate>
-    <subtitle>#27 Asking others for favors</subtitle>
-    <title>Easy Japanese for Work</title>
-    <uploadedDate>2020-12-25T05:24:39.951Z</uploadedDate>
   </episode>
   <episode>
     <airingId>028</airingId>
