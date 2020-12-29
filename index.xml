@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T00:30:03.533Z</lastUpdated>
+  <lastUpdated>2020-12-29T00:40:03.098Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -43,9 +43,9 @@
     <title>Anime Supernova</title>
   </series>
   <series>
-    <count>6</count>
+    <count>5</count>
     <uniqueId>b6a4aecdfcf53169</uniqueId>
-    <lastAiring>2020-12-25T01:30:00.000Z</lastAiring>
+    <lastAiring>2020-12-18T01:30:00.000Z</lastAiring>
     <lastUpload>2020-12-28T00:35:57.031Z</lastUpload>
     <seriesId>2022</seriesId>
     <title>Asia Insight</title>
