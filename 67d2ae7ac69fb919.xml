@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T06:15:03.523Z</lastUpdated>
+  <lastUpdated>2020-12-29T07:20:02.788Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -66,6 +66,22 @@
     <title>Core Kyoto</title>
     <uploadedDate>2020-12-26T14:56:27.804Z</uploadedDate>
     <raw>https://mega.nz/folder/i5kVxKYK#IDgNV22fQQ9pugiBGx_lng</raw>
+  </episode>
+  <episode>
+    <airingId>031</airingId>
+    <content>Ogres, specters, demons, ghosts and hell. The ancient capital's many myths of the spirit world seem fantastic today. Kyoto's citizens lived in fear and awe of the other world and appealed to the deities for help. They honored milestones and kept the annual events in thanks to the deities for their protection. Consequences of the city's prosperity, the legends have origins in the deep in the recesses of the human mind, and the epidemics and wars that occurred throughout Kyoto's history.</content>
+    <description>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core. Today: Legends of the spirit world that the mysterious inspires awe in the townsfolk.</description>
+    <endDate>2020-12-28T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/aVFBCQyL#oFaZ4yPZ0rWWonT4GC6q7Q</link>
+    <recordDateEnd>2020-12-28T15:00:25.994Z</recordDateEnd>
+    <recordDateStart>2020-12-28T14:29:22.966Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>a044ead1cff902b6211e03da3883850ad98cb4accd60101728a9d1e102b17c2d</sha256>
+    <startDate>2020-12-28T14:30:00.000Z</startDate>
+    <subtitle>Legends of the Spirit World: The Mysterious Inspires Awe in the Townsfolk</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2020-12-29T07:18:54.395Z</uploadedDate>
+    <raw>https://mega.nz/folder/HttwUZqA#1ZqIONeVnOx49zlQwPXVAw</raw>
   </episode>
   <episode>
     <airingId>077</airingId>
