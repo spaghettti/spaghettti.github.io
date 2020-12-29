@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T23:10:03.114Z",
+  "lastUpdated": "2020-12-29T23:30:03.050Z",
   "seriesId": "3004",
   "title": "JAPAN SPORTSCOPE",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "JAPAN SPORTSCOPE",
       "uploadedDate": "2020-12-29T02:59:57.763Z",
       "raw": "https://mega.nz/folder/Q0tQmC4R#AcG-Jjgwt8wtmkK5aZWgKw"
+    },
+    {
+      "airingId": "643",
+      "content": "",
+      "description": "This program introduces Japanese sports facilities for visitors from abroad. Our reporter visits spots which you can get to and back from Tokyo in a day. This time we show a Karate dojo in Kanagawa.",
+      "endDate": "2020-11-23T06:30:00.000Z",
+      "link": "https://mega.nz/folder/S9kx2SDQ#4n792nOLeCzzUZ7O-7-rpg",
+      "recordDateEnd": "2020-11-23T06:30:31.273Z",
+      "recordDateStart": "2020-11-23T06:19:20.103Z",
+      "seriesId": "3004",
+      "sha256": "c2537198f3a44cf5c4adbf62d88a144bdfcc31107e224b7a9147180b338fe699",
+      "startDate": "2020-11-23T06:20:00.000Z",
+      "subtitle": "KARATE",
+      "title": "JAPAN SPORTSCOPE",
+      "uploadedDate": "2020-12-29T23:27:46.497Z"
     }
   ]
 }

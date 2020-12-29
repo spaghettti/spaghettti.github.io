@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T23:10:03.200Z",
+  "lastUpdated": "2020-12-29T23:30:03.151Z",
   "series": [
     {
       "count": 6,
@@ -114,7 +114,7 @@
       "title": "COOL JAPAN"
     },
     {
-      "count": 11,
+      "count": 10,
       "uniqueId": "67d2ae7ac69fb919",
       "lastAiring": "2020-12-28T14:30:00.000Z",
       "lastUpload": "2020-12-29T07:18:54.395Z",
@@ -418,10 +418,10 @@
       "title": "Japan Railway Journal"
     },
     {
-      "count": 2,
+      "count": 3,
       "uniqueId": "d44004cd2f812344",
       "lastAiring": "2020-12-29T01:20:00.000Z",
-      "lastUpload": "2020-12-29T03:29:29.695Z",
+      "lastUpload": "2020-12-29T23:27:46.497Z",
       "seriesId": "3004",
       "title": "JAPAN SPORTSCOPE"
     },
