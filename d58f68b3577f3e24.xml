@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T05:25:03.418Z</lastUpdated>
+  <lastUpdated>2020-12-29T05:30:03.694Z</lastUpdated>
   <seriesId>d58f68b3577f3e24</seriesId>
   <title>BEGIN Japanology mini</title>
   <episode>
@@ -97,6 +97,22 @@
     <title>BEGIN Japanology mini</title>
     <uploadedDate>2020-12-28T22:09:50.608Z</uploadedDate>
     <raw>https://mega.nz/folder/2FEFVAQQ#uHSu63ao8CY6jRaBRzdIBg</raw>
+  </episode>
+  <episode>
+    <airingId>010</airingId>
+    <content/>
+    <description>Trivia on aspects of Japan's unique culture and products that reflect the aesthetic sense and values of the Japanese people. Today: Hot Springs.</description>
+    <endDate>2020-12-29T02:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/JI0zWaCS#2bQEYL2RIjrTtZs97rFRcA</link>
+    <recordDateEnd>2020-12-29T02:30:31.052Z</recordDateEnd>
+    <recordDateStart>2020-12-29T02:22:20.058Z</recordDateStart>
+    <seriesId>6001</seriesId>
+    <sha256>567661871620f11c80e4dfc0b8ca004abee8e5fd56752316b140172fe36206d2</sha256>
+    <startDate>2020-12-29T02:23:00.000Z</startDate>
+    <subtitle/>
+    <title>BEGIN Japanology mini</title>
+    <uploadedDate>2020-12-29T05:27:15.214Z</uploadedDate>
+    <raw>https://mega.nz/folder/lNx3QCIJ#-OHEEOBorXTbFC93hyOYNw</raw>
   </episode>
   <episode>
     <airingId>013</airingId>

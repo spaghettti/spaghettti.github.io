@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T05:25:03.452Z",
+  "lastUpdated": "2020-12-29T05:30:03.735Z",
   "seriesId": "6202",
   "title": "EXTREME JAPAN",
   "episodes": [
@@ -98,6 +98,21 @@
       "title": "EXTREME JAPAN",
       "uploadedDate": "2020-12-28T22:25:18.400Z",
       "raw": "https://mega.nz/folder/YFl2GBLL#S6TDJnL81k-n2BDo8RaJEA"
+    },
+    {
+      "airingId": "007",
+      "content": "",
+      "description": "Rugged mountains. Sheer coastal cliffs. Serene forests. Join us on a journey to Japan's wild frontiers and hidden scenic wonders... a journey to Extreme Japan. Odaigahara.",
+      "endDate": "2020-12-29T03:25:00.000Z",
+      "link": "https://mega.nz/folder/6o8xgCCZ#YqhfS8i6Ggt9wFWsiF-kpQ",
+      "recordDateEnd": "2020-12-29T03:25:29.308Z",
+      "recordDateStart": "2020-12-29T03:09:20.164Z",
+      "seriesId": "6202",
+      "sha256": "64901ed108d505c3fe1b116ace2b8a4520e5856d3932f0101b9ca90ec0c98135",
+      "startDate": "2020-12-29T03:10:00.000Z",
+      "subtitle": "",
+      "title": "EXTREME JAPAN",
+      "uploadedDate": "2020-12-29T05:27:48.908Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T05:25:03.466Z",
+  "lastUpdated": "2020-12-29T05:30:03.748Z",
   "series": [
     {
       "count": 6,
@@ -58,10 +58,10 @@
       "title": "Barakan Discovers: The Tokyo of 2020"
     },
     {
-      "count": 10,
+      "count": 11,
       "uniqueId": "d58f68b3577f3e24",
-      "lastAiring": "2020-12-28T16:54:00.000Z",
-      "lastUpload": "2020-12-29T02:59:06.470Z",
+      "lastAiring": "2020-12-29T02:23:00.000Z",
+      "lastUpload": "2020-12-29T05:27:15.214Z",
       "seriesId": "6001",
       "title": "BEGIN Japanology mini"
     },
@@ -186,7 +186,7 @@
       "title": "Dig More Japan"
     },
     {
-      "count": 12,
+      "count": 11,
       "uniqueId": "4562406e38a4085a",
       "lastAiring": "2020-12-29T00:30:00.000Z",
       "lastUpload": "2020-12-29T03:47:21.740Z",
@@ -266,10 +266,10 @@
       "title": "Explore Japan"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "cb742a1cc3a28577",
-      "lastAiring": "2020-12-28T03:10:00.000Z",
-      "lastUpload": "2020-12-28T22:25:18.400Z",
+      "lastAiring": "2020-12-29T03:10:00.000Z",
+      "lastUpload": "2020-12-29T05:27:48.908Z",
       "seriesId": "6202",
       "title": "EXTREME JAPAN"
     },

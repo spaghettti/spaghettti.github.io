@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T05:25:03.284Z</lastUpdated>
+  <lastUpdated>2020-12-29T05:30:03.508Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -178,21 +178,5 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2020-12-26T01:32:25.051Z</uploadedDate>
     <raw>https://mega.nz/folder/cpETQSiY#va0VEr2AA0MQ3EuSjzp-2A</raw>
-  </episode>
-  <episode>
-    <airingId>281</airingId>
-    <content>In this second episode, we learn about Nagano's local specialties, as discovered by a chef who moved from Tokyo.</content>
-    <description>In this second episode, we learn about Nagano's local specialties, as discovered by a chef who moved from Tokyo.</description>
-    <endDate>2020-12-25T15:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/KU0SyaaS#4NyURlBGO5tgUin-vqC3PA</link>
-    <recordDateEnd>2020-12-25T15:00:26.960Z</recordDateEnd>
-    <recordDateStart>2020-12-25T14:29:22.773Z</recordDateStart>
-    <seriesId>2019</seriesId>
-    <sha256>09faca4e6c87a0d9c0364a7496c4427ff8ba5bdb49ff7d95867515a3c47210a1</sha256>
-    <startDate>2020-12-25T14:30:00.000Z</startDate>
-    <subtitle>Cook Around Japan "Nagano": Discovering Nagano's Local Specialties</subtitle>
-    <title>Dining with the Chef</title>
-    <uploadedDate>2020-12-26T10:28:39.936Z</uploadedDate>
-    <raw>https://mega.nz/folder/s89yjJSJ#DeHhw8g8oSkNCFeRATozbQ</raw>
   </episode>
 </episodeList>

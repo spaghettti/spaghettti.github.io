@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T05:25:03.462Z</lastUpdated>
+  <lastUpdated>2020-12-29T05:30:03.744Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -59,10 +59,10 @@
     <title>Barakan Discovers: The Tokyo of 2020</title>
   </series>
   <series>
-    <count>10</count>
+    <count>11</count>
     <uniqueId>d58f68b3577f3e24</uniqueId>
-    <lastAiring>2020-12-28T16:54:00.000Z</lastAiring>
-    <lastUpload>2020-12-29T02:59:06.470Z</lastUpload>
+    <lastAiring>2020-12-29T02:23:00.000Z</lastAiring>
+    <lastUpload>2020-12-29T05:27:15.214Z</lastUpload>
     <seriesId>6001</seriesId>
     <title>BEGIN Japanology mini</title>
   </series>
@@ -187,7 +187,7 @@
     <title>Dig More Japan</title>
   </series>
   <series>
-    <count>12</count>
+    <count>11</count>
     <uniqueId>4562406e38a4085a</uniqueId>
     <lastAiring>2020-12-29T00:30:00.000Z</lastAiring>
     <lastUpload>2020-12-29T03:47:21.740Z</lastUpload>
@@ -267,10 +267,10 @@
     <title>Explore Japan</title>
   </series>
   <series>
-    <count>6</count>
+    <count>7</count>
     <uniqueId>cb742a1cc3a28577</uniqueId>
-    <lastAiring>2020-12-28T03:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-28T22:25:18.400Z</lastUpload>
+    <lastAiring>2020-12-29T03:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-29T05:27:48.908Z</lastUpload>
     <seriesId>6202</seriesId>
     <title>EXTREME JAPAN</title>
   </series>
