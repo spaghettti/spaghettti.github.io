@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T10:05:03.149Z</lastUpdated>
+  <lastUpdated>2020-12-29T16:05:02.943Z</lastUpdated>
   <seriesId>f2fee2555c450616</seriesId>
   <title>JAPANGLE</title>
   <episode>
@@ -97,21 +97,5 @@
     <subtitle>Rice</subtitle>
     <title>JAPANGLE</title>
     <uploadedDate>2020-12-25T01:53:49.121Z</uploadedDate>
-  </episode>
-  <episode>
-    <airingId>012</airingId>
-    <content/>
-    <description>"JAPANGLE" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. This episode is "Japanese-style Room."</description>
-    <endDate>2020-12-20T03:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/NQtQwLxY#gGXcR7TxeUmGYTpbHeuRYA</link>
-    <recordDateEnd>2020-12-20T03:01:05.971Z</recordDateEnd>
-    <recordDateStart>2020-12-20T02:39:20.064Z</recordDateStart>
-    <seriesId>6200</seriesId>
-    <sha256>621fa1c19d9f77faf5b9cdc7d4eebdcca8554696c1381f3d57f99a3808971b54</sha256>
-    <startDate>2020-12-20T02:40:00.000Z</startDate>
-    <subtitle>Japanese-style Room</subtitle>
-    <title>JAPANGLE</title>
-    <uploadedDate>2020-12-25T01:48:15.501Z</uploadedDate>
-    <raw>https://mega.nz/folder/RRwgVIDQ#fQDkZsZf9Zysc8Xt0NTnhQ</raw>
   </episode>
 </episodeList>

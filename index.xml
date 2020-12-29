@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T10:05:03.170Z</lastUpdated>
+  <lastUpdated>2020-12-29T16:05:02.954Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -291,7 +291,7 @@
     <title>FLOWERS WILL BLOOM</title>
   </series>
   <series>
-    <count>8</count>
+    <count>7</count>
     <uniqueId>3ade7fb84e8cc130</uniqueId>
     <lastAiring>2020-12-29T01:10:00.000Z</lastAiring>
     <lastUpload>2020-12-29T03:37:04.450Z</lastUpload>
@@ -443,7 +443,7 @@
     <title>Japan-easy2</title>
   </series>
   <series>
-    <count>7</count>
+    <count>6</count>
     <uniqueId>f2fee2555c450616</uniqueId>
     <lastAiring>2020-12-24T05:10:00.000Z</lastAiring>
     <lastUpload>2020-12-26T05:51:35.367Z</lastUpload>
@@ -451,10 +451,10 @@
     <title>JAPANGLE</title>
   </series>
   <series>
-    <count>6</count>
+    <count>7</count>
     <uniqueId>845116d579af2806</uniqueId>
-    <lastAiring>2020-12-22T14:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T18:52:21.674Z</lastUpload>
+    <lastAiring>2020-12-29T14:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-29T16:01:55.606Z</lastUpload>
     <seriesId>2032</seriesId>
     <title>Japanology Plus</title>
   </series>

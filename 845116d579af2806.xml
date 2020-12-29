@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T10:05:02.987Z</lastUpdated>
+  <lastUpdated>2020-12-29T16:05:02.780Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -105,5 +105,21 @@ Japan is home to thousands of different mushroom species. Some can be found lini
     <title>Japanology Plus</title>
     <uploadedDate>2020-12-25T03:59:13.837Z</uploadedDate>
     <raw>https://mega.nz/folder/os90BSAD#BuiJvHIZax7sxr-th8U-hw</raw>
+  </episode>
+  <episode>
+    <airingId>226</airingId>
+    <content>*First broadcast on December 29, 2020.
+Kamishibai, or paper theater, is a form of storytelling that uses large picture cards. It was wildly popular throughout Japan in the 1930's. Today, it's still enjoyed in kindergartens and libraries. This time, our theme is Kamishibai. Our main guest, Sakai Kyoko, talks about how Kamishibai titles are created, and how they should be performed. And in Plus One, we meet American poet Arthur Binard, whose own Kamishibai communicates the horror of the atomic bomb.</content>
+    <description>Kamishibai: Paper Theater. Storytelling using picture cards. Each time, Peter Barakan visits the key locations, and meets experts with fascinating cultural insights.</description>
+    <endDate>2020-12-29T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/z81WxSbJ#uCXjh5FOSKjJTK6eR8zDzA</link>
+    <recordDateEnd>2020-12-29T15:00:27.157Z</recordDateEnd>
+    <recordDateStart>2020-12-29T14:29:20.098Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>525d6b959666582bf7ddec32411d9125360fdb27711ccba8cf81a3364950c428</sha256>
+    <startDate>2020-12-29T14:30:00.000Z</startDate>
+    <subtitle>Kamishibai: Paper Theater</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2020-12-29T16:01:55.606Z</uploadedDate>
   </episode>
 </episodeList>

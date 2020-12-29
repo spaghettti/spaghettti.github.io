@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T10:05:03.151Z",
+  "lastUpdated": "2020-12-29T16:05:02.944Z",
   "seriesId": "6200",
   "title": "JAPANGLE",
   "episodes": [
@@ -96,22 +96,6 @@
       "subtitle": "Rice",
       "title": "JAPANGLE",
       "uploadedDate": "2020-12-25T01:53:49.121Z"
-    },
-    {
-      "airingId": "012",
-      "content": "",
-      "description": "\"JAPANGLE\" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. This episode is \"Japanese-style Room.\"",
-      "endDate": "2020-12-20T03:00:00.000Z",
-      "link": "https://mega.nz/folder/NQtQwLxY#gGXcR7TxeUmGYTpbHeuRYA",
-      "recordDateEnd": "2020-12-20T03:01:05.971Z",
-      "recordDateStart": "2020-12-20T02:39:20.064Z",
-      "seriesId": "6200",
-      "sha256": "621fa1c19d9f77faf5b9cdc7d4eebdcca8554696c1381f3d57f99a3808971b54",
-      "startDate": "2020-12-20T02:40:00.000Z",
-      "subtitle": "Japanese-style Room",
-      "title": "JAPANGLE",
-      "uploadedDate": "2020-12-25T01:48:15.501Z",
-      "raw": "https://mega.nz/folder/RRwgVIDQ#fQDkZsZf9Zysc8Xt0NTnhQ"
     }
   ]
 }

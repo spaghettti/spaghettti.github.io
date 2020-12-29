@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T10:05:03.144Z</lastUpdated>
+  <lastUpdated>2020-12-29T16:05:02.938Z</lastUpdated>
   <seriesId>3ade7fb84e8cc130</seriesId>
   <title>Four Seasons in Japan</title>
   <episode>
@@ -19,22 +19,6 @@
     <title>Four Seasons in Japan</title>
     <uploadedDate>2020-12-25T04:55:26.889Z</uploadedDate>
     <raw>https://mega.nz/folder/zt0mEY7b#3ZaEiR5cHDgdOSkQdkaUdQ</raw>
-  </episode>
-  <episode>
-    <airingId>045</airingId>
-    <content/>
-    <description>This episode of Four Seasons in Japan introduces the Ome Hills, west of Tokyo. In spring and summer, the woods and valleys teem with birds, spring cicadas, salamanders, beetles, and butterflies.</description>
-    <endDate>2020-12-23T01:20:00.000Z</endDate>
-    <link>https://mega.nz/folder/MN1wlYJD#QoWPkHyJtq93UTFUKSwZIA</link>
-    <recordDateEnd>2020-12-23T01:20:24.291Z</recordDateEnd>
-    <recordDateStart>2020-12-23T01:09:23.216Z</recordDateStart>
-    <seriesId>6101</seriesId>
-    <sha256>5c2cac44263b6bdaa67ac96936c6825df1ef06270305f1c741c17a7c23eb0e5d</sha256>
-    <startDate>2020-12-23T01:10:00.000Z</startDate>
-    <subtitle/>
-    <title>Four Seasons in Japan</title>
-    <uploadedDate>2020-12-24T16:31:13.724Z</uploadedDate>
-    <raw>https://mega.nz/folder/7g9gUaSb#OFoAGpCEv1utJzz-kIvHMQ</raw>
   </episode>
   <episode>
     <airingId>046</airingId>
