@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T01:05:03.250Z",
+  "lastUpdated": "2020-12-29T01:10:03.301Z",
   "series": [
     {
       "count": 6,
@@ -130,7 +130,7 @@
       "title": "Core Kyoto"
     },
     {
-      "count": 11,
+      "count": 10,
       "uniqueId": "582ad0f8b7805a6b",
       "lastAiring": "2020-12-28T03:25:00.000Z",
       "lastUpload": "2020-12-28T21:52:35.084Z",
@@ -194,7 +194,7 @@
       "title": "Dig More Japan"
     },
     {
-      "count": 12,
+      "count": 11,
       "uniqueId": "4562406e38a4085a",
       "lastAiring": "2020-12-25T14:30:00.000Z",
       "lastUpload": "2020-12-28T00:18:04.305Z",
@@ -410,10 +410,10 @@
       "title": "J-MELO"
     },
     {
-      "count": 25,
+      "count": 24,
       "uniqueId": "afe5ace13e6c293d",
       "lastAiring": "2020-12-22T23:25:00.000Z",
-      "lastUpload": "2020-12-25T17:17:52.592Z",
+      "lastUpload": "2020-12-25T02:24:22.347Z",
       "seriesId": "6023",
       "title": "JAPAN FROM ABOVE: UP CLOSE"
     },
@@ -840,14 +840,6 @@
       "lastUpload": "2020-12-28T21:36:57.589Z",
       "seriesId": "6014",
       "title": "Your Japanese Kitchen mini"
-    },
-    {
-      "count": 1,
-      "uniqueId": "e425ad11d70fcae3",
-      "lastAiring": "2020-12-12T23:30:00.000Z",
-      "lastUpload": "2020-12-24T00:11:06.382Z",
-      "seriesId": "3004",
-      "title": "Zeroing In: Carbon Neutral 2050"
     }
   ]
 }

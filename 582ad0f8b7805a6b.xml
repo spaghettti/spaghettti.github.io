@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T01:05:03.205Z</lastUpdated>
+  <lastUpdated>2020-12-29T01:10:03.246Z</lastUpdated>
   <seriesId>582ad0f8b7805a6b</seriesId>
   <title>Core Kyoto mini</title>
   <episode>
@@ -130,22 +130,6 @@
     <title>Core Kyoto mini</title>
     <uploadedDate>2020-12-26T03:48:09.572Z</uploadedDate>
     <raw>https://mega.nz/folder/MdJ0nTzb#LcNJbtMYd6F2_zA2ZQsxmg</raw>
-  </episode>
-  <episode>
-    <airingId>018</airingId>
-    <content/>
-    <description>The changing leaves, the transient beauty of the ancient capital in fall. Dive deep into Kyoto, still innovative 1,200 years after its foundation.</description>
-    <endDate>2020-11-22T06:45:00.000Z</endDate>
-    <link>https://mega.nz/folder/uU9A1ZqT#wNb_t_kVoJxWB9zrN23ufg</link>
-    <recordDateEnd>2020-11-22T06:45:26.770Z</recordDateEnd>
-    <recordDateStart>2020-11-22T06:39:20.102Z</recordDateStart>
-    <seriesId>6024</seriesId>
-    <sha256>62015fa059a591c8dcc977277711662845eba6d30b909cd721808ca59d0beeaf</sha256>
-    <startDate>2020-11-22T06:40:00.000Z</startDate>
-    <subtitle/>
-    <title>Core Kyoto mini</title>
-    <uploadedDate>2020-12-26T03:47:11.091Z</uploadedDate>
-    <raw>https://mega.nz/folder/ZdcySJTD#BeRX6CrAGks_0pmV4SlfFw</raw>
   </episode>
   <episode>
     <airingId>019</airingId>
