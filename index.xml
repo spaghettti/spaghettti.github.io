@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T17:35:03.462Z</lastUpdated>
+  <lastUpdated>2020-12-29T18:15:03.391Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -225,14 +225,6 @@
     <lastUpload>2020-12-27T22:37:30.044Z</lastUpload>
     <seriesId>2075</seriesId>
     <title>Doki Doki! NHK WORLD-JAPAN</title>
-  </series>
-  <series>
-    <count>1</count>
-    <uniqueId>3adb4b64c51ae5ba</uniqueId>
-    <lastAiring>2020-12-19T23:57:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T18:10:05.431Z</lastUpload>
-    <seriesId>3004</seriesId>
-    <title>Drainspotters #4 Morning Market</title>
   </series>
   <series>
     <count>6</count>
@@ -617,6 +609,14 @@
     <lastUpload>2020-12-29T04:31:08.546Z</lastUpload>
     <seriesId>5001</seriesId>
     <title>SAKE R-Evolution: A Fever Brewing across the Globe</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>0f6842436f254332</uniqueId>
+    <lastAiring>2020-12-29T11:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-29T18:11:53.686Z</lastUpload>
+    <seriesId>5001</seriesId>
+    <title>SAKE R-Evolution: Heady Milestones in a New Era</title>
   </series>
   <series>
     <count>1</count>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T17:35:03.466Z",
+  "lastUpdated": "2020-12-29T18:15:03.395Z",
   "series": [
     {
       "count": 6,
@@ -224,14 +224,6 @@
       "lastUpload": "2020-12-27T22:37:30.044Z",
       "seriesId": "2075",
       "title": "Doki Doki! NHK WORLD-JAPAN"
-    },
-    {
-      "count": 1,
-      "uniqueId": "3adb4b64c51ae5ba",
-      "lastAiring": "2020-12-19T23:57:00.000Z",
-      "lastUpload": "2020-12-25T18:10:05.431Z",
-      "seriesId": "3004",
-      "title": "Drainspotters #4 Morning Market"
     },
     {
       "count": 6,
@@ -616,6 +608,14 @@
       "lastUpload": "2020-12-29T04:31:08.546Z",
       "seriesId": "5001",
       "title": "SAKE R-Evolution: A Fever Brewing across the Globe"
+    },
+    {
+      "count": 1,
+      "uniqueId": "0f6842436f254332",
+      "lastAiring": "2020-12-29T11:10:00.000Z",
+      "lastUpload": "2020-12-29T18:11:53.686Z",
+      "seriesId": "5001",
+      "title": "SAKE R-Evolution: Heady Milestones in a New Era"
     },
     {
       "count": 1,
