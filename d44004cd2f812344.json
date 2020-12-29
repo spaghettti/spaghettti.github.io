@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2020-12-29T03:05:03.323Z",
+  "lastUpdated": "2020-12-29T03:30:03.474Z",
   "seriesId": "3004",
   "title": "JAPAN SPORTSCOPE",
   "episodes": [
+    {
+      "airingId": "585",
+      "content": "",
+      "description": "The show introduces sporting spots in and around Tokyo where foreign travelers can easily visit during their stay. This time we present a bouldering gym at Akihabara, just 5 minutes from the station.",
+      "endDate": "2020-12-28T01:30:00.000Z",
+      "link": "https://mega.nz/folder/9Z1CWBpD#phuQ_lEwTQ1v0F-pVc6oFA",
+      "recordDateEnd": "2020-12-28T01:30:26.018Z",
+      "recordDateStart": "2020-12-28T01:19:22.553Z",
+      "seriesId": "3004",
+      "sha256": "8b8311f6e1a6bd6b98342faf3d8d87aa6fa3995ae2dc49fbc1b14cc340b4e31f",
+      "startDate": "2020-12-28T01:20:00.000Z",
+      "subtitle": "",
+      "title": "JAPAN SPORTSCOPE",
+      "uploadedDate": "2020-12-29T03:29:29.695Z",
+      "raw": "https://mega.nz/folder/BN5BFAoQ#ZTTnVfKUSHwFMlYWSGMzlA"
+    },
     {
       "airingId": "586",
       "content": "",
