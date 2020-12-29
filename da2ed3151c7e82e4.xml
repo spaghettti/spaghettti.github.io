@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T01:40:02.805Z</lastUpdated>
+  <lastUpdated>2020-12-29T01:50:03.280Z</lastUpdated>
   <seriesId>da2ed3151c7e82e4</seriesId>
   <title>no art, no life</title>
   <episode>
@@ -18,22 +18,6 @@
     <subtitle/>
     <title>no art, no life</title>
     <uploadedDate>2020-12-24T18:08:58.766Z</uploadedDate>
-  </episode>
-  <episode>
-    <airingId>015</airingId>
-    <content/>
-    <description>Outsider artists like Takeru Aoki are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.</description>
-    <endDate>2020-11-28T02:55:00.000Z</endDate>
-    <link>https://mega.nz/folder/JNlQXDCa#JMaoNEmHOsvQ_L09cRqTnA</link>
-    <recordDateEnd>2020-11-28T02:55:30.527Z</recordDateEnd>
-    <recordDateStart>2020-11-28T02:49:20.050Z</recordDateStart>
-    <seriesId>6026</seriesId>
-    <sha256>a69fb3137d22a5eb7c5df19f3aaeadbcdad9d95843fe23455fe70e35cbc08d47</sha256>
-    <startDate>2020-11-28T02:50:00.000Z</startDate>
-    <subtitle/>
-    <title>no art, no life</title>
-    <uploadedDate>2020-12-24T18:14:10.068Z</uploadedDate>
-    <raw>https://mega.nz/folder/7pt0BICK#Z6ZnvAWPcejUMlCXnvs6_A</raw>
   </episode>
   <episode>
     <airingId>016</airingId>

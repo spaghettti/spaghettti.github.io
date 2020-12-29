@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-29T01:40:02.837Z</lastUpdated>
+  <lastUpdated>2020-12-29T01:50:03.311Z</lastUpdated>
   <series>
     <count>6</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -227,7 +227,7 @@
     <title>Document 72 Hours</title>
   </series>
   <series>
-    <count>7</count>
+    <count>6</count>
     <uniqueId>5d6cd359adade3e0</uniqueId>
     <lastAiring>2020-12-27T11:50:00.000Z</lastAiring>
     <lastUpload>2020-12-27T22:37:30.044Z</lastUpload>
@@ -571,7 +571,7 @@
     <title>NHK WORLD PRIME</title>
   </series>
   <series>
-    <count>5</count>
+    <count>4</count>
     <uniqueId>da2ed3151c7e82e4</uniqueId>
     <lastAiring>2020-12-26T02:50:00.000Z</lastAiring>
     <lastUpload>2020-12-27T23:14:26.404Z</lastUpload>
