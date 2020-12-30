@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-30T05:55:03.266Z</lastUpdated>
+  <lastUpdated>2020-12-30T06:40:02.840Z</lastUpdated>
   <seriesId>2292026c42316324</seriesId>
   <title>Your Japanese Kitchen mini</title>
   <episode>
@@ -179,6 +179,22 @@
     <title>Your Japanese Kitchen mini</title>
     <uploadedDate>2020-12-27T22:35:53.513Z</uploadedDate>
     <raw>https://mega.nz/folder/Vd5GGS7Q#x17Ij-wFU36Jgr3d-6ZpFQ</raw>
+  </episode>
+  <episode>
+    <airingId>023</airingId>
+    <content/>
+    <description>Each edition of this five-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from "Your Japanese Kitchen". Today: Tsumire-jiru Fish Ball Soup.</description>
+    <endDate>2020-12-30T06:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/e0t2jQAY#uKKV-JBdk1lXpQVSUx18kg</link>
+    <recordDateEnd>2020-12-30T06:25:34.362Z</recordDateEnd>
+    <recordDateStart>2020-12-30T06:19:20.099Z</recordDateStart>
+    <seriesId>6014</seriesId>
+    <sha256>a90c162f616f763c92f395e3bfa46f34237d80d6827ad78e37269a300dd31a48</sha256>
+    <startDate>2020-12-30T06:20:00.000Z</startDate>
+    <subtitle/>
+    <title>Your Japanese Kitchen mini</title>
+    <uploadedDate>2020-12-30T06:35:51.350Z</uploadedDate>
+    <raw>https://mega.nz/folder/H41ECApC#3AKFxD4g1-EexyFVbTs0og</raw>
   </episode>
   <episode>
     <airingId>024</airingId>
