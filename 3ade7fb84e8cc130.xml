@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-30T01:30:02.964Z</lastUpdated>
+  <lastUpdated>2020-12-30T01:45:03.031Z</lastUpdated>
   <seriesId>3ade7fb84e8cc130</seriesId>
   <title>Four Seasons in Japan</title>
   <episode>
@@ -131,6 +131,21 @@
     <title>Four Seasons in Japan</title>
     <uploadedDate>2020-12-29T03:01:11.875Z</uploadedDate>
     <raw>https://mega.nz/folder/Rs8S2AxI#Hc7h11FaRMW_d4SZGfQdzA</raw>
+  </episode>
+  <episode>
+    <airingId>050</airingId>
+    <content/>
+    <description>This program explores Lake Sanaru in Shizuoka Prefecture, a paradise for about 130 species of wild birds like mallards and great crested grebes that enjoy a varied habitat of water, forest and reeds.</description>
+    <endDate>2020-12-30T01:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/X98imRob#XvaD0BjFsH-lXFtmxq1Khw</link>
+    <recordDateEnd>2020-12-30T01:20:29.478Z</recordDateEnd>
+    <recordDateStart>2020-12-30T01:09:20.097Z</recordDateStart>
+    <seriesId>6101</seriesId>
+    <sha256>2b75a97a2320d75ec18c5365434d4417abf2be4595a6924b8fe7f54211fe8217</sha256>
+    <startDate>2020-12-30T01:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Four Seasons in Japan</title>
+    <uploadedDate>2020-12-30T01:44:17.030Z</uploadedDate>
   </episode>
   <episode>
     <airingId>068</airingId>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-30T01:30:02.986Z</lastUpdated>
+  <lastUpdated>2020-12-30T01:45:03.052Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -291,10 +291,10 @@
     <title>FLOWERS WILL BLOOM</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>3ade7fb84e8cc130</uniqueId>
-    <lastAiring>2020-12-29T01:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-29T03:37:04.450Z</lastUpload>
+    <lastAiring>2020-12-30T01:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-30T01:44:17.030Z</lastUpload>
     <seriesId>6101</seriesId>
     <title>Four Seasons in Japan</title>
   </series>
