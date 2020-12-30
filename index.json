@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-30T00:05:02.810Z",
+  "lastUpdated": "2020-12-30T00:35:04.174Z",
   "series": [
     {
       "count": 9,
@@ -226,20 +226,12 @@
       "title": "Doki Doki! NHK WORLD-JAPAN"
     },
     {
-      "count": 1,
-      "uniqueId": "7cf327e4b2fe5349",
+      "count": 2,
+      "uniqueId": "bb5e97bf5ac95d5c",
       "lastAiring": "2020-12-29T20:55:00.000Z",
       "lastUpload": "2020-12-29T23:08:09.199Z",
       "seriesId": "3004",
-      "title": "Drainspotters #1 Green Tea"
-    },
-    {
-      "count": 1,
-      "uniqueId": "3adb4b64c51ae5ba",
-      "lastAiring": "2020-12-19T23:57:00.000Z",
-      "lastUpload": "2020-12-25T18:10:05.431Z",
-      "seriesId": "3004",
-      "title": "Drainspotters #4 Morning Market"
+      "title": "Drainspotters #"
     },
     {
       "count": 7,
@@ -618,20 +610,12 @@
       "title": "RISING"
     },
     {
-      "count": 1,
-      "uniqueId": "5ea9f3730faa196f",
-      "lastAiring": "2020-12-28T11:10:00.000Z",
-      "lastUpload": "2020-12-29T04:31:08.546Z",
-      "seriesId": "5001",
-      "title": "SAKE R-Evolution: A Fever Brewing across the Globe"
-    },
-    {
-      "count": 1,
-      "uniqueId": "0f6842436f254332",
+      "count": 2,
+      "uniqueId": "6b4cdaaae4a3f14f",
       "lastAiring": "2020-12-29T11:10:00.000Z",
       "lastUpload": "2020-12-29T18:11:53.686Z",
       "seriesId": "5001",
-      "title": "SAKE R-Evolution: Heady Milestones in a New Era"
+      "title": "SAKE R-Evolution:"
     },
     {
       "count": 1,
