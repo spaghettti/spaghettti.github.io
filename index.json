@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-30T00:35:04.174Z",
+  "lastUpdated": "2020-12-30T00:50:02.996Z",
   "series": [
     {
       "count": 9,
@@ -443,11 +443,11 @@
     },
     {
       "count": 7,
-      "uniqueId": "6cdfbabc0d0bcd6e",
+      "uniqueId": "a8827721852d236d",
       "lastAiring": "2020-12-27T11:25:00.000Z",
       "lastUpload": "2020-12-29T03:58:02.719Z",
       "seriesId": "6210",
-      "title": "Japan-easy2"
+      "title": "Japan-easy"
     },
     {
       "count": 11,
@@ -611,11 +611,11 @@
     },
     {
       "count": 2,
-      "uniqueId": "6b4cdaaae4a3f14f",
+      "uniqueId": "9fc1b43b729ad551",
       "lastAiring": "2020-12-29T11:10:00.000Z",
       "lastUpload": "2020-12-29T18:11:53.686Z",
       "seriesId": "5001",
-      "title": "SAKE R-Evolution:"
+      "title": "SAKE R-Evolution"
     },
     {
       "count": 1,
@@ -763,11 +763,11 @@
     },
     {
       "count": 6,
-      "uniqueId": "e3257daa0a525ec2",
+      "uniqueId": "50872d98dbace20c",
       "lastAiring": "2020-12-22T23:30:00.000Z",
       "lastUpload": "2020-12-24T18:22:26.088Z",
       "seriesId": "2053",
-      "title": "TOKYO EYE 2020"
+      "title": "TOKYO EYE"
     },
     {
       "count": 1,
@@ -847,7 +847,7 @@
       "lastAiring": "2020-12-12T23:30:00.000Z",
       "lastUpload": "2020-12-24T00:29:13.443Z",
       "seriesId": "3004",
-      "title": "Zeroing In: Carbon Neutral 2050"
+      "title": "Zeroing In: Carbon Neutral"
     }
   ]
 }

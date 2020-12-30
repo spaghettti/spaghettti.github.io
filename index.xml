@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-30T00:35:04.169Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:50:02.992Z</lastUpdated>
   <series>
     <count>9</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -444,11 +444,11 @@
   </series>
   <series>
     <count>7</count>
-    <uniqueId>6cdfbabc0d0bcd6e</uniqueId>
+    <uniqueId>a8827721852d236d</uniqueId>
     <lastAiring>2020-12-27T11:25:00.000Z</lastAiring>
     <lastUpload>2020-12-29T03:58:02.719Z</lastUpload>
     <seriesId>6210</seriesId>
-    <title>Japan-easy2</title>
+    <title>Japan-easy</title>
   </series>
   <series>
     <count>11</count>
@@ -612,11 +612,11 @@
   </series>
   <series>
     <count>2</count>
-    <uniqueId>6b4cdaaae4a3f14f</uniqueId>
+    <uniqueId>9fc1b43b729ad551</uniqueId>
     <lastAiring>2020-12-29T11:10:00.000Z</lastAiring>
     <lastUpload>2020-12-29T18:11:53.686Z</lastUpload>
     <seriesId>5001</seriesId>
-    <title>SAKE R-Evolution:</title>
+    <title>SAKE R-Evolution</title>
   </series>
   <series>
     <count>1</count>
@@ -764,11 +764,11 @@
   </series>
   <series>
     <count>6</count>
-    <uniqueId>e3257daa0a525ec2</uniqueId>
+    <uniqueId>50872d98dbace20c</uniqueId>
     <lastAiring>2020-12-22T23:30:00.000Z</lastAiring>
     <lastUpload>2020-12-24T18:22:26.088Z</lastUpload>
     <seriesId>2053</seriesId>
-    <title>TOKYO EYE 2020</title>
+    <title>TOKYO EYE</title>
   </series>
   <series>
     <count>1</count>
@@ -848,6 +848,6 @@
     <lastAiring>2020-12-12T23:30:00.000Z</lastAiring>
     <lastUpload>2020-12-24T00:29:13.443Z</lastUpload>
     <seriesId>3004</seriesId>
-    <title>Zeroing In: Carbon Neutral 2050</title>
+    <title>Zeroing In: Carbon Neutral</title>
   </series>
 </seriesList>
