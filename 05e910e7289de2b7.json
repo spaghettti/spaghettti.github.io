@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-30T04:15:03.969Z",
+  "lastUpdated": "2020-12-30T04:50:03.077Z",
   "seriesId": "6113",
   "title": "The Great Summits",
   "episodes": [
@@ -114,6 +114,21 @@
       "title": "The Great Summits",
       "uploadedDate": "2020-12-29T05:22:36.913Z",
       "raw": "https://mega.nz/folder/e50RGKJI#Z-vosuqEhX8Gf4a26Zskcw"
+    },
+    {
+      "airingId": "025",
+      "content": "",
+      "description": "\"The Great Summit\" presents you with breathtaking views and stories behind famous mountains around the world. Today: Quest for the Summit, Mont Blanc in the Alps.",
+      "endDate": "2020-12-30T04:20:00.000Z",
+      "link": "https://mega.nz/folder/K90kyIYb#2NwySbZqqMLTSpwn_-ORxA",
+      "recordDateEnd": "2020-12-30T04:20:24.843Z",
+      "recordDateStart": "2020-12-30T04:09:22.876Z",
+      "seriesId": "6113",
+      "sha256": "a91f27bd5dfa4ee619291ad11ebce85e3786b1ff7283d4da17196c7af6deced3",
+      "startDate": "2020-12-30T04:10:00.000Z",
+      "subtitle": "",
+      "title": "The Great Summits",
+      "uploadedDate": "2020-12-30T04:49:26.558Z"
     }
   ]
 }
