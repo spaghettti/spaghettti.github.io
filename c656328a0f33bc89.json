@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-30T01:25:02.868Z",
+  "lastUpdated": "2020-12-30T01:30:02.909Z",
   "seriesId": "3019",
   "title": "15 Minutes",
   "episodes": [
@@ -97,6 +97,21 @@
       "title": "15 Minutes",
       "uploadedDate": "2020-12-24T17:00:41.344Z",
       "raw": "https://mega.nz/folder/Wl8AkAJL#8sWCFg1TMS23fC7SApJ5NA"
+    },
+    {
+      "airingId": "119",
+      "content": "The coronavirus has changed everything. How can we overcome this crisis? How can we restore our normal lifestyles? In Japan, Tokyo had the largest number of coronavirus infections. In this series, we look inside 3 places in this megacity. Hotels, where many people stay. Schools, where young people gather. And airports, major transportation hubs. We'll bring you insight on how the people in these places are trying to recover.\n6 months after the suspension of inbound tourism, a government domestic tourism campaign saw demand for Tokyo hotels both old and new begin to recover. Alongside banquet sales, particularly for weddings, sales of take-out Christmas dinners reflected demand for stay-at-home services. One new Shibuya hotel saw an upswing in reservations, with some rooms repurposed for use as workspace. But now coronavirus cases in Tokyo are rising rapidly, forcing the government to make a difficult decision.",
+      "description": "A government campaign has meant better banquet sales for older Tokyo hotels, and more reservations for a new Shibuya facility. But rising coronavirus cases mean facing a difficult decision to make.",
+      "endDate": "2020-12-30T00:45:00.000Z",
+      "link": "https://mega.nz/folder/b9cmAbxT#hfJaaBDCVgdgbJO5YAAhDQ",
+      "recordDateEnd": "2020-12-30T00:45:32.254Z",
+      "recordDateStart": "2020-12-30T00:29:20.099Z",
+      "seriesId": "3019",
+      "sha256": "ff55127f67c9c6c15be6e2f23aaec37165e3297c13c62a9a53ba3dbb5a25737c",
+      "startDate": "2020-12-30T00:30:00.000Z",
+      "subtitle": "Starting Over: Hotels Old and New Part 2",
+      "title": "15 Minutes",
+      "uploadedDate": "2020-12-30T01:25:18.049Z"
     },
     {
       "airingId": "123",
