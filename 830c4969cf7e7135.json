@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-30T04:05:02.913Z",
+  "lastUpdated": "2020-12-30T04:15:03.984Z",
   "seriesId": "2074,3004",
   "title": "BIZ STREAM",
   "episodes": [
@@ -194,6 +194,22 @@
       "title": "BIZ STREAM",
       "uploadedDate": "2020-12-29T05:45:43.404Z",
       "raw": "https://mega.nz/folder/G0lFiIbK#kVp-j9IlN7gR6brT8DzF-w"
+    },
+    {
+      "airingId": "711",
+      "content": "[BIZ STREAM SPECIAL EDITION]\nThis series of special editions feature selected stories from BIZ STREAM's signature \"On-Site\" reports. This episode looks at how unintended results and accidental discoveries during the research and development process can sometimes lead to new applications. We feature cold storage technology that was developed during research on liquid crystal displays and a porous odor adsorbent carbon material which was created while trying to improve lithium-ion battery performance.",
+      "description": "From cold storage technology to odor absorbent material, this special edition of Biz Stream looks at how unintended results during the research and development process can lead to new applications.",
+      "endDate": "2020-12-30T02:23:00.000Z",
+      "link": "https://mega.nz/folder/sg9XRC4R#sV7UWN3qT-9rrMAJ5Agf_A",
+      "recordDateEnd": "2020-12-30T02:23:31.326Z",
+      "recordDateStart": "2020-12-30T02:09:20.119Z",
+      "seriesId": "3004",
+      "sha256": "1539608d47c4f875e9870f38cc8c0a6915ee61eb2fffb5a9907aa1fb89acea4e",
+      "startDate": "2020-12-30T02:10:00.000Z",
+      "subtitle": "Adventitious Advances in R&D",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2020-12-30T04:11:49.387Z",
+      "raw": "https://mega.nz/folder/q01zRIQA#ht65uBWWnOD0Kd0DVhv42w"
     }
   ]
 }
