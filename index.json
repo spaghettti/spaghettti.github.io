@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-30T04:50:03.102Z",
+  "lastUpdated": "2020-12-30T05:55:03.329Z",
   "series": [
     {
       "count": 11,
@@ -426,20 +426,12 @@
       "title": "Japan Railway Journal"
     },
     {
-      "count": 3,
+      "count": 4,
       "uniqueId": "d44004cd2f812344",
-      "lastAiring": "2020-12-29T01:20:00.000Z",
-      "lastUpload": "2020-12-29T23:27:46.497Z",
-      "seriesId": "3004",
-      "title": "JAPAN SPORTSCOPE"
-    },
-    {
-      "count": 1,
-      "uniqueId": "012b21e3fb11400f",
       "lastAiring": "2020-12-30T01:20:00.000Z",
       "lastUpload": "2020-12-30T02:24:59.621Z",
       "seriesId": "3004",
-      "title": "JAPAN SPORTSCOPE \"BMX\""
+      "title": "JAPAN SPORTSCOPE"
     },
     {
       "count": 6,

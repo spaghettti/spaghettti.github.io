@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-30T04:50:03.097Z</lastUpdated>
+  <lastUpdated>2020-12-30T05:55:03.325Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -427,20 +427,12 @@
     <title>Japan Railway Journal</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>d44004cd2f812344</uniqueId>
-    <lastAiring>2020-12-29T01:20:00.000Z</lastAiring>
-    <lastUpload>2020-12-29T23:27:46.497Z</lastUpload>
-    <seriesId>3004</seriesId>
-    <title>JAPAN SPORTSCOPE</title>
-  </series>
-  <series>
-    <count>1</count>
-    <uniqueId>012b21e3fb11400f</uniqueId>
     <lastAiring>2020-12-30T01:20:00.000Z</lastAiring>
     <lastUpload>2020-12-30T02:24:59.621Z</lastUpload>
     <seriesId>3004</seriesId>
-    <title>JAPAN SPORTSCOPE "BMX"</title>
+    <title>JAPAN SPORTSCOPE</title>
   </series>
   <series>
     <count>6</count>
