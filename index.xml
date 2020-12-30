@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-30T06:40:02.895Z</lastUpdated>
+  <lastUpdated>2020-12-30T07:25:02.934Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -531,10 +531,10 @@
     <title>Moonlit Nights - Superb Scenes of Japan</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>98fe604353582b62</uniqueId>
-    <lastAiring>2020-12-29T07:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-29T08:09:42.038Z</lastUpload>
+    <lastAiring>2020-12-30T07:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-30T07:22:57.872Z</lastUpload>
     <seriesId>6029</seriesId>
     <title>Muscles for All!</title>
   </series>
