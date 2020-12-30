@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:03.100Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.748Z</lastUpdated>
   <seriesId>3bee8422e8005b98</seriesId>
   <title>PythagoraSwitch mini</title>
   <episode>
@@ -53,6 +53,22 @@
     <raw>https://mega.nz/folder/M01W3RLC#6D1mH6bmcujwqoJf7PblgA</raw>
   </episode>
   <episode>
+    <airingId>017</airingId>
+    <content/>
+    <description>There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time "See the Wiggle Men!"...</description>
+    <endDate>2020-12-05T04:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/boUGnBYb#XlOIVmqgoX-UDIkY3YzhQQ</link>
+    <recordDateEnd>2020-12-05T04:00:28.335Z</recordDateEnd>
+    <recordDateStart>2020-12-05T03:54:20.002Z</recordDateStart>
+    <seriesId>6021</seriesId>
+    <sha256>d1f51017f56378b50f4006ae6a4076c9beadd0afce9d3102e137db3c377aa662</sha256>
+    <startDate>2020-12-05T03:55:00.000Z</startDate>
+    <subtitle/>
+    <title>PythagoraSwitch mini</title>
+    <uploadedDate>2020-12-24T17:54:50.251Z</uploadedDate>
+    <raw>https://mega.nz/folder/jUlwjTSS#QtPNG12SV3UNzHMkazbSRg</raw>
+  </episode>
+  <episode>
     <airingId>018</airingId>
     <content/>
     <description>There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time "Nendore Nandore Mr. Clay!"...</description>
@@ -82,6 +98,7 @@
     <subtitle/>
     <title>PythagoraSwitch mini</title>
     <uploadedDate>2020-12-24T17:53:04.258Z</uploadedDate>
+    <raw>https://mega.nz/folder/Nw1GSbiA#rEhZ2xmTmHiQ46mOhbNwmg</raw>
   </episode>
   <episode>
     <airingId>021</airingId>
@@ -97,5 +114,6 @@
     <subtitle/>
     <title>PythagoraSwitch mini</title>
     <uploadedDate>2020-12-28T23:04:15.721Z</uploadedDate>
+    <raw>https://mega.nz/folder/i0tBVCDI#tclxyEl_I2l9DCxS66dI7Q</raw>
   </episode>
 </episodeList>

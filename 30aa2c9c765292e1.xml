@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:03.134Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.788Z</lastUpdated>
   <seriesId>30aa2c9c765292e1</seriesId>
   <title>Inspiring Landscapes</title>
+  <episode>
+    <airingId>032</airingId>
+    <content/>
+    <description>Oirase Mountain Stream - where the forest and the water flow are in perfect harmony. Let's  take a look at the scenes from early summer to winter.</description>
+    <endDate>2020-12-20T16:47:00.000Z</endDate>
+    <link>https://mega.nz/folder/HZdzRCSZ#f2sWx4PZ4L1Ey0_aczuTkw</link>
+    <recordDateEnd>2020-12-20T16:48:02.822Z</recordDateEnd>
+    <recordDateStart>2020-12-20T16:29:20.100Z</recordDateStart>
+    <seriesId>6206</seriesId>
+    <sha256>941849459feec1ea7223b3548069fc6523007ddbdbbdf0bb23584672f332aeb7</sha256>
+    <startDate>2020-12-20T16:30:00.000Z</startDate>
+    <subtitle/>
+    <title>Inspiring Landscapes</title>
+    <uploadedDate>2020-12-25T02:55:59.897Z</uploadedDate>
+    <raw>https://mega.nz/folder/W9dFwaiL#SfxcQAGDhRDOyvyeRfDeMg</raw>
+  </episode>
   <episode>
     <airingId>039</airingId>
     <content/>
@@ -18,6 +34,7 @@
     <subtitle/>
     <title>Inspiring Landscapes</title>
     <uploadedDate>2020-12-25T17:58:51.977Z</uploadedDate>
+    <raw>https://mega.nz/folder/QJt2XQza#NkmYu1sOLCJJylxFNwyD_w</raw>
   </episode>
   <episode>
     <airingId>043</airingId>
@@ -50,6 +67,22 @@
     <title>Inspiring Landscapes</title>
     <uploadedDate>2020-12-25T18:07:44.328Z</uploadedDate>
     <raw>https://mega.nz/folder/PQslyYoK#L1ZKvbSjE7cArx0nnaqvSw</raw>
+  </episode>
+  <episode>
+    <airingId>046</airingId>
+    <content/>
+    <description>No fewer than 700 species of saltwater and freshwater fish and shellfish, including phantasmal crabs with huge claws, are all part of the special brackish water environment of Lake Hamana.</description>
+    <endDate>2020-11-29T16:47:00.000Z</endDate>
+    <link>https://mega.nz/folder/ABkURZrS#4WAvvgG-T-OJoZWPKMkcEg</link>
+    <recordDateEnd>2020-11-29T16:47:26.592Z</recordDateEnd>
+    <recordDateStart>2020-11-29T16:29:20.101Z</recordDateStart>
+    <seriesId>6206</seriesId>
+    <sha256>1d428ff41ef7f66b9e84f3f6898295de356c7b12eb240b41d7f815d3a3ce34fe</sha256>
+    <startDate>2020-11-29T16:30:00.000Z</startDate>
+    <subtitle/>
+    <title>Inspiring Landscapes</title>
+    <uploadedDate>2020-12-25T02:39:13.684Z</uploadedDate>
+    <raw>https://mega.nz/folder/xR80XD6J#sJ9fHr3KTszQVuhwv7LqPg</raw>
   </episode>
   <episode>
     <airingId>063</airingId>

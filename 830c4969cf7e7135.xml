@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:03.142Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.795Z</lastUpdated>
   <seriesId>830c4969cf7e7135</seriesId>
   <title>BIZ STREAM</title>
   <episode>
@@ -65,6 +65,7 @@ The popularity of Japan as a tourist destination had been growing steadily in th
     <subtitle>Designing for Disabilities</subtitle>
     <title>BIZ STREAM</title>
     <uploadedDate>2020-12-26T08:17:25.549Z</uploadedDate>
+    <raw>https://mega.nz/folder/y48F0ABI#2fsfVovlaP1N8aWmnk4AXQ</raw>
   </episode>
   <episode>
     <airingId>088</airingId>
@@ -107,6 +108,23 @@ A growing number of companies in Sweden are finding success in sustainability. W
     <title>BIZ STREAM</title>
     <uploadedDate>2020-12-26T07:31:26.489Z</uploadedDate>
     <raw>https://mega.nz/folder/718AyaSb#ymDDQ35jr4NzQEqhPm-f5w</raw>
+  </episode>
+  <episode>
+    <airingId>704</airingId>
+    <content>[BIZ STREAM SPECIAL EDITION]
+This series of special editions feature selected stories from BIZ STREAM's signature "On-Site" reports. As the pandemic approaches the one-year mark, the way many people live and work has changed drastically. In Japan, a new type of share house system has been introduced that allows customers to rotate between several locations all over the country. The company's business model is also attracting attention as one way to make use of the increasing amount of vacant housing in Japan's rural areas.</content>
+    <description>This special edition features a business that converts vacant properties in scenic rural areas across Japan into share houses that tenants can rotate between.</description>
+    <endDate>2020-12-21T02:23:00.000Z</endDate>
+    <link>https://mega.nz/folder/vZNm0LpT#1uxyCIuUIpn_J-V6daLIGw</link>
+    <recordDateEnd>2020-12-21T02:24:00.902Z</recordDateEnd>
+    <recordDateStart>2020-12-21T02:09:20.103Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>951e8af278ba329d3a4f23bcde8de5a023bbe6b1611f79ec7c32eb975dddbc5e</sha256>
+    <startDate>2020-12-21T02:10:00.000Z</startDate>
+    <subtitle>Getting a New Lease on Life During the Pandemic</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2020-12-26T06:28:32.933Z</uploadedDate>
+    <raw>https://mega.nz/folder/981ARKiL#IM4kPRqQiabwvUVO1j4nSQ</raw>
   </episode>
   <episode>
     <airingId>705</airingId>
@@ -177,6 +195,23 @@ This series of special editions feature selected stories from BIZ STREAM's signa
     <raw>https://mega.nz/folder/6l802CDS#2asu-7sNLEODKnlrmlWs6A</raw>
   </episode>
   <episode>
+    <airingId>709</airingId>
+    <content>[BIZ STREAM SPECIAL EDITION]
+This series of special editions feature selected stories from BIZ STREAM's signature "On-Site" reports. This episode examines how technology could play a key role in saving Japan's struggling agriculture industry. One company is drawing attention for its AI-driven robots, which are assisting farmers with harvesting produce. Another business is hoping that its online matching service will bring much needed short-term workers from across the country to assist farmers in need of support.</content>
+    <description>Japan is facing a major lack of farmers. This special edition explores how an online matching service and specially designed harvesting robots may be the key to saving the agriculture industry.</description>
+    <endDate>2020-12-28T02:23:00.000Z</endDate>
+    <link>https://mega.nz/folder/NVZSWTYB#ML4lOJC4-Lg21gPjuwpO3w</link>
+    <recordDateEnd>2020-12-28T02:23:32.396Z</recordDateEnd>
+    <recordDateStart>2020-12-28T02:09:20.098Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>512c11b48d860453314c3ab4c55a6e1b0e0b90c16e249698809aca397e6bf963</sha256>
+    <startDate>2020-12-28T02:10:00.000Z</startDate>
+    <subtitle>Solving Farmer Shortage with Technology</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2020-12-28T22:24:43.411Z</uploadedDate>
+    <raw>https://mega.nz/folder/1lFQRRKT#GzxNBWPpb704NsiK6X5wEA</raw>
+  </episode>
+  <episode>
     <airingId>710</airingId>
     <content>[BIZ STREAM SPECIAL EDITION]
 This series of special editions feature selected stories from BIZ STREAM's signature "On-Site" reports. "Clean Water and Sanitation" is one of the 17 sustainable development goals set forth by the United Nations. This episode features 2 Japanese companies that have made it their mission to find ways to conserve on water usage. One company has created a recycling system that makes up to 98% of household water reusable, and the other has developed an automated cultivation system that uses solar heat to grow crops with small amounts of water.</content>
@@ -191,5 +226,6 @@ This series of special editions feature selected stories from BIZ STREAM's signa
     <subtitle>Making Every Drop Count</subtitle>
     <title>BIZ STREAM</title>
     <uploadedDate>2020-12-29T05:45:43.404Z</uploadedDate>
+    <raw>https://mega.nz/folder/G0lFiIbK#kVp-j9IlN7gR6brT8DzF-w</raw>
   </episode>
 </episodeList>

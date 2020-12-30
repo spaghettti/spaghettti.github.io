@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:03.131Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.785Z</lastUpdated>
   <seriesId>f2fee2555c450616</seriesId>
   <title>JAPANGLE</title>
   <episode>
@@ -34,6 +34,7 @@
     <subtitle>Manga</subtitle>
     <title>JAPANGLE</title>
     <uploadedDate>2020-12-26T05:51:35.367Z</uploadedDate>
+    <raw>https://mega.nz/folder/dNBAnZLR#Oold5HMY-TzuwErl5LgTeA</raw>
   </episode>
   <episode>
     <airingId>003</airingId>
@@ -68,6 +69,22 @@
     <raw>https://mega.nz/folder/H0k0QCoa#yZKApWBmeekVCtQpZK5sHw</raw>
   </episode>
   <episode>
+    <airingId>005</airingId>
+    <content/>
+    <description>JAPANGLE is a series of educational entertainment programs that put a spotlight on various aspects of Japan. This episode is Packaging.</description>
+    <endDate>2020-12-25T05:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/PRMVhIrI#5Gx2a_EQBP4iddfbwD_w4Q</link>
+    <recordDateEnd>2020-12-25T05:30:34.917Z</recordDateEnd>
+    <recordDateStart>2020-12-25T05:09:20.098Z</recordDateStart>
+    <seriesId>6200</seriesId>
+    <sha256>40a3aa2bb30ffb09b7d33ffd91de1bf8e83c675a7f0a9b43463d38cd111a30b4</sha256>
+    <startDate>2020-12-25T05:10:00.000Z</startDate>
+    <subtitle>Packaging</subtitle>
+    <title>JAPANGLE</title>
+    <uploadedDate>2020-12-25T15:21:10.534Z</uploadedDate>
+    <raw>https://mega.nz/folder/mkNkGTBB#BUpJxTTnpq7gaBs6_q839Q</raw>
+  </episode>
+  <episode>
     <airingId>006</airingId>
     <content/>
     <description>JAPANGLE is a series of educational entertainment programs that put a spotlight on various aspects of Japan. This episode is Ramen Noodles.</description>
@@ -84,6 +101,38 @@
     <raw>https://mega.nz/folder/eZkEAS6S#jBB-mshPU4CNaurHB6id5w</raw>
   </episode>
   <episode>
+    <airingId>008</airingId>
+    <content/>
+    <description>JAPANGLE is a series of educational entertainment programs that put a spotlight on various aspects of Japan. This episode is Sweets and snacks.</description>
+    <endDate>2020-11-22T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/C0cFDQzL#Rkxf0hvHtgXmzebLcZwENg</link>
+    <recordDateEnd>2020-11-22T07:30:29.593Z</recordDateEnd>
+    <recordDateStart>2020-11-22T07:09:20.063Z</recordDateStart>
+    <seriesId>6200</seriesId>
+    <sha256>523a2efc612168fabc29abd12f009d7c59f5a03cfa9ac6a40c9ae98837d21018</sha256>
+    <startDate>2020-11-22T07:10:00.000Z</startDate>
+    <subtitle>Sweets and snacks</subtitle>
+    <title>JAPANGLE</title>
+    <uploadedDate>2020-12-25T02:09:44.715Z</uploadedDate>
+    <raw>https://mega.nz/folder/DoN3hCyY#XkpIbGYEtdhOJbt8CserFQ</raw>
+  </episode>
+  <episode>
+    <airingId>010</airingId>
+    <content/>
+    <description>"JAPANGLE" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. The episode "Water" focuses on water in Japan.</description>
+    <endDate>2020-12-06T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Y4tglThL#LO35Ep9w1J-ZnFJH9cp39g</link>
+    <recordDateEnd>2020-12-06T03:00:26.799Z</recordDateEnd>
+    <recordDateStart>2020-12-06T02:39:20.068Z</recordDateStart>
+    <seriesId>6200</seriesId>
+    <sha256>74aa1bed0fd2c471cc6133009d01c49ca44859b9aa184f3c411ecad2bdd49c37</sha256>
+    <startDate>2020-12-06T02:40:00.000Z</startDate>
+    <subtitle>Water</subtitle>
+    <title>JAPANGLE</title>
+    <uploadedDate>2020-12-25T02:01:06.169Z</uploadedDate>
+    <raw>https://mega.nz/folder/w8lmnYjY#eTkqBKlIBRFH6NFXsZkBPw</raw>
+  </episode>
+  <episode>
     <airingId>011</airingId>
     <content/>
     <description>"JAPANGLE" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. The episode "Rice" focuses on the culture and craft behind Japanese rice.</description>
@@ -97,5 +146,38 @@
     <subtitle>Rice</subtitle>
     <title>JAPANGLE</title>
     <uploadedDate>2020-12-25T01:53:49.121Z</uploadedDate>
+    <raw>https://mega.nz/folder/g8dRzIIZ#9zKU-JMl6eOGT2ztsKRJxw</raw>
+  </episode>
+  <episode>
+    <airingId>012</airingId>
+    <content/>
+    <description>"JAPANGLE" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. This episode is "Japanese-style Room."</description>
+    <endDate>2020-12-20T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/NQtQwLxY#gGXcR7TxeUmGYTpbHeuRYA</link>
+    <recordDateEnd>2020-12-20T03:01:05.971Z</recordDateEnd>
+    <recordDateStart>2020-12-20T02:39:20.064Z</recordDateStart>
+    <seriesId>6200</seriesId>
+    <sha256>621fa1c19d9f77faf5b9cdc7d4eebdcca8554696c1381f3d57f99a3808971b54</sha256>
+    <startDate>2020-12-20T02:40:00.000Z</startDate>
+    <subtitle>Japanese-style Room</subtitle>
+    <title>JAPANGLE</title>
+    <uploadedDate>2020-12-25T01:48:15.501Z</uploadedDate>
+    <raw>https://mega.nz/folder/RRwgVIDQ#fQDkZsZf9Zysc8Xt0NTnhQ</raw>
+  </episode>
+  <episode>
+    <airingId>013</airingId>
+    <content/>
+    <description>"JAPANGLE" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. This episode is School.</description>
+    <endDate>2020-12-27T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/kdkRAAJR#Pq__nOk5hOFthITZGueZXw</link>
+    <recordDateEnd>2020-12-27T03:00:21.970Z</recordDateEnd>
+    <recordDateStart>2020-12-27T02:39:22.645Z</recordDateStart>
+    <seriesId>6200</seriesId>
+    <sha256>f0e0c62860293b46d23401ab5cb0d22387ba08115438bd15c2a7e742aadfc127</sha256>
+    <startDate>2020-12-27T02:40:00.000Z</startDate>
+    <subtitle/>
+    <title>JAPANGLE</title>
+    <uploadedDate>2020-12-28T23:18:19.174Z</uploadedDate>
+    <raw>https://mega.nz/folder/ttt2RT7T#VMfd_vQbPMGnmvxeNuTkUA</raw>
   </episode>
 </episodeList>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T23:30:03.132Z",
+  "lastUpdated": "2020-12-30T00:05:02.786Z",
   "seriesId": "6200",
   "title": "JAPANGLE",
   "episodes": [
@@ -32,7 +32,8 @@
       "startDate": "2020-12-22T05:10:00.000Z",
       "subtitle": "Manga",
       "title": "JAPANGLE",
-      "uploadedDate": "2020-12-26T05:51:35.367Z"
+      "uploadedDate": "2020-12-26T05:51:35.367Z",
+      "raw": "https://mega.nz/folder/dNBAnZLR#Oold5HMY-TzuwErl5LgTeA"
     },
     {
       "airingId": "003",
@@ -67,6 +68,22 @@
       "raw": "https://mega.nz/folder/H0k0QCoa#yZKApWBmeekVCtQpZK5sHw"
     },
     {
+      "airingId": "005",
+      "content": "",
+      "description": "JAPANGLE is a series of educational entertainment programs that put a spotlight on various aspects of Japan. This episode is Packaging.",
+      "endDate": "2020-12-25T05:30:00.000Z",
+      "link": "https://mega.nz/folder/PRMVhIrI#5Gx2a_EQBP4iddfbwD_w4Q",
+      "recordDateEnd": "2020-12-25T05:30:34.917Z",
+      "recordDateStart": "2020-12-25T05:09:20.098Z",
+      "seriesId": "6200",
+      "sha256": "40a3aa2bb30ffb09b7d33ffd91de1bf8e83c675a7f0a9b43463d38cd111a30b4",
+      "startDate": "2020-12-25T05:10:00.000Z",
+      "subtitle": "Packaging",
+      "title": "JAPANGLE",
+      "uploadedDate": "2020-12-25T15:21:10.534Z",
+      "raw": "https://mega.nz/folder/mkNkGTBB#BUpJxTTnpq7gaBs6_q839Q"
+    },
+    {
       "airingId": "006",
       "content": "",
       "description": "JAPANGLE is a series of educational entertainment programs that put a spotlight on various aspects of Japan. This episode is Ramen Noodles.",
@@ -83,6 +100,38 @@
       "raw": "https://mega.nz/folder/eZkEAS6S#jBB-mshPU4CNaurHB6id5w"
     },
     {
+      "airingId": "008",
+      "content": "",
+      "description": "JAPANGLE is a series of educational entertainment programs that put a spotlight on various aspects of Japan. This episode is Sweets and snacks.",
+      "endDate": "2020-11-22T07:30:00.000Z",
+      "link": "https://mega.nz/folder/C0cFDQzL#Rkxf0hvHtgXmzebLcZwENg",
+      "recordDateEnd": "2020-11-22T07:30:29.593Z",
+      "recordDateStart": "2020-11-22T07:09:20.063Z",
+      "seriesId": "6200",
+      "sha256": "523a2efc612168fabc29abd12f009d7c59f5a03cfa9ac6a40c9ae98837d21018",
+      "startDate": "2020-11-22T07:10:00.000Z",
+      "subtitle": "Sweets and snacks",
+      "title": "JAPANGLE",
+      "uploadedDate": "2020-12-25T02:09:44.715Z",
+      "raw": "https://mega.nz/folder/DoN3hCyY#XkpIbGYEtdhOJbt8CserFQ"
+    },
+    {
+      "airingId": "010",
+      "content": "",
+      "description": "\"JAPANGLE\" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. The episode \"Water\" focuses on water in Japan.",
+      "endDate": "2020-12-06T03:00:00.000Z",
+      "link": "https://mega.nz/folder/Y4tglThL#LO35Ep9w1J-ZnFJH9cp39g",
+      "recordDateEnd": "2020-12-06T03:00:26.799Z",
+      "recordDateStart": "2020-12-06T02:39:20.068Z",
+      "seriesId": "6200",
+      "sha256": "74aa1bed0fd2c471cc6133009d01c49ca44859b9aa184f3c411ecad2bdd49c37",
+      "startDate": "2020-12-06T02:40:00.000Z",
+      "subtitle": "Water",
+      "title": "JAPANGLE",
+      "uploadedDate": "2020-12-25T02:01:06.169Z",
+      "raw": "https://mega.nz/folder/w8lmnYjY#eTkqBKlIBRFH6NFXsZkBPw"
+    },
+    {
       "airingId": "011",
       "content": "",
       "description": "\"JAPANGLE\" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. The episode \"Rice\" focuses on the culture and craft behind Japanese rice.",
@@ -95,7 +144,40 @@
       "startDate": "2020-12-13T02:40:00.000Z",
       "subtitle": "Rice",
       "title": "JAPANGLE",
-      "uploadedDate": "2020-12-25T01:53:49.121Z"
+      "uploadedDate": "2020-12-25T01:53:49.121Z",
+      "raw": "https://mega.nz/folder/g8dRzIIZ#9zKU-JMl6eOGT2ztsKRJxw"
+    },
+    {
+      "airingId": "012",
+      "content": "",
+      "description": "\"JAPANGLE\" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. This episode is \"Japanese-style Room.\"",
+      "endDate": "2020-12-20T03:00:00.000Z",
+      "link": "https://mega.nz/folder/NQtQwLxY#gGXcR7TxeUmGYTpbHeuRYA",
+      "recordDateEnd": "2020-12-20T03:01:05.971Z",
+      "recordDateStart": "2020-12-20T02:39:20.064Z",
+      "seriesId": "6200",
+      "sha256": "621fa1c19d9f77faf5b9cdc7d4eebdcca8554696c1381f3d57f99a3808971b54",
+      "startDate": "2020-12-20T02:40:00.000Z",
+      "subtitle": "Japanese-style Room",
+      "title": "JAPANGLE",
+      "uploadedDate": "2020-12-25T01:48:15.501Z",
+      "raw": "https://mega.nz/folder/RRwgVIDQ#fQDkZsZf9Zysc8Xt0NTnhQ"
+    },
+    {
+      "airingId": "013",
+      "content": "",
+      "description": "\"JAPANGLE\" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. This episode is School.",
+      "endDate": "2020-12-27T03:00:00.000Z",
+      "link": "https://mega.nz/folder/kdkRAAJR#Pq__nOk5hOFthITZGueZXw",
+      "recordDateEnd": "2020-12-27T03:00:21.970Z",
+      "recordDateStart": "2020-12-27T02:39:22.645Z",
+      "seriesId": "6200",
+      "sha256": "f0e0c62860293b46d23401ab5cb0d22387ba08115438bd15c2a7e742aadfc127",
+      "startDate": "2020-12-27T02:40:00.000Z",
+      "subtitle": "",
+      "title": "JAPANGLE",
+      "uploadedDate": "2020-12-28T23:18:19.174Z",
+      "raw": "https://mega.nz/folder/ttt2RT7T#VMfd_vQbPMGnmvxeNuTkUA"
     }
   ]
 }

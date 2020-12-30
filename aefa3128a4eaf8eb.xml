@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:03.075Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.719Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>Somewhere Street</title>
     <uploadedDate>2020-12-28T00:00:55.161Z</uploadedDate>
     <raw>https://mega.nz/folder/59EBQSba#acaXOKcpGARa8t-yxAAG0w</raw>
+  </episode>
+  <episode>
+    <airingId>082</airingId>
+    <content>Centrally located with an easily accessible port, Vietnam's Da Nang is one of the country's most popular beach resorts. During the Vietnam War, it served as an important base of operations for the U.S. Forces until the war ended in 1975. The city experienced difficulty with its recovery after the war, until the year 2000, when the city was redeveloped as a beach resort. Da Nang is now a dream vacation spot for international travelers. In this episode we walk around exploring the Da Nang, meeting its inhabitants who love their traditions and are also delighted with the new face of the city.</content>
+    <description>A recent development boom has contributed to Da Nang's rise as one of Vietnam's most popular beach resorts. In this episode we explore the city while meeting with residents enjoying life in Da Nang.</description>
+    <endDate>2020-11-15T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/tAoTmYKB#uciPF_3Ph6dgH68MGtRuBA</link>
+    <recordDateEnd>2020-11-15T15:00:25.499Z</recordDateEnd>
+    <recordDateStart>2020-11-15T14:09:20.103Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>7b2e8a8bbbf6216175eeba73f1a6e0092a9bc983d2827288e6a8e890fbf357b1</sha256>
+    <startDate>2020-11-15T14:10:00.000Z</startDate>
+    <subtitle>Da Nang, Vietnam</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2020-12-24T09:27:28.463Z</uploadedDate>
+    <raw>https://mega.nz/folder/ZA1g3JLQ#NraimKbWEWsl19GkVldMuA</raw>
   </episode>
   <episode>
     <airingId>084</airingId>

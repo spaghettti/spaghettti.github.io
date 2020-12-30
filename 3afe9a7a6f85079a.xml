@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:03.122Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.772Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>Ukiyoe EDO-LIFE(1)</title>
     <uploadedDate>2020-12-24T02:26:54.722Z</uploadedDate>
     <raw>https://mega.nz/folder/3dFnxSBQ#3SEpcE2UvpxVltlqrre-CQ</raw>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>The top 3 geisha idol celebrities in Edo: Tomimoto Toyohina, Takashima Ohisa, and Naniwaya Kita. See how Kitagawa Utamaro, the master of female beauty has illustrated them so differently.</description>
+    <endDate>2020-11-17T06:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/C10yBToT#UaDAdFxK6D4un192q5p4iA</link>
+    <recordDateEnd>2020-11-17T06:30:33.401Z</recordDateEnd>
+    <recordDateStart>2020-11-17T06:22:20.100Z</recordDateStart>
+    <seriesId>6030</seriesId>
+    <sha256>948c15ed123e369c8d0f4e4470a1ffec16752c713ffc80db34219ff709c3335d</sha256>
+    <startDate>2020-11-17T06:23:00.000Z</startDate>
+    <subtitle/>
+    <title>Ukiyoe EDO-LIFE(2)</title>
+    <uploadedDate>2020-12-24T02:26:07.602Z</uploadedDate>
+    <raw>https://mega.nz/folder/ydtWmJwR#DJcRE6zkOIeki3VxeuzjRw</raw>
   </episode>
   <episode>
     <airingId>003</airingId>
@@ -117,6 +133,22 @@
     <raw>https://mega.nz/folder/Ls9WADKb#ZjuZrmyvhLNsU43B7Z7GHg</raw>
   </episode>
   <episode>
+    <airingId>009</airingId>
+    <content/>
+    <description>Caught in an evening shower, Edo townspeople scramble across a bridge in search of shelter. On the river beyond, a lone figure steers his boat, unfazed by the rain. What is his destination?</description>
+    <endDate>2020-11-23T12:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Q90kmRwT#OPHBeSpHgvUzlaWIxBKpZQ</link>
+    <recordDateEnd>2020-11-23T12:00:25.980Z</recordDateEnd>
+    <recordDateStart>2020-11-23T11:54:20.100Z</recordDateStart>
+    <seriesId>6030</seriesId>
+    <sha256>f0e807b9f5a56e74668a6652ba8d66f6b7b94abeeacff321c52f139bc3af45d8</sha256>
+    <startDate>2020-11-23T11:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Ukiyoe EDO-LIFE: Sudden Shower</title>
+    <uploadedDate>2020-12-24T01:53:57.604Z</uploadedDate>
+    <raw>https://mega.nz/folder/FE1EzZ5Y#-TFaySY1ii6IKhiF5iAkIw</raw>
+  </episode>
+  <episode>
     <airingId>010</airingId>
     <content/>
     <description>On those hot, humid summer nights, nothing can get in the way of sleep like mosquitoes on the hunt. We learn about the tools the Edo townspeople had at their disposal to fight the pesky insects.</description>
@@ -149,6 +181,22 @@
     <raw>https://mega.nz/folder/KhNREagQ#amZF-6WeXnDDIZ-8_tf0dQ</raw>
   </episode>
   <episode>
+    <airingId>012</airingId>
+    <content/>
+    <description>It's late at night, when all are fast asleep. A young man and woman huddle together along the veranda outside of a house, attending to a ... rooster. What could the pair be up to?</description>
+    <endDate>2020-11-26T06:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/7hNExZhT#sPkpJn57rzsSNIyVC7ctRA</link>
+    <recordDateEnd>2020-11-26T06:30:29.456Z</recordDateEnd>
+    <recordDateStart>2020-11-26T06:22:20.104Z</recordDateStart>
+    <seriesId>6030</seriesId>
+    <sha256>d025e95990b1ad5dbf9c6063406cafc5e6514c9fcc3bdef807001d242666c131</sha256>
+    <startDate>2020-11-26T06:23:00.000Z</startDate>
+    <subtitle/>
+    <title>Ukiyoe EDO-LIFE: A Secret Date</title>
+    <uploadedDate>2020-12-24T02:12:19.210Z</uploadedDate>
+    <raw>https://mega.nz/folder/GdtREQRQ#5udgCpcrOagiM_9CsdUuwg</raw>
+  </episode>
+  <episode>
     <airingId>013</airingId>
     <content/>
     <description>We visit one of the most famous cherry blossom spots in Edo. Flower viewing parties were for eating, drinking and making merry. It was also an opportunity for young men and women to mingle.</description>
@@ -163,6 +211,22 @@
     <title>Ukiyoe EDO-LIFE: A Spring Party</title>
     <uploadedDate>2020-12-24T02:13:45.138Z</uploadedDate>
     <raw>https://mega.nz/folder/TwMFzaqZ#B0OaY2ouvhQCvsiJhdRKpA</raw>
+  </episode>
+  <episode>
+    <airingId>014</airingId>
+    <content/>
+    <description>A series of doodles by the famous artist Utagawa Kuniyoshi turn out to be carefully considered depictions of the kabuki actors of the day. What kind of artistic statement was he trying to make?</description>
+    <endDate>2020-11-28T12:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/l1dk3T4a#PGt82T5qx47lKjpIS96O0Q</link>
+    <recordDateEnd>2020-11-28T12:00:26.110Z</recordDateEnd>
+    <recordDateStart>2020-11-28T11:54:20.102Z</recordDateStart>
+    <seriesId>6030</seriesId>
+    <sha256>6f7382b9ae29c0c3de628321ea5dc0e42e93ed3ff8549e897e929294f69ff657</sha256>
+    <startDate>2020-11-28T11:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Ukiyoe EDO-LIFE: Doodles or Ukiyoe</title>
+    <uploadedDate>2020-12-24T02:07:15.804Z</uploadedDate>
+    <raw>https://mega.nz/folder/asNF0IxK#dLCuhvFzPBzE6z1Oo85UVA</raw>
   </episode>
   <episode>
     <airingId>015</airingId>
@@ -227,6 +291,22 @@
     <title>Ukiyoe EDO-LIFE: Summer Delicacy</title>
     <uploadedDate>2020-12-24T01:51:28.467Z</uploadedDate>
     <raw>https://mega.nz/folder/RQ02xDLS#nOvyfDLCDkX85TyaG1p6wA</raw>
+  </episode>
+  <episode>
+    <airingId>019</airingId>
+    <content/>
+    <description>For a time during the Edo period, fireworks lit up the skies practically every night in the summer. It was a chance for women to dress up and let loose ... and grab the attention of male suitors.</description>
+    <endDate>2020-12-12T08:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/CpUxHYwT#5FAze2UV25ca7k2XcmY65Q</link>
+    <recordDateEnd>2020-12-12T08:55:27.756Z</recordDateEnd>
+    <recordDateStart>2020-12-12T08:49:20.098Z</recordDateStart>
+    <seriesId>6030</seriesId>
+    <sha256>d1f4e05029b87a3d39e8c6ff615fa526487bb4e5631bfc134e7077007562f22e</sha256>
+    <startDate>2020-12-12T08:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Ukiyoe EDO-LIFE: A Fashion Night</title>
+    <uploadedDate>2020-12-24T02:13:04.478Z</uploadedDate>
+    <raw>https://mega.nz/folder/3p12HTwR#a1bP7Uvnjva0eVWILhfHAA</raw>
   </episode>
   <episode>
     <airingId>020</airingId>

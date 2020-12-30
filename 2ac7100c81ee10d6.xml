@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:03.079Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.723Z</lastUpdated>
   <seriesId>2ac7100c81ee10d6</seriesId>
   <title>Lunch ON!</title>
   <episode>
@@ -22,6 +22,22 @@ In another segment, we visit the southernmost prefecture of Okinawa to meet a pu
     <raw>https://mega.nz/folder/JRpwgAgR#STjcGnTfFgE6YW-nyIwl3g</raw>
   </episode>
   <episode>
+    <airingId>141</airingId>
+    <content>We go to Toyama Prefecture, central Japan to visit a factory that makes fishcake called "kamaboko." Although "kamaboko" is eaten all across Japan, those made here are especially decorative, as the local culture is to give them to guests who come to weddings and other celebratory occasions. Fresh fish is ground down to paste at 5 in the morning, and the product is shipped out in the evening. As the workers start so early, lunchtime comes at around 8. We look at the bento lunches of the fishcake makers.</content>
+    <description>We go to a factory in central Japan that makes fishcake called "kamaboko." Kamaboko made here are decorative, as the local culture is to give them to guests who come to celebratory occasions.</description>
+    <endDate>2020-12-17T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/vp8GhTIA#L-y2Hti_GtniP5iL3wbFqA</link>
+    <recordDateEnd>2020-12-17T04:55:21.229Z</recordDateEnd>
+    <recordDateStart>2020-12-17T04:29:22.768Z</recordDateStart>
+    <seriesId>4023</seriesId>
+    <sha256>2ffa389ad65d79fd5bd99825f6942585a02247239edf7392b57316267e8de2a6</sha256>
+    <startDate>2020-12-17T04:30:00.000Z</startDate>
+    <subtitle>Lunch at the Fishcake Factory</subtitle>
+    <title>Lunch ON!</title>
+    <uploadedDate>2020-12-24T20:58:55.288Z</uploadedDate>
+    <raw>https://mega.nz/folder/6V8GxCzB#kWoDwxJRZcegycJ6EivTAQ</raw>
+  </episode>
+  <episode>
     <airingId>142</airingId>
     <content>We go to Shizuoka Prefecture, central Japan to visit a helicopter life flight team. The team consists of doctors, nurses, pilots, mechanics and dispatchers. They stand by at all times, ready to provide emergency care to patients in remote areas. For them, there's not a single second that can be wasted when a call comes in about a life that needs to be saved. When it comes to lunch, they eat when they can, but as soon as that call comes in, they jump right back into action.</content>
     <description>We go to central Japan to visit a helicopter life flight team that consists of doctors, nurses, pilots, mechanics and dispatchers. They stand by at all times, ready to save people in remote areas.</description>
@@ -35,6 +51,7 @@ In another segment, we visit the southernmost prefecture of Okinawa to meet a pu
     <subtitle>Lunchtime for the Life Flight Team</subtitle>
     <title>Lunch ON!</title>
     <uploadedDate>2020-12-24T05:37:55.705Z</uploadedDate>
+    <raw>https://mega.nz/folder/OlVQQbzQ#35mFkpAWUIvYJD7d9oNlNQ</raw>
   </episode>
   <episode>
     <airingId>155</airingId>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T23:30:03.137Z",
+  "lastUpdated": "2020-12-30T00:05:02.791Z",
   "seriesId": "6210",
   "title": "Japan-easy2",
   "episodes": [
@@ -16,7 +16,8 @@
       "startDate": "2020-11-15T11:25:00.000Z",
       "subtitle": "",
       "title": "Japan-easy2",
-      "uploadedDate": "2020-12-25T02:39:44.585Z"
+      "uploadedDate": "2020-12-25T02:39:44.585Z",
+      "raw": "https://mega.nz/folder/7V013QDY#ncIKLP3vVXGWXeVreYIsrg"
     },
     {
       "airingId": "110",
@@ -31,7 +32,8 @@
       "startDate": "2020-11-22T11:25:00.000Z",
       "subtitle": "",
       "title": "Japan-easy2",
-      "uploadedDate": "2020-12-25T02:50:41.772Z"
+      "uploadedDate": "2020-12-25T02:50:41.772Z",
+      "raw": "https://mega.nz/folder/K5lykb7J#SOIe1Ye-G9NFirWTt9YT-A"
     },
     {
       "airingId": "111",
@@ -48,6 +50,22 @@
       "title": "Japan-easy2",
       "uploadedDate": "2020-12-25T03:05:01.406Z",
       "raw": "https://mega.nz/folder/0Vg1ySyJ#CH5msItTz6ldx63CGZkjgA"
+    },
+    {
+      "airingId": "112",
+      "content": "",
+      "description": "Today, we'll learn how to say \"Does this bus go to Shibuya?\" in Japanese. Learn useful phrases and cool kanji! And you'll realize \"Japanese is easy\"!",
+      "endDate": "2020-12-06T11:40:00.000Z",
+      "link": "https://mega.nz/folder/2clWQBDY#3s0gMPGQIfeNsBYEC4Oq1w",
+      "recordDateEnd": "2020-12-06T11:40:26.578Z",
+      "recordDateStart": "2020-12-06T11:24:20.101Z",
+      "seriesId": "6210",
+      "sha256": "d239c3e6a6fdf0efda9d8eae0020e0f7bb911bd9e71a2aef3881e35d346436dc",
+      "startDate": "2020-12-06T11:25:00.000Z",
+      "subtitle": "",
+      "title": "Japan-easy2",
+      "uploadedDate": "2020-12-25T02:41:16.359Z",
+      "raw": "https://mega.nz/folder/lMsXgYDA#rG5EtSrki-uPX1R_YBEbng"
     },
     {
       "airingId": "113",

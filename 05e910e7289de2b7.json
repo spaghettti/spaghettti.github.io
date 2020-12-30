@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T23:30:03.127Z",
+  "lastUpdated": "2020-12-30T00:05:02.780Z",
   "seriesId": "6113",
   "title": "The Great Summits",
   "episodes": [
@@ -16,7 +16,24 @@
       "startDate": "2020-12-24T04:10:00.000Z",
       "subtitle": "",
       "title": "The Great Summits",
-      "uploadedDate": "2020-12-24T05:19:12.477Z"
+      "uploadedDate": "2020-12-24T05:19:12.477Z",
+      "raw": "https://mega.nz/folder/kU0j2Aga#5HV84vBOCUWaa3n3TTOFWg"
+    },
+    {
+      "airingId": "012",
+      "content": "",
+      "description": "\"The Great Summit\" presents you with breathtaking views and stories behind famous mountains around the world. Today: Climbing the highest peak in the tropics, Huascaran, the Andes.",
+      "endDate": "2020-12-25T04:20:00.000Z",
+      "link": "https://mega.nz/folder/18URQQaL#98qpEyEdmc_X6WoFHogL4A",
+      "recordDateEnd": "2020-12-25T04:20:23.497Z",
+      "recordDateStart": "2020-12-25T04:09:22.366Z",
+      "seriesId": "6113",
+      "sha256": "2618957fb38100b0f3cea984b74ab31c3dcfcc43aecd0bfa08435efd528ac04f",
+      "startDate": "2020-12-25T04:10:00.000Z",
+      "subtitle": "",
+      "title": "The Great Summits",
+      "uploadedDate": "2020-12-25T15:27:09.404Z",
+      "raw": "https://mega.nz/folder/xNAUAJhA#AqZUm5DSwNjiy4SEldkjRg"
     },
     {
       "airingId": "013",
@@ -51,6 +68,22 @@
       "raw": "https://mega.nz/folder/dAtiVbZY#cQu2U21VFV2qVVhrjEhJjA"
     },
     {
+      "airingId": "015",
+      "content": "",
+      "description": "\"The Great Summit\" presents you with breathtaking views and stories behind famous mountains around the world. Today: Seaking Cities of Gold, Huascaran, the Andes.",
+      "endDate": "2020-11-23T01:30:00.000Z",
+      "link": "https://mega.nz/folder/acsCnaTb#_akFD11FIM4reY7gkmNKlw",
+      "recordDateEnd": "2020-11-23T01:30:26.198Z",
+      "recordDateStart": "2020-11-23T01:19:20.004Z",
+      "seriesId": "6113",
+      "sha256": "5570d05e84adbf346bb1559e204fdcc9d114bcbefd9891e82aa97ec3924ba9a2",
+      "startDate": "2020-11-23T01:20:00.000Z",
+      "subtitle": "",
+      "title": "The Great Summits",
+      "uploadedDate": "2020-12-24T07:27:42.798Z",
+      "raw": "https://mega.nz/folder/pkk2GC4T#dPMtj6l71nV7cwfDF20hzA"
+    },
+    {
       "airingId": "023",
       "content": "",
       "description": "\"The Great Summit\" presents you with breathtaking views and stories behind famous mountains around the world. Today: Mer de Glace, Mont Blanc in the Alps.",
@@ -65,6 +98,22 @@
       "title": "The Great Summits",
       "uploadedDate": "2020-12-28T22:00:06.422Z",
       "raw": "https://mega.nz/folder/4E5BTKRL#DV909CEdpF8G6KtMd5NnFg"
+    },
+    {
+      "airingId": "024",
+      "content": "",
+      "description": "\"The Great Summit\" presents you with breathtaking views and stories behind famous mountains around the world. Today: A hut supporting mountaineers, Mont Blanc in the Alps.",
+      "endDate": "2020-12-29T04:20:00.000Z",
+      "link": "https://mega.nz/folder/kRsRFSpS#pkb4r0V9a28DJ24gEa4-1A",
+      "recordDateEnd": "2020-12-29T04:20:22.249Z",
+      "recordDateStart": "2020-12-29T04:09:22.645Z",
+      "seriesId": "6113",
+      "sha256": "c162eb3d1f6b18d1308bd5dcb80a2ae3d35cb213caaacbbcf5f0737707842f29",
+      "startDate": "2020-12-29T04:10:00.000Z",
+      "subtitle": "",
+      "title": "The Great Summits",
+      "uploadedDate": "2020-12-29T05:22:36.913Z",
+      "raw": "https://mega.nz/folder/e50RGKJI#Z-vosuqEhX8Gf4a26Zskcw"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T23:30:03.098Z",
+  "lastUpdated": "2020-12-30T00:05:02.747Z",
   "seriesId": "6014",
   "title": "Your Japanese Kitchen mini",
   "episodes": [
@@ -32,7 +32,8 @@
       "startDate": "2020-12-18T17:10:00.000Z",
       "subtitle": "",
       "title": "Your Japanese Kitchen mini",
-      "uploadedDate": "2020-12-24T00:27:46.685Z"
+      "uploadedDate": "2020-12-24T00:27:46.685Z",
+      "raw": "https://mega.nz/folder/rZsiiQTA#vrhBkumRI9s785wfewWcRg"
     },
     {
       "airingId": "003",
@@ -65,6 +66,38 @@
       "title": "Your Japanese Kitchen mini",
       "uploadedDate": "2020-12-24T00:24:07.288Z",
       "raw": "https://mega.nz/folder/oVlkGDpY#5kzxiBXD6z1pUmi0_ktUtw"
+    },
+    {
+      "airingId": "013",
+      "content": "",
+      "description": "Each edition of this five-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from \"Your Japanese Kitchen\". Today: Chicken Nuggets.",
+      "endDate": "2020-11-22T01:55:00.000Z",
+      "link": "https://mega.nz/folder/uVsFmISB#cOgDYDR43Gw29kZ8m8OSDw",
+      "recordDateEnd": "2020-11-22T01:55:27.607Z",
+      "recordDateStart": "2020-11-22T01:49:20.101Z",
+      "seriesId": "6014",
+      "sha256": "adf0e4b82c621483288ef2dd6d45c9940d087857456acef80cd53dbda3f6912e",
+      "startDate": "2020-11-22T01:50:00.000Z",
+      "subtitle": "",
+      "title": "Your Japanese Kitchen mini",
+      "uploadedDate": "2020-12-24T00:15:02.519Z",
+      "raw": "https://mega.nz/folder/1JogWSLQ#ByLBn7YjH8289DhQ0En_iQ"
+    },
+    {
+      "airingId": "014",
+      "content": "",
+      "description": "Each edition of this 5-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from \"Your Japanese Kitchen\". Today: Tonjiru - Pork and Vegetable Miso Soup.",
+      "endDate": "2020-11-26T05:00:00.000Z",
+      "link": "https://mega.nz/folder/tMNnVSiZ#GYoo0yF8gMWmKR-4jM-36g",
+      "recordDateEnd": "2020-11-26T05:00:26.298Z",
+      "recordDateStart": "2020-11-26T04:54:20.051Z",
+      "seriesId": "6014",
+      "sha256": "6a143ba12324469f2968fec1d91aa80b12782d5d462330a58475f372e9bd16e7",
+      "startDate": "2020-11-26T04:55:00.000Z",
+      "subtitle": "",
+      "title": "Your Japanese Kitchen mini",
+      "uploadedDate": "2020-12-24T00:12:02.591Z",
+      "raw": "https://mega.nz/folder/sNtggIZK#HWoAI7JWjxDnZRv-iIwE7A"
     },
     {
       "airingId": "015",
@@ -127,7 +160,24 @@
       "startDate": "2020-12-24T04:55:00.000Z",
       "subtitle": "",
       "title": "Your Japanese Kitchen mini",
-      "uploadedDate": "2020-12-24T05:10:13.790Z"
+      "uploadedDate": "2020-12-24T05:10:13.790Z",
+      "raw": "https://mega.nz/folder/R98iVQwY#aAkX5OH8X8NE9K0_IIOt4w"
+    },
+    {
+      "airingId": "019",
+      "content": "",
+      "description": "Each edition of this five-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from \"Your Japanese Kitchen\". Today: Deep-fried Salty-sweet Taro.",
+      "endDate": "2020-12-27T01:55:00.000Z",
+      "link": "https://mega.nz/folder/oFMUTToC#G_f525DPNjijejbXR2kyaA",
+      "recordDateEnd": "2020-12-27T01:55:26.171Z",
+      "recordDateStart": "2020-12-27T01:49:20.122Z",
+      "seriesId": "6014",
+      "sha256": "36bf271abc576979c740d28798eecb0f1b7bff9172239b894ee4f1fbd9e34ee7",
+      "startDate": "2020-12-27T01:50:00.000Z",
+      "subtitle": "",
+      "title": "Your Japanese Kitchen mini",
+      "uploadedDate": "2020-12-27T22:35:53.513Z",
+      "raw": "https://mega.nz/folder/Vd5GGS7Q#x17Ij-wFU36Jgr3d-6ZpFQ"
     },
     {
       "airingId": "024",
@@ -162,6 +212,22 @@
       "raw": "https://mega.nz/folder/yM8G2D5A#ypRbA3nGIivVzH_HjUhuew"
     },
     {
+      "airingId": "026",
+      "content": "",
+      "description": "Each edition of this five-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from \"Your Japanese Kitchen\". Today: Sea Bream Soboro Bento.",
+      "endDate": "2020-12-25T06:25:00.000Z",
+      "link": "https://mega.nz/folder/7AlUHAYA#ZDhLJW09qQ9Ef5KiLd8ljQ",
+      "recordDateEnd": "2020-12-25T06:25:28.818Z",
+      "recordDateStart": "2020-12-25T06:19:20.099Z",
+      "seriesId": "6014",
+      "sha256": "cc5da12c8bd52afe5fb87c24756a1f34d58045af40f4af468946eb04679024b9",
+      "startDate": "2020-12-25T06:20:00.000Z",
+      "subtitle": "",
+      "title": "Your Japanese Kitchen mini",
+      "uploadedDate": "2020-12-25T14:44:31.646Z",
+      "raw": "https://mega.nz/folder/0101Wapa#pF8to5UElguC_dV1DWsuSQ"
+    },
+    {
       "airingId": "027",
       "content": "",
       "description": "Each edition of this five-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from \"Your Japanese Kitchen\". Today: Japanese Style Rice Omelet.",
@@ -174,7 +240,8 @@
       "startDate": "2020-12-24T06:20:00.000Z",
       "subtitle": "",
       "title": "Your Japanese Kitchen mini",
-      "uploadedDate": "2020-12-24T15:20:44.408Z"
+      "uploadedDate": "2020-12-24T15:20:44.408Z",
+      "raw": "https://mega.nz/folder/O4U0HZoY#M6bsEkhRGNg6XXV4U8KNkg"
     },
     {
       "airingId": "028",
@@ -189,7 +256,8 @@
       "startDate": "2020-12-23T06:20:00.000Z",
       "subtitle": "",
       "title": "Your Japanese Kitchen mini",
-      "uploadedDate": "2020-12-24T05:24:24.979Z"
+      "uploadedDate": "2020-12-24T05:24:24.979Z",
+      "raw": "https://mega.nz/folder/lkFwlZjb#Tp_a5DWkuQ3pX6_1nZ14pg"
     },
     {
       "airingId": "029",
@@ -204,7 +272,8 @@
       "startDate": "2020-12-22T06:20:00.000Z",
       "subtitle": "",
       "title": "Your Japanese Kitchen mini",
-      "uploadedDate": "2020-12-26T04:00:37.651Z"
+      "uploadedDate": "2020-12-26T04:00:37.651Z",
+      "raw": "https://mega.nz/folder/4AgknThI#r6Ba9wfiZ0-aBLYvtA1AXA"
     },
     {
       "airingId": "030",

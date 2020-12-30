@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:03.057Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.703Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
+  <episode>
+    <airingId>058</airingId>
+    <content>Plastic pollution litters the world's oceans. It's damaging marine wildlife and ecosystems. A war on plastic is breaking out. In part 1 of this 2-part series, we meet Dutch young pioneer Boyan Slat's team working to clear plastic from the Great Pacific Garbage Patch. They have developed a system based on a 600-meter long floating tube. We also look at how microplastics affect living creatures and explore a shocking study that shows how plastic is contributing to rising levels of greenhouse gases.</content>
+    <description>Plastic pollution litters the world's oceans. A war on plastic is breaking out. Part 1 introduces Dutch young pioneer Boyan Slat's team working to clear plastic from the Great Pacific Garbage Patch.</description>
+    <endDate>2020-12-21T12:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/s4F2GJSD#m6KGA0gi8VCb3ACFRaA30Q</link>
+    <recordDateEnd>2020-12-21T12:01:15.645Z</recordDateEnd>
+    <recordDateStart>2020-12-21T11:09:20.098Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>2c7b4ca8433c531344475a9726637a9a23fb31b5a4522bb425bf3fbbe34ffa27</sha256>
+    <startDate>2020-12-21T11:10:00.000Z</startDate>
+    <subtitle>No More Plastic: In Search of a Sustainable Future - Part 1: Clearing Plastic from the Ocean</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2020-12-24T19:45:24.081Z</uploadedDate>
+    <raw>https://mega.nz/folder/oRUmybIK#VNHd0v3bC__w50KsHJHTWw</raw>
+  </episode>
   <episode>
     <airingId>059</airingId>
     <content>Plastic pollution litters the world's oceans. The move away from the use of plastic is currently gaining steam around the globe. In part 2 of this series, we look at business trends leading us away from a world of plastic and towards circular economies. One example is a Japanese startup hoping to sell its proprietary recycling technology abroad. And also we look at disposable plastics regulation strategies in France and New York City. Can we find ways to leave our plastic civilization behind?</content>
@@ -35,6 +51,22 @@
     <title>NHK WORLD PRIME</title>
     <uploadedDate>2020-12-24T19:45:43.577Z</uploadedDate>
     <raw>https://mega.nz/folder/uk9UQLaQ#mLftUzkkCx9RuGb-njGkMQ</raw>
+  </episode>
+  <episode>
+    <airingId>083</airingId>
+    <content>75 years ago, Japan and the US each developed chemical weapons and trained their troops to use them. Near the end of the Pacific War, the Imperial Japanese Army stockpiled vast amounts of poison gas for use as a last resort. The US military, meanwhile, drew up chemical weapons plans that would have devastated Japan. After the war, both the US and Japan concealed the truth concerning these weapons. But newly unearthed documents and personal accounts shed light on this dark legacy.</content>
+    <description>At the end of WWII, both Japan and the US were prepared to use chemical weapons on each other. Newly unearthed documents and personal accounts have finally cast light on this dark legacy.</description>
+    <endDate>2020-11-20T20:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/gZ4VjahT#2Gsgt5rPwJpbaiBt7Urgcw</link>
+    <recordDateEnd>2020-11-20T20:50:25.525Z</recordDateEnd>
+    <recordDateStart>2020-11-20T19:59:20.034Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>c1ce4f7f94111036c51200ec0dbc3d2d92695d53e2a50fb7da8fbdb784565a9b</sha256>
+    <startDate>2020-11-20T20:00:00.000Z</startDate>
+    <subtitle>Poisonous Secrets: What did Japan and the US bury?</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2020-12-24T20:04:02.801Z</uploadedDate>
+    <raw>https://mega.nz/folder/wU9mWYQI#LoiV3Ae1FH8jBcvMXqcFUw</raw>
   </episode>
   <episode>
     <airingId>084</airingId>

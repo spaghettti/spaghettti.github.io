@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:02.921Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.571Z</lastUpdated>
   <seriesId>b6a4aecdfcf53169</seriesId>
   <title>Asia Insight</title>
   <episode>
@@ -50,6 +50,7 @@
     <subtitle>Opening Doors to Independence - Disabilities in Vietnam</subtitle>
     <title>Asia Insight</title>
     <uploadedDate>2020-12-26T15:33:54.070Z</uploadedDate>
+    <raw>https://mega.nz/folder/Nd9k1AQZ#ZlJbO5ktzmy_JR9DqXLtIg</raw>
   </episode>
   <episode>
     <airingId>317</airingId>
@@ -82,5 +83,21 @@
     <title>Asia Insight</title>
     <uploadedDate>2020-12-28T00:35:57.031Z</uploadedDate>
     <raw>https://mega.nz/folder/wQpEXbYa#aCNyhC1yDXADGRa5pPa7BA</raw>
+  </episode>
+  <episode>
+    <airingId>319</airingId>
+    <content>The inland province of Guizhou had once been ranked among China's most impoverished, but change was shown by completion of a huge housing complex there 5 years ago. Now young entrepreneurs are staking their dreams on the region, drawn by the affordable housing costs and convenient infrastructure. From internet business CEOs to school owners, a wave of creative young men and women undeterred by the pandemic are seeking out new opportunities in Guizhou.</content>
+    <description>China's once impoverished Guizhou province has built a large housing complex drawing many young entrepreneurs, particularly in internet businesses, who dream big even in the wake of the pandemic.</description>
+    <endDate>2020-12-25T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Z4lB1S7S#oLKyyEvwgNhbqX3vWb1jMw</link>
+    <recordDateEnd>2020-12-25T02:00:27.922Z</recordDateEnd>
+    <recordDateStart>2020-12-25T01:29:22.683Z</recordDateStart>
+    <seriesId>2022</seriesId>
+    <sha256>c4b01a12c2273680599f63bac5f5190e12534132a15fc490589eb7feea6d5fb6</sha256>
+    <startDate>2020-12-25T01:30:00.000Z</startDate>
+    <subtitle>Entrepreneurs of the Massive Housing Complex: Guizhou, China</subtitle>
+    <title>Asia Insight</title>
+    <uploadedDate>2020-12-25T16:51:15.088Z</uploadedDate>
+    <raw>https://mega.nz/folder/r9tAhD7T#HRfGW1sDwN7p96DsMXw6YA</raw>
   </episode>
 </episodeList>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T23:30:03.079Z",
+  "lastUpdated": "2020-12-30T00:05:02.722Z",
   "seriesId": "4018",
   "title": "The Mark of Beauty",
   "episodes": [
@@ -32,7 +32,8 @@
       "startDate": "2020-12-21T04:30:00.000Z",
       "subtitle": "Sake",
       "title": "The Mark of Beauty",
-      "uploadedDate": "2020-12-24T07:50:26.906Z"
+      "uploadedDate": "2020-12-24T07:50:26.906Z",
+      "raw": "https://mega.nz/folder/J9lCVazZ#YcORI54VqF92cl0jdd99kg"
     },
     {
       "airingId": "111",
@@ -51,6 +52,22 @@
       "raw": "https://mega.nz/folder/5dFwgTpI#qj9VE1e0n5Sok1PeFPsLGg"
     },
     {
+      "airingId": "117",
+      "content": "This episode features Bingata, the Okinawan dyed fabrics renowned for their vivid patterns and vibrant colors. We look at some examples, listed as national treasures, which recall the splendor and pomp of the Ryukyu Kingdom. Only royalty was granted the privilege of wearing one particular color. We look at the techniques for producing the vivid reds and the motifs inspired by the natural surroundings. After the devastating Battle of Okinawa in 1945, people resorted to some unexpected things for dyeing scarce fabrics. And we feature the tapestries fashioned by a 16th generation artisan committed to reviving Bingata. The 2019 fire which destroyed Shuri Castle, the seat of the Ryukyu Kingdom, has prompted the artisan to break new ground.",
+      "description": "Bingata, the Okinawan dyed fabric, has stayed relevant in its homeland for over 500 years. Its vivid colors and delicate patterns are manifestations of the beautiful climate and culture of Okinawa.",
+      "endDate": "2020-11-30T05:00:00.000Z",
+      "link": "https://mega.nz/folder/4M0lFYSD#mhg1iqSk7KNBfI0rv2pFAg",
+      "recordDateEnd": "2020-11-30T05:00:33.095Z",
+      "recordDateStart": "2020-11-30T04:29:20.060Z",
+      "seriesId": "4018",
+      "sha256": "d732268bc4496e7588b1b5ec7071f3a3cf229cb229b5bb2c384994e13bafe8ba",
+      "startDate": "2020-11-30T04:30:00.000Z",
+      "subtitle": "Bingata",
+      "title": "The Mark of Beauty",
+      "uploadedDate": "2020-12-24T07:49:16.266Z",
+      "raw": "https://mega.nz/folder/wVkXVYDK#WpGJH_nzVPvOhpNLPJx69Q"
+    },
+    {
       "airingId": "120",
       "content": "This episode features Japanese swords. We look at Chikakage, a sword of the 16th-century warlord Akechi Mitsuhide, which was discovered in 2019, and ponder what he might have thought about this weapon. We delve into the fascinating craftsmanship that goes into forging the ultimate sword. The Hon'ami Family has been polishing and sharpening swords since the Muromachi Period (1336-1573). The current head of the family, who has been designated as one of Japan's Living Treasures, shows us what this craft involves. An accomplished sword drawer shows off his swordsmanship and how the forms of swords have evolved over the ages. Also featured is a sword dating from the Heian Period (794-1185). Its scabbard, featuring the oldest extant feline motif in Japan, is a national treasure. A fictional swordsman and computer game character Mikazuki Munechika, who has taken his name from another well-known weapon, makes his appearance.",
       "description": "The Japanese sword has long been admired across the world as both an excellent weapon and an exquisite work of art. Tune in to find out the secret behind its beautiful glow.",
@@ -63,7 +80,8 @@
       "startDate": "2020-12-07T04:30:00.000Z",
       "subtitle": "Japanese Sword",
       "title": "The Mark of Beauty",
-      "uploadedDate": "2020-12-29T06:10:31.908Z"
+      "uploadedDate": "2020-12-29T06:10:31.908Z",
+      "raw": "https://mega.nz/folder/JM9nBYZb#3fqPrX8WR3IpkFG0xOSFtw"
     },
     {
       "airingId": "121",
@@ -78,7 +96,8 @@
       "startDate": "2020-12-14T04:30:00.000Z",
       "subtitle": "Zori Sandals",
       "title": "The Mark of Beauty",
-      "uploadedDate": "2020-12-28T03:07:46.408Z"
+      "uploadedDate": "2020-12-28T03:07:46.408Z",
+      "raw": "https://mega.nz/folder/RNM2kTgI#IPassARFF51oUMPQ0k271w"
     }
   ]
 }

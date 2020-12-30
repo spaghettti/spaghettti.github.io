@@ -1,8 +1,40 @@
 {
-  "lastUpdated": "2020-12-29T23:30:03.127Z",
+  "lastUpdated": "2020-12-30T00:05:02.779Z",
   "seriesId": "6101",
   "title": "Four Seasons in Japan",
   "episodes": [
+    {
+      "airingId": "041",
+      "content": "",
+      "description": "Aomori's Shimokita Peninsula, jutting into the Tsugaru Straight toward Hokkaido, features osprey nests, flocks of brown-eared bulbuls, and the battle for survival with the peregrine falcon.",
+      "endDate": "2020-11-29T01:50:00.000Z",
+      "link": "https://mega.nz/folder/6x12TaJC#v-I0sxaqexx4xcfzkX3uSA",
+      "recordDateEnd": "2020-11-29T01:50:24.402Z",
+      "recordDateStart": "2020-11-29T01:39:22.608Z",
+      "seriesId": "6101",
+      "sha256": "36f1a93b45641c9779c15b6f6e280bee0ce67471fd213c41017a9ef1e008eedf",
+      "startDate": "2020-11-29T01:40:00.000Z",
+      "subtitle": "",
+      "title": "Four Seasons in Japan",
+      "uploadedDate": "2020-12-25T04:59:44.964Z",
+      "raw": "https://mega.nz/folder/zhMHSSKb#r4-Xj5FxcXZ5ioHvV4Qn6Q"
+    },
+    {
+      "airingId": "042",
+      "content": "",
+      "description": "Yamagata's Tobishima Island in the Sea of Japan features flocks of birds resting their wings or raising their young while peregrine falcons hunt from the cliffs above to feed their nesting chicks.",
+      "endDate": "2020-12-20T01:50:00.000Z",
+      "link": "https://mega.nz/folder/6ddW2BaJ#y2rWsjakS5MIu2bapZCl7w",
+      "recordDateEnd": "2020-12-20T01:51:07.488Z",
+      "recordDateStart": "2020-12-20T01:39:22.876Z",
+      "seriesId": "6101",
+      "sha256": "1ff6038092e632102d3856449b1a069a8e47991562e3b674915a021cb9ee297c",
+      "startDate": "2020-12-20T01:40:00.000Z",
+      "subtitle": "",
+      "title": "Four Seasons in Japan",
+      "uploadedDate": "2020-12-25T04:58:59.586Z",
+      "raw": "https://mega.nz/folder/MUYS2JbJ#lOwv-ZPP9UBPRxY1gyQbLA"
+    },
     {
       "airingId": "043",
       "content": "",
@@ -20,6 +52,22 @@
       "raw": "https://mega.nz/folder/zt0mEY7b#3ZaEiR5cHDgdOSkQdkaUdQ"
     },
     {
+      "airingId": "045",
+      "content": "",
+      "description": "This episode of Four Seasons in Japan introduces the Ome Hills, west of Tokyo. In spring and summer, the woods and valleys teem with birds, spring cicadas, salamanders, beetles, and butterflies.",
+      "endDate": "2020-12-23T01:20:00.000Z",
+      "link": "https://mega.nz/folder/MN1wlYJD#QoWPkHyJtq93UTFUKSwZIA",
+      "recordDateEnd": "2020-12-23T01:20:24.291Z",
+      "recordDateStart": "2020-12-23T01:09:23.216Z",
+      "seriesId": "6101",
+      "sha256": "5c2cac44263b6bdaa67ac96936c6825df1ef06270305f1c741c17a7c23eb0e5d",
+      "startDate": "2020-12-23T01:10:00.000Z",
+      "subtitle": "",
+      "title": "Four Seasons in Japan",
+      "uploadedDate": "2020-12-24T16:31:13.724Z",
+      "raw": "https://mega.nz/folder/7g9gUaSb#OFoAGpCEv1utJzz-kIvHMQ"
+    },
+    {
       "airingId": "046",
       "content": "",
       "description": "This episode of Four Seasons in Japan introduces Shosenkyo Gorge in Kofu Basin, Yamanashi. As winter approaches, dippers, wagtails, tits, and other birds feast on the bounty of the forest and river.",
@@ -34,6 +82,22 @@
       "title": "Four Seasons in Japan",
       "uploadedDate": "2020-12-24T04:25:58.933Z",
       "raw": "https://mega.nz/folder/H8NhhAqA#vp36XiphQlgg8ILbSlqpQw"
+    },
+    {
+      "airingId": "047",
+      "content": "",
+      "description": "This episode of Four Seasons in Japan introduces the Myoko Highlands in Niigata. In winter, heavy snows cover the forested plateau, but Japanese hares and macaque monkeys persevere against the cold.",
+      "endDate": "2020-12-25T01:20:00.000Z",
+      "link": "https://mega.nz/folder/a810gIYQ#FBAyFuppYjjrGGYeH41UaQ",
+      "recordDateEnd": "2020-12-25T01:20:25.296Z",
+      "recordDateStart": "2020-12-25T01:09:20.098Z",
+      "seriesId": "6101",
+      "sha256": "4793d4a5ea08d9ebdf6775d150a412ed15df49d155d1bb95c6ec4c26fe66d460",
+      "startDate": "2020-12-25T01:10:00.000Z",
+      "subtitle": "",
+      "title": "Four Seasons in Japan",
+      "uploadedDate": "2020-12-25T16:03:12.668Z",
+      "raw": "https://mega.nz/folder/U40UwYDb#iqMF0Vup2nfBpTcoXxp35w"
     },
     {
       "airingId": "048",

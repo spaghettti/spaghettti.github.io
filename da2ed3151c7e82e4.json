@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T23:30:03.110Z",
+  "lastUpdated": "2020-12-30T00:05:02.759Z",
   "seriesId": "6026",
   "title": "no art, no life",
   "episodes": [
@@ -16,7 +16,40 @@
       "startDate": "2020-11-15T20:55:00.000Z",
       "subtitle": "",
       "title": "no art, no life",
-      "uploadedDate": "2020-12-24T18:08:58.766Z"
+      "uploadedDate": "2020-12-24T18:08:58.766Z",
+      "raw": "https://mega.nz/folder/249wRaZC#tN3f4zLa1D7BBZEn_2ysSQ"
+    },
+    {
+      "airingId": "014",
+      "content": "",
+      "description": "Outsider artists like Chikara Nisato are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.",
+      "endDate": "2020-11-21T02:55:00.000Z",
+      "link": "https://mega.nz/folder/2Q8gSLSB#dzbYzMihzteJvG61zjdjAg",
+      "recordDateEnd": "2020-11-21T02:55:29.184Z",
+      "recordDateStart": "2020-11-21T02:49:20.024Z",
+      "seriesId": "6026",
+      "sha256": "ab4682dc6415f0c623de4dd8c7519d006efbb090b1d2420f13e95b7e7cd164e0",
+      "startDate": "2020-11-21T02:50:00.000Z",
+      "subtitle": "",
+      "title": "no art, no life",
+      "uploadedDate": "2020-12-24T18:09:43.184Z",
+      "raw": "https://mega.nz/folder/WktE3KLK#kmZNoGGE92_NnIsqET0T2w"
+    },
+    {
+      "airingId": "015",
+      "content": "",
+      "description": "Outsider artists like Takeru Aoki are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.",
+      "endDate": "2020-11-28T02:55:00.000Z",
+      "link": "https://mega.nz/folder/JNlQXDCa#JMaoNEmHOsvQ_L09cRqTnA",
+      "recordDateEnd": "2020-11-28T02:55:30.527Z",
+      "recordDateStart": "2020-11-28T02:49:20.050Z",
+      "seriesId": "6026",
+      "sha256": "a69fb3137d22a5eb7c5df19f3aaeadbcdad9d95843fe23455fe70e35cbc08d47",
+      "startDate": "2020-11-28T02:50:00.000Z",
+      "subtitle": "",
+      "title": "no art, no life",
+      "uploadedDate": "2020-12-24T18:14:10.068Z",
+      "raw": "https://mega.nz/folder/7pt0BICK#Z6ZnvAWPcejUMlCXnvs6_A"
     },
     {
       "airingId": "016",
@@ -51,6 +84,22 @@
       "raw": "https://mega.nz/folder/m0dFHQ7C#dnl3LtCfXCm_n63SEuco4A"
     },
     {
+      "airingId": "018",
+      "content": "",
+      "description": "Outsider artists like Tomoyuki Hirano are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.",
+      "endDate": "2020-12-19T02:55:00.000Z",
+      "link": "https://mega.nz/folder/txdg1RhD#7nfbSToYvFGYJYoTRYg2xQ",
+      "recordDateEnd": "2020-12-19T02:56:06.089Z",
+      "recordDateStart": "2020-12-19T02:49:20.019Z",
+      "seriesId": "6026",
+      "sha256": "75a7a5031e78e11110b54659a3636fb1404c4116d9e7f216fa64cc5e8bd8e1b6",
+      "startDate": "2020-12-19T02:50:00.000Z",
+      "subtitle": "",
+      "title": "no art, no life",
+      "uploadedDate": "2020-12-24T18:01:52.424Z",
+      "raw": "https://mega.nz/folder/9ElCURia#Wf0K8BkmLfwQoKL_75Qvkg"
+    },
+    {
       "airingId": "019",
       "content": "",
       "description": "Outsider artists like Yasuhiro Nishikawa are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.",
@@ -63,7 +112,8 @@
       "startDate": "2020-12-26T02:50:00.000Z",
       "subtitle": "",
       "title": "no art, no life",
-      "uploadedDate": "2020-12-27T23:14:26.404Z"
+      "uploadedDate": "2020-12-27T23:14:26.404Z",
+      "raw": "https://mega.nz/folder/6Z9wwSaa#LzuE1DIKQpbaWH5HxFSgGQ"
     }
   ]
 }

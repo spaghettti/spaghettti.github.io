@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:02.934Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.579Z</lastUpdated>
   <seriesId>25a805bf2ec43458</seriesId>
   <title>Kawaii International</title>
   <episode>
@@ -18,6 +18,7 @@
     <subtitle>Clean and Kawaii: Have Fun Cleaning Up!</subtitle>
     <title>Kawaii International</title>
     <uploadedDate>2020-12-24T23:22:17.654Z</uploadedDate>
+    <raw>https://mega.nz/folder/1xlj0aAK#yXfJ8mLUnSCvscmN9Ih9tg</raw>
   </episode>
   <episode>
     <airingId>132</airingId>
@@ -65,5 +66,6 @@
     <subtitle>The Virtual Generation: Part 2</subtitle>
     <title>Kawaii International</title>
     <uploadedDate>2020-12-24T21:51:19.098Z</uploadedDate>
+    <raw>https://mega.nz/folder/dJ0QAIjC#Cnjtjelm8BcMdcKc7bljNA</raw>
   </episode>
 </episodeList>

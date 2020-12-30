@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:03.031Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.669Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
   <episode>
@@ -83,6 +83,22 @@
     <title>Doki Doki! NHK WORLD-JAPAN</title>
     <uploadedDate>2020-12-25T18:16:20.097Z</uploadedDate>
     <raw>https://mega.nz/folder/r990VSSD#yLg3RtRXMwPpuPYCTCSFUA</raw>
+  </episode>
+  <episode>
+    <airingId>074</airingId>
+    <content/>
+    <description>This time we introduce "Castle Quest." It shows the defence ability of Hikone Castle, the national treasure. It has a bridge which forces the enemy detour and the wall which endures the cannon balls.</description>
+    <endDate>2020-12-13T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/kAlGzLRR#53SsiLC8_D7xUZWPySeW_Q</link>
+    <recordDateEnd>2020-12-13T11:55:25.910Z</recordDateEnd>
+    <recordDateStart>2020-12-13T11:49:20.101Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>1c7f35dc58f79df2183e1b81cb2f5d4185d894349238ebe107b2805828c625f5</sha256>
+    <startDate>2020-12-13T11:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2020-12-25T18:20:04.977Z</uploadedDate>
+    <raw>https://mega.nz/folder/as9WACzZ#_lFGayc42yUhS16Z8p6L9g</raw>
   </episode>
   <episode>
     <airingId>075</airingId>

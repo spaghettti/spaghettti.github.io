@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:03.013Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.655Z</lastUpdated>
   <seriesId>b2f243cf934b4de8</seriesId>
   <title>GRAND SUMO Highlights</title>
   <episode>
@@ -21,6 +21,22 @@
     <raw>https://mega.nz/folder/ZpExnCoI#yHm19yFTqmpp0rW23myx6g</raw>
   </episode>
   <episode>
+    <airingId>384</airingId>
+    <content>The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!</content>
+    <description>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from Nov. 16, Day 9 of the Grand Sumo Tournament in Tokyo.</description>
+    <endDate>2020-11-16T22:57:00.000Z</endDate>
+    <link>https://mega.nz/folder/0dBmyJLY#X5cUNbDQhubkEpYspJGH_g</link>
+    <recordDateEnd>2020-11-16T22:57:27.588Z</recordDateEnd>
+    <recordDateStart>2020-11-16T22:29:20.098Z</recordDateStart>
+    <seriesId>2061</seriesId>
+    <sha256>ff4dc6ca264aeb7017d1dcd55acf80002a7c2307e77f40788de90132e9358265</sha256>
+    <startDate>2020-11-16T22:30:00.000Z</startDate>
+    <subtitle>November Tournament Day 9</subtitle>
+    <title>GRAND SUMO Highlights</title>
+    <uploadedDate>2020-12-25T04:38:15.239Z</uploadedDate>
+    <raw>https://mega.nz/folder/i0sglKgA#mh2FoXBCeeiKd_p5Nhd1ig</raw>
+  </episode>
+  <episode>
     <airingId>385</airingId>
     <content>The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!</content>
     <description>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from Nov. 17, Day 10 of the Grand Sumo Tournament in Tokyo.</description>
@@ -34,6 +50,7 @@
     <subtitle>November Tournament Day 10</subtitle>
     <title>GRAND SUMO Highlights</title>
     <uploadedDate>2020-12-25T04:37:39.381Z</uploadedDate>
+    <raw>https://mega.nz/folder/tklm1Cpa#zTcvVwGCctH0CyeWP8j8rg</raw>
   </episode>
   <episode>
     <airingId>386</airingId>
@@ -113,5 +130,6 @@
     <subtitle>November Tournament Day 15 (Final Day)</subtitle>
     <title>GRAND SUMO Highlights</title>
     <uploadedDate>2020-12-26T11:37:54.207Z</uploadedDate>
+    <raw>https://mega.nz/folder/hs91SKqY#Zbrma8q_mUVWrywb4gYosg</raw>
   </episode>
 </episodeList>

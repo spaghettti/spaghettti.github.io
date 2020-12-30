@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:03.030Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.667Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>J-Arena</title>
     <uploadedDate>2020-12-25T00:54:42.499Z</uploadedDate>
     <raw>https://mega.nz/folder/IcoAEI6K#qb5allW8QlqYmu9xpYC4Ag</raw>
+  </episode>
+  <episode>
+    <airingId>076</airingId>
+    <content>At the 1972 Munich Games, Japanese gymnast Tsukahara Mitsuo stunned the world with his revolutionary horizontal bar dismount. The "Tsukahara" would have a lasting impact on gymnastics, influencing countless techniques including the "Kolman" and the "Cassina." In the 21st century, Japanese gymnasts such as Tomita Hiroyuki, Uchimura Kohei and most recently Miyachi Hidetaka, have taken the Tsukahara's key elements into fresh territory, pushing the boundaries of human potential in gymnastics on the way. We explore the rich legacy of this iconic move.</content>
+    <description>At the 1972 Munich Games, gymnast Tsukahara Mitsuo stunned the world with his revolutionary horizontal bar dismount. The "Tsukahara" had a lasting impact on gymnastics, inspiring countless variations.</description>
+    <endDate>2020-12-11T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/rtcA1bYC#2gMVRgvPGgsWVO9ZS2zUFQ</link>
+    <recordDateEnd>2020-12-11T05:00:28.580Z</recordDateEnd>
+    <recordDateStart>2020-12-11T04:29:20.101Z</recordDateStart>
+    <seriesId>2073</seriesId>
+    <sha256>6cfaa06283d3e02222289cf89c44ba9ab418e8208219c7f402de1bde9c83b52b</sha256>
+    <startDate>2020-12-11T04:30:00.000Z</startDate>
+    <subtitle>Gymnastics - Horizontal Bar</subtitle>
+    <title>J-Arena</title>
+    <uploadedDate>2020-12-25T00:32:29.949Z</uploadedDate>
+    <raw>https://mega.nz/folder/SclQlSAL#ISNaiIQbEcLRejc6n5hhfw</raw>
   </episode>
   <episode>
     <airingId>077</airingId>

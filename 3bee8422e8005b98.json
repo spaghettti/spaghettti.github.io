@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T23:30:03.101Z",
+  "lastUpdated": "2020-12-30T00:05:02.749Z",
   "seriesId": "6021",
   "title": "PythagoraSwitch mini",
   "episodes": [
@@ -52,6 +52,22 @@
       "raw": "https://mega.nz/folder/M01W3RLC#6D1mH6bmcujwqoJf7PblgA"
     },
     {
+      "airingId": "017",
+      "content": "",
+      "description": "There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time \"See the Wiggle Men!\"...",
+      "endDate": "2020-12-05T04:00:00.000Z",
+      "link": "https://mega.nz/folder/boUGnBYb#XlOIVmqgoX-UDIkY3YzhQQ",
+      "recordDateEnd": "2020-12-05T04:00:28.335Z",
+      "recordDateStart": "2020-12-05T03:54:20.002Z",
+      "seriesId": "6021",
+      "sha256": "d1f51017f56378b50f4006ae6a4076c9beadd0afce9d3102e137db3c377aa662",
+      "startDate": "2020-12-05T03:55:00.000Z",
+      "subtitle": "",
+      "title": "PythagoraSwitch mini",
+      "uploadedDate": "2020-12-24T17:54:50.251Z",
+      "raw": "https://mega.nz/folder/jUlwjTSS#QtPNG12SV3UNzHMkazbSRg"
+    },
+    {
       "airingId": "018",
       "content": "",
       "description": "There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time \"Nendore Nandore Mr. Clay!\"...",
@@ -80,7 +96,8 @@
       "startDate": "2020-12-19T03:55:00.000Z",
       "subtitle": "",
       "title": "PythagoraSwitch mini",
-      "uploadedDate": "2020-12-24T17:53:04.258Z"
+      "uploadedDate": "2020-12-24T17:53:04.258Z",
+      "raw": "https://mega.nz/folder/Nw1GSbiA#rEhZ2xmTmHiQ46mOhbNwmg"
     },
     {
       "airingId": "021",
@@ -95,7 +112,8 @@
       "startDate": "2020-12-26T03:55:00.000Z",
       "subtitle": "",
       "title": "PythagoraSwitch mini",
-      "uploadedDate": "2020-12-28T23:04:15.721Z"
+      "uploadedDate": "2020-12-28T23:04:15.721Z",
+      "raw": "https://mega.nz/folder/i0tBVCDI#tclxyEl_I2l9DCxS66dI7Q"
     }
   ]
 }

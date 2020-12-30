@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2020-12-29T23:30:03.151Z",
+  "lastUpdated": "2020-12-30T00:05:02.810Z",
   "series": [
     {
-      "count": 6,
+      "count": 9,
       "uniqueId": "c656328a0f33bc89",
       "lastAiring": "2020-12-23T00:45:00.000Z",
-      "lastUpload": "2020-12-28T00:32:06.550Z",
+      "lastUpload": "2020-12-28T23:40:11.580Z",
       "seriesId": "3019",
       "title": "15 Minutes"
+    },
+    {
+      "count": 1,
+      "uniqueId": "13e432cf78dd96b8",
+      "lastAiring": "2020-12-25T04:30:00.000Z",
+      "lastUpload": "2020-12-25T15:40:48.025Z",
+      "seriesId": "2067",
+      "title": "2020 GRAND SUMO Review"
     },
     {
       "count": 2,
@@ -26,39 +34,31 @@
       "title": "ANIMATION X PARALYMPIC"
     },
     {
-      "count": 2,
+      "count": 4,
       "uniqueId": "0fc6cd6b02dc8d5f",
-      "lastAiring": "2020-11-28T00:10:00.000Z",
+      "lastAiring": "2020-12-26T00:10:00.000Z",
       "lastUpload": "2020-12-28T00:31:48.470Z",
       "seriesId": "2065",
       "title": "Anime Supernova"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "b6a4aecdfcf53169",
-      "lastAiring": "2020-12-18T01:30:00.000Z",
+      "lastAiring": "2020-12-25T01:30:00.000Z",
       "lastUpload": "2020-12-28T00:35:57.031Z",
       "seriesId": "2022",
       "title": "Asia Insight"
     },
     {
-      "count": 1,
-      "uniqueId": "3403d86c0b7797fe",
+      "count": 2,
+      "uniqueId": "ba5605f896f214e4",
       "lastAiring": "2020-12-25T23:10:00.000Z",
       "lastUpload": "2020-12-28T00:41:58.259Z",
       "seriesId": "3004",
-      "title": "Barakan Discovers Tokyo"
+      "title": "Barakan Discovers"
     },
     {
-      "count": 1,
-      "uniqueId": "f5e3954766b12687",
-      "lastAiring": "2020-11-22T05:10:00.000Z",
-      "lastUpload": "2020-12-26T17:29:42.755Z",
-      "seriesId": "3004",
-      "title": "Barakan Discovers: The Tokyo of 2020"
-    },
-    {
-      "count": 11,
+      "count": 12,
       "uniqueId": "d58f68b3577f3e24",
       "lastAiring": "2020-12-29T02:23:00.000Z",
       "lastUpload": "2020-12-29T05:27:15.214Z",
@@ -74,7 +74,7 @@
       "title": "BENTO EXPO"
     },
     {
-      "count": 10,
+      "count": 12,
       "uniqueId": "830c4969cf7e7135",
       "lastAiring": "2020-12-29T02:10:00.000Z",
       "lastUpload": "2020-12-29T05:45:43.404Z",
@@ -90,7 +90,7 @@
       "title": "BOSAI: Science that Can Save Your Life"
     },
     {
-      "count": 2,
+      "count": 3,
       "uniqueId": "245e52873e6a4f2e",
       "lastAiring": "2020-12-19T23:10:00.000Z",
       "lastUpload": "2020-12-26T08:18:56.592Z",
@@ -106,7 +106,7 @@
       "title": "CATCH JAPAN"
     },
     {
-      "count": 3,
+      "count": 4,
       "uniqueId": "be55ba93c748813c",
       "lastAiring": "2020-12-26T04:10:00.000Z",
       "lastUpload": "2020-12-29T00:27:45.849Z",
@@ -114,7 +114,7 @@
       "title": "COOL JAPAN"
     },
     {
-      "count": 10,
+      "count": 12,
       "uniqueId": "67d2ae7ac69fb919",
       "lastAiring": "2020-12-28T14:30:00.000Z",
       "lastUpload": "2020-12-29T07:18:54.395Z",
@@ -122,7 +122,7 @@
       "title": "Core Kyoto"
     },
     {
-      "count": 11,
+      "count": 12,
       "uniqueId": "582ad0f8b7805a6b",
       "lastAiring": "2020-12-29T03:25:00.000Z",
       "lastUpload": "2020-12-29T05:18:05.490Z",
@@ -138,18 +138,18 @@
       "title": "Covid-19: Medical Frontiers"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "849018bc46f056a7",
-      "lastAiring": "2020-12-16T15:30:00.000Z",
+      "lastAiring": "2020-12-23T15:30:00.000Z",
       "lastUpload": "2020-12-26T03:46:03.534Z",
       "seriesId": "2076,2083,2084",
       "title": "Culture Crossroads"
     },
     {
-      "count": 4,
+      "count": 6,
       "uniqueId": "054ab52e36a50c36",
       "lastAiring": "2020-12-24T14:30:00.000Z",
-      "lastUpload": "2020-12-26T03:39:36.502Z",
+      "lastUpload": "2020-12-26T03:50:44.095Z",
       "seriesId": "2070",
       "title": "CYCLE AROUND JAPAN  Highlights"
     },
@@ -186,7 +186,7 @@
       "title": "Dig More Japan"
     },
     {
-      "count": 10,
+      "count": 13,
       "uniqueId": "4562406e38a4085a",
       "lastAiring": "2020-12-29T00:30:00.000Z",
       "lastUpload": "2020-12-29T03:47:21.740Z",
@@ -194,7 +194,7 @@
       "title": "Dining with the Chef"
     },
     {
-      "count": 51,
+      "count": 63,
       "uniqueId": "07d8499767117509",
       "lastAiring": "2020-12-29T09:15:00.000Z",
       "lastUpload": "2020-12-29T09:59:50.035Z",
@@ -202,7 +202,7 @@
       "title": "Direct Talk"
     },
     {
-      "count": 4,
+      "count": 6,
       "uniqueId": "328f69455964a591",
       "lastAiring": "2020-12-29T04:45:00.000Z",
       "lastUpload": "2020-12-29T05:23:02.857Z",
@@ -210,7 +210,7 @@
       "title": "Doctor's Insight"
     },
     {
-      "count": 4,
+      "count": 7,
       "uniqueId": "3181d5ae26726a28",
       "lastAiring": "2020-12-29T01:30:00.000Z",
       "lastUpload": "2020-12-29T03:40:55.591Z",
@@ -218,7 +218,7 @@
       "title": "Document 72 Hours"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "5d6cd359adade3e0",
       "lastAiring": "2020-12-27T11:50:00.000Z",
       "lastUpload": "2020-12-27T22:37:30.044Z",
@@ -234,7 +234,15 @@
       "title": "Drainspotters #1 Green Tea"
     },
     {
-      "count": 6,
+      "count": 1,
+      "uniqueId": "3adb4b64c51ae5ba",
+      "lastAiring": "2020-12-19T23:57:00.000Z",
+      "lastUpload": "2020-12-25T18:10:05.431Z",
+      "seriesId": "3004",
+      "title": "Drainspotters #4 Morning Market"
+    },
+    {
+      "count": 7,
       "uniqueId": "b60ca341c528e0e4",
       "lastAiring": "2020-12-26T04:55:00.000Z",
       "lastUpload": "2020-12-26T08:46:58.706Z",
@@ -242,7 +250,7 @@
       "title": "Easy Japanese"
     },
     {
-      "count": 4,
+      "count": 5,
       "uniqueId": "ae19acce46550858",
       "lastAiring": "2020-12-14T00:45:00.000Z",
       "lastUpload": "2020-12-25T05:34:58.349Z",
@@ -250,10 +258,10 @@
       "title": "Easy Japanese for Work"
     },
     {
-      "count": 1,
+      "count": 2,
       "uniqueId": "8bc137fd12f759b5",
-      "lastAiring": "2020-11-18T00:55:00.000Z",
-      "lastUpload": "2020-12-25T05:00:23.589Z",
+      "lastAiring": "2020-12-06T00:37:00.000Z",
+      "lastUpload": "2020-12-25T05:04:39.662Z",
       "seriesId": "3004",
       "title": "Easy Travel Japanese"
     },
@@ -290,7 +298,7 @@
       "title": "FLOWERS WILL BLOOM"
     },
     {
-      "count": 7,
+      "count": 11,
       "uniqueId": "3ade7fb84e8cc130",
       "lastAiring": "2020-12-29T01:10:00.000Z",
       "lastUpload": "2020-12-29T03:37:04.450Z",
@@ -322,7 +330,15 @@
       "title": "Geiko SATSUKI, A Beauty Through the Seasons"
     },
     {
-      "count": 7,
+      "count": 1,
+      "uniqueId": "3bc8dcb0dce4c540",
+      "lastAiring": "2020-12-19T01:10:00.000Z",
+      "lastUpload": "2020-12-25T05:17:34.291Z",
+      "seriesId": "2047",
+      "title": "GLOBAL AGENDA"
+    },
+    {
+      "count": 8,
       "uniqueId": "b2f243cf934b4de8",
       "lastAiring": "2020-11-22T16:30:00.000Z",
       "lastUpload": "2020-12-26T11:37:54.207Z",
@@ -346,15 +362,15 @@
       "title": "Her Story"
     },
     {
-      "count": 4,
+      "count": 6,
       "uniqueId": "b70d3103ab6de48b",
-      "lastAiring": "2020-12-12T10:10:00.000Z",
+      "lastAiring": "2020-12-12T23:10:00.000Z",
       "lastUpload": "2020-12-28T07:58:02.651Z",
       "seriesId": "3018",
       "title": "Home Sweet Tokyo"
     },
     {
-      "count": 4,
+      "count": 5,
       "uniqueId": "810a4b40916c42c4",
       "lastAiring": "2020-12-20T00:10:00.000Z",
       "lastUpload": "2020-12-25T03:54:51.888Z",
@@ -370,15 +386,15 @@
       "title": "Human Security in the COVID-19 Era"
     },
     {
-      "count": 4,
+      "count": 6,
       "uniqueId": "30aa2c9c765292e1",
-      "lastAiring": "2020-12-13T16:30:00.000Z",
+      "lastAiring": "2020-12-20T16:30:00.000Z",
       "lastUpload": "2020-12-25T18:10:59.449Z",
       "seriesId": "6206",
       "title": "Inspiring Landscapes"
     },
     {
-      "count": 3,
+      "count": 4,
       "uniqueId": "4b75bcecb7568a5f",
       "lastAiring": "2020-12-18T04:30:00.000Z",
       "lastUpload": "2020-12-25T17:46:58.519Z",
@@ -394,23 +410,23 @@
       "title": "J-FLICKS"
     },
     {
-      "count": 2,
+      "count": 3,
       "uniqueId": "f03694b92087f911",
-      "lastAiring": "2020-12-06T15:10:00.000Z",
+      "lastAiring": "2020-12-13T21:10:00.000Z",
       "lastUpload": "2020-12-25T00:37:45.915Z",
       "seriesId": "2004",
       "title": "J-MELO"
     },
     {
-      "count": 22,
+      "count": 28,
       "uniqueId": "afe5ace13e6c293d",
       "lastAiring": "2020-12-22T23:25:00.000Z",
-      "lastUpload": "2020-12-25T02:24:22.347Z",
+      "lastUpload": "2020-12-25T17:17:52.592Z",
       "seriesId": "6023",
       "title": "JAPAN FROM ABOVE: UP CLOSE"
     },
     {
-      "count": 4,
+      "count": 6,
       "uniqueId": "3ff887cb76b1a490",
       "lastAiring": "2020-12-24T15:30:00.000Z",
       "lastUpload": "2020-12-25T18:46:05.431Z",
@@ -434,7 +450,7 @@
       "title": "Japan's Top Inventions"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "6cdfbabc0d0bcd6e",
       "lastAiring": "2020-12-27T11:25:00.000Z",
       "lastUpload": "2020-12-29T03:58:02.719Z",
@@ -442,10 +458,10 @@
       "title": "Japan-easy2"
     },
     {
-      "count": 6,
+      "count": 11,
       "uniqueId": "f2fee2555c450616",
-      "lastAiring": "2020-12-24T05:10:00.000Z",
-      "lastUpload": "2020-12-26T05:51:35.367Z",
+      "lastAiring": "2020-12-27T02:40:00.000Z",
+      "lastUpload": "2020-12-28T23:18:19.174Z",
       "seriesId": "6200",
       "title": "JAPANGLE"
     },
@@ -458,7 +474,7 @@
       "title": "Japanology Plus"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "b7a2bc9b23a9c5ee",
       "lastAiring": "2020-12-28T23:30:00.000Z",
       "lastUpload": "2020-12-29T06:12:12.333Z",
@@ -482,7 +498,7 @@
       "title": "Kawaii International"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "0fb6afa0f420e9e6",
       "lastAiring": "2020-12-26T02:40:00.000Z",
       "lastUpload": "2020-12-26T09:02:56.709Z",
@@ -490,7 +506,7 @@
       "title": "Little Charo"
     },
     {
-      "count": 4,
+      "count": 5,
       "uniqueId": "2ac7100c81ee10d6",
       "lastAiring": "2020-12-24T04:30:00.000Z",
       "lastUpload": "2020-12-24T23:13:22.173Z",
@@ -498,7 +514,7 @@
       "title": "Lunch ON!"
     },
     {
-      "count": 2,
+      "count": 3,
       "uniqueId": "77fae6769682674d",
       "lastAiring": "2020-12-25T11:10:00.000Z",
       "lastUpload": "2020-12-25T16:43:17.976Z",
@@ -538,23 +554,15 @@
       "title": "Music for Tomorrow"
     },
     {
-      "count": 1,
-      "uniqueId": "2ad415cdc920b946",
-      "lastAiring": "2020-12-19T15:10:00.000Z",
-      "lastUpload": "2020-12-24T23:55:38.067Z",
-      "seriesId": "3016",
-      "title": "NHK Documentary"
-    },
-    {
-      "count": 5,
+      "count": 7,
       "uniqueId": "56ef83def0753222",
       "lastAiring": "2020-12-26T15:10:00.000Z",
       "lastUpload": "2020-12-29T00:14:56.447Z",
-      "seriesId": "4001",
+      "seriesId": "3016,4001",
       "title": "NHK Documentary"
     },
     {
-      "count": 5,
+      "count": 7,
       "uniqueId": "156d54897e343840",
       "lastAiring": "2020-12-26T01:10:00.000Z",
       "lastUpload": "2020-12-28T01:00:47.371Z",
@@ -562,7 +570,7 @@
       "title": "NHK WORLD PRIME"
     },
     {
-      "count": 4,
+      "count": 7,
       "uniqueId": "da2ed3151c7e82e4",
       "lastAiring": "2020-12-26T02:50:00.000Z",
       "lastUpload": "2020-12-27T23:14:26.404Z",
@@ -570,7 +578,15 @@
       "title": "no art, no life"
     },
     {
-      "count": 6,
+      "count": 1,
+      "uniqueId": "a57f560b7c24b065",
+      "lastAiring": "2020-12-01T01:55:00.000Z",
+      "lastUpload": "2020-12-24T18:00:17.559Z",
+      "seriesId": "3004",
+      "title": "Paprika  Let's dance!"
+    },
+    {
+      "count": 7,
       "uniqueId": "3bee8422e8005b98",
       "lastAiring": "2020-12-26T03:55:00.000Z",
       "lastUpload": "2020-12-28T23:04:15.721Z",
@@ -594,10 +610,10 @@
       "title": "Reviving the Voices of Himeyuri - The Rebirth of the Museum 75 Years After the War"
     },
     {
-      "count": 5,
+      "count": 7,
       "uniqueId": "509fab78036b7f12",
-      "lastAiring": "2020-12-24T01:30:00.000Z",
-      "lastUpload": "2020-12-27T07:36:12.024Z",
+      "lastAiring": "2020-12-26T14:10:00.000Z",
+      "lastUpload": "2020-12-28T23:42:49.732Z",
       "seriesId": "2042",
       "title": "RISING"
     },
@@ -626,7 +642,7 @@
       "title": "SAMURAI WHEELS 2020 SPECIAL"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "87b2998a16373792",
       "lastAiring": "2020-12-29T15:30:00.000Z",
       "lastUpload": "2020-12-29T21:45:46.703Z",
@@ -642,7 +658,7 @@
       "title": "Searching for the Standing Boy of Nagasaki"
     },
     {
-      "count": 4,
+      "count": 7,
       "uniqueId": "206e7d7b56906c70",
       "lastAiring": "2020-12-27T23:30:00.000Z",
       "lastUpload": "2020-12-29T04:29:14.630Z",
@@ -674,7 +690,7 @@
       "title": "Side by Side"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "aefa3128a4eaf8eb",
       "lastAiring": "2020-12-27T04:10:00.000Z",
       "lastUpload": "2020-12-28T00:00:55.161Z",
@@ -706,15 +722,15 @@
       "title": "Spiritual Explorers"
     },
     {
-      "count": 4,
+      "count": 7,
       "uniqueId": "05e910e7289de2b7",
-      "lastAiring": "2020-12-28T04:10:00.000Z",
-      "lastUpload": "2020-12-28T22:00:06.422Z",
+      "lastAiring": "2020-12-29T04:10:00.000Z",
+      "lastUpload": "2020-12-29T05:22:36.913Z",
       "seriesId": "6113",
       "title": "The Great Summits"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "aca3c5281f781918",
       "lastAiring": "2020-12-28T04:30:00.000Z",
       "lastUpload": "2020-12-29T06:10:31.908Z",
@@ -746,7 +762,7 @@
       "title": "The Sounds of Okinawa: Joy and Prayers for Shuri Castle"
     },
     {
-      "count": 13,
+      "count": 16,
       "uniqueId": "20f91db4b1d2406e",
       "lastAiring": "2020-12-21T23:20:00.000Z",
       "lastUpload": "2020-12-24T06:49:53.530Z",
@@ -754,7 +770,7 @@
       "title": "TIME-LAPSE"
     },
     {
-      "count": 4,
+      "count": 6,
       "uniqueId": "a5fed3c217d7b7f6",
       "lastAiring": "2020-12-18T15:30:00.000Z",
       "lastUpload": "2020-12-24T15:56:28.169Z",
@@ -762,7 +778,7 @@
       "title": "Today's Close-Up"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "e3257daa0a525ec2",
       "lastAiring": "2020-12-22T23:30:00.000Z",
       "lastUpload": "2020-12-24T18:22:26.088Z",
@@ -778,15 +794,15 @@
       "title": "Tokyo Life"
     },
     {
-      "count": 4,
+      "count": 6,
       "uniqueId": "31851bb3dfae7f8a",
-      "lastAiring": "2020-12-16T14:30:00.000Z",
+      "lastAiring": "2020-12-23T14:30:00.000Z",
       "lastUpload": "2020-12-24T15:58:33.272Z",
       "seriesId": "2054",
       "title": "Trails to Oishii Tokyo"
     },
     {
-      "count": 7,
+      "count": 8,
       "uniqueId": "e54e1987b2418557",
       "lastAiring": "2020-12-26T00:50:00.000Z",
       "lastUpload": "2020-12-26T09:01:16.812Z",
@@ -802,7 +818,7 @@
       "title": "Train Cruise"
     },
     {
-      "count": 15,
+      "count": 20,
       "uniqueId": "3afe9a7a6f85079a",
       "lastAiring": "2020-12-12T11:55:00.000Z",
       "lastUpload": "2020-12-24T04:29:56.207Z",
@@ -826,7 +842,7 @@
       "title": "Where We Call Home"
     },
     {
-      "count": 5,
+      "count": 7,
       "uniqueId": "b2d48e71e072a1aa",
       "lastAiring": "2020-12-27T00:45:00.000Z",
       "lastUpload": "2020-12-27T23:00:51.006Z",
@@ -834,12 +850,20 @@
       "title": "Wild Hokkaido!"
     },
     {
-      "count": 14,
+      "count": 18,
       "uniqueId": "2292026c42316324",
       "lastAiring": "2020-12-29T06:20:00.000Z",
       "lastUpload": "2020-12-29T07:53:38.198Z",
       "seriesId": "6014",
       "title": "Your Japanese Kitchen mini"
+    },
+    {
+      "count": 2,
+      "uniqueId": "e425ad11d70fcae3",
+      "lastAiring": "2020-12-12T23:30:00.000Z",
+      "lastUpload": "2020-12-24T00:29:13.443Z",
+      "seriesId": "3004",
+      "title": "Zeroing In: Carbon Neutral 2050"
     }
   ]
 }

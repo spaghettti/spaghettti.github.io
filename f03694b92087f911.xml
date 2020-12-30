@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:02.884Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.538Z</lastUpdated>
   <seriesId>f03694b92087f911</seriesId>
   <title>J-MELO</title>
   <episode>
@@ -35,5 +35,21 @@
     <title>J-MELO</title>
     <uploadedDate>2020-12-25T00:37:45.915Z</uploadedDate>
     <raw>https://mega.nz/folder/FVcn3YiJ#QJiTRjGsQ75rRHk7po7AoQ</raw>
+  </episode>
+  <episode>
+    <airingId>363</airingId>
+    <content>Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news and video releases!</content>
+    <description>Join May J. for great Japanese music! This week, enka singer Sakamoto Fuyumi, female idol group Morning Musume.'20, and male dance-and-vocal group Bullet Train are coming to chat and perform.</description>
+    <endDate>2020-12-13T21:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/7xUAmbKC#Ys6oJP1N1kAr7WGgbrmSxQ</link>
+    <recordDateEnd>2020-12-13T21:40:32.010Z</recordDateEnd>
+    <recordDateStart>2020-12-13T21:09:20.098Z</recordDateStart>
+    <seriesId>2004</seriesId>
+    <sha256>74dde5b8319fba93d792829ac1748db4b217dafd68b64e0a104e518427510dff</sha256>
+    <startDate>2020-12-13T21:10:00.000Z</startDate>
+    <subtitle>Sakamoto Fuyumi, Morning Musume.'20, and Bullet Train</subtitle>
+    <title>J-MELO</title>
+    <uploadedDate>2020-12-25T00:25:55.364Z</uploadedDate>
+    <raw>https://mega.nz/folder/hBIzWAZL#-5s_KIiYa-us4i-niDF_7w</raw>
   </episode>
 </episodeList>

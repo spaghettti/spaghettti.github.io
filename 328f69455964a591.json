@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T23:30:03.042Z",
+  "lastUpdated": "2020-12-30T00:05:02.684Z",
   "seriesId": "2086",
   "title": "Doctor's Insight",
   "episodes": [
@@ -16,7 +16,24 @@
       "startDate": "2020-12-08T04:45:00.000Z",
       "subtitle": "COVID-19: Reducing Your Risk of Serious Illness #1: Heart Disease",
       "title": "Doctor's Insight",
-      "uploadedDate": "2020-12-25T19:16:48.908Z"
+      "uploadedDate": "2020-12-25T19:16:48.908Z",
+      "raw": "https://mega.nz/folder/rx9GABrC#p3ZMoRPW9mXM_LFxD4BoNA"
+    },
+    {
+      "airingId": "008",
+      "content": "COVID-19 can cause serious illness for people with underlying conditions. Kidney disease patients, increasing globally, need to be extra careful. Recent studies found that immunosuppressive drugs used for treating kidney conditions increase the risk of infection. Furthermore, kidney patients that do get infected have a higher risk of developing pneumonia and even acute kidney injury. What can they do to avoid becoming severely ill from COVID-19? Find out coronavirus tips that kidney patients can apply in their everyday lives from an expert in treating kidney disease.",
+      "description": "COVID-19 can cause serious illness for people with underlying conditions. Kidney disease patients, increasing globally, need to be extra careful. We'll ask a doctor on what they can do to stay safe.",
+      "endDate": "2020-12-15T04:55:00.000Z",
+      "link": "https://mega.nz/folder/0wNA0JTJ#F6gVGT8aJYj-vv0lih5YCQ",
+      "recordDateEnd": "2020-12-15T04:55:27.795Z",
+      "recordDateStart": "2020-12-15T04:44:20.002Z",
+      "seriesId": "2086",
+      "sha256": "56aa5b4e6aa88cec64a0ba82311b4082c324955d461e11705ac3c8b531e47d96",
+      "startDate": "2020-12-15T04:45:00.000Z",
+      "subtitle": "COVID-19: Reducing Your Risk of Serious Illness #2: Kidney Disease",
+      "title": "Doctor's Insight",
+      "uploadedDate": "2020-12-25T19:08:02.054Z",
+      "raw": "https://mega.nz/folder/I09UkDRA#QZl7NND_xkSvy6jZj8_-ZQ"
     },
     {
       "airingId": "009",
@@ -49,6 +66,22 @@
       "title": "Doctor's Insight",
       "uploadedDate": "2020-12-29T05:23:02.857Z",
       "raw": "https://mega.nz/folder/SgtlXKgI#NLRzzfsGOnlNLSjfc9mTfw"
+    },
+    {
+      "airingId": "016",
+      "content": "The retina is a layer of tissue in the back of our eyes. It acts as a screen where images are projected. We need a healthy retina to see things clearly. However, diabetes can slowly damage the retina. According to the WHO, among the 420 million people with diabetes worldwide, 1 in 3 people have diabetic retinopathy, a retinal disease caused by diabetes. People with good vision can experience sudden vision loss. Find out how to protect yourself from this silent killer of eyesight.",
+      "description": "The retina plays an essential part of our vision. However, \"diabetic retinopathy\" can slowly damage the retina and even cause sudden vision loss. Find out what you can do to protect your eyes.",
+      "endDate": "2020-11-24T04:55:00.000Z",
+      "link": "https://mega.nz/folder/X58GnKTL#AzK3XGI7nz8wAovdN_V_6A",
+      "recordDateEnd": "2020-11-24T04:55:26.301Z",
+      "recordDateStart": "2020-11-24T04:44:20.029Z",
+      "seriesId": "2086",
+      "sha256": "84ac7397bb4b1f54ceb499ce0367a36962184fcec9fa97a45dc3f95c94147b1f",
+      "startDate": "2020-11-24T04:45:00.000Z",
+      "subtitle": "Eye Diseases #5: Diabetic Retinopathy",
+      "title": "Doctor's Insight",
+      "uploadedDate": "2020-12-25T19:25:12.681Z",
+      "raw": "https://mega.nz/folder/FB5glbaR#rmMFQWBdUS3rIOR8DQ0Ihg"
     },
     {
       "airingId": "017",

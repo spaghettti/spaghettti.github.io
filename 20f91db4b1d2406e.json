@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-29T23:30:03.109Z",
+  "lastUpdated": "2020-12-30T00:05:02.757Z",
   "seriesId": "6025",
   "title": "TIME-LAPSE",
   "episodes": [
@@ -100,6 +100,22 @@
       "raw": "https://mega.nz/folder/SkMAEBSR#0zgps-1EBcud2pH3B0WtEg"
     },
     {
+      "airingId": "007",
+      "content": "",
+      "description": "NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.",
+      "endDate": "2020-11-29T23:25:00.000Z",
+      "link": "https://mega.nz/folder/nUsxWQxQ#FBZAfgz3N9jfwQ1K5lsUlQ",
+      "recordDateEnd": "2020-11-29T23:25:26.373Z",
+      "recordDateStart": "2020-11-29T23:19:20.002Z",
+      "seriesId": "6025",
+      "sha256": "856c1fc402b096e14befe99cd925389e971bbc483f0c8af6b5b131b8d0ee5cdc",
+      "startDate": "2020-11-29T23:20:00.000Z",
+      "subtitle": "",
+      "title": "TIME-LAPSE JAPAN",
+      "uploadedDate": "2020-12-24T06:40:25.313Z",
+      "raw": "https://mega.nz/folder/xA8GGQSC#rM2tYLJPURGCo1elMK0WYA"
+    },
+    {
       "airingId": "008",
       "content": "",
       "description": "NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.",
@@ -148,6 +164,22 @@
       "raw": "https://mega.nz/folder/YIozhKxI#6SORFnxY66QnKS0wDXxgkw"
     },
     {
+      "airingId": "011",
+      "content": "",
+      "description": "Stunning time-lapse images offer a new angle on Tokyo. We hope you enjoy these original takes on what may be the world's most exciting metropolis! This time: Backstreets and Alleys.",
+      "endDate": "2020-12-02T23:25:00.000Z",
+      "link": "https://mega.nz/folder/Ko90wRqK#7u4R3wL1zLDL3JhOrrDJKA",
+      "recordDateEnd": "2020-12-02T23:25:29.005Z",
+      "recordDateStart": "2020-12-02T23:19:20.098Z",
+      "seriesId": "6025",
+      "sha256": "6dd880265111f6e383d5e5bd580428ade7015c6c1fed5d7908270578dcd17a67",
+      "startDate": "2020-12-02T23:20:00.000Z",
+      "subtitle": "",
+      "title": "Tokyo Time-Lapse",
+      "uploadedDate": "2020-12-24T05:41:46.088Z",
+      "raw": "https://mega.nz/folder/UJ811CJD#b4qhpbEOttdxy9Dew2NQKw"
+    },
+    {
       "airingId": "012",
       "content": "",
       "description": "Stunning time-lapse images offer a new angle on Tokyo. We hope you enjoy these original takes on what may be the world's most exciting metropolis! This time: Expressways.",
@@ -162,6 +194,22 @@
       "title": "Tokyo Time-Lapse",
       "uploadedDate": "2020-12-24T05:38:08.596Z",
       "raw": "https://mega.nz/folder/AkkhyAiS#cPsL42r5Pq_hYNAZBhA4rw"
+    },
+    {
+      "airingId": "013",
+      "content": "",
+      "description": "Stunning time-lapse images offer a new angle on Tokyo. We hope you enjoy these original takes on what may be the world's most exciting metropolis! This time: Nightview.",
+      "endDate": "2020-11-16T23:25:00.000Z",
+      "link": "https://mega.nz/folder/LwEAwBJZ#iATv6yNjg68s3FJEUNfPew",
+      "recordDateEnd": "2020-11-16T23:25:27.038Z",
+      "recordDateStart": "2020-11-16T23:19:20.137Z",
+      "seriesId": "6025",
+      "sha256": "b3c9de395452af5bd682b19f1410b4e1262882cabfb26cdd17484b9f342dd625",
+      "startDate": "2020-11-16T23:20:00.000Z",
+      "subtitle": "",
+      "title": "Tokyo Time-Lapse",
+      "uploadedDate": "2020-12-24T05:34:17.872Z",
+      "raw": "https://mega.nz/folder/v4VHlC7b#wmtWe9Vums7pDf53yJHEtg"
     },
     {
       "airingId": "014",

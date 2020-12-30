@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2020-12-29T23:30:03.025Z",
+  "lastUpdated": "2020-12-30T00:05:02.662Z",
   "seriesId": "2069",
   "title": "Wild Hokkaido!",
   "episodes": [
+    {
+      "airingId": "060",
+      "content": "Our stage this time is Lake Mashu, a caldera lake and its surrounds in eastern Hokkaido Prefecture. Our program host climbs Mt. Mashudake near the lake. On his way to the summit of the mountain, he comes across some summertime alpine flowers. After walking for about 4 hours, he finally reaches the summit, where a superb view overlooking Lake Mashu spreads out before his eyes. Later, we show you rare footage of a variety of creatures that survive in the plentiful spring water in the forest surrounding Lake Mashu.",
+      "description": "Our stage this time is Lake Mashu, a caldera lake and its surrounds in eastern Hokkaido Prefecture. Our program host climbs Mt. Mashudake near the lake, enjoying some summertime alpine flowers.",
+      "endDate": "2020-11-15T07:00:00.000Z",
+      "link": "https://mega.nz/folder/7YskwLaA#foe5SvlDNbuVEi6_7QRkWg",
+      "recordDateEnd": "2020-11-15T07:00:27.954Z",
+      "recordDateStart": "2020-11-15T06:44:20.100Z",
+      "seriesId": "2069",
+      "sha256": "db9288ed70e4ae2d87fad64ceb600a5375d812c3454b1ae24bc183878acbdb28",
+      "startDate": "2020-11-15T06:45:00.000Z",
+      "subtitle": "Mashu",
+      "title": "Wild Hokkaido!",
+      "uploadedDate": "2020-12-24T01:00:59.077Z",
+      "raw": "https://mega.nz/folder/IQlS0CqA#r2r9SPuNiWCDvN-HyFXYvA"
+    },
     {
       "airingId": "061",
       "content": "Our stage this time is Sapporo, a capital city of Hokkaido Prefecture. To the west of Sapporo's city center are many mountains, where you can fully enjoy its rich nature. Our program host treks through the mountain path that leads from locally popular Mt. Sankakuyama to Mt. Okurayama, and encounters a variety of plants as well as wildlife along the way. Further, a spectacular view awaits him at the summit. Later, we show you rare footage of local wildlife in the Toyohira River, which flows through the city and is a source of sustenance for them.",
@@ -16,7 +32,24 @@
       "startDate": "2020-11-22T06:45:00.000Z",
       "subtitle": "Sapporo",
       "title": "Wild Hokkaido!",
-      "uploadedDate": "2020-12-24T01:00:07.598Z"
+      "uploadedDate": "2020-12-24T01:00:07.598Z",
+      "raw": "https://mega.nz/folder/YRYRHYwZ#aw7qUSj1JJNlICCrwqZVpw"
+    },
+    {
+      "airingId": "062",
+      "content": "Our stage this time is the Taisetsu Mountain Range, which is consisting of several peaks over 2,000 meters above sea level and designated a national park, the largest in Japan. Our program host explores the numerous ponds located at the mountainside. Autumn arrives early here in the Taisetsu Mountain Range, where the fall foliage is at its most beautiful in late September, and magnificent scenery colored in bright red and yellow spreads out. Later, we show you rare footage of some wildlife that inhabits near the summit, preparing for the winter.",
+      "description": "Our program host explores the numerous ponds located at the Taisetsu Mountain Range. The fall foliage is at its most beautiful in late September, and magnificent scenery spreads out.",
+      "endDate": "2020-11-29T07:00:00.000Z",
+      "link": "https://mega.nz/folder/wB9ERDjI#dsNx_ZJaWfydKQqdpt0_ZQ",
+      "recordDateEnd": "2020-11-29T07:00:29.812Z",
+      "recordDateStart": "2020-11-29T06:44:20.103Z",
+      "seriesId": "2069",
+      "sha256": "0c0cfcc6dff446b9af72b6e7afa7ae77f42383fe930273a6f27b8968a9304a72",
+      "startDate": "2020-11-29T06:45:00.000Z",
+      "subtitle": "Autumn in the Taisetsu Mountain Range",
+      "title": "Wild Hokkaido!",
+      "uploadedDate": "2020-12-24T00:47:00.007Z",
+      "raw": "https://mega.nz/folder/FVMDmKwB#hqSehRc2DIkQsad-zPfp1Q"
     },
     {
       "airingId": "064",

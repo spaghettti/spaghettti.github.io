@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T01:05:03.154Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.697Z</lastUpdated>
   <seriesId>e425ad11d70fcae3</seriesId>
   <title>Zeroing In: Carbon Neutral 2050</title>
+  <episode>
+    <airingId>661</airingId>
+    <content/>
+    <description>Climate change is our common crisis. Some people are doing all they can to stop it. In partnership with Northern California Public Media, we zero in on grassroots actions for a carbon-neutral future.</description>
+    <endDate>2020-12-11T23:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/6lkwyYgD#1ESiB8neaPc095jTEyilUw</link>
+    <recordDateEnd>2020-12-11T23:55:30.937Z</recordDateEnd>
+    <recordDateStart>2020-12-11T23:29:20.118Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>6c43df3b474c4906cfee0c0204afbc2305fc810bac28cd20c8e85b43361f709e</sha256>
+    <startDate>2020-12-11T23:30:00.000Z</startDate>
+    <subtitle>Episode 1: The Power of Youth</subtitle>
+    <title>Zeroing In: Carbon Neutral 2050</title>
+    <uploadedDate>2020-12-24T00:29:13.443Z</uploadedDate>
+    <raw>https://mega.nz/folder/oQ4CgCiZ#7m1uQCri-g3wOA38dYyphA</raw>
+  </episode>
   <episode>
     <airingId>662</airingId>
     <content/>

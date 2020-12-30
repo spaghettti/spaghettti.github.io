@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-29T23:30:03.072Z</lastUpdated>
+  <lastUpdated>2020-12-30T00:05:02.710Z</lastUpdated>
   <seriesId>a5fed3c217d7b7f6</seriesId>
   <title>Today's Close-Up</title>
   <episode>
@@ -44,6 +44,43 @@ Miyata Hiroaki (Professor, Keio University)</content>
     <title>Today's Close-Up</title>
     <uploadedDate>2020-12-24T07:02:22.420Z</uploadedDate>
     <raw>https://mega.nz/folder/FVkASCrS#EyFybDVqwBuTFAc5tZkdjg</raw>
+  </episode>
+  <episode>
+    <airingId>810</airingId>
+    <content>The Tokyo Olympic Games are due to open in eight months' time, but can they really be held while the coronavirus pandemic shows no sign of ending? An international gymnastics competition held in Tokyo in early November was used as a test event. The organizers took strict anti-infection measures, but were troubled by a series of unexpected problems. NHK went behind the scenes to see what will be necessary to safely hold the Tokyo 2020 Olympic Games.
+Guest:
+Kaku Mitsuo (Specially Appointed Professor, Tohoku Medical and Pharmaceutical University)</content>
+    <description>What difficulties await the organizers of the Tokyo Olympic Games next year because of the coronavirus pandemic? We look behind the scenes of an international gymnastics meet held as a test in Tokyo.</description>
+    <endDate>2020-11-27T22:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ocQGgTIC#9zi3R8FgQcerk8k6XzT60A</link>
+    <recordDateEnd>2020-11-27T22:00:32.665Z</recordDateEnd>
+    <recordDateStart>2020-11-27T21:29:20.098Z</recordDateStart>
+    <seriesId>4002</seriesId>
+    <sha256>3bf6f259ea0ec44ad1c5bb90b928046f77856629251dcb0be05c803bf50db17f</sha256>
+    <startDate>2020-11-27T21:30:00.000Z</startDate>
+    <subtitle>Are the Tokyo Games Possible? - Int'l Gymnastics Meet Held as Test</subtitle>
+    <title>Today's Close-Up</title>
+    <uploadedDate>2020-12-24T06:32:12.742Z</uploadedDate>
+    <raw>https://mega.nz/folder/tgtSUQID#r_xpY3mk-uJDIy9Am4EwzA</raw>
+  </episode>
+  <episode>
+    <airingId>811</airingId>
+    <content>In the latest Global Gender Gap Index survey, Japan came 121st out of 153 countries, and was the lowest among major advanced nations. The government is aiming to have women in 30 percent of leadership roles by 2020, but the figure currently stands at just 14.8 percent. What does Japanese society need to do to change this? Overcoming "unconscious bias" might be the answer. NHK took a close look at how some companies are trying to tackle this issue to find out the key to creating a workplace where women can shine.
+Guests:
+Takeishi Emiko (Professor, Hosei University)
+Miyata Hiroaki (Professor, Keio University)</content>
+    <description>Unconscious biases are regarded as one of the main factors behind the struggle to get women to play more active roles in Japanese companies. We take a look at the effort to overcome them.</description>
+    <endDate>2020-12-04T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/dABEgZzA#ssYcbCWBnowUk8KtIxVg6g</link>
+    <recordDateEnd>2020-12-04T16:00:29.689Z</recordDateEnd>
+    <recordDateStart>2020-12-04T15:29:22.949Z</recordDateStart>
+    <seriesId>4002</seriesId>
+    <sha256>0b973b8f03f45940dab536cc803a0023a097b7915f8e8bc6a4333d0010d7e373</sha256>
+    <startDate>2020-12-04T15:30:00.000Z</startDate>
+    <subtitle>A Workplace Where Women Can Shine: Overcoming Innate Gender Bias</subtitle>
+    <title>Today's Close-Up</title>
+    <uploadedDate>2020-12-24T06:29:21.467Z</uploadedDate>
+    <raw>https://mega.nz/folder/REkkmApD#g6SIWsgOZiPTWBFP_ZH0Gg</raw>
   </episode>
   <episode>
     <airingId>812</airingId>
