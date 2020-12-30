@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-30T01:05:02.587Z",
+  "lastUpdated": "2020-12-30T01:25:02.868Z",
   "seriesId": "3019",
   "title": "15 Minutes",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "15 Minutes",
       "uploadedDate": "2020-12-26T15:08:40.092Z",
       "raw": "https://mega.nz/folder/dVxShTKb#bJCyr8Rg2C4Fv1gaGgkj0g"
+    },
+    {
+      "airingId": "066",
+      "content": "The town of Monzenmachi in Ishikawa Prefecture is surrounded by both the sea and mountains. Here, Sayaka Mori (38) has decided to open a guesthouse limited to one group per night. Although she originally hated cooking, through learning from local teachers, she cooks dishes with ingredients she sources herself and shares the rich local food culture with her guests. This time, she prepares a special seaweed roll, made with seaweed that can only be harvested during a ten-day window.",
+      "description": "Sayaka Mori runs a guesthouse on the remote Noto Peninsula. Learning from local teachers how to source and prepare ingredients from both the sea and land, she tries to pass on the rich food culture.",
+      "endDate": "2020-12-30T01:00:00.000Z",
+      "link": "https://mega.nz/folder/6hN0CL6I#3C5e8w5cI6JHPE2cZOEUiw",
+      "recordDateEnd": "2020-12-30T01:00:30.663Z",
+      "recordDateStart": "2020-12-30T00:44:20.008Z",
+      "seriesId": "3019",
+      "sha256": "f3867fea7485e65f71a2c28ec3acecbde6380b5762d7e14da020daa9b0b212cf",
+      "startDate": "2020-12-30T00:45:00.000Z",
+      "subtitle": "Through the Kitchen Window: Sayaka Mori - Seaweed Maki Roll",
+      "title": "15 Minutes",
+      "uploadedDate": "2020-12-30T01:21:46.367Z"
     },
     {
       "airingId": "113",
