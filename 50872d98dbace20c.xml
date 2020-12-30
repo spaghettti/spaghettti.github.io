@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-30T00:55:02.653Z</lastUpdated>
+  <lastUpdated>2020-12-30T01:05:02.513Z</lastUpdated>
   <seriesId>50872d98dbace20c</seriesId>
   <title>TOKYO EYE</title>
   <episode>
@@ -99,5 +99,20 @@
     <title>TOKYO EYE 2020</title>
     <uploadedDate>2020-12-24T18:22:26.088Z</uploadedDate>
     <raw>https://mega.nz/folder/ERtz3aYK#2guUtBCWuj8xEtSlF-BVPw</raw>
+  </episode>
+  <episode>
+    <airingId>196</airingId>
+    <content>Here on TOKYO EYE 2020, we've featured many people and organizations trying to make the most of the coronavirus pandemic and give back to society. Today, we'll revisit some of our stories from the past few months and see how the people behind them are doing.</content>
+    <description>We've featured many people trying to make the most of the coronavirus pandemic. We will revisit some of our stories from the past few months and see how the people behind them are doing.</description>
+    <endDate>2020-12-30T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/H4tlSayD#qb_ze9LS2k7fnR9jJdRvzQ</link>
+    <recordDateEnd>2020-12-30T00:00:32.853Z</recordDateEnd>
+    <recordDateStart>2020-12-29T23:29:20.067Z</recordDateStart>
+    <seriesId>2053</seriesId>
+    <sha256>3eda4d86408a914adfe6f023fc43fdcdd018ecfca7304f430b3a86df15858dd6</sha256>
+    <startDate>2020-12-29T23:30:00.000Z</startDate>
+    <subtitle>Tokyo and the Coronavirus: Tokyo Fights On</subtitle>
+    <title>TOKYO EYE 2020</title>
+    <uploadedDate>2020-12-30T01:00:16.934Z</uploadedDate>
   </episode>
 </episodeList>
