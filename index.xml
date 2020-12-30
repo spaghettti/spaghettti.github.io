@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-30T03:55:02.672Z</lastUpdated>
+  <lastUpdated>2020-12-30T04:05:02.917Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -59,10 +59,10 @@
     <title>Barakan Discovers</title>
   </series>
   <series>
-    <count>12</count>
+    <count>13</count>
     <uniqueId>d58f68b3577f3e24</uniqueId>
-    <lastAiring>2020-12-29T02:23:00.000Z</lastAiring>
-    <lastUpload>2020-12-29T05:27:15.214Z</lastUpload>
+    <lastAiring>2020-12-30T02:23:00.000Z</lastAiring>
+    <lastUpload>2020-12-30T04:02:36.797Z</lastUpload>
     <seriesId>6001</seriesId>
     <title>BEGIN Japanology mini</title>
   </series>

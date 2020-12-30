@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-30T03:55:02.617Z</lastUpdated>
+  <lastUpdated>2020-12-30T04:05:02.865Z</lastUpdated>
   <seriesId>d58f68b3577f3e24</seriesId>
   <title>BEGIN Japanology mini</title>
   <episode>
@@ -115,6 +115,22 @@
     <title>BEGIN Japanology mini</title>
     <uploadedDate>2020-12-29T05:27:15.214Z</uploadedDate>
     <raw>https://mega.nz/folder/lNx3QCIJ#-OHEEOBorXTbFC93hyOYNw</raw>
+  </episode>
+  <episode>
+    <airingId>012</airingId>
+    <content/>
+    <description>Trivia on aspects of Japan's unique culture and products that reflect the aesthetic sense and values of the Japanese people. Today: Bento.</description>
+    <endDate>2020-12-30T02:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/VNN1VY5S#z-jiLDF1qlXKXtkwsB2LEQ</link>
+    <recordDateEnd>2020-12-30T02:30:26.540Z</recordDateEnd>
+    <recordDateStart>2020-12-30T02:22:20.003Z</recordDateStart>
+    <seriesId>6001</seriesId>
+    <sha256>a3fd3ceb6ce91197cef532921319ce8ed955baa932c17f6480dbf705c58e499f</sha256>
+    <startDate>2020-12-30T02:23:00.000Z</startDate>
+    <subtitle/>
+    <title>BEGIN Japanology mini</title>
+    <uploadedDate>2020-12-30T04:02:36.797Z</uploadedDate>
+    <raw>https://mega.nz/folder/d1lkiRja#EC1c1_wGAeHsfc79Zw_8cw</raw>
   </episode>
   <episode>
     <airingId>013</airingId>
