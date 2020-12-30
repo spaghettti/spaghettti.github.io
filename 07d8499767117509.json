@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-30T07:40:02.982Z",
+  "lastUpdated": "2020-12-30T08:00:03.479Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1010,6 +1010,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-24T22:32:49.986Z",
       "raw": "https://mega.nz/folder/ax0Sma6C#NzqhTQZ_DGGGLS63WPGJgA"
+    },
+    {
+      "airingId": "726",
+      "content": "Wendy Kopp heads \"Teach For All.\" It recruits recent graduates to teach for a 2-year mission. It operates in 59 countries providing quality education in challenging places and even during COVID-19.",
+      "description": "Wendy Kopp heads \"Teach For All.\" It recruits recent graduates to teach for a 2-year mission. It operates in 59 countries providing quality education in challenging places and even during COVID-19.",
+      "endDate": "2020-12-30T07:30:00.000Z",
+      "link": "https://mega.nz/folder/K59WzahK#a7GOFTz0tjGaL5paXsPrYQ",
+      "recordDateEnd": "2020-12-30T07:30:28.670Z",
+      "recordDateStart": "2020-12-30T07:14:20.004Z",
+      "seriesId": "2058",
+      "sha256": "cd3a195ea7506656b3b6e92289b6957212b203347bdc94fbd19a68fed5a8c1e0",
+      "startDate": "2020-12-30T07:15:00.000Z",
+      "subtitle": "Quality Education Around the World: Wendy Kopp / CEO and Co-Founder of Teach For All",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-30T07:59:05.352Z"
     }
   ]
 }
