@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-30T02:25:02.589Z</lastUpdated>
+  <lastUpdated>2020-12-30T03:55:02.502Z</lastUpdated>
   <seriesId>5ce8e3dcbf90e5b7</seriesId>
   <title>Side by Side</title>
   <episode>
@@ -35,5 +35,21 @@
     <title>Side by Side</title>
     <uploadedDate>2020-12-24T09:07:46.142Z</uploadedDate>
     <raw>https://mega.nz/folder/RYhT0ajK#Poo8etnpaQ10PbiN9UeGqg</raw>
+  </episode>
+  <episode>
+    <airingId>072</airingId>
+    <content>As of December 2020, Brazil has 7 million COVID-19 cases, the third highest number in the world. Meet the people fighting a terrifying situation. Shiraishi Telma runs a Japanese restaurant and hands out free bento to the many people in São Paulo left homeless because of the pandemic. She works with Japanese food researcher Ishizu Akiko. A Brazilian doctor provides free medical services in a rural area, supported by Japanese NPO BRIDGE. They all hope to turn the tide by working together.</content>
+    <description>In Brazil, a chef is cooking free meals for people living on the streets of Sao Paulo. Meanwhile, a doctor in the underserved rural town of Guia Lopes da Laguna provides free healthcare to locals.</description>
+    <endDate>2020-12-30T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/b9U2QBbI#KxW1dcsZglhZCmU3ZBmg5g</link>
+    <recordDateEnd>2020-12-30T02:00:27.565Z</recordDateEnd>
+    <recordDateStart>2020-12-30T01:29:23.547Z</recordDateStart>
+    <seriesId>2037</seriesId>
+    <sha256>3cf17c01baa84e142418c3b32a1cf99f6b896e83dcfab8ffe5b9b1c78429b372</sha256>
+    <startDate>2020-12-30T01:30:00.000Z</startDate>
+    <subtitle>Conquering COVID-19: Brazil</subtitle>
+    <title>Side by Side</title>
+    <uploadedDate>2020-12-30T03:51:46.174Z</uploadedDate>
+    <raw>https://mega.nz/folder/wt1zhYgR#iHB_h8IamiassuAhqdNfEA</raw>
   </episode>
 </episodeList>
