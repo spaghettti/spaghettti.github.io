@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-30T08:00:03.479Z",
+  "lastUpdated": "2020-12-30T10:36:28.971Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -596,6 +596,21 @@
       "raw": "https://mega.nz/folder/n5MFQAiK#xMt4PD_fznc55zimUfFrLg"
     },
     {
+      "airingId": "664",
+      "content": "",
+      "description": "Nakajima Satoshi is a software engineer developing a free app for takeout orders that he designed to help businesses pushed to the verge of bankruptcy by the economic effects of the COVID-19 outbreak.",
+      "endDate": "2020-12-30T09:30:00.000Z",
+      "link": "https://mega.nz/folder/m9E0ADgQ#uHfsb2Ob4DNkAihD2_ziEQ",
+      "recordDateEnd": "2020-12-30T09:31:01.682Z",
+      "recordDateStart": "2020-12-30T09:14:21.078Z",
+      "seriesId": "2058",
+      "sha256": "2a6f4cd2456d2cba558dfee7cf9f8ff9da15ee26ac340652ba821efbb5dfde63",
+      "startDate": "2020-12-30T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2020-12-30T10:35:46.880Z"
+    },
+    {
       "airingId": "670",
       "content": "",
       "description": "Dominique Chen, known for his outstanding research in the field of information studies, talks about ways to achieve well-being through digital communications.",
@@ -1024,7 +1039,8 @@
       "startDate": "2020-12-30T07:15:00.000Z",
       "subtitle": "Quality Education Around the World: Wendy Kopp / CEO and Co-Founder of Teach For All",
       "title": "Direct Talk",
-      "uploadedDate": "2020-12-30T07:59:05.352Z"
+      "uploadedDate": "2020-12-30T07:59:05.352Z",
+      "raw": "https://mega.nz/folder/ypk2jKwb#IkKdXja_9TXePfW0WSduRw"
     }
   ]
 }
