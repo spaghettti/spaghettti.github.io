@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-31T15:40:03.347Z",
+  "lastUpdated": "2020-12-31T16:55:03.403Z",
   "seriesId": "6113",
   "title": "The Great Summits",
   "episodes": [
@@ -130,6 +130,22 @@
       "title": "The Great Summits",
       "uploadedDate": "2020-12-30T04:49:26.558Z",
       "raw": "https://mega.nz/folder/L4cRRQhR#td2hoksJpSlspHG_9gp5Gw"
+    },
+    {
+      "airingId": "032",
+      "content": "",
+      "description": "\"The Great Summit\" presents you with breathtaking views and stories behind famous mountains around the world. Today: People Living in Harmony with the Mountain, Kilimanjaro, Africa.",
+      "endDate": "2020-12-31T04:20:00.000Z",
+      "link": "https://mega.nz/folder/wN9mzDrY#I69mJv8U7s2OkVa2Yt1G2w",
+      "recordDateEnd": "2020-12-31T04:20:22.715Z",
+      "recordDateStart": "2020-12-31T04:09:23.748Z",
+      "seriesId": "6113",
+      "sha256": "f658a1dc5765fe0d6724da880f520f1ec770ba63df612577c1dbc47715579c58",
+      "startDate": "2020-12-31T04:10:00.000Z",
+      "subtitle": "",
+      "title": "The Great Summits",
+      "uploadedDate": "2020-12-31T16:51:13.018Z",
+      "raw": "https://mega.nz/folder/IQoVjAKb#gB97L1g0wbKWWM4KdgkloA"
     }
   ]
 }

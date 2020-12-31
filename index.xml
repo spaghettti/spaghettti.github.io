@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-31T15:40:03.390Z</lastUpdated>
+  <lastUpdated>2020-12-31T16:55:03.426Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -731,10 +731,10 @@
     <title>Spiritual Explorers</title>
   </series>
   <series>
-    <count>8</count>
+    <count>9</count>
     <uniqueId>05e910e7289de2b7</uniqueId>
-    <lastAiring>2020-12-30T04:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-30T04:49:26.558Z</lastUpload>
+    <lastAiring>2020-12-31T04:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-31T16:51:13.018Z</lastUpload>
     <seriesId>6113</seriesId>
     <title>The Great Summits</title>
   </series>
