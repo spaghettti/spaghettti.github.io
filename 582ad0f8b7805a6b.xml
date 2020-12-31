@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-31T06:40:04.653Z</lastUpdated>
+  <lastUpdated>2020-12-31T06:45:03.280Z</lastUpdated>
   <seriesId>582ad0f8b7805a6b</seriesId>
   <title>Core Kyoto mini</title>
   <episode>
@@ -131,6 +131,22 @@
     <title>Core Kyoto mini</title>
     <uploadedDate>2020-12-26T03:50:19.727Z</uploadedDate>
     <raw>https://mega.nz/folder/gJEQiTJJ#8rW8wrY_cDOtYvwVYxOmJg</raw>
+  </episode>
+  <episode>
+    <airingId>011</airingId>
+    <content/>
+    <description>Kata-yuzen, the stenciled beauty of dyeing. Dive deep into the ancient capital, still innovative 1,200 years after its foundation.</description>
+    <endDate>2020-12-31T03:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/wRBSGLLA#lPj0F4jCaKKS3_3fjWAbAA</link>
+    <recordDateEnd>2020-12-31T03:30:28.040Z</recordDateEnd>
+    <recordDateStart>2020-12-31T03:24:22.688Z</recordDateStart>
+    <seriesId>6024</seriesId>
+    <sha256>e08b99d9aecd38504b4682818402532ded1ce8394281deeb5e7e89c3748f909b</sha256>
+    <startDate>2020-12-31T03:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Core Kyoto mini</title>
+    <uploadedDate>2020-12-31T06:44:22.427Z</uploadedDate>
+    <raw>https://mega.nz/folder/oMZS3Jpa#OCMpWt8sEJs1JcQDxaqX0w</raw>
   </episode>
   <episode>
     <airingId>017</airingId>
