@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-31T10:05:03.176Z</lastUpdated>
+  <lastUpdated>2020-12-31T10:30:03.109Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1043,5 +1043,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-30T07:59:05.352Z</uploadedDate>
     <raw>https://mega.nz/folder/ypk2jKwb#IkKdXja_9TXePfW0WSduRw</raw>
+  </episode>
+  <episode>
+    <airingId>727</airingId>
+    <content>Fashion designer Agnès b, who has long supported artists and continued various social activities, recently opened new art gallery in Paris. She talks about the power of art in society.</content>
+    <description>Fashion designer Agnes b, who has long supported artists and continued various social activities, recently opened new art gallery in Paris. She talks about the power of art in society.</description>
+    <endDate>2020-12-31T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/Rk1wBBiY#7Z__KsR1K3lX78XVLQxekg</link>
+    <recordDateEnd>2020-12-31T07:30:26.652Z</recordDateEnd>
+    <recordDateStart>2020-12-31T07:14:20.102Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>444bbffe9de39dac7aacbf214657bce2cb5488b15e9130be2bbf3ffec4eee9de</sha256>
+    <startDate>2020-12-31T07:15:00.000Z</startDate>
+    <subtitle>Embracing a Passion for Art and Beauty: Agnès b. / Fashion Designer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-31T10:26:15.592Z</uploadedDate>
+    <raw>https://mega.nz/folder/xMV0iLCS#C1AypvGKuCxshzf3cnTO3w</raw>
   </episode>
 </episodeList>
