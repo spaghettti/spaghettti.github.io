@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-31T17:25:03.546Z</lastUpdated>
+  <lastUpdated>2020-12-31T19:15:03.708Z</lastUpdated>
   <seriesId>054ab52e36a50c36</seriesId>
   <title>CYCLE AROUND JAPAN  Highlights</title>
   <episode>
@@ -67,6 +67,22 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
     <uploadedDate>2020-12-26T03:30:10.292Z</uploadedDate>
     <raw>https://mega.nz/folder/oxdxlSRA#G5ECJk22m4W5dGDg029-JQ</raw>
+  </episode>
+  <episode>
+    <airingId>018</airingId>
+    <content>The area around "Jingu," the Grand Shrine of Ise, was lively even during the Edo period, bustling with activity and entertainment while the shrine itself served as a sacred place for worshippers. This created a distinct culture. The complex terrain led to unique customs which are still cherished today. A traditional shellfish female diver "ama" who enters the water without any breathing gear is born from necessity. Discover the local culture and other traditions on our journey through Mie Prefecture.</content>
+    <description>This time, our cyclist rides through Mie Prefecture,known as the home of sacred shrine Ise Jingu, complex terrain, and people who continue to live lives of tradition, including "ama" abalone divers.</description>
+    <endDate>2020-12-31T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/R8EBwajA#RRnqBmfhIl2r-wtkuPjiRA</link>
+    <recordDateEnd>2020-12-31T15:00:28.200Z</recordDateEnd>
+    <recordDateStart>2020-12-31T14:29:22.367Z</recordDateStart>
+    <seriesId>2070</seriesId>
+    <sha256>8305c5fdd563dbe222f27d1785dc2b100fe148bdc9138c60781de85fb4e267ae</sha256>
+    <startDate>2020-12-31T14:30:00.000Z</startDate>
+    <subtitle>Mie - A Summer Dream</subtitle>
+    <title>CYCLE AROUND JAPAN  Highlights</title>
+    <uploadedDate>2020-12-31T19:13:26.353Z</uploadedDate>
+    <raw>https://mega.nz/folder/Bs1VUAjB#JVJk5_Rl2zNtiezjEostuQ</raw>
   </episode>
   <episode>
     <airingId>029</airingId>

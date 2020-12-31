@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-31T17:25:03.675Z</lastUpdated>
+  <lastUpdated>2020-12-31T19:15:03.833Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -83,14 +83,6 @@
     <title>BIZ STREAM</title>
   </series>
   <series>
-    <count>1</count>
-    <uniqueId>71725fb1c2f9b8d3</uniqueId>
-    <lastAiring>2020-12-31T02:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-31T03:29:33.602Z</lastUpload>
-    <seriesId>3004</seriesId>
-    <title>BIZ STREEAM</title>
-  </series>
-  <series>
     <count>2</count>
     <uniqueId>9c30b4f9ab150e98</uniqueId>
     <lastAiring>2020-12-05T23:45:00.000Z</lastAiring>
@@ -155,10 +147,10 @@
     <title>Culture Crossroads</title>
   </series>
   <series>
-    <count>6</count>
+    <count>7</count>
     <uniqueId>054ab52e36a50c36</uniqueId>
-    <lastAiring>2020-12-24T14:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T03:50:44.095Z</lastUpload>
+    <lastAiring>2020-12-31T14:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-31T19:13:26.353Z</lastUpload>
     <seriesId>2070</seriesId>
     <title>CYCLE AROUND JAPAN  Highlights</title>
   </series>

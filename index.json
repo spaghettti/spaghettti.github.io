@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-31T17:25:03.680Z",
+  "lastUpdated": "2020-12-31T19:15:03.844Z",
   "series": [
     {
       "count": 11,
@@ -82,14 +82,6 @@
       "title": "BIZ STREAM"
     },
     {
-      "count": 1,
-      "uniqueId": "71725fb1c2f9b8d3",
-      "lastAiring": "2020-12-31T02:10:00.000Z",
-      "lastUpload": "2020-12-31T03:29:33.602Z",
-      "seriesId": "3004",
-      "title": "BIZ STREEAM"
-    },
-    {
       "count": 2,
       "uniqueId": "9c30b4f9ab150e98",
       "lastAiring": "2020-12-05T23:45:00.000Z",
@@ -154,10 +146,10 @@
       "title": "Culture Crossroads"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "054ab52e36a50c36",
-      "lastAiring": "2020-12-24T14:30:00.000Z",
-      "lastUpload": "2020-12-26T03:50:44.095Z",
+      "lastAiring": "2020-12-31T14:30:00.000Z",
+      "lastUpload": "2020-12-31T19:13:26.353Z",
       "seriesId": "2070",
       "title": "CYCLE AROUND JAPAN  Highlights"
     },
