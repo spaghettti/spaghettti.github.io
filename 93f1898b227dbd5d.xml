@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-31T08:05:03.175Z</lastUpdated>
+  <lastUpdated>2020-12-31T08:50:03.076Z</lastUpdated>
   <seriesId>93f1898b227dbd5d</seriesId>
   <title>DESIGN TALKS plus</title>
   <episode>
@@ -99,5 +99,20 @@
     <title>DESIGN TALKS plus</title>
     <uploadedDate>2020-12-26T02:47:48.438Z</uploadedDate>
     <raw>https://mega.nz/folder/EJpGSD7b#OrMLoDtDEF7KDODkCXfr1Q</raw>
+  </episode>
+  <episode>
+    <airingId>138</airingId>
+    <content>On Design Hunts Andy and Shaula search for designs rooted in regional history and climates. This time they visit Chiba Prefecture. Surrounded by the sea on 3 sides, warm currents keep the local climate mild enough for spring flowers to bloom in December, drawing visitors from all over Japan. As Tokyo's neighbor Chiba is also popular among people looking for a new home, and those establishing a second base. Chiba is also a hub for new design projects. Join us on a design hunt for creative and imaginative designs shaped by this region's welcoming and laidback atmosphere!</content>
+    <description>Today's theme: Design Hunting in Chiba. Local currents keep Chiba warm, with flowers blooming in December. Tokyo's neighbor also attracts a creative crowd. Join us on a hunt for imaginative designs.</description>
+    <endDate>2020-12-31T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/gg8VgKab#5FzQAr0NV9lLqSd597Nwqw</link>
+    <recordDateEnd>2020-12-31T01:00:30.648Z</recordDateEnd>
+    <recordDateStart>2020-12-31T00:29:20.101Z</recordDateStart>
+    <seriesId>2046</seriesId>
+    <sha256>e3d08d517de754fc60190caa311f765cc8ea3cb43f071fb9fa03686fc8a02fd7</sha256>
+    <startDate>2020-12-31T00:30:00.000Z</startDate>
+    <subtitle>Design Hunting in Chiba</subtitle>
+    <title>DESIGN TALKS plus</title>
+    <uploadedDate>2020-12-31T08:49:54.737Z</uploadedDate>
   </episode>
 </episodeList>
