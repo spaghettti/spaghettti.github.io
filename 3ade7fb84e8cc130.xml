@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-30T11:21:10.987Z</lastUpdated>
+  <lastUpdated>2020-12-31T06:40:04.673Z</lastUpdated>
   <seriesId>3ade7fb84e8cc130</seriesId>
   <title>Four Seasons in Japan</title>
   <episode>
@@ -147,6 +147,22 @@
     <title>Four Seasons in Japan</title>
     <uploadedDate>2020-12-30T01:44:17.030Z</uploadedDate>
     <raw>https://mega.nz/folder/Lttm2DyY#HSV7VbzFvOTadDjcVG18Qg</raw>
+  </episode>
+  <episode>
+    <airingId>052</airingId>
+    <content/>
+    <description>This program introduces Cape Nekozaki in the Sea of Japan. Its rocky, wave-battered shoreline is home to knifejaws, lumpfish, and other fish feed and breed in the seaweed and eelgrass just offshore.</description>
+    <endDate>2020-12-31T01:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/d5NT3Y6I#v2UcV75VLDPwxSsi26R1sA</link>
+    <recordDateEnd>2020-12-31T01:20:27.702Z</recordDateEnd>
+    <recordDateStart>2020-12-31T01:09:23.993Z</recordDateStart>
+    <seriesId>6101</seriesId>
+    <sha256>f07afb0838c8539ae569b78107d78717bb74ab25b50d374791b120bf0b4799f2</sha256>
+    <startDate>2020-12-31T01:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Four Seasons in Japan</title>
+    <uploadedDate>2020-12-31T02:14:56.460Z</uploadedDate>
+    <raw>https://mega.nz/folder/9EQXCCRZ#4wHjrBrRsEFhwrjXxcg18A</raw>
   </episode>
   <episode>
     <airingId>068</airingId>

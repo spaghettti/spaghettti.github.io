@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-30T11:21:10.447Z</lastUpdated>
+  <lastUpdated>2020-12-31T06:40:04.532Z</lastUpdated>
   <seriesId>31851bb3dfae7f8a</seriesId>
   <title>Trails to Oishii Tokyo</title>
   <episode>
@@ -99,5 +99,21 @@
     <title>Trails to Oishii Tokyo</title>
     <uploadedDate>2020-12-24T05:46:14.933Z</uploadedDate>
     <raw>https://mega.nz/folder/jolj1A7Q#uSI8rzEV3g3t_SnsoA1WKQ</raw>
+  </episode>
+  <episode>
+    <airingId>122</airingId>
+    <content>Our focus today is cutlassfish. This shiny samurai sword of the sea has no scales and swims vertically. Our reporter visits the fishing port that receives the largest haul, where 1,000 trailer trolleys and the family members of fishermen eagerly await to race the fish to market. Also, feast your eyes on savory tempura of minced cutlassfish meat containing its bones, curry featuring a 40-centimeter-long deep-fried cutlassfish, and a sushi bento that holds a unique place in Japanese history. (Reporter: Janni Olsson)</content>
+    <description>Our focus today is cutlassfish. Join fisherman and their entire families in hauling 1,000 trailer trolleys of the fish. Also see it fried whole with its bones, and discover a traditional sushi bento.</description>
+    <endDate>2020-12-30T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/BJ0wTJLA#ithkCXArrFTF1q58jx8osg</link>
+    <recordDateEnd>2020-12-30T15:00:34.365Z</recordDateEnd>
+    <recordDateStart>2020-12-30T14:29:20.099Z</recordDateStart>
+    <seriesId>2054</seriesId>
+    <sha256>72a63a3db0ab38168876317220341ac12f852c9cc901366b1dee7112a0776677</sha256>
+    <startDate>2020-12-30T14:30:00.000Z</startDate>
+    <subtitle>CUTLASSFISH</subtitle>
+    <title>Trails to Oishii Tokyo</title>
+    <uploadedDate>2020-12-30T18:56:32.227Z</uploadedDate>
+    <raw>https://mega.nz/folder/pUsmETDD#bVoB22xTnURLPgCpefL5HA</raw>
   </episode>
 </episodeList>

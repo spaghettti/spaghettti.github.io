@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-30T11:21:10.842Z</lastUpdated>
+  <lastUpdated>2020-12-31T06:40:04.566Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -67,6 +67,22 @@
     <title>Japan's Top Inventions</title>
     <uploadedDate>2020-12-25T00:41:57.554Z</uploadedDate>
     <raw>https://mega.nz/folder/Z0cHVabD#1D4TKYgDlEw8hOl_7Zk2lw</raw>
+  </episode>
+  <episode>
+    <airingId>017</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, pedal assist electric bicycles, which give you a helpful boost of power when you pedal and help you enjoy relaxed cycling even on steep hills. The first pedal assist electric bicycles were produced in 1993 in Japan, and these revolutionary inventions are now used and loved worldwide. We pedal into the little-known, behind-the-scenes story of how these bicycles were invented.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, pedal assist electric bicycles, which give you a helpful boost of power when you pedal.</description>
+    <endDate>2020-12-30T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/YcUhkCiI#fA9FNh4ZZM20UEdd3BWEaw</link>
+    <recordDateEnd>2020-12-30T16:00:28.445Z</recordDateEnd>
+    <recordDateStart>2020-12-30T15:44:20.099Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>3b6b8ef047014c4ab2a3cbc24f11cb44932c8e9d1bf141b19e2171656c22f5c8</sha256>
+    <startDate>2020-12-30T15:45:00.000Z</startDate>
+    <subtitle>Pedal Assist Electric Bicycles</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2020-12-30T22:58:35.877Z</uploadedDate>
+    <raw>https://mega.nz/folder/1MERxADb#KFpxdg0u73inkHFxKRcgvA</raw>
   </episode>
   <episode>
     <airingId>041</airingId>

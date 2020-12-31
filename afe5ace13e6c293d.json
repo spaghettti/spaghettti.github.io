@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-30T11:21:10.927Z",
+  "lastUpdated": "2020-12-31T06:40:04.652Z",
   "seriesId": "6023",
   "title": "JAPAN FROM ABOVE: UP CLOSE",
   "episodes": [
@@ -450,6 +450,22 @@
       "title": "JAPAN FROM ABOVE: UP CLOSE",
       "uploadedDate": "2020-12-25T01:49:16.692Z",
       "raw": "https://mega.nz/folder/cFZlXAga#3oNBrViigGqsmBPS2DfVIQ"
+    },
+    {
+      "airingId": "030",
+      "content": "",
+      "description": "This program takes you on an aerial journey across 21st century Japan. Enjoy the bird's-eye view of unique landscapes as well as intimate portraits of the people who inhabit the archipelago.",
+      "endDate": "2020-12-30T23:30:00.000Z",
+      "link": "https://mega.nz/folder/Qt9iWDwI#GND4D5hSu5KzpH3f5ONy4g",
+      "recordDateEnd": "2020-12-30T23:30:33.098Z",
+      "recordDateStart": "2020-12-30T23:24:20.098Z",
+      "seriesId": "6023",
+      "sha256": "a9aefb957a454a8082d56b69c741d7975acd6d016053ea8e1bfff9180d6ae7ca",
+      "startDate": "2020-12-30T23:25:00.000Z",
+      "subtitle": "",
+      "title": "JAPAN FROM ABOVE: UP CLOSE",
+      "uploadedDate": "2020-12-31T00:51:00.439Z",
+      "raw": "https://mega.nz/folder/ysl0UJQT#22YJCfazFMZphmu37qPBiA"
     }
   ]
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-30T11:21:11.017Z</lastUpdated>
+  <lastUpdated>2020-12-31T06:40:04.698Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -81,6 +81,14 @@
     <lastUpload>2020-12-30T04:11:49.387Z</lastUpload>
     <seriesId>2074,3004</seriesId>
     <title>BIZ STREAM</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>71725fb1c2f9b8d3</uniqueId>
+    <lastAiring>2020-12-31T02:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-31T03:29:33.602Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>BIZ STREEAM</title>
   </series>
   <series>
     <count>2</count>
@@ -174,7 +182,7 @@
     <count>6</count>
     <uniqueId>93f1898b227dbd5d</uniqueId>
     <lastAiring>2020-12-24T00:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-28T14:35:06.586Z</lastUpload>
+    <lastUpload>2020-12-31T01:27:49.461Z</lastUpload>
     <seriesId>2046</seriesId>
     <title>DESIGN TALKS plus</title>
   </series>
@@ -291,10 +299,10 @@
     <title>FLOWERS WILL BLOOM</title>
   </series>
   <series>
-    <count>12</count>
+    <count>13</count>
     <uniqueId>3ade7fb84e8cc130</uniqueId>
-    <lastAiring>2020-12-30T01:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-30T01:44:17.030Z</lastUpload>
+    <lastAiring>2020-12-31T01:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-31T02:14:56.460Z</lastUpload>
     <seriesId>6101</seriesId>
     <title>Four Seasons in Japan</title>
   </series>
@@ -318,7 +326,7 @@
     <count>1</count>
     <uniqueId>ab5a96d064c889b5</uniqueId>
     <lastAiring>2020-12-26T23:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-29T00:17:05.798Z</lastUpload>
+    <lastUpload>2020-12-31T02:01:12.091Z</lastUpload>
     <seriesId>5001</seriesId>
     <title>Geiko SATSUKI, A Beauty Through the Seasons</title>
   </series>
@@ -411,10 +419,10 @@
     <title>J-MELO</title>
   </series>
   <series>
-    <count>28</count>
+    <count>29</count>
     <uniqueId>afe5ace13e6c293d</uniqueId>
-    <lastAiring>2020-12-22T23:25:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T17:17:52.592Z</lastUpload>
+    <lastAiring>2020-12-30T23:25:00.000Z</lastAiring>
+    <lastUpload>2020-12-31T00:51:00.439Z</lastUpload>
     <seriesId>6023</seriesId>
     <title>JAPAN FROM ABOVE: UP CLOSE</title>
   </series>
@@ -422,12 +430,12 @@
     <count>6</count>
     <uniqueId>3ff887cb76b1a490</uniqueId>
     <lastAiring>2020-12-24T15:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T18:46:05.431Z</lastUpload>
+    <lastUpload>2020-12-31T02:53:18.845Z</lastUpload>
     <seriesId>2049</seriesId>
     <title>Japan Railway Journal</title>
   </series>
   <series>
-    <count>4</count>
+    <count>3</count>
     <uniqueId>d44004cd2f812344</uniqueId>
     <lastAiring>2020-12-30T01:20:00.000Z</lastAiring>
     <lastUpload>2020-12-30T02:24:59.621Z</lastUpload>
@@ -435,10 +443,10 @@
     <title>JAPAN SPORTSCOPE</title>
   </series>
   <series>
-    <count>6</count>
+    <count>7</count>
     <uniqueId>fb3ddf5a1a053dcd</uniqueId>
-    <lastAiring>2020-12-23T15:45:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T00:56:53.971Z</lastUpload>
+    <lastAiring>2020-12-30T15:45:00.000Z</lastAiring>
+    <lastUpload>2020-12-30T22:58:35.877Z</lastUpload>
     <seriesId>2072</seriesId>
     <title>Japan's Top Inventions</title>
   </series>
@@ -465,6 +473,14 @@
     <lastUpload>2020-12-29T16:01:55.606Z</lastUpload>
     <seriesId>2032</seriesId>
     <title>Japanology Plus</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>3bcfda82f2c7ee58</uniqueId>
+    <lastAiring>2020-12-31T01:20:00.000Z</lastAiring>
+    <lastUpload>2020-12-31T02:20:04.097Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>JAPN SPORTSCOPE "KARATE"</title>
   </series>
   <series>
     <count>7</count>
@@ -513,6 +529,14 @@
     <lastUpload>2020-12-25T16:43:17.976Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>Masterpieces Performed by NHK Symphony Orchestra III</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>7a6fbee8f8bcc818</uniqueId>
+    <lastAiring>2020-12-30T11:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-30T17:06:20.043Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>Masterpieces Performed by NHK Symphony Orchestra IV</title>
   </series>
   <series>
     <count>7</count>
@@ -603,7 +627,7 @@
     <title>Reviving the Voices of Himeyuri - The Rebirth of the Museum 75 Years After the War</title>
   </series>
   <series>
-    <count>7</count>
+    <count>6</count>
     <uniqueId>509fab78036b7f12</uniqueId>
     <lastAiring>2020-12-26T14:10:00.000Z</lastAiring>
     <lastUpload>2020-12-28T23:42:49.732Z</lastUpload>
@@ -614,7 +638,7 @@
     <count>2</count>
     <uniqueId>9fc1b43b729ad551</uniqueId>
     <lastAiring>2020-12-29T11:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-29T18:11:53.686Z</lastUpload>
+    <lastUpload>2020-12-31T03:06:49.112Z</lastUpload>
     <seriesId>5001</seriesId>
     <title>SAKE R-Evolution</title>
   </series>
@@ -779,10 +803,10 @@
     <title>Tokyo Life</title>
   </series>
   <series>
-    <count>6</count>
+    <count>7</count>
     <uniqueId>31851bb3dfae7f8a</uniqueId>
-    <lastAiring>2020-12-23T14:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T15:58:33.272Z</lastUpload>
+    <lastAiring>2020-12-30T14:30:00.000Z</lastAiring>
+    <lastUpload>2020-12-30T18:56:32.227Z</lastUpload>
     <seriesId>2054</seriesId>
     <title>Trails to Oishii Tokyo</title>
   </series>
