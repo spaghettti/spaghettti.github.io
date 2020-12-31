@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-31T09:30:03.072Z</lastUpdated>
+  <lastUpdated>2020-12-31T10:05:03.135Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -147,6 +147,22 @@
     <title>Core Kyoto</title>
     <uploadedDate>2020-12-24T05:46:14.720Z</uploadedDate>
     <raw>https://mega.nz/folder/jZdECT7I#VHWIFwxTedb8tR4iD_HO-w</raw>
+  </episode>
+  <episode>
+    <airingId>138</airingId>
+    <content>Flames rising from behind, piercing eyes and an enraged expression, statues of Fudo Myo-o hold a sword and lasso, both ritual implements. Despite its formidable appearance, this deity has a wide following among devotees and common folk alike. The solid power it emits has attracted many people craving comfort during the coronavirus pandemic. Discover the faith and customs surrounding Fudo Myo-o, and the undertakings of a monk cum Buddhist sculptor who is captivated by this protective guardian.</content>
+    <description>Fudo Myo-o has flames at his back and wears a wrathful expression. A monk cum Buddhist sculptor, who is enchanted by this protective guardian, finds ways to overcome in the time of the coronavirus.</description>
+    <endDate>2020-12-31T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/8ps3zSCb#pSrw7KJ-k99dZRtbSe86Bg</link>
+    <recordDateEnd>2020-12-31T00:00:27.071Z</recordDateEnd>
+    <recordDateStart>2020-12-30T23:29:20.002Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>d47a81e1f45f5d1ffdf267d3feb1907a730031694eebc24f4736677b77189c87</sha256>
+    <startDate>2020-12-30T23:30:00.000Z</startDate>
+    <subtitle>Fudo Myo-o: The Enduring Power of a Wrathful Deity</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2020-12-31T10:04:33.943Z</uploadedDate>
+    <raw>https://mega.nz/folder/tt110AKC#wRel4dRFpYU2eH4oFzdgSA</raw>
   </episode>
   <episode>
     <airingId>144</airingId>
