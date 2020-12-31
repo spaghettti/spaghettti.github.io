@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-31T08:50:03.068Z</lastUpdated>
+  <lastUpdated>2020-12-31T09:05:02.800Z</lastUpdated>
   <seriesId>509fab78036b7f12</seriesId>
   <title>RISING</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>RISING</title>
     <uploadedDate>2020-12-24T22:51:24.010Z</uploadedDate>
     <raw>https://mega.nz/folder/o5kQyaBK#1KjaVIVSHaYtxnCVvaCBjA</raw>
+  </episode>
+  <episode>
+    <airingId>095</airingId>
+    <content>In Japan, over 6 million tons of food, much of it perfectly edible, go to waste every year. To combat this, Kazuma Kawagoe developed a web application that aims to rescue food otherwise headed for the dumpster. Users can browse and reserve items for collection at reduced prices at registered restaurants and bakeries. Follow a unique venture using technology to raise awareness of this issue and change the attitudes of both, consumers and producers, while reducing the waste of precious food.</content>
+    <description>Each year in Japan, over 6 million tons of food go to waste. To combat this issue, Kazuma Kawagoe developed a web application that aims to rescue edible food otherwise destined for the dumpster.</description>
+    <endDate>2020-12-31T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ZIBS3TxJ#vq0HdghpSddB698gTKmHLg</link>
+    <recordDateEnd>2020-12-31T02:00:34.301Z</recordDateEnd>
+    <recordDateStart>2020-12-31T01:29:20.003Z</recordDateStart>
+    <seriesId>2042</seriesId>
+    <sha256>42c5510fad14c1d7a6eb8005295f359e2bdc8968260cd649f64aa4a1d11f1d00</sha256>
+    <startDate>2020-12-31T01:30:00.000Z</startDate>
+    <subtitle>Rescuing Doomed Dishes: Anti-Food Waste Pioneer - Kazuma Kawagoe</subtitle>
+    <title>RISING</title>
+    <uploadedDate>2020-12-31T09:03:22.640Z</uploadedDate>
+    <raw>https://mega.nz/folder/VQsTFQYD#kWmlyFHE_vmCJkkgxn2wkg</raw>
   </episode>
   <episode>
     <airingId>097</airingId>
