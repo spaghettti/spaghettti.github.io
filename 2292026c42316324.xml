@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-31T15:25:03.260Z</lastUpdated>
+  <lastUpdated>2020-12-31T15:40:03.317Z</lastUpdated>
   <seriesId>2292026c42316324</seriesId>
   <title>Your Japanese Kitchen mini</title>
   <episode>
@@ -195,6 +195,22 @@
     <title>Your Japanese Kitchen mini</title>
     <uploadedDate>2020-12-31T09:15:52.852Z</uploadedDate>
     <raw>https://mega.nz/folder/px1wxBSB#bvO62wcyhjqY0vjSUgkHvQ</raw>
+  </episode>
+  <episode>
+    <airingId>022</airingId>
+    <content/>
+    <description>Each edition of this five-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from "Your Japanese Kitchen". Today: Tofu Steak with Mushroom Sauce.</description>
+    <endDate>2020-12-31T06:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/0Ak12ChQ#u3DuiW2M6_sj4ktaH4fmBQ</link>
+    <recordDateEnd>2020-12-31T06:25:26.506Z</recordDateEnd>
+    <recordDateStart>2020-12-31T06:19:20.098Z</recordDateStart>
+    <seriesId>6014</seriesId>
+    <sha256>8732466f0d9f732ae974ecb52b5b6626b504c00e43793f329877b88413acfe23</sha256>
+    <startDate>2020-12-31T06:20:00.000Z</startDate>
+    <subtitle/>
+    <title>Your Japanese Kitchen mini</title>
+    <uploadedDate>2020-12-31T15:36:48.035Z</uploadedDate>
+    <raw>https://mega.nz/folder/NxlxAYQA#Ma3Yd15qLhC9rgT3z2ZcjA</raw>
   </episode>
   <episode>
     <airingId>023</airingId>
