@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-31T10:30:03.109Z</lastUpdated>
+  <lastUpdated>2020-12-31T11:10:02.807Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -691,6 +691,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T21:38:17.197Z</uploadedDate>
     <raw>https://mega.nz/folder/zNMHnKJK#Sbk-rxaZnm4y4e7cJX1FuQ</raw>
+  </episode>
+  <episode>
+    <airingId>684</airingId>
+    <content/>
+    <description>Perrine &amp; Charles Herve-Gruyer, Proprietors in France, have quested for tomorrow's agriculture that reconstructs ecosystems, inspired by methods of ancient civilizations and latest scientific studies.</description>
+    <endDate>2020-12-31T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/NMZEmbbQ#7zeceJnNW0acuvfkv4fBWA</link>
+    <recordDateEnd>2020-12-31T09:30:26.436Z</recordDateEnd>
+    <recordDateStart>2020-12-31T09:14:23.071Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>491d5d4313753c550398ab104276a3e08f87258270eac6e3ff95455ede87dc73</sha256>
+    <startDate>2020-12-31T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2020-12-31T11:08:53.787Z</uploadedDate>
+    <raw>https://mega.nz/folder/cAxEHLYJ#64TXExFJb7oWE6wCmmPRIA</raw>
   </episode>
   <episode>
     <airingId>701</airingId>
