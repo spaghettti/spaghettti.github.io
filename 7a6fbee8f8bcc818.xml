@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-31T11:10:02.876Z</lastUpdated>
+  <lastUpdated>2020-12-31T15:25:03.229Z</lastUpdated>
   <seriesId>7a6fbee8f8bcc818</seriesId>
   <title>Masterpieces Performed by NHK Symphony Orchestra IV</title>
   <episode>
@@ -19,5 +19,21 @@
     <title>Masterpieces Performed by NHK Symphony Orchestra IV</title>
     <uploadedDate>2020-12-30T17:06:20.043Z</uploadedDate>
     <raw>https://mega.nz/folder/tss1TKLJ#HB4gC1W2QGyd83KlfgcAgg</raw>
+  </episode>
+  <episode>
+    <airingId>695</airingId>
+    <content/>
+    <description>Tchaikovsky, Symphony No.4 in f minor op.36 Performed by NHK Symphony Orchestra. Conductor: Vladimir Fedoseyev</description>
+    <endDate>2020-12-31T12:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/8M50ULxI#Lk5cUqwqDJHK5IXvGcNu3A</link>
+    <recordDateEnd>2020-12-31T12:00:26.896Z</recordDateEnd>
+    <recordDateStart>2020-12-31T11:09:20.098Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>4afb1139f1fa0aea349228233983d239615e7a85d9099b36357871bf76477aa2</sha256>
+    <startDate>2020-12-31T11:10:00.000Z</startDate>
+    <subtitle>Part 2 Vladimir Fedoseyev: Tchaikovsky, Symphony No.4 in f minor op.36</subtitle>
+    <title>Masterpieces Performed by NHK Symphony Orchestra IV</title>
+    <uploadedDate>2020-12-31T15:20:06.577Z</uploadedDate>
+    <raw>https://mega.nz/folder/tZ0SzJpZ#PC15b8Kw_tMZKEZg2Derug</raw>
   </episode>
 </episodeList>

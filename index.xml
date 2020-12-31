@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-31T11:10:02.983Z</lastUpdated>
+  <lastUpdated>2020-12-31T15:25:03.316Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -531,10 +531,10 @@
     <title>Masterpieces Performed by NHK Symphony Orchestra III</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>7a6fbee8f8bcc818</uniqueId>
-    <lastAiring>2020-12-30T11:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-30T17:06:20.043Z</lastUpload>
+    <lastAiring>2020-12-31T11:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-31T15:20:06.577Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>Masterpieces Performed by NHK Symphony Orchestra IV</title>
   </series>
