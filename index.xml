@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-31T09:05:02.962Z</lastUpdated>
+  <lastUpdated>2020-12-31T09:20:03.571Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -811,10 +811,10 @@
     <title>Trails to Oishii Tokyo</title>
   </series>
   <series>
-    <count>8</count>
+    <count>9</count>
     <uniqueId>e54e1987b2418557</uniqueId>
-    <lastAiring>2020-12-26T00:50:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T09:01:16.812Z</lastUpload>
+    <lastAiring>2020-12-31T08:10:00.000Z</lastAiring>
+    <lastUpload>2020-12-31T09:15:26.979Z</lastUpload>
     <seriesId>6119</seriesId>
     <title>Trails to Oishii Tokyo mini</title>
   </series>
@@ -859,10 +859,10 @@
     <title>Wild Hokkaido!</title>
   </series>
   <series>
-    <count>19</count>
+    <count>20</count>
     <uniqueId>2292026c42316324</uniqueId>
-    <lastAiring>2020-12-30T06:20:00.000Z</lastAiring>
-    <lastUpload>2020-12-30T06:35:51.350Z</lastUpload>
+    <lastAiring>2020-12-31T08:55:00.000Z</lastAiring>
+    <lastUpload>2020-12-31T09:15:52.852Z</lastUpload>
     <seriesId>6014</seriesId>
     <title>Your Japanese Kitchen mini</title>
   </series>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-31T09:05:02.941Z</lastUpdated>
+  <lastUpdated>2020-12-31T09:20:03.549Z</lastUpdated>
   <seriesId>e54e1987b2418557</seriesId>
   <title>Trails to Oishii Tokyo mini</title>
   <episode>
@@ -131,5 +131,20 @@
     <title>Trails to Oishii Tokyo mini</title>
     <uploadedDate>2020-12-26T09:01:16.812Z</uploadedDate>
     <raw>https://mega.nz/folder/wVxCGQAa#MRQwmBVpelRPYoOvwbgpeg</raw>
+  </episode>
+  <episode>
+    <airingId>009</airingId>
+    <content/>
+    <description>This episode focuses on the king of fruit, mango. Though widely known as a tropical fruit, Japan produces high-end mangos often given as gifts. Find out more about Japan's special fruit.</description>
+    <endDate>2020-12-31T08:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/441UwBRQ#VKKxKsqCnIfzQzmlpYeY7A</link>
+    <recordDateEnd>2020-12-31T08:20:29.295Z</recordDateEnd>
+    <recordDateStart>2020-12-31T08:09:20.099Z</recordDateStart>
+    <seriesId>6119</seriesId>
+    <sha256>fdb4463cce71b95ae11ced1d550c179cb75f5b98d817416969436ec7be9a1742</sha256>
+    <startDate>2020-12-31T08:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Trails to Oishii Tokyo mini</title>
+    <uploadedDate>2020-12-31T09:15:26.979Z</uploadedDate>
   </episode>
 </episodeList>
