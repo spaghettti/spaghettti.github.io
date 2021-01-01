@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-01T05:25:03.631Z</lastUpdated>
+  <lastUpdated>2021-01-01T06:35:03.038Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>J-Arena</title>
     <uploadedDate>2020-12-25T01:19:07.052Z</uploadedDate>
     <raw>https://mega.nz/folder/XlU2hbhI#9QeT9nYLkk9nmCHb4vPaWw</raw>
+  </episode>
+  <episode>
+    <airingId>073</airingId>
+    <content>Breaststroke is a popular and easy to learn recreational swimming style, but when it comes to top-level competition it's actually considered one of the most technically challenging of all. The effects of water resistance are particularly pronounced for breaststroke, meaning small adjustments can make a big difference. Down the decades Japanese swimmers have time and again set new standards for technique in the stroke. We meet Watanabe Ippei, the first man ever to record a sub-2m07s time in the 200m event, and assess his prospects for beating his formidable rivals on the world stage.</content>
+    <description>Down the decades Japanese swimmers have time and again set new standards for technique in the breaststroke. We meet Watanabe Ippei, the first man ever to record a sub-2m07s time in the 200m event.</description>
+    <endDate>2021-01-01T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/xxs0wJYQ#1f_yI62fo_HnazveOrNFTQ</link>
+    <recordDateEnd>2021-01-01T05:00:23.852Z</recordDateEnd>
+    <recordDateStart>2021-01-01T04:29:20.002Z</recordDateStart>
+    <seriesId>2073</seriesId>
+    <sha256>964c2e3355e61980cfaa0036085d0981a66761b6c172bbbef832fbf5f534981b</sha256>
+    <startDate>2021-01-01T04:30:00.000Z</startDate>
+    <subtitle>Swimming - Breaststroke</subtitle>
+    <title>J-Arena</title>
+    <uploadedDate>2021-01-01T06:34:20.177Z</uploadedDate>
+    <raw>https://mega.nz/folder/n0dABRqT#kgFXsmSDRqacuzapNZYssw</raw>
   </episode>
   <episode>
     <airingId>075</airingId>
