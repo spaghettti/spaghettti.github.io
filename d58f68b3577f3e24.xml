@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-01T04:10:02.912Z</lastUpdated>
+  <lastUpdated>2021-01-01T04:20:02.873Z</lastUpdated>
   <seriesId>d58f68b3577f3e24</seriesId>
   <title>BEGIN Japanology mini</title>
   <episode>
@@ -147,6 +147,22 @@
     <title>BEGIN Japanology mini</title>
     <uploadedDate>2020-12-29T02:59:06.470Z</uploadedDate>
     <raw>https://mega.nz/folder/IlkUCYZC#LqrwNLCacdrCUrVBNo-X1A</raw>
+  </episode>
+  <episode>
+    <airingId>014</airingId>
+    <content/>
+    <description>Trivia on aspects of Japan's unique culture and products that reflect the aesthetic sense and values of the Japanese people. Today: Yoshoku.</description>
+    <endDate>2021-01-01T02:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/QZ9jRaYT#o-yaLrdpHyGzJtofwTkVww</link>
+    <recordDateEnd>2021-01-01T02:30:28.471Z</recordDateEnd>
+    <recordDateStart>2021-01-01T02:22:20.005Z</recordDateStart>
+    <seriesId>6001</seriesId>
+    <sha256>556a12123f0e6868328034da7f788047c0b8bfcbfdc449c777582014fa2e7fe3</sha256>
+    <startDate>2021-01-01T02:23:00.000Z</startDate>
+    <subtitle/>
+    <title>BEGIN Japanology mini</title>
+    <uploadedDate>2021-01-01T04:15:20.195Z</uploadedDate>
+    <raw>https://mega.nz/folder/f99V3IAS#DF6D9f6XEPHcutkqTmPt5Q</raw>
   </episode>
   <episode>
     <airingId>018</airingId>
