@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-01T03:25:03.490Z",
+  "lastUpdated": "2021-01-01T04:00:03.264Z",
   "seriesId": "3004",
   "title": "JAPAN SPORTSCOPE",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "JAPAN SPORTSCOPE \"BMX\"",
       "uploadedDate": "2020-12-30T02:24:59.621Z",
       "raw": "https://mega.nz/folder/Oh9hAYBI#lPAQi0jO1va4XaRXoqhx9g"
+    },
+    {
+      "airingId": "644",
+      "content": "",
+      "description": "This program introduces Japanese sports facilities for visitors from abroad. Our reporter visits spots you can get to and back from Tokyo in a day. This time we show an Archery facility in Shizuoka.",
+      "endDate": "2021-01-01T01:30:00.000Z",
+      "link": "https://mega.nz/folder/rs1nlCzB#0l_6vza2Pv3p38vwNyJ0Xg",
+      "recordDateEnd": "2021-01-01T01:30:30.003Z",
+      "recordDateStart": "2021-01-01T01:19:23.004Z",
+      "seriesId": "3004",
+      "sha256": "97f39b2258bada94dd8afd2eb739b0fba2d3687796b22668097ae7bd1f4d5c16",
+      "startDate": "2021-01-01T01:20:00.000Z",
+      "subtitle": "",
+      "title": "JAPAN SPORTSCOPE",
+      "uploadedDate": "2021-01-01T03:58:35.657Z"
     }
   ]
 }
