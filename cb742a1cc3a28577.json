@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-01T04:00:03.254Z",
+  "lastUpdated": "2021-01-01T04:10:02.948Z",
   "seriesId": "6202",
   "title": "EXTREME JAPAN",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "EXTREME JAPAN",
       "uploadedDate": "2020-12-31T07:01:40.949Z",
       "raw": "https://mega.nz/folder/wIEEDLZY#VIcMWX2VkNACF_c-b09k9A"
+    },
+    {
+      "airingId": "010",
+      "content": "",
+      "description": "Rugged mountains. Sheer coastal cliffs. Serene forests. Join us on a journey to Japan's wild frontiers and hidden scenic wonders... a journey to Extreme Japan. Iriomotejima.",
+      "endDate": "2021-01-01T03:25:00.000Z",
+      "link": "https://mega.nz/folder/xFsx3ICB#IlgcQWlQukpdgaHYqoisuw",
+      "recordDateEnd": "2021-01-01T03:25:30.691Z",
+      "recordDateStart": "2021-01-01T03:09:20.098Z",
+      "seriesId": "6202",
+      "sha256": "5a5eb5d90e5d561ff66c01376ec7195036d77df5890f3075f09ceed12eeb6107",
+      "startDate": "2021-01-01T03:10:00.000Z",
+      "subtitle": "",
+      "title": "EXTREME JAPAN",
+      "uploadedDate": "2021-01-01T04:06:58.427Z"
     }
   ]
 }
