@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-01T04:55:03.360Z</lastUpdated>
+  <lastUpdated>2021-01-01T05:25:03.739Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -819,10 +819,10 @@
     <title>Trails to Oishii Tokyo</title>
   </series>
   <series>
-    <count>9</count>
+    <count>10</count>
     <uniqueId>e54e1987b2418557</uniqueId>
-    <lastAiring>2020-12-31T08:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-31T09:15:26.979Z</lastUpload>
+    <lastAiring>2021-01-01T04:20:00.000Z</lastAiring>
+    <lastUpload>2021-01-01T05:20:57.876Z</lastUpload>
     <seriesId>6119</seriesId>
     <title>Trails to Oishii Tokyo mini</title>
   </series>

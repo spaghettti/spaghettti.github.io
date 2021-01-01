@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-01T04:55:03.339Z",
+  "lastUpdated": "2021-01-01T05:25:03.716Z",
   "seriesId": "6119",
   "title": "Trails to Oishii Tokyo mini",
   "episodes": [
@@ -146,6 +146,22 @@
       "title": "Trails to Oishii Tokyo mini",
       "uploadedDate": "2020-12-31T09:15:26.979Z",
       "raw": "https://mega.nz/folder/ldNkXZwT#DTi-WtdCuOh67xEDOLNKXA"
+    },
+    {
+      "airingId": "010",
+      "content": "",
+      "description": "This episode features NATTO, a fermented soybean product known for its powerful smell and sticky texture. Both economical and nutritious, NATTO is eaten for breakfast and in a variety of other ways.",
+      "endDate": "2021-01-01T04:30:00.000Z",
+      "link": "https://mega.nz/folder/wN0GhSyI#FG0id5jPCNO1zYx8Ph6bYQ",
+      "recordDateEnd": "2021-01-01T04:30:24.771Z",
+      "recordDateStart": "2021-01-01T04:19:20.002Z",
+      "seriesId": "6119",
+      "sha256": "b8eaaafb35011df2e29d27965c49b33dde99b4c1bd70dca11e6a3918efcbec39",
+      "startDate": "2021-01-01T04:20:00.000Z",
+      "subtitle": "",
+      "title": "Trails to Oishii Tokyo mini",
+      "uploadedDate": "2021-01-01T05:20:57.876Z",
+      "raw": "https://mega.nz/folder/U51GWSzb#ZcEpTzdiRij4CfD6JzmtlA"
     }
   ]
 }

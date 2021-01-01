@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-01T04:55:03.338Z</lastUpdated>
+  <lastUpdated>2021-01-01T05:25:03.715Z</lastUpdated>
   <seriesId>e54e1987b2418557</seriesId>
   <title>Trails to Oishii Tokyo mini</title>
   <episode>
@@ -147,5 +147,21 @@
     <title>Trails to Oishii Tokyo mini</title>
     <uploadedDate>2020-12-31T09:15:26.979Z</uploadedDate>
     <raw>https://mega.nz/folder/ldNkXZwT#DTi-WtdCuOh67xEDOLNKXA</raw>
+  </episode>
+  <episode>
+    <airingId>010</airingId>
+    <content/>
+    <description>This episode features NATTO, a fermented soybean product known for its powerful smell and sticky texture. Both economical and nutritious, NATTO is eaten for breakfast and in a variety of other ways.</description>
+    <endDate>2021-01-01T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/wN0GhSyI#FG0id5jPCNO1zYx8Ph6bYQ</link>
+    <recordDateEnd>2021-01-01T04:30:24.771Z</recordDateEnd>
+    <recordDateStart>2021-01-01T04:19:20.002Z</recordDateStart>
+    <seriesId>6119</seriesId>
+    <sha256>b8eaaafb35011df2e29d27965c49b33dde99b4c1bd70dca11e6a3918efcbec39</sha256>
+    <startDate>2021-01-01T04:20:00.000Z</startDate>
+    <subtitle/>
+    <title>Trails to Oishii Tokyo mini</title>
+    <uploadedDate>2021-01-01T05:20:57.876Z</uploadedDate>
+    <raw>https://mega.nz/folder/U51GWSzb#ZcEpTzdiRij4CfD6JzmtlA</raw>
   </episode>
 </episodeList>
