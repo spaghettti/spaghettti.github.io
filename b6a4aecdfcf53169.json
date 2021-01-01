@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-01T03:20:02.889Z",
+  "lastUpdated": "2021-01-01T03:25:03.297Z",
   "seriesId": "2022",
   "title": "Asia Insight",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "Asia Insight",
       "uploadedDate": "2020-12-26T15:33:54.070Z",
       "raw": "https://mega.nz/folder/Nd9k1AQZ#ZlJbO5ktzmy_JR9DqXLtIg"
+    },
+    {
+      "airingId": "280",
+      "content": "China's Yangtze River has seen a decline in species due to pollution and overfishing, which the government responded to with a ban on industrial fishing. Although intended to improve the local environment, this measure had the side effect of taking away the livelihoods of the fishermen living around the river. Now, desperately seeking the means to support their families, some of the fishermen have begun utilizing their knowledge through conservationist work to preserve vulnerable species such as the finless porpoises of the Yangtze River.",
+      "description": "Fishing is now banned in many parts of the Yangtze River due to overfishing and pollution. Many out-of-work fishermen are now trying to find new jobs in environmental preservation.",
+      "endDate": "2021-01-01T02:00:00.000Z",
+      "link": "https://mega.nz/folder/GgU1iKYY#b4j4cNUTrFeINHtDGLm9WA",
+      "recordDateEnd": "2021-01-01T02:00:29.008Z",
+      "recordDateStart": "2021-01-01T01:29:22.587Z",
+      "seriesId": "2022",
+      "sha256": "5e897b23921d766738f094d9a72ee76d8ddb8e99cd71c72a8d1f32f185ec4f3a",
+      "startDate": "2021-01-01T01:30:00.000Z",
+      "subtitle": "Changing Lives of Fishermen on the Yangtze River",
+      "title": "Asia Insight",
+      "uploadedDate": "2021-01-01T03:23:41.780Z"
     },
     {
       "airingId": "317",
