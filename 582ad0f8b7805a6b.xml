@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-01T04:50:03.510Z</lastUpdated>
+  <lastUpdated>2021-01-01T04:55:03.314Z</lastUpdated>
   <seriesId>582ad0f8b7805a6b</seriesId>
   <title>Core Kyoto mini</title>
   <episode>
@@ -147,6 +147,22 @@
     <title>Core Kyoto mini</title>
     <uploadedDate>2020-12-31T06:44:22.427Z</uploadedDate>
     <raw>https://mega.nz/folder/oMZS3Jpa#OCMpWt8sEJs1JcQDxaqX0w</raw>
+  </episode>
+  <episode>
+    <airingId>012</airingId>
+    <content/>
+    <description>Mirei Shigemori and the ageless modernity of his rock gardens. Dive deep into the ancient capital, still innovative 1,200 years after its foundation.</description>
+    <endDate>2021-01-01T03:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/OsMXDaDb#BZQ9vQPaDuqnGex1fURcvw</link>
+    <recordDateEnd>2021-01-01T03:30:28.982Z</recordDateEnd>
+    <recordDateStart>2021-01-01T03:24:23.002Z</recordDateStart>
+    <seriesId>6024</seriesId>
+    <sha256>fe9de7aaa62eeda6bd3de8303588f320a87b6f9c6be51098da7ca287de493891</sha256>
+    <startDate>2021-01-01T03:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Core Kyoto mini</title>
+    <uploadedDate>2021-01-01T04:54:50.100Z</uploadedDate>
+    <raw>https://mega.nz/folder/fs03DKKD#d0ndYoGvQFAwftg7y8JgPg</raw>
   </episode>
   <episode>
     <airingId>017</airingId>
