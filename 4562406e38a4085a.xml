@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-01T10:15:03.533Z</lastUpdated>
+  <lastUpdated>2021-01-01T15:50:02.620Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -211,5 +211,20 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2020-12-26T10:28:39.936Z</uploadedDate>
     <raw>https://mega.nz/folder/s89yjJSJ#DeHhw8g8oSkNCFeRATozbQ</raw>
+  </episode>
+  <episode>
+    <airingId>282</airingId>
+    <content>Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques! Featured recipes: (1) Beef with Kombu Dashi Sauce (2) Chrysanthemum-shaped Turnips.</content>
+    <description>Featured recipes: (1) Beef with Kombu Dashi Sauce (2) Chrysanthemum-shaped Turnips. Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques!</description>
+    <endDate>2021-01-01T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/hE8GDS4I#PIBb9OCoDHK-739nw9R6qg</link>
+    <recordDateEnd>2021-01-01T15:00:51.184Z</recordDateEnd>
+    <recordDateStart>2021-01-01T14:29:22.606Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>525f1c1696fa8c003ff9edb35a1c1a7d75eeee0a13eff7b8b7120e1a1d4d6b43</sha256>
+    <startDate>2021-01-01T14:30:00.000Z</startDate>
+    <subtitle>Authentic Japanese Cooking: Beef with Kombu Dashi Sauce</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-01-01T15:47:45.401Z</uploadedDate>
   </episode>
 </episodeList>
