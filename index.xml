@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2020-12-31T19:35:03.544Z</lastUpdated>
+  <lastUpdated>2021-01-01T03:00:03.340Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -85,8 +85,8 @@
   <series>
     <count>1</count>
     <uniqueId>71725fb1c2f9b8d3</uniqueId>
-    <lastAiring>2020-12-31T02:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-31T19:31:19.756Z</lastUpload>
+    <lastAiring>2020-12-31T10:15:00.000Z</lastAiring>
+    <lastUpload>2021-01-01T02:57:32.216Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>BIZ STREEAM</title>
   </series>
