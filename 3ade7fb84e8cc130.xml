@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-01T07:05:03.527Z</lastUpdated>
+  <lastUpdated>2021-01-01T07:15:04.044Z</lastUpdated>
   <seriesId>3ade7fb84e8cc130</seriesId>
   <title>Four Seasons in Japan</title>
   <episode>
@@ -163,6 +163,22 @@
     <title>Four Seasons in Japan</title>
     <uploadedDate>2020-12-31T02:14:56.460Z</uploadedDate>
     <raw>https://mega.nz/folder/9EQXCCRZ#4wHjrBrRsEFhwrjXxcg18A</raw>
+  </episode>
+  <episode>
+    <airingId>053</airingId>
+    <content/>
+    <description>This program features Taishakukyo Gorge, a canyon deep in the mountains of Hiroshima Prefecture. This gorge is a rich habitat for many species including giant salamanders, land snails and fireflies.</description>
+    <endDate>2021-01-01T01:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/I4UF1SZJ#qnUEwF_7MBST0td14mmrVA</link>
+    <recordDateEnd>2021-01-01T01:20:36.321Z</recordDateEnd>
+    <recordDateStart>2021-01-01T01:09:20.099Z</recordDateStart>
+    <seriesId>6101</seriesId>
+    <sha256>c31f68fbb8aff4b12893de38be255a7b005c465c5c0291d8a1731f391840a7b7</sha256>
+    <startDate>2021-01-01T01:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Four Seasons in Japan</title>
+    <uploadedDate>2021-01-01T07:11:53.992Z</uploadedDate>
+    <raw>https://mega.nz/folder/349SSbSS#ZAWOWTUvRUBtQ_gF9lMSjA</raw>
   </episode>
   <episode>
     <airingId>068</airingId>
