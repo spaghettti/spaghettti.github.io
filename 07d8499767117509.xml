@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-01T07:15:03.921Z</lastUpdated>
+  <lastUpdated>2021-01-01T10:15:03.600Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -147,6 +147,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T00:34:17.496Z</uploadedDate>
     <raw>https://mega.nz/folder/g0EBxa7K#3fjtERDsl-pld2a2go75LQ</raw>
+  </episode>
+  <episode>
+    <airingId>560</airingId>
+    <content/>
+    <description>Kees Veldboer, the Ambulance Wish Foundation founder, has fulfilled over 13,000 final wishes of terminally ill patients. He reveals his thoughts about his contacts with dying people.</description>
+    <endDate>2021-01-01T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/p5FwAJIR#Lq8UxYvI3SpwsDwLshnN2A</link>
+    <recordDateEnd>2021-01-01T09:30:45.143Z</recordDateEnd>
+    <recordDateStart>2021-01-01T09:14:25.053Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>869baa07b1be2ee37bf83714cc1560d56f244e2e38707e699692e9bf007815b9</sha256>
+    <startDate>2021-01-01T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-01T10:13:03.801Z</uploadedDate>
+    <raw>https://mega.nz/folder/9o1SRKRK#KY0CQXmw8obPhsOEr-0Dxg</raw>
   </episode>
   <episode>
     <airingId>561</airingId>
