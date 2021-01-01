@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-01T06:35:03.090Z</lastUpdated>
+  <lastUpdated>2021-01-01T06:40:03.570Z</lastUpdated>
   <seriesId>2292026c42316324</seriesId>
   <title>Your Japanese Kitchen mini</title>
   <episode>
@@ -195,6 +195,21 @@
     <title>Your Japanese Kitchen mini</title>
     <uploadedDate>2020-12-31T09:15:52.852Z</uploadedDate>
     <raw>https://mega.nz/folder/px1wxBSB#bvO62wcyhjqY0vjSUgkHvQ</raw>
+  </episode>
+  <episode>
+    <airingId>021</airingId>
+    <content/>
+    <description>Each edition of this five-minute program presents Harumi Kurihara's recipe for a simple, delicious, easy-to-make dish selected from "Your Japanese Kitchen". Today: Noodles with Meat and Miso Sauce.</description>
+    <endDate>2021-01-01T06:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/b9clCC6J#_QAZTrU7vdCshUF2i8eJ7g</link>
+    <recordDateEnd>2021-01-01T06:25:24.322Z</recordDateEnd>
+    <recordDateStart>2021-01-01T06:19:20.098Z</recordDateStart>
+    <seriesId>6014</seriesId>
+    <sha256>76324011273880fd0156652af9d930d070c233bd33ddb52f61f6f9427ce2d6ec</sha256>
+    <startDate>2021-01-01T06:20:00.000Z</startDate>
+    <subtitle/>
+    <title>Your Japanese Kitchen mini</title>
+    <uploadedDate>2021-01-01T06:39:49.629Z</uploadedDate>
   </episode>
   <episode>
     <airingId>022</airingId>
