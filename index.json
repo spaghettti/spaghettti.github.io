@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-01T04:25:03.265Z",
+  "lastUpdated": "2021-01-01T04:50:03.564Z",
   "series": [
     {
       "count": 11,
@@ -720,6 +720,14 @@
       "lastUpload": "2020-12-24T16:19:43.607Z",
       "seriesId": "2080",
       "title": "SONGS OF TOKYO"
+    },
+    {
+      "count": 1,
+      "uniqueId": "b0ee8e6b5f5551b1",
+      "lastAiring": "2020-12-31T23:30:00.000Z",
+      "lastUpload": "2021-01-01T04:46:46.011Z",
+      "seriesId": "7000",
+      "title": "Spirit of Resilience"
     },
     {
       "count": 2,
