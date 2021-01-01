@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-01T03:00:03.135Z</lastUpdated>
+  <lastUpdated>2021-01-01T03:20:02.893Z</lastUpdated>
   <seriesId>25a805bf2ec43458</seriesId>
   <title>Kawaii International</title>
+  <episode>
+    <airingId>122</airingId>
+    <content>In this episode, we're bringing you the newest beauty trends, from hairstyles to makeup! Plus, we talk to young adults particular about their hair salons and a men's beauty YouTuber. And you won't want to miss an exclusive makeup tutorial from a famous hair and makeup artist!</content>
+    <description>The latest beauty trend in Tokyo is more diverse than ever! Learn some unique beauty services that you probably didn't know. Also, meet a makeup artist &amp; hairstylist, who found a new way of working.</description>
+    <endDate>2021-01-01T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/EpUlBCzA#kdpyEk069hj5ydQkBWFc2w</link>
+    <recordDateEnd>2021-01-01T01:00:30.996Z</recordDateEnd>
+    <recordDateStart>2021-01-01T00:29:20.101Z</recordDateStart>
+    <seriesId>2025</seriesId>
+    <sha256>11e0263f9f8e18328a64f58acd51ad7cd2863c383468f32b2e2ca77b205ca486</sha256>
+    <startDate>2021-01-01T00:30:00.000Z</startDate>
+    <subtitle>Kawaii Beauty After 2020: New Ideals &amp; Trends</subtitle>
+    <title>Kawaii International</title>
+    <uploadedDate>2021-01-01T03:17:59.336Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>131</airingId>
     <content>Since we are spending more time at home, cleaning items have become all the rage. We'll introduce you to the latest cleaning products! We also feature a person addicted to old-fashioned brooms and a cleaning specialist who will share some tips about removing stains. Plus, Bolivian-based influencer Kazumi tells us about her "Harajuku Fashion Walk in Bolivia," an online event during the COVID-19 pandemic.</content>
