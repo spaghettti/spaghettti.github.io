@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-01T04:20:02.920Z</lastUpdated>
+  <lastUpdated>2021-01-01T04:25:03.249Z</lastUpdated>
   <seriesId>830c4969cf7e7135</seriesId>
   <title>BIZ STREAM</title>
   <episode>
@@ -244,5 +244,21 @@ This series of special editions feature selected stories from BIZ STREAM's signa
     <title>BIZ STREAM</title>
     <uploadedDate>2020-12-30T04:11:49.387Z</uploadedDate>
     <raw>https://mega.nz/folder/q01zRIQA#ht65uBWWnOD0Kd0DVhv42w</raw>
+  </episode>
+  <episode>
+    <airingId>713</airingId>
+    <content>[BIZ STREAM SPECIAL EDITION]
+This series of special editions feature selected stories from BIZ STREAM's signature "On-Site" reports. A hospitality company that operates a chain of shipping container hotels across Japan has made its rooms available to local governments for use as portable "rescue hotels." Elsewhere, a truck repair business is now equipping containers with solar-powered generators to create emergency response units that can instantly provide local areas with a much-needed boost to infrastructure during times of trouble. This episode focuses on how shipping containers can be used as a tool to bolster Japan's emergency response capabilities.</content>
+    <description>From earthquakes to typhoons, Japan is prone to a variety of natural disasters. This special edition shows how shipping containers may help bolster the country's emergency response capabilities.</description>
+    <endDate>2021-01-01T02:23:00.000Z</endDate>
+    <link>https://mega.nz/folder/y8903LQR#8lEH3noXVEgNFPNBKAiemw</link>
+    <recordDateEnd>2021-01-01T02:23:33.511Z</recordDateEnd>
+    <recordDateStart>2021-01-01T02:09:20.098Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>ffb6714917f621b259ddb1b1b8bcce63487e084ffbd07761f503211954a898b2</sha256>
+    <startDate>2021-01-01T02:10:00.000Z</startDate>
+    <subtitle>Shipping Containers to the Rescue</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2021-01-01T04:24:08.303Z</uploadedDate>
   </episode>
 </episodeList>
