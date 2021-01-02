@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-01T17:35:03.031Z</lastUpdated>
+  <lastUpdated>2021-01-02T00:55:02.984Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -81,14 +81,6 @@
     <lastUpload>2021-01-01T04:24:08.303Z</lastUpload>
     <seriesId>2074,3004</seriesId>
     <title>BIZ STREAM</title>
-  </series>
-  <series>
-    <count>1</count>
-    <uniqueId>71725fb1c2f9b8d3</uniqueId>
-    <lastAiring>2020-12-31T10:15:00.000Z</lastAiring>
-    <lastUpload>2021-01-01T02:57:32.216Z</lastUpload>
-    <seriesId>3004</seriesId>
-    <title>BIZ STREEAM</title>
   </series>
   <series>
     <count>2</count>
@@ -761,6 +753,14 @@
     <lastUpload>2020-12-24T08:20:10.031Z</lastUpload>
     <seriesId>4003</seriesId>
     <title>The Professionals</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>c56c01f7dfb4eaa3</uniqueId>
+    <lastAiring>2021-01-01T15:30:00.000Z</lastAiring>
+    <lastUpload>2021-01-02T00:52:52.499Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>The Secret Passion of Steve Jobs</title>
   </series>
   <series>
     <count>5</count>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-01T17:35:03.038Z",
+  "lastUpdated": "2021-01-02T00:55:02.990Z",
   "series": [
     {
       "count": 11,
@@ -80,14 +80,6 @@
       "lastUpload": "2021-01-01T04:24:08.303Z",
       "seriesId": "2074,3004",
       "title": "BIZ STREAM"
-    },
-    {
-      "count": 1,
-      "uniqueId": "71725fb1c2f9b8d3",
-      "lastAiring": "2020-12-31T10:15:00.000Z",
-      "lastUpload": "2021-01-01T02:57:32.216Z",
-      "seriesId": "3004",
-      "title": "BIZ STREEAM"
     },
     {
       "count": 2,
@@ -760,6 +752,14 @@
       "lastUpload": "2020-12-24T08:20:10.031Z",
       "seriesId": "4003",
       "title": "The Professionals"
+    },
+    {
+      "count": 1,
+      "uniqueId": "c56c01f7dfb4eaa3",
+      "lastAiring": "2021-01-01T15:30:00.000Z",
+      "lastUpload": "2021-01-02T00:52:52.499Z",
+      "seriesId": "3004",
+      "title": "The Secret Passion of Steve Jobs"
     },
     {
       "count": 5,
