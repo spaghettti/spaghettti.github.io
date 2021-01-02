@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-02T02:15:03.076Z</lastUpdated>
+  <lastUpdated>2021-01-02T03:35:03.374Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
   <episode>
@@ -51,6 +51,21 @@
     <title>NHK WORLD PRIME</title>
     <uploadedDate>2020-12-24T19:45:43.577Z</uploadedDate>
     <raw>https://mega.nz/folder/uk9UQLaQ#mLftUzkkCx9RuGb-njGkMQ</raw>
+  </episode>
+  <episode>
+    <airingId>078</airingId>
+    <content>Hanzawa Tsuruko is a master of "chaji," a tea ceremony that starts with an exquisitely prepared meal and finishes with matcha tea served from the heart. The purpose of this four-hour event is to treasure every encounter in life, knowing that it will never recur. Tsuruko has been traveling around Japan to encounter new people and share "chaji" with them. Last autumn, at the age of 76, she set off on a tea journey across Germany. The program chronicles her month-long odyssey.</content>
+    <description>Hanzawa Tsuruko is a master of chaji, a tea ceremony that starts with an exquisitely prepared meal and concludes with matcha green tea. Last autumn, she set off on a tea odyssey across Germany.</description>
+    <endDate>2021-01-02T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/KgsUQBTS#EtkNWAlOayL368QX3ys37A</link>
+    <recordDateEnd>2021-01-02T02:00:24.300Z</recordDateEnd>
+    <recordDateStart>2021-01-02T01:09:20.050Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>1959de350237345bba00075c32dda9dd776adeb22e4d15263db8aaf195d933c7</sha256>
+    <startDate>2021-01-02T01:10:00.000Z</startDate>
+    <subtitle>Tsuruko's Tea Journey in Germany</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2021-01-02T03:32:44.051Z</uploadedDate>
   </episode>
   <episode>
     <airingId>083</airingId>
