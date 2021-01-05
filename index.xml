@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-02T03:35:03.470Z</lastUpdated>
+  <lastUpdated>2021-01-05T05:05:02.987Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -603,10 +603,10 @@
     <title>Paprika  Let's dance!</title>
   </series>
   <series>
-    <count>7</count>
+    <count>8</count>
     <uniqueId>3bee8422e8005b98</uniqueId>
-    <lastAiring>2020-12-26T03:55:00.000Z</lastAiring>
-    <lastUpload>2020-12-28T23:04:15.721Z</lastUpload>
+    <lastAiring>2021-01-02T03:55:00.000Z</lastAiring>
+    <lastUpload>2021-01-05T05:01:27.844Z</lastUpload>
     <seriesId>6021</seriesId>
     <title>PythagoraSwitch mini</title>
   </series>
