@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-05T05:05:02.943Z</lastUpdated>
+  <lastUpdated>2021-01-05T05:10:03.838Z</lastUpdated>
   <seriesId>da2ed3151c7e82e4</seriesId>
   <title>no art, no life</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>no art, no life</title>
     <uploadedDate>2020-12-27T23:14:26.404Z</uploadedDate>
     <raw>https://mega.nz/folder/6Z9wwSaa#LzuE1DIKQpbaWH5HxFSgGQ</raw>
+  </episode>
+  <episode>
+    <airingId>020</airingId>
+    <content/>
+    <description>Outsider artists like CANKTLE are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.</description>
+    <endDate>2021-01-02T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/lIlWEa4T#_crt_waUikB7VoRDO_ujdA</link>
+    <recordDateEnd>2021-01-02T02:55:26.400Z</recordDateEnd>
+    <recordDateStart>2021-01-02T02:49:20.001Z</recordDateStart>
+    <seriesId>6026</seriesId>
+    <sha256>afce6f6877eade9073f354f7207b5cd9c8224fc9a0022a340bf1ce4ac25edf93</sha256>
+    <startDate>2021-01-02T02:50:00.000Z</startDate>
+    <subtitle/>
+    <title>no art, no life</title>
+    <uploadedDate>2021-01-05T05:09:21.549Z</uploadedDate>
   </episode>
 </episodeList>
