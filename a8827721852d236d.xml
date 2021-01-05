@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-05T05:10:03.866Z</lastUpdated>
+  <lastUpdated>2021-01-05T06:15:03.954Z</lastUpdated>
   <seriesId>a8827721852d236d</seriesId>
   <title>Japan-easy</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>Japan-easy2</title>
     <uploadedDate>2020-12-29T03:58:02.719Z</uploadedDate>
     <raw>https://mega.nz/folder/lI8mVbBJ#-Oh00OYlLN0n7c91YLRwYw</raw>
+  </episode>
+  <episode>
+    <airingId>116</airingId>
+    <content/>
+    <description>Today, we'll learn how to say "Could you take my picture?" in Japanese. Learn useful phrases and cool kanji! And you'll realize "Japanese is easy"!</description>
+    <endDate>2021-01-03T12:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/xJZ11KaY#AZcE7DOlj5_rndnHJieMVQ</link>
+    <recordDateEnd>2021-01-03T12:25:26.037Z</recordDateEnd>
+    <recordDateStart>2021-01-03T12:09:22.763Z</recordDateStart>
+    <seriesId>6210</seriesId>
+    <sha256>233c9abb0c2e3fe5ac908db089655303c9ddf8a1f94f318037c49206e2dfd0df</sha256>
+    <startDate>2021-01-03T12:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Japan-easy2</title>
+    <uploadedDate>2021-01-05T06:12:41.617Z</uploadedDate>
   </episode>
 </episodeList>

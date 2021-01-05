@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-05T05:10:03.867Z",
+  "lastUpdated": "2021-01-05T06:15:03.955Z",
   "seriesId": "6210",
   "title": "Japan-easy",
   "episodes": [
@@ -114,6 +114,21 @@
       "title": "Japan-easy2",
       "uploadedDate": "2020-12-29T03:58:02.719Z",
       "raw": "https://mega.nz/folder/lI8mVbBJ#-Oh00OYlLN0n7c91YLRwYw"
+    },
+    {
+      "airingId": "116",
+      "content": "",
+      "description": "Today, we'll learn how to say \"Could you take my picture?\" in Japanese. Learn useful phrases and cool kanji! And you'll realize \"Japanese is easy\"!",
+      "endDate": "2021-01-03T12:25:00.000Z",
+      "link": "https://mega.nz/folder/xJZ11KaY#AZcE7DOlj5_rndnHJieMVQ",
+      "recordDateEnd": "2021-01-03T12:25:26.037Z",
+      "recordDateStart": "2021-01-03T12:09:22.763Z",
+      "seriesId": "6210",
+      "sha256": "233c9abb0c2e3fe5ac908db089655303c9ddf8a1f94f318037c49206e2dfd0df",
+      "startDate": "2021-01-03T12:10:00.000Z",
+      "subtitle": "",
+      "title": "Japan-easy2",
+      "uploadedDate": "2021-01-05T06:12:41.617Z"
     }
   ]
 }
