@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T09:30:03.545Z</lastUpdated>
+  <lastUpdated>2021-01-06T09:40:03.617Z</lastUpdated>
   <seriesId>b7a2bc9b23a9c5ee</seriesId>
   <title>Journeys in Japan</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>Journeys in Japan</title>
     <uploadedDate>2020-12-29T06:12:12.333Z</uploadedDate>
     <raw>https://mega.nz/folder/5B5yWI5C#y9pP0Hmi30rPDERFGHOINQ</raw>
+  </episode>
+  <episode>
+    <airingId>430</airingId>
+    <content>The Kyotango area of northern Kyoto Prefecture is known as the birthplace of Tango Chirimen, a variety of crepe silk with a finely crimped texture and luxuriously soft feel. For 300 years, this fabric has been an essential part of its history and culture. On this episode of Journeys in Japan, we meet the people who produce Tango Chirimen, from the craftsmen who maintain the traditional skills of weaving and dyeing, to the modern artisans creating contemporary designs. And we explore the deep connection of this fabric with the natural environment of the Kyotango area.</content>
+    <description>In Kyotango (Kyoto Pref.) we discover Tango Chirimen silk textiles, and meet the artisans who produce them. On this program, get to know the real Japan and discover useful travel tips.</description>
+    <endDate>2021-01-05T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/F08CQTAC#2aJ-gZ5ZVPFApmT6UadzIQ</link>
+    <recordDateEnd>2021-01-05T00:00:34.418Z</recordDateEnd>
+    <recordDateStart>2021-01-04T23:29:20.098Z</recordDateStart>
+    <seriesId>2007</seriesId>
+    <sha256>e4d32d9c916fa1e90b078d3dc70569dfb3b778e24c4f63658366567b428bf007</sha256>
+    <startDate>2021-01-04T23:30:00.000Z</startDate>
+    <subtitle>Kyoto: Tango Chirimen</subtitle>
+    <title>Journeys in Japan</title>
+    <uploadedDate>2021-01-06T09:36:30.736Z</uploadedDate>
   </episode>
 </episodeList>
