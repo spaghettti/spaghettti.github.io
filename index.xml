@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-06T07:30:04.090Z</lastUpdated>
+  <lastUpdated>2021-01-06T07:35:03.293Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -187,10 +187,10 @@
     <title>Dig More Japan</title>
   </series>
   <series>
-    <count>14</count>
+    <count>15</count>
     <uniqueId>4562406e38a4085a</uniqueId>
-    <lastAiring>2021-01-01T14:30:00.000Z</lastAiring>
-    <lastUpload>2021-01-01T15:47:45.401Z</lastUpload>
+    <lastAiring>2021-01-05T00:30:00.000Z</lastAiring>
+    <lastUpload>2021-01-06T07:30:20.229Z</lastUpload>
     <seriesId>2019</seriesId>
     <title>Dining with the Chef</title>
   </series>
