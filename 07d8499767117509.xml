@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T09:20:03.351Z</lastUpdated>
+  <lastUpdated>2021-01-06T09:30:03.620Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -275,6 +275,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T11:46:36.967Z</uploadedDate>
     <raw>https://mega.nz/folder/CZt0yQAQ#Yhs_Za2f4TFMR65dsrh8wg</raw>
+  </episode>
+  <episode>
+    <airingId>581</airingId>
+    <content>Tomosuke Noda is the principal of the River School, a camp designed to teach kids how much fun rivers can be. He talks about the many outdoor activities the kids enjoy and his vision for the program.</content>
+    <description>Tomosuke Noda is the principal of the River School, a camp designed to teach kids how much fun rivers can be. He talks about the many outdoor activities the kids enjoy and his vision for the program.</description>
+    <endDate>2021-01-04T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/VJoECSoS#YbJyLajSgFfCkX8ZNqnIiA</link>
+    <recordDateEnd>2021-01-04T07:30:24.655Z</recordDateEnd>
+    <recordDateStart>2021-01-04T07:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>18565be76308c311a42b6310050eae45d0b0d5c089180d269be0165ea233e669</sha256>
+    <startDate>2021-01-04T07:15:00.000Z</startDate>
+    <subtitle>Raising River Kids: Tomosuke Noda / Nonfiction Writer &amp; Canoeist</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-06T09:28:15.491Z</uploadedDate>
+    <raw>https://mega.nz/folder/7NNEiBpR#kZPfGGU-r6oaqYe0cKk2Gg</raw>
   </episode>
   <episode>
     <airingId>583</airingId>

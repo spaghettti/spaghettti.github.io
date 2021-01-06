@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-06T09:20:03.506Z</lastUpdated>
+  <lastUpdated>2021-01-06T09:30:03.765Z</lastUpdated>
   <series>
     <count>13</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -195,10 +195,10 @@
     <title>Dining with the Chef</title>
   </series>
   <series>
-    <count>72</count>
+    <count>73</count>
     <uniqueId>07d8499767117509</uniqueId>
     <lastAiring>2021-01-06T07:15:00.000Z</lastAiring>
-    <lastUpload>2021-01-06T08:47:35.769Z</lastUpload>
+    <lastUpload>2021-01-06T09:28:15.491Z</lastUpload>
     <seriesId>2058</seriesId>
     <title>Direct Talk</title>
   </series>
@@ -243,10 +243,10 @@
     <title>Easy Japanese</title>
   </series>
   <series>
-    <count>5</count>
+    <count>6</count>
     <uniqueId>ae19acce46550858</uniqueId>
-    <lastAiring>2020-12-14T00:45:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T05:34:58.349Z</lastUpload>
+    <lastAiring>2021-01-04T00:45:00.000Z</lastAiring>
+    <lastUpload>2021-01-06T09:28:27.455Z</lastUpload>
     <seriesId>2078</seriesId>
     <title>Easy Japanese for Work</title>
   </series>
