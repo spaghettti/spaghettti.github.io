@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-06T11:00:04.399Z</lastUpdated>
+  <lastUpdated>2021-01-06T11:05:03.529Z</lastUpdated>
   <series>
     <count>13</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -707,10 +707,10 @@
     <title>Side by Side</title>
   </series>
   <series>
-    <count>6</count>
+    <count>7</count>
     <uniqueId>aefa3128a4eaf8eb</uniqueId>
-    <lastAiring>2020-12-27T04:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-28T00:00:55.161Z</lastUpload>
+    <lastAiring>2021-01-03T04:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-06T11:01:27.980Z</lastUpload>
     <seriesId>4017</seriesId>
     <title>Somewhere Street</title>
   </series>

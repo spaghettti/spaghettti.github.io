@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T11:00:04.308Z</lastUpdated>
+  <lastUpdated>2021-01-06T11:05:03.458Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>Somewhere Street</title>
     <uploadedDate>2020-12-28T00:00:55.161Z</uploadedDate>
     <raw>https://mega.nz/folder/59EBQSba#acaXOKcpGARa8t-yxAAG0w</raw>
+  </episode>
+  <episode>
+    <airingId>061</airingId>
+    <content>Kobe is one of the busiest international trading ports in Japan. A hub for trade with China and other countries for hundreds of years, the city has incorporated its ties with foreign cultures into modern Kobe. Despite of a disastrous earthquake in 1995, it has rebounded and has recovered impressively. In this episode, we stroll around Kobe streets.</content>
+    <description>Kobe is one of the busiest international port cities in Japan. It was devastated by a large earthquake in 1995, but it has recovered splendidly. In this episode, we stroll around Kobe streets.</description>
+    <endDate>2021-01-03T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Dg933YKY#XyraffkCJOHG184igHo46g</link>
+    <recordDateEnd>2021-01-03T05:00:26.414Z</recordDateEnd>
+    <recordDateStart>2021-01-03T04:09:22.710Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>903d1f1648e6c447e083104b93f905c94a8b772f56b471e7238d08bc4e648bea</sha256>
+    <startDate>2021-01-03T04:10:00.000Z</startDate>
+    <subtitle>Kobe, Japan</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-01-06T11:01:27.980Z</uploadedDate>
+    <raw>https://mega.nz/folder/hws3yayB#jD8CQ7mYuCEgmf3kMyGLAw</raw>
   </episode>
   <episode>
     <airingId>082</airingId>
