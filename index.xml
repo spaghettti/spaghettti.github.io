@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-06T09:40:04.020Z</lastUpdated>
+  <lastUpdated>2021-01-06T10:25:03.143Z</lastUpdated>
   <series>
     <count>13</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -451,10 +451,10 @@
     <title>Japan-easy</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>f2fee2555c450616</uniqueId>
-    <lastAiring>2020-12-27T02:40:00.000Z</lastAiring>
-    <lastUpload>2020-12-28T23:18:19.174Z</lastUpload>
+    <lastAiring>2021-01-03T02:40:00.000Z</lastAiring>
+    <lastUpload>2021-01-06T10:20:26.561Z</lastUpload>
     <seriesId>6200</seriesId>
     <title>JAPANGLE</title>
   </series>

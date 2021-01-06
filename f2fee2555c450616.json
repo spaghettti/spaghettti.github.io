@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T09:40:03.987Z",
+  "lastUpdated": "2021-01-06T10:25:03.122Z",
   "seriesId": "6200",
   "title": "JAPANGLE",
   "episodes": [
@@ -178,6 +178,21 @@
       "title": "JAPANGLE",
       "uploadedDate": "2020-12-28T23:18:19.174Z",
       "raw": "https://mega.nz/folder/ttt2RT7T#VMfd_vQbPMGnmvxeNuTkUA"
+    },
+    {
+      "airingId": "014",
+      "content": "",
+      "description": "\"JAPANGLE\" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. This episode is Tokyo.",
+      "endDate": "2021-01-03T03:00:00.000Z",
+      "link": "https://mega.nz/folder/S41U2AJB#v1-onImYoy_m_w_pgJeSuQ",
+      "recordDateEnd": "2021-01-03T03:00:27.250Z",
+      "recordDateStart": "2021-01-03T02:39:23.002Z",
+      "seriesId": "6200",
+      "sha256": "0326e37228b2b4e767253edcd752f57ec7eb6541d77416474b48de5271282571",
+      "startDate": "2021-01-03T02:40:00.000Z",
+      "subtitle": "",
+      "title": "JAPANGLE",
+      "uploadedDate": "2021-01-06T10:20:26.561Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T09:40:03.986Z</lastUpdated>
+  <lastUpdated>2021-01-06T10:25:03.121Z</lastUpdated>
   <seriesId>f2fee2555c450616</seriesId>
   <title>JAPANGLE</title>
   <episode>
@@ -179,5 +179,20 @@
     <title>JAPANGLE</title>
     <uploadedDate>2020-12-28T23:18:19.174Z</uploadedDate>
     <raw>https://mega.nz/folder/ttt2RT7T#VMfd_vQbPMGnmvxeNuTkUA</raw>
+  </episode>
+  <episode>
+    <airingId>014</airingId>
+    <content/>
+    <description>"JAPANGLE" is a series of educational entertainment programs that puts a spotlight on various aspects of Japan. This episode is Tokyo.</description>
+    <endDate>2021-01-03T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/S41U2AJB#v1-onImYoy_m_w_pgJeSuQ</link>
+    <recordDateEnd>2021-01-03T03:00:27.250Z</recordDateEnd>
+    <recordDateStart>2021-01-03T02:39:23.002Z</recordDateStart>
+    <seriesId>6200</seriesId>
+    <sha256>0326e37228b2b4e767253edcd752f57ec7eb6541d77416474b48de5271282571</sha256>
+    <startDate>2021-01-03T02:40:00.000Z</startDate>
+    <subtitle/>
+    <title>JAPANGLE</title>
+    <uploadedDate>2021-01-06T10:20:26.561Z</uploadedDate>
   </episode>
 </episodeList>
