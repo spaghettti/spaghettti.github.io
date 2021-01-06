@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T08:45:02.876Z",
+  "lastUpdated": "2021-01-06T08:50:03.020Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -641,6 +641,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-01-06T07:27:10.454Z",
       "raw": "https://mega.nz/folder/pcEDnAha#oocIE86D1-PW_R8d2RKNXw"
+    },
+    {
+      "airingId": "656",
+      "content": "",
+      "description": "Yamami Koji creates award - winning kaleidoscopes that rise to the level of art. What sort of wizardry goes into crafting optical instruments that surprise and delight the eyes?",
+      "endDate": "2021-01-05T09:30:00.000Z",
+      "link": "https://mega.nz/folder/NRNmwBrL#7o7AwTzUS_JGpLpk7Krf5Q",
+      "recordDateEnd": "2021-01-05T09:30:28.124Z",
+      "recordDateStart": "2021-01-05T09:14:23.963Z",
+      "seriesId": "2058",
+      "sha256": "f0d6b02c7186adc838dc064dbb700c043e71877699645e2c9c416163222c1df3",
+      "startDate": "2021-01-05T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-06T08:47:35.769Z"
     },
     {
       "airingId": "664",
