@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T11:05:03.486Z</lastUpdated>
+  <lastUpdated>2021-01-06T11:15:03.066Z</lastUpdated>
   <seriesId>da2ed3151c7e82e4</seriesId>
   <title>no art, no life</title>
   <episode>
@@ -130,5 +130,6 @@
     <subtitle/>
     <title>no art, no life</title>
     <uploadedDate>2021-01-05T05:09:21.549Z</uploadedDate>
+    <raw>https://mega.nz/folder/y5NkzB6A#_n85nH7RtcgaJQtWQE9hpg</raw>
   </episode>
 </episodeList>

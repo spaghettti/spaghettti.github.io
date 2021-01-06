@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-06T11:05:03.529Z</lastUpdated>
+  <lastUpdated>2021-01-06T11:15:03.112Z</lastUpdated>
   <series>
     <count>13</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -635,10 +635,10 @@
     <title>Reviving the Voices of Himeyuri - The Rebirth of the Museum 75 Years After the War</title>
   </series>
   <series>
-    <count>8</count>
+    <count>9</count>
     <uniqueId>509fab78036b7f12</uniqueId>
-    <lastAiring>2020-12-31T01:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-31T09:03:22.640Z</lastUpload>
+    <lastAiring>2021-01-02T14:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-06T11:11:11.951Z</lastUpload>
     <seriesId>2042</seriesId>
     <title>RISING</title>
   </series>

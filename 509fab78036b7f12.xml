@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T11:05:03.366Z</lastUpdated>
+  <lastUpdated>2021-01-06T11:15:02.946Z</lastUpdated>
   <seriesId>509fab78036b7f12</seriesId>
   <title>RISING</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>RISING</title>
     <uploadedDate>2020-12-28T23:42:49.732Z</uploadedDate>
     <raw>https://mega.nz/folder/UUx3SSbL#jbUzaB0zHGW2TYMxdtdZ-Q</raw>
+  </episode>
+  <episode>
+    <airingId>088</airingId>
+    <content>Agricultural science PhD Yukihiro Maru is head of a unique business striving to raise the floor for science and technology in Japan, through both educational workshops and support for science-based startups. Staffed by science graduates and postgrads, the firm conducts around 300 workshops each year aimed at boosting interest in STEM subjects among kids and teens, and has also helped kickstart over 200 tech ventures. Follow their efforts to save the world through the power of science.</content>
+    <description>We follow a unique business striving to raise the floor for science and technology in Japan, both through traveling educational workshops and support for science-based startups.</description>
+    <endDate>2021-01-02T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/UEMEwRAT#41mcTONRmY7M3pPZYxMA5w</link>
+    <recordDateEnd>2021-01-02T14:40:32.536Z</recordDateEnd>
+    <recordDateStart>2021-01-02T14:09:20.131Z</recordDateStart>
+    <seriesId>2042</seriesId>
+    <sha256>7adf403e837be22a45fc4ec54abb32ff644d6b17535bf7287aa25ceca9ca3cef</sha256>
+    <startDate>2021-01-02T14:10:00.000Z</startDate>
+    <subtitle>Saving the World through the Power of Science: STEM Support Innovator - Yukihiro Maru</subtitle>
+    <title>RISING</title>
+    <uploadedDate>2021-01-06T11:11:11.951Z</uploadedDate>
   </episode>
   <episode>
     <airingId>093</airingId>
