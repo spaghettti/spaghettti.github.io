@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T10:35:03.384Z</lastUpdated>
+  <lastUpdated>2021-01-06T11:00:04.331Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>Easy Japanese</title>
     <uploadedDate>2020-12-26T08:46:58.706Z</uploadedDate>
     <raw>https://mega.nz/folder/i41SzBgD#mTt3wv0X3eBQ4ACH69Xtwg</raw>
+  </episode>
+  <episode>
+    <airingId>038</airingId>
+    <content/>
+    <description>#38 I prefer outside. / To say which of 2 options you prefer, say the name of your choice, and "no hoo ga ii desu."</description>
+    <endDate>2021-01-02T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/IgtlhKYD#I9JlCtsYbam4HspgQlD7Ng</link>
+    <recordDateEnd>2021-01-02T05:00:29.063Z</recordDateEnd>
+    <recordDateStart>2021-01-02T04:54:24.235Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>2235a34b375cf009e43969d3b2dcf47a312652da6a845037bf9f5bac7035ed0d</sha256>
+    <startDate>2021-01-02T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-01-06T10:58:35.239Z</uploadedDate>
   </episode>
 </episodeList>
