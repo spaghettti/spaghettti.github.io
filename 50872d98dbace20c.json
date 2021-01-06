@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T07:45:03.192Z",
+  "lastUpdated": "2021-01-06T07:50:03.717Z",
   "seriesId": "2053",
   "title": "TOKYO EYE",
   "episodes": [
@@ -98,6 +98,21 @@
       "title": "TOKYO EYE 2020",
       "uploadedDate": "2020-12-24T18:22:26.088Z",
       "raw": "https://mega.nz/folder/ERtz3aYK#2guUtBCWuj8xEtSlF-BVPw"
+    },
+    {
+      "airingId": "195",
+      "content": "During the pandemic, parks around Tokyo have been putting their impressive power on display. They're gaining fresh attention for their ability to connect people with nature -- and with each other. Let's take a refreshing stroll through Tokyo's great parks.",
+      "description": "Parks around Tokyo are gaining fresh attention during the pandemic for their ability to connect people with nature. Let's take a refreshing stroll through Tokyo's parks.",
+      "endDate": "2021-01-06T00:00:00.000Z",
+      "link": "https://mega.nz/folder/Cl8SxYhI#gKfOJiHhPzXAf-1gvjtZkg",
+      "recordDateEnd": "2021-01-06T00:00:28.400Z",
+      "recordDateStart": "2021-01-05T23:29:20.098Z",
+      "seriesId": "2053",
+      "sha256": "0668d8f2736f520b6700e73f2ad6c4d87794c181bebc0c408a19d4e874b7366b",
+      "startDate": "2021-01-05T23:30:00.000Z",
+      "subtitle": "Tokyo and the Coronavirus: Parks Offer Pandemic Peace",
+      "title": "TOKYO EYE 2020",
+      "uploadedDate": "2021-01-06T07:45:30.877Z"
     },
     {
       "airingId": "196",

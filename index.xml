@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-06T07:45:03.381Z</lastUpdated>
+  <lastUpdated>2021-01-06T07:50:03.872Z</lastUpdated>
   <series>
     <count>11</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -219,10 +219,10 @@
     <title>Document 72 Hours</title>
   </series>
   <series>
-    <count>7</count>
+    <count>8</count>
     <uniqueId>5d6cd359adade3e0</uniqueId>
-    <lastAiring>2020-12-27T11:50:00.000Z</lastAiring>
-    <lastUpload>2020-12-27T22:37:30.044Z</lastUpload>
+    <lastAiring>2021-01-03T12:35:00.000Z</lastAiring>
+    <lastUpload>2021-01-06T07:49:16.767Z</lastUpload>
     <seriesId>2075</seriesId>
     <title>Doki Doki! NHK WORLD-JAPAN</title>
   </series>
@@ -811,10 +811,10 @@
     <title>Today's Close-Up</title>
   </series>
   <series>
-    <count>7</count>
+    <count>8</count>
     <uniqueId>50872d98dbace20c</uniqueId>
-    <lastAiring>2020-12-29T23:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-30T01:00:16.934Z</lastUpload>
+    <lastAiring>2021-01-05T23:30:00.000Z</lastAiring>
+    <lastUpload>2021-01-06T07:45:30.877Z</lastUpload>
     <seriesId>2053</seriesId>
     <title>TOKYO EYE</title>
   </series>
@@ -859,10 +859,10 @@
     <title>Ukiyoe EDO-LIFE</title>
   </series>
   <series>
-    <count>7</count>
+    <count>8</count>
     <uniqueId>96934130ea8f6060</uniqueId>
-    <lastAiring>2020-12-27T23:15:00.000Z</lastAiring>
-    <lastUpload>2020-12-28T22:33:43.070Z</lastUpload>
+    <lastAiring>2021-01-03T23:15:00.000Z</lastAiring>
+    <lastUpload>2021-01-06T07:45:12.657Z</lastUpload>
     <seriesId>6033</seriesId>
     <title>We, in the Time of Corona</title>
   </series>

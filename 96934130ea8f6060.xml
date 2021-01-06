@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T07:45:03.322Z</lastUpdated>
+  <lastUpdated>2021-01-06T07:50:03.841Z</lastUpdated>
   <seriesId>96934130ea8f6060</seriesId>
   <title>We, in the Time of Corona</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>We, in the Time of Corona</title>
     <uploadedDate>2020-12-24T01:41:00.863Z</uploadedDate>
     <raw>https://mega.nz/folder/j09W3AjK#hOC8eseKGeubafX4asfSaA</raw>
+  </episode>
+  <episode>
+    <airingId>018</airingId>
+    <content>Born in Kyoto Prefecture, Matsumoto Myokei is a leading Buddhist sculptor in Japan. He believes his mission is to carve Buddhist statues that will soothe people's hearts during this crisis.</content>
+    <description>Born in Kyoto, Matsumoto Myokei is a leading Buddhist sculptor in Japan. He believes his mission is to carve Buddhist statues that will soothe people's hearts during this crisis.</description>
+    <endDate>2021-01-03T23:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/TtkkjaIK#KR-cCdj3-sPkJNtdyjcD-Q</link>
+    <recordDateEnd>2021-01-03T23:20:26.870Z</recordDateEnd>
+    <recordDateStart>2021-01-03T23:14:20.099Z</recordDateStart>
+    <seriesId>6033</seriesId>
+    <sha256>69deb035c627df86459d34e9b24e92a2e87df820bba5c84bf2d3138ad91732d2</sha256>
+    <startDate>2021-01-03T23:15:00.000Z</startDate>
+    <subtitle>Matsumoto Myokei, Buddhist Sculptor</subtitle>
+    <title>We, in the Time of Corona</title>
+    <uploadedDate>2021-01-06T07:45:12.657Z</uploadedDate>
   </episode>
   <episode>
     <airingId>034</airingId>

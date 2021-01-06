@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T07:45:03.386Z",
+  "lastUpdated": "2021-01-06T07:50:03.877Z",
   "series": [
     {
       "count": 11,
@@ -218,10 +218,10 @@
       "title": "Document 72 Hours"
     },
     {
-      "count": 7,
+      "count": 8,
       "uniqueId": "5d6cd359adade3e0",
-      "lastAiring": "2020-12-27T11:50:00.000Z",
-      "lastUpload": "2020-12-27T22:37:30.044Z",
+      "lastAiring": "2021-01-03T12:35:00.000Z",
+      "lastUpload": "2021-01-06T07:49:16.767Z",
       "seriesId": "2075",
       "title": "Doki Doki! NHK WORLD-JAPAN"
     },
@@ -810,10 +810,10 @@
       "title": "Today's Close-Up"
     },
     {
-      "count": 7,
+      "count": 8,
       "uniqueId": "50872d98dbace20c",
-      "lastAiring": "2020-12-29T23:30:00.000Z",
-      "lastUpload": "2020-12-30T01:00:16.934Z",
+      "lastAiring": "2021-01-05T23:30:00.000Z",
+      "lastUpload": "2021-01-06T07:45:30.877Z",
       "seriesId": "2053",
       "title": "TOKYO EYE"
     },
@@ -858,10 +858,10 @@
       "title": "Ukiyoe EDO-LIFE"
     },
     {
-      "count": 7,
+      "count": 8,
       "uniqueId": "96934130ea8f6060",
-      "lastAiring": "2020-12-27T23:15:00.000Z",
-      "lastUpload": "2020-12-28T22:33:43.070Z",
+      "lastAiring": "2021-01-03T23:15:00.000Z",
+      "lastUpload": "2021-01-06T07:45:12.657Z",
       "seriesId": "6033",
       "title": "We, in the Time of Corona"
     },

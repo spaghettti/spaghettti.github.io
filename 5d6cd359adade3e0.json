@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T07:45:03.231Z",
+  "lastUpdated": "2021-01-06T07:50:03.757Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2020-12-25T18:22:36.498Z",
       "raw": "https://mega.nz/folder/6oU1RAhA#lg1EjkYg5fajsGsnR5Ji2w"
+    },
+    {
+      "airingId": "064",
+      "content": "",
+      "description": "This time we introduce \"Trails to Oishii Tokyo,\" which shows the astounding world of Japanese Bread. The episode shows sushi made with bread instead of rice and artistic character-like bread.",
+      "endDate": "2021-01-03T12:40:00.000Z",
+      "link": "https://mega.nz/folder/BE5BVIyZ#DWW2hG2h5ynyGElQLfrGIA",
+      "recordDateEnd": "2021-01-03T12:40:31.308Z",
+      "recordDateStart": "2021-01-03T12:34:20.098Z",
+      "seriesId": "2075",
+      "sha256": "4e24fd42fd648963a976a123b7fba90ee3e65c5ed47845e5629cb12ec07fbe4f",
+      "startDate": "2021-01-03T12:35:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2021-01-06T07:49:16.767Z"
     },
     {
       "airingId": "071",
