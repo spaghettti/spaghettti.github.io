@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T08:10:03.142Z</lastUpdated>
+  <lastUpdated>2021-01-06T08:15:03.865Z</lastUpdated>
   <seriesId>0d8539ab8172c64c</seriesId>
   <title>Selfie Japan!</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Selfie Japan! Kyoto</title>
     <uploadedDate>2020-12-24T15:31:26.335Z</uploadedDate>
     <raw>https://mega.nz/folder/xdJFhSzA#jGKv3ZXhyziC3KrMNZgg0A</raw>
+  </episode>
+  <episode>
+    <airingId>006</airingId>
+    <content/>
+    <description>Duan Wenning visits the city of Iga in Mie Pref. which used to be home to ninja practitioners. She tries her hand at the rigorous physical training ninja used to conduct and takes a unique selfie.</description>
+    <endDate>2021-01-03T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Oh8STSoa#ARMrf3zBLpSW2JpxiwEAmA</link>
+    <recordDateEnd>2021-01-03T02:00:21.001Z</recordDateEnd>
+    <recordDateStart>2021-01-03T01:54:22.790Z</recordDateStart>
+    <seriesId>6028</seriesId>
+    <sha256>055056b67b85ceed90882ca306793a68c4dce3ae86a091f2111094f79f9adab2</sha256>
+    <startDate>2021-01-03T01:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Selfie Japan! Mie</title>
+    <uploadedDate>2021-01-06T08:13:49.485Z</uploadedDate>
   </episode>
   <episode>
     <airingId>010</airingId>
