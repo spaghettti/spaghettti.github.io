@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T11:40:02.984Z",
+  "lastUpdated": "2021-01-06T11:55:02.812Z",
   "seriesId": "3016,4001",
   "title": "NHK Documentary",
   "episodes": [
@@ -114,6 +114,22 @@
       "title": "NHK Documentary",
       "uploadedDate": "2020-12-29T00:14:56.447Z",
       "raw": "https://mega.nz/folder/r1dVlS6A#pF0B71BOkm8kIPJuaNGJsQ"
+    },
+    {
+      "airingId": "382",
+      "content": "Every day, people willingly surrender their personal data in pursuit of entertainment or convenience. This information is stored in giant repositories, then used to track our movements, sell us products and determine our future. Technology now allows the creation of \"digital twins,\" virtual copies of our real selves based on our search histories and online habits. But what are the human and social costs of these innovations? Will they bring us more freedom and opportunity? Or will they lead to increased loss of individual liberty? We explore the ongoing conflict between digital convenience and personal privacy.",
+      "description": "Every day, people willingly surrender their personal data. It can be used to create \"digital twins,\" virtual copies of our real selves. What happens when our private lives are no longer private?",
+      "endDate": "2021-01-02T15:57:00.000Z",
+      "link": "https://mega.nz/folder/LhFwmbiL#VQIeErhgjZGt9Tw3oJo3lg",
+      "recordDateEnd": "2021-01-02T15:57:27.499Z",
+      "recordDateStart": "2021-01-02T15:09:22.846Z",
+      "seriesId": "4001",
+      "sha256": "767755517b6c5fe6b93578980865edabc034384c226315e68e07d5c3c607000f",
+      "startDate": "2021-01-02T15:10:00.000Z",
+      "subtitle": "Digital vs. Real: Digital Twin - The End of Privacy?",
+      "title": "NHK Documentary",
+      "uploadedDate": "2021-01-06T11:53:08.881Z",
+      "raw": "https://mega.nz/folder/IJxHxSAa#4am-3968piUHf3fu4jWx4Q"
     }
   ]
 }
