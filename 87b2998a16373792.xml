@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T09:05:03.445Z</lastUpdated>
+  <lastUpdated>2021-01-06T09:10:02.825Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -125,5 +125,21 @@ Human-type Ceramides from Traditional Japanese Brewing</content>
     <title>Science View</title>
     <uploadedDate>2020-12-24T17:10:39.509Z</uploadedDate>
     <raw>https://mega.nz/folder/7YsCjZKA#GRo-PDqsaRND6vMKU6HGIg</raw>
+  </episode>
+  <episode>
+    <airingId>249</airingId>
+    <content>Are we alone in the vast universe? One Japanese researcher is tackling this profound mystery: Dr. Norio Narita, a planetary scientist and an astrobiologist at the University of Tokyo's Komaba Institute for Science. Narita has developed a state-of-the-art spectroscopic camera that enables analysis of the atmospheric components of exoplanets. By detecting trace gases such as water vapor, carbon dioxide and methane, he hopes to identify planets that have the potential to sustain life. In this episode, we'll follow one of Japan's leading planet hunters in his quest for habitable worlds.</content>
+    <description>Planet hunter Dr. Norio Narita is searching for habitable worlds. Using a device to detect trace gases in an exoplanet's atmosphere, he is shedding new light on extraterrestrial planetary research.</description>
+    <endDate>2021-01-05T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/qkck0Lia#U3_Wtf5IaijUjSEkGkwadw</link>
+    <recordDateEnd>2021-01-05T16:00:39.804Z</recordDateEnd>
+    <recordDateStart>2021-01-05T15:29:24.132Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>2a9e057a91cb1ab62fe884010ce55528d403cc792eb06b559ca56fa8ce58f5f6</sha256>
+    <startDate>2021-01-05T15:30:00.000Z</startDate>
+    <subtitle>Special Episode: Life Beyond Earth - The Search for Habitable Worlds in the Universe</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-01-06T09:06:04.430Z</uploadedDate>
+    <raw>https://mega.nz/folder/NZgSiKRb#C7FtuqrMdNeY5iA4aZToUg</raw>
   </episode>
 </episodeList>

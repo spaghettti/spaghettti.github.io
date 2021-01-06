@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T09:05:03.449Z",
+  "lastUpdated": "2021-01-06T09:10:02.830Z",
   "seriesId": "2015",
   "title": "Science View",
   "episodes": [
@@ -114,6 +114,22 @@
       "title": "Science View",
       "uploadedDate": "2020-12-24T17:10:39.509Z",
       "raw": "https://mega.nz/folder/7YsCjZKA#GRo-PDqsaRND6vMKU6HGIg"
+    },
+    {
+      "airingId": "249",
+      "content": "Are we alone in the vast universe? One Japanese researcher is tackling this profound mystery: Dr. Norio Narita, a planetary scientist and an astrobiologist at the University of Tokyo's Komaba Institute for Science. Narita has developed a state-of-the-art spectroscopic camera that enables analysis of the atmospheric components of exoplanets. By detecting trace gases such as water vapor, carbon dioxide and methane, he hopes to identify planets that have the potential to sustain life. In this episode, we'll follow one of Japan's leading planet hunters in his quest for habitable worlds.",
+      "description": "Planet hunter Dr. Norio Narita is searching for habitable worlds. Using a device to detect trace gases in an exoplanet's atmosphere, he is shedding new light on extraterrestrial planetary research.",
+      "endDate": "2021-01-05T16:00:00.000Z",
+      "link": "https://mega.nz/folder/qkck0Lia#U3_Wtf5IaijUjSEkGkwadw",
+      "recordDateEnd": "2021-01-05T16:00:39.804Z",
+      "recordDateStart": "2021-01-05T15:29:24.132Z",
+      "seriesId": "2015",
+      "sha256": "2a9e057a91cb1ab62fe884010ce55528d403cc792eb06b559ca56fa8ce58f5f6",
+      "startDate": "2021-01-05T15:30:00.000Z",
+      "subtitle": "Special Episode: Life Beyond Earth - The Search for Habitable Worlds in the Universe",
+      "title": "Science View",
+      "uploadedDate": "2021-01-06T09:06:04.430Z",
+      "raw": "https://mega.nz/folder/NZgSiKRb#C7FtuqrMdNeY5iA4aZToUg"
     }
   ]
 }
