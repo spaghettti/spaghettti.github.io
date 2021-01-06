@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T08:05:03.318Z</lastUpdated>
+  <lastUpdated>2021-01-06T08:10:03.059Z</lastUpdated>
   <seriesId>b2d48e71e072a1aa</seriesId>
   <title>Wild Hokkaido!</title>
   <episode>
@@ -83,6 +83,22 @@
     <title>Wild Hokkaido!</title>
     <uploadedDate>2020-12-27T23:00:51.006Z</uploadedDate>
     <raw>https://mega.nz/folder/MENxGIRK#CWoi9FBNRnQ82Baq28GrcA</raw>
+  </episode>
+  <episode>
+    <airingId>067</airingId>
+    <content>Our stage this time is Lake Akkeshi in eastern part of Hokkaido Prefecture. It is a brackish-water lake which connects to the Pacific Ocean. A variety of wildlife inhabits here, but during the coldest period in winter, almost the entirety of Lake Akkeshi turns to ice. Our program host attempts to catch fish on the frozen river that pours into Lake Akkeshi, at temperatures below freezing. His aim is to catch the delicious and popular Japanese smelt. Is he able to achieve the result he wants? Later, we show you footage of migratory birds on Lake Akkeshi.</content>
+    <description>Lake Akkeshi is a brackish-water lake which connects to the Pacific ocean. Our program host attempts to catch delicious fish on the frozen river that pours into Lake Akkeshi.</description>
+    <endDate>2021-01-03T13:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/9ot0xKzZ#lH0IFdKlOUZRi13Uv55XnA</link>
+    <recordDateEnd>2021-01-03T13:00:26.950Z</recordDateEnd>
+    <recordDateStart>2021-01-03T12:44:20.119Z</recordDateStart>
+    <seriesId>2069</seriesId>
+    <sha256>e9eefa1c7e3595816ac9604b8007ede7bd629fae5a128eb2fd59e5288724ceb7</sha256>
+    <startDate>2021-01-03T12:45:00.000Z</startDate>
+    <subtitle>Lake Akkeshi in Winter</subtitle>
+    <title>Wild Hokkaido!</title>
+    <uploadedDate>2021-01-06T08:09:36.384Z</uploadedDate>
+    <raw>https://mega.nz/folder/1coQxSSB#EyB7mGpm7HlS4gX4qvSqyA</raw>
   </episode>
   <episode>
     <airingId>077</airingId>
