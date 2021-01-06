@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T08:40:03.303Z",
+  "lastUpdated": "2021-01-06T08:45:02.876Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1121,6 +1121,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-31T10:26:15.592Z",
       "raw": "https://mega.nz/folder/xMV0iLCS#C1AypvGKuCxshzf3cnTO3w"
+    },
+    {
+      "airingId": "728",
+      "content": "In civil war-torn Uganda, over 30,000 children were abducted and forced to serve as fighters. Follow Ogawa Shingo's quest to reintegrate former child soldiers into society through vocational training.",
+      "description": "In civil war-torn Uganda, over 30,000 children were abducted and forced to serve as fighters. Follow Ogawa Shingo's quest to reintegrate former child soldiers into society through vocational training.",
+      "endDate": "2021-01-06T07:30:00.000Z",
+      "link": "https://mega.nz/folder/o81CVYRR#yUVbEk0l1aQ-bG2pXCXg7A",
+      "recordDateEnd": "2021-01-06T07:30:25.894Z",
+      "recordDateStart": "2021-01-06T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "313c56b388e8deeeabc5402f08f1036e40a5ff8c683ee8ff078d69fcf8547101",
+      "startDate": "2021-01-06T07:15:00.000Z",
+      "subtitle": "Believing in the Strength of the African People: Ogawa Shingo / Director of NGO Supporting Social Reintegration of Child Soldiers",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-06T08:40:07.205Z",
+      "raw": "https://mega.nz/folder/CssSWAgY#ZKwnem0Wl1qElP2nhiw9jg"
     }
   ]
 }
