@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T13:25:03.352Z</lastUpdated>
+  <lastUpdated>2021-01-06T14:35:03.172Z</lastUpdated>
   <seriesId>da958502b69dde1e</seriesId>
   <title>Her Story</title>
   <episode>
@@ -66,5 +66,6 @@
     <subtitle>Healing Shells</subtitle>
     <title>Her Story</title>
     <uploadedDate>2021-01-06T07:43:33.333Z</uploadedDate>
+    <raw>https://mega.nz/folder/YYlGwJaZ#_1lWFrPZgB-THD9jEXCWPQ</raw>
   </episode>
 </episodeList>

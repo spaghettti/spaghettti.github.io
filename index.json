@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T13:25:03.517Z",
+  "lastUpdated": "2021-01-06T14:35:03.384Z",
   "series": [
     {
       "count": 13,
@@ -311,6 +311,14 @@
       "lastAiring": "2020-12-05T04:10:00.000Z",
       "lastUpload": "2020-12-25T05:15:45.953Z",
       "seriesId": "4031",
+      "title": "GATTEN!"
+    },
+    {
+      "count": 1,
+      "uniqueId": "c1616c758db95ac6",
+      "lastAiring": "2021-01-02T04:10:00.000Z",
+      "lastUpload": "2021-01-06T14:32:46.832Z",
+      "seriesId": "5001",
       "title": "GATTEN!"
     },
     {

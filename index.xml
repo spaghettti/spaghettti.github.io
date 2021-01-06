@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-06T13:25:03.514Z</lastUpdated>
+  <lastUpdated>2021-01-06T14:35:03.380Z</lastUpdated>
   <series>
     <count>13</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -312,6 +312,14 @@
     <lastAiring>2020-12-05T04:10:00.000Z</lastAiring>
     <lastUpload>2020-12-25T05:15:45.953Z</lastUpload>
     <seriesId>4031</seriesId>
+    <title>GATTEN!</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>c1616c758db95ac6</uniqueId>
+    <lastAiring>2021-01-02T04:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-06T14:32:46.832Z</lastUpload>
+    <seriesId>5001</seriesId>
     <title>GATTEN!</title>
   </series>
   <series>
