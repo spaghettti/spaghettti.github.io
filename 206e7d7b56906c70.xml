@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T10:25:02.939Z</lastUpdated>
+  <lastUpdated>2021-01-06T10:35:03.233Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -115,5 +115,21 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2020-12-24T16:15:47.293Z</uploadedDate>
     <raw>https://mega.nz/folder/SoVU3JjZ#t53hG0GVe_EnAyGAobZ9lw</raw>
+  </episode>
+  <episode>
+    <airingId>133</airingId>
+    <content>A classic winter cuisine in Japan that is popular in the colder months is "nabe," or hot pot. The pot is usually placed in the middle of the dining table, and everyone takes from it. Every region in Japan has hot pots and broths that locals are proud of. There're always smiles around the hot pot. In this episode of Seasoning the Seasons, we go up and down the Japanese islands in search of stories of happiness surrounding the hot pot.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</description>
+    <endDate>2021-01-04T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/n9MhiKTL#HaVO3sJO641YkmIF7gNITw</link>
+    <recordDateEnd>2021-01-04T00:00:34.544Z</recordDateEnd>
+    <recordDateStart>2021-01-03T23:29:20.101Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>cb981cc641d1f9924d107eb672704e0cfbd22045b09544e44ced5fc63fa9b0bb</sha256>
+    <startDate>2021-01-03T23:30:00.000Z</startDate>
+    <subtitle>Sharing Happiness: Hot Pots in Japan</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-01-06T10:32:24.499Z</uploadedDate>
+    <raw>https://mega.nz/folder/NAJDBASS#QUW7RjsZDhK610ImAFVsfA</raw>
   </episode>
 </episodeList>
