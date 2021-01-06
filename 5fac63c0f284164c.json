@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T14:35:03.264Z",
+  "lastUpdated": "2021-01-06T15:55:03.362Z",
   "seriesId": "3004",
   "title": "NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL",
   "episodes": [
@@ -50,6 +50,22 @@
       "title": "NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL 2020",
       "uploadedDate": "2021-01-06T11:38:48.015Z",
       "raw": "https://mega.nz/folder/aFNCiJSR#7CAoHXXJdPGmhqF9GgKNSA"
+    },
+    {
+      "airingId": "680",
+      "content": "",
+      "description": "NHK WORLD-JAPAN presents SONGS OF TOKYO Festival 2020 Part4 showcases the latest in the Japanese music scene. Foorin, Foorin team E, NEWS, Perfume, Hotei",
+      "endDate": "2021-01-03T01:00:00.000Z",
+      "link": "https://mega.nz/folder/O4lTyIyJ#EwzHLFrTdontAieY99lOew",
+      "recordDateEnd": "2021-01-03T01:00:24.118Z",
+      "recordDateStart": "2021-01-03T00:09:22.588Z",
+      "seriesId": "3004",
+      "sha256": "aee948ccbcb20ea143d7022430b3e8c7c71106cf446dcba5d719abf594c77148",
+      "startDate": "2021-01-03T00:10:00.000Z",
+      "subtitle": "Part 4",
+      "title": "NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL 2020",
+      "uploadedDate": "2021-01-06T15:52:37.987Z",
+      "raw": "https://mega.nz/folder/PZ0g0CpJ#CN1IftLarYqonRKmigD_7A"
     }
   ]
 }

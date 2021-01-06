@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-06T14:35:03.380Z</lastUpdated>
+  <lastUpdated>2021-01-06T15:55:03.459Z</lastUpdated>
   <series>
     <count>13</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -587,10 +587,10 @@
     <title>NHK WORLD PRIME</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>5fac63c0f284164c</uniqueId>
-    <lastAiring>2021-01-02T23:10:00.000Z</lastAiring>
-    <lastUpload>2021-01-06T12:44:36.051Z</lastUpload>
+    <lastAiring>2021-01-03T00:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-06T15:52:37.987Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL</title>
   </series>

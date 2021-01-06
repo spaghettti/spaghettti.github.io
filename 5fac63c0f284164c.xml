@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T14:35:03.263Z</lastUpdated>
+  <lastUpdated>2021-01-06T15:55:03.361Z</lastUpdated>
   <seriesId>5fac63c0f284164c</seriesId>
   <title>NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL</title>
   <episode>
@@ -51,5 +51,21 @@
     <title>NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL 2020</title>
     <uploadedDate>2021-01-06T11:38:48.015Z</uploadedDate>
     <raw>https://mega.nz/folder/aFNCiJSR#7CAoHXXJdPGmhqF9GgKNSA</raw>
+  </episode>
+  <episode>
+    <airingId>680</airingId>
+    <content/>
+    <description>NHK WORLD-JAPAN presents SONGS OF TOKYO Festival 2020 Part4 showcases the latest in the Japanese music scene. Foorin, Foorin team E, NEWS, Perfume, Hotei</description>
+    <endDate>2021-01-03T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/O4lTyIyJ#EwzHLFrTdontAieY99lOew</link>
+    <recordDateEnd>2021-01-03T01:00:24.118Z</recordDateEnd>
+    <recordDateStart>2021-01-03T00:09:22.588Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>aee948ccbcb20ea143d7022430b3e8c7c71106cf446dcba5d719abf594c77148</sha256>
+    <startDate>2021-01-03T00:10:00.000Z</startDate>
+    <subtitle>Part 4</subtitle>
+    <title>NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL 2020</title>
+    <uploadedDate>2021-01-06T15:52:37.987Z</uploadedDate>
+    <raw>https://mega.nz/folder/PZ0g0CpJ#CN1IftLarYqonRKmigD_7A</raw>
   </episode>
 </episodeList>
