@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T07:15:04.084Z</lastUpdated>
+  <lastUpdated>2021-01-06T07:20:03.340Z</lastUpdated>
   <seriesId>f85084a2d40d190a</seriesId>
   <title>DEEPER LOOK from New York</title>
   <episode>
@@ -99,5 +99,20 @@
     <title>DEEPER LOOK from New York</title>
     <uploadedDate>2020-12-29T05:32:08.784Z</uploadedDate>
     <raw>https://mega.nz/folder/gYZU3LAT#F3OWDjAFwvb43e4OgaHY5Q</raw>
+  </episode>
+  <episode>
+    <airingId>022</airingId>
+    <content>As COVID-19 vaccinations begin across the U.S. and the new president soon be inaugurated, what can we expect from 2021? Walter Isaacson, a well-known author of bestselling biographies, is our first guest of the year. Recently he volunteered for the Pfizer/BioNTech clinical trial, where new technologies were used to develop a vaccine, innovations created by scientists he is writing about in his new book. We asked Mr. Isaacson what we can learn from our history and these scientific breakthroughs.</content>
+    <description>An experienced anchor Del Irani has a cutting-edge dialogue. This time, Walter Issacson, author, ex-chaiman and CEO of CNN, and ex-editor for TIME Magazine, talks about challenges in the year 2021.</description>
+    <endDate>2021-01-05T04:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/3h9lGCpT#KD8Zscr3XkcsK0gJ2c22vQ</link>
+    <recordDateEnd>2021-01-05T04:45:18.353Z</recordDateEnd>
+    <recordDateStart>2021-01-05T04:29:20.099Z</recordDateStart>
+    <seriesId>2085</seriesId>
+    <sha256>0da2f3890e14e407705d628f3d81a1251d0c62edbe2bf2a00952f29c93e5530d</sha256>
+    <startDate>2021-01-05T04:30:00.000Z</startDate>
+    <subtitle>Challenges in 2021: Walter Isaacson / Author, Professor of American History and Values at Tulane University</subtitle>
+    <title>DEEPER LOOK from New York</title>
+    <uploadedDate>2021-01-06T07:18:02.343Z</uploadedDate>
   </episode>
 </episodeList>
