@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T07:35:03.106Z</lastUpdated>
+  <lastUpdated>2021-01-06T07:40:03.024Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
+  <episode>
+    <airingId>011</airingId>
+    <content>In the 1200's, the monk Dogen brought Shojin-ryori, a vegetarian cuisine, from China along with Zen Buddhism, which forbids the killing of animals and the eating of meat. He once said, "Meals and their preparation are part of aesthetic training." Kaiseki-ryori and other Japanese cuisine have their base in and developed from Shojin-ryori, which wastes nothing of the seasonal vegetables and cereals used. Chefs, including a chef at a Michelin-rated restaurant, work to spread Shojin-ryori worldwide.</content>
+    <description>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive program. Today: Shojin-ryori, Zen cuisine as training within the teachings.</description>
+    <endDate>2021-01-04T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/CZNnGQQZ#pMs7caG7v3WGa3EuXR8jew</link>
+    <recordDateEnd>2021-01-04T15:00:35.811Z</recordDateEnd>
+    <recordDateStart>2021-01-04T14:29:20.126Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>65f32089e742b4946dd86af55c8cffa0ec5c800db659238cd6a7361203b18cec</sha256>
+    <startDate>2021-01-04T14:30:00.000Z</startDate>
+    <subtitle>Shojin-ryori: Zen Cuisine as Training within the Teachings</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-01-06T07:39:13.316Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>014</airingId>
     <content>A pointed boulder with a large stone at its foot reaches for the heavens. The white gravel between them represents a swift flowing river, without the use of water. Karesansui is a unique dry-gardening style that developed in the 14th century from ascetic practices at Kyoto's Zen temples. Monks aim for enlightenment within a world of rippling patterns that run between curious rock arrangements. Enter the infinite Zen cosmos through the Karesansui gardens at Tenryu-ji, Daisen-in and Ryoan-ji.</content>
