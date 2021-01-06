@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T13:00:03.425Z</lastUpdated>
+  <lastUpdated>2021-01-06T13:05:02.710Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -387,6 +387,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T00:16:23.049Z</uploadedDate>
     <raw>https://mega.nz/folder/xFQ3RQAA#erv9GfbV9idyTl0BAOJvoA</raw>
+  </episode>
+  <episode>
+    <airingId>621</airingId>
+    <content/>
+    <description>Houriya Taheri, the Middle East's first FIFA A-licensed women's soccer coach, speaks on what women athletes in the region, whose participation has been limited, need to help them spread their wings.</description>
+    <endDate>2021-01-06T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/DJMnHSiA#oJhqevv0lLjO2V5LYlR9Iw</link>
+    <recordDateEnd>2021-01-06T09:30:30.062Z</recordDateEnd>
+    <recordDateStart>2021-01-06T09:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>ad8b97b3038b6c0f54d37b428e30305c88f2a5f7e46b30ed4022c105af25962d</sha256>
+    <startDate>2021-01-06T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-06T13:01:49.202Z</uploadedDate>
+    <raw>https://mega.nz/folder/fhF1nAhI#OiBSJMh-LuKNg92ql2dXaw</raw>
   </episode>
   <episode>
     <airingId>625</airingId>
