@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T08:50:02.973Z</lastUpdated>
+  <lastUpdated>2021-01-06T09:05:03.485Z</lastUpdated>
   <seriesId>59ce1816235dcb05</seriesId>
   <title>KABUKI KOOL</title>
   <episode>
@@ -83,5 +83,20 @@
     <title>KABUKI KOOL</title>
     <uploadedDate>2020-12-24T23:31:27.634Z</uploadedDate>
     <raw>https://mega.nz/folder/zkk0TCgB#elKp33BTJ7pxJj2aROKbSA</raw>
+  </episode>
+  <episode>
+    <airingId>069</airingId>
+    <content>Scarface Yosaburo is one of the most famous plays of late Edo period kabuki. It's a romance between a young and beautiful couple, with shocking twists that showcases Edo style. A chance encounter between the son of a wealthy family and the beautiful mistress of a gang boss transforms their lives forever.</content>
+    <description>Scarface Yosaburo is one of the most famous plays of late Edo period kabuki. It's a romance between a young and beautiful couple, with shocking twists that showcases Edo style.</description>
+    <endDate>2021-01-06T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/JRcmRBxZ#BlSduJdWTDTtxSux3X5rcg</link>
+    <recordDateEnd>2021-01-06T05:00:27.470Z</recordDateEnd>
+    <recordDateStart>2021-01-06T04:29:22.792Z</recordDateStart>
+    <seriesId>2035</seriesId>
+    <sha256>ea499c20e0b368db2f11a6bdb1957249bae493e791866aa7fe37c1755456a796</sha256>
+    <startDate>2021-01-06T04:30:00.000Z</startDate>
+    <subtitle>Stylish Kabuki Melodrama: "Scarface Yosaburo"</subtitle>
+    <title>KABUKI KOOL</title>
+    <uploadedDate>2021-01-06T09:03:44.468Z</uploadedDate>
   </episode>
 </episodeList>
