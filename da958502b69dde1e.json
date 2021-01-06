@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T07:40:03.063Z",
+  "lastUpdated": "2021-01-06T07:45:03.185Z",
   "seriesId": "2048",
   "title": "Her Story",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "Her Story",
       "uploadedDate": "2020-12-25T03:59:03.116Z",
       "raw": "https://mega.nz/folder/m18WGYgD#PxENMl0koeoRLZDWVjCD5g"
+    },
+    {
+      "airingId": "050",
+      "content": "Nantarika Chansue is a Thai veterinarian who specializes in aquatic animals. For over 30 years, she's treated everything from fish to turtles and even whales. She insists that no matter how grave the injury, all animals deserve a chance at recovery, so she's implemented medical techniques formerly used only with humans, such as casting prostheses. Many of the injuries sustained by the animals are due to human negligence, which Nantarika strongly opposes for the safety of aquatic life.",
+      "description": "Nantarika Chansue is a Thai veterinarian specializing in aquatic animals. Many of those she treats have been injured by fishermen or tourists, so she works to raise awareness of the sanctity of life.",
+      "endDate": "2021-01-06T02:00:00.000Z",
+      "link": "https://mega.nz/folder/uZ0mSAiS#go9kYhb3l6Tgp5zb_IuoEQ",
+      "recordDateEnd": "2021-01-06T02:00:31.640Z",
+      "recordDateStart": "2021-01-06T01:29:20.102Z",
+      "seriesId": "2048",
+      "sha256": "908771c57474e663ad62a6847e919d23d06a8c8dcc12d1c40b18d3f8a1604dae",
+      "startDate": "2021-01-06T01:30:00.000Z",
+      "subtitle": "Healing Shells",
+      "title": "Her Story",
+      "uploadedDate": "2021-01-06T07:43:33.333Z"
     }
   ]
 }
