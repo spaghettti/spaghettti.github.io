@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T11:35:03.127Z",
+  "lastUpdated": "2021-01-06T11:40:02.992Z",
   "series": [
     {
       "count": 13,
@@ -74,10 +74,10 @@
       "title": "BENTO EXPO"
     },
     {
-      "count": 14,
+      "count": 15,
       "uniqueId": "830c4969cf7e7135",
       "lastAiring": "2021-01-01T02:10:00.000Z",
-      "lastUpload": "2021-01-01T04:24:08.303Z",
+      "lastUpload": "2021-01-06T11:37:10.101Z",
       "seriesId": "2074,3004",
       "title": "BIZ STREAM"
     },
@@ -578,10 +578,10 @@
       "title": "NHK WORLD PRIME"
     },
     {
-      "count": 1,
+      "count": 2,
       "uniqueId": "5fac63c0f284164c",
-      "lastAiring": "2021-01-01T23:10:00.000Z",
-      "lastUpload": "2021-01-02T02:14:51.822Z",
+      "lastAiring": "2021-01-02T23:10:00.000Z",
+      "lastUpload": "2021-01-06T11:38:48.015Z",
       "seriesId": "3004",
       "title": "NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL"
     },

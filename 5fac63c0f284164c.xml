@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T11:35:03.023Z</lastUpdated>
+  <lastUpdated>2021-01-06T11:40:02.898Z</lastUpdated>
   <seriesId>5fac63c0f284164c</seriesId>
   <title>NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL</title>
   <episode>
@@ -18,5 +18,20 @@
     <subtitle>Part 1</subtitle>
     <title>NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL 2020</title>
     <uploadedDate>2021-01-02T02:14:51.822Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>679</airingId>
+    <content/>
+    <description>SONGS OF TOKYO Festival 2020 Part3 showcases the latest in the Japanese music scene. Aoi Shouta, Ikimonogakari, Minase Inori, Momoiro Clover Z, Walkure</description>
+    <endDate>2021-01-03T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/SEEUxLQL#CP3iRrkoylD2-3pZVnBOLA</link>
+    <recordDateEnd>2021-01-03T00:00:28.914Z</recordDateEnd>
+    <recordDateStart>2021-01-02T23:09:20.100Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>5ac91bd46fea32f996d8212ad32023c4d76b5c03e712b464aad73c2d03072aaf</sha256>
+    <startDate>2021-01-02T23:10:00.000Z</startDate>
+    <subtitle>Part 3</subtitle>
+    <title>NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL 2020</title>
+    <uploadedDate>2021-01-06T11:38:48.015Z</uploadedDate>
   </episode>
 </episodeList>
