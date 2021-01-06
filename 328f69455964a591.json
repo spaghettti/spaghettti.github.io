@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T12:45:03.724Z",
+  "lastUpdated": "2021-01-06T13:00:03.480Z",
   "seriesId": "2086",
   "title": "Doctor's Insight",
   "episodes": [
@@ -98,6 +98,22 @@
       "title": "Doctor's Insight",
       "uploadedDate": "2020-12-26T10:55:26.091Z",
       "raw": "https://mega.nz/folder/9REglZjL#P2eM2mzdXx1sw0c23D5Cig"
+    },
+    {
+      "airingId": "018",
+      "content": "The COVID-19 pandemic has taken a heavy toll on our minds. According to a survey by the CDC in the US, 40% of adults show symptoms of conditions such as anxiety disorder and depression. In Japan, experts are concerned about the growing number of people suffering from various mental disorders. We'll introduce a method of visualizing internal mental status that involves writing out your worries. Also, find out how to relieve stress effectively using stretching techniques and evidence-based mindfulness exercise. Learn helpful mental health tips from an expert to prepare for the stressful long-term fight against the COVID-19 pandemic.",
+      "description": "The COVID-19 pandemic drastically changed our lifestyle. Studies show that anxiety is taking a heavy toll on our mind and body. Find out self-management and relaxation tips to keep your mind healthy.",
+      "endDate": "2021-01-05T04:55:00.000Z",
+      "link": "https://mega.nz/folder/5ZQFDYqT#-1xT43SjlaLsKV6R6nEeLQ",
+      "recordDateEnd": "2021-01-05T04:55:31.518Z",
+      "recordDateStart": "2021-01-05T04:44:20.001Z",
+      "seriesId": "2086",
+      "sha256": "2994d74a54f932a86c4ef9ca1169ea559938efa972f433736cdfea24d70a5c4d",
+      "startDate": "2021-01-05T04:45:00.000Z",
+      "subtitle": "COVID-19: Mental Health Tips",
+      "title": "Doctor's Insight",
+      "uploadedDate": "2021-01-06T12:58:21.674Z",
+      "raw": "https://mega.nz/folder/w0lnhSiB#tzmqRue8kM26Nu_-wINlDQ"
     }
   ]
 }

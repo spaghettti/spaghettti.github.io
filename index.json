@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T12:45:03.831Z",
+  "lastUpdated": "2021-01-06T13:00:03.597Z",
   "series": [
     {
       "count": 13,
@@ -202,10 +202,10 @@
       "title": "Direct Talk"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "328f69455964a591",
-      "lastAiring": "2020-12-29T04:45:00.000Z",
-      "lastUpload": "2020-12-29T05:23:02.857Z",
+      "lastAiring": "2021-01-05T04:45:00.000Z",
+      "lastUpload": "2021-01-06T12:58:21.674Z",
       "seriesId": "2086",
       "title": "Doctor's Insight"
     },
