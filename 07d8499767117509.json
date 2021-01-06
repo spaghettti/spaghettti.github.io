@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T07:05:02.690Z",
+  "lastUpdated": "2021-01-06T07:15:04.061Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -274,6 +274,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-26T11:46:36.967Z",
       "raw": "https://mega.nz/folder/CZt0yQAQ#Yhs_Za2f4TFMR65dsrh8wg"
+    },
+    {
+      "airingId": "583",
+      "content": "Yoshihiko Akimoto developed canned bread that can be stockpiled for as long as 3 years. It is used as an emergency food and distributed as relief supplies to areas suffering from food shortages.",
+      "description": "Yoshihiko Akimoto developed canned bread that can be stockpiled for as long as 3 years. It is used as an emergency food and distributed as relief supplies to areas suffering from food shortages.",
+      "endDate": "2021-01-05T07:30:00.000Z",
+      "link": "https://mega.nz/folder/cZ9TEADA#cMtsqZLnhD6FEfCzo2v6yQ",
+      "recordDateEnd": "2021-01-05T07:30:26.625Z",
+      "recordDateStart": "2021-01-05T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "252a247134ef6274bc666366b886b83dc1bbf7fbccb8b45a2e83988cc52a7067",
+      "startDate": "2021-01-05T07:15:00.000Z",
+      "subtitle": "The Potential of Canned Bread: Yoshihiko Akimoto / President & CEO, Pan Akimoto",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-06T07:13:54.585Z"
     },
     {
       "airingId": "584",

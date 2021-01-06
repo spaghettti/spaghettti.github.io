@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T07:05:02.674Z</lastUpdated>
+  <lastUpdated>2021-01-06T07:15:04.043Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -275,6 +275,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T11:46:36.967Z</uploadedDate>
     <raw>https://mega.nz/folder/CZt0yQAQ#Yhs_Za2f4TFMR65dsrh8wg</raw>
+  </episode>
+  <episode>
+    <airingId>583</airingId>
+    <content>Yoshihiko Akimoto developed canned bread that can be stockpiled for as long as 3 years. It is used as an emergency food and distributed as relief supplies to areas suffering from food shortages.</content>
+    <description>Yoshihiko Akimoto developed canned bread that can be stockpiled for as long as 3 years. It is used as an emergency food and distributed as relief supplies to areas suffering from food shortages.</description>
+    <endDate>2021-01-05T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/cZ9TEADA#cMtsqZLnhD6FEfCzo2v6yQ</link>
+    <recordDateEnd>2021-01-05T07:30:26.625Z</recordDateEnd>
+    <recordDateStart>2021-01-05T07:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>252a247134ef6274bc666366b886b83dc1bbf7fbccb8b45a2e83988cc52a7067</sha256>
+    <startDate>2021-01-05T07:15:00.000Z</startDate>
+    <subtitle>The Potential of Canned Bread: Yoshihiko Akimoto / President &amp; CEO, Pan Akimoto</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-06T07:13:54.585Z</uploadedDate>
   </episode>
   <episode>
     <airingId>584</airingId>
