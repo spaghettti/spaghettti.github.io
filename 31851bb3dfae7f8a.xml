@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T16:15:03.624Z</lastUpdated>
+  <lastUpdated>2021-01-06T16:40:03.160Z</lastUpdated>
   <seriesId>31851bb3dfae7f8a</seriesId>
   <title>Trails to Oishii Tokyo</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>Trails to Oishii Tokyo</title>
     <uploadedDate>2020-12-30T18:56:32.227Z</uploadedDate>
     <raw>https://mega.nz/folder/pUsmETDD#bVoB22xTnURLPgCpefL5HA</raw>
+  </episode>
+  <episode>
+    <airingId>123</airingId>
+    <content>Azuki beans are often sweetened, simmered and used in Japanese sweets. Their red color is said to ward off evil, and they're key at celebrations too. We visit an area in Hyogo Prefecture known for growing high-quality Azuki, and learn how artisans in Kyoto Prefecture put their skills to work making beautiful sweets that incorporate the beans. Learn all about Azuki beans, grown, eaten and beloved for over 5,000 years in Japan. (Reporter: Saskia Thoelen)</content>
+    <description>Azuki beans are sweetened, simmered and used in Japanese sweets. Their red color is said to ward off evil, and they're key at celebrations. Learn all about azuki, grown for over 5,000 years in Japan.</description>
+    <endDate>2021-01-06T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/fclSABhK#slMoGUxzOUpFFaHtHoKdUA</link>
+    <recordDateEnd>2021-01-06T15:00:30.332Z</recordDateEnd>
+    <recordDateStart>2021-01-06T14:29:20.099Z</recordDateStart>
+    <seriesId>2054</seriesId>
+    <sha256>2dbb4835ed7f33746a39563bbd3b8588264dfc6cf4c6d6a948352bdacf5631e6</sha256>
+    <startDate>2021-01-06T14:30:00.000Z</startDate>
+    <subtitle>AZUKI BEAN</subtitle>
+    <title>Trails to Oishii Tokyo</title>
+    <uploadedDate>2021-01-06T16:36:56.355Z</uploadedDate>
   </episode>
 </episodeList>
