@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T16:40:03.195Z</lastUpdated>
+  <lastUpdated>2021-01-06T17:20:03.713Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -83,6 +83,21 @@
     <title>Japan's Top Inventions</title>
     <uploadedDate>2020-12-30T22:58:35.877Z</uploadedDate>
     <raw>https://mega.nz/folder/1MERxADb#KFpxdg0u73inkHFxKRcgvA</raw>
+  </episode>
+  <episode>
+    <airingId>018</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, cooling gel sheets, which can be applied to the forehead for cooling relief when you're feeling feverish. These sheets were developed in Japan in 1994, and were inspired by none other than a certain pub dish! The sheets are now sold in some 20 countries and regions, and about 400 million are used per year. Join us as we discover the little-known story behind Japan's cooling gel sheets.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, cooling gel sheets, applied to the forehead for relief when you're feeling feverish.</description>
+    <endDate>2021-01-06T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/RJsESSaC#9Nh9EmikeRg6LZBoPzrTaw</link>
+    <recordDateEnd>2021-01-06T16:00:32.415Z</recordDateEnd>
+    <recordDateStart>2021-01-06T15:44:20.002Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>b1069f3ab49e32a0eb52b333a30cc40d7a80fb1bf31b8f628fc36c84ae188813</sha256>
+    <startDate>2021-01-06T15:45:00.000Z</startDate>
+    <subtitle>Cooling Gel Sheets</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2021-01-06T17:16:10.792Z</uploadedDate>
   </episode>
   <episode>
     <airingId>041</airingId>
