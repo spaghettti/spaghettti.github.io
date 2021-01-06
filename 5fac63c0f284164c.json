@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T11:55:02.730Z",
+  "lastUpdated": "2021-01-06T12:45:03.736Z",
   "seriesId": "3004",
   "title": "NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL",
   "episodes": [
@@ -16,7 +16,24 @@
       "startDate": "2021-01-01T23:10:00.000Z",
       "subtitle": "Part 1",
       "title": "NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL 2020",
-      "uploadedDate": "2021-01-02T02:14:51.822Z"
+      "uploadedDate": "2021-01-02T02:14:51.822Z",
+      "raw": "https://mega.nz/folder/8llGiBgR#_T00TH9iKozdt0U4qsMQYQ"
+    },
+    {
+      "airingId": "678",
+      "content": "",
+      "description": "Mizuki Nana, THE IDOLM@STER <Fifteen selected members from the five IDOLM@STER brands gather for the first time>, BanG Dream! <The three bands perform on stage together for the first time!>",
+      "endDate": "2021-01-02T01:00:00.000Z",
+      "link": "https://mega.nz/folder/B1kACZqY#Rc8isOJrc8-897lUNHXsNA",
+      "recordDateEnd": "2021-01-02T01:00:22.876Z",
+      "recordDateStart": "2021-01-02T00:09:20.066Z",
+      "seriesId": "3004",
+      "sha256": "fe6cdb2cd840290509ce40fb9c0b08d645192c3e77a7c8534fafbce4b019fa66",
+      "startDate": "2021-01-02T00:10:00.000Z",
+      "subtitle": "Part 2",
+      "title": "NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL 2020",
+      "uploadedDate": "2021-01-06T12:44:36.051Z",
+      "raw": "https://mega.nz/folder/ER9yxSzb#QuvUtJSD3PoGf4sk5XeJmw"
     },
     {
       "airingId": "679",
