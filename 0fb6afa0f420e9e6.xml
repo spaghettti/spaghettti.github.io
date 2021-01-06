@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T11:15:03.085Z</lastUpdated>
+  <lastUpdated>2021-01-06T11:30:03.239Z</lastUpdated>
   <seriesId>0fb6afa0f420e9e6</seriesId>
   <title>Little Charo</title>
   <episode>
@@ -115,5 +115,21 @@
     <title>Little Charo</title>
     <uploadedDate>2020-12-26T09:02:56.709Z</uploadedDate>
     <raw>https://mega.nz/folder/RJ4VUAbI#byNGlJ4VsKKshv6sKUu8nQ</raw>
+  </episode>
+  <episode>
+    <airingId>040</airingId>
+    <content/>
+    <description>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home. Season 2-17.</description>
+    <endDate>2021-01-02T02:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/GxkWxbZa#uedQx4UdUunl7Egh-NU0aA</link>
+    <recordDateEnd>2021-01-02T02:50:24.483Z</recordDateEnd>
+    <recordDateStart>2021-01-02T02:39:20.100Z</recordDateStart>
+    <seriesId>6116</seriesId>
+    <sha256>cd95905d5bc3ffdd47b74b78657b70b5d072ec25953838c1c714f050bd91538f</sha256>
+    <startDate>2021-01-02T02:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Little Charo</title>
+    <uploadedDate>2021-01-06T11:25:16.626Z</uploadedDate>
+    <raw>https://mega.nz/folder/N5c0ULpT#z4vJVTp0PkEUPJSSLOxASw</raw>
   </episode>
 </episodeList>
