@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T07:50:03.852Z</lastUpdated>
+  <lastUpdated>2021-01-06T08:05:03.426Z</lastUpdated>
   <seriesId>30aa2c9c765292e1</seriesId>
   <title>Inspiring Landscapes</title>
   <episode>
@@ -83,6 +83,21 @@
     <title>Inspiring Landscapes</title>
     <uploadedDate>2020-12-25T02:39:13.684Z</uploadedDate>
     <raw>https://mega.nz/folder/xR80XD6J#sJ9fHr3KTszQVuhwv7LqPg</raw>
+  </episode>
+  <episode>
+    <airingId>054</airingId>
+    <content/>
+    <description>The severe winter conditions on Mt. Tomuraushi (2,141m) include powerful winds, white blizzards, and massive lumps of ice. So why do nutcrackers choose to live here in such a harsh environment?</description>
+    <endDate>2021-01-03T16:47:00.000Z</endDate>
+    <link>https://mega.nz/folder/3xlzgKSJ#d-wYvDSUTowVmT2ihGQJIQ</link>
+    <recordDateEnd>2021-01-03T16:47:33.527Z</recordDateEnd>
+    <recordDateStart>2021-01-03T16:29:20.101Z</recordDateStart>
+    <seriesId>6206</seriesId>
+    <sha256>77b751654c34c9ec8ea242bc28d76ec1183c8ab8f65323296857d4a44185ee59</sha256>
+    <startDate>2021-01-03T16:30:00.000Z</startDate>
+    <subtitle/>
+    <title>Inspiring Landscapes</title>
+    <uploadedDate>2021-01-06T08:01:24.955Z</uploadedDate>
   </episode>
   <episode>
     <airingId>063</airingId>
