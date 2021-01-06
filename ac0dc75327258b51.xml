@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T11:30:03.189Z</lastUpdated>
+  <lastUpdated>2021-01-06T11:35:03.047Z</lastUpdated>
   <seriesId>ac0dc75327258b51</seriesId>
   <title>The Professionals</title>
   <episode>
@@ -35,5 +35,20 @@
     <title>The Professionals</title>
     <uploadedDate>2020-12-24T08:20:10.031Z</uploadedDate>
     <raw>https://mega.nz/folder/5ZtV3KJA#eqXvZ1i-ncTCBeRhmqP27Q</raw>
+  </episode>
+  <episode>
+    <airingId>136</airingId>
+    <content>At Japan's department stores, no event is more popular than the Hokkaido Products Fair. And the charismatic man behind the scenes is Honda Daisuke. As the industry's only Hokkaido-based buyer, he taps into his extensive network of contacts to discover food and ingredients that surprise and delight customers all over the country. What's more, he teams up with chefs and other food experts to turn those ingredients into original products, from sweets to sushi bowls. For the last few years Hokkaido's catches of winter salmon and crab have been declining. We follow Honda as he attempts to use a certain fish to create a new hit item for the fair. In 2020, he returns to Hokkaido Prefecture, which is struggling with earthquake recovery as well as poor fishing catches, to find new ways to promote the area.</content>
+    <description>Honda Daisuke is a department store buyer based in Hokkaido. He creates hit items for a popular event: the Hokkaido Products Fair. In 2020, he tries to find new ways to promote the area.</description>
+    <endDate>2021-01-03T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/1YV0FT4Q#QYoL_tU9sMjIjeIN2N4rwg</link>
+    <recordDateEnd>2021-01-03T01:55:29.077Z</recordDateEnd>
+    <recordDateStart>2021-01-03T01:09:20.066Z</recordDateStart>
+    <seriesId>4003</seriesId>
+    <sha256>74db7f8ea1d2e398176e3c3a571dd7f692059b9e816900bd696eb69a6330bcc0</sha256>
+    <startDate>2021-01-03T01:10:00.000Z</startDate>
+    <subtitle>A Career Built on Passion and Connections 2020: Honda Daisuke, Department Store Buyer</subtitle>
+    <title>The Professionals</title>
+    <uploadedDate>2021-01-06T11:31:34.247Z</uploadedDate>
   </episode>
 </episodeList>

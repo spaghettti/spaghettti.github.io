@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T11:30:03.190Z",
+  "lastUpdated": "2021-01-06T11:35:03.048Z",
   "seriesId": "4003",
   "title": "The Professionals",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "The Professionals",
       "uploadedDate": "2020-12-24T08:20:10.031Z",
       "raw": "https://mega.nz/folder/5ZtV3KJA#eqXvZ1i-ncTCBeRhmqP27Q"
+    },
+    {
+      "airingId": "136",
+      "content": "At Japan's department stores, no event is more popular than the Hokkaido Products Fair. And the charismatic man behind the scenes is Honda Daisuke. As the industry's only Hokkaido-based buyer, he taps into his extensive network of contacts to discover food and ingredients that surprise and delight customers all over the country. What's more, he teams up with chefs and other food experts to turn those ingredients into original products, from sweets to sushi bowls. For the last few years Hokkaido's catches of winter salmon and crab have been declining. We follow Honda as he attempts to use a certain fish to create a new hit item for the fair. In 2020, he returns to Hokkaido Prefecture, which is struggling with earthquake recovery as well as poor fishing catches, to find new ways to promote the area.",
+      "description": "Honda Daisuke is a department store buyer based in Hokkaido. He creates hit items for a popular event: the Hokkaido Products Fair. In 2020, he tries to find new ways to promote the area.",
+      "endDate": "2021-01-03T01:55:00.000Z",
+      "link": "https://mega.nz/folder/1YV0FT4Q#QYoL_tU9sMjIjeIN2N4rwg",
+      "recordDateEnd": "2021-01-03T01:55:29.077Z",
+      "recordDateStart": "2021-01-03T01:09:20.066Z",
+      "seriesId": "4003",
+      "sha256": "74db7f8ea1d2e398176e3c3a571dd7f692059b9e816900bd696eb69a6330bcc0",
+      "startDate": "2021-01-03T01:10:00.000Z",
+      "subtitle": "A Career Built on Passion and Connections 2020: Honda Daisuke, Department Store Buyer",
+      "title": "The Professionals",
+      "uploadedDate": "2021-01-06T11:31:34.247Z"
     }
   ]
 }
