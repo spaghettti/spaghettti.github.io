@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-06T08:15:03.829Z",
+  "lastUpdated": "2021-01-06T08:40:03.364Z",
   "seriesId": "3019",
   "title": "15 Minutes",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "15 Minutes",
       "uploadedDate": "2020-12-26T18:27:00.363Z",
       "raw": "https://mega.nz/folder/jE8mQBKS#myO4XlaIWuc8cNKlw5sf4Q"
+    },
+    {
+      "airingId": "114",
+      "content": "The coronavirus has changed everything. How can we overcome this crisis? How can we restore our normal lifestyles? In Japan, Tokyo had the largest number of coronavirus infections. In this series, we look inside 3 places in this megacity. Hotels, where many people stay. Schools, where young people gather. And airports, major transportation hubs. We'll bring you insight on how the people in these places are trying to recover.\nThe Hotel Okura Tokyo is one of Japan's leading hotels. In anticipation of demand for the Olympics, the hotel was reopened last September after 5 years of renovation. Due to COVID-19 situation, some of the hotel's facilities, including restaurants and bars, have been closed with weddings and banquets being canceled. It will likely take some time to regain its long-established status as a hotel. Meanwhile, the 17-story, 240-room Sequence Miyashita Park, built in Shibuya, was scheduled to open on June 11. A sense of urgency about the second wave has left it unable to set an opening date. We focus on these old and new hotels in Tokyo.",
+      "description": "The postponement of the Tokyo Olympics came as a huge impact on the Japanese hotel industry. We'll focus on the long-established hotel and the brand new one, and see how they'll overcome this crisis?",
+      "endDate": "2021-01-06T01:00:00.000Z",
+      "link": "https://mega.nz/folder/vF0SEahT#CBAH7HBBjbHVLxv5Z_EUNw",
+      "recordDateEnd": "2021-01-06T01:00:31.632Z",
+      "recordDateStart": "2021-01-06T00:44:20.002Z",
+      "seriesId": "3019",
+      "sha256": "12283ad6c76365b8f3c0581162ca76b6a1fe4287c824a347ba57ae925c4a2415",
+      "startDate": "2021-01-06T00:45:00.000Z",
+      "subtitle": "Starting Over: Hotels Old and New Part 1",
+      "title": "15 Minutes",
+      "uploadedDate": "2021-01-06T08:36:27.078Z"
     },
     {
       "airingId": "116",
@@ -178,6 +193,21 @@
       "title": "15 Minutes",
       "uploadedDate": "2020-12-24T16:59:27.993Z",
       "raw": "https://mega.nz/folder/CoNEnTZJ#YrbaEP8rb8h1bpfGM5_-fQ"
+    },
+    {
+      "airingId": "127",
+      "content": "A city known for its soy sauce production, Choshi lies 100km east of Tokyo, in Chiba Prefecture. Soy sauce production began during Japan's Edo era, although it was widely used on sushi and tempura before then. But why Choshi? For Ground Detective Simon Wallis, the hints this time are \"hard coastal rock\" and \"flatlands,\" which are said to be particularly suited to soy sauce production. But how could geology make such a difference? The Ground Detective is on the case!",
+      "description": "Soy sauce has been indispensable to Japanese cuisine for hundreds of years. The city of Choshi is known for its soy sauce production. But why Choshi?? Ground Detective Simon Wallis is on the case!",
+      "endDate": "2021-01-06T00:45:00.000Z",
+      "link": "https://mega.nz/folder/5J8EAKoL#uiO8tXAe-Ueu39t3IU_Y1g",
+      "recordDateEnd": "2021-01-06T00:45:28.783Z",
+      "recordDateStart": "2021-01-06T00:29:22.843Z",
+      "seriesId": "3019",
+      "sha256": "acb47559820bc3442e4663335b575268716212df43b6ec492d7759949b6783ac",
+      "startDate": "2021-01-06T00:30:00.000Z",
+      "subtitle": "Ground Detective Simon Wallis: Case 2 Soy Sauce",
+      "title": "15 Minutes",
+      "uploadedDate": "2021-01-06T08:38:51.312Z"
     }
   ]
 }
