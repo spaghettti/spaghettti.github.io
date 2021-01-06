@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T16:00:03.980Z</lastUpdated>
-  <seriesId>849018bc46f056a7</seriesId>
+  <lastUpdated>2021-01-06T16:05:03.075Z</lastUpdated>
+  <seriesId>46311af43d5442f3</seriesId>
   <title>Culture Crossroads</title>
+  <episode>
+    <airingId>001</airingId>
+    <content>How can we associate better with COVID-19? Let's find the key by learning about the history of the infectious diseases Japan has experienced.
+Drawing Yokai, supernatural creatures like goblins, together to get rid of an epidemic was a typical way to provide relief in the Edo period (1603-1868). Dr. ISO shows examples such as Amabie.</content>
+    <description>How can we associate better with COVID-19? Let's find the key by learning about the history of the infectious diseases Japan has experienced. This time: Expelling Epidemics with Yokai.</description>
+    <endDate>2021-01-06T15:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/XI9B0AIY#vGi_Gwf-dwRvE6E0oAdjwQ</link>
+    <recordDateEnd>2021-01-06T15:45:26.659Z</recordDateEnd>
+    <recordDateStart>2021-01-06T15:39:20.027Z</recordDateStart>
+    <seriesId>6036</seriesId>
+    <sha256>1fd378b2ca405851466b8302fb9288ddd65f024a65271ebf57e7df0791e729d5</sha256>
+    <startDate>2021-01-06T15:40:00.000Z</startDate>
+    <subtitle>Dr. ISO's Pandemic History, Info &amp; Tips: Expelling Epidemics with Yokai</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-01-06T16:00:04.416Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>004</airingId>
     <content>Would you know what to do in an earthquake in a crowded city? Learn the keys to survival in the life-or-death 72-hour period after an urban earthquake through a hands-on tour at SONA AREA TOKYO.</content>

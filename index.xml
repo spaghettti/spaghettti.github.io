@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-06T15:55:03.459Z</lastUpdated>
+  <lastUpdated>2021-01-06T16:05:03.086Z</lastUpdated>
   <series>
     <count>13</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -139,11 +139,11 @@
     <title>Covid-19: Medical Frontiers</title>
   </series>
   <series>
-    <count>6</count>
-    <uniqueId>849018bc46f056a7</uniqueId>
-    <lastAiring>2020-12-23T15:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T03:46:03.534Z</lastUpload>
-    <seriesId>2076,2083,2084</seriesId>
+    <count>7</count>
+    <uniqueId>46311af43d5442f3</uniqueId>
+    <lastAiring>2021-01-06T15:40:00.000Z</lastAiring>
+    <lastUpload>2021-01-06T16:00:04.416Z</lastUpload>
+    <seriesId>2076,2083,2084,6036</seriesId>
     <title>Culture Crossroads</title>
   </series>
   <series>
