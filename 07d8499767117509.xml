@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-07T06:00:03.669Z</lastUpdated>
+  <lastUpdated>2021-01-07T07:55:03.513Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -67,6 +67,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-23T23:27:27.470Z</uploadedDate>
     <raw>https://mega.nz/folder/m1EjVS7T#MOfvbRn8fJwC-QOVLnwBKQ</raw>
+  </episode>
+  <episode>
+    <airingId>510</airingId>
+    <content>Since founding The Voice of Libyan Women in 2011, doctor and women's rights advocate Alaa Murabit has challenged the global status quo with initiatives to put women in positions of leadership.</content>
+    <description>Since founding The Voice of Libyan Women in 2011, doctor and women's rights advocate Alaa Murabit has challenged the global status quo with initiatives to put women in positions of leadership.</description>
+    <endDate>2021-01-07T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/bJElXYIB#xJN9GEbf79FCcj3R0cgbow</link>
+    <recordDateEnd>2021-01-07T07:30:29.363Z</recordDateEnd>
+    <recordDateStart>2021-01-07T07:14:20.010Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>251676cf42a906a93cc7efde2d9b5ffb344539cc16ee192115ce892629b5b654</sha256>
+    <startDate>2021-01-07T07:15:00.000Z</startDate>
+    <subtitle>Raising the Voice of Women: Alaa Murabit / Women's Rights Advocate</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-07T07:53:29.390Z</uploadedDate>
   </episode>
   <episode>
     <airingId>520</airingId>
