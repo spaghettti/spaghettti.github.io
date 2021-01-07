@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-07T07:55:03.535Z",
+  "lastUpdated": "2021-01-07T10:00:03.866Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -80,7 +80,8 @@
       "startDate": "2021-01-07T07:15:00.000Z",
       "subtitle": "Raising the Voice of Women: Alaa Murabit / Women's Rights Advocate",
       "title": "Direct Talk",
-      "uploadedDate": "2021-01-07T07:53:29.390Z"
+      "uploadedDate": "2021-01-07T07:53:29.390Z",
+      "raw": "https://mega.nz/folder/3dNWwTIT#5T85wV84kT1LRnWahAWmNQ"
     },
     {
       "airingId": "520",
@@ -417,6 +418,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-01-06T13:01:49.202Z",
       "raw": "https://mega.nz/folder/fhF1nAhI#OiBSJMh-LuKNg92ql2dXaw"
+    },
+    {
+      "airingId": "624",
+      "content": "",
+      "description": "Albert Lin is an award-winning explorer and scientist from California who is innovating technology to uncover hidden stories of history from lost civilizations and ancient ruins all over the world.",
+      "endDate": "2021-01-07T09:30:00.000Z",
+      "link": "https://mega.nz/folder/eRcHkYzQ#GVn0JlNt3Zl5FxPpTZkiKg",
+      "recordDateEnd": "2021-01-07T09:30:40.493Z",
+      "recordDateStart": "2021-01-07T09:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "fdcfe87bdffbf318c4c49603aced9613cc198a81a06e58d6e9ef77d5fb290284",
+      "startDate": "2021-01-07T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-07T09:55:26.775Z"
     },
     {
       "airingId": "625",
