@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-06T17:20:03.642Z</lastUpdated>
+  <lastUpdated>2021-01-07T00:50:03.450Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -179,6 +179,21 @@
     <title>Core Kyoto</title>
     <uploadedDate>2020-12-31T10:04:33.943Z</uploadedDate>
     <raw>https://mega.nz/folder/tt110AKC#wRel4dRFpYU2eH4oFzdgSA</raw>
+  </episode>
+  <episode>
+    <airingId>139</airingId>
+    <content>As the traditional confectionery industry wanes due to a growing preference for Western-style sweets, the younger generation of confectioners are using modern sensibilities to attract consumers. Some use only organic ingredients. Others create dry confections with pop designs. A heritage confectioner delivers fresh sweets for people to enjoy the seasons at home. A cafe serves the unthinkable pairing of Kyoto confections with sake. Discover how these innovative approaches invigorate tradition.</content>
+    <description>Confectioners are blowing new life into traditional Kyoto sweets: fusing Western and Japanese styles, pairing with cups of sake, and using ingredients that increase immunity in the time of corona.</description>
+    <endDate>2021-01-07T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/oRsRAY6a#QqtWROswOHVHvEOsUeoG-g</link>
+    <recordDateEnd>2021-01-07T00:00:32.730Z</recordDateEnd>
+    <recordDateStart>2021-01-06T23:29:20.098Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>ed60534768d97fcc3a4c3ccb54700fce81211c24b89c4ec317a1390eb280b574</sha256>
+    <startDate>2021-01-06T23:30:00.000Z</startDate>
+    <subtitle>Nouveau Confections: A Feast for the Eyes, Mouth, and Mind</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-01-07T00:48:49.612Z</uploadedDate>
   </episode>
   <episode>
     <airingId>144</airingId>
