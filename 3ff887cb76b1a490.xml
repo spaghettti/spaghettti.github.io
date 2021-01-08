@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-08T05:55:02.961Z</lastUpdated>
+  <lastUpdated>2021-01-08T06:00:03.130Z</lastUpdated>
   <seriesId>3ff887cb76b1a490</seriesId>
   <title>Japan Railway Journal</title>
   <episode>
@@ -67,6 +67,22 @@
     <title>Japan Railway Journal</title>
     <uploadedDate>2020-12-31T17:22:33.244Z</uploadedDate>
     <raw>https://mega.nz/folder/4kcHwarZ#LhqoCmT9Jjq0xpORultp6Q</raw>
+  </episode>
+  <episode>
+    <airingId>078</airingId>
+    <content>JR Central's long-awaited next-generation Shinkansen; the N700S is scheduled to begin operation in summer 2020. The new N700S makes use of state-of-the-art technology to enhance safety, convenience, and comfort. Changes include the addition of lithium-ion batteries, used to power an emergency self-propulsion system, and a fully active vibration control system, installed to improve the comfort of the ride. Join us as we look at how the Shinkansen has evolved over the years and get a sneak peek of this supreme new train.</content>
+    <description>JR Central's next-generation Shinkansen; the N700S is scheduled to start operation in summer 2020. Get a sneak peek of the new technologies employed to enhance safety, convenience, and comfort.</description>
+    <endDate>2021-01-07T22:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/94lnkQ5J#E47BzKT01farSOq4OWzwgQ</link>
+    <recordDateEnd>2021-01-07T22:00:28.844Z</recordDateEnd>
+    <recordDateStart>2021-01-07T21:29:20.098Z</recordDateStart>
+    <seriesId>2049</seriesId>
+    <sha256>3abdecdfda6f6f6a3b7f015c7821d5baf0cc607d250f831d98c7bb03117db063</sha256>
+    <startDate>2021-01-07T21:30:00.000Z</startDate>
+    <subtitle>Introducing the N700S: JR Central's Next-Generation Shinkansen</subtitle>
+    <title>Japan Railway Journal</title>
+    <uploadedDate>2021-01-08T05:56:17.307Z</uploadedDate>
+    <raw>https://mega.nz/folder/M40njS7S#X4U60XmUIadSroOfhJu7aQ</raw>
   </episode>
   <episode>
     <airingId>093</airingId>
