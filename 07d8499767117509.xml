@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-08T06:00:03.143Z</lastUpdated>
+  <lastUpdated>2021-01-08T08:05:03.639Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1219,5 +1219,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-06T08:40:07.205Z</uploadedDate>
     <raw>https://mega.nz/folder/CssSWAgY#ZKwnem0Wl1qElP2nhiw9jg</raw>
+  </episode>
+  <episode>
+    <airingId>729</airingId>
+    <content>Thai restaurant owner/chef Phanuphon Bulsuwan uses a wide array of local ingredients for his dishes. He is also taking steps to combat food waste, both in his own kitchen and society at large.</content>
+    <description>Thai restaurant owner/chef Phanuphon Bulsuwan uses a wide array of local ingredients for his dishes. He is also taking steps to combat food waste, both in his own kitchen and society at large.</description>
+    <endDate>2021-01-08T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/BgdiTDjA#vwOCkOekvsp_JZLtD904NA</link>
+    <recordDateEnd>2021-01-08T07:30:29.629Z</recordDateEnd>
+    <recordDateStart>2021-01-08T07:14:20.013Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>fdab05e4d33e2b0c3ec9d4650671d5a74bbc540d32bb5405b93e64bfd56cd8c1</sha256>
+    <startDate>2021-01-08T07:15:00.000Z</startDate>
+    <subtitle>Delicious Dishes, Zero Waste: Phanuphon Bulsuwan / Owner/Chef, Blackitch Artisan Kitchen</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-08T08:00:28.338Z</uploadedDate>
+    <raw>https://mega.nz/folder/3gVWDT6C#QB2rQv2G0Wg9y_GmEmTRMg</raw>
   </episode>
 </episodeList>

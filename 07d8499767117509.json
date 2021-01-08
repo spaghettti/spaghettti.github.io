@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-08T06:00:03.165Z",
+  "lastUpdated": "2021-01-08T08:05:03.658Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1218,6 +1218,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-01-06T08:40:07.205Z",
       "raw": "https://mega.nz/folder/CssSWAgY#ZKwnem0Wl1qElP2nhiw9jg"
+    },
+    {
+      "airingId": "729",
+      "content": "Thai restaurant owner/chef Phanuphon Bulsuwan uses a wide array of local ingredients for his dishes. He is also taking steps to combat food waste, both in his own kitchen and society at large.",
+      "description": "Thai restaurant owner/chef Phanuphon Bulsuwan uses a wide array of local ingredients for his dishes. He is also taking steps to combat food waste, both in his own kitchen and society at large.",
+      "endDate": "2021-01-08T07:30:00.000Z",
+      "link": "https://mega.nz/folder/BgdiTDjA#vwOCkOekvsp_JZLtD904NA",
+      "recordDateEnd": "2021-01-08T07:30:29.629Z",
+      "recordDateStart": "2021-01-08T07:14:20.013Z",
+      "seriesId": "2058",
+      "sha256": "fdab05e4d33e2b0c3ec9d4650671d5a74bbc540d32bb5405b93e64bfd56cd8c1",
+      "startDate": "2021-01-08T07:15:00.000Z",
+      "subtitle": "Delicious Dishes, Zero Waste: Phanuphon Bulsuwan / Owner/Chef, Blackitch Artisan Kitchen",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-08T08:00:28.338Z",
+      "raw": "https://mega.nz/folder/3gVWDT6C#QB2rQv2G0Wg9y_GmEmTRMg"
     }
   ]
 }
