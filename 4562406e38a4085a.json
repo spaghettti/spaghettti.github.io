@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-08T08:05:03.572Z",
+  "lastUpdated": "2021-01-08T15:45:03.362Z",
   "seriesId": "2019",
   "title": "Dining with the Chef",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "Dining with the Chef",
       "uploadedDate": "2020-12-26T02:05:00.008Z",
       "raw": "https://mega.nz/folder/8tUwzJrC#a7GroPo1-oKeP6bBCUUXrQ"
+    },
+    {
+      "airingId": "254",
+      "content": "Learn about Japanese home cooking with master chef Saito, based on traditional Japanese cooking techniques! Featured recipes: (1) Mushi sushi (2) clear dashi with clams.",
+      "description": "Chef Saito's new recipes: (1) Mushi Sushi (2) Clear Dashi with Clams. Why not learn Japanese food culture and try real Japanese dishes at your home!",
+      "endDate": "2021-01-08T15:00:00.000Z",
+      "link": "https://mega.nz/folder/qp9yxBgI#GqXqctg601J5HG3tTmOeFQ",
+      "recordDateEnd": "2021-01-08T15:00:28.776Z",
+      "recordDateStart": "2021-01-08T14:29:20.100Z",
+      "seriesId": "2019",
+      "sha256": "3203c2689bdf9be4e7e4d5ff4fc60d28643a8a171a58f2f683b6f906bc6c0da2",
+      "startDate": "2021-01-08T14:30:00.000Z",
+      "subtitle": "Authentic Japanese Cooking: Mushi Sushi",
+      "title": "Dining with the Chef",
+      "uploadedDate": "2021-01-08T15:44:59.501Z"
     },
     {
       "airingId": "278",
