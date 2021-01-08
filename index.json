@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-07T15:45:03.880Z",
+  "lastUpdated": "2021-01-08T05:55:03.127Z",
   "series": [
     {
       "count": 13,
@@ -42,10 +42,10 @@
       "title": "Anime Supernova"
     },
     {
-      "count": 7,
+      "count": 8,
       "uniqueId": "b6a4aecdfcf53169",
-      "lastAiring": "2021-01-01T01:30:00.000Z",
-      "lastUpload": "2021-01-01T03:23:41.780Z",
+      "lastAiring": "2021-01-08T01:30:00.000Z",
+      "lastUpload": "2021-01-08T05:54:24.058Z",
       "seriesId": "2022",
       "title": "Asia Insight"
     },
@@ -498,10 +498,10 @@
       "title": "KABUKI KOOL"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "25a805bf2ec43458",
-      "lastAiring": "2021-01-01T00:30:00.000Z",
-      "lastUpload": "2021-01-01T03:17:59.336Z",
+      "lastAiring": "2021-01-08T00:30:00.000Z",
+      "lastUpload": "2021-01-08T05:52:02.367Z",
       "seriesId": "2025",
       "title": "Kawaii International"
     },
@@ -738,10 +738,10 @@
       "title": "SONGS OF TOKYO"
     },
     {
-      "count": 1,
+      "count": 2,
       "uniqueId": "b0ee8e6b5f5551b1",
-      "lastAiring": "2020-12-31T23:30:00.000Z",
-      "lastUpload": "2021-01-01T04:46:46.011Z",
+      "lastAiring": "2021-01-07T23:30:00.000Z",
+      "lastUpload": "2021-01-08T05:51:32.063Z",
       "seriesId": "7000",
       "title": "Spirit of Resilience"
     },

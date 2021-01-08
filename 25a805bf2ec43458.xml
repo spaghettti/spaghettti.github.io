@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-07T15:45:03.661Z</lastUpdated>
+  <lastUpdated>2021-01-08T05:55:02.923Z</lastUpdated>
   <seriesId>25a805bf2ec43458</seriesId>
   <title>Kawaii International</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Kawaii International</title>
     <uploadedDate>2021-01-01T03:17:59.336Z</uploadedDate>
     <raw>https://mega.nz/folder/gRlAzK4B#ceyE0AD02dxR9WtbJ1TYlg</raw>
+  </episode>
+  <episode>
+    <airingId>128</airingId>
+    <content>Since we're spending more and more time at home due to COVID-19, why not enrich your life with plants? This time we'll show you unique and trendy florists, as well as give you some terrarium building tips from a moss fanatic!</content>
+    <description>In addition to adding beauty to your home and purifying the air, indoor plants also help ease your mind. Learn some kawaii ways to live with plants at home.</description>
+    <endDate>2021-01-08T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/5hlh1Yob#B69tLUpfG1POg13mntZbMA</link>
+    <recordDateEnd>2021-01-08T01:00:36.268Z</recordDateEnd>
+    <recordDateStart>2021-01-08T00:29:20.126Z</recordDateStart>
+    <seriesId>2025</seriesId>
+    <sha256>9543fca11b337320df5f9499252c840dbba655b97c2dc38996ac585b634f2287</sha256>
+    <startDate>2021-01-08T00:30:00.000Z</startDate>
+    <subtitle>Planting Seeds of Joy: Plant Life at Home</subtitle>
+    <title>Kawaii International</title>
+    <uploadedDate>2021-01-08T05:52:02.367Z</uploadedDate>
   </episode>
   <episode>
     <airingId>131</airingId>

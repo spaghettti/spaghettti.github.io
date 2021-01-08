@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-07T15:45:03.859Z</lastUpdated>
+  <lastUpdated>2021-01-08T05:55:03.110Z</lastUpdated>
   <seriesId>b0ee8e6b5f5551b1</seriesId>
   <title>Spirit of Resilience</title>
   <episode>
@@ -19,5 +19,20 @@
     <title>Spirit of Resilience</title>
     <uploadedDate>2021-01-01T04:46:46.011Z</uploadedDate>
     <raw>https://mega.nz/folder/2xN1XCTS#XqrIvB6MLqYcD1hFqZR90Q</raw>
+  </episode>
+  <episode>
+    <airingId>461</airingId>
+    <content/>
+    <description>Mamma Mercato's Wonder Women: Documents "Mamma Mercato," a non-profit organization that helps moms pursue their dreams, unleash their creativity, and open businesses.</description>
+    <endDate>2021-01-08T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ik8WETrB#MUFneHwjPz2GAEJMFe8hgQ</link>
+    <recordDateEnd>2021-01-08T00:00:31.323Z</recordDateEnd>
+    <recordDateStart>2021-01-07T23:29:20.099Z</recordDateStart>
+    <seriesId>7000</seriesId>
+    <sha256>06c6a12896b401b27e6ef381b631e6c3b5c8fe215e1d7016975aa03cbc6583b8</sha256>
+    <startDate>2021-01-07T23:30:00.000Z</startDate>
+    <subtitle>Mamma Mercato's Wonder Women</subtitle>
+    <title>Spirit of Resilience</title>
+    <uploadedDate>2021-01-08T05:51:32.063Z</uploadedDate>
   </episode>
 </episodeList>
