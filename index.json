@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-08T17:00:02.955Z",
+  "lastUpdated": "2021-01-09T01:40:03.904Z",
   "series": [
     {
       "count": 13,
@@ -352,6 +352,14 @@
       "lastUpload": "2020-12-25T04:39:43.697Z",
       "seriesId": "2081",
       "title": "GRAND SUMO LIVE"
+    },
+    {
+      "count": 1,
+      "uniqueId": "e8fb59901013e593",
+      "lastAiring": "2021-01-08T23:10:00.000Z",
+      "lastUpload": "2021-01-09T01:37:33.080Z",
+      "seriesId": "5001",
+      "title": "GREAT RACE"
     },
     {
       "count": 4,

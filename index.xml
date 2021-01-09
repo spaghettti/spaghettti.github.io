@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-08T17:00:02.950Z</lastUpdated>
+  <lastUpdated>2021-01-09T01:40:03.898Z</lastUpdated>
   <series>
     <count>13</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -353,6 +353,14 @@
     <lastUpload>2020-12-25T04:39:43.697Z</lastUpload>
     <seriesId>2081</seriesId>
     <title>GRAND SUMO LIVE</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>e8fb59901013e593</uniqueId>
+    <lastAiring>2021-01-08T23:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-09T01:37:33.080Z</lastUpload>
+    <seriesId>5001</seriesId>
+    <title>GREAT RACE</title>
   </series>
   <series>
     <count>4</count>
