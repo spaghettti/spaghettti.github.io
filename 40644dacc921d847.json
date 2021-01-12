@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-12T04:40:02.900Z",
+  "lastUpdated": "2021-01-12T05:00:03.384Z",
   "seriesId": "6015",
   "title": "FLOWERS WILL BLOOM",
   "episodes": [
@@ -18,6 +18,22 @@
       "title": "FLOWERS WILL BLOOM",
       "uploadedDate": "2020-12-25T04:50:09.139Z",
       "raw": "https://mega.nz/folder/jQ0ClS4T#swI_0m0toaHM_Aw8VtV7Xw"
+    },
+    {
+      "airingId": "006",
+      "content": "",
+      "description": "Yuzuru Hanyu, gold medalist at the Sochi Winter Olympics, returned to his hometown, Sendai, Miyagi Pref., and skated to \"Hana wa Saku\", a song created to support recovery from the 3.11 disaster.",
+      "endDate": "2021-01-11T03:30:00.000Z",
+      "link": "https://mega.nz/folder/v9ZSGBhC#8liMV2j4KlbNZMzqC0t_VQ",
+      "recordDateEnd": "2021-01-11T03:30:26.936Z",
+      "recordDateStart": "2021-01-11T03:24:22.622Z",
+      "seriesId": "6015",
+      "sha256": "07f1f473dbcdf7fc2ff0aac477486bdd59860b685845d354e56b6831d9ceada4",
+      "startDate": "2021-01-11T03:25:00.000Z",
+      "subtitle": "",
+      "title": "FLOWERS WILL BLOOM",
+      "uploadedDate": "2021-01-12T04:55:56.001Z",
+      "raw": "https://mega.nz/folder/asFizBpR#d1ulQwmY6VCjD_ycQWZZ1w"
     }
   ]
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-12T04:40:02.954Z</lastUpdated>
+  <lastUpdated>2021-01-12T05:00:03.441Z</lastUpdated>
   <series>
     <count>13</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -283,10 +283,10 @@
     <title>Face To Face</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>40644dacc921d847</uniqueId>
-    <lastAiring>2020-11-28T14:35:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T04:50:09.139Z</lastUpload>
+    <lastAiring>2021-01-11T03:25:00.000Z</lastAiring>
+    <lastUpload>2021-01-12T04:55:56.001Z</lastUpload>
     <seriesId>6015</seriesId>
     <title>FLOWERS WILL BLOOM</title>
   </series>
