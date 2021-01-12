@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-12T03:55:03.089Z",
+  "lastUpdated": "2021-01-12T04:25:03.505Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -722,6 +722,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-01-06T08:47:35.769Z",
       "raw": "https://mega.nz/folder/H0sznADT#ew8mRr12alv7oCq6PwunLg"
+    },
+    {
+      "airingId": "658",
+      "content": "",
+      "description": "Yamasaki Nobuyoshi's company produces items like food trays and garbage bags using a sustainable limestone-based material. He talks about its potential as an alternative to paper or plastic.",
+      "endDate": "2021-01-11T09:30:00.000Z",
+      "link": "https://mega.nz/folder/rgVj3Iob#S_lT1xBo-ApTWHwocs98TQ",
+      "recordDateEnd": "2021-01-11T09:30:35.339Z",
+      "recordDateStart": "2021-01-11T09:14:20.130Z",
+      "seriesId": "2058",
+      "sha256": "9dcb2a01cb328602ff4b504a7590ac4b3f457608043cf4511212e108f05c74a4",
+      "startDate": "2021-01-11T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-12T04:21:36.084Z"
     },
     {
       "airingId": "664",
