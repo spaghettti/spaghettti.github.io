@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-12T04:35:03.453Z",
+  "lastUpdated": "2021-01-12T04:40:02.884Z",
   "seriesId": "4026",
   "title": "Document 72 Hours",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Document 72 Hours",
       "uploadedDate": "2020-12-25T20:02:29.590Z",
       "raw": "https://mega.nz/folder/31l02QAK#BWjUahJkQGBlpQDNnrtulQ"
+    },
+    {
+      "airingId": "147",
+      "content": "The closure of Tokyo's Toshimaen amusement park in August 2020 marked the end of an era. For decades, El Dorado, the park's wooden carousel, was a popular attraction with visitors young and old. In the days before the park closed, visitors flocked to the carousel for a final ride, including an elderly couple who came on dates here before they married; a young man reminiscing about happier times with his family; and a woman who wants her late mother to see that she is back on her feet. For 3 days, we asked why this ride held such a special place in the hearts of so many people.",
+      "description": "The closure of Tokyo's Toshimaen amusement park marked the end of an era. For 3 days before the park closed, we asked visitors taking a final ride on its iconic wooden carousel why it was so special.",
+      "endDate": "2021-01-12T02:00:00.000Z",
+      "link": "https://mega.nz/folder/i451waYL#drvR8nQpROv8B0fOCLIpSQ",
+      "recordDateEnd": "2021-01-12T02:00:26.051Z",
+      "recordDateStart": "2021-01-12T01:29:22.681Z",
+      "seriesId": "4026",
+      "sha256": "e2cd4766b1dc1dec64866ecb679bdab058916068da5f1acf4f1fb9e962ed9a3d",
+      "startDate": "2021-01-12T01:30:00.000Z",
+      "subtitle": "Adios, El Dorado Carousel!",
+      "title": "Document 72 Hours",
+      "uploadedDate": "2021-01-12T04:35:04.360Z"
     }
   ]
 }

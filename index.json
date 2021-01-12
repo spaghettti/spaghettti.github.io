@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-12T04:35:03.541Z",
+  "lastUpdated": "2021-01-12T04:40:02.960Z",
   "series": [
     {
       "count": 13,
@@ -186,10 +186,10 @@
       "title": "Dig More Japan"
     },
     {
-      "count": 16,
+      "count": 17,
       "uniqueId": "4562406e38a4085a",
-      "lastAiring": "2021-01-08T14:30:00.000Z",
-      "lastUpload": "2021-01-08T15:44:59.501Z",
+      "lastAiring": "2021-01-12T00:30:00.000Z",
+      "lastUpload": "2021-01-12T04:38:37.482Z",
       "seriesId": "2019",
       "title": "Dining with the Chef"
     },
@@ -210,10 +210,10 @@
       "title": "Doctor's Insight"
     },
     {
-      "count": 8,
+      "count": 9,
       "uniqueId": "3181d5ae26726a28",
-      "lastAiring": "2021-01-05T01:30:00.000Z",
-      "lastUpload": "2021-01-06T09:19:30.516Z",
+      "lastAiring": "2021-01-12T01:30:00.000Z",
+      "lastUpload": "2021-01-12T04:35:04.360Z",
       "seriesId": "4026",
       "title": "Document 72 Hours"
     },
