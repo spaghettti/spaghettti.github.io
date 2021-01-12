@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-12T05:00:03.380Z",
+  "lastUpdated": "2021-01-12T05:05:03.634Z",
   "seriesId": "6001",
   "title": "BEGIN Japanology mini",
   "episodes": [
@@ -226,6 +226,21 @@
       "title": "BEGIN Japanology mini",
       "uploadedDate": "2020-12-27T22:39:34.265Z",
       "raw": "https://mega.nz/folder/XdMQ2JbI#OIzxOAR12Wxj5jOXow0Dqg"
+    },
+    {
+      "airingId": "034",
+      "content": "",
+      "description": "Trivia on aspects of Japan's unique culture and products that reflect the aesthetic sense and values of the Japanese people. Today: Tops.",
+      "endDate": "2021-01-11T03:25:00.000Z",
+      "link": "https://mega.nz/folder/2M1FAa7J#czdEpdHh0KFlHKnjM3ELkg",
+      "recordDateEnd": "2021-01-11T03:25:35.508Z",
+      "recordDateStart": "2021-01-11T03:19:20.136Z",
+      "seriesId": "6001",
+      "sha256": "3dbef50d31e9b0512e539eefae52d9e90b43cff9ada92df0617f3f48e2a38c76",
+      "startDate": "2021-01-11T03:20:00.000Z",
+      "subtitle": "",
+      "title": "BEGIN Japanology mini",
+      "uploadedDate": "2021-01-12T05:02:02.334Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-12T05:00:03.379Z</lastUpdated>
+  <lastUpdated>2021-01-12T05:05:03.632Z</lastUpdated>
   <seriesId>d58f68b3577f3e24</seriesId>
   <title>BEGIN Japanology mini</title>
   <episode>
@@ -227,5 +227,20 @@
     <title>BEGIN Japanology mini</title>
     <uploadedDate>2020-12-27T22:39:34.265Z</uploadedDate>
     <raw>https://mega.nz/folder/XdMQ2JbI#OIzxOAR12Wxj5jOXow0Dqg</raw>
+  </episode>
+  <episode>
+    <airingId>034</airingId>
+    <content/>
+    <description>Trivia on aspects of Japan's unique culture and products that reflect the aesthetic sense and values of the Japanese people. Today: Tops.</description>
+    <endDate>2021-01-11T03:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/2M1FAa7J#czdEpdHh0KFlHKnjM3ELkg</link>
+    <recordDateEnd>2021-01-11T03:25:35.508Z</recordDateEnd>
+    <recordDateStart>2021-01-11T03:19:20.136Z</recordDateStart>
+    <seriesId>6001</seriesId>
+    <sha256>3dbef50d31e9b0512e539eefae52d9e90b43cff9ada92df0617f3f48e2a38c76</sha256>
+    <startDate>2021-01-11T03:20:00.000Z</startDate>
+    <subtitle/>
+    <title>BEGIN Japanology mini</title>
+    <uploadedDate>2021-01-12T05:02:02.334Z</uploadedDate>
   </episode>
 </episodeList>
