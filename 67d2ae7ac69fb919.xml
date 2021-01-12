@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-12T04:30:04.061Z</lastUpdated>
+  <lastUpdated>2021-01-12T04:35:03.294Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -99,6 +99,21 @@
     <title>Core Kyoto</title>
     <uploadedDate>2020-12-29T07:18:54.395Z</uploadedDate>
     <raw>https://mega.nz/folder/HttwUZqA#1ZqIONeVnOx49zlQwPXVAw</raw>
+  </episode>
+  <episode>
+    <airingId>040</airingId>
+    <content>February 3 is New Year's Eve by the old, lunar calendar and is the boundary between winter and spring. On this day, called Setsubun, households scatter soybeans for good fortune in the coming year, expelling the demons that represent misfortune and calamity. The shrine Yoshida Jinja protects Kyoto at the "demon's gate" in the northeast with a ritual in which the "shaman" wears a four-eyed mask. Farmers in rural areas uphold the custom of driving out moles. Disguised Geiko pray for protection against evil. Discover how Kyotoites pray for order in life through these safeguarding traditions.</content>
+    <description>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive program. Today: Setsubun, out with the demons and in with fortune in the spring.</description>
+    <endDate>2021-01-11T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/W04nQSrL#HeNDMl_4ScLirAOww_FZyQ</link>
+    <recordDateEnd>2021-01-11T15:00:29.149Z</recordDateEnd>
+    <recordDateStart>2021-01-11T14:29:24.236Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>663b53c27cb0e2c40668d807bb44967ba11b33e8705a96f61ca5ffd00022b57f</sha256>
+    <startDate>2021-01-11T14:30:00.000Z</startDate>
+    <subtitle>Setsubun: Out with the Demons and in with Fortune in the Spring</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-01-12T04:33:56.619Z</uploadedDate>
   </episode>
   <episode>
     <airingId>077</airingId>
