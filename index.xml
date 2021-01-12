@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-12T05:05:03.694Z</lastUpdated>
+  <lastUpdated>2021-01-12T05:20:03.369Z</lastUpdated>
   <series>
     <count>13</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -195,10 +195,10 @@
     <title>Dining with the Chef</title>
   </series>
   <series>
-    <count>78</count>
+    <count>80</count>
     <uniqueId>07d8499767117509</uniqueId>
-    <lastAiring>2021-01-11T09:15:00.000Z</lastAiring>
-    <lastUpload>2021-01-12T04:21:36.084Z</lastUpload>
+    <lastAiring>2021-01-12T04:15:00.000Z</lastAiring>
+    <lastUpload>2021-01-12T05:19:16.669Z</lastUpload>
     <seriesId>2058</seriesId>
     <title>Direct Talk</title>
   </series>
@@ -779,10 +779,10 @@
     <title>Sumopedia</title>
   </series>
   <series>
-    <count>10</count>
+    <count>11</count>
     <uniqueId>05e910e7289de2b7</uniqueId>
-    <lastAiring>2021-01-01T04:10:00.000Z</lastAiring>
-    <lastUpload>2021-01-01T07:00:07.238Z</lastUpload>
+    <lastAiring>2021-01-11T02:20:00.000Z</lastAiring>
+    <lastUpload>2021-01-12T05:16:02.408Z</lastUpload>
     <seriesId>6113</seriesId>
     <title>The Great Summits</title>
   </series>

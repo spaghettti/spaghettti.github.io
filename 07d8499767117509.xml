@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-12T05:05:03.520Z</lastUpdated>
+  <lastUpdated>2021-01-12T05:20:03.184Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -373,6 +373,22 @@
     <raw>https://mega.nz/folder/r8skhIQR#ivWXQDsUA1INMlfGYPVhMg</raw>
   </episode>
   <episode>
+    <airingId>592</airingId>
+    <content>The Kobe Shu-Shin-Kan Breweries have been producing sake for over 260 years. We speak with president Takenosuke Yasufuku about how his firm makes sake with huge appeal both in Japan and worldwide.</content>
+    <description>The Kobe Shu-Shin-Kan Breweries have been producing sake for over 260 years. We speak with president Takenosuke Yasufuku about how his firm makes sake with huge appeal both in Japan and worldwide.</description>
+    <endDate>2021-01-11T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/4bInTYbb#-FDXQTv3NVkeliR1ywaD6A</link>
+    <recordDateEnd>2021-01-11T07:30:30.715Z</recordDateEnd>
+    <recordDateStart>2021-01-11T07:14:20.113Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>960c4f24b7141e403cfa5b9affc99210e426024f02d2c4483c300d8a2cf2a1df</sha256>
+    <startDate>2021-01-11T07:15:00.000Z</startDate>
+    <subtitle>Sake Goes Global: Takenosuke Yasufuku / President, Kobe Shu-Shin-Kan Breweries</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-12T05:19:16.669Z</uploadedDate>
+    <raw>https://mega.nz/folder/Sss1nCyB#tOIPxn0uP7GNka1F-TMYNQ</raw>
+  </episode>
+  <episode>
     <airingId>615</airingId>
     <content/>
     <description>Myanmar in southeast Asia suffers from a lack of safe drinking water. Hisafumi Shogi works with locals to develop the water supply infrastructure. He talks about the road so far and what lies ahead.</description>
@@ -738,6 +754,21 @@
     <subtitle/>
     <title>Direct Talk</title>
     <uploadedDate>2021-01-12T04:21:36.084Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>659</airingId>
+    <content/>
+    <description>Pastor Okuda Tomoshi has been working with homeless people for over 30 years, helping 3,500 get back on their feet. He talks about what is necessary to create a society where no one is left ignored.</description>
+    <endDate>2021-01-12T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/8KojwYTT#Jg_W6-jSSbB5QL18Xv1HsQ</link>
+    <recordDateEnd>2021-01-12T04:30:28.275Z</recordDateEnd>
+    <recordDateStart>2021-01-12T04:14:24.003Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>10fd3ab68361239818e5a3157264acd679fd2bb19df4f85fe6e7b45d0fd5126e</sha256>
+    <startDate>2021-01-12T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-12T05:16:36.155Z</uploadedDate>
   </episode>
   <episode>
     <airingId>664</airingId>

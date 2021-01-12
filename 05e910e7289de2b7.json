@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-12T05:05:03.669Z",
+  "lastUpdated": "2021-01-12T05:20:03.342Z",
   "seriesId": "6113",
   "title": "The Great Summits",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "The Great Summits",
       "uploadedDate": "2021-01-01T07:00:07.238Z",
       "raw": "https://mega.nz/folder/VlkRVKzS#oNfG-fSr7IA142llNYOxUg"
+    },
+    {
+      "airingId": "042",
+      "content": "",
+      "description": "\"The Great Summit\" presents you with breathtaking views and stories behind famous mountains around the world. Today: Exploring the Queen of the Alps, Mont Blanc in the Alps.",
+      "endDate": "2021-01-11T02:30:00.000Z",
+      "link": "https://mega.nz/folder/dY8FxSiC#GcEiMzkiraXbWdRLitsDAw",
+      "recordDateEnd": "2021-01-11T02:30:21.786Z",
+      "recordDateStart": "2021-01-11T02:19:23.958Z",
+      "seriesId": "6113",
+      "sha256": "c8ec256b20b178ce9c3eb2a49a881763c582549c27ccd6988296858f644b8f05",
+      "startDate": "2021-01-11T02:20:00.000Z",
+      "subtitle": "",
+      "title": "The Great Summits",
+      "uploadedDate": "2021-01-12T05:16:02.408Z"
     }
   ]
 }
