@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T20:10:03.648Z",
+  "lastUpdated": "2021-01-13T20:15:03.371Z",
   "seriesId": "2072",
   "title": "Japan's Top Inventions",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Japan's Top Inventions",
       "uploadedDate": "2020-12-23T22:59:31.233Z",
       "raw": "https://mega.nz/folder/BRsw3Taa#6oG01-i_JC77FXSc32eQLQ"
+    },
+    {
+      "airingId": "043",
+      "content": "The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, planetariums, which realistically reproduce the look of the starry night sky. In 2014, a Japanese firm succeeded in creating a planetarium projector that displays each of the approximately 9,500 stars visible to the naked eye in incredible detail, including accurate coloring. We dive into the story behind the creation of that top invention and learn about the latest models.",
+      "description": "The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, planetariums, which realistically reproduce the look of the starry night sky.",
+      "endDate": "2021-01-13T16:00:00.000Z",
+      "link": "https://mega.nz/folder/Wclw0JZb#AKzf52_RVDJHZpDsGpFCFQ",
+      "recordDateEnd": "2021-01-13T16:00:27.407Z",
+      "recordDateStart": "2021-01-13T15:44:20.003Z",
+      "seriesId": "2072",
+      "sha256": "ea915712992a5d301dfe39ead1cc5644ea2c74b46983c8536f2076fce343364e",
+      "startDate": "2021-01-13T15:45:00.000Z",
+      "subtitle": "Planetariums",
+      "title": "Japan's Top Inventions",
+      "uploadedDate": "2021-01-13T20:10:47.656Z"
     }
   ]
 }
