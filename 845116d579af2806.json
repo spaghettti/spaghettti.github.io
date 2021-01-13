@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T06:05:03.794Z",
+  "lastUpdated": "2021-01-13T06:15:03.427Z",
   "seriesId": "2032",
   "title": "Japanology Plus",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Japanology Plus",
       "uploadedDate": "2020-12-29T16:01:55.606Z",
       "raw": "https://mega.nz/folder/i9lBDARA#bZTT9CM4u6pnkyZHn30RHA"
+    },
+    {
+      "airingId": "227",
+      "content": "*First broadcast on January 12, 2021.\nThis time, our theme is moss. In some countries, it is regarded almost as a weed, but in Japan, it's cherished. Moss can be found in the gardens of temples and shrines, in forests and mountains and even in large cities. Our main guest is Oishi Yoshitaka, an associate professor at Fukui Prefectural University. He introduces us to different species of moss, and explains the role it plays in both the natural world, and in Japanese gardening. And in Plus One, Kanoa makes a beautiful moss terrarium.",
+      "description": "Moss. A cherished feature of gardens and natural scenery. Each time, Peter Barakan visits the key locations, and meets experts with fascinating cultural insights.",
+      "endDate": "2021-01-12T15:00:00.000Z",
+      "link": "https://mega.nz/folder/7EsQ3IxD#KVGFzV_F9dwGoe3_QLSCvA",
+      "recordDateEnd": "2021-01-12T15:00:32.425Z",
+      "recordDateStart": "2021-01-12T14:29:20.128Z",
+      "seriesId": "2032",
+      "sha256": "f9a4eeb863496742d7a983d581ddceddd89aefce58a1c172ffd8c9a937acd1f4",
+      "startDate": "2021-01-12T14:30:00.000Z",
+      "subtitle": "Moss",
+      "title": "Japanology Plus",
+      "uploadedDate": "2021-01-13T06:11:57.455Z"
     }
   ]
 }
