@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T20:50:03.021Z</lastUpdated>
+  <lastUpdated>2021-01-13T21:40:03.705Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
   <episode>
@@ -147,5 +147,21 @@
     <title>NHK WORLD PRIME</title>
     <uploadedDate>2020-12-26T10:34:34.320Z</uploadedDate>
     <raw>https://mega.nz/folder/HU10nLwQ#2ziCpHyJKpc4xmw0_saD7Q</raw>
+  </episode>
+  <episode>
+    <airingId>087</airingId>
+    <content>Using footage shot at the center of the March 2011 Great East Japan Earthquake and tsunami, we bring you a story of horror and heroism during one of history's worst catastrophes. Vast areas along Japan's Pacific coast were devastated. Entire communities were washed away and residents were forced to evacuate. An accident at the Fukushima Daiichi Nuclear Power Plant created a radioactive no-man's-land. But in the days that followed, amid the chaos and confusion, countless people sprang into action to assist victims and search for survivors.</content>
+    <description>After the mega-earthquake and tsunami that hit Japan in 2011, people witnessed scenes of horror and heroism. Experience the three days that followed with footage shot at the center of the disaster.</description>
+    <endDate>2021-01-09T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/tLAW3TJD#IN8uC9TaL2WAor6aZbYdGA</link>
+    <recordDateEnd>2021-01-09T02:00:28.389Z</recordDateEnd>
+    <recordDateStart>2021-01-09T01:09:22.785Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>b8ff416f6451619dced2cab22f0dd8078eba8095cca993300833870d6ca51b42</sha256>
+    <startDate>2021-01-09T01:10:00.000Z</startDate>
+    <subtitle>3/11 - The Tsunami: The First 3 Days</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2021-01-13T21:39:10.502Z</uploadedDate>
+    <raw>https://mega.nz/folder/oH5CwSID#E8b2ybJayf9llkacf8WsEg</raw>
   </episode>
 </episodeList>
