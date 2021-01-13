@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T20:15:03.360Z",
+  "lastUpdated": "2021-01-13T20:40:03.595Z",
   "seriesId": "2061",
   "title": "GRAND SUMO Highlights",
   "episodes": [
@@ -178,6 +178,21 @@
       "title": "GRAND SUMO Highlights",
       "uploadedDate": "2021-01-13T05:44:17.561Z",
       "raw": "https://mega.nz/folder/utAGQBIa#pFf-Iim3MTjftLkC6XEGLA"
+    },
+    {
+      "airingId": "394",
+      "content": "The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!",
+      "description": "NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from Jan.13, Day 4 of the Grand Sumo Tournament in Tokyo.",
+      "endDate": "2021-01-13T16:57:00.000Z",
+      "link": "https://mega.nz/folder/2B0gBCBK#_nTSxTGYDbAB2ibkliw3qw",
+      "recordDateEnd": "2021-01-13T16:57:37.062Z",
+      "recordDateStart": "2021-01-13T16:29:20.097Z",
+      "seriesId": "2061",
+      "sha256": "adbb22ec0670d807ea3d32f0fb7d14fb0f4f25750671b6eba4846a248340b752",
+      "startDate": "2021-01-13T16:30:00.000Z",
+      "subtitle": "January Tournament Day 4",
+      "title": "GRAND SUMO Highlights",
+      "uploadedDate": "2021-01-13T20:35:42.886Z"
     }
   ]
 }

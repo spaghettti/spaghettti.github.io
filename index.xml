@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-13T20:15:03.496Z</lastUpdated>
+  <lastUpdated>2021-01-13T20:40:03.748Z</lastUpdated>
   <series>
     <count>14</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -339,10 +339,10 @@
     <title>GLOBAL AGENDA</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>b2f243cf934b4de8</uniqueId>
-    <lastAiring>2021-01-12T16:30:00.000Z</lastAiring>
-    <lastUpload>2021-01-13T11:25:23.530Z</lastUpload>
+    <lastAiring>2021-01-13T16:30:00.000Z</lastAiring>
+    <lastUpload>2021-01-13T20:35:42.886Z</lastUpload>
     <seriesId>2061</seriesId>
     <title>GRAND SUMO Highlights</title>
   </series>
