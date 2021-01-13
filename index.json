@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T07:10:03.051Z",
+  "lastUpdated": "2021-01-13T07:30:03.593Z",
   "series": [
     {
       "count": 14,
@@ -488,6 +488,14 @@
       "lastUpload": "2021-01-13T06:11:57.455Z",
       "seriesId": "2032",
       "title": "Japanology Plus"
+    },
+    {
+      "count": 1,
+      "uniqueId": "59faa2d1f7a22f19",
+      "lastAiring": "2021-01-11T00:25:00.000Z",
+      "lastUpload": "2021-01-13T07:28:37.660Z",
+      "seriesId": "6032",
+      "title": "Japanology Plus mini"
     },
     {
       "count": 1,
