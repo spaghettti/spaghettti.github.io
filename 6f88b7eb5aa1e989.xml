@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T08:00:03.758Z</lastUpdated>
+  <lastUpdated>2021-01-13T08:35:03.290Z</lastUpdated>
   <seriesId>6f88b7eb5aa1e989</seriesId>
   <title>Dig More Japan</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>Dig More Japan</title>
     <uploadedDate>2020-12-26T01:47:11.836Z</uploadedDate>
     <raw>https://mega.nz/folder/X41SUapD#ZagNqOG9ANrA7OA8j1Lb4w</raw>
+  </episode>
+  <episode>
+    <airingId>019</airingId>
+    <content/>
+    <description>Japanese winter has given rise to some unique customs and recreational activities. In this episode, we'll dive into some of Japan's incredible winter wonderland.</description>
+    <endDate>2021-01-11T01:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/dPx3EYhQ#tS6YoC0ZNtnWYfWDzCHt3g</link>
+    <recordDateEnd>2021-01-11T01:20:25.482Z</recordDateEnd>
+    <recordDateStart>2021-01-11T01:09:22.962Z</recordDateStart>
+    <seriesId>6122</seriesId>
+    <sha256>3ecd3648bc2b357f0118e209d94d458f9420f8830fb5671f519fe019f6a5fb5f</sha256>
+    <startDate>2021-01-11T01:10:00.000Z</startDate>
+    <subtitle>Japanese Winter Wonderland</subtitle>
+    <title>Dig More Japan</title>
+    <uploadedDate>2021-01-13T08:34:17.321Z</uploadedDate>
+    <raw>https://mega.nz/folder/6ghWmL4Y#bK5Vu5zoFYIMpoOCuUdSRg</raw>
   </episode>
   <episode>
     <airingId>020</airingId>
