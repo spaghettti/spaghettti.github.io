@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T14:05:03.377Z</lastUpdated>
+  <lastUpdated>2021-01-13T14:50:03.736Z</lastUpdated>
   <seriesId>c4202a1fd6bc966c</seriesId>
   <title>GRAND SUMO LIVE</title>
   <episode>
@@ -19,5 +19,21 @@
     <title>GRAND SUMO LIVE</title>
     <uploadedDate>2020-12-25T04:39:43.697Z</uploadedDate>
     <raw>https://mega.nz/folder/F0kEnKIb#b0setje_6ZyABveK_m_5lg</raw>
+  </episode>
+  <episode>
+    <airingId>031</airingId>
+    <content/>
+    <description>NHK WORLD-JAPAN broadcasts GRAND SUMO January Tournament Opening Day action live from the Kokugikan Sumo Stadium in Ryogoku, Tokyo, as the top wrestlers have their first bouts of 2021.</description>
+    <endDate>2021-01-10T09:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/SZkHVKiJ#8olT_V4oGN5uUSNG2buKrA</link>
+    <recordDateEnd>2021-01-10T09:00:35.305Z</recordDateEnd>
+    <recordDateStart>2021-01-10T08:09:23.119Z</recordDateStart>
+    <seriesId>2081</seriesId>
+    <sha256>c722a5e9e7dd52008ae3c8c977bc006dfc5cf52b68e5b8ebc699639b36b35d7e</sha256>
+    <startDate>2021-01-10T08:10:00.000Z</startDate>
+    <subtitle>January Tournament Day 1 (Opening Day)</subtitle>
+    <title>GRAND SUMO LIVE</title>
+    <uploadedDate>2021-01-13T14:47:11.832Z</uploadedDate>
+    <raw>https://mega.nz/folder/G48DAa4T#9v1yAaAyIQglkBsXqAH37g</raw>
   </episode>
 </episodeList>
