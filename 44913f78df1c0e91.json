@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T16:45:03.633Z",
+  "lastUpdated": "2021-01-13T17:00:03.855Z",
   "seriesId": "2089",
   "title": "The Signs",
   "episodes": [
@@ -82,6 +82,21 @@
       "title": "The Signs",
       "uploadedDate": "2020-12-24T15:44:27.670Z",
       "raw": "https://mega.nz/folder/B8lwkZib#aiwhhLD3uYVBLGCBibUtQg"
+    },
+    {
+      "airingId": "007",
+      "content": "Due to the pandemic in 2020, nearly all live entertainment ground to a halt, including Rakugo, a traditional Japanese performing art. During the hiatus, Rakugo artists began to broadcast online, attracting subscribers and sponsors while performing for remote fans. As theaters gradually reopen, many artists attempt to reach a wider audience by balancing the real world and online performances. Explore the signs of a paradigm shift in the world of classical Japanese performing arts.",
+      "description": "COVID-19 dealt a major blow to RAKUGO, a traditional form of storytelling. Artists were unable to perform for live audiences, but many started to broadcast online, to attract ever broader audiences.",
+      "endDate": "2021-01-09T03:55:00.000Z",
+      "link": "https://mega.nz/folder/XtoA0CpB#gNYCz9tdHyx4Z5PAXDEiKw",
+      "recordDateEnd": "2021-01-09T03:55:34.103Z",
+      "recordDateStart": "2021-01-09T03:39:20.098Z",
+      "seriesId": "2089",
+      "sha256": "0582e502b99e035e0977c97be811b256452110e928bf7370461d212367cea3bf",
+      "startDate": "2021-01-09T03:40:00.000Z",
+      "subtitle": "New Streams in Rakugo",
+      "title": "The Signs",
+      "uploadedDate": "2021-01-13T16:57:41.105Z"
     }
   ]
 }
