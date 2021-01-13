@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T16:40:03.255Z",
+  "lastUpdated": "2021-01-13T16:45:03.648Z",
   "seriesId": "3016",
   "title": "NHK WORLD PRIME",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "NHK WORLD PRIME",
       "uploadedDate": "2021-01-02T03:32:44.051Z",
       "raw": "https://mega.nz/folder/P0tWjDIb#vfuDAD80dar5lnR_IHQcgQ"
+    },
+    {
+      "airingId": "080",
+      "content": "\"The 72 Pentads of Yamato\" produced by NHK Nara has garnered more than 2 million views online from around the world. Each pentad, or five-day season, reflects on the Japanese ideal of living in harmony with nature in Yamato, the ancient name for Nara. The series is created by Nara videographer Hozan Koichi and Kawakami Mine, a pianist who has performed in Spain. Follow Kawakami in her preparations for their next project -- the pinnacle of the series -- a devotional offering at Kasuga Taisha Shrine.",
+      "description": "Follow pianist Kawakami Mine and videographer Hozan Koichi in their preparations for a musical offering, which reflects on the ideal of living in harmony with nature, at Kasuga Taisha shrine in Nara.",
+      "endDate": "2021-01-09T23:55:00.000Z",
+      "link": "https://mega.nz/folder/RFNX1IDa#OJCf03zyMm2akVP-YWm9kQ",
+      "recordDateEnd": "2021-01-09T23:55:39.036Z",
+      "recordDateStart": "2021-01-09T23:09:23.021Z",
+      "seriesId": "3016",
+      "sha256": "6f14b2173e779c0293895c6715efbd27ffc208437671f4ff59799cdaf1bb9313",
+      "startDate": "2021-01-09T23:10:00.000Z",
+      "subtitle": "The Shape of Sound: A Piano Paints the Seasons of Nara",
+      "title": "NHK WORLD PRIME",
+      "uploadedDate": "2021-01-13T16:44:50.465Z"
     },
     {
       "airingId": "083",
