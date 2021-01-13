@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T10:40:03.216Z</lastUpdated>
+  <lastUpdated>2021-01-13T10:45:03.086Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -83,6 +83,21 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2020-12-29T04:29:14.630Z</uploadedDate>
     <raw>https://mega.nz/folder/OksVQaQZ#TSqV-1QAAoTJ4F51gRpAaw</raw>
+  </episode>
+  <episode>
+    <airingId>106</airingId>
+    <content>Kobe was founded about 150 years ago as an international trading port. Various cultures from around the world have gathered here over the decades. Japan's first tailor-made men's clothing store was opened in Kobe. The custom of eating foreign cuisine in Japan also started here more than 100 years ago. Kobe is a city where various cultures co-exist like a mosaic painting. This is a story of people who live a hardy life in a beautiful harbor city.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history. Today, Kobe: A City of Cultural Mosaic.</description>
+    <endDate>2021-01-11T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/kdNkVTJS#daq_wcUkHcUE7k3Vpz6LvQ</link>
+    <recordDateEnd>2021-01-11T00:00:38.629Z</recordDateEnd>
+    <recordDateStart>2021-01-10T23:29:20.018Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>a84c4198ee5f153e01fcbf1ae7f97f5dcfa14d2ac71332ff838e8bcbf8f17a2e</sha256>
+    <startDate>2021-01-10T23:30:00.000Z</startDate>
+    <subtitle>Kobe: A City of Cultural Mosaic</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-01-13T10:40:14.702Z</uploadedDate>
   </episode>
   <episode>
     <airingId>116</airingId>
