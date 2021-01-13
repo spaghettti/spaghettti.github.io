@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T16:05:03.539Z",
+  "lastUpdated": "2021-01-13T16:25:03.212Z",
   "seriesId": "6022",
   "title": "Easy Japanese",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Easy Japanese",
       "uploadedDate": "2021-01-06T10:58:35.239Z",
       "raw": "https://mega.nz/folder/Xtcw1DoI#hVrJJhNbxh_ydEnA3Lu59w"
+    },
+    {
+      "airingId": "039",
+      "content": "",
+      "description": "#39 I lost my wallet. / To explain that you did something you didn't intend to, use the \"te\" form of a verb, and add \"shite shimaimashita.\" So, \"otosu\" (to drop) becomes \"otoshite shimaimashita.\"",
+      "endDate": "2021-01-09T05:00:00.000Z",
+      "link": "https://mega.nz/folder/Cs0jDajI#lLK6rjszvY1RMUp8SKKKtg",
+      "recordDateEnd": "2021-01-09T05:00:28.151Z",
+      "recordDateStart": "2021-01-09T04:54:20.048Z",
+      "seriesId": "6022",
+      "sha256": "ea13e41c113bd4474953b408e3b76bcf3894d6f40230aaae401392432ebfcdfb",
+      "startDate": "2021-01-09T04:55:00.000Z",
+      "subtitle": "",
+      "title": "Easy Japanese",
+      "uploadedDate": "2021-01-13T16:21:28.578Z"
     }
   ]
 }
