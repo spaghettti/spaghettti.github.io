@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T13:05:03.645Z",
+  "lastUpdated": "2021-01-13T13:40:03.104Z",
   "seriesId": "6210",
   "title": "Japan-easy",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Japan-easy2",
       "uploadedDate": "2021-01-05T06:12:41.617Z",
       "raw": "https://mega.nz/folder/6wkHDIgD#Oq9WEg_FjqZ5RK6aaXtGQg"
+    },
+    {
+      "airingId": "117",
+      "content": "",
+      "description": "Today, we'll learn how to say \"Can I exchange money here?\" in Japanese. Learn useful phrases and cool kanji! And you'll realize \"Japanese is easy\"!",
+      "endDate": "2021-01-10T11:40:00.000Z",
+      "link": "https://mega.nz/folder/39NWELxR#tuKTcWm-G6QkUpFHM7NZdA",
+      "recordDateEnd": "2021-01-10T11:40:33.707Z",
+      "recordDateStart": "2021-01-10T11:24:20.375Z",
+      "seriesId": "6210",
+      "sha256": "6ecb4b03f3ae4d0a743366280c69d8ea81d654a8e652740ee36180c0a521730f",
+      "startDate": "2021-01-10T11:25:00.000Z",
+      "subtitle": "",
+      "title": "Japan-easy2",
+      "uploadedDate": "2021-01-13T13:39:13.966Z"
     }
   ]
 }
