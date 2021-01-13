@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T21:40:03.820Z",
+  "lastUpdated": "2021-01-13T23:15:04.361Z",
   "series": [
     {
       "count": 14,
@@ -144,6 +144,14 @@
       "lastUpload": "2021-01-13T19:50:56.652Z",
       "seriesId": "2076,2083,2084,6036",
       "title": "Culture Crossroads"
+    },
+    {
+      "count": 1,
+      "uniqueId": "1315496c5871b57d",
+      "lastAiring": "2021-01-09T00:10:00.000Z",
+      "lastUpload": "2021-01-13T23:12:41.637Z",
+      "seriesId": "2066",
+      "title": "CYCLE AROUND JAPAN"
     },
     {
       "count": 8,
