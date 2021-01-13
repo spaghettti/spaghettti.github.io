@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T19:45:03.697Z",
+  "lastUpdated": "2021-01-13T19:55:03.844Z",
   "series": [
     {
       "count": 14,
@@ -138,10 +138,10 @@
       "title": "Covid-19: Medical Frontiers"
     },
     {
-      "count": 9,
-      "uniqueId": "1e180bdf5031da76",
-      "lastAiring": "2021-01-13T15:30:00.000Z",
-      "lastUpload": "2021-01-13T18:05:38.555Z",
+      "count": 10,
+      "uniqueId": "46311af43d5442f3",
+      "lastAiring": "2021-01-13T15:40:00.000Z",
+      "lastUpload": "2021-01-13T19:50:56.652Z",
       "seriesId": "2076,2083,2084,6036",
       "title": "Culture Crossroads"
     },
@@ -618,10 +618,10 @@
       "title": "NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL"
     },
     {
-      "count": 8,
+      "count": 9,
       "uniqueId": "da2ed3151c7e82e4",
-      "lastAiring": "2021-01-02T02:50:00.000Z",
-      "lastUpload": "2021-01-05T05:09:21.549Z",
+      "lastAiring": "2021-01-09T02:50:00.000Z",
+      "lastUpload": "2021-01-13T19:54:37.858Z",
       "seriesId": "6026",
       "title": "no art, no life"
     },

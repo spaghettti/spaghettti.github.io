@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-13T19:45:03.693Z</lastUpdated>
+  <lastUpdated>2021-01-13T19:55:03.840Z</lastUpdated>
   <series>
     <count>14</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -139,10 +139,10 @@
     <title>Covid-19: Medical Frontiers</title>
   </series>
   <series>
-    <count>9</count>
-    <uniqueId>1e180bdf5031da76</uniqueId>
-    <lastAiring>2021-01-13T15:30:00.000Z</lastAiring>
-    <lastUpload>2021-01-13T18:05:38.555Z</lastUpload>
+    <count>10</count>
+    <uniqueId>46311af43d5442f3</uniqueId>
+    <lastAiring>2021-01-13T15:40:00.000Z</lastAiring>
+    <lastUpload>2021-01-13T19:50:56.652Z</lastUpload>
     <seriesId>2076,2083,2084,6036</seriesId>
     <title>Culture Crossroads</title>
   </series>
@@ -619,10 +619,10 @@
     <title>NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL</title>
   </series>
   <series>
-    <count>8</count>
+    <count>9</count>
     <uniqueId>da2ed3151c7e82e4</uniqueId>
-    <lastAiring>2021-01-02T02:50:00.000Z</lastAiring>
-    <lastUpload>2021-01-05T05:09:21.549Z</lastUpload>
+    <lastAiring>2021-01-09T02:50:00.000Z</lastAiring>
+    <lastUpload>2021-01-13T19:54:37.858Z</lastUpload>
     <seriesId>6026</seriesId>
     <title>no art, no life</title>
   </series>

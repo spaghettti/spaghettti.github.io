@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T19:45:03.644Z</lastUpdated>
+  <lastUpdated>2021-01-13T19:55:03.783Z</lastUpdated>
   <seriesId>da2ed3151c7e82e4</seriesId>
   <title>no art, no life</title>
+  <episode>
+    <airingId>005</airingId>
+    <content/>
+    <description>Outsider artists like Kenji Azuma are gaining recognition in the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.</description>
+    <endDate>2021-01-09T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/OoogxJjS#i171rntjASgL3iaFPFJvug</link>
+    <recordDateEnd>2021-01-09T02:55:26.008Z</recordDateEnd>
+    <recordDateStart>2021-01-09T02:49:23.004Z</recordDateStart>
+    <seriesId>6026</seriesId>
+    <sha256>c5a6a12ad155aa385c36a37d5464c3fdc68925a9f92ac7f3ce371b515708ead7</sha256>
+    <startDate>2021-01-09T02:50:00.000Z</startDate>
+    <subtitle/>
+    <title>no art, no life</title>
+    <uploadedDate>2021-01-13T19:54:37.858Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>013</airingId>
     <content/>
