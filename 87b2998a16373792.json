@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T05:55:03.298Z",
+  "lastUpdated": "2021-01-13T06:05:03.754Z",
   "seriesId": "2015",
   "title": "Science View",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Science View",
       "uploadedDate": "2021-01-06T09:06:04.430Z",
       "raw": "https://mega.nz/folder/NZgSiKRb#C7FtuqrMdNeY5iA4aZToUg"
+    },
+    {
+      "airingId": "250",
+      "content": "What if you had to live underground with little oxygen and you could never change your job, but you would live to 90 years old without getting sick? Would you accept it? That's how the subject of this episode live. Naked mole rats, native to East Africa, have unique abilities that help them live underground and stave off diseases like cancer. What can these fellow mammals teach us?\n[J-Innovators]\nLuminous Surgical Retractors",
+      "description": "In this episode, we look at naked mole rats. They live underground with little oxygen and work predetermined jobs. But they also live very long lives without ever getting diseases like cancer.",
+      "endDate": "2021-01-12T16:00:00.000Z",
+      "link": "https://mega.nz/folder/eI8k2YDS#Xb7zEjJDgqSx7xemwLulBg",
+      "recordDateEnd": "2021-01-12T16:00:27.235Z",
+      "recordDateStart": "2021-01-12T15:29:22.789Z",
+      "seriesId": "2015",
+      "sha256": "102a95eaf07e29b499edcfbd13a531a54cb608b49ea8c445ee74f4f9ae4c110e",
+      "startDate": "2021-01-12T15:30:00.000Z",
+      "subtitle": "The Naked Mole Rat",
+      "title": "Science View",
+      "uploadedDate": "2021-01-13T06:04:29.464Z"
     }
   ]
 }
