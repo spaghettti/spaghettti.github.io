@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-13T12:10:03.558Z</lastUpdated>
+  <lastUpdated>2021-01-13T12:15:03.992Z</lastUpdated>
   <series>
     <count>14</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -219,10 +219,10 @@
     <title>Document 72 Hours</title>
   </series>
   <series>
-    <count>8</count>
+    <count>9</count>
     <uniqueId>5d6cd359adade3e0</uniqueId>
-    <lastAiring>2021-01-03T12:35:00.000Z</lastAiring>
-    <lastUpload>2021-01-06T07:49:16.767Z</lastUpload>
+    <lastAiring>2021-01-10T11:50:00.000Z</lastAiring>
+    <lastUpload>2021-01-13T12:11:36.365Z</lastUpload>
     <seriesId>2075</seriesId>
     <title>Doki Doki! NHK WORLD-JAPAN</title>
   </series>

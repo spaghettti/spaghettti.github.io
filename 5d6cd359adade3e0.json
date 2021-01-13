@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T12:10:03.413Z",
+  "lastUpdated": "2021-01-13T12:15:03.876Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2021-01-06T07:49:16.767Z",
       "raw": "https://mega.nz/folder/8A0HjCZD#uZyxiNdLAZ1D5jGQHnQeFQ"
+    },
+    {
+      "airingId": "065",
+      "content": "",
+      "description": "This time we introduce \"Japanology Plus,\" which shows behind the scenes of laundry services. Stubborn stains are removed and huge number of shirts are pressed. All are done by crafts and technologies.",
+      "endDate": "2021-01-10T11:55:00.000Z",
+      "link": "https://mega.nz/folder/W8MjiQIR#i51MeGLjF0YcwM8iBzoFhw",
+      "recordDateEnd": "2021-01-10T11:55:28.579Z",
+      "recordDateStart": "2021-01-10T11:49:20.099Z",
+      "seriesId": "2075",
+      "sha256": "b2af2768a2aedbdbc8a01f0185c13f8da2ef6d7c709777f5f004b52b4707fdae",
+      "startDate": "2021-01-10T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2021-01-13T12:11:36.365Z"
     },
     {
       "airingId": "071",
