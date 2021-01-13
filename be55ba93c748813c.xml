@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T17:00:03.882Z</lastUpdated>
+  <lastUpdated>2021-01-13T17:35:03.850Z</lastUpdated>
   <seriesId>be55ba93c748813c</seriesId>
   <title>COOL JAPAN</title>
   <episode>
@@ -67,5 +67,20 @@
     <title>COOL JAPAN</title>
     <uploadedDate>2020-12-29T00:27:45.849Z</uploadedDate>
     <raw>https://mega.nz/folder/vFE3QCwK#zr9hJznvCWTiJN0Xyki7fQ</raw>
+  </episode>
+  <episode>
+    <airingId>247</airingId>
+    <content>Fruits produced in Japan are attracting the world right now. The secret to their popularity is their superior sweetness. In America, Japanese strawberries are cultivated in greenhouses and sold at multiples of the price that they are sold in Japan. Russian tourists take back mountains of strawberries on airplanes as souvenirs. However, foreigners find it strange that Japanese people don't eat the skin of fruits. Our foreign guests report on Japan's dried persimmons, whose popularity in Europe is quickly rising, and the strawberry development wars, in which sweetness and appearance are pursued. Will Japan's fruits become the next flavor of the world?</content>
+    <description>The panelists evaluate the unique customs of enjoying fruits in Japan, including the competitive breeding of superior products, traditional fruit-drying methods, and the habitual peeling of the skins.</description>
+    <endDate>2021-01-09T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/P81CwA7L#I1fTW572UAJI8NurifZOOw</link>
+    <recordDateEnd>2021-01-09T04:55:27.502Z</recordDateEnd>
+    <recordDateStart>2021-01-09T04:09:20.102Z</recordDateStart>
+    <seriesId>4008</seriesId>
+    <sha256>25098459d3ecfbad3860c8863eda915a397cce1c6655cb842c253148ceee1a3a</sha256>
+    <startDate>2021-01-09T04:10:00.000Z</startDate>
+    <subtitle>Fruits</subtitle>
+    <title>COOL JAPAN</title>
+    <uploadedDate>2021-01-13T17:32:34.836Z</uploadedDate>
   </episode>
 </episodeList>
