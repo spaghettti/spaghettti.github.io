@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T16:30:03.815Z",
+  "lastUpdated": "2021-01-13T16:40:03.163Z",
   "seriesId": "2042",
   "title": "RISING",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "RISING",
       "uploadedDate": "2020-12-28T23:42:49.732Z",
       "raw": "https://mega.nz/folder/UUx3SSbL#jbUzaB0zHGW2TYMxdtdZ-Q"
+    },
+    {
+      "airingId": "069",
+      "content": "With 80% of Japan's regional bus routes operating at a loss, Masaru Yajima runs a firm working to revive these vital transport lifelines. GPS and sensors are used to track progress and passenger flow, and this big data is analyzed to optimize routes and departure times. Further innovations like waiting rooms and wholesale local produce at bus stops have helped to attract passengers beyond the typical user base. And this pioneering transport firm is now taking its successful template overseas.",
+      "description": "Masaru Yajima runs a firm using big data and improved service to revive Japan's declining regional bus routes. We follow a Japanese transport pioneer now taking its successful template overseas.",
+      "endDate": "2021-01-09T14:40:00.000Z",
+      "link": "https://mega.nz/folder/29UHVaAB#jjURHbzN8QztpIgilSpcPg",
+      "recordDateEnd": "2021-01-09T14:40:44.509Z",
+      "recordDateStart": "2021-01-09T14:09:20.098Z",
+      "seriesId": "2042",
+      "sha256": "5eac79132a1ccf499fe06d8be8186f33e0da989f773f998b65761be599bd68a7",
+      "startDate": "2021-01-09T14:10:00.000Z",
+      "subtitle": "Big Data Driving a Bus Revolution: Public Transport Innovator - Masaru Yajima",
+      "title": "RISING",
+      "uploadedDate": "2021-01-13T16:38:57.752Z"
     },
     {
       "airingId": "088",
