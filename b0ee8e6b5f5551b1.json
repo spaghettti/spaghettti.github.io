@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T05:45:03.363Z",
+  "lastUpdated": "2021-01-13T05:55:03.571Z",
   "seriesId": "7000",
   "title": "Spirit of Resilience",
   "episodes": [
@@ -50,6 +50,22 @@
       "title": "Spirit of Resilience",
       "uploadedDate": "2021-01-12T05:36:54.640Z",
       "raw": "https://mega.nz/folder/4eoHmADY#rYyma0-sQJeytj74bamUag"
+    },
+    {
+      "airingId": "463",
+      "content": "",
+      "description": "Finding Home in a Fishing Community: Documents a group of young women who found a new home in Kesennuma City and their efforts together with long-time residents in helping the community.",
+      "endDate": "2021-01-13T00:00:00.000Z",
+      "link": "https://mega.nz/folder/iookiYhI#oYkOoKZ3iOrhC6SDn-JZng",
+      "recordDateEnd": "2021-01-13T00:00:29.110Z",
+      "recordDateStart": "2021-01-12T23:29:20.097Z",
+      "seriesId": "7000",
+      "sha256": "4a728c81a46fe3323bfa7c21bf5ec8aae48d379a44a4c2fb25c2c47f07e916d6",
+      "startDate": "2021-01-12T23:30:00.000Z",
+      "subtitle": "Finding Home in a Fishing Community",
+      "title": "Spirit of Resilience",
+      "uploadedDate": "2021-01-13T05:51:24.233Z",
+      "raw": "https://mega.nz/folder/fp8mgQbY#SbEhVrlZPsVSAZX3Ch4geg"
     }
   ]
 }
