@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T05:30:04.005Z</lastUpdated>
+  <lastUpdated>2021-01-13T05:45:03.183Z</lastUpdated>
   <seriesId>5ce8e3dcbf90e5b7</seriesId>
   <title>Side by Side</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>Side by Side</title>
     <uploadedDate>2020-12-24T09:07:23.130Z</uploadedDate>
     <raw>https://mega.nz/folder/eB8gQTpR#GI26LLsb5GSf0SsP-ULKyw</raw>
+  </episode>
+  <episode>
+    <airingId>070</airingId>
+    <content>After struggling to find staff, Akimoto Yoshihiko, owner of a 73-year-old bakery in Tochigi Prefecture, north of Tokyo turned to Japan's Technical Intern Training Program and hired 5 Vietnamese trainees. "It's more than just filling a roster," Akimoto explains. "We want their skills to bear fruit back in Vietnam." One of Akimoto's interns now runs a popular store in Hanoi. Meet the seasoned Japanese bakers eager to pass on their techniques and the dedicated trainees shaping a new future.</content>
+    <description>A Japanese bakery owner hired five interns from Vietnam to learn his techniques and apply them in new bakeries back home. Meet this extraordinary team, working hard to shape a future for themselves.</description>
+    <endDate>2021-01-13T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/SwQ2gBxD#lP2hxlYu89vzC_XFY8UEJQ</link>
+    <recordDateEnd>2021-01-13T02:00:29.813Z</recordDateEnd>
+    <recordDateStart>2021-01-13T01:29:20.103Z</recordDateStart>
+    <seriesId>2037</seriesId>
+    <sha256>218aed8b8c41215898b8e6c27d1f1b468530b25c24f830eeb420858fb0445d60</sha256>
+    <startDate>2021-01-13T01:30:00.000Z</startDate>
+    <subtitle>A Brighter Future Through Baking</subtitle>
+    <title>Side by Side</title>
+    <uploadedDate>2021-01-13T05:42:29.309Z</uploadedDate>
+    <raw>https://mega.nz/folder/wNdQULia#RQ0f4rl0f1u03RVvxF34og</raw>
   </episode>
   <episode>
     <airingId>071</airingId>
