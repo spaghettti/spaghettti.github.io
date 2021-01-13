@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T13:55:02.992Z</lastUpdated>
+  <lastUpdated>2021-01-13T14:05:03.242Z</lastUpdated>
   <seriesId>f03694b92087f911</seriesId>
   <title>J-MELO</title>
   <episode>
@@ -51,5 +51,20 @@
     <title>J-MELO</title>
     <uploadedDate>2020-12-25T00:25:55.364Z</uploadedDate>
     <raw>https://mega.nz/folder/hBIzWAZL#-5s_KIiYa-us4i-niDF_7w</raw>
+  </episode>
+  <episode>
+    <airingId>364</airingId>
+    <content>Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news and video releases!</content>
+    <description>Join May J. for great Japanese music! In the studio this week: singer-songwriter Miyazawa Kazufumi, five-piece all-female hard-rock band BAND-MAID, and six-piece idol group Cho Tokimeki Sendenbu.</description>
+    <endDate>2021-01-10T15:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/NckVHKhB#DLMwi3IhDNUDpb9sVmFXDQ</link>
+    <recordDateEnd>2021-01-10T15:40:43.473Z</recordDateEnd>
+    <recordDateStart>2021-01-10T15:09:20.108Z</recordDateStart>
+    <seriesId>2004</seriesId>
+    <sha256>d2f8da85a73187c390338cf6c2688a57592d6952ea7acc5471f3d5a407eef9fe</sha256>
+    <startDate>2021-01-10T15:10:00.000Z</startDate>
+    <subtitle>Miyazawa Kazufumi, BAND-MAID, and Cho Tokimeki Sendenbu</subtitle>
+    <title>J-MELO</title>
+    <uploadedDate>2021-01-13T14:04:48.231Z</uploadedDate>
   </episode>
 </episodeList>

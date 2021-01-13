@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T13:55:03.002Z",
+  "lastUpdated": "2021-01-13T14:05:03.254Z",
   "seriesId": "2004",
   "title": "J-MELO",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "J-MELO",
       "uploadedDate": "2020-12-25T00:25:55.364Z",
       "raw": "https://mega.nz/folder/hBIzWAZL#-5s_KIiYa-us4i-niDF_7w"
+    },
+    {
+      "airingId": "364",
+      "content": "Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news and video releases!",
+      "description": "Join May J. for great Japanese music! In the studio this week: singer-songwriter Miyazawa Kazufumi, five-piece all-female hard-rock band BAND-MAID, and six-piece idol group Cho Tokimeki Sendenbu.",
+      "endDate": "2021-01-10T15:40:00.000Z",
+      "link": "https://mega.nz/folder/NckVHKhB#DLMwi3IhDNUDpb9sVmFXDQ",
+      "recordDateEnd": "2021-01-10T15:40:43.473Z",
+      "recordDateStart": "2021-01-10T15:09:20.108Z",
+      "seriesId": "2004",
+      "sha256": "d2f8da85a73187c390338cf6c2688a57592d6952ea7acc5471f3d5a407eef9fe",
+      "startDate": "2021-01-10T15:10:00.000Z",
+      "subtitle": "Miyazawa Kazufumi, BAND-MAID, and Cho Tokimeki Sendenbu",
+      "title": "J-MELO",
+      "uploadedDate": "2021-01-13T14:04:48.231Z"
     }
   ]
 }
