@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-13T07:50:03.548Z</lastUpdated>
+  <lastUpdated>2021-01-13T08:00:03.779Z</lastUpdated>
   <series>
     <count>14</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -83,10 +83,10 @@
     <title>BIZ STREAM</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>9c30b4f9ab150e98</uniqueId>
-    <lastAiring>2020-12-05T23:45:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T06:32:58.141Z</lastUpload>
+    <lastAiring>2021-01-11T00:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-13T07:56:50.818Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>BOSAI: Science that Can Save Your Life</title>
   </series>

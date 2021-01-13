@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T07:50:03.441Z",
+  "lastUpdated": "2021-01-13T08:00:03.677Z",
   "seriesId": "3004",
   "title": "BOSAI: Science that Can Save Your Life",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "BOSAI: Science that Can Save Your Life",
       "uploadedDate": "2020-12-26T06:32:58.141Z",
       "raw": "https://mega.nz/folder/LQ8VxIzJ#-gpCug1F2NMHwTIskRGXvg"
+    },
+    {
+      "airingId": "701",
+      "content": "",
+      "description": "When Typhoon Jebi struck Osaka in 2018, strong gusts caused destruction of buildings in unforeseeable ways. We'll look at how urban structures may have intensified the storm's wind.",
+      "endDate": "2021-01-11T00:25:00.000Z",
+      "link": "https://mega.nz/folder/1c1SmQrK#z4Txzg8PoaTPVLVtTJ7KcQ",
+      "recordDateEnd": "2021-01-11T00:25:32.057Z",
+      "recordDateStart": "2021-01-11T00:09:20.123Z",
+      "seriesId": "3004",
+      "sha256": "7293279074f21b9126d44c6e81fefeb5153d141ea0c69e49e67e59ceb40a6edc",
+      "startDate": "2021-01-11T00:10:00.000Z",
+      "subtitle": "#3 URBAN WINDSTORMS",
+      "title": "BOSAI: Science that Can Save Your Life",
+      "uploadedDate": "2021-01-13T07:56:50.818Z"
     }
   ]
 }
