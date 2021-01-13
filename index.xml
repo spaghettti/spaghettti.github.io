@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-13T13:40:03.127Z</lastUpdated>
+  <lastUpdated>2021-01-13T13:55:03.253Z</lastUpdated>
   <series>
     <count>14</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -747,12 +747,12 @@
     <title>Somewhere Street</title>
   </series>
   <series>
-    <count>4</count>
-    <uniqueId>5ddcbdd570129633</uniqueId>
-    <lastAiring>2020-12-05T23:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T08:30:07.710Z</lastUpload>
+    <count>5</count>
+    <uniqueId>8a4476c69fcf9dff</uniqueId>
+    <lastAiring>2021-01-10T16:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-13T13:50:49.159Z</lastUpload>
     <seriesId>6209</seriesId>
-    <title>Somewhere Street mini</title>
+    <title>Somewhere Street</title>
   </series>
   <series>
     <count>3</count>

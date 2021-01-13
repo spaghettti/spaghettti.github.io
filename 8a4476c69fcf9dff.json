@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2021-01-13T13:50:03.438Z",
+  "lastUpdated": "2021-01-13T13:55:03.238Z",
   "seriesId": "6209",
-  "title": "Somewhere Street mini",
+  "title": "Somewhere Street",
   "episodes": [
+    {
+      "airingId": "001",
+      "content": "",
+      "description": "Let's have a short walk around the street in Adelaide, Australia where we will meet the people playing beach volleyball and \"men of the sea\".",
+      "endDate": "2021-01-10T16:25:00.000Z",
+      "link": "https://mega.nz/folder/9ElAhLTB#3ewDCrzKOIYDgqV-zMkzug",
+      "recordDateEnd": "2021-01-10T16:25:29.183Z",
+      "recordDateStart": "2021-01-10T16:09:22.957Z",
+      "seriesId": "6209",
+      "sha256": "ff581c77ab7fe688825d886dfe91d996e356ec0768232078aa2873c91fff280c",
+      "startDate": "2021-01-10T16:10:00.000Z",
+      "subtitle": "",
+      "title": "Somewhere Street A little Stroll",
+      "uploadedDate": "2021-01-13T13:50:49.159Z",
+      "raw": "https://mega.nz/folder/5HpnDQjS#OCSnunEBY7ivM4Q53Lc9NQ"
+    },
     {
       "airingId": "007",
       "content": "",
