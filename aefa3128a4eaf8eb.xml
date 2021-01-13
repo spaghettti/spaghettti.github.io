@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T14:50:03.776Z</lastUpdated>
+  <lastUpdated>2021-01-13T15:05:03.504Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -67,6 +67,21 @@
     <title>Somewhere Street</title>
     <uploadedDate>2020-12-24T09:27:28.463Z</uploadedDate>
     <raw>https://mega.nz/folder/ZA1g3JLQ#NraimKbWEWsl19GkVldMuA</raw>
+  </episode>
+  <episode>
+    <airingId>083</airingId>
+    <content>Home to around 150 Buddhist temples, Vientiane is the capital of Laos. In the 16th century King Setthathirath of the Kingdom of Lanexang built Pha That Luang, considered to be the most beloved Buddhist stupa in Laos. Buddhist philosophies have a powerful impact on the lives of all Laotians and it is believed that men should leave home and experience the life of a monk at least once in their lives. In this episode we explore the rapidly growing city of Vientiane, meeting its residents who passionately uphold their traditions and distinctive culture.</content>
+    <description>Home to about 150 Buddhist temples, Vientiane is the capital of Laos. Buddhist philosophies interlace the lives of all Laotians. In this episode we meet residents who honor the traditions of the city.</description>
+    <endDate>2021-01-10T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/tZ8CzILT#XApUll9oCXyYJu4rzqjmTw</link>
+    <recordDateEnd>2021-01-10T05:00:33.275Z</recordDateEnd>
+    <recordDateStart>2021-01-10T04:09:22.660Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>19a95442b8eb45b4d6c7ff69dbd48fcc2e5c0bcac9bd5bffea684a954b9ac501</sha256>
+    <startDate>2021-01-10T04:10:00.000Z</startDate>
+    <subtitle>Vientiane, Laos</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-01-13T15:01:06.731Z</uploadedDate>
   </episode>
   <episode>
     <airingId>084</airingId>
