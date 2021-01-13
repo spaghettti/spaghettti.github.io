@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T18:10:03.561Z</lastUpdated>
+  <lastUpdated>2021-01-13T19:45:03.614Z</lastUpdated>
   <seriesId>ac0dc75327258b51</seriesId>
   <title>The Professionals</title>
   <episode>
@@ -51,5 +51,21 @@
     <title>The Professionals</title>
     <uploadedDate>2021-01-06T11:31:34.247Z</uploadedDate>
     <raw>https://mega.nz/folder/jdsyGY6I#ekn91ILD-SdiirX4yNYyyw</raw>
+  </episode>
+  <episode>
+    <airingId>143</airingId>
+    <content>53-year-old Iwasa Toru is a chief editor of a popular magazine conveying the appeal of rural Japan. Flooded with requests from across Japan, he works on rebuilding inns and revitalizing towns as "a master of rural restoration" and "a key figure in rural development." Having moved his entire company from Tokyo to a rural village in Niigata Prefecture, Iwasa has been gaining popularity through his approach to work. We follow him over time as he works on a project to revive a long-running inn and the surrounding hot spring town. Iwasa's insight on rural restoration may provide the key to revitalizing Japan as a whole.</content>
+    <description>Iwasa Toru is both the chief editor of a popular magazine, and a constantly-in-demand master of revitalizing rural towns. We take a look at his unique approach to work.</description>
+    <endDate>2021-01-10T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/TJ8g2Jpb#ooB25yDGT7A_B7IfO14Jyg</link>
+    <recordDateEnd>2021-01-10T01:56:11.649Z</recordDateEnd>
+    <recordDateStart>2021-01-10T01:09:20.102Z</recordDateStart>
+    <seriesId>4003</seriesId>
+    <sha256>3fd488860b765717547a62009176b1d9a930f8a55ad20c7b12e9bf330e509935</sha256>
+    <startDate>2021-01-10T01:10:00.000Z</startDate>
+    <subtitle>Starting a Rural Revolution: Iwasa Toru, Editor</subtitle>
+    <title>The Professionals</title>
+    <uploadedDate>2021-01-13T19:42:13.309Z</uploadedDate>
+    <raw>https://mega.nz/folder/2JUhQaDB#2bCpBVCYlu_sxyw7ObB-IA</raw>
   </episode>
 </episodeList>
