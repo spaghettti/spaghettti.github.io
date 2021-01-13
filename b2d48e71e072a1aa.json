@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T15:05:03.435Z",
+  "lastUpdated": "2021-01-13T15:35:02.842Z",
   "seriesId": "2069",
   "title": "Wild Hokkaido!",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Wild Hokkaido!",
       "uploadedDate": "2020-12-24T00:51:08.793Z",
       "raw": "https://mega.nz/folder/1lNE0byB#VrfObeGmIpVUBfM3NTSmig"
+    },
+    {
+      "airingId": "079",
+      "content": "The volcanic Mt. Furanodake rises in the south of the Taisetsu Mountain Range with a diverse environment. The program host sets out on a hike through a deep forest, crossing streams and enjoying beautiful waterfalls. After 2 hours of walking, he reaches an open space. It is a marshland formed by rainwater collecting on top of the lava. Later, we show you some footage of Northern Pika that stores leaves in its den to survive the long winter in an alpine zone, where not many plants are able to grow.",
+      "description": "The volcanic Mt. Furanodake rises with a diverse environment. The program host sets out on a hike through a deep forest, and reaches a marshland formed by rainwater collecting on top of the lava.",
+      "endDate": "2021-01-10T01:00:00.000Z",
+      "link": "https://mega.nz/folder/SI0AiAgI#XDe7uaMxVFgi-GmP3INc9A",
+      "recordDateEnd": "2021-01-10T01:00:31.183Z",
+      "recordDateStart": "2021-01-10T00:44:20.082Z",
+      "seriesId": "2069",
+      "sha256": "c0609316d189b81a3197b9bdccd1fa74cb6622bd51c5e070ecb11ba37b2447f8",
+      "startDate": "2021-01-10T00:45:00.000Z",
+      "subtitle": "Mt. Furanodake in Autumn",
+      "title": "Wild Hokkaido!",
+      "uploadedDate": "2021-01-13T15:34:05.659Z"
     }
   ]
 }
