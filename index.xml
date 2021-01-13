@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-13T07:05:03.759Z</lastUpdated>
+  <lastUpdated>2021-01-13T07:10:03.044Z</lastUpdated>
   <series>
     <count>14</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -913,6 +913,14 @@
     <lastUpload>2021-01-06T08:09:36.384Z</lastUpload>
     <seriesId>2069</seriesId>
     <title>Wild Hokkaido!</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>a133d68b32c28af9</uniqueId>
+    <lastAiring>2021-01-11T01:20:00.000Z</lastAiring>
+    <lastUpload>2021-01-13T07:08:52.367Z</lastUpload>
+    <seriesId>6109</seriesId>
+    <title>Winter Joy</title>
   </series>
   <series>
     <count>22</count>

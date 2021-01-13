@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T07:05:03.764Z",
+  "lastUpdated": "2021-01-13T07:10:03.051Z",
   "series": [
     {
       "count": 14,
@@ -912,6 +912,14 @@
       "lastUpload": "2021-01-06T08:09:36.384Z",
       "seriesId": "2069",
       "title": "Wild Hokkaido!"
+    },
+    {
+      "count": 1,
+      "uniqueId": "a133d68b32c28af9",
+      "lastAiring": "2021-01-11T01:20:00.000Z",
+      "lastUpload": "2021-01-13T07:08:52.367Z",
+      "seriesId": "6109",
+      "title": "Winter Joy"
     },
     {
       "count": 22,
