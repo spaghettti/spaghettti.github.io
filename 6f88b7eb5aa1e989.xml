@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T06:15:03.672Z</lastUpdated>
+  <lastUpdated>2021-01-13T07:05:03.739Z</lastUpdated>
   <seriesId>6f88b7eb5aa1e989</seriesId>
   <title>Dig More Japan</title>
   <episode>
@@ -35,5 +35,20 @@
     <title>Dig More Japan</title>
     <uploadedDate>2020-12-26T01:47:11.836Z</uploadedDate>
     <raw>https://mega.nz/folder/X41SUapD#ZagNqOG9ANrA7OA8j1Lb4w</raw>
+  </episode>
+  <episode>
+    <airingId>020</airingId>
+    <content/>
+    <description>The way Japanese live changes with the times, and so to do the things we use. In this new episode, we will deep look into the world of items used for daily life in Japan.</description>
+    <endDate>2021-01-11T02:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/fNE2GDIA#jkg-JtWBAjK5A0TTVgguLg</link>
+    <recordDateEnd>2021-01-11T02:20:29.819Z</recordDateEnd>
+    <recordDateStart>2021-01-11T02:09:20.131Z</recordDateStart>
+    <seriesId>6122</seriesId>
+    <sha256>55a3cf1ecda904dc3675a69f021f05aced7e96ef70190df648823bfb59875461</sha256>
+    <startDate>2021-01-11T02:10:00.000Z</startDate>
+    <subtitle>Everyday Tradition</subtitle>
+    <title>Dig More Japan</title>
+    <uploadedDate>2021-01-13T07:03:54.692Z</uploadedDate>
   </episode>
 </episodeList>
