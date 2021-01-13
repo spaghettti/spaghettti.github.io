@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T08:35:03.320Z",
+  "lastUpdated": "2021-01-13T08:45:03.729Z",
   "series": [
     {
       "count": 14,
@@ -194,10 +194,10 @@
       "title": "Dining with the Chef"
     },
     {
-      "count": 81,
+      "count": 82,
       "uniqueId": "07d8499767117509",
       "lastAiring": "2021-01-13T04:15:00.000Z",
-      "lastUpload": "2021-01-13T05:23:43.051Z",
+      "lastUpload": "2021-01-13T08:40:31.701Z",
       "seriesId": "2058",
       "title": "Direct Talk"
     },
@@ -426,10 +426,10 @@
       "title": "J-MELO"
     },
     {
-      "count": 29,
+      "count": 30,
       "uniqueId": "afe5ace13e6c293d",
-      "lastAiring": "2020-12-30T23:25:00.000Z",
-      "lastUpload": "2020-12-31T00:51:00.439Z",
+      "lastAiring": "2021-01-10T23:25:00.000Z",
+      "lastUpload": "2021-01-13T08:40:32.558Z",
       "seriesId": "6023",
       "title": "JAPAN FROM ABOVE: UP CLOSE"
     },
