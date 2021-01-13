@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T17:55:03.375Z",
+  "lastUpdated": "2021-01-13T18:10:03.645Z",
   "series": [
     {
       "count": 14,
@@ -138,10 +138,10 @@
       "title": "Covid-19: Medical Frontiers"
     },
     {
-      "count": 8,
+      "count": 9,
       "uniqueId": "1e180bdf5031da76",
-      "lastAiring": "2021-01-06T15:40:00.000Z",
-      "lastUpload": "2021-01-06T16:14:08.110Z",
+      "lastAiring": "2021-01-13T15:30:00.000Z",
+      "lastUpload": "2021-01-13T18:05:38.555Z",
       "seriesId": "2076,2083,2084,6036",
       "title": "Culture Crossroads"
     },
@@ -642,10 +642,10 @@
       "title": "Paprika  Let's dance!"
     },
     {
-      "count": 8,
+      "count": 9,
       "uniqueId": "3bee8422e8005b98",
-      "lastAiring": "2021-01-02T03:55:00.000Z",
-      "lastUpload": "2021-01-05T05:01:27.844Z",
+      "lastAiring": "2021-01-09T03:55:00.000Z",
+      "lastUpload": "2021-01-13T18:07:21.988Z",
       "seriesId": "6021",
       "title": "PythagoraSwitch mini"
     },
