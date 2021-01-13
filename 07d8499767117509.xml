@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T08:55:02.996Z</lastUpdated>
+  <lastUpdated>2021-01-13T09:25:03.616Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T01:22:44.655Z</uploadedDate>
     <raw>https://mega.nz/folder/Zk80nLjD#jzQ-2Lxncf1Ax0gqmqd11g</raw>
+  </episode>
+  <episode>
+    <airingId>490</airingId>
+    <content>Kiko Matthews broke a world record when she rowed solo and unsupported across the Atlantic. It was just 6 months after having brain surgery for a rare illness. She raised thousands of pounds for the hospital that had saved her life.</content>
+    <description>Kiko Matthews from UK broke a world record when she rowed solo across the Atlantic, just 6 months after having brain surgery. She raised thousands of pounds for the hospital that had saved her life.</description>
+    <endDate>2021-01-13T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/TlZwyJpA#XCnQeXiRTy0MafMXZtUgyg</link>
+    <recordDateEnd>2021-01-13T07:30:41.846Z</recordDateEnd>
+    <recordDateStart>2021-01-13T07:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>5c2a929d0bb7780852adbf7c841107b43787f94a731014bafc910ab8ea08aa1e</sha256>
+    <startDate>2021-01-13T07:15:00.000Z</startDate>
+    <subtitle>Breaking a World Record: Kiko Matthews / World Record Ocean Rower</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-13T09:21:54.765Z</uploadedDate>
+    <raw>https://mega.nz/folder/KN0gWbJC#5hp3Mk_k6VTFjH0CVv7c-A</raw>
   </episode>
   <episode>
     <airingId>498</airingId>
