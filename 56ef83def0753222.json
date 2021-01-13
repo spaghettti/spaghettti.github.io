@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T16:25:03.269Z",
+  "lastUpdated": "2021-01-13T16:30:03.978Z",
   "seriesId": "3016,4001",
   "title": "NHK Documentary",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "NHK Documentary",
       "uploadedDate": "2020-12-24T23:55:38.067Z",
       "raw": "https://mega.nz/folder/tFYE1BbZ#rfxKNrVZ4RL-PlTK0gvXGA"
+    },
+    {
+      "airingId": "361",
+      "content": "Hokkaido Prefecture's Shiretoko Peninsula is a UNESCO World Natural Heritage site. The area includes one of the world's densest concentrations of wild brown bears. 84-year-old fisherman Ose Hatsusaburo has forged a remarkable relationship with these creatures over a lifetime of working among them. Bears obey his commands without a fuss, and no fisherman has suffered a bear attack in 50 years. A rapidly shifting climate and recent UNESCO directives mean this unique way of life now faces an uncertain future.",
+      "description": "Hokkaido's Shiretoko Peninsula is home to some 500 brown bears. 84-year-old fisherman Ose Hatsusaburo has built a remarkable relationship with the creatures, one that now faces an uncertain future.",
+      "endDate": "2021-01-09T16:00:00.000Z",
+      "link": "https://mega.nz/folder/rYdDTI7K#SZJzV0Zk1HBhcez8PT3_jQ",
+      "recordDateEnd": "2021-01-09T16:01:02.355Z",
+      "recordDateStart": "2021-01-09T15:09:22.824Z",
+      "seriesId": "4001",
+      "sha256": "6c1d4fdd1ab4e5fca06b9a2ee53d0b435c033b95a84b061ebe9aaa6971f7a7e0",
+      "startDate": "2021-01-09T15:10:00.000Z",
+      "subtitle": "Bearman of Hokkaido",
+      "title": "NHK Documentary",
+      "uploadedDate": "2021-01-13T16:29:44.817Z"
     },
     {
       "airingId": "377",
