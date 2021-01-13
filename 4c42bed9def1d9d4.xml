@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T07:45:04.184Z</lastUpdated>
+  <lastUpdated>2021-01-13T07:50:03.429Z</lastUpdated>
   <seriesId>4c42bed9def1d9d4</seriesId>
   <title>Where We Call Home</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>Where We Call Home</title>
     <uploadedDate>2020-12-24T01:29:22.110Z</uploadedDate>
     <raw>https://mega.nz/folder/7A0SQYSQ#omzm99uDC3VkvABQ6z7o6g</raw>
+  </episode>
+  <episode>
+    <airingId>025</airingId>
+    <content>On this episode, we meet Bhutanese Robin Sharma who works for an agricultural company in Uwa, Ehime Prefecture. Robin has overcome many hardships since he moved to Japan. Now that he's learning advanced farming techniques, he hopes to one day take this know-how back to his homeland. However, he's now facing a new problem. Join us to find out more. We also follow Lkhagva Khanda, a Mongolian native working for a Tokyo architectural firm, as she designs her very first stand-alone house.</content>
+    <description>On this episode, we meet Bhutanese Robin Sharma who works for an agricultural firm in Ehime. Now that he's learning advanced farming techniques, he hopes to one day take his knowhow back to Bhutan.</description>
+    <endDate>2021-01-11T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/W8w3CKbY#5PJZq13IqNqMTRlpemjpfA</link>
+    <recordDateEnd>2021-01-11T02:00:31.357Z</recordDateEnd>
+    <recordDateStart>2021-01-11T01:29:20.027Z</recordDateStart>
+    <seriesId>2087</seriesId>
+    <sha256>871568297481ef1dade5f5cbe7d79e71731ff613b15736c6ec0989a58cbaa52b</sha256>
+    <startDate>2021-01-11T01:30:00.000Z</startDate>
+    <subtitle>Two Countries Linked by Tofu</subtitle>
+    <title>Where We Call Home</title>
+    <uploadedDate>2021-01-13T07:46:56.903Z</uploadedDate>
   </episode>
 </episodeList>
