@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-12T05:40:02.803Z</lastUpdated>
+  <lastUpdated>2021-01-13T05:25:03.506Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -387,6 +387,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-12T05:19:16.669Z</uploadedDate>
     <raw>https://mega.nz/folder/Sss1nCyB#tOIPxn0uP7GNka1F-TMYNQ</raw>
+  </episode>
+  <episode>
+    <airingId>594</airingId>
+    <content/>
+    <description>Apichatpong Weerasethakul directed "Uncle Boonmee Who Can Recall His Past Lives," winning at Cannes in 2010. He connects memories of oneself with society and politics, and is now focusing on Colombia.</description>
+    <endDate>2021-01-13T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/39UQhRAD#Rl1h3mfTAGnTa_mO68FrYg</link>
+    <recordDateEnd>2021-01-13T04:30:31.107Z</recordDateEnd>
+    <recordDateStart>2021-01-13T04:14:20.102Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>faf9d8a5bfb8bc8e6c3f324bcf1c6d732c4a0b79cf7fe0cd7fb6cebb202a92c1</sha256>
+    <startDate>2021-01-13T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-13T05:23:43.051Z</uploadedDate>
   </episode>
   <episode>
     <airingId>615</airingId>

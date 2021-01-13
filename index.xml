@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-12T05:40:02.961Z</lastUpdated>
+  <lastUpdated>2021-01-13T05:25:03.720Z</lastUpdated>
   <series>
-    <count>13</count>
+    <count>14</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
-    <lastAiring>2021-01-06T00:45:00.000Z</lastAiring>
-    <lastUpload>2021-01-06T08:38:51.312Z</lastUpload>
+    <lastAiring>2021-01-13T00:45:00.000Z</lastAiring>
+    <lastUpload>2021-01-13T05:24:04.105Z</lastUpload>
     <seriesId>3019</seriesId>
     <title>15 Minutes</title>
   </series>
@@ -195,10 +195,10 @@
     <title>Dining with the Chef</title>
   </series>
   <series>
-    <count>80</count>
+    <count>81</count>
     <uniqueId>07d8499767117509</uniqueId>
-    <lastAiring>2021-01-12T04:15:00.000Z</lastAiring>
-    <lastUpload>2021-01-12T05:19:16.669Z</lastUpload>
+    <lastAiring>2021-01-13T04:15:00.000Z</lastAiring>
+    <lastUpload>2021-01-13T05:23:43.051Z</lastUpload>
     <seriesId>2058</seriesId>
     <title>Direct Talk</title>
   </series>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-12T05:40:02.877Z</lastUpdated>
+  <lastUpdated>2021-01-13T05:25:03.618Z</lastUpdated>
   <seriesId>c656328a0f33bc89</seriesId>
   <title>15 Minutes</title>
   <episode>
@@ -69,6 +69,22 @@ The Hotel Okura Tokyo is one of Japan's leading hotels. In anticipation of deman
     <title>15 Minutes</title>
     <uploadedDate>2021-01-06T08:36:27.078Z</uploadedDate>
     <raw>https://mega.nz/folder/tZJgHTpb#Dd78QEv2NIYGuxj6VEp-8A</raw>
+  </episode>
+  <episode>
+    <airingId>115</airingId>
+    <content>The coronavirus has changed everything. How can we overcome this crisis? How can we restore our normal lifestyles? In Japan, Tokyo had the largest number of coronavirus infections. In this series, we look inside 3 places in this megacity. Hotels, where many people stay. Schools, where young people gather. And airports, major transportation hubs. We'll bring you insight on how the people in these places are trying to recover.
+This spring, many schools were forced to close due to COVID-19. Jiyu Gakuen in Tokyo is one of them. Since its foundation in 1921, there's been a tradition at this school for students to cook their own lunches. Growing vegetables, cooking together and enjoying a meal with friends, this tradition has become as a place to develop as people through their school life. How will they be able to resume their lives in school? And how will they revive the traditional lunches? We follow the challenges of students and teachers.</content>
+    <description>In Japan, Tokyo had the largest number of coronavirus infections.In this series, we look inside places at risk of spreading infection.This time, we focus on a school, where young people gather.</description>
+    <endDate>2021-01-13T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/aIFgkLAb#fgr1biOH9q7Sdl0imj-WwQ</link>
+    <recordDateEnd>2021-01-13T01:00:26.277Z</recordDateEnd>
+    <recordDateStart>2021-01-13T00:44:20.070Z</recordDateStart>
+    <seriesId>3019</seriesId>
+    <sha256>d52f7a661c1946fb9090da4086cf71ef8c5738481768c5e96926fdadd3865feb</sha256>
+    <startDate>2021-01-13T00:45:00.000Z</startDate>
+    <subtitle>Starting Over: Back to School Part 1</subtitle>
+    <title>15 Minutes</title>
+    <uploadedDate>2021-01-13T05:24:04.105Z</uploadedDate>
   </episode>
   <episode>
     <airingId>116</airingId>

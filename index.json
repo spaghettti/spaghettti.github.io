@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2021-01-12T05:40:02.967Z",
+  "lastUpdated": "2021-01-13T05:25:03.726Z",
   "series": [
     {
-      "count": 13,
+      "count": 14,
       "uniqueId": "c656328a0f33bc89",
-      "lastAiring": "2021-01-06T00:45:00.000Z",
-      "lastUpload": "2021-01-06T08:38:51.312Z",
+      "lastAiring": "2021-01-13T00:45:00.000Z",
+      "lastUpload": "2021-01-13T05:24:04.105Z",
       "seriesId": "3019",
       "title": "15 Minutes"
     },
@@ -194,10 +194,10 @@
       "title": "Dining with the Chef"
     },
     {
-      "count": 80,
+      "count": 81,
       "uniqueId": "07d8499767117509",
-      "lastAiring": "2021-01-12T04:15:00.000Z",
-      "lastUpload": "2021-01-12T05:19:16.669Z",
+      "lastAiring": "2021-01-13T04:15:00.000Z",
+      "lastUpload": "2021-01-13T05:23:43.051Z",
       "seriesId": "2058",
       "title": "Direct Talk"
     },
