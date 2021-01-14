@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-14T01:00:03.818Z</lastUpdated>
+  <lastUpdated>2021-01-14T03:10:03.238Z</lastUpdated>
   <seriesId>509fab78036b7f12</seriesId>
   <title>RISING</title>
   <episode>
@@ -99,6 +99,22 @@
     <title>RISING</title>
     <uploadedDate>2020-12-24T18:03:10.756Z</uploadedDate>
     <raw>https://mega.nz/folder/vBsU3Iqb#SWHCaVk1W03TO34wVsXLzA</raw>
+  </episode>
+  <episode>
+    <airingId>098</airingId>
+    <content>Widespread school closures due to COVID-19 have thrust online learning resources into the spotlight. In Japan, one such service offering a fun introduction to the world of smartphone and computer programming received 10 thousand signups in just one month, with over 600 schools considering integrating it into their curriculum. We follow founder and former supply teacher Mizuno Yusuke's efforts to bring new opportunities to teenagers at a crucial stage in their educational journey.</content>
+    <description>School closures due to COVID-19 have put online learning resources in the spotlight. We follow one such initiative offering Japanese teenagers a fun introduction to the world of digital programming.</description>
+    <endDate>2021-01-14T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/vdMShDDB#F90E9CtiEvEIEzKik8bj9w</link>
+    <recordDateEnd>2021-01-14T02:00:32.583Z</recordDateEnd>
+    <recordDateStart>2021-01-14T01:29:20.102Z</recordDateStart>
+    <seriesId>2042</seriesId>
+    <sha256>1f91c7268bdf4a69c2061fe7638c2b128d419246bdf4ef378b17573f29ca0a8a</sha256>
+    <startDate>2021-01-14T01:30:00.000Z</startDate>
+    <subtitle>Progress through Programming: E-Learning Innovator - Mizuno Yusuke</subtitle>
+    <title>RISING</title>
+    <uploadedDate>2021-01-14T03:09:57.176Z</uploadedDate>
+    <raw>https://mega.nz/folder/xP5gnDJI#LWBtXSxOfqZVaIrHPefQFA</raw>
   </episode>
   <episode>
     <airingId>099</airingId>
