@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-14T18:05:03.144Z</lastUpdated>
+  <lastUpdated>2021-01-14T19:00:03.760Z</lastUpdated>
   <seriesId>b2f243cf934b4de8</seriesId>
   <title>GRAND SUMO Highlights</title>
   <episode>
@@ -195,5 +195,21 @@
     <title>GRAND SUMO Highlights</title>
     <uploadedDate>2021-01-13T20:35:42.886Z</uploadedDate>
     <raw>https://mega.nz/folder/obxjgCzC#KKzwDlolBOj9IITpFo65hA</raw>
+  </episode>
+  <episode>
+    <airingId>395</airingId>
+    <content>The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!</content>
+    <description>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from Jan.14, Day 5 of the Grand Sumo Tournament in Tokyo.</description>
+    <endDate>2021-01-14T16:57:00.000Z</endDate>
+    <link>https://mega.nz/folder/WR0jhajb#L8PmX4HjecfgvPoCa-YiwA</link>
+    <recordDateEnd>2021-01-14T16:57:42.653Z</recordDateEnd>
+    <recordDateStart>2021-01-14T16:29:20.102Z</recordDateStart>
+    <seriesId>2061</seriesId>
+    <sha256>3d97f900025daf9abf741b48de6a610128757ed40ce7e0e8186e4c304d9a0d9d</sha256>
+    <startDate>2021-01-14T16:30:00.000Z</startDate>
+    <subtitle>January Tournament Day 5</subtitle>
+    <title>GRAND SUMO Highlights</title>
+    <uploadedDate>2021-01-14T18:55:40.417Z</uploadedDate>
+    <raw>https://mega.nz/folder/iElHGIgL#UBBkSSbSCWmjGHZKn-pfLQ</raw>
   </episode>
 </episodeList>
