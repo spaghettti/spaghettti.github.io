@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T23:15:04.108Z</lastUpdated>
+  <lastUpdated>2021-01-14T01:00:03.796Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -147,6 +147,22 @@
     <title>Core Kyoto</title>
     <uploadedDate>2020-12-26T05:01:47.459Z</uploadedDate>
     <raw>https://mega.nz/folder/E4URlABB#exg_flmwYQ3Jj6CB1XEVIg</raw>
+  </episode>
+  <episode>
+    <airingId>083</airingId>
+    <content>Tofu arrived from China along with Buddhism over a millennium ago. It further evolved in Japan as an ingredient in Shojin-ryori vegetarian Zen cuisine and in time appeared on the tables of the common folk. The pursuit and refinement of tofu-making and its cooking in the ancient capital produced distinct varieties. The artisans curdle the mix of soybeans and water with bittern to give a taste that is profound in its simplicity and sophistication. Discover the food culture surrounding Kyoto Tofu.</content>
+    <description>Today: Kyoto Tofu, a subtle taste nourished by skill and pride. The ancient capital, Kyoto Pref., continues to be innovative after 1,200 years. We dive deep into its core in this definitive program.</description>
+    <endDate>2021-01-14T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/L9AACBqI#lZFs1T3LNmhbKdyDTCAKuw</link>
+    <recordDateEnd>2021-01-14T00:00:33.663Z</recordDateEnd>
+    <recordDateStart>2021-01-13T23:29:20.087Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>3cd1c55bf902f3db83f02e480559cc340252ec0b19242beca75ce39c0eee2e59</sha256>
+    <startDate>2021-01-13T23:30:00.000Z</startDate>
+    <subtitle>Kyoto Tofu: Subtle Taste Nourished by Skill and Pride</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-01-14T00:56:50.783Z</uploadedDate>
+    <raw>https://mega.nz/folder/kLZQEb4J#Qw66nahpVQDx7_bxQMQ2ow</raw>
   </episode>
   <episode>
     <airingId>108</airingId>
