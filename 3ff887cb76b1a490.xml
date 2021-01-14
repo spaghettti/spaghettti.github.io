@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-14T19:00:03.726Z</lastUpdated>
+  <lastUpdated>2021-01-14T19:10:03.098Z</lastUpdated>
   <seriesId>3ff887cb76b1a490</seriesId>
   <title>Japan Railway Journal</title>
   <episode>
@@ -83,6 +83,22 @@
     <title>Japan Railway Journal</title>
     <uploadedDate>2021-01-08T05:56:17.307Z</uploadedDate>
     <raw>https://mega.nz/folder/M40njS7S#X4U60XmUIadSroOfhJu7aQ</raw>
+  </episode>
+  <episode>
+    <airingId>079</airingId>
+    <content>Railway companies in Japan are shifting toward the use of artificial intelligence and IoT systems to improve services. Responding to the increasing number of retiring railway employees and support staff, Japanese railways are finding new ways to operate, using state-of-the-art technology such as the Yamanote Line's one-button automatic train operation. Join us at "Mass-Trans Innovation Japan 2019" to see what new technologies are being utilized in the ever-evolving railway industry.</content>
+    <description>Japanese railways are shifting toward the use of artificial intelligence and IoT systems to improve services. Join us at "Mass-Trans Innovation Japan" to see what lies ahead for the future of railway.</description>
+    <endDate>2021-01-14T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/FSgWgQ6Y#ie8iZSpFjJycQysfsBcbrg</link>
+    <recordDateEnd>2021-01-14T16:00:43.625Z</recordDateEnd>
+    <recordDateStart>2021-01-14T15:29:20.102Z</recordDateStart>
+    <seriesId>2049</seriesId>
+    <sha256>097ba83bacb0748e6e07f5ed58ad10e24e11493f09e4199d64ea35b09ec92218</sha256>
+    <startDate>2021-01-14T15:30:00.000Z</startDate>
+    <subtitle>New Technology Opening the Future of the Railway</subtitle>
+    <title>Japan Railway Journal</title>
+    <uploadedDate>2021-01-14T19:08:07.714Z</uploadedDate>
+    <raw>https://mega.nz/folder/PckVyQbI#cks6OJFw9x9kACe571Sh9A</raw>
   </episode>
   <episode>
     <airingId>093</airingId>
