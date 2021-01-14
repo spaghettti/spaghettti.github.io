@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-14T08:05:02.884Z</lastUpdated>
+  <lastUpdated>2021-01-14T17:10:02.979Z</lastUpdated>
   <seriesId>054ab52e36a50c36</seriesId>
   <title>CYCLE AROUND JAPAN  Highlights</title>
   <episode>
@@ -99,6 +99,22 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
     <uploadedDate>2021-01-07T15:43:54.211Z</uploadedDate>
     <raw>https://mega.nz/folder/OBEwWRYD#2xKxOLOSarzpOCpTyP25nA</raw>
+  </episode>
+  <episode>
+    <airingId>020</airingId>
+    <content>Historically known as Satsuma, Kagoshima Prefecture was a region famed for producing warrior heroes. This 290km ride takes us via its beautiful coastlines to the active volcano of Sakurajima. On a detour into the mountains, we meet a woman who singlehandedly revived the unique regional craft of Satsuma button making. We also visit modern day swordsmen who train in a tradition directly handed down from the samurai.</content>
+    <description>Discover the samurai spirit in Kagoshima, named Satsuma in ancient times. In contrast to stoic ways of warriors, arts also blossomed here. Join us on a 290km trip as we experience culture of samurai.</description>
+    <endDate>2021-01-14T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/4VMi3ZwK#G_Wk4jCHvOXm9MHto_-NAw</link>
+    <recordDateEnd>2021-01-14T15:00:43.476Z</recordDateEnd>
+    <recordDateStart>2021-01-14T14:29:20.102Z</recordDateStart>
+    <seriesId>2070</seriesId>
+    <sha256>3aba5e8654f003f8f0f0ae5107f350767ea2b7b3d5b43973d320c90c7c016c7d</sha256>
+    <startDate>2021-01-14T14:30:00.000Z</startDate>
+    <subtitle>Kagoshima - Legacy of Determination</subtitle>
+    <title>CYCLE AROUND JAPAN  Highlights</title>
+    <uploadedDate>2021-01-14T17:05:32.790Z</uploadedDate>
+    <raw>https://mega.nz/folder/kM1gwQYZ#tdVxyuPW6kyrUyrKL-oXoQ</raw>
   </episode>
   <episode>
     <airingId>029</airingId>
