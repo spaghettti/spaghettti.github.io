@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-14T04:55:03.651Z",
+  "lastUpdated": "2021-01-14T08:05:02.875Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -144,7 +144,8 @@
       "startDate": "2021-01-14T04:15:00.000Z",
       "subtitle": "",
       "title": "Direct Talk",
-      "uploadedDate": "2021-01-14T04:54:14.981Z"
+      "uploadedDate": "2021-01-14T04:54:14.981Z",
+      "raw": "https://mega.nz/folder/PkV2nBzB#svkhA2hhrIq3lq533nJ_mg"
     },
     {
       "airingId": "548",
@@ -833,6 +834,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-01-12T05:16:36.155Z",
       "raw": "https://mega.nz/folder/3t4UyJrQ#uIE-3KGCIVo3l-8C9Pup0Q"
+    },
+    {
+      "airingId": "662",
+      "content": "Illustrations by Estonian artist Eiko Ojala have appeared in newspapers and magazines worldwide. His gorgeous paper-like graphic designs shine a penetrating light on modern society.",
+      "description": "Illustrations by Estonian artist Eiko Ojala have appeared in newspapers and magazines worldwide. His gorgeous paper-like graphic designs shine a penetrating light on modern society.",
+      "endDate": "2021-01-14T07:30:00.000Z",
+      "link": "https://mega.nz/folder/ldVyGbqD#uNKIHoa1fI9_gcLo1I21Bw",
+      "recordDateEnd": "2021-01-14T07:30:33.897Z",
+      "recordDateStart": "2021-01-14T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "e2a84619f4743837b11e522ea53a07a087c934412794b65a502d2ea0042cb057",
+      "startDate": "2021-01-14T07:15:00.000Z",
+      "subtitle": "Quiet Art Speaks Strongly: Eiko Ojala / Illustrator",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-14T08:01:46.536Z"
     },
     {
       "airingId": "664",
