@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-14T03:10:03.271Z</lastUpdated>
+  <lastUpdated>2021-01-14T04:55:03.632Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -131,6 +131,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T11:56:09.543Z</uploadedDate>
     <raw>https://mega.nz/folder/FVZDxSxS#8HEBR43l_FajFtcEY_vOFw</raw>
+  </episode>
+  <episode>
+    <airingId>542</airingId>
+    <content/>
+    <description>We speak with the director of "Proyecto Hombre" - an NGO providing addiction treatment, mainly for drugs, to 17,000 people per year in Spain - on the true causes and solutions for this modern disease.</description>
+    <endDate>2021-01-14T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/cWwBFQhK#JhqPDHpy00c3kMAmp-9iCA</link>
+    <recordDateEnd>2021-01-14T04:30:28.407Z</recordDateEnd>
+    <recordDateStart>2021-01-14T04:14:20.102Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>65f99de71249da05df4970a610781ea129ec83a10fe2262c43262ddf71aabc24</sha256>
+    <startDate>2021-01-14T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-14T04:54:14.981Z</uploadedDate>
   </episode>
   <episode>
     <airingId>548</airingId>
