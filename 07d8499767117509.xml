@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-15T03:55:03.713Z</lastUpdated>
+  <lastUpdated>2021-01-15T05:00:03.810Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -259,6 +259,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T00:24:31.135Z</uploadedDate>
     <raw>https://mega.nz/folder/5Id3TYzZ#HvKfMwROUp2j5BZdp-r4Gw</raw>
+  </episode>
+  <episode>
+    <airingId>570</airingId>
+    <content/>
+    <description>Open source technology advocate, Wikimedia Foundation CEO Katherine Maher encourages everyone to contribute and share knowledge and information on the free online encyclopedia, Wikipedia.</description>
+    <endDate>2021-01-15T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/AGBFzCyJ#Sy-roW-KtG8Xr__ZAknyAQ</link>
+    <recordDateEnd>2021-01-15T04:30:28.694Z</recordDateEnd>
+    <recordDateStart>2021-01-15T04:14:20.099Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>8dc96ef7bab98f427a1b36ff223dddff328f0a0a4500f4c4d0f9c1ad41329138</sha256>
+    <startDate>2021-01-15T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-15T04:57:15.634Z</uploadedDate>
   </episode>
   <episode>
     <airingId>572</airingId>

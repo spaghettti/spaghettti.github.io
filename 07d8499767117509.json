@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-15T03:55:03.732Z",
+  "lastUpdated": "2021-01-15T05:00:03.836Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -258,6 +258,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-26T00:24:31.135Z",
       "raw": "https://mega.nz/folder/5Id3TYzZ#HvKfMwROUp2j5BZdp-r4Gw"
+    },
+    {
+      "airingId": "570",
+      "content": "",
+      "description": "Open source technology advocate, Wikimedia Foundation CEO Katherine Maher encourages everyone to contribute and share knowledge and information on the free online encyclopedia, Wikipedia.",
+      "endDate": "2021-01-15T04:30:00.000Z",
+      "link": "https://mega.nz/folder/AGBFzCyJ#Sy-roW-KtG8Xr__ZAknyAQ",
+      "recordDateEnd": "2021-01-15T04:30:28.694Z",
+      "recordDateStart": "2021-01-15T04:14:20.099Z",
+      "seriesId": "2058",
+      "sha256": "8dc96ef7bab98f427a1b36ff223dddff328f0a0a4500f4c4d0f9c1ad41329138",
+      "startDate": "2021-01-15T04:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-15T04:57:15.634Z"
     },
     {
       "airingId": "572",
