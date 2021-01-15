@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-14T19:10:03.302Z</lastUpdated>
+  <lastUpdated>2021-01-15T01:05:03.479Z</lastUpdated>
   <series>
     <count>14</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -771,10 +771,10 @@
     <title>SONGS OF TOKYO</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>b0ee8e6b5f5551b1</uniqueId>
-    <lastAiring>2021-01-12T23:30:00.000Z</lastAiring>
-    <lastUpload>2021-01-13T05:51:24.233Z</lastUpload>
+    <lastAiring>2021-01-14T23:30:00.000Z</lastAiring>
+    <lastUpload>2021-01-15T01:03:29.704Z</lastUpload>
     <seriesId>7000</seriesId>
     <title>Spirit of Resilience</title>
   </series>

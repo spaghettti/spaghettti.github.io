@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-14T19:10:03.287Z</lastUpdated>
+  <lastUpdated>2021-01-15T01:05:03.466Z</lastUpdated>
   <seriesId>b0ee8e6b5f5551b1</seriesId>
   <title>Spirit of Resilience</title>
   <episode>
@@ -67,5 +67,20 @@
     <title>Spirit of Resilience</title>
     <uploadedDate>2021-01-13T05:51:24.233Z</uploadedDate>
     <raw>https://mega.nz/folder/fp8mgQbY#SbEhVrlZPsVSAZX3Ch4geg</raw>
+  </episode>
+  <episode>
+    <airingId>464</airingId>
+    <content/>
+    <description>City Past, Winemaking Future: Documents young former urbanites working to build a future in winemaking with a strong desire to bring Japanese wine to a whole new level.</description>
+    <endDate>2021-01-15T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/dSJHGCRQ#urG6xMcUj8g7-k8HjiTWZA</link>
+    <recordDateEnd>2021-01-15T00:00:33.867Z</recordDateEnd>
+    <recordDateStart>2021-01-14T23:29:20.086Z</recordDateStart>
+    <seriesId>7000</seriesId>
+    <sha256>127ffc802a30eef46c139ee4f179816e40eb44041eefa080e546f270fb25d43d</sha256>
+    <startDate>2021-01-14T23:30:00.000Z</startDate>
+    <subtitle>City Past, Winemaking Future</subtitle>
+    <title>Spirit of Resilience</title>
+    <uploadedDate>2021-01-15T01:03:29.704Z</uploadedDate>
   </episode>
 </episodeList>
