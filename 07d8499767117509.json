@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2021-01-15T05:00:03.836Z",
+  "lastUpdated": "2021-01-15T08:05:03.157Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
+    {
+      "airingId": "446",
+      "content": "Lee So-hyun, the founder of a company supporting people with autism, looks forward to a time when autistic individuals are accepted, feel comfortable, and can fully play their part in society.",
+      "description": "Lee So-hyun, the founder of a company supporting people with autism, looks forward to a time when individuals with autism are accepted, feel comfortable, and can fully play their part in society.",
+      "endDate": "2021-01-15T07:30:00.000Z",
+      "link": "https://mega.nz/folder/jBtQFBpS#vQBmKfsIlwK93mTL4R3ixA",
+      "recordDateEnd": "2021-01-15T07:30:32.020Z",
+      "recordDateStart": "2021-01-15T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "296b2c864b9cdb416091a2d8fde0ab32d87be773a8bc7c68a54390603f12c3ca",
+      "startDate": "2021-01-15T07:15:00.000Z",
+      "subtitle": "Co-Existing With Autism in Society: Lee So-hyun / Founder of Autistar",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-15T08:04:05.979Z"
+    },
     {
       "airingId": "472",
       "content": "",
@@ -272,7 +287,8 @@
       "startDate": "2021-01-15T04:15:00.000Z",
       "subtitle": "",
       "title": "Direct Talk",
-      "uploadedDate": "2021-01-15T04:57:15.634Z"
+      "uploadedDate": "2021-01-15T04:57:15.634Z",
+      "raw": "https://mega.nz/folder/BXAT0CZa#qGkuBeABWH3WtnAXucMWBQ"
     },
     {
       "airingId": "572",
