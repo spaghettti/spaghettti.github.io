@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-16T21:25:03.323Z</lastUpdated>
+  <lastUpdated>2021-01-16T21:30:03.246Z</lastUpdated>
   <seriesId>9b58eae3ebc3f6b6</seriesId>
   <title>Sumopedia</title>
   <episode>
@@ -98,5 +98,6 @@
     <subtitle/>
     <title>Sumopedia</title>
     <uploadedDate>2021-01-16T21:23:40.024Z</uploadedDate>
+    <raw>https://mega.nz/folder/0boiXKrI#UiRUYDxN6pJMNYkX0_iFSg</raw>
   </episode>
 </episodeList>

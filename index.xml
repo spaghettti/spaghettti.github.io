@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-16T21:25:03.461Z</lastUpdated>
+  <lastUpdated>2021-01-16T21:30:03.414Z</lastUpdated>
   <series>
     <count>14</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -243,10 +243,10 @@
     <title>Drainspotters</title>
   </series>
   <series>
-    <count>9</count>
+    <count>10</count>
     <uniqueId>b60ca341c528e0e4</uniqueId>
-    <lastAiring>2021-01-09T04:55:00.000Z</lastAiring>
-    <lastUpload>2021-01-13T16:21:28.578Z</lastUpload>
+    <lastAiring>2021-01-16T04:25:00.000Z</lastAiring>
+    <lastUpload>2021-01-16T21:27:00.657Z</lastUpload>
     <seriesId>6022</seriesId>
     <title>Easy Japanese</title>
   </series>
