@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-16T21:40:03.423Z</lastUpdated>
+  <lastUpdated>2021-01-16T21:45:04.145Z</lastUpdated>
   <seriesId>da2ed3151c7e82e4</seriesId>
   <title>no art, no life</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>no art, no life</title>
     <uploadedDate>2021-01-13T19:54:37.858Z</uploadedDate>
     <raw>https://mega.nz/folder/3wxGVCTY#tlSMzZu5L7NaOeIetG19uQ</raw>
+  </episode>
+  <episode>
+    <airingId>006</airingId>
+    <content/>
+    <description>Outsider artists like Shun Yonaha are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.</description>
+    <endDate>2021-01-16T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/l6oUECJK#OsNsAQ17Bd49d2InzQ7kVw</link>
+    <recordDateEnd>2021-01-16T02:55:23.533Z</recordDateEnd>
+    <recordDateStart>2021-01-16T02:49:20.030Z</recordDateStart>
+    <seriesId>6026</seriesId>
+    <sha256>9377e75fd451e5aee3212521553c9ad6d5488ee4a907b84443bc81c2cd9128e1</sha256>
+    <startDate>2021-01-16T02:50:00.000Z</startDate>
+    <subtitle/>
+    <title>no art, no life</title>
+    <uploadedDate>2021-01-16T21:40:32.875Z</uploadedDate>
   </episode>
   <episode>
     <airingId>013</airingId>
