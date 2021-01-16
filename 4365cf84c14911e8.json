@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2020-12-28T22:20:02.557Z",
+  "lastUpdated": "2021-01-16T22:20:03.666Z",
   "seriesId": "2074,3004",
   "title": "BIZ STREAM",
   "episodes": [
@@ -16,7 +16,8 @@
       "startDate": "2020-11-17T20:00:00.000Z",
       "subtitle": "Pandemic Pushes Bus Tours Online",
       "title": "BIZ STREAM",
-      "uploadedDate": "2020-12-26T08:17:28.000Z"
+      "uploadedDate": "2020-12-26T08:17:28.000Z",
+      "raw": "https://mega.nz/folder/DItBkaIZ#NsKIZUAHDk8nqimVHeZ93Q"
     },
     {
       "airingId": "086",
@@ -47,7 +48,8 @@
       "startDate": "2020-12-05T14:10:00.000Z",
       "subtitle": "Designing for Disabilities",
       "title": "BIZ STREAM",
-      "uploadedDate": "2020-12-26T08:17:25.549Z"
+      "uploadedDate": "2020-12-26T08:17:25.549Z",
+      "raw": "https://mega.nz/folder/y48F0ABI#2fsfVovlaP1N8aWmnk4AXQ"
     },
     {
       "airingId": "088",
@@ -80,6 +82,21 @@
       "title": "BIZ STREAM",
       "uploadedDate": "2020-12-26T07:31:26.489Z",
       "raw": "https://mega.nz/folder/718AyaSb#ymDDQ35jr4NzQEqhPm-f5w"
+    },
+    {
+      "airingId": "090",
+      "content": "[On-Site Report]\nThe Japanese government has recently pledged to become carbon neutral by 2050. Experts say that hydrogen will be one of the keys to achieving this goal. This episode features a company in northern Japan that is using cow manure to produce hydrogen, and a local government project that is providing local businesses with electricity that was generated using hydrogen produced from plastic waste.\n[In Depth: Companies Pitch for Future at Virtual CES]\nCES, the world's largest tech trade show, moved completely online due to the coronavirus. The breathtaking innovations unveiled at the event indicate that companies are thinking about how we live and work during the pandemic.\n[Global Trends: A Walk in the Digital Forest]\nJapan is leading in the new field of health care known as \"forest therapy.\" Specially-trained guides show stressed-out people how to best absorb nature. For those who cannot make it to the forest, a digital version is available in the form of an immersive theater experience.",
+      "description": "This episode features a company that is turning livestock waste into hydrogen and a local government's plan to produce electricity using hydrogen made from plastic waste.",
+      "endDate": "2021-01-16T14:40:00.000Z",
+      "link": "https://mega.nz/folder/HtkUUTZT#hxDXcfLgrgdvKMyU7zfxwg",
+      "recordDateEnd": "2021-01-16T14:40:28.707Z",
+      "recordDateStart": "2021-01-16T14:09:20.102Z",
+      "seriesId": "2074",
+      "sha256": "3806a302956dc534afa2afa81b212ddbe96098926e43cba6fd1196f1b929519a",
+      "startDate": "2021-01-16T14:10:00.000Z",
+      "subtitle": "Japan Looks to Hydrogen Energy",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2021-01-16T22:18:42.663Z"
     },
     {
       "airingId": "704",
@@ -160,6 +177,86 @@
       "title": "BIZ STREAM ",
       "uploadedDate": "2020-12-25T15:57:46.156Z",
       "raw": "https://mega.nz/folder/6l802CDS#2asu-7sNLEODKnlrmlWs6A"
+    },
+    {
+      "airingId": "709",
+      "content": "[BIZ STREAM SPECIAL EDITION]\nThis series of special editions feature selected stories from BIZ STREAM's signature \"On-Site\" reports. This episode examines how technology could play a key role in saving Japan's struggling agriculture industry. One company is drawing attention for its AI-driven robots, which are assisting farmers with harvesting produce. Another business is hoping that its online matching service will bring much needed short-term workers from across the country to assist farmers in need of support.",
+      "description": "Japan is facing a major lack of farmers. This special edition explores how an online matching service and specially designed harvesting robots may be the key to saving the agriculture industry.",
+      "endDate": "2020-12-28T02:23:00.000Z",
+      "link": "https://mega.nz/folder/NVZSWTYB#ML4lOJC4-Lg21gPjuwpO3w",
+      "recordDateEnd": "2020-12-28T02:23:32.396Z",
+      "recordDateStart": "2020-12-28T02:09:20.098Z",
+      "seriesId": "3004",
+      "sha256": "512c11b48d860453314c3ab4c55a6e1b0e0b90c16e249698809aca397e6bf963",
+      "startDate": "2020-12-28T02:10:00.000Z",
+      "subtitle": "Solving Farmer Shortage with Technology",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2020-12-28T22:24:43.411Z",
+      "raw": "https://mega.nz/folder/1lFQRRKT#GzxNBWPpb704NsiK6X5wEA"
+    },
+    {
+      "airingId": "710",
+      "content": "[BIZ STREAM SPECIAL EDITION]\nThis series of special editions feature selected stories from BIZ STREAM's signature \"On-Site\" reports. \"Clean Water and Sanitation\" is one of the 17 sustainable development goals set forth by the United Nations. This episode features 2 Japanese companies that have made it their mission to find ways to conserve on water usage. One company has created a recycling system that makes up to 98% of household water reusable, and the other has developed an automated cultivation system that uses solar heat to grow crops with small amounts of water.",
+      "description": "This special edition of Biz Stream features Japanese companies that are developing new water conserving technologies for both domestic and agricultural use.",
+      "endDate": "2020-12-29T02:23:00.000Z",
+      "link": "https://mega.nz/folder/UkkTXCrB#O-2ZFKs1EGT0_Le3LiyhZw",
+      "recordDateEnd": "2020-12-29T02:23:33.144Z",
+      "recordDateStart": "2020-12-29T02:09:20.048Z",
+      "seriesId": "3004",
+      "sha256": "56b4dd241a0744a7b14dfa6f01e44f13012987e841508897d70a929431199a2e",
+      "startDate": "2020-12-29T02:10:00.000Z",
+      "subtitle": "Making Every Drop Count",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2020-12-29T05:45:43.404Z",
+      "raw": "https://mega.nz/folder/G0lFiIbK#kVp-j9IlN7gR6brT8DzF-w"
+    },
+    {
+      "airingId": "711",
+      "content": "[BIZ STREAM SPECIAL EDITION]\nThis series of special editions feature selected stories from BIZ STREAM's signature \"On-Site\" reports. This episode looks at how unintended results and accidental discoveries during the research and development process can sometimes lead to new applications. We feature cold storage technology that was developed during research on liquid crystal displays and a porous odor adsorbent carbon material which was created while trying to improve lithium-ion battery performance.",
+      "description": "From cold storage technology to odor absorbent material, this special edition of Biz Stream looks at how unintended results during the research and development process can lead to new applications.",
+      "endDate": "2020-12-30T02:23:00.000Z",
+      "link": "https://mega.nz/folder/sg9XRC4R#sV7UWN3qT-9rrMAJ5Agf_A",
+      "recordDateEnd": "2020-12-30T02:23:31.326Z",
+      "recordDateStart": "2020-12-30T02:09:20.119Z",
+      "seriesId": "3004",
+      "sha256": "1539608d47c4f875e9870f38cc8c0a6915ee61eb2fffb5a9907aa1fb89acea4e",
+      "startDate": "2020-12-30T02:10:00.000Z",
+      "subtitle": "Adventitious Advances in R&D",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2020-12-30T04:11:49.387Z",
+      "raw": "https://mega.nz/folder/q01zRIQA#ht65uBWWnOD0Kd0DVhv42w"
+    },
+    {
+      "airingId": "712",
+      "content": "[BIZ STREAM SPECIAL EDITION]\nThis series of special editions feature selected stories from BIZ STREAM's signature \"On-Site\" reports. This episode focuses on how the pandemic has forced a local bus tour company to take its business online in order to survive. Participants are sent food and drinks from the tour destination in advance and are able to enjoy them while watching and listening to the tour conductor from the comfort of their homes. Realizing that these virtual tours can allow customers to join from anywhere in the world, the tour company has also created tours for foreign clients.",
+      "description": "This special edition of Biz Stream examines how a small bus tour company that saw its core business threatened by the pandemic was able to adapt and survive by taking its popular guided tours online.",
+      "endDate": "2020-12-31T02:23:00.000Z",
+      "link": "https://mega.nz/folder/RFVWSDwR#wvw2714nMYr4_oXIwrK5-g",
+      "recordDateEnd": "2020-12-31T02:23:30.400Z",
+      "recordDateStart": "2020-12-31T02:09:20.099Z",
+      "seriesId": "3004",
+      "sha256": "9b1455ad21d7a6de3a3e5518744992720df4e62a9e21b99b019374cc2ed536bc",
+      "startDate": "2020-12-31T02:10:00.000Z",
+      "subtitle": "Pandemic Pushes Bus Tours Online",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2021-01-06T11:37:10.101Z",
+      "raw": "https://mega.nz/folder/WgkQCBaA#un2lnFdxT9XMc760kv7g-w"
+    },
+    {
+      "airingId": "713",
+      "content": "[BIZ STREAM SPECIAL EDITION]\nThis series of special editions feature selected stories from BIZ STREAM's signature \"On-Site\" reports. A hospitality company that operates a chain of shipping container hotels across Japan has made its rooms available to local governments for use as portable \"rescue hotels.\" Elsewhere, a truck repair business is now equipping containers with solar-powered generators to create emergency response units that can instantly provide local areas with a much-needed boost to infrastructure during times of trouble. This episode focuses on how shipping containers can be used as a tool to bolster Japan's emergency response capabilities.",
+      "description": "From earthquakes to typhoons, Japan is prone to a variety of natural disasters. This special edition shows how shipping containers may help bolster the country's emergency response capabilities.",
+      "endDate": "2021-01-01T02:23:00.000Z",
+      "link": "https://mega.nz/folder/y8903LQR#8lEH3noXVEgNFPNBKAiemw",
+      "recordDateEnd": "2021-01-01T02:23:33.511Z",
+      "recordDateStart": "2021-01-01T02:09:20.098Z",
+      "seriesId": "3004",
+      "sha256": "ffb6714917f621b259ddb1b1b8bcce63487e084ffbd07761f503211954a898b2",
+      "startDate": "2021-01-01T02:10:00.000Z",
+      "subtitle": "Shipping Containers to the Rescue",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2021-01-01T04:24:08.303Z",
+      "raw": "https://mega.nz/folder/FIsXgAzB#fYrTV4Ozu5AmrWNm3t1i8A"
     }
   ]
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2020-12-28T22:20:02.556Z</lastUpdated>
+  <lastUpdated>2021-01-16T22:20:03.664Z</lastUpdated>
   <seriesId>4365cf84c14911e8</seriesId>
   <title>BIZ STREAM</title>
   <episode>
@@ -23,6 +23,7 @@ In China, being seen as a cheapskate can bring shame. But that has been changing
     <subtitle>Pandemic Pushes Bus Tours Online</subtitle>
     <title>BIZ STREAM</title>
     <uploadedDate>2020-12-26T08:17:28.000Z</uploadedDate>
+    <raw>https://mega.nz/folder/DItBkaIZ#NsKIZUAHDk8nqimVHeZ93Q</raw>
   </episode>
   <episode>
     <airingId>086</airingId>
@@ -64,6 +65,7 @@ The popularity of Japan as a tourist destination had been growing steadily in th
     <subtitle>Designing for Disabilities</subtitle>
     <title>BIZ STREAM</title>
     <uploadedDate>2020-12-26T08:17:25.549Z</uploadedDate>
+    <raw>https://mega.nz/folder/y48F0ABI#2fsfVovlaP1N8aWmnk4AXQ</raw>
   </episode>
   <episode>
     <airingId>088</airingId>
@@ -106,6 +108,26 @@ A growing number of companies in Sweden are finding success in sustainability. W
     <title>BIZ STREAM</title>
     <uploadedDate>2020-12-26T07:31:26.489Z</uploadedDate>
     <raw>https://mega.nz/folder/718AyaSb#ymDDQ35jr4NzQEqhPm-f5w</raw>
+  </episode>
+  <episode>
+    <airingId>090</airingId>
+    <content>[On-Site Report]
+The Japanese government has recently pledged to become carbon neutral by 2050. Experts say that hydrogen will be one of the keys to achieving this goal. This episode features a company in northern Japan that is using cow manure to produce hydrogen, and a local government project that is providing local businesses with electricity that was generated using hydrogen produced from plastic waste.
+[In Depth: Companies Pitch for Future at Virtual CES]
+CES, the world's largest tech trade show, moved completely online due to the coronavirus. The breathtaking innovations unveiled at the event indicate that companies are thinking about how we live and work during the pandemic.
+[Global Trends: A Walk in the Digital Forest]
+Japan is leading in the new field of health care known as "forest therapy." Specially-trained guides show stressed-out people how to best absorb nature. For those who cannot make it to the forest, a digital version is available in the form of an immersive theater experience.</content>
+    <description>This episode features a company that is turning livestock waste into hydrogen and a local government's plan to produce electricity using hydrogen made from plastic waste.</description>
+    <endDate>2021-01-16T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/HtkUUTZT#hxDXcfLgrgdvKMyU7zfxwg</link>
+    <recordDateEnd>2021-01-16T14:40:28.707Z</recordDateEnd>
+    <recordDateStart>2021-01-16T14:09:20.102Z</recordDateStart>
+    <seriesId>2074</seriesId>
+    <sha256>3806a302956dc534afa2afa81b212ddbe96098926e43cba6fd1196f1b929519a</sha256>
+    <startDate>2021-01-16T14:10:00.000Z</startDate>
+    <subtitle>Japan Looks to Hydrogen Energy</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2021-01-16T22:18:42.663Z</uploadedDate>
   </episode>
   <episode>
     <airingId>704</airingId>
@@ -191,5 +213,90 @@ This series of special editions feature selected stories from BIZ STREAM's signa
     <title>BIZ STREAM </title>
     <uploadedDate>2020-12-25T15:57:46.156Z</uploadedDate>
     <raw>https://mega.nz/folder/6l802CDS#2asu-7sNLEODKnlrmlWs6A</raw>
+  </episode>
+  <episode>
+    <airingId>709</airingId>
+    <content>[BIZ STREAM SPECIAL EDITION]
+This series of special editions feature selected stories from BIZ STREAM's signature "On-Site" reports. This episode examines how technology could play a key role in saving Japan's struggling agriculture industry. One company is drawing attention for its AI-driven robots, which are assisting farmers with harvesting produce. Another business is hoping that its online matching service will bring much needed short-term workers from across the country to assist farmers in need of support.</content>
+    <description>Japan is facing a major lack of farmers. This special edition explores how an online matching service and specially designed harvesting robots may be the key to saving the agriculture industry.</description>
+    <endDate>2020-12-28T02:23:00.000Z</endDate>
+    <link>https://mega.nz/folder/NVZSWTYB#ML4lOJC4-Lg21gPjuwpO3w</link>
+    <recordDateEnd>2020-12-28T02:23:32.396Z</recordDateEnd>
+    <recordDateStart>2020-12-28T02:09:20.098Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>512c11b48d860453314c3ab4c55a6e1b0e0b90c16e249698809aca397e6bf963</sha256>
+    <startDate>2020-12-28T02:10:00.000Z</startDate>
+    <subtitle>Solving Farmer Shortage with Technology</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2020-12-28T22:24:43.411Z</uploadedDate>
+    <raw>https://mega.nz/folder/1lFQRRKT#GzxNBWPpb704NsiK6X5wEA</raw>
+  </episode>
+  <episode>
+    <airingId>710</airingId>
+    <content>[BIZ STREAM SPECIAL EDITION]
+This series of special editions feature selected stories from BIZ STREAM's signature "On-Site" reports. "Clean Water and Sanitation" is one of the 17 sustainable development goals set forth by the United Nations. This episode features 2 Japanese companies that have made it their mission to find ways to conserve on water usage. One company has created a recycling system that makes up to 98% of household water reusable, and the other has developed an automated cultivation system that uses solar heat to grow crops with small amounts of water.</content>
+    <description>This special edition of Biz Stream features Japanese companies that are developing new water conserving technologies for both domestic and agricultural use.</description>
+    <endDate>2020-12-29T02:23:00.000Z</endDate>
+    <link>https://mega.nz/folder/UkkTXCrB#O-2ZFKs1EGT0_Le3LiyhZw</link>
+    <recordDateEnd>2020-12-29T02:23:33.144Z</recordDateEnd>
+    <recordDateStart>2020-12-29T02:09:20.048Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>56b4dd241a0744a7b14dfa6f01e44f13012987e841508897d70a929431199a2e</sha256>
+    <startDate>2020-12-29T02:10:00.000Z</startDate>
+    <subtitle>Making Every Drop Count</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2020-12-29T05:45:43.404Z</uploadedDate>
+    <raw>https://mega.nz/folder/G0lFiIbK#kVp-j9IlN7gR6brT8DzF-w</raw>
+  </episode>
+  <episode>
+    <airingId>711</airingId>
+    <content>[BIZ STREAM SPECIAL EDITION]
+This series of special editions feature selected stories from BIZ STREAM's signature "On-Site" reports. This episode looks at how unintended results and accidental discoveries during the research and development process can sometimes lead to new applications. We feature cold storage technology that was developed during research on liquid crystal displays and a porous odor adsorbent carbon material which was created while trying to improve lithium-ion battery performance.</content>
+    <description>From cold storage technology to odor absorbent material, this special edition of Biz Stream looks at how unintended results during the research and development process can lead to new applications.</description>
+    <endDate>2020-12-30T02:23:00.000Z</endDate>
+    <link>https://mega.nz/folder/sg9XRC4R#sV7UWN3qT-9rrMAJ5Agf_A</link>
+    <recordDateEnd>2020-12-30T02:23:31.326Z</recordDateEnd>
+    <recordDateStart>2020-12-30T02:09:20.119Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>1539608d47c4f875e9870f38cc8c0a6915ee61eb2fffb5a9907aa1fb89acea4e</sha256>
+    <startDate>2020-12-30T02:10:00.000Z</startDate>
+    <subtitle>Adventitious Advances in R&amp;D</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2020-12-30T04:11:49.387Z</uploadedDate>
+    <raw>https://mega.nz/folder/q01zRIQA#ht65uBWWnOD0Kd0DVhv42w</raw>
+  </episode>
+  <episode>
+    <airingId>712</airingId>
+    <content>[BIZ STREAM SPECIAL EDITION]
+This series of special editions feature selected stories from BIZ STREAM's signature "On-Site" reports. This episode focuses on how the pandemic has forced a local bus tour company to take its business online in order to survive. Participants are sent food and drinks from the tour destination in advance and are able to enjoy them while watching and listening to the tour conductor from the comfort of their homes. Realizing that these virtual tours can allow customers to join from anywhere in the world, the tour company has also created tours for foreign clients.</content>
+    <description>This special edition of Biz Stream examines how a small bus tour company that saw its core business threatened by the pandemic was able to adapt and survive by taking its popular guided tours online.</description>
+    <endDate>2020-12-31T02:23:00.000Z</endDate>
+    <link>https://mega.nz/folder/RFVWSDwR#wvw2714nMYr4_oXIwrK5-g</link>
+    <recordDateEnd>2020-12-31T02:23:30.400Z</recordDateEnd>
+    <recordDateStart>2020-12-31T02:09:20.099Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>9b1455ad21d7a6de3a3e5518744992720df4e62a9e21b99b019374cc2ed536bc</sha256>
+    <startDate>2020-12-31T02:10:00.000Z</startDate>
+    <subtitle>Pandemic Pushes Bus Tours Online</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2021-01-06T11:37:10.101Z</uploadedDate>
+    <raw>https://mega.nz/folder/WgkQCBaA#un2lnFdxT9XMc760kv7g-w</raw>
+  </episode>
+  <episode>
+    <airingId>713</airingId>
+    <content>[BIZ STREAM SPECIAL EDITION]
+This series of special editions feature selected stories from BIZ STREAM's signature "On-Site" reports. A hospitality company that operates a chain of shipping container hotels across Japan has made its rooms available to local governments for use as portable "rescue hotels." Elsewhere, a truck repair business is now equipping containers with solar-powered generators to create emergency response units that can instantly provide local areas with a much-needed boost to infrastructure during times of trouble. This episode focuses on how shipping containers can be used as a tool to bolster Japan's emergency response capabilities.</content>
+    <description>From earthquakes to typhoons, Japan is prone to a variety of natural disasters. This special edition shows how shipping containers may help bolster the country's emergency response capabilities.</description>
+    <endDate>2021-01-01T02:23:00.000Z</endDate>
+    <link>https://mega.nz/folder/y8903LQR#8lEH3noXVEgNFPNBKAiemw</link>
+    <recordDateEnd>2021-01-01T02:23:33.511Z</recordDateEnd>
+    <recordDateStart>2021-01-01T02:09:20.098Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>ffb6714917f621b259ddb1b1b8bcce63487e084ffbd07761f503211954a898b2</sha256>
+    <startDate>2021-01-01T02:10:00.000Z</startDate>
+    <subtitle>Shipping Containers to the Rescue</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2021-01-01T04:24:08.303Z</uploadedDate>
+    <raw>https://mega.nz/folder/FIsXgAzB#fYrTV4Ozu5AmrWNm3t1i8A</raw>
   </episode>
 </episodeList>
