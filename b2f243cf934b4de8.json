@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-16T21:45:04.065Z",
+  "lastUpdated": "2021-01-16T22:10:03.283Z",
   "seriesId": "2061",
   "title": "GRAND SUMO Highlights",
   "episodes": [
@@ -210,6 +210,22 @@
       "title": "GRAND SUMO Highlights",
       "uploadedDate": "2021-01-14T18:55:40.417Z",
       "raw": "https://mega.nz/folder/iElHGIgL#UBBkSSbSCWmjGHZKn-pfLQ"
+    },
+    {
+      "airingId": "397",
+      "content": "The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!",
+      "description": "NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from Jan.16, Day 7 of the Grand Sumo Tournament in Tokyo.",
+      "endDate": "2021-01-16T16:57:00.000Z",
+      "link": "https://mega.nz/folder/LE1hyQwK#aMyRAHJb1PXDfLYGrgH_BA",
+      "recordDateEnd": "2021-01-16T16:57:29.237Z",
+      "recordDateStart": "2021-01-16T16:29:20.132Z",
+      "seriesId": "2061",
+      "sha256": "ebbc10f5d93cdb8cc35a6dfcf2a4e0be594c9911eadff226f1036529cee95800",
+      "startDate": "2021-01-16T16:30:00.000Z",
+      "subtitle": "January Tournament Day 7",
+      "title": "GRAND SUMO Highlights",
+      "uploadedDate": "2021-01-16T22:08:16.961Z",
+      "raw": "https://mega.nz/folder/kShTSYYT#5Y4VCBz6dby8rIwxqemkfQ"
     }
   ]
 }
