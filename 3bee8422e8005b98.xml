@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-16T21:30:03.337Z</lastUpdated>
+  <lastUpdated>2021-01-16T21:40:03.415Z</lastUpdated>
   <seriesId>3bee8422e8005b98</seriesId>
   <title>PythagoraSwitch mini</title>
   <episode>
@@ -147,5 +147,20 @@
     <title>PythagoraSwitch mini</title>
     <uploadedDate>2021-01-13T18:07:21.988Z</uploadedDate>
     <raw>https://mega.nz/folder/oIdzVYra#iZoGuesFFB6j66LTSpsfPQ</raw>
+  </episode>
+  <episode>
+    <airingId>024</airingId>
+    <content/>
+    <description>There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time "Nendore Nandore Mr. Clay!"...</description>
+    <endDate>2021-01-16T04:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/574ExCrK#4mlXbiNWui18jkLXRtT68g</link>
+    <recordDateEnd>2021-01-16T04:00:28.168Z</recordDateEnd>
+    <recordDateStart>2021-01-16T03:54:20.100Z</recordDateStart>
+    <seriesId>6021</seriesId>
+    <sha256>9aa1a02143e8b61d3895de3290ddfb7832e4d5fa8178817e612eb0f74aeccf34</sha256>
+    <startDate>2021-01-16T03:55:00.000Z</startDate>
+    <subtitle/>
+    <title>PythagoraSwitch mini</title>
+    <uploadedDate>2021-01-16T21:35:18.153Z</uploadedDate>
   </episode>
 </episodeList>
