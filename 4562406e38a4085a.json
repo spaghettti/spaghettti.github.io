@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-16T22:40:03.478Z",
+  "lastUpdated": "2021-01-17T00:30:03.170Z",
   "seriesId": "2019",
   "title": "Dining with the Chef",
   "episodes": [
@@ -178,6 +178,21 @@
       "title": "Dining with the Chef",
       "uploadedDate": "2020-12-26T02:05:00.008Z",
       "raw": "https://mega.nz/folder/8tUwzJrC#a7GroPo1-oKeP6bBCUUXrQ"
+    },
+    {
+      "airingId": "253",
+      "content": "Learn about easy, delicious and healthy cooking with Chef Rika! Featured recipes: (1) Korokke (Camembert cheese, canned sardine, kabocha squash), (2) Bean sprout and bell pepper salad. These 3 kinds of Korokke are quick and easy to prepare!",
+      "description": "Today's recipe: (1) Korokke (Camembert cheese, Canned Sardines, Kabocha Squash) (2) Bean sprout and Bell pepper Salad.",
+      "endDate": "2021-01-15T15:00:00.000Z",
+      "link": "https://mega.nz/folder/4qhC0AzY#Zz5meAnUfdmZV0XnX0hCEA",
+      "recordDateEnd": "2021-01-15T15:00:34.700Z",
+      "recordDateStart": "2021-01-15T14:29:20.178Z",
+      "seriesId": "2019",
+      "sha256": "d32964ef3cf8544de5344870ceb62c959abd59ab89b212042a04f80af329c181",
+      "startDate": "2021-01-15T14:30:00.000Z",
+      "subtitle": "Rika's TOKYO CUISINE: Korokke Trio",
+      "title": "Dining with the Chef",
+      "uploadedDate": "2021-01-17T00:28:56.838Z"
     },
     {
       "airingId": "254",
