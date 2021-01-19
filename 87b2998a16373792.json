@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T16:25:02.894Z",
+  "lastUpdated": "2021-01-19T17:25:02.695Z",
   "seriesId": "2015",
   "title": "Science View",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "Science View",
       "uploadedDate": "2021-01-13T06:04:29.464Z",
       "raw": "https://mega.nz/folder/mpxWUAIL#M3xgQA2P4WZEltr_wNH90Q"
+    },
+    {
+      "airingId": "251",
+      "content": "New research on imperceptibly low-energy earthquakes known as \"slow slips\" has revealed some surprising longer-term patterns in the seismic activity leading up to devastating earthquakes. This episode explains how slow slips occur, the patterns they display, and recent technology that allows GPS measurements of them from underwater seismic monitoring stations directly on the tectonic plate involved.\n[J-Innovators]\nQuake-resistant Pipe Retrofittings",
+      "description": "Low-energy earthquakes known as \"slow slips\" display longer-term patterns of seismic activity leading up to devastating earthquakes. They may foretell, trigger, and even strengthen major quakes.",
+      "endDate": "2021-01-19T16:00:00.000Z",
+      "link": "https://mega.nz/folder/6ItyRJIS#MgnxyPlzQhPDl_xi_4jIxw",
+      "recordDateEnd": "2021-01-19T16:00:29.266Z",
+      "recordDateStart": "2021-01-19T15:29:22.884Z",
+      "seriesId": "2015",
+      "sha256": "5ea1a4e4f31f8219854e8530a8b188bfee6332fbdaccf558fe458503bcd252f0",
+      "startDate": "2021-01-19T15:30:00.000Z",
+      "subtitle": "Slow Slip Earthquakes",
+      "title": "Science View",
+      "uploadedDate": "2021-01-19T17:21:10.137Z"
     }
   ]
 }
