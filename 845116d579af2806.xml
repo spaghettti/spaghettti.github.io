@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T09:30:04.203Z</lastUpdated>
+  <lastUpdated>2021-01-19T16:25:02.967Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -156,5 +156,22 @@ This time, our theme is moss. In some countries, it is regarded almost as a weed
     <title>Japanology Plus</title>
     <uploadedDate>2021-01-13T06:11:57.455Z</uploadedDate>
     <raw>https://mega.nz/folder/200iEAKT#eNQfvXUfuqMGzYpqZz7DaQ</raw>
+  </episode>
+  <episode>
+    <airingId>228</airingId>
+    <content>*First broadcast on January 19, 2021.
+Japan's libraries are cornerstones of their communities. Besides loaning out books, they promote local culture, support young people and offer a place to relax. This time, our theme is libraries. Our main guest, Professor Tamura Shigeru of the University of Nagano, talks about how they have evolved in recent years, in response to demographic and legal changes. And in Plus One, we take a look at some unusual regional libraries.</content>
+    <description>Libraries. Cornerstones of Japanese communities. Each time, Peter Barakan visits the key locations, and meets experts with fascinating cultural insights.</description>
+    <endDate>2021-01-19T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Cd92RJaK#2HkFpPLO5TUDUpEzkD6Jmw</link>
+    <recordDateEnd>2021-01-19T15:00:32.617Z</recordDateEnd>
+    <recordDateStart>2021-01-19T14:29:20.098Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>b3ab892dedd8b1271d150ba62809c7c4a4575121fc6f59c3cc55972a02433e15</sha256>
+    <startDate>2021-01-19T14:30:00.000Z</startDate>
+    <subtitle>Libraries</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-01-19T16:20:51.501Z</uploadedDate>
+    <raw>https://mega.nz/folder/IIw0gboJ#PyZvbSTQRIOLoGcTvClXbw</raw>
   </episode>
 </episodeList>

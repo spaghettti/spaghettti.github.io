@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T09:30:04.205Z",
+  "lastUpdated": "2021-01-19T16:25:02.970Z",
   "seriesId": "2032",
   "title": "Japanology Plus",
   "episodes": [
@@ -146,6 +146,22 @@
       "title": "Japanology Plus",
       "uploadedDate": "2021-01-13T06:11:57.455Z",
       "raw": "https://mega.nz/folder/200iEAKT#eNQfvXUfuqMGzYpqZz7DaQ"
+    },
+    {
+      "airingId": "228",
+      "content": "*First broadcast on January 19, 2021.\nJapan's libraries are cornerstones of their communities. Besides loaning out books, they promote local culture, support young people and offer a place to relax. This time, our theme is libraries. Our main guest, Professor Tamura Shigeru of the University of Nagano, talks about how they have evolved in recent years, in response to demographic and legal changes. And in Plus One, we take a look at some unusual regional libraries.",
+      "description": "Libraries. Cornerstones of Japanese communities. Each time, Peter Barakan visits the key locations, and meets experts with fascinating cultural insights.",
+      "endDate": "2021-01-19T15:00:00.000Z",
+      "link": "https://mega.nz/folder/Cd92RJaK#2HkFpPLO5TUDUpEzkD6Jmw",
+      "recordDateEnd": "2021-01-19T15:00:32.617Z",
+      "recordDateStart": "2021-01-19T14:29:20.098Z",
+      "seriesId": "2032",
+      "sha256": "b3ab892dedd8b1271d150ba62809c7c4a4575121fc6f59c3cc55972a02433e15",
+      "startDate": "2021-01-19T14:30:00.000Z",
+      "subtitle": "Libraries",
+      "title": "Japanology Plus",
+      "uploadedDate": "2021-01-19T16:20:51.501Z",
+      "raw": "https://mega.nz/folder/IIw0gboJ#PyZvbSTQRIOLoGcTvClXbw"
     }
   ]
 }
