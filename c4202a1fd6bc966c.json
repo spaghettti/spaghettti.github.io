@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T04:50:03.270Z",
+  "lastUpdated": "2021-01-19T05:30:04.010Z",
   "seriesId": "2081",
   "title": "GRAND SUMO LIVE",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "GRAND SUMO LIVE",
       "uploadedDate": "2021-01-13T14:47:11.832Z",
       "raw": "https://mega.nz/folder/G48DAa4T#9v1yAaAyIQglkBsXqAH37g"
+    },
+    {
+      "airingId": "032",
+      "content": "",
+      "description": "NHK WORLD-JAPAN broadcasts GRAND SUMO January Tournament Day 8 action live from the Kokugikan Sumo Stadium in Ryogoku, Tokyo, as top wrestlers reach the halfway point of the 15-day contest.",
+      "endDate": "2021-01-17T09:00:00.000Z",
+      "link": "https://mega.nz/folder/LBlyyYaB#Hsc9TSfljVZRGqoOzdui-Q",
+      "recordDateEnd": "2021-01-17T09:00:26.093Z",
+      "recordDateStart": "2021-01-17T08:09:20.125Z",
+      "seriesId": "2081",
+      "sha256": "8450eaae61b307588c8db36e863e4c411c9b14c0c77535376efa07fd1fd3fffa",
+      "startDate": "2021-01-17T08:10:00.000Z",
+      "subtitle": "January Tournament Day 8 (Halfway Point)",
+      "title": "GRAND SUMO LIVE",
+      "uploadedDate": "2021-01-19T05:29:45.521Z"
     }
   ]
 }
