@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T03:05:03.717Z",
+  "lastUpdated": "2021-01-19T03:15:04.243Z",
   "seriesId": "2087",
   "title": "Where We Call Home",
   "episodes": [
@@ -130,6 +130,22 @@
       "title": "Where We Call Home",
       "uploadedDate": "2021-01-13T07:46:56.903Z",
       "raw": "https://mega.nz/folder/cU8kQQID#jCyUjIt_4ZNbIO4afXFKvg"
+    },
+    {
+      "airingId": "026",
+      "content": "This episode takes us to Akita Prefecture, where Polish-born Michal Taberski runs a sausage and ham manufacturing business. To give back to the region's people who helped him achieve success, he mixes local products into his own and collaborates with a high school to foster the new generation that will ensure a future for Akita's declining meat industry. We also visit a horse-race track in Kochi Prefecture to meet Yerdy Bravo, a groom working hard training horses to support his family back in his native Venezuela.",
+      "description": "Polish-born Michal Taberski is a sausage manufacturer in Akita. We follow his efforts to help the region's declining meat industry and to give back to the local people who helped him achieve success.",
+      "endDate": "2021-01-18T02:00:00.000Z",
+      "link": "https://mega.nz/folder/IO5QHCKZ#-DD7f4WWAFtO3S6JdllhUg",
+      "recordDateEnd": "2021-01-18T02:00:31.156Z",
+      "recordDateStart": "2021-01-18T01:29:20.135Z",
+      "seriesId": "2087",
+      "sha256": "ff738ae43fe7257156e511d42848f93082825885f2d4d2d64af53d1293ba0055",
+      "startDate": "2021-01-18T01:30:00.000Z",
+      "subtitle": "A Meaty Thanks to Akita",
+      "title": "Where We Call Home",
+      "uploadedDate": "2021-01-19T03:11:09.456Z",
+      "raw": "https://mega.nz/folder/AahAySRT#o7S4cDeCsInnHH-FjP0rag"
     }
   ]
 }
