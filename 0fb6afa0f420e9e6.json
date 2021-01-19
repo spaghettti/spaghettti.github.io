@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T07:30:04.259Z",
+  "lastUpdated": "2021-01-19T07:40:03.343Z",
   "seriesId": "6116",
   "title": "Little Charo",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "Little Charo",
       "uploadedDate": "2021-01-13T20:06:52.016Z",
       "raw": "https://mega.nz/folder/LdlUjL5b#TYs0BDmWLOtSa2TcEaLljw"
+    },
+    {
+      "airingId": "042",
+      "content": "",
+      "description": "This program is an animation series about a Japanese dog, Charo. He meets and is helped by many mythical creatures of Northern Japan as he searches for eight star talismans. Tohoku series 1-2.",
+      "endDate": "2021-01-16T02:50:00.000Z",
+      "link": "https://mega.nz/folder/dA4zTYZZ#tXb5CuARDcvyns6JmBgbDA",
+      "recordDateEnd": "2021-01-16T02:50:33.092Z",
+      "recordDateStart": "2021-01-16T02:39:20.124Z",
+      "seriesId": "6116",
+      "sha256": "12ff3eb4198c311a52aa496ff9fbaecb8d3888ac399def12d25404d8457e13dc",
+      "startDate": "2021-01-16T02:40:00.000Z",
+      "subtitle": "",
+      "title": "Little Charo",
+      "uploadedDate": "2021-01-19T07:37:24.860Z"
     }
   ]
 }
