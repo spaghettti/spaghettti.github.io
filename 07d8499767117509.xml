@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T09:10:03.891Z</lastUpdated>
+  <lastUpdated>2021-01-19T09:30:04.247Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -499,6 +499,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-19T01:48:22.345Z</uploadedDate>
     <raw>https://mega.nz/folder/6YtwgITK#b163nFmM3wXqtpuHE47r0A</raw>
+  </episode>
+  <episode>
+    <airingId>596</airingId>
+    <content>Shin-ai-Juku is a Japanese NPO that's been providing support for foreigners living in Japan for over 40 years. Chief Director Mariko Takekawa talks about what's happening on the ground.</content>
+    <description>Shin-ai-Juku is a Japanese NPO that has been providing support for foreigners living in Japan for over 40 years. Chief Director Mariko Takekawa talks about what's happening on the ground.</description>
+    <endDate>2021-01-19T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/gERiwbDb#2yQ0jsnh-TLPuawHdwUIww</link>
+    <recordDateEnd>2021-01-19T07:30:32.536Z</recordDateEnd>
+    <recordDateStart>2021-01-19T07:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>ad3908f7e14fe38ea0438a6f35ed57d28989986dbcd67497526f6930803d1376</sha256>
+    <startDate>2021-01-19T07:15:00.000Z</startDate>
+    <subtitle>Supporting Foreign Residents: Mariko Takekawa / Chief Director, Consultation Education For Foreign Residents "Shin-ai-Juku"</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-19T09:29:14.050Z</uploadedDate>
+    <raw>https://mega.nz/folder/zBVS0Z6S#eIlbKIhJ2pOTEueOipYVng</raw>
   </episode>
   <episode>
     <airingId>615</airingId>
