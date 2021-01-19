@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T05:50:03.764Z",
+  "lastUpdated": "2021-01-19T05:55:03.823Z",
   "seriesId": "2069",
   "title": "Wild Hokkaido!",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "Wild Hokkaido!",
       "uploadedDate": "2021-01-13T15:34:05.659Z",
       "raw": "https://mega.nz/folder/ZEkyVabD#_RpgAKTfCKgfxp9Twy9alg"
+    },
+    {
+      "airingId": "080",
+      "content": "Our stage this time is Lake Furen which is connected to the Sea of Okhotsk in eastern Hokkaido Prefecture. It is a brackish lake with a circumference of 65km. The program host canoes down the river that flows into the lake, and enjoys watching white-tailed eagles and other birds. In the marshland facing the sea, he also observes sika deer at close range. Later, we show you some footage of red-crowned cranes raising their young by the lake where tide ebbs and flows, as well as red fox feeding on fish left on the tidal flats.",
+      "description": "Lake Furen is a brackish lake which is connected to the Sea of Okhotsk in eastern Hokkaido. The program host canoes down the river that flows into the lake, and enjoys watching birds.",
+      "endDate": "2021-01-17T01:00:00.000Z",
+      "link": "https://mega.nz/folder/NV5QHCiJ#TBRgq7y1Hv-aL0pcFu8EnA",
+      "recordDateEnd": "2021-01-17T01:00:29.723Z",
+      "recordDateStart": "2021-01-17T00:44:20.023Z",
+      "seriesId": "2069",
+      "sha256": "54ec8c4a0c3d5213d48975fcb6666140e9cfc0bd4a1c9f6620238b4ccdcaf547",
+      "startDate": "2021-01-17T00:45:00.000Z",
+      "subtitle": "Lake Furen in Autumn",
+      "title": "Wild Hokkaido!",
+      "uploadedDate": "2021-01-19T05:54:34.382Z"
     }
   ]
 }

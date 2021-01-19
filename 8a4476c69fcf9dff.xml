@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T05:50:03.870Z</lastUpdated>
+  <lastUpdated>2021-01-19T05:55:03.929Z</lastUpdated>
   <seriesId>8a4476c69fcf9dff</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>Somewhere Street mini</title>
     <uploadedDate>2020-12-24T08:26:53.840Z</uploadedDate>
     <raw>https://mega.nz/folder/D1VmVRpS#HfW08YsFIlSQ2D7XKAcnvw</raw>
+  </episode>
+  <episode>
+    <airingId>009</airingId>
+    <content/>
+    <description>Nuku'alofa is the capital of Tonga, an island country and the only kingdom in Oceania. Its name means "abode of love." It is a city surrounded by the calm sea, where people share such kindheartedness.</description>
+    <endDate>2021-01-17T04:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/BXxCAK7B#JMsEfsiFBDR4aY6LWqMKnw</link>
+    <recordDateEnd>2021-01-17T04:25:33.076Z</recordDateEnd>
+    <recordDateStart>2021-01-17T04:09:20.133Z</recordDateStart>
+    <seriesId>6209</seriesId>
+    <sha256>c4d754c18219c27f3a8f81eb25d99065ffed761d2a226cd1f0b08d5e5c467f43</sha256>
+    <startDate>2021-01-17T04:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Somewhere Street mini</title>
+    <uploadedDate>2021-01-19T05:52:19.490Z</uploadedDate>
+    <raw>https://mega.nz/folder/yYtEnKAS#-sDqx5TlX4z-Dw6tc3YbrQ</raw>
   </episode>
   <episode>
     <airingId>015</airingId>
