@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T03:15:04.123Z</lastUpdated>
+  <lastUpdated>2021-01-19T03:30:03.280Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -51,6 +51,21 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2020-12-24T16:30:07.683Z</uploadedDate>
     <raw>https://mega.nz/folder/6IEyULTC#4WNfofw8PD71ZQXdvf7NcQ</raw>
+  </episode>
+  <episode>
+    <airingId>090</airingId>
+    <content>Tsukemono is a simple food made by pickling vegetables and other ingredients in seasonings such as salt and vinegar. It started as a preserved food, and some are made by fermentation. It is never the main dish, but is an essential part of the Japanese diet. Every region has its own special tsukemono. Tsukemono can be enjoyed not only for its taste, but also for its flavor, color and the sound it makes when chewed. We take a journey of tsukemono around Japan.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history. Today: Tsukemono: Japan's Pickled Soul Food.</description>
+    <endDate>2021-01-18T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/jc9xiSgZ#G52P2eSQ7FohLwrKdet0RA</link>
+    <recordDateEnd>2021-01-18T00:00:31.358Z</recordDateEnd>
+    <recordDateStart>2021-01-17T23:29:20.125Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>79a87e84427cb6482a6a3e24ea371845626a64e7376b85f88784af5faa80b287</sha256>
+    <startDate>2021-01-17T23:30:00.000Z</startDate>
+    <subtitle>Tsukemono: Japan's Pickled Soul Food</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-01-19T03:25:29.990Z</uploadedDate>
   </episode>
   <episode>
     <airingId>094</airingId>
