@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T02:40:03.350Z</lastUpdated>
+  <lastUpdated>2021-01-19T02:55:03.182Z</lastUpdated>
   <seriesId>96934130ea8f6060</seriesId>
   <title>We, in the Time of Corona</title>
   <episode>
@@ -147,5 +147,20 @@
     <title>We, in the Time of Corona</title>
     <uploadedDate>2020-12-28T22:33:43.070Z</uploadedDate>
     <raw>https://mega.nz/folder/kJwHTQ7T#H61vlnZ1SiApilrInEy86A</raw>
+  </episode>
+  <episode>
+    <airingId>040</airingId>
+    <content>Fashion designer Agnès b. has long supported artists and continued various social activities. She talks about how the coronavirus pandemic affected her and the fashion industry.</content>
+    <description>Fashion designer Agnes b. has long supported artists and continued various social activities. She talks about how the coronavirus pandemic affected her and the fashion industry.</description>
+    <endDate>2021-01-17T23:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/LIcV1IJY#Us0n8N0Brt2gXl177MutwA</link>
+    <recordDateEnd>2021-01-17T23:20:32.567Z</recordDateEnd>
+    <recordDateStart>2021-01-17T23:14:20.128Z</recordDateStart>
+    <seriesId>6033</seriesId>
+    <sha256>a61cc8c01dd7018c2f9917b6d3ac25879758bc45efeabc5a0203e51a0fdcdebd</sha256>
+    <startDate>2021-01-17T23:15:00.000Z</startDate>
+    <subtitle>Agnès b., Fashion Designer</subtitle>
+    <title>We, in the Time of Corona</title>
+    <uploadedDate>2021-01-19T02:54:08.354Z</uploadedDate>
   </episode>
 </episodeList>
