@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T03:45:03.410Z",
+  "lastUpdated": "2021-01-19T03:50:03.346Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2020-12-25T18:24:42.184Z",
       "raw": "https://mega.nz/folder/FY02HQhK#c7ElfPVO0TcNANKIwCOr0Q"
+    },
+    {
+      "airingId": "076",
+      "content": "",
+      "description": "This time we introduce \"Journeys in Japan.\" The traveler visits Tsugaru in Aomori prefecture trying to play the part of the hero in \"Jikabuki,\" the local Kabuki produced and played by local people.",
+      "endDate": "2021-01-17T11:55:00.000Z",
+      "link": "https://mega.nz/folder/WZNE0LoC#fz95AIJiKyRUtwV3vW0MtQ",
+      "recordDateEnd": "2021-01-17T11:55:30.635Z",
+      "recordDateStart": "2021-01-17T11:49:20.125Z",
+      "seriesId": "2075",
+      "sha256": "100551c756b32561f3d24fa9a807f90ca1e191a8fe19d99301e71bc854c24793",
+      "startDate": "2021-01-17T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2021-01-19T03:46:28.212Z"
     }
   ]
 }
