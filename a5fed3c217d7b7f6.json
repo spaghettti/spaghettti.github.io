@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T07:40:03.288Z",
+  "lastUpdated": "2021-01-19T08:25:03.544Z",
   "seriesId": "4002",
   "title": "Today's Close-Up",
   "episodes": [
@@ -98,6 +98,22 @@
       "title": "Today's Close-Up",
       "uploadedDate": "2020-12-24T15:56:28.169Z",
       "raw": "https://mega.nz/folder/tcdkFLJK#_M94VSUIXlovR_YnQ5m5mg"
+    },
+    {
+      "airingId": "814",
+      "content": "Japan is currently experiencing a sharp spike in coronavirus infections, leading the government to declare a second state of emergency. Hospital beds are filling up and in one case, a patient was rejected by 24 emergency care facilities. At the same time, new strains from around the world present the threat of a further surge. We take a look at how experts are using the latest data and technology to avoid a worst-case scenario.\nGuest: \nHamada Atsuo (Professor, Tokyo Medical University)\n*Today's Close-Up will continue to report on COVID-19.",
+      "description": "As coronavirus strains from around the world threaten an unprecedented surge in cases, experts in Japan are struggling to come up with adequate preventive measures. We take a look at their efforts.",
+      "endDate": "2021-01-15T16:00:00.000Z",
+      "link": "https://mega.nz/folder/vyoilYQb#fDX93qgb-3VxhdDMQ5MDtQ",
+      "recordDateEnd": "2021-01-15T16:00:24.414Z",
+      "recordDateStart": "2021-01-15T15:29:24.216Z",
+      "seriesId": "4002",
+      "sha256": "34e1798501ca961286f609e1166f2b9d3ee6334efe94508ff2309474f08c64e1",
+      "startDate": "2021-01-15T15:30:00.000Z",
+      "subtitle": "How to Prevent Worst-Case COVID-19 Surge: Latest Findings Provide the Key",
+      "title": "Today's Close-Up",
+      "uploadedDate": "2021-01-19T08:23:08.423Z",
+      "raw": "https://mega.nz/folder/eI0AxQoI#y65ja-PIE3FRznf-hN3avw"
     }
   ]
 }

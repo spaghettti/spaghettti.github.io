@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T07:40:03.288Z</lastUpdated>
+  <lastUpdated>2021-01-19T08:25:03.543Z</lastUpdated>
   <seriesId>a5fed3c217d7b7f6</seriesId>
   <title>Today's Close-Up</title>
   <episode>
@@ -116,5 +116,24 @@ Terazono Junya (Former member, Hayabusa project team)</content>
     <title>Today's Close-Up</title>
     <uploadedDate>2020-12-24T15:56:28.169Z</uploadedDate>
     <raw>https://mega.nz/folder/tcdkFLJK#_M94VSUIXlovR_YnQ5m5mg</raw>
+  </episode>
+  <episode>
+    <airingId>814</airingId>
+    <content>Japan is currently experiencing a sharp spike in coronavirus infections, leading the government to declare a second state of emergency. Hospital beds are filling up and in one case, a patient was rejected by 24 emergency care facilities. At the same time, new strains from around the world present the threat of a further surge. We take a look at how experts are using the latest data and technology to avoid a worst-case scenario.
+Guest: 
+Hamada Atsuo (Professor, Tokyo Medical University)
+*Today's Close-Up will continue to report on COVID-19.</content>
+    <description>As coronavirus strains from around the world threaten an unprecedented surge in cases, experts in Japan are struggling to come up with adequate preventive measures. We take a look at their efforts.</description>
+    <endDate>2021-01-15T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/vyoilYQb#fDX93qgb-3VxhdDMQ5MDtQ</link>
+    <recordDateEnd>2021-01-15T16:00:24.414Z</recordDateEnd>
+    <recordDateStart>2021-01-15T15:29:24.216Z</recordDateStart>
+    <seriesId>4002</seriesId>
+    <sha256>34e1798501ca961286f609e1166f2b9d3ee6334efe94508ff2309474f08c64e1</sha256>
+    <startDate>2021-01-15T15:30:00.000Z</startDate>
+    <subtitle>How to Prevent Worst-Case COVID-19 Surge: Latest Findings Provide the Key</subtitle>
+    <title>Today's Close-Up</title>
+    <uploadedDate>2021-01-19T08:23:08.423Z</uploadedDate>
+    <raw>https://mega.nz/folder/eI0AxQoI#y65ja-PIE3FRznf-hN3avw</raw>
   </episode>
 </episodeList>
