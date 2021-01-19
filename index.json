@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T02:55:03.226Z",
+  "lastUpdated": "2021-01-19T03:00:03.666Z",
   "series": [
     {
       "count": 14,
@@ -218,10 +218,10 @@
       "title": "Doctor's Insight"
     },
     {
-      "count": 9,
+      "count": 10,
       "uniqueId": "3181d5ae26726a28",
-      "lastAiring": "2021-01-12T01:30:00.000Z",
-      "lastUpload": "2021-01-12T04:35:04.360Z",
+      "lastAiring": "2021-01-19T01:30:00.000Z",
+      "lastUpload": "2021-01-19T02:56:30.135Z",
       "seriesId": "4026",
       "title": "Document 72 Hours"
     },

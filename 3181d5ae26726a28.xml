@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T02:55:03.139Z</lastUpdated>
+  <lastUpdated>2021-01-19T03:00:03.582Z</lastUpdated>
   <seriesId>3181d5ae26726a28</seriesId>
   <title>Document 72 Hours</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Document 72 Hours</title>
     <uploadedDate>2021-01-06T09:19:30.516Z</uploadedDate>
     <raw>https://mega.nz/folder/HF8SlC7J#7nMhfWj4Q-wazcvb3_rInA</raw>
+  </episode>
+  <episode>
+    <airingId>109</airingId>
+    <content>In a quiet mountain town in Kumamoto Prefecture, there's a flight of 3,333 stone steps. Measuring 2.1 kilometers, it's the longest in Japan and takes the average adult about 90 minutes to climb. The steps attract people who want to put themselves through a strenuous challenge for various reasons. One group of university students makes the climb knowing they will go their separate ways after graduation. An elderly beautician takes on the steps with apprentices who are like sons to him. Some visitors go up and down several times a day. With anguished looks and trembling legs, they test their limits. We spent 3 days meeting people going up and down the 3,333 steps.</content>
+    <description>A flight of 3,333 stone steps in Kumamoto attracts people looking to put themselves through a strenuous challenge. We spent 3 days learning what makes them tackle Japan's longest flight of steps.</description>
+    <endDate>2021-01-19T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/nUFzESiS#c4fAtV3Tbluv_rxkVbvViA</link>
+    <recordDateEnd>2021-01-19T01:55:31.026Z</recordDateEnd>
+    <recordDateStart>2021-01-19T01:29:20.098Z</recordDateStart>
+    <seriesId>4026</seriesId>
+    <sha256>bd2d6f8ec3fec830e07b7c84178e90cdaa7e98bc886e4838db300bad5194d410</sha256>
+    <startDate>2021-01-19T01:30:00.000Z</startDate>
+    <subtitle>3333 Stones: Japan's Longest Flight of Steps</subtitle>
+    <title>Document 72 Hours</title>
+    <uploadedDate>2021-01-19T02:56:30.135Z</uploadedDate>
   </episode>
   <episode>
     <airingId>115</airingId>
