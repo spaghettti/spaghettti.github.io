@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T08:50:03.663Z",
+  "lastUpdated": "2021-01-19T09:00:03.573Z",
   "seriesId": "3016,4001",
   "title": "NHK Documentary",
   "episodes": [
@@ -146,6 +146,22 @@
       "title": "NHK Documentary",
       "uploadedDate": "2021-01-06T11:53:08.881Z",
       "raw": "https://mega.nz/folder/IJxHxSAa#4am-3968piUHf3fu4jWx4Q"
+    },
+    {
+      "airingId": "383",
+      "content": "It's estimated over a million Japanese live as \"hikikomori,\" recluses totally withdrawn from society. Some hikikomori may even go for decades without leaving their house. While in the past the phenomenon was most commonly associated with young men, recent data has revealed a much wider demographic of people whose confidence in themselves, and in society, has been shattered. As the parents or relatives hikikomori so often depend on entirely become too old to care for them, many now face a dire situation, left alone and unable to cope.",
+      "description": "It's estimated over a million Japanese live as \"hikikomori,\" recluses totally withdrawn from society. As the parents they depend on age, many now face a dire situation, left alone and unable to cope.",
+      "endDate": "2021-01-16T16:00:00.000Z",
+      "link": "https://mega.nz/folder/IYBVnA4Y#KGiyL-lngsyENP1gtpmo6A",
+      "recordDateEnd": "2021-01-16T16:00:27.790Z",
+      "recordDateStart": "2021-01-16T15:09:20.102Z",
+      "seriesId": "4001",
+      "sha256": "f659755e2c186b1cd376f0de7b24bef97dea4bb8ee6ac63e1b787e15c75132d7",
+      "startDate": "2021-01-16T15:10:00.000Z",
+      "subtitle": "Dying Out of Sight: Hikikomori in an Aging Japan",
+      "title": "NHK Documentary",
+      "uploadedDate": "2021-01-19T08:57:06.891Z",
+      "raw": "https://mega.nz/folder/nAlR3CQY#Uc_tkFhupu0HrqBKfIQ1Gw"
     }
   ]
 }
