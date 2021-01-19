@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T06:35:03.300Z</lastUpdated>
+  <lastUpdated>2021-01-19T07:25:03.887Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
+  <episode>
+    <airingId>013</airingId>
+    <content>Setsuko Thurlow was 13 when the atomic bomb was dropped on Hiroshima. Horrific scenes of pain and destruction were burned into her memory. She moved to the US and Canada and began to tell the world what had happened in Hiroshima. Her work with the International Campaign to Abolish Nuclear Weapons (ICAN) overcame resistance from nuclear powers and resulted in the adoption of a UN treaty to ban nuclear weapons. Their efforts earned the group the Nobel Peace Prize. This gripping documentary follows Setsuko's journey from a childhood wracked by war to international recognition.</content>
+    <description>Is a world without nuclear arms possible? Hiroshima bombing survivor Setsuko Thurlow has traveled the globe in pursuit of that goal, a journey which led her to the Nobel Peace Prize Award ceremony.</description>
+    <endDate>2021-01-17T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/X6onRSCK#9R-AzUFDg_edbbYh-5QJcg</link>
+    <recordDateEnd>2021-01-17T00:00:32.689Z</recordDateEnd>
+    <recordDateStart>2021-01-16T23:09:20.130Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>43bbde900e91ecae741cf4b54f5947bbab8e71fd8ac1e3ea8bff1464c626b5b6</sha256>
+    <startDate>2021-01-16T23:10:00.000Z</startDate>
+    <subtitle>Setsuko Thurlow's Quest: A World Without Nuclear Weapons</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2021-01-19T07:22:21.145Z</uploadedDate>
+    <raw>https://mega.nz/folder/UMhGTIyB#yGHW-ZNEfIbQTGLAtZnnuw</raw>
+  </episode>
   <episode>
     <airingId>058</airingId>
     <content>Plastic pollution litters the world's oceans. It's damaging marine wildlife and ecosystems. A war on plastic is breaking out. In part 1 of this 2-part series, we meet Dutch young pioneer Boyan Slat's team working to clear plastic from the Great Pacific Garbage Patch. They have developed a system based on a 600-meter long floating tube. We also look at how microplastics affect living creatures and explore a shocking study that shows how plastic is contributing to rising levels of greenhouse gases.</content>
