@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T06:30:04.012Z",
+  "lastUpdated": "2021-01-19T06:35:03.308Z",
   "seriesId": "4003",
   "title": "The Professionals",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "The Professionals",
       "uploadedDate": "2021-01-13T19:42:13.309Z",
       "raw": "https://mega.nz/folder/2JUhQaDB#2bCpBVCYlu_sxyw7ObB-IA"
+    },
+    {
+      "airingId": "148",
+      "content": "Sudden firings and contract cancellations. The pandemic has caused a downturn that's leaving workers in dire straits. Many have turned to a safe haven: a labor union that's open to all. It's run by 56-year-old Sekine Shuichiro, who set up temporary shelters after the 2008 financial crisis, and has supported countless casual workers. Sekine can't bear to see workers being mistreated. We follow his efforts to help temporary and casual workers over 5 difficult months.",
+      "description": "Sudden firings and contract cancellations. Unions have become a safe haven for people suffering in the pandemic. Follow five months of battling for all workers, including temporary and contract staff.",
+      "endDate": "2021-01-17T01:55:00.000Z",
+      "link": "https://mega.nz/folder/sQQnAKLZ#ypChU1ledWs27Y5SWvtv3Q",
+      "recordDateEnd": "2021-01-17T01:55:28.589Z",
+      "recordDateStart": "2021-01-17T01:09:23.710Z",
+      "seriesId": "4003",
+      "sha256": "0798d414d1e74bce060231ebbd0c957d909d821e956228ebdec0818db3378f30",
+      "startDate": "2021-01-17T01:10:00.000Z",
+      "subtitle": "One Step Forward, Together: Sekine Shuichiro, Labor Union Manager",
+      "title": "The Professionals",
+      "uploadedDate": "2021-01-19T06:32:22.922Z"
     }
   ]
 }
