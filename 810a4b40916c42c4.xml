@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T05:55:03.885Z</lastUpdated>
+  <lastUpdated>2021-01-19T06:30:04.027Z</lastUpdated>
   <seriesId>810a4b40916c42c4</seriesId>
   <title>Hometown Stories</title>
   <episode>
@@ -99,5 +99,20 @@
     <title>Hometown Stories</title>
     <uploadedDate>2021-01-13T16:01:09.249Z</uploadedDate>
     <raw>https://mega.nz/folder/DgIlVa6I#h9tjmyHDcX4CKLjDKDoPRQ</raw>
+  </episode>
+  <episode>
+    <airingId>158</airingId>
+    <content>Minami Shintaro is a young man with a special knack of attracting people. He runs a guest house in Seto City in central Japan, renowned as a major producer of ceramics. But the Covid-19 pandemic led to a sharp decline in guests. Also, an annual ceramics festival, the town's biggest tourist attraction, was canceled. But he never gives up. He launched a project called "Seto People-Tour" to revitalize the community by connecting people while avoiding close-contact settings. Life during the pandemic calls for distance between people, yet he is trying to connect them. We wanted to know why.</content>
+    <description>Minami Shintaro is a young guest house owner with the knack of attracting people. Amid the Covid-19 pandemic, he launched a project to revitalize his community by connecting people. What drives him?</description>
+    <endDate>2021-01-17T00:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/hXBTUKoY#g4x74dUtNsyn06CP1glCmQ</link>
+    <recordDateEnd>2021-01-17T00:40:34.471Z</recordDateEnd>
+    <recordDateStart>2021-01-17T00:09:20.070Z</recordDateStart>
+    <seriesId>5003</seriesId>
+    <sha256>581088a710e11acba20ba0e53ee57dedd8e5959c98647359433f80c92e4335fc</sha256>
+    <startDate>2021-01-17T00:10:00.000Z</startDate>
+    <subtitle>Connecting People in a Pandemic</subtitle>
+    <title>Hometown Stories</title>
+    <uploadedDate>2021-01-19T06:27:41.047Z</uploadedDate>
   </episode>
 </episodeList>
