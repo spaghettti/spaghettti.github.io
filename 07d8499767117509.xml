@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T03:50:03.312Z</lastUpdated>
+  <lastUpdated>2021-01-19T04:00:04.915Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -882,6 +882,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-12T05:16:36.155Z</uploadedDate>
     <raw>https://mega.nz/folder/3t4UyJrQ#uIE-3KGCIVo3l-8C9Pup0Q</raw>
+  </episode>
+  <episode>
+    <airingId>661</airingId>
+    <content/>
+    <description>Ishii Katsuyuki heads a manufacturer of custom sports wheelchairs used by top athletes competing in the Paralympic Games. He talks about design, craftsmanship, and the secret to the company's success.</description>
+    <endDate>2021-01-18T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/vVF3wQoS#KHADBfL3UQ0meaTVpUZOgg</link>
+    <recordDateEnd>2021-01-18T04:30:28.628Z</recordDateEnd>
+    <recordDateStart>2021-01-18T04:14:20.134Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>4fc2233fa062a463ef0c76fd18be78fd896adc56b17585931b7ec97e4bfabc94</sha256>
+    <startDate>2021-01-18T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-19T03:57:19.378Z</uploadedDate>
+    <raw>https://mega.nz/folder/gTJRgQBA#seHPFVHAqXqXzdHhAtbxyQ</raw>
   </episode>
   <episode>
     <airingId>662</airingId>
