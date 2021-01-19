@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T05:40:03.519Z",
+  "lastUpdated": "2021-01-19T05:50:03.754Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -929,6 +929,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-30T10:35:46.880Z",
       "raw": "https://mega.nz/folder/2lE0SL4S#zcbrwxZYyjhklOdPnwdWQg"
+    },
+    {
+      "airingId": "665",
+      "content": "",
+      "description": "Nishimoto Yu-ki is an innovative practitioner of sumi-e [ink wash painting]. His art-which has incorporated video, CG and more-is exceptionally dynamic, and he is always pushing himself further.",
+      "endDate": "2021-01-19T04:30:00.000Z",
+      "link": "https://mega.nz/folder/zVMCABgJ#VEB_8ltGlvazUk_NEwvXQA",
+      "recordDateEnd": "2021-01-19T04:30:25.323Z",
+      "recordDateStart": "2021-01-19T04:14:23.419Z",
+      "seriesId": "2058",
+      "sha256": "8227980c2a5828afd243a8f848ebdcbb7d8b40e5d5a70aa5c6f88d123b402f9a",
+      "startDate": "2021-01-19T04:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-19T05:47:07.781Z"
     },
     {
       "airingId": "670",
