@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T03:40:04.017Z</lastUpdated>
+  <lastUpdated>2021-01-19T03:45:03.395Z</lastUpdated>
   <seriesId>9b58eae3ebc3f6b6</seriesId>
   <title>Sumopedia</title>
   <episode>
@@ -99,6 +99,21 @@
     <title>Sumopedia</title>
     <uploadedDate>2021-01-16T21:23:40.024Z</uploadedDate>
     <raw>https://mega.nz/folder/0boiXKrI#UiRUYDxN6pJMNYkX0_iFSg</raw>
+  </episode>
+  <episode>
+    <airingId>014</airingId>
+    <content/>
+    <description>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</description>
+    <endDate>2021-01-17T17:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/hL5FTaJT#Heb5C9J62DtoD2_kt-YGfQ</link>
+    <recordDateEnd>2021-01-17T17:00:26.602Z</recordDateEnd>
+    <recordDateStart>2021-01-17T16:56:20.037Z</recordDateStart>
+    <seriesId>2062</seriesId>
+    <sha256>970762e07e931096d9ca5613075e901b5851ece661fbfd74105cf42f7a151256</sha256>
+    <startDate>2021-01-17T16:57:00.000Z</startDate>
+    <subtitle/>
+    <title>Sumopedia</title>
+    <uploadedDate>2021-01-19T03:41:47.443Z</uploadedDate>
   </episode>
   <episode>
     <airingId>015</airingId>
