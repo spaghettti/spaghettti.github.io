@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T01:15:04.485Z</lastUpdated>
+  <lastUpdated>2021-01-19T01:50:03.176Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -482,6 +482,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-13T05:23:43.051Z</uploadedDate>
     <raw>https://mega.nz/folder/ioByALJI#JzCFzj5PW-6niRGXIZCVnw</raw>
+  </episode>
+  <episode>
+    <airingId>595</airingId>
+    <content>In 2019, Sueko Nakamura directed a documentary about young women in Japan who've been in trouble with the law. She herself had a troubled adolescence that included time in a juvenile detention center.</content>
+    <description>In 2019, Sueko Nakamura directed a documentary about young women in Japan who've been in trouble with the law. She herself had a troubled adolescence that included time in a juvenile detention center.</description>
+    <endDate>2021-01-18T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/YTJmmRLR#L-iWIbRIfnYdAT8OxQ8_AA</link>
+    <recordDateEnd>2021-01-18T07:30:28.977Z</recordDateEnd>
+    <recordDateStart>2021-01-18T07:14:20.040Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>fab8ce5949f663f826921c62e00dd2bf32c11b660fde229353d12b2a2240758f</sha256>
+    <startDate>2021-01-18T07:15:00.000Z</startDate>
+    <subtitle>People Change, So Can Society: Sueko Nakamura / Co-founder, Second Chance!</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-19T01:48:22.345Z</uploadedDate>
   </episode>
   <episode>
     <airingId>615</airingId>

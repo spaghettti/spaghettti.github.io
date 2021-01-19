@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T01:15:04.517Z",
+  "lastUpdated": "2021-01-19T01:50:03.201Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -481,6 +481,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-01-13T05:23:43.051Z",
       "raw": "https://mega.nz/folder/ioByALJI#JzCFzj5PW-6niRGXIZCVnw"
+    },
+    {
+      "airingId": "595",
+      "content": "In 2019, Sueko Nakamura directed a documentary about young women in Japan who've been in trouble with the law. She herself had a troubled adolescence that included time in a juvenile detention center.",
+      "description": "In 2019, Sueko Nakamura directed a documentary about young women in Japan who've been in trouble with the law. She herself had a troubled adolescence that included time in a juvenile detention center.",
+      "endDate": "2021-01-18T07:30:00.000Z",
+      "link": "https://mega.nz/folder/YTJmmRLR#L-iWIbRIfnYdAT8OxQ8_AA",
+      "recordDateEnd": "2021-01-18T07:30:28.977Z",
+      "recordDateStart": "2021-01-18T07:14:20.040Z",
+      "seriesId": "2058",
+      "sha256": "fab8ce5949f663f826921c62e00dd2bf32c11b660fde229353d12b2a2240758f",
+      "startDate": "2021-01-18T07:15:00.000Z",
+      "subtitle": "People Change, So Can Society: Sueko Nakamura / Co-founder, Second Chance!",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-19T01:48:22.345Z"
     },
     {
       "airingId": "615",

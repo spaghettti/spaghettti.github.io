@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T01:15:04.405Z</lastUpdated>
+  <lastUpdated>2021-01-19T01:50:03.123Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -115,6 +115,21 @@
     <title>Core Kyoto</title>
     <uploadedDate>2021-01-12T04:33:56.619Z</uploadedDate>
     <raw>https://mega.nz/folder/q49lzKDD#NPHzpwPWeRRCNGa16Uj08w</raw>
+  </episode>
+  <episode>
+    <airingId>043</airingId>
+    <content>After the first cafe opened in Kyoto in 1930, a coffee culture flourished as coffee salons enjoyed the patronage of local merchants, who prided themselves on staying abreast of the latest fashions. Kyotoites always placed the utmost importance on hospitality. Cafes may be relatively new to the cityscape, but they exude the local spirit of hospitality. Owners of distinct cafes find ingenious ways to infuse their service with this ethos. Discover the charm of Kyoto cafes while sipping on a brew.</content>
+    <description>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive program. Today: Kyoto's Cafe Culture is a cup full of local hospitality.</description>
+    <endDate>2021-01-18T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/OFcAhLSa#lAjh5nA9sywCbbo6Q-2t4w</link>
+    <recordDateEnd>2021-01-18T15:00:26.837Z</recordDateEnd>
+    <recordDateStart>2021-01-18T14:29:20.129Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>d3fd3007e57b313de231858f8867a15c46865df338f0cebbd99d249cf3fda54b</sha256>
+    <startDate>2021-01-18T14:30:00.000Z</startDate>
+    <subtitle>Kyoto's Cafe Culture: A Cup Full of Local Hospitality</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-01-19T01:49:20.468Z</uploadedDate>
   </episode>
   <episode>
     <airingId>077</airingId>

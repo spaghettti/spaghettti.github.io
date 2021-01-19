@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T01:15:04.781Z",
+  "lastUpdated": "2021-01-19T01:50:03.338Z",
   "series": [
     {
       "count": 14,
@@ -114,10 +114,10 @@
       "title": "COOL JAPAN"
     },
     {
-      "count": 17,
+      "count": 18,
       "uniqueId": "67d2ae7ac69fb919",
-      "lastAiring": "2021-01-13T23:30:00.000Z",
-      "lastUpload": "2021-01-14T00:56:50.783Z",
+      "lastAiring": "2021-01-18T14:30:00.000Z",
+      "lastUpload": "2021-01-19T01:49:20.468Z",
       "seriesId": "2029",
       "title": "Core Kyoto"
     },
@@ -202,10 +202,10 @@
       "title": "Dining with the Chef"
     },
     {
-      "count": 87,
+      "count": 88,
       "uniqueId": "07d8499767117509",
-      "lastAiring": "2021-01-15T07:15:00.000Z",
-      "lastUpload": "2021-01-15T08:04:05.979Z",
+      "lastAiring": "2021-01-18T07:15:00.000Z",
+      "lastUpload": "2021-01-19T01:48:22.345Z",
       "seriesId": "2058",
       "title": "Direct Talk"
     },
@@ -346,10 +346,10 @@
       "title": "GLOBAL AGENDA"
     },
     {
-      "count": 15,
+      "count": 16,
       "uniqueId": "b2f243cf934b4de8",
-      "lastAiring": "2021-01-16T16:30:00.000Z",
-      "lastUpload": "2021-01-17T00:30:54.814Z",
+      "lastAiring": "2021-01-18T16:30:00.000Z",
+      "lastUpload": "2021-01-19T01:48:12.633Z",
       "seriesId": "2061",
       "title": "GRAND SUMO Highlights"
     },
