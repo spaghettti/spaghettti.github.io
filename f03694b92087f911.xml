@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T04:00:04.815Z</lastUpdated>
+  <lastUpdated>2021-01-19T04:30:03.984Z</lastUpdated>
   <seriesId>f03694b92087f911</seriesId>
   <title>J-MELO</title>
   <episode>
@@ -67,5 +67,21 @@
     <title>J-MELO</title>
     <uploadedDate>2021-01-13T14:04:48.231Z</uploadedDate>
     <raw>https://mega.nz/folder/uBtRiYJI#9Gsw6wDsd8fjXvuvCmXUQQ</raw>
+  </episode>
+  <episode>
+    <airingId>365</airingId>
+    <content>Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news and video releases!</content>
+    <description>Join May J. for great Japanese music! This week, four-piece girl group Momoiro Clover Z and five-piece all-male dance-and-vocal group Da-iCE are dropping in to chat and perform.</description>
+    <endDate>2021-01-17T15:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/LFNlyAQY#Te38bKeWxpZ31734ZGCh_Q</link>
+    <recordDateEnd>2021-01-17T15:40:33.316Z</recordDateEnd>
+    <recordDateStart>2021-01-17T15:09:20.091Z</recordDateStart>
+    <seriesId>2004</seriesId>
+    <sha256>22aee0e81aadb1f965a139a5d93a5428a36cb8257ae8fe34d15d32c4cfc0f303</sha256>
+    <startDate>2021-01-17T15:10:00.000Z</startDate>
+    <subtitle>Momoiro Clover Z and Da-iCE</subtitle>
+    <title>J-MELO</title>
+    <uploadedDate>2021-01-19T04:28:48.901Z</uploadedDate>
+    <raw>https://mega.nz/folder/UFJBAYqQ#lCh7jGmxYGrRdYTdF1kCvg</raw>
   </episode>
 </episodeList>

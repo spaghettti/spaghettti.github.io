@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T04:00:05.074Z",
+  "lastUpdated": "2021-01-19T04:30:04.257Z",
   "series": [
     {
       "count": 14,
@@ -426,10 +426,10 @@
       "title": "J-FLICKS"
     },
     {
-      "count": 4,
+      "count": 5,
       "uniqueId": "f03694b92087f911",
-      "lastAiring": "2021-01-10T15:10:00.000Z",
-      "lastUpload": "2021-01-13T14:04:48.231Z",
+      "lastAiring": "2021-01-17T15:10:00.000Z",
+      "lastUpload": "2021-01-19T04:28:48.901Z",
       "seriesId": "2004",
       "title": "J-MELO"
     },
@@ -474,10 +474,10 @@
       "title": "Japan's Top Inventions"
     },
     {
-      "count": 9,
+      "count": 10,
       "uniqueId": "a8827721852d236d",
-      "lastAiring": "2021-01-10T11:25:00.000Z",
-      "lastUpload": "2021-01-13T13:39:13.966Z",
+      "lastAiring": "2021-01-17T11:25:00.000Z",
+      "lastUpload": "2021-01-19T04:26:31.021Z",
       "seriesId": "6210",
       "title": "Japan-easy"
     },

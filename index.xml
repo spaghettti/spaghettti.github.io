@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-19T04:00:05.070Z</lastUpdated>
+  <lastUpdated>2021-01-19T04:30:04.252Z</lastUpdated>
   <series>
     <count>14</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -427,10 +427,10 @@
     <title>J-FLICKS</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>f03694b92087f911</uniqueId>
-    <lastAiring>2021-01-10T15:10:00.000Z</lastAiring>
-    <lastUpload>2021-01-13T14:04:48.231Z</lastUpload>
+    <lastAiring>2021-01-17T15:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-19T04:28:48.901Z</lastUpload>
     <seriesId>2004</seriesId>
     <title>J-MELO</title>
   </series>
@@ -475,10 +475,10 @@
     <title>Japan's Top Inventions</title>
   </series>
   <series>
-    <count>9</count>
+    <count>10</count>
     <uniqueId>a8827721852d236d</uniqueId>
-    <lastAiring>2021-01-10T11:25:00.000Z</lastAiring>
-    <lastUpload>2021-01-13T13:39:13.966Z</lastUpload>
+    <lastAiring>2021-01-17T11:25:00.000Z</lastAiring>
+    <lastUpload>2021-01-19T04:26:31.021Z</lastUpload>
     <seriesId>6210</seriesId>
     <title>Japan-easy</title>
   </series>

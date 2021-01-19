@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T04:00:05.053Z",
+  "lastUpdated": "2021-01-19T04:30:04.234Z",
   "seriesId": "6210",
   "title": "Japan-easy",
   "episodes": [
@@ -146,6 +146,22 @@
       "title": "Japan-easy2",
       "uploadedDate": "2021-01-13T13:39:13.966Z",
       "raw": "https://mega.nz/folder/bsZ0FR5Q#ptdEuJKeRds-E21x0XJbgA"
+    },
+    {
+      "airingId": "118",
+      "content": "",
+      "description": "Today, we'll learn how to say \"Let's go to Tokyo Tower\" in Japanese. Learn useful phrases and cool kanji! And you'll realize \"Japanese is easy\"!",
+      "endDate": "2021-01-17T11:40:00.000Z",
+      "link": "https://mega.nz/folder/TZNFyKRZ#bN4pmWOR9qQA-vVKdMoyPA",
+      "recordDateEnd": "2021-01-17T11:40:32.932Z",
+      "recordDateStart": "2021-01-17T11:24:22.942Z",
+      "seriesId": "6210",
+      "sha256": "bb1bf1a1dd029d318ac54e0eed0ce0a87ad37dc2eedac4b1377e534227c4a543",
+      "startDate": "2021-01-17T11:25:00.000Z",
+      "subtitle": "",
+      "title": "Japan-easy2",
+      "uploadedDate": "2021-01-19T04:26:31.021Z",
+      "raw": "https://mega.nz/folder/ENRyBRDC#Cok0rzPZNUmft7W7GTk8ew"
     }
   ]
 }
