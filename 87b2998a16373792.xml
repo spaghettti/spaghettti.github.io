@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T17:25:02.690Z</lastUpdated>
+  <lastUpdated>2021-01-19T17:40:04.070Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -176,5 +176,6 @@ Quake-resistant Pipe Retrofittings</content>
     <subtitle>Slow Slip Earthquakes</subtitle>
     <title>Science View</title>
     <uploadedDate>2021-01-19T17:21:10.137Z</uploadedDate>
+    <raw>https://mega.nz/folder/FNREjLRB#mml0jKSNnmE8qiXlhmytWg</raw>
   </episode>
 </episodeList>
