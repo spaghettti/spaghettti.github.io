@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T01:55:03.214Z</lastUpdated>
+  <lastUpdated>2021-01-19T02:40:03.241Z</lastUpdated>
   <seriesId>e5a5b6a12ffc2a6e</seriesId>
   <title>BENTO EXPO</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>BENTO EXPO</title>
     <uploadedDate>2020-12-29T03:55:10.562Z</uploadedDate>
     <raw>https://mega.nz/folder/58lCCDaK#g2mYDKX-ahSDYJHb25Rj8Q</raw>
+  </episode>
+  <episode>
+    <airingId>027</airingId>
+    <content>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</content>
+    <description>Marc brings you an all-time favorite-salmon teriyaki. Maki cooks up a delicious apricot butter chicken bento. And on Bento Topics, Hiroshima's famous oysters packed in an auspicious bento box.</description>
+    <endDate>2021-01-18T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/IJYyzJBT#G5qcEXAyghAdQek_nA9VWQ</link>
+    <recordDateEnd>2021-01-18T00:45:32.574Z</recordDateEnd>
+    <recordDateStart>2021-01-18T00:29:20.143Z</recordDateStart>
+    <seriesId>2077</seriesId>
+    <sha256>8cb40602ae31e581699417f5f57d58cf23d8ff7ec3294abaff97ba85386bd490</sha256>
+    <startDate>2021-01-18T00:30:00.000Z</startDate>
+    <subtitle>Season 5-17 Salmon Teriyaki Bento &amp; Apricot Butter Chicken Bento</subtitle>
+    <title>BENTO EXPO</title>
+    <uploadedDate>2021-01-19T02:35:46.923Z</uploadedDate>
   </episode>
 </episodeList>
