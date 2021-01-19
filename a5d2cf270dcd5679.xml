@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-19T01:50:03.160Z</lastUpdated>
+  <lastUpdated>2021-01-19T01:55:03.167Z</lastUpdated>
   <seriesId>a5d2cf270dcd5679</seriesId>
   <title>Medical Frontiers</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>Medical Frontiers</title>
     <uploadedDate>2020-12-24T20:45:27.852Z</uploadedDate>
     <raw>https://mega.nz/folder/k19W2KpK#mTH_VixOb8kUjX3xXWkENg</raw>
+  </episode>
+  <episode>
+    <airingId>102</airingId>
+    <content>In May 2020, Japan's then-Prime Minister Abe Shinzo declared that the country had successfully contained coronavirus infections thanks to the "Japan Model." An independent committee published a report on this model, which combined a soft lockdown and anti-cluster measures to prevent the spread of infection and limit economic damage. The program focuses on the Diamond Princess cruise ship outbreak, anti-cluster measures, PCR testing and the soft lockdown. We look at the lessons learned from it.</content>
+    <description>In the first six months of the pandemic, Japan was able to keep its coronavirus infection and death rates lowest among G7 nations. We look at lessons learned that can be applied to other countries.</description>
+    <endDate>2021-01-18T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/oVYijbLb#TIUXP-P2IPAaW97jOoRgsQ</link>
+    <recordDateEnd>2021-01-18T16:00:28.822Z</recordDateEnd>
+    <recordDateStart>2021-01-18T15:29:23.203Z</recordDateStart>
+    <seriesId>2050</seriesId>
+    <sha256>09bc6d4a6c4d16093b7e645a5d79eeccb1c0d3ed8edbf515f84c3b4fefa22cb2</sha256>
+    <startDate>2021-01-18T15:30:00.000Z</startDate>
+    <subtitle>COVID-19: Lessons from the "Japan Model"</subtitle>
+    <title>Medical Frontiers</title>
+    <uploadedDate>2021-01-19T01:50:12.634Z</uploadedDate>
   </episode>
 </episodeList>
