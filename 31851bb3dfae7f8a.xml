@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-20T07:55:03.353Z</lastUpdated>
+  <lastUpdated>2021-01-20T16:05:03.069Z</lastUpdated>
   <seriesId>31851bb3dfae7f8a</seriesId>
   <title>Trails to Oishii Tokyo</title>
   <episode>
@@ -67,6 +67,22 @@
     <title>Trails to Oishii Tokyo</title>
     <uploadedDate>2021-01-13T20:49:04.035Z</uploadedDate>
     <raw>https://mega.nz/folder/fMMxwQBI#M7gQgeoUZbkH1nQPKOl7TQ</raw>
+  </episode>
+  <episode>
+    <airingId>118</airingId>
+    <content>Our focus this time is sesame. It's an indispensable part of Japanese cuisine, making the country a leading consumer. Whether used as-is, roasted, ground, or processed into oil, the Japanese have developed numerous ways to enjoy the savory aroma and texture of sesame seeds. They're also a key ingredient in Shojin Ryori, or vegetarian meals prepared for Buddhist monks. Discover the large role that tiny sesame seeds play.</content>
+    <description>Our focus today is sesame. The seeds are widely used in Japan, making the country a main consumer. They're also a key part of the Buddhist vegetarian diet. Enter the large world of tiny sesame seeds.</description>
+    <endDate>2021-01-20T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/HMdWlZjC#beoy7ehkLFc8BDBNos_c5w</link>
+    <recordDateEnd>2021-01-20T15:00:28.110Z</recordDateEnd>
+    <recordDateStart>2021-01-20T14:29:20.098Z</recordDateStart>
+    <seriesId>2054</seriesId>
+    <sha256>ab996dbc67c2b614daaa403d9ca69f5b668d9e4b766d02b9bd102d352c6c6bb8</sha256>
+    <startDate>2021-01-20T14:30:00.000Z</startDate>
+    <subtitle>SESAME</subtitle>
+    <title>Trails to Oishii Tokyo</title>
+    <uploadedDate>2021-01-20T16:04:14.969Z</uploadedDate>
+    <raw>https://mega.nz/folder/BSIikJqZ#6PNs3tnxOw3ZvUVAu7OuOg</raw>
   </episode>
   <episode>
     <airingId>119</airingId>

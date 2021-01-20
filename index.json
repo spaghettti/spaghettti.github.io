@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-20T07:55:03.530Z",
+  "lastUpdated": "2021-01-20T16:05:03.253Z",
   "series": [
     {
       "count": 15,
@@ -882,10 +882,10 @@
       "title": "Tokyo Life"
     },
     {
-      "count": 9,
+      "count": 10,
       "uniqueId": "31851bb3dfae7f8a",
-      "lastAiring": "2021-01-13T14:30:00.000Z",
-      "lastUpload": "2021-01-13T20:49:04.035Z",
+      "lastAiring": "2021-01-20T14:30:00.000Z",
+      "lastUpload": "2021-01-20T16:04:14.969Z",
       "seriesId": "2054",
       "title": "Trails to Oishii Tokyo"
     },
