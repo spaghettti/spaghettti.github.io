@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-20T16:05:03.110Z</lastUpdated>
+  <lastUpdated>2021-01-20T16:35:03.381Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -99,6 +99,21 @@
     <title>Japan's Top Inventions</title>
     <uploadedDate>2021-01-06T17:16:10.792Z</uploadedDate>
     <raw>https://mega.nz/folder/SksCQQzQ#LOWOW2PMWBdllx48rTHjPQ</raw>
+  </episode>
+  <episode>
+    <airingId>019</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, fiber tip pens, invented by a Japanese stationery firm in 1963. These water-based pens improved on the firm's oil-based pens, whose ink feathered and bled. Thanks to early user Lyndon Johnson, 36th President of the United States, they became a hit. Some 2.2 billion have been produced and sold in over 100 countries and regions. This time, the little-known story behind fiber tip pens.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, water-based fiber tip pens, invented by a Japanese stationery firm in 1963.</description>
+    <endDate>2021-01-20T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/vMkFQaJZ#vocD0zbacoFnvLRAgaLbvQ</link>
+    <recordDateEnd>2021-01-20T16:00:44.611Z</recordDateEnd>
+    <recordDateStart>2021-01-20T15:44:20.098Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>875a3237d8fb3a663f032669ba2e8991eec77b03ba3f971b1c05ebc54bef898b</sha256>
+    <startDate>2021-01-20T15:45:00.000Z</startDate>
+    <subtitle>Fiber Tip Pens</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2021-01-20T16:32:40.199Z</uploadedDate>
   </episode>
   <episode>
     <airingId>041</airingId>
