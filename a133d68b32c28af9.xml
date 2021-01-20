@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-20T02:05:03.933Z</lastUpdated>
+  <lastUpdated>2021-01-20T02:20:03.532Z</lastUpdated>
   <seriesId>a133d68b32c28af9</seriesId>
   <title>Winter Joy</title>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>Winter brings joy to Japan. Enjoy the beautiful landscape of Japan and enjoy the wonders of winter. #2: Akita is known for its heavy snowfall and its winter festivals. Let's visit the snow country.</description>
+    <endDate>2021-01-20T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/sR4gVTqJ#6xWLvKxF9dndvd8Azu1w5w</link>
+    <recordDateEnd>2021-01-20T02:00:26.575Z</recordDateEnd>
+    <recordDateStart>2021-01-20T01:49:22.537Z</recordDateStart>
+    <seriesId>6109</seriesId>
+    <sha256>3e18a2f250dad25d3679ac4f04505ec4e8f2515ff3d363dacc5564b989c408a4</sha256>
+    <startDate>2021-01-20T01:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Winter Joy</title>
+    <uploadedDate>2021-01-20T02:20:01.423Z</uploadedDate>
+    <raw>https://mega.nz/folder/VAw23BSI#hSjUfYd9qT7ZEMGHDVqQ6g</raw>
+  </episode>
   <episode>
     <airingId>005</airingId>
     <content/>
