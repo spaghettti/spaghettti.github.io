@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-20T02:20:03.560Z</lastUpdated>
+  <lastUpdated>2021-01-20T02:40:03.608Z</lastUpdated>
   <series>
     <count>15</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -371,10 +371,10 @@
     <title>GREAT RACE</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>da958502b69dde1e</uniqueId>
-    <lastAiring>2021-01-06T01:30:00.000Z</lastAiring>
-    <lastUpload>2021-01-06T07:43:33.333Z</lastUpload>
+    <lastAiring>2021-01-20T01:30:00.000Z</lastAiring>
+    <lastUpload>2021-01-20T02:39:00.854Z</lastUpload>
     <seriesId>2048</seriesId>
     <title>Her Story</title>
   </series>
