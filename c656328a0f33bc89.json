@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-19T18:15:03.449Z",
+  "lastUpdated": "2021-01-20T01:35:03.278Z",
   "seriesId": "3019",
   "title": "15 Minutes",
   "episodes": [
@@ -226,6 +226,21 @@
       "title": "15 Minutes",
       "uploadedDate": "2021-01-06T08:38:51.312Z",
       "raw": "https://mega.nz/folder/ah1ERBZY#_KwrPsGNKx2nMvqk8TrQGg"
+    },
+    {
+      "airingId": "128",
+      "content": "Appearing at festivals and weddings, the red sea bream is an auspicious fish in Japan. A freshly caught sea bream isn't simply red; its scales also have a beautiful opalescent blue sheen. Anglers who wish to catch it must brave rough seas and fast currents as they maneuver shrimp at the end of their lines to lure the fish. Some seasoned veterans prefer to wind up their line by hand without a reel! Join master anglers in their divine duel with the object of their fascination: the red sea bream.",
+      "description": "Appearing at festivals and weddings, the red sea bream is an auspicious fish in Japan. Join anglers fascinated by its allure as they brave the ocean waves in their duel with the red god of the sea.",
+      "endDate": "2021-01-20T00:45:00.000Z",
+      "link": "https://mega.nz/folder/5ABwWJLL#6M5yw2-stsC9daBrcmyCaA",
+      "recordDateEnd": "2021-01-20T00:45:33.667Z",
+      "recordDateStart": "2021-01-20T00:29:25.324Z",
+      "seriesId": "3019",
+      "sha256": "ef36b09fdbed7ebcc6eeed4b7889dabd031eceb17696f3c08d5fc35f77457bad",
+      "startDate": "2021-01-20T00:30:00.000Z",
+      "subtitle": "Fishing Crazy: Divine Duel at Sea",
+      "title": "15 Minutes",
+      "uploadedDate": "2021-01-20T01:35:02.198Z"
     }
   ]
 }
