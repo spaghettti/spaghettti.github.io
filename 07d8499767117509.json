@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-20T05:05:03.492Z",
+  "lastUpdated": "2021-01-20T07:55:03.379Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1378,6 +1378,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-29T08:04:28.069Z",
       "raw": "https://mega.nz/folder/uMEjDCiT#dctPugIMmhw6O_VGZIqgOA"
+    },
+    {
+      "airingId": "724",
+      "content": "Rewilding to revive lost species and restore nature. In the United Kingdom, an aristocratic couple's efforts are attracting attention. We talk to Isabella Tree, who is also a writer.",
+      "description": "Rewilding to revive lost species and restore nature. In the United Kingdom, an aristocratic couple's efforts are attracting attention. We talk to Isabella Tree, who is also a writer.",
+      "endDate": "2021-01-20T07:30:00.000Z",
+      "link": "https://mega.nz/folder/JMowSR6K#-7nL7pQZuRY_4Elnh2bQGw",
+      "recordDateEnd": "2021-01-20T07:30:29.074Z",
+      "recordDateStart": "2021-01-20T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "c634beb6f8864bc3bb5e18f83f26eae819e1ecb2f992b2c61a5e3521a3ee9654",
+      "startDate": "2021-01-20T07:15:00.000Z",
+      "subtitle": "The Rewilding of an Aristocrat's Farm: Isabella Tree / Writer, Environmentalist",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-20T07:50:27.889Z"
     },
     {
       "airingId": "725",
