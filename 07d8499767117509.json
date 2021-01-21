@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-21T03:45:03.952Z",
+  "lastUpdated": "2021-01-21T05:00:03.271Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -242,6 +242,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-26T00:23:59.012Z",
       "raw": "https://mega.nz/folder/xZYn3Y7A#paSg5eWirkRh9p3H1r0EIA"
+    },
+    {
+      "airingId": "563",
+      "content": "",
+      "description": "Since 2014, the conflict in eastern Ukraine has left many soldiers MIA. Yaroslav Zhilkin, the founder of Black Tulip, tells us why he collects bodies in the troubled area.",
+      "endDate": "2021-01-21T04:30:00.000Z",
+      "link": "https://mega.nz/folder/MA5F3ABR#-qPwE8HrT8zg8O7VWlka8g",
+      "recordDateEnd": "2021-01-21T04:30:28.087Z",
+      "recordDateStart": "2021-01-21T04:14:20.126Z",
+      "seriesId": "2058",
+      "sha256": "b859ccbe4e6168c29d037507eff91dcf716e17d711f3de548dcaa10fd7517de7",
+      "startDate": "2021-01-21T04:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-21T04:58:19.674Z"
     },
     {
       "airingId": "568",
