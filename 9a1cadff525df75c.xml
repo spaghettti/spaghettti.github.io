@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-21T15:50:03.315Z</lastUpdated>
+  <lastUpdated>2021-01-21T17:15:03.859Z</lastUpdated>
   <seriesId>9a1cadff525df75c</seriesId>
   <title>Japan Lost and Found</title>
   <episode>
@@ -19,5 +19,21 @@
     <title>Japan Lost and Found</title>
     <uploadedDate>2021-01-08T16:59:33.647Z</uploadedDate>
     <raw>https://mega.nz/folder/bt0yzZpJ#0QQMYDZFNtn92Ayx3w7KYw</raw>
+  </episode>
+  <episode>
+    <airingId>700</airingId>
+    <content/>
+    <description>Stephanie Crohin from France is really into "sento." She and Poet Arthur Binard unravel its charm. She is drawn to the beauty of sento houses and really likes friendly conversation there.</description>
+    <endDate>2021-01-21T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/7ioRTIQT#7XHWpew2EZx0EiN-Vrp3Mg</link>
+    <recordDateEnd>2021-01-21T16:00:32.254Z</recordDateEnd>
+    <recordDateStart>2021-01-21T15:29:20.099Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>cef48afb156c27e0c5004451c5e521f211a9f3fadafeb7f46347eeef581e516d</sha256>
+    <startDate>2021-01-21T15:30:00.000Z</startDate>
+    <subtitle>SENTO</subtitle>
+    <title>Japan Lost and Found</title>
+    <uploadedDate>2021-01-21T17:13:14.461Z</uploadedDate>
+    <raw>https://mega.nz/folder/2jxDzaLA#E-NLJQsYgLmqkHnB6F1-dA</raw>
   </episode>
 </episodeList>
