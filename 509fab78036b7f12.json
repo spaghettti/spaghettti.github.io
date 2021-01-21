@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-21T00:40:02.758Z",
+  "lastUpdated": "2021-01-21T03:45:03.895Z",
   "seriesId": "2042",
   "title": "RISING",
   "episodes": [
@@ -194,6 +194,21 @@
       "title": "RISING",
       "uploadedDate": "2020-12-31T08:03:44.155Z",
       "raw": "https://mega.nz/folder/0sNlXA6b#dQ8komILwws0SvQhZnIOgQ"
+    },
+    {
+      "airingId": "108",
+      "content": "Around the world, the chaos caused by the COVID-19 pandemic has brought calls for a green recovery focused on eco-friendly businesses and renewable energy. Yoshida Hiroko runs an NPO promoting green energy and sustainable food production in rural Japan. By creating virtuous cycles, and organizing events that attract participants from further afield, she leverages local natural resources to revitalize mountain areas hit by depopulation.",
+      "description": "The COVID-19 pandemic has brought global calls for a green recovery. We follow an NPO using green energy and sustainable food production to revitalize rural communities.",
+      "endDate": "2021-01-21T02:00:00.000Z",
+      "link": "https://mega.nz/folder/ui5wwbaL#GxdcypufeOJUdBY_VAiapg",
+      "recordDateEnd": "2021-01-21T02:00:32.977Z",
+      "recordDateStart": "2021-01-21T01:29:20.102Z",
+      "seriesId": "2042",
+      "sha256": "d8ecc9d312960387f853cb15f486546f4af71399a533a8d60da58ad13619aaf5",
+      "startDate": "2021-01-21T01:30:00.000Z",
+      "subtitle": "Green Recovery in Rural Japan: NPO Founder - Yoshida Hiroko",
+      "title": "RISING",
+      "uploadedDate": "2021-01-21T03:43:00.142Z"
     }
   ]
 }

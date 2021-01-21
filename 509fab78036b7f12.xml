@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-21T00:40:02.754Z</lastUpdated>
+  <lastUpdated>2021-01-21T03:45:03.891Z</lastUpdated>
   <seriesId>509fab78036b7f12</seriesId>
   <title>RISING</title>
   <episode>
@@ -195,5 +195,20 @@
     <title>RISING</title>
     <uploadedDate>2020-12-31T08:03:44.155Z</uploadedDate>
     <raw>https://mega.nz/folder/0sNlXA6b#dQ8komILwws0SvQhZnIOgQ</raw>
+  </episode>
+  <episode>
+    <airingId>108</airingId>
+    <content>Around the world, the chaos caused by the COVID-19 pandemic has brought calls for a green recovery focused on eco-friendly businesses and renewable energy. Yoshida Hiroko runs an NPO promoting green energy and sustainable food production in rural Japan. By creating virtuous cycles, and organizing events that attract participants from further afield, she leverages local natural resources to revitalize mountain areas hit by depopulation.</content>
+    <description>The COVID-19 pandemic has brought global calls for a green recovery. We follow an NPO using green energy and sustainable food production to revitalize rural communities.</description>
+    <endDate>2021-01-21T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ui5wwbaL#GxdcypufeOJUdBY_VAiapg</link>
+    <recordDateEnd>2021-01-21T02:00:32.977Z</recordDateEnd>
+    <recordDateStart>2021-01-21T01:29:20.102Z</recordDateStart>
+    <seriesId>2042</seriesId>
+    <sha256>d8ecc9d312960387f853cb15f486546f4af71399a533a8d60da58ad13619aaf5</sha256>
+    <startDate>2021-01-21T01:30:00.000Z</startDate>
+    <subtitle>Green Recovery in Rural Japan: NPO Founder - Yoshida Hiroko</subtitle>
+    <title>RISING</title>
+    <uploadedDate>2021-01-21T03:43:00.142Z</uploadedDate>
   </episode>
 </episodeList>
