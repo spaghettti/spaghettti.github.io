@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-21T07:55:02.847Z</lastUpdated>
+  <lastUpdated>2021-01-21T15:50:03.261Z</lastUpdated>
   <seriesId>054ab52e36a50c36</seriesId>
   <title>CYCLE AROUND JAPAN  Highlights</title>
   <episode>
@@ -115,6 +115,22 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
     <uploadedDate>2021-01-14T17:05:32.790Z</uploadedDate>
     <raw>https://mega.nz/folder/kM1gwQYZ#tdVxyuPW6kyrUyrKL-oXoQ</raw>
+  </episode>
+  <episode>
+    <airingId>021</airingId>
+    <content>Hyogo Prefecture is known for its capital and port, Kobe, but inland it has many other distinct areas, each proud of its culture and history. On this 300-km trip we cross the autumn mountains to encounter fascinating characters such as a farming couple who rescued a rare, historical variety of bean, and the lone artisan still plying a famous wicker trunk craft tradition. We'll ride the far coastline with a local cycling team, and visit a tiny country smokehouse run by a husband and wife.</content>
+    <description>From the port of Kobe, we cycle across the fall mountains to explore the inland side of Hyogo pref., an area where people treasure their unique cultural traditions as a legacy for generations to come.</description>
+    <endDate>2021-01-21T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/j7ZmAbzD#xN_RfQdafDqPtzJU67Nf4g</link>
+    <recordDateEnd>2021-01-21T15:00:34.309Z</recordDateEnd>
+    <recordDateStart>2021-01-21T14:29:20.100Z</recordDateStart>
+    <seriesId>2070</seriesId>
+    <sha256>23260111471331c56d852e694415f909e25dd52713ed4a06cf7e935d4a063cae</sha256>
+    <startDate>2021-01-21T14:30:00.000Z</startDate>
+    <subtitle>Hyogo - A Legacy for the Future</subtitle>
+    <title>CYCLE AROUND JAPAN  Highlights</title>
+    <uploadedDate>2021-01-21T15:46:24.517Z</uploadedDate>
+    <raw>https://mega.nz/folder/3jAyALxB#-iZTy71mgZSTVBzOWm-g5Q</raw>
   </episode>
   <episode>
     <airingId>029</airingId>
