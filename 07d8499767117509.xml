@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-21T06:50:03.732Z</lastUpdated>
+  <lastUpdated>2021-01-21T07:55:02.805Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -563,6 +563,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T00:16:23.049Z</uploadedDate>
     <raw>https://mega.nz/folder/xFQ3RQAA#erv9GfbV9idyTl0BAOJvoA</raw>
+  </episode>
+  <episode>
+    <airingId>620</airingId>
+    <content>A young Rwandan female entrepreneur has had success producing and marketing beetroot wine and providing stable employment for local women. The program follows her battle to succeed in business.</content>
+    <description>A young Rwandan female entrepreneur has had success producing and marketing beetroot wine and providing stable employment for local women. The program follows her battle to succeed in business.</description>
+    <endDate>2021-01-21T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/qNNUBbSB#zmkczaEBT07lt35bH-mcdg</link>
+    <recordDateEnd>2021-01-21T07:30:39.230Z</recordDateEnd>
+    <recordDateStart>2021-01-21T07:14:20.010Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>543b14d2917ddc2961e616b31b28b20b96eae53289ff9f211ee03b777af76404</sha256>
+    <startDate>2021-01-21T07:15:00.000Z</startDate>
+    <subtitle>Turning Beetroot Into Wine: Assumpta Uwamariya / CEO, Karisimbi Wines Limited</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-21T07:52:11.422Z</uploadedDate>
+    <raw>https://mega.nz/folder/sVJmWJzS#V9iBIXVA4QkiKMA_66ODjw</raw>
   </episode>
   <episode>
     <airingId>621</airingId>
