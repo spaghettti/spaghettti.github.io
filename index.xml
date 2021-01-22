@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-22T16:10:03.773Z</lastUpdated>
+  <lastUpdated>2021-01-22T17:45:04.277Z</lastUpdated>
   <series>
     <count>15</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -883,10 +883,10 @@
     <title>TIME-LAPSE</title>
   </series>
   <series>
-    <count>7</count>
+    <count>8</count>
     <uniqueId>a5fed3c217d7b7f6</uniqueId>
-    <lastAiring>2021-01-15T15:30:00.000Z</lastAiring>
-    <lastUpload>2021-01-19T08:23:08.423Z</lastUpload>
+    <lastAiring>2021-01-22T15:30:00.000Z</lastAiring>
+    <lastUpload>2021-01-22T17:44:11.561Z</lastUpload>
     <seriesId>4002</seriesId>
     <title>Today's Close-Up</title>
   </series>

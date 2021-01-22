@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-22T16:10:03.682Z</lastUpdated>
+  <lastUpdated>2021-01-22T17:45:04.188Z</lastUpdated>
   <seriesId>a5fed3c217d7b7f6</seriesId>
   <title>Today's Close-Up</title>
   <episode>
@@ -135,5 +135,24 @@ Hamada Atsuo (Professor, Tokyo Medical University)
     <title>Today's Close-Up</title>
     <uploadedDate>2021-01-19T08:23:08.423Z</uploadedDate>
     <raw>https://mega.nz/folder/eI0AxQoI#y65ja-PIE3FRznf-hN3avw</raw>
+  </episode>
+  <episode>
+    <airingId>815</airingId>
+    <content>Japan is in the midst of a third wave of coronavirus infections, the worst yet. The collapse of the medical system could soon become reality. With beds in short supply, ambulances transporting patients are increasingly being turned away from hospitals. Many people have no choice but to recuperate at home, anxiously monitoring for a sudden deterioration in their conditions. We ask medical experts how Japan can bring the situation under control.
+Guest:
+Ogura Takayuki (COO, Japan ECMOnet for COVID-19)
+*Today's Close-Up will continue to report on COVID-19.</content>
+    <description>A surge in COVID-19 cases across Japan is straining hospitals and pushing the medical system to the brink of collapse. We ask experts what the government can do to avert a crisis and save lives.</description>
+    <endDate>2021-01-22T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/XqI21ZCK#dbMujC_qOE-vkzOLzl_g0w</link>
+    <recordDateEnd>2021-01-22T16:00:23.477Z</recordDateEnd>
+    <recordDateStart>2021-01-22T15:29:23.086Z</recordDateStart>
+    <seriesId>4002</seriesId>
+    <sha256>b7bf8a2375fa3f05216acd3904683a5cbaebd40285315f71d7e930a702ca4cb1</sha256>
+    <startDate>2021-01-22T15:30:00.000Z</startDate>
+    <subtitle>Frontline of COVID-19 Fight: An Escalating Medical Crisis</subtitle>
+    <title>Today's Close-Up</title>
+    <uploadedDate>2021-01-22T17:44:11.561Z</uploadedDate>
+    <raw>https://mega.nz/folder/oWYADLaQ#1FqS2YGsK56y-XM0wAbifQ</raw>
   </episode>
 </episodeList>
