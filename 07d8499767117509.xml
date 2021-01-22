@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-22T05:15:03.839Z</lastUpdated>
+  <lastUpdated>2021-01-22T08:10:03.682Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1106,6 +1106,7 @@
     <subtitle/>
     <title>Direct Talk</title>
     <uploadedDate>2021-01-22T05:13:18.160Z</uploadedDate>
+    <raw>https://mega.nz/folder/4RpElRLD#z-fw-wakH0qjy3amvWf-Wg</raw>
   </episode>
   <episode>
     <airingId>701</airingId>
@@ -1378,6 +1379,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-24T02:11:37.807Z</uploadedDate>
     <raw>https://mega.nz/folder/E1F2WTbT#UDhcllmO3gLVlMyGP6f-SA</raw>
+  </episode>
+  <episode>
+    <airingId>720</airingId>
+    <content>Executive Producer, Stephen Garrett, has had a 40-year career in the entertainment industry producing films and creating television drama in Hollywood and the UK for a global audience.</content>
+    <description>Executive Producer, Stephen Garrett, has had a 40-year career in the entertainment industry producing films and creating television drama in Hollywood and the UK for a global audience.</description>
+    <endDate>2021-01-22T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/BHoUCaIY#qqB8qum8aNDAvxkCNH6o6Q</link>
+    <recordDateEnd>2021-01-22T07:30:35.597Z</recordDateEnd>
+    <recordDateStart>2021-01-22T07:14:20.018Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>ea9dfd69143fb0cf31e1fd6f29a20b844b4b7b3d532352dacaffa863aea149e3</sha256>
+    <startDate>2021-01-22T07:15:00.000Z</startDate>
+    <subtitle>A New Era of Drama: Stephen Garrett / Drama Producer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-22T08:08:07.389Z</uploadedDate>
+    <raw>https://mega.nz/folder/oPoAFIJK#94fPKI7rwi7PG2dDVaeekQ</raw>
   </episode>
   <episode>
     <airingId>721</airingId>

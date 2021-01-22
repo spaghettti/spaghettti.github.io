@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-22T05:15:03.859Z",
+  "lastUpdated": "2021-01-22T08:10:03.700Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1104,7 +1104,8 @@
       "startDate": "2021-01-22T04:15:00.000Z",
       "subtitle": "",
       "title": "Direct Talk",
-      "uploadedDate": "2021-01-22T05:13:18.160Z"
+      "uploadedDate": "2021-01-22T05:13:18.160Z",
+      "raw": "https://mega.nz/folder/4RpElRLD#z-fw-wakH0qjy3amvWf-Wg"
     },
     {
       "airingId": "701",
@@ -1377,6 +1378,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-24T02:11:37.807Z",
       "raw": "https://mega.nz/folder/E1F2WTbT#UDhcllmO3gLVlMyGP6f-SA"
+    },
+    {
+      "airingId": "720",
+      "content": "Executive Producer, Stephen Garrett, has had a 40-year career in the entertainment industry producing films and creating television drama in Hollywood and the UK for a global audience.",
+      "description": "Executive Producer, Stephen Garrett, has had a 40-year career in the entertainment industry producing films and creating television drama in Hollywood and the UK for a global audience.",
+      "endDate": "2021-01-22T07:30:00.000Z",
+      "link": "https://mega.nz/folder/BHoUCaIY#qqB8qum8aNDAvxkCNH6o6Q",
+      "recordDateEnd": "2021-01-22T07:30:35.597Z",
+      "recordDateStart": "2021-01-22T07:14:20.018Z",
+      "seriesId": "2058",
+      "sha256": "ea9dfd69143fb0cf31e1fd6f29a20b844b4b7b3d532352dacaffa863aea149e3",
+      "startDate": "2021-01-22T07:15:00.000Z",
+      "subtitle": "A New Era of Drama: Stephen Garrett / Drama Producer",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-22T08:08:07.389Z",
+      "raw": "https://mega.nz/folder/oPoAFIJK#94fPKI7rwi7PG2dDVaeekQ"
     },
     {
       "airingId": "721",
