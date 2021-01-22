@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-22T08:10:03.580Z",
+  "lastUpdated": "2021-01-22T16:10:03.547Z",
   "seriesId": "2019",
   "title": "Dining with the Chef",
   "episodes": [
@@ -306,6 +306,21 @@
       "title": "Dining with the Chef",
       "uploadedDate": "2021-01-01T15:47:45.401Z",
       "raw": "https://mega.nz/folder/tNdRWA6B#I3CkYc4eh8IxfaO2LTVcIg"
+    },
+    {
+      "airingId": "283",
+      "content": "Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques! Featured recipes: (1) Akashiyaki (Egg Balls in Dashi) (2) Kayaku-Gohan (Flavorful Mixed Rice).",
+      "description": "Featured recipes: (1) Akashiyaki (Egg Balls in Dashi) (2) Kayaku-Gohan (Flavorful Mixed Rice)Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques!",
+      "endDate": "2021-01-22T15:00:00.000Z",
+      "link": "https://mega.nz/folder/O6RGQDSB#d_V5sVuAHNSDvbbnzhWWWA",
+      "recordDateEnd": "2021-01-22T15:00:28.231Z",
+      "recordDateStart": "2021-01-22T14:29:20.099Z",
+      "seriesId": "2019",
+      "sha256": "18b8688bfd72123a4e0d1654d756a19a67857d336114710e305a198d042e3e9b",
+      "startDate": "2021-01-22T14:30:00.000Z",
+      "subtitle": "Authentic Japanese Cooking: Akashiyaki (Egg Balls in Dashi)",
+      "title": "Dining with the Chef",
+      "uploadedDate": "2021-01-22T16:05:47.126Z"
     }
   ]
 }
