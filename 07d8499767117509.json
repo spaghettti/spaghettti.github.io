@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-22T04:55:03.025Z",
+  "lastUpdated": "2021-01-22T05:15:03.859Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1090,6 +1090,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-31T11:08:53.787Z",
       "raw": "https://mega.nz/folder/cAxEHLYJ#64TXExFJb7oWE6wCmmPRIA"
+    },
+    {
+      "airingId": "693",
+      "content": "",
+      "description": "GiGi's Playhouse supports people with Down Syndrome. 49 are in the U.S. and Mexico. 30,000 people use their program.  We speak to founder Nancy Gianni as she continues here mission during COVID-19.",
+      "endDate": "2021-01-22T04:30:00.000Z",
+      "link": "https://mega.nz/folder/MBBQFBIL#hx9J1S2zFz82I7Y5zHwR6g",
+      "recordDateEnd": "2021-01-22T04:30:27.371Z",
+      "recordDateStart": "2021-01-22T04:14:20.103Z",
+      "seriesId": "2058",
+      "sha256": "c5ee7f1616764bf9ed16771f7776fcd531cce44f697606e021c56065bc9cae7c",
+      "startDate": "2021-01-22T04:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-22T05:13:18.160Z"
     },
     {
       "airingId": "701",
