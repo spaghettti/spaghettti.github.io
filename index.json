@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-23T04:05:03.892Z",
+  "lastUpdated": "2021-01-23T04:15:03.467Z",
   "series": [
     {
       "count": 15,
@@ -642,10 +642,10 @@
       "title": "NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL"
     },
     {
-      "count": 10,
+      "count": 11,
       "uniqueId": "da2ed3151c7e82e4",
-      "lastAiring": "2021-01-16T02:50:00.000Z",
-      "lastUpload": "2021-01-16T21:40:32.875Z",
+      "lastAiring": "2021-01-23T02:50:00.000Z",
+      "lastUpload": "2021-01-23T04:11:41.364Z",
       "seriesId": "6026",
       "title": "no art, no life"
     },
@@ -666,10 +666,10 @@
       "title": "Paprika  Let's dance!"
     },
     {
-      "count": 10,
+      "count": 11,
       "uniqueId": "3bee8422e8005b98",
-      "lastAiring": "2021-01-16T03:55:00.000Z",
-      "lastUpload": "2021-01-16T21:35:18.153Z",
+      "lastAiring": "2021-01-23T03:55:00.000Z",
+      "lastUpload": "2021-01-23T04:13:19.939Z",
       "seriesId": "6021",
       "title": "PythagoraSwitch mini"
     },

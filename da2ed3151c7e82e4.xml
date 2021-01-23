@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-23T04:05:03.829Z</lastUpdated>
+  <lastUpdated>2021-01-23T04:15:03.400Z</lastUpdated>
   <seriesId>da2ed3151c7e82e4</seriesId>
   <title>no art, no life</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>no art, no life</title>
     <uploadedDate>2021-01-16T21:40:32.875Z</uploadedDate>
     <raw>https://mega.nz/folder/wKQxFQxB#ISNNDbr9tXC1GDKgC8brwQ</raw>
+  </episode>
+  <episode>
+    <airingId>007</airingId>
+    <content/>
+    <description>Outsider artists like Sanae Sasaki are gaining recognition around the world. Although she creates mainly for herself, others have taken notice. See how these artists live and work.</description>
+    <endDate>2021-01-23T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/mIsSWRRb#vyLjdPPo4IQDrEAvPjpVBQ</link>
+    <recordDateEnd>2021-01-23T02:55:22.867Z</recordDateEnd>
+    <recordDateStart>2021-01-23T02:49:23.004Z</recordDateStart>
+    <seriesId>6026</seriesId>
+    <sha256>36cf901a0ec5af09c861d544db11618d096ff087ee4007f1dc71a17525f9a52d</sha256>
+    <startDate>2021-01-23T02:50:00.000Z</startDate>
+    <subtitle/>
+    <title>no art, no life</title>
+    <uploadedDate>2021-01-23T04:11:41.364Z</uploadedDate>
+    <raw>https://mega.nz/folder/s65WXBRJ#wU6AtUZxiG2R0E8VZpgt0A</raw>
   </episode>
   <episode>
     <airingId>013</airingId>

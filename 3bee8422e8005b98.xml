@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-23T04:05:03.821Z</lastUpdated>
+  <lastUpdated>2021-01-23T04:15:03.391Z</lastUpdated>
   <seriesId>3bee8422e8005b98</seriesId>
   <title>PythagoraSwitch mini</title>
   <episode>
@@ -163,5 +163,21 @@
     <title>PythagoraSwitch mini</title>
     <uploadedDate>2021-01-16T21:35:18.153Z</uploadedDate>
     <raw>https://mega.nz/folder/jUMHGSRJ#ltm8uRpjWEd4ZTnpS2iw0Q</raw>
+  </episode>
+  <episode>
+    <airingId>025</airingId>
+    <content/>
+    <description>There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time "Pythagora Equipment Academy"...</description>
+    <endDate>2021-01-23T04:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/oPpmzTLC#eBw_NheHx3Qw__wy8-9v1Q</link>
+    <recordDateEnd>2021-01-23T04:00:29.765Z</recordDateEnd>
+    <recordDateStart>2021-01-23T03:54:23.002Z</recordDateStart>
+    <seriesId>6021</seriesId>
+    <sha256>1aa81a1acb27d40aa2f0bc827abaf1cd96495276300761c2d47d227a70373608</sha256>
+    <startDate>2021-01-23T03:55:00.000Z</startDate>
+    <subtitle/>
+    <title>PythagoraSwitch mini</title>
+    <uploadedDate>2021-01-23T04:13:19.939Z</uploadedDate>
+    <raw>https://mega.nz/folder/23xCBJLL#3ELwlC5kmJEkMMHcN0hqXA</raw>
   </episode>
 </episodeList>
