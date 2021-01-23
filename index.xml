@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-23T01:30:03.903Z</lastUpdated>
+  <lastUpdated>2021-01-23T02:05:03.159Z</lastUpdated>
   <series>
     <count>15</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -35,10 +35,10 @@
     <title>ANIMATION X PARALYMPIC</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>0fc6cd6b02dc8d5f</uniqueId>
-    <lastAiring>2020-12-26T00:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-28T00:31:48.470Z</lastUpload>
+    <lastAiring>2021-01-23T00:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-23T02:03:57.782Z</lastUpload>
     <seriesId>2065</seriesId>
     <title>Anime Supernova</title>
   </series>

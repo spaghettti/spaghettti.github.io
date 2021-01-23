@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-23T01:30:03.772Z</lastUpdated>
+  <lastUpdated>2021-01-23T02:05:03.003Z</lastUpdated>
   <seriesId>0fc6cd6b02dc8d5f</seriesId>
   <title>Anime Supernova</title>
   <episode>
@@ -67,5 +67,21 @@
     <title>Anime Supernova</title>
     <uploadedDate>2020-12-26T16:02:39.880Z</uploadedDate>
     <raw>https://mega.nz/folder/jQlywQbT#BIo_jxBdg7PRg76DllkZbQ</raw>
+  </episode>
+  <episode>
+    <airingId>046</airingId>
+    <content>Tomioka currently heads the 3DCG studio Canavan Graphics. His job encompasses directing, writing and producing, all while managing his company. The talented creator is well-known for his original comedic animation style. He has also turned his original characters into multi-faceted businesses that include goods, video games and other ventures. In this episode, we find out what drives Tomioka's creativity and how he has become a master of comical 3DCG animation.</content>
+    <description>Tomioka Satoshi is a director, writer, producer, and CEO known for his unique comedic style and multi-faceted business ventures. Watch and find out how this renaissance man mastered 3DCG animation.</description>
+    <endDate>2021-01-23T00:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/EdwwEIzJ#Scn7SzcsicEtmakFOw6VSQ</link>
+    <recordDateEnd>2021-01-23T00:25:29.564Z</recordDateEnd>
+    <recordDateStart>2021-01-23T00:09:20.100Z</recordDateStart>
+    <seriesId>2065</seriesId>
+    <sha256>576866cdea11d9f3a0447389a798ed7a71391b06ff609617638bc585cc03b944</sha256>
+    <startDate>2021-01-23T00:10:00.000Z</startDate>
+    <subtitle>A Master of Comical 3DCG Animation</subtitle>
+    <title>Anime Supernova</title>
+    <uploadedDate>2021-01-23T02:03:57.782Z</uploadedDate>
+    <raw>https://mega.nz/folder/HrAyEZLb#_oyjS17Z-rB48L4SBJeBzQ</raw>
   </episode>
 </episodeList>
