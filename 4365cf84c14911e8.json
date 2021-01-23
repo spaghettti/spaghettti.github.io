@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-23T13:45:03.677Z",
+  "lastUpdated": "2021-01-23T15:40:03.495Z",
   "seriesId": "2074,3004",
   "title": "BIZ STREAM",
   "episodes": [
@@ -98,6 +98,21 @@
       "title": "BIZ STREAM",
       "uploadedDate": "2021-01-16T22:18:42.663Z",
       "raw": "https://mega.nz/folder/jk81UaTB#W41Ujy0IvSKTwNv9Q7nXPQ"
+    },
+    {
+      "airingId": "091",
+      "content": "[On-Site Report]\nThe implementation of education technology, or \"EdTech,\" is advancing rapidly around the world. In Japan, many EdTech companies are focusing on using technology to not only stimulate the minds of students, but to meet the changing needs of teachers. This episode features an Osaka-based company that has created easy-to-follow lesson plans for teaching robotics and a Tokyo startup that has drawn global attention for its intelligence-increasing smartphone apps.\n[In Depth: Biden Takes the Reins of US Economy]\nIt's a new dawn for America as Joe Biden becomes the 46th President of the United States. He takes office pledging to restore the country's battered economy. We look at his plans and their global impact.\n[Global Trends: Eco-Friendly Sugar Harvest Brings Sweet Success]\nA growing environmental awareness in Thailand is bringing change to the country's sugar industry. Producers are turning away from the polluting ways of the past and finding new business opportunities.",
+      "description": "This episode focuses on education technology in Japan and features a company offering easy-to-follow robotics lessons and an IT startup that is creating intelligence-increasing smartphone apps.",
+      "endDate": "2021-01-23T14:40:00.000Z",
+      "link": "https://mega.nz/folder/ryY02ByR#IZ3JeYCXfoFRaeSHg5SrLQ",
+      "recordDateEnd": "2021-01-23T14:40:43.617Z",
+      "recordDateStart": "2021-01-23T14:09:20.101Z",
+      "seriesId": "2074",
+      "sha256": "9da74ce2817cd19ad475ecdf0ec9faebdd7d766829069e08f3c8c3b46eeb5e53",
+      "startDate": "2021-01-23T14:10:00.000Z",
+      "subtitle": "EdTech in Japan",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2021-01-23T15:36:53.809Z"
     },
     {
       "airingId": "704",

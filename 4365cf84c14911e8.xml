@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-23T13:45:03.675Z</lastUpdated>
+  <lastUpdated>2021-01-23T15:40:03.493Z</lastUpdated>
   <seriesId>4365cf84c14911e8</seriesId>
   <title>BIZ STREAM</title>
   <episode>
@@ -129,6 +129,26 @@ Japan is leading in the new field of health care known as "forest therapy." Spec
     <title>BIZ STREAM</title>
     <uploadedDate>2021-01-16T22:18:42.663Z</uploadedDate>
     <raw>https://mega.nz/folder/jk81UaTB#W41Ujy0IvSKTwNv9Q7nXPQ</raw>
+  </episode>
+  <episode>
+    <airingId>091</airingId>
+    <content>[On-Site Report]
+The implementation of education technology, or "EdTech," is advancing rapidly around the world. In Japan, many EdTech companies are focusing on using technology to not only stimulate the minds of students, but to meet the changing needs of teachers. This episode features an Osaka-based company that has created easy-to-follow lesson plans for teaching robotics and a Tokyo startup that has drawn global attention for its intelligence-increasing smartphone apps.
+[In Depth: Biden Takes the Reins of US Economy]
+It's a new dawn for America as Joe Biden becomes the 46th President of the United States. He takes office pledging to restore the country's battered economy. We look at his plans and their global impact.
+[Global Trends: Eco-Friendly Sugar Harvest Brings Sweet Success]
+A growing environmental awareness in Thailand is bringing change to the country's sugar industry. Producers are turning away from the polluting ways of the past and finding new business opportunities.</content>
+    <description>This episode focuses on education technology in Japan and features a company offering easy-to-follow robotics lessons and an IT startup that is creating intelligence-increasing smartphone apps.</description>
+    <endDate>2021-01-23T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/ryY02ByR#IZ3JeYCXfoFRaeSHg5SrLQ</link>
+    <recordDateEnd>2021-01-23T14:40:43.617Z</recordDateEnd>
+    <recordDateStart>2021-01-23T14:09:20.101Z</recordDateStart>
+    <seriesId>2074</seriesId>
+    <sha256>9da74ce2817cd19ad475ecdf0ec9faebdd7d766829069e08f3c8c3b46eeb5e53</sha256>
+    <startDate>2021-01-23T14:10:00.000Z</startDate>
+    <subtitle>EdTech in Japan</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2021-01-23T15:36:53.809Z</uploadedDate>
   </episode>
   <episode>
     <airingId>704</airingId>
