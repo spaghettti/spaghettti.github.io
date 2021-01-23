@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-23T02:05:03.079Z",
+  "lastUpdated": "2021-01-23T02:30:04.085Z",
   "seriesId": "4030",
   "title": "Darwin's Amazing Animals",
   "episodes": [
@@ -66,6 +66,22 @@
       "title": "Darwin's Amazing Animals",
       "uploadedDate": "2020-12-26T09:40:51.493Z",
       "raw": "https://mega.nz/folder/Ud8mnKwa#7qnXU8VbeT6EQgShjUbBQQ"
+    },
+    {
+      "airingId": "050",
+      "content": "Life's adventures begin early for Mandarin ducklings in the big city. They must heed mother's beckoning right after they're born, leaping from the tree hollow that serves as their nest or risk being left behind. Then it's off to the nearest pond where they'll stay until adulthood. But the journey is fraught with danger. Predators such as crows watch their every move. Falling through the \"quacks\" of curbside drains is just one of many man-made hazards ahead for these adorable \"sitting ducklings\"!",
+      "description": "\"Born yesterday\" has a very different meaning for Mandarin ducklings in the big city. Their second day of life is a rite-of-passage, avoiding crows and man-made hazards in search of the nearest pond.",
+      "endDate": "2021-01-23T00:50:00.000Z",
+      "link": "https://mega.nz/folder/ZF4hjC5T#s7ZedV54IBvs3Fu6wLfeYg",
+      "recordDateEnd": "2021-01-23T00:50:28.007Z",
+      "recordDateStart": "2021-01-23T00:24:22.729Z",
+      "seriesId": "4030",
+      "sha256": "dd98a3ac01b35303a16418d85ce3bf8214324f3fd4e6f3188e6c0b4aaedf2c4b",
+      "startDate": "2021-01-23T00:25:00.000Z",
+      "subtitle": "Urban Parenting -- Mandarin Duck, Japan",
+      "title": "Darwin's Amazing Animals",
+      "uploadedDate": "2021-01-23T02:27:52.209Z",
+      "raw": "https://mega.nz/folder/iBsDFYJL#tOsWU-CUeXWxi3xY1e6nhA"
     }
   ]
 }
