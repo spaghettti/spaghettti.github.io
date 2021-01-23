@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-23T04:25:03.426Z",
+  "lastUpdated": "2021-01-23T04:40:03.265Z",
   "seriesId": "6022",
   "title": "Easy Japanese",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "Easy Japanese",
       "uploadedDate": "2021-01-16T21:27:00.657Z",
       "raw": "https://mega.nz/folder/8voGWayb#h59f0KnSWGpwFDHmOHBdeg"
+    },
+    {
+      "airingId": "041",
+      "content": "",
+      "description": "#41 Can we buy tickets? / To ask someone if you can do something, say the verb to indicate your desired action, followed by \"koto ga\" and \"dekimasu,\" meaning something is possible. Then add \"ka.\"",
+      "endDate": "2021-01-23T04:30:00.000Z",
+      "link": "https://mega.nz/folder/rnAAnTjR#nR4MXdgwzcTGRDoRZEdcMQ",
+      "recordDateEnd": "2021-01-23T04:30:27.939Z",
+      "recordDateStart": "2021-01-23T04:24:20.103Z",
+      "seriesId": "6022",
+      "sha256": "c8b888c53d32deb5a8965faad2e978a873df6214446d82381062ba4a171c4f8c",
+      "startDate": "2021-01-23T04:25:00.000Z",
+      "subtitle": "",
+      "title": "Easy Japanese",
+      "uploadedDate": "2021-01-23T04:39:22.593Z"
     }
   ]
 }

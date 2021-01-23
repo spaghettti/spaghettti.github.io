@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-23T04:25:03.425Z</lastUpdated>
+  <lastUpdated>2021-01-23T04:40:03.264Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -163,5 +163,20 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-01-16T21:27:00.657Z</uploadedDate>
     <raw>https://mega.nz/folder/8voGWayb#h59f0KnSWGpwFDHmOHBdeg</raw>
+  </episode>
+  <episode>
+    <airingId>041</airingId>
+    <content/>
+    <description>#41 Can we buy tickets? / To ask someone if you can do something, say the verb to indicate your desired action, followed by "koto ga" and "dekimasu," meaning something is possible. Then add "ka."</description>
+    <endDate>2021-01-23T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/rnAAnTjR#nR4MXdgwzcTGRDoRZEdcMQ</link>
+    <recordDateEnd>2021-01-23T04:30:27.939Z</recordDateEnd>
+    <recordDateStart>2021-01-23T04:24:20.103Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>c8b888c53d32deb5a8965faad2e978a873df6214446d82381062ba4a171c4f8c</sha256>
+    <startDate>2021-01-23T04:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-01-23T04:39:22.593Z</uploadedDate>
   </episode>
 </episodeList>
