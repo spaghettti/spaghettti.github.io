@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-23T04:20:03.501Z</lastUpdated>
+  <lastUpdated>2021-01-23T04:25:03.377Z</lastUpdated>
   <seriesId>44913f78df1c0e91</seriesId>
   <title>The Signs</title>
   <episode>
@@ -99,5 +99,20 @@
     <title>The Signs</title>
     <uploadedDate>2021-01-13T16:57:41.105Z</uploadedDate>
     <raw>https://mega.nz/folder/6pxSzZxY#9T5VvIhMitEHajL-kHUMPg</raw>
+  </episode>
+  <episode>
+    <airingId>008</airingId>
+    <content>The rapid increase in the use of disposable masks and to-go containers during the pandemic has made the problem of plastic waste go from bad to worse. But some Japanese companies are working to alleviate the issue. Environmentally friendly masks made of fibers used for traditional Japanese paper, which decompose in 3 months when buried in soil. Also underway is the development of plates made from recycled food waste, and an initiative to compost them after use.</content>
+    <description>Plastic waste is rapidly increasing during the pandemic. We spotlight Japanese companies efforts to protect the environment, such as making masks form paper, and plates made of recycled food waste.</description>
+    <endDate>2021-01-23T03:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/biojBIBC#n_TSJTjqN-4AunPMTh3Wqw</link>
+    <recordDateEnd>2021-01-23T03:55:25.365Z</recordDateEnd>
+    <recordDateStart>2021-01-23T03:39:20.118Z</recordDateStart>
+    <seriesId>2089</seriesId>
+    <sha256>b2f6d85330410aee95bff7a2fe0137e5f86f3183773477be787fe6b9a8466c87</sha256>
+    <startDate>2021-01-23T03:40:00.000Z</startDate>
+    <subtitle>Eliminating Plastic Waste</subtitle>
+    <title>The Signs</title>
+    <uploadedDate>2021-01-23T04:21:54.671Z</uploadedDate>
   </episode>
 </episodeList>
