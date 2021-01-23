@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-23T15:40:03.495Z</lastUpdated>
+  <lastUpdated>2021-01-23T17:55:03.418Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -52,6 +52,21 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <title>NHK Documentary</title>
     <uploadedDate>2021-01-13T16:29:44.817Z</uploadedDate>
     <raw>https://mega.nz/folder/L8s2gKYS#KAsS1iml_XAEDY_6_Op5nA</raw>
+  </episode>
+  <episode>
+    <airingId>375</airingId>
+    <content>Watanabe Shinji is a teacher known among students for his passionate teaching style. For the past year, he's been pursuing one particular challenging topic: bullying. Always in the back of his mind, is the memory of a boy who eventually took his own life, after being repeatedly tormented by his peers. This is a record of the year-long struggle by a teacher and his students to create a class completely free from bullying.</content>
+    <description>Watanabe Shinji is a teacher passionately dedicated to tackling the sensitive issue of bullying. We follow a year-long struggle by him and his students to create a class completely free from bullying.</description>
+    <endDate>2021-01-23T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/vi4jhSYL#D0QAJhkKH3LqXV0Dv82ueg</link>
+    <recordDateEnd>2021-01-23T16:00:28.835Z</recordDateEnd>
+    <recordDateStart>2021-01-23T15:09:20.100Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>4fce5d6cc883360d32f562465df1abf092f01530b6942626e625615ba94e7ce4</sha256>
+    <startDate>2021-01-23T15:10:00.000Z</startDate>
+    <subtitle>Leaving No One Behind</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2021-01-23T17:54:40.840Z</uploadedDate>
   </episode>
   <episode>
     <airingId>377</airingId>
