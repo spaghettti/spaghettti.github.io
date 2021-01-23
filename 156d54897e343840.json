@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-23T02:30:04.068Z",
+  "lastUpdated": "2021-01-23T04:05:03.791Z",
   "seriesId": "3016",
   "title": "NHK WORLD PRIME",
   "episodes": [
@@ -194,6 +194,22 @@
       "title": "NHK WORLD PRIME",
       "uploadedDate": "2021-01-19T09:02:39.854Z",
       "raw": "https://mega.nz/folder/rNtURByJ#UI3sUoRO_HzPwM6j4qNyTA"
+    },
+    {
+      "airingId": "089",
+      "content": "In a year when countless sporting events were canceled, an unprecedented long-distance race was born: \"UTMB for the planet.\" Online participants ran a set distance at places around the world. Top pros from Ultra-Trail du Mont-Blanc and world-class runners from Japan were among those involved in the intense challenge. Watch passionate runners bring the world together, at a time when the pandemic has kept people apart.",
+      "description": "An unprecedented long-distance virtual race was born in 2020. Top pros from Ultra-Trail du Mont-Blanc and world-class runners from Japan were among those involved in the intense challenge.",
+      "endDate": "2021-01-23T02:00:00.000Z",
+      "link": "https://mega.nz/folder/2IlV1YrR#j8RCG307VETjwYGR2i4CYw",
+      "recordDateEnd": "2021-01-23T02:00:27.763Z",
+      "recordDateStart": "2021-01-23T01:09:20.100Z",
+      "seriesId": "3016",
+      "sha256": "8327bbdefd479faf3964aa98bfeff076e58f4bb7d80c4cc1144aaf1724fd5b3f",
+      "startDate": "2021-01-23T01:10:00.000Z",
+      "subtitle": "GREAT RACE: You'll Never Run Alone",
+      "title": "NHK WORLD PRIME",
+      "uploadedDate": "2021-01-23T04:01:55.034Z",
+      "raw": "https://mega.nz/folder/UNxVjQ5T#dhPHxf9L8SXl0WLixCCI6Q"
     }
   ]
 }
