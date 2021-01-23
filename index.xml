@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-22T18:45:03.381Z</lastUpdated>
+  <lastUpdated>2021-01-23T01:30:03.903Z</lastUpdated>
   <series>
     <count>15</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -937,6 +937,14 @@
     <lastUpload>2020-12-24T04:29:56.207Z</lastUpload>
     <seriesId>6030</seriesId>
     <title>Ukiyoe EDO-LIFE</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>28ece85b98a32e01</uniqueId>
+    <lastAiring>2021-01-22T23:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-23T01:29:24.358Z</lastUpload>
+    <seriesId>5001</seriesId>
+    <title>We're in This Together</title>
   </series>
   <series>
     <count>10</count>
