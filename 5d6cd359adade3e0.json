@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-24T12:10:03.301Z",
+  "lastUpdated": "2021-01-24T12:35:03.562Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
@@ -66,6 +66,22 @@
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2021-01-13T12:11:36.365Z",
       "raw": "https://mega.nz/folder/qt82UICR#1afiTT8NEdEwo0vBRj96ZQ"
+    },
+    {
+      "airingId": "066",
+      "content": "",
+      "description": "This time we introduce \"BENTO EXPO,\" which shows various BENTOs made by people outside Japan. One of them is peanut butter feature lunch by Americans, another is herb BENTO by Thais.",
+      "endDate": "2021-01-24T11:55:00.000Z",
+      "link": "https://mega.nz/folder/QOxRgIbb#rZUceDpn6-l-Bvp2FGVLyQ",
+      "recordDateEnd": "2021-01-24T11:55:30.221Z",
+      "recordDateStart": "2021-01-24T11:49:20.098Z",
+      "seriesId": "2075",
+      "sha256": "8677f71e6ddebd596d793f8bb94fdc6a30cc782cc6c6931c25b781a496a3345e",
+      "startDate": "2021-01-24T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2021-01-24T12:30:15.961Z",
+      "raw": "https://mega.nz/folder/ayxhBCLB#UMeReYxl44YPHpd0v-a7Cg"
     },
     {
       "airingId": "071",

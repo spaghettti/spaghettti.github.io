@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-24T12:10:03.300Z</lastUpdated>
+  <lastUpdated>2021-01-24T12:35:03.560Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
   <episode>
@@ -67,6 +67,22 @@
     <title>Doki Doki! NHK WORLD-JAPAN</title>
     <uploadedDate>2021-01-13T12:11:36.365Z</uploadedDate>
     <raw>https://mega.nz/folder/qt82UICR#1afiTT8NEdEwo0vBRj96ZQ</raw>
+  </episode>
+  <episode>
+    <airingId>066</airingId>
+    <content/>
+    <description>This time we introduce "BENTO EXPO," which shows various BENTOs made by people outside Japan. One of them is peanut butter feature lunch by Americans, another is herb BENTO by Thais.</description>
+    <endDate>2021-01-24T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/QOxRgIbb#rZUceDpn6-l-Bvp2FGVLyQ</link>
+    <recordDateEnd>2021-01-24T11:55:30.221Z</recordDateEnd>
+    <recordDateStart>2021-01-24T11:49:20.098Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>8677f71e6ddebd596d793f8bb94fdc6a30cc782cc6c6931c25b781a496a3345e</sha256>
+    <startDate>2021-01-24T11:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2021-01-24T12:30:15.961Z</uploadedDate>
+    <raw>https://mega.nz/folder/ayxhBCLB#UMeReYxl44YPHpd0v-a7Cg</raw>
   </episode>
   <episode>
     <airingId>071</airingId>
