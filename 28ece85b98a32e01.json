@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-23T19:30:03.780Z",
+  "lastUpdated": "2021-01-24T00:55:03.977Z",
   "seriesId": "5001",
   "title": "We're in This Together",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "We're in This Together",
       "uploadedDate": "2021-01-23T01:29:24.358Z",
       "raw": "https://mega.nz/folder/kCp01RqA#rRRjIk3M2uD6ZrttMP5tDg"
+    },
+    {
+      "airingId": "321",
+      "content": "",
+      "description": "COVID-19 has taken a higher toll among the poor and people of color. Many have responded with anger and rage. But some local leaders are working to channel those emotions into positive action.",
+      "endDate": "2021-01-23T23:41:00.000Z",
+      "link": "https://mega.nz/folder/qd9WxTqR#Vi48L2r10jYeERvt-_yNIg",
+      "recordDateEnd": "2021-01-23T23:41:32.738Z",
+      "recordDateStart": "2021-01-23T23:09:20.099Z",
+      "seriesId": "5001",
+      "sha256": "9ded9eee58ac6ce357c261d5534b9c42df8635a079100724e5e76330ff184aeb",
+      "startDate": "2021-01-23T23:10:00.000Z",
+      "subtitle": "Episode 2: Disparities and Hope",
+      "title": "We're in This Together",
+      "uploadedDate": "2021-01-24T00:53:54.064Z"
     }
   ]
 }
