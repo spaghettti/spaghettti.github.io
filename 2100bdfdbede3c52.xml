@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-24T00:55:04.042Z</lastUpdated>
+  <lastUpdated>2021-01-24T01:30:03.721Z</lastUpdated>
   <seriesId>2100bdfdbede3c52</seriesId>
   <title>Drainspotters</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>Drainspotters #1 Green Tea</title>
     <uploadedDate>2020-12-29T23:08:09.199Z</uploadedDate>
     <raw>https://mega.nz/folder/rg8SiKZD#aXFLEz3oaV-CmOv7N7Df9g</raw>
+  </episode>
+  <episode>
+    <airingId>428</airingId>
+    <content/>
+    <description>Japan's artistic manhole covers tell the tale of a different town or region of the country. Nobori-Arai - or washing carp streamers - take center stage at a cherry blossom festival in Iwakura.</description>
+    <endDate>2021-01-24T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/lSxSgI7L#VVkdrqJxwxRgSkxE_dwlNg</link>
+    <recordDateEnd>2021-01-24T00:00:25.155Z</recordDateEnd>
+    <recordDateStart>2021-01-23T23:55:20.006Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>b0e7aa9fc49a8c38c051c9ff3be605f5d504df0f352a1da5d24988d0bc6e2f1b</sha256>
+    <startDate>2021-01-23T23:56:00.000Z</startDate>
+    <subtitle/>
+    <title>Drainspotters #3 Nonbori-Arai</title>
+    <uploadedDate>2021-01-24T01:27:31.373Z</uploadedDate>
+    <raw>https://mega.nz/folder/RCx0jY7Q#tX1Ab2OG55aISdnQeJB6vg</raw>
   </episode>
   <episode>
     <airingId>429</airingId>
