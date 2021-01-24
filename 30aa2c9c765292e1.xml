@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-24T19:45:03.335Z</lastUpdated>
+  <lastUpdated>2021-01-24T21:30:03.538Z</lastUpdated>
   <seriesId>30aa2c9c765292e1</seriesId>
   <title>Inspiring Landscapes</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>Inspiring Landscapes</title>
     <uploadedDate>2020-12-25T02:55:59.897Z</uploadedDate>
     <raw>https://mega.nz/folder/W9dFwaiL#SfxcQAGDhRDOyvyeRfDeMg</raw>
+  </episode>
+  <episode>
+    <airingId>036</airingId>
+    <content/>
+    <description>This program portrays the natural beauty still to be found all over Japan by following the scenery and wildlife through the seasons. Today: Japan's northernmost big river, Hokkaido's Teshio River.</description>
+    <endDate>2021-01-24T20:47:00.000Z</endDate>
+    <link>https://mega.nz/folder/YiRCxbST#lqkxnsWooyTBgqVScZatWA</link>
+    <recordDateEnd>2021-01-24T20:47:31.668Z</recordDateEnd>
+    <recordDateStart>2021-01-24T20:29:20.098Z</recordDateStart>
+    <seriesId>6206</seriesId>
+    <sha256>82df64de8bd5de6eba2bc7bb0b6731e8d3cb1d060a044a8e08a46d76bf6eebba</sha256>
+    <startDate>2021-01-24T20:30:00.000Z</startDate>
+    <subtitle/>
+    <title>Inspiring Landscapes</title>
+    <uploadedDate>2021-01-24T21:28:59.684Z</uploadedDate>
+    <raw>https://mega.nz/folder/tLR2wLBK#_0ElL4YnEXnBtemkQFQNSw</raw>
   </episode>
   <episode>
     <airingId>039</airingId>
