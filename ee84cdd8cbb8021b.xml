@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-24T12:35:03.566Z</lastUpdated>
+  <lastUpdated>2021-01-24T18:00:03.604Z</lastUpdated>
   <seriesId>ee84cdd8cbb8021b</seriesId>
   <title>SONGS OF TOKYO</title>
   <episode>
@@ -51,5 +51,20 @@
     <title>SONGS OF TOKYO</title>
     <uploadedDate>2020-12-24T08:19:47.292Z</uploadedDate>
     <raw>https://mega.nz/folder/W1cUQRza#nW0ldlB2qlEDc3ikJdocAw</raw>
+  </episode>
+  <episode>
+    <airingId>019</airingId>
+    <content>Showcasing Japanese music to the world. Featuring live performances by some of Japan's leading J-POP singers and musicians.</content>
+    <description>"Winter Queen" Hirose Kohmi, a songstress who has released hit singles such as "My God blessed Romance" Now, she is in the spotlight for innovative cover songs on her YouTube channel.</description>
+    <endDate>2021-01-24T15:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/nuJWDLyZ#2lhVgsCmt78C-jIoMh4MRQ</link>
+    <recordDateEnd>2021-01-24T15:40:32.616Z</recordDateEnd>
+    <recordDateStart>2021-01-24T15:09:23.191Z</recordDateStart>
+    <seriesId>2080</seriesId>
+    <sha256>a932b07d23d9cde7bcea32ef7bf5cdbbfa20d0ea8366bb150824ff22e89f8ecb</sha256>
+    <startDate>2021-01-24T15:10:00.000Z</startDate>
+    <subtitle>#18 Hirose Kohmi</subtitle>
+    <title>SONGS OF TOKYO</title>
+    <uploadedDate>2021-01-24T17:59:08.580Z</uploadedDate>
   </episode>
 </episodeList>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-24T12:35:03.566Z",
+  "lastUpdated": "2021-01-24T18:00:03.605Z",
   "seriesId": "2080",
   "title": "SONGS OF TOKYO",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "SONGS OF TOKYO",
       "uploadedDate": "2020-12-24T08:19:47.292Z",
       "raw": "https://mega.nz/folder/W1cUQRza#nW0ldlB2qlEDc3ikJdocAw"
+    },
+    {
+      "airingId": "019",
+      "content": "Showcasing Japanese music to the world. Featuring live performances by some of Japan's leading J-POP singers and musicians.",
+      "description": "\"Winter Queen\" Hirose Kohmi, a songstress who has released hit singles such as \"My God blessed Romance\" Now, she is in the spotlight for innovative cover songs on her YouTube channel.",
+      "endDate": "2021-01-24T15:40:00.000Z",
+      "link": "https://mega.nz/folder/nuJWDLyZ#2lhVgsCmt78C-jIoMh4MRQ",
+      "recordDateEnd": "2021-01-24T15:40:32.616Z",
+      "recordDateStart": "2021-01-24T15:09:23.191Z",
+      "seriesId": "2080",
+      "sha256": "a932b07d23d9cde7bcea32ef7bf5cdbbfa20d0ea8366bb150824ff22e89f8ecb",
+      "startDate": "2021-01-24T15:10:00.000Z",
+      "subtitle": "#18 Hirose Kohmi",
+      "title": "SONGS OF TOKYO",
+      "uploadedDate": "2021-01-24T17:59:08.580Z"
     }
   ]
 }
