@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-24T01:30:03.715Z</lastUpdated>
+  <lastUpdated>2021-01-24T01:50:03.447Z</lastUpdated>
   <seriesId>7ca9b1d10f0268d4</seriesId>
   <title>Ceramic Treasures</title>
+  <episode>
+    <airingId>005</airingId>
+    <content/>
+    <description>Today: Karatsu-yaki, Saga Prefecture. We will visit the potters from all over Japan and discover their ceramics heritage by introducing the culture and historical background.</description>
+    <endDate>2021-01-23T23:56:00.000Z</endDate>
+    <link>https://mega.nz/folder/nyRV3AbB#GEhxnGcrvn4gP-f2S1cWhw</link>
+    <recordDateEnd>2021-01-23T23:56:27.277Z</recordDateEnd>
+    <recordDateStart>2021-01-23T23:40:22.620Z</recordDateStart>
+    <seriesId>6211</seriesId>
+    <sha256>879b87a475c51cdbb07b1965bf4551c40cfce31edabd165e9a5aef708f6c97dc</sha256>
+    <startDate>2021-01-23T23:41:00.000Z</startDate>
+    <subtitle/>
+    <title>Ceramic Treasures</title>
+    <uploadedDate>2021-01-24T01:45:33.953Z</uploadedDate>
+    <raw>https://mega.nz/folder/lzQljYAT#Tn_XftKTzX9FuGl-ht9njw</raw>
+  </episode>
   <episode>
     <airingId>011</airingId>
     <content/>
