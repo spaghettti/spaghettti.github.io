@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-24T05:05:03.154Z</lastUpdated>
+  <lastUpdated>2021-01-24T11:50:03.611Z</lastUpdated>
   <seriesId>c4202a1fd6bc966c</seriesId>
   <title>GRAND SUMO LIVE</title>
   <episode>
@@ -51,5 +51,21 @@
     <title>GRAND SUMO LIVE</title>
     <uploadedDate>2021-01-19T05:29:45.521Z</uploadedDate>
     <raw>https://mega.nz/folder/WcskiK7K#0vNJV8sU_JkM7asHMXnFoQ</raw>
+  </episode>
+  <episode>
+    <airingId>033</airingId>
+    <content/>
+    <description>NHK WORLD-JAPAN broadcasts GRAND SUMO January Tournament Final Day action live from the Kokugikan Sumo Stadium in Ryogoku, Tokyo, as the tournament champion and special prize winners are decided.</description>
+    <endDate>2021-01-24T09:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/cfQ2FBxJ#xTKdfBSuxcRCkE43Usj3lA</link>
+    <recordDateEnd>2021-01-24T09:00:24.267Z</recordDateEnd>
+    <recordDateStart>2021-01-24T07:29:20.078Z</recordDateStart>
+    <seriesId>2081</seriesId>
+    <sha256>396ed58f748214660f3762c4399ca283066a3e5f0173ea30b7c601cf2651f503</sha256>
+    <startDate>2021-01-24T07:30:00.000Z</startDate>
+    <subtitle>January Tournament Day 15 (Final Day)</subtitle>
+    <title>GRAND SUMO LIVE</title>
+    <uploadedDate>2021-01-24T11:49:11.426Z</uploadedDate>
+    <raw>https://mega.nz/folder/fIFg2DpR#V5RwFA1k8RrrZOwRLeS0Ew</raw>
   </episode>
 </episodeList>

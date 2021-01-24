@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-24T05:05:03.154Z",
+  "lastUpdated": "2021-01-24T11:50:03.612Z",
   "seriesId": "2081",
   "title": "GRAND SUMO LIVE",
   "episodes": [
@@ -50,6 +50,22 @@
       "title": "GRAND SUMO LIVE",
       "uploadedDate": "2021-01-19T05:29:45.521Z",
       "raw": "https://mega.nz/folder/WcskiK7K#0vNJV8sU_JkM7asHMXnFoQ"
+    },
+    {
+      "airingId": "033",
+      "content": "",
+      "description": "NHK WORLD-JAPAN broadcasts GRAND SUMO January Tournament Final Day action live from the Kokugikan Sumo Stadium in Ryogoku, Tokyo, as the tournament champion and special prize winners are decided.",
+      "endDate": "2021-01-24T09:00:00.000Z",
+      "link": "https://mega.nz/folder/cfQ2FBxJ#xTKdfBSuxcRCkE43Usj3lA",
+      "recordDateEnd": "2021-01-24T09:00:24.267Z",
+      "recordDateStart": "2021-01-24T07:29:20.078Z",
+      "seriesId": "2081",
+      "sha256": "396ed58f748214660f3762c4399ca283066a3e5f0173ea30b7c601cf2651f503",
+      "startDate": "2021-01-24T07:30:00.000Z",
+      "subtitle": "January Tournament Day 15 (Final Day)",
+      "title": "GRAND SUMO LIVE",
+      "uploadedDate": "2021-01-24T11:49:11.426Z",
+      "raw": "https://mega.nz/folder/fIFg2DpR#V5RwFA1k8RrrZOwRLeS0Ew"
     }
   ]
 }
