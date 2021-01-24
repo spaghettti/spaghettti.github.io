@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-24T11:50:03.718Z</lastUpdated>
+  <lastUpdated>2021-01-24T12:10:03.399Z</lastUpdated>
   <seriesId>a8827721852d236d</seriesId>
   <title>Japan-easy</title>
   <episode>
@@ -163,5 +163,20 @@
     <title>Japan-easy2</title>
     <uploadedDate>2021-01-19T04:26:31.021Z</uploadedDate>
     <raw>https://mega.nz/folder/ENRyBRDC#Cok0rzPZNUmft7W7GTk8ew</raw>
+  </episode>
+  <episode>
+    <airingId>119</airingId>
+    <content/>
+    <description>Today, we'll learn how to say "I think it's cute" in Japanese. Learn useful phrases and cool kanji! And you'll realize "Japanese is easy!"</description>
+    <endDate>2021-01-24T11:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/h6hGCRxT#aw3lLyOjx6i_FKR-NFHasA</link>
+    <recordDateEnd>2021-01-24T11:40:26.863Z</recordDateEnd>
+    <recordDateStart>2021-01-24T11:24:22.714Z</recordDateStart>
+    <seriesId>6210</seriesId>
+    <sha256>1b456eb18257ec2374005bdec2bda92eff6a06cecbdf90f6d5b2b2302c490dc6</sha256>
+    <startDate>2021-01-24T11:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Japan-easy2</title>
+    <uploadedDate>2021-01-24T12:08:09.529Z</uploadedDate>
   </episode>
 </episodeList>
