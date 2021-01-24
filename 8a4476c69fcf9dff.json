@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-24T02:40:02.959Z",
+  "lastUpdated": "2021-01-24T05:05:03.266Z",
   "seriesId": "6209",
   "title": "Somewhere Street",
   "episodes": [
@@ -66,6 +66,22 @@
       "title": "Somewhere Street mini",
       "uploadedDate": "2021-01-19T05:52:19.490Z",
       "raw": "https://mega.nz/folder/yYtEnKAS#-sDqx5TlX4z-Dw6tc3YbrQ"
+    },
+    {
+      "airingId": "010",
+      "content": "",
+      "description": "Wellington is the capital of New Zealand. It was built by European settlers in the 19th century. It has a free spirit that allows both men and women to chase their dreams and let their talents soar.",
+      "endDate": "2021-01-24T04:25:00.000Z",
+      "link": "https://mega.nz/folder/EfRBSSgZ#t1rgi9iMPhf_LsPffA2ddQ",
+      "recordDateEnd": "2021-01-24T04:25:28.105Z",
+      "recordDateStart": "2021-01-24T04:09:20.098Z",
+      "seriesId": "6209",
+      "sha256": "37e0a2197861de71391a8c5cc4f94dc9f8d6149c437d0152c7045d511a857cb5",
+      "startDate": "2021-01-24T04:10:00.000Z",
+      "subtitle": "",
+      "title": "Somewhere Street mini",
+      "uploadedDate": "2021-01-24T05:01:32.035Z",
+      "raw": "https://mega.nz/folder/omZnmKiR#-SSDmlAVViJzBCLDa1Zpbw"
     },
     {
       "airingId": "015",

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-24T02:40:02.958Z</lastUpdated>
+  <lastUpdated>2021-01-24T05:05:03.265Z</lastUpdated>
   <seriesId>8a4476c69fcf9dff</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -67,6 +67,22 @@
     <title>Somewhere Street mini</title>
     <uploadedDate>2021-01-19T05:52:19.490Z</uploadedDate>
     <raw>https://mega.nz/folder/yYtEnKAS#-sDqx5TlX4z-Dw6tc3YbrQ</raw>
+  </episode>
+  <episode>
+    <airingId>010</airingId>
+    <content/>
+    <description>Wellington is the capital of New Zealand. It was built by European settlers in the 19th century. It has a free spirit that allows both men and women to chase their dreams and let their talents soar.</description>
+    <endDate>2021-01-24T04:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/EfRBSSgZ#t1rgi9iMPhf_LsPffA2ddQ</link>
+    <recordDateEnd>2021-01-24T04:25:28.105Z</recordDateEnd>
+    <recordDateStart>2021-01-24T04:09:20.098Z</recordDateStart>
+    <seriesId>6209</seriesId>
+    <sha256>37e0a2197861de71391a8c5cc4f94dc9f8d6149c437d0152c7045d511a857cb5</sha256>
+    <startDate>2021-01-24T04:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Somewhere Street mini</title>
+    <uploadedDate>2021-01-24T05:01:32.035Z</uploadedDate>
+    <raw>https://mega.nz/folder/omZnmKiR#-SSDmlAVViJzBCLDa1Zpbw</raw>
   </episode>
   <episode>
     <airingId>015</airingId>
