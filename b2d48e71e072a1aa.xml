@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-24T02:20:03.368Z</lastUpdated>
+  <lastUpdated>2021-01-24T02:40:02.851Z</lastUpdated>
   <seriesId>b2d48e71e072a1aa</seriesId>
   <title>Wild Hokkaido!</title>
   <episode>
@@ -99,6 +99,21 @@
     <title>Wild Hokkaido!</title>
     <uploadedDate>2021-01-06T08:09:36.384Z</uploadedDate>
     <raw>https://mega.nz/folder/1coQxSSB#EyB7mGpm7HlS4gX4qvSqyA</raw>
+  </episode>
+  <episode>
+    <airingId>068</airingId>
+    <content>Our stage this time is Biei in the center of Hokkaido Prefecture. It is a town with hills created by ancient volcanic activity. Our program host, together with a professional photographer, tries his hand at scenic photography. There are snow-covered hills and forests with the Tokachi mountain range in the background. They go around to a number of photography points to get creative and crop the magnificent scenery. Later, we show you rare footage of wildlife, such as red fox, surviving the harsh winter in the hills.</content>
+    <description>Biei is a town with hills created by ancient volcanic activity. Our program host, together with a professional photographer, tries his hand at scenic photography of snow-covered hills.</description>
+    <endDate>2021-01-24T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/nEFjkAJZ#XwDfUzktyvW8uNYv70wIow</link>
+    <recordDateEnd>2021-01-24T01:00:29.082Z</recordDateEnd>
+    <recordDateStart>2021-01-24T00:44:20.009Z</recordDateStart>
+    <seriesId>2069</seriesId>
+    <sha256>8ed3eb2363b1f62a4cb13a70921a6661478dec0f852707f80acb81d6734cb528</sha256>
+    <startDate>2021-01-24T00:45:00.000Z</startDate>
+    <subtitle>Hills of Biei in Winter</subtitle>
+    <title>Wild Hokkaido!</title>
+    <uploadedDate>2021-01-24T02:36:03.380Z</uploadedDate>
   </episode>
   <episode>
     <airingId>077</airingId>
