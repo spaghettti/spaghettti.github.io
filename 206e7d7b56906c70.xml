@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-24T23:30:03.246Z</lastUpdated>
+  <lastUpdated>2021-01-25T00:45:03.798Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2020-12-24T16:37:26.309Z</uploadedDate>
     <raw>https://mega.nz/folder/ytlCVJTI#zG06REziEu2lQ64wlDxVmA</raw>
+  </episode>
+  <episode>
+    <airingId>083</airingId>
+    <content>1,200 years ago, Kukai, a well-known Japanese monk, made a pilgrimage through 88 sacred sites in the Japanese island of Shikoku. The route through all 88 sites is 1,400 kilometers long and loops around the island. Pilgrim's still come, with both anxiety and hope, to follow in Kukai's footsteps. Kukai told his followers that enlightenment knows one's own heart. The Shikoku Pilgrimage is a journey to find oneself, shedding one's spiritual baggage simply by walking. The pilgrim's journey around Shikoku brings unexpected encounters and lifelong memories.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history. Today: The Shikoku Pilgrimage.</description>
+    <endDate>2021-01-25T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/MIxUgJhB#uaWmqNERqWcecw4jA6yGOQ</link>
+    <recordDateEnd>2021-01-25T00:00:28.578Z</recordDateEnd>
+    <recordDateStart>2021-01-24T23:29:24.041Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>ef6870ee43dc82000f63fa9a644b233b87f9d2004e7111d2a032c4f8b87804af</sha256>
+    <startDate>2021-01-24T23:30:00.000Z</startDate>
+    <subtitle>The Shikoku Pilgrimage</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-01-25T00:43:38.106Z</uploadedDate>
   </episode>
   <episode>
     <airingId>084</airingId>
