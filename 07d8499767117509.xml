@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-25T03:45:04.113Z</lastUpdated>
+  <lastUpdated>2021-01-25T05:00:04.458Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -995,6 +995,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-19T05:47:07.781Z</uploadedDate>
     <raw>https://mega.nz/folder/avQGgJJB#zcAyoZAj-fyW2kSNAy4xTQ</raw>
+  </episode>
+  <episode>
+    <airingId>666</airingId>
+    <content/>
+    <description>For 40 years, Gushiken Takamatsu has been excavating the remains of those who died in the Battle of Okinawa at the end of the Pacific War. He talks about lingering scars and the value of peace.</description>
+    <endDate>2021-01-25T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/pL4giZpQ#AJT-YdGcIe36eGVChzBovA</link>
+    <recordDateEnd>2021-01-25T04:30:27.482Z</recordDateEnd>
+    <recordDateStart>2021-01-25T04:14:20.100Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>41028cb1853160c5a4071a5b01eecae5a712e6604af7d1354093c1a57b0e48ee</sha256>
+    <startDate>2021-01-25T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-25T04:55:19.669Z</uploadedDate>
+    <raw>https://mega.nz/folder/MHgUhT5I#ic6Mxn_jhhrZ2mRerTGhxA</raw>
   </episode>
   <episode>
     <airingId>670</airingId>
