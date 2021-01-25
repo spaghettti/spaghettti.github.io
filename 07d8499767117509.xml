@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-25T05:00:04.458Z</lastUpdated>
+  <lastUpdated>2021-01-25T08:20:03.607Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -531,6 +531,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-19T09:29:14.050Z</uploadedDate>
     <raw>https://mega.nz/folder/zBVS0Z6S#eIlbKIhJ2pOTEueOipYVng</raw>
+  </episode>
+  <episode>
+    <airingId>597</airingId>
+    <content>Kenichi Noguchi is a farmer who grows lotus plants. His lotus roots sell for $50 each, and are served in fancy restaurants the world over. We ask Noguchi what makes his lotus root so amazing.</content>
+    <description>Kenichi Noguchi is a farmer who grows lotus plants. His lotus roots sell for $50 each, and are served in fancy restaurants the world over. We ask Noguchi what makes his lotus root so amazing.</description>
+    <endDate>2021-01-25T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/JQhXmSgA#XQ-09Hr-_XV3RcXh9zPjPg</link>
+    <recordDateEnd>2021-01-25T07:30:29.567Z</recordDateEnd>
+    <recordDateStart>2021-01-25T07:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>1f510d2dc4cd4c4f09d60f0270108b775f8f7e04befdc1df2b3c03a0078b4f61</sha256>
+    <startDate>2021-01-25T07:15:00.000Z</startDate>
+    <subtitle>Luxury Lotus Root: Kenichi Noguchi / Lotus Root Farmer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-25T08:19:57.505Z</uploadedDate>
+    <raw>https://mega.nz/folder/xY5kyThI#wCgJUWchKDnj2vuLNBxC-Q</raw>
   </episode>
   <episode>
     <airingId>615</airingId>
