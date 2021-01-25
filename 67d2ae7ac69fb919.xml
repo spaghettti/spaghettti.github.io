@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-25T08:20:03.555Z</lastUpdated>
+  <lastUpdated>2021-01-25T16:10:02.888Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -131,6 +131,21 @@
     <title>Core Kyoto</title>
     <uploadedDate>2021-01-19T01:49:20.468Z</uploadedDate>
     <raw>https://mega.nz/folder/QPZk2bCB#IQOfytCQmPPd-7lEMOqOkg</raw>
+  </episode>
+  <episode>
+    <airingId>044</airingId>
+    <content>Kannon Bosatsu is warmly worshipped, a comfort for the heart. The subject of many paintings and statues, he saves people across Buddhist sects. The 11-faced Kannon faces each direction in search of people to save. The 1,000-armed Kannon holds objects used to relieve people's anguish. Kiyomizu-dera, where memorial services are held for him, attracts worshippers seeking salvation. Watch a sculptor carve a statue of Kannon. Discover the deep faith Kannon has drawn among Kyotoites over centuries.</content>
+    <description>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive program. Today: Belief in Kannon, the God of Mercy redeems all.</description>
+    <endDate>2021-01-25T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/9aYGhJgZ#tXqIVuH2tj9_W67OrKxrbg</link>
+    <recordDateEnd>2021-01-25T15:00:31.088Z</recordDateEnd>
+    <recordDateStart>2021-01-25T14:29:20.100Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>94e9512ed572c2bf8b886b8428bafea12e1808e7b1d2fe41b7c7ca3e82911db8</sha256>
+    <startDate>2021-01-25T14:30:00.000Z</startDate>
+    <subtitle>Belief in Kannon: The God of Mercy Redeems All</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-01-25T16:05:38.386Z</uploadedDate>
   </episode>
   <episode>
     <airingId>077</airingId>
