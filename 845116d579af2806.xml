@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-26T22:10:02.948Z</lastUpdated>
+  <lastUpdated>2021-01-26T22:20:03.176Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -173,5 +173,21 @@ Japan's libraries are cornerstones of their communities. Besides loaning out boo
     <title>Japanology Plus</title>
     <uploadedDate>2021-01-19T16:20:51.501Z</uploadedDate>
     <raw>https://mega.nz/folder/IIw0gboJ#PyZvbSTQRIOLoGcTvClXbw</raw>
+  </episode>
+  <episode>
+    <airingId>229</airingId>
+    <content>*First broadcast on January 26, 2021.
+The kimono, Japan's national garment, is generally seen as traditional clothing -- something to wear on special occasions. But these days, modern and stylish kimono are making an impact in the fashion world. In a Japanophiles interview, Peter Barakan meets Sheila Cliffe, from the UK, who fell in love with kimono during a trip to Japan, and went on to become an authority on the subject. She talks about her life journey, and presents some contemporary styles.</content>
+    <description>Sheila Cliffe: A kimono expert and enthusiast from the UK. In a Japanophiles interview, Cliffe tells Peter Barakan about her career and contemporary trends in kimono fashion.</description>
+    <endDate>2021-01-26T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/YP4XiKAa#pbIW85wrz0VwhbpFAYiGiA</link>
+    <recordDateEnd>2021-01-26T15:00:27.359Z</recordDateEnd>
+    <recordDateStart>2021-01-26T14:29:20.116Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>8303bc43c3f0acd0e20b49dfbba52c1463b7bc925032f2a637e7d509eb21289b</sha256>
+    <startDate>2021-01-26T14:30:00.000Z</startDate>
+    <subtitle>Japanophiles: Sheila Cliffe</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-01-26T22:15:28.736Z</uploadedDate>
   </episode>
 </episodeList>
