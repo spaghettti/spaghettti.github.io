@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-26T02:35:03.779Z",
+  "lastUpdated": "2021-01-26T03:15:03.666Z",
   "seriesId": "4026",
   "title": "Document 72 Hours",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "Document 72 Hours",
       "uploadedDate": "2021-01-12T04:35:04.360Z",
       "raw": "https://mega.nz/folder/Do132SBD#_oEZQydGKS1nhkNMlpvRNA"
+    },
+    {
+      "airingId": "148",
+      "content": "As many people have spent more time at home during the coronavirus pandemic, gardening has become a popular hobby. Tokyo's garden megastore with over 100,000 varieties of plants is the go-to place for people wanting flowers, vegetables, bonsai trees or rare shrubs. The center's customers include a man inspired by a cactus' power to survive, a woman who buys weakened plants so she can help them recover and a woman who feels most relaxed when she tends to her plants. For 3 days, we asked what plants mean to them.",
+      "description": "A garden megastore in Tokyo has been a magnet for people who have taken up gardening while spending more time at home during the coronavirus pandemic. For 3 days, we asked what plants mean to them.",
+      "endDate": "2021-01-26T02:00:00.000Z",
+      "link": "https://mega.nz/folder/Ryxl0YAZ#vC2Gs49Wqua-HKPLd68jAA",
+      "recordDateEnd": "2021-01-26T02:00:32.631Z",
+      "recordDateStart": "2021-01-26T01:29:20.141Z",
+      "seriesId": "4026",
+      "sha256": "982b5d8a7121dc7a2ef72b34020eeba68372470c97de76b8d99bf9dec2b78c37",
+      "startDate": "2021-01-26T01:30:00.000Z",
+      "subtitle": "Seeds of Happiness at a Tokyo Garden Center",
+      "title": "Document 72 Hours",
+      "uploadedDate": "2021-01-26T03:14:38.970Z"
     }
   ]
 }
