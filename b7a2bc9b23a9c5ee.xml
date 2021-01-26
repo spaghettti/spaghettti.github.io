@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-26T21:55:02.865Z</lastUpdated>
+  <lastUpdated>2021-01-26T22:10:02.896Z</lastUpdated>
   <seriesId>b7a2bc9b23a9c5ee</seriesId>
   <title>Journeys in Japan</title>
   <episode>
@@ -147,5 +147,20 @@
     <title>Journeys in Japan</title>
     <uploadedDate>2021-01-06T09:36:30.736Z</uploadedDate>
     <raw>https://mega.nz/folder/20kCQRgA#6XokdbFX60_LR1rj10MpsA</raw>
+  </episode>
+  <episode>
+    <airingId>431</airingId>
+    <content>Tsu in Mie Prefecture prospered as a castle town during the Edo period (1603-1868). Situated close to Ise Jingu, one of Japan's most significant Shinto shrines, it has been a crossing point for pilgrims since ancient times. Tsu is known for its appealing post town architecture, as well as its historic shrines and temples. Dance performer, and local resident, Yuko tours the sacred sites while holding a wish for the pandemic's end in her heart.</content>
+    <description>Yuko experiences an inner journey of her city, Tsu,an old post town on a pilgrimage route,as she visits temples and shrines to contemplate living in the moment, as well as pray for the pandemic's end.</description>
+    <endDate>2021-01-26T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/2MlURQ6a#P8EbZbBBxnzxxplQ12k5-A</link>
+    <recordDateEnd>2021-01-26T00:02:28.626Z</recordDateEnd>
+    <recordDateStart>2021-01-25T23:29:20.101Z</recordDateStart>
+    <seriesId>2007</seriesId>
+    <sha256>3ef30a5a124b744637088bcf7f85cc27977e1a5eb924a54e70dc558db2c44a75</sha256>
+    <startDate>2021-01-25T23:30:00.000Z</startDate>
+    <subtitle>Tsu: A Path to the Heart</subtitle>
+    <title>Journeys in Japan</title>
+    <uploadedDate>2021-01-26T22:09:18.599Z</uploadedDate>
   </episode>
 </episodeList>
