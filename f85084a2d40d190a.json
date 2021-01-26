@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-26T05:25:03.277Z",
+  "lastUpdated": "2021-01-26T21:45:03.287Z",
   "seriesId": "2085",
   "title": "DEEPER LOOK from New York",
   "episodes": [
@@ -114,6 +114,21 @@
       "title": "DEEPER LOOK from New York",
       "uploadedDate": "2021-01-06T07:18:02.343Z",
       "raw": "https://mega.nz/folder/URgEHAiK#8PYMScL5uQfKQJQZeYLVHg"
+    },
+    {
+      "airingId": "023",
+      "content": "The U.S. has long been a leader of democratic nations; a pillar of strength to its allies when facing communist countries or those with authoritarian leaders, although there are arguments concerning some of its foreign operations. But the events on January 6 may have lowered America's position. Some even say it was the darkest day in U.S. history. How will that day be remembered? What did it all mean? And how can the U.S. redeem its democratic standing? We asked Harvard historian Jill Lepore.",
+      "description": "An experienced anchor Del Irani has a cutting-edge dialogue. This time, Jill Lepore, a Harvard University Professor, analyzes why and how incidents at US Capitol happened after Trump's tweets.",
+      "endDate": "2021-01-26T04:45:00.000Z",
+      "link": "https://mega.nz/folder/RAxUVb7Z#s7A3ehIGYT0UlucRCX_9kA",
+      "recordDateEnd": "2021-01-26T04:45:29.118Z",
+      "recordDateStart": "2021-01-26T04:29:20.004Z",
+      "seriesId": "2085",
+      "sha256": "2b278102d01c6df9122e2b8912486852b0ce8f7440a8a8c5c3a1abc9c940f98b",
+      "startDate": "2021-01-26T04:30:00.000Z",
+      "subtitle": "How Will the Capitol Riot Be Reckoned with in US History?: Jill Lepore / Professor of American History, Harvard University",
+      "title": "DEEPER LOOK from New York",
+      "uploadedDate": "2021-01-26T21:44:37.358Z"
     }
   ]
 }
