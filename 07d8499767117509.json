@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-26T21:45:03.254Z",
+  "lastUpdated": "2021-01-26T21:55:02.969Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1586,6 +1586,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-01-08T08:00:28.338Z",
       "raw": "https://mega.nz/folder/3gVWDT6C#QB2rQv2G0Wg9y_GmEmTRMg"
+    },
+    {
+      "airingId": "731",
+      "content": "For over 50 years, Tamai Yoshiomi has provided educational support to children who have lost one or both parents. His outreach extends to Africa, where he raises leaders out of vulnerable children.",
+      "description": "For over 50 years, Tamai Yoshiomi has provided educational support to children who have lost one or both parents. His outreach extends to Africa, where he raises leaders out of vulnerable children.",
+      "endDate": "2021-01-26T07:30:00.000Z",
+      "link": "https://mega.nz/folder/LygywLob#ADrX8xIUvDGS51aJ0NFzbA",
+      "recordDateEnd": "2021-01-26T07:30:31.260Z",
+      "recordDateStart": "2021-01-26T07:14:20.011Z",
+      "seriesId": "2058",
+      "sha256": "15a6940e7f2137e4ef47f6464d1780db06d7dcc48a31be104cf8a658b09f8f99",
+      "startDate": "2021-01-26T07:15:00.000Z",
+      "subtitle": "Giving Back to Society: Tamai Yoshiomi / President & Founder, Ashinaga",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-26T21:52:02.585Z",
+      "raw": "https://mega.nz/folder/SNlCyJyB#-kvfQ72gRhvUYs68AatofA"
     }
   ]
 }

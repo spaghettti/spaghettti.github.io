@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-26T21:45:03.237Z</lastUpdated>
+  <lastUpdated>2021-01-26T21:55:02.954Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1587,5 +1587,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-08T08:00:28.338Z</uploadedDate>
     <raw>https://mega.nz/folder/3gVWDT6C#QB2rQv2G0Wg9y_GmEmTRMg</raw>
+  </episode>
+  <episode>
+    <airingId>731</airingId>
+    <content>For over 50 years, Tamai Yoshiomi has provided educational support to children who have lost one or both parents. His outreach extends to Africa, where he raises leaders out of vulnerable children.</content>
+    <description>For over 50 years, Tamai Yoshiomi has provided educational support to children who have lost one or both parents. His outreach extends to Africa, where he raises leaders out of vulnerable children.</description>
+    <endDate>2021-01-26T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/LygywLob#ADrX8xIUvDGS51aJ0NFzbA</link>
+    <recordDateEnd>2021-01-26T07:30:31.260Z</recordDateEnd>
+    <recordDateStart>2021-01-26T07:14:20.011Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>15a6940e7f2137e4ef47f6464d1780db06d7dcc48a31be104cf8a658b09f8f99</sha256>
+    <startDate>2021-01-26T07:15:00.000Z</startDate>
+    <subtitle>Giving Back to Society: Tamai Yoshiomi / President &amp; Founder, Ashinaga</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-26T21:52:02.585Z</uploadedDate>
+    <raw>https://mega.nz/folder/SNlCyJyB#-kvfQ72gRhvUYs68AatofA</raw>
   </episode>
 </episodeList>
