@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-26T00:25:02.906Z",
+  "lastUpdated": "2021-01-26T02:35:03.625Z",
   "seriesId": "2019",
   "title": "Dining with the Chef",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "Dining with the Chef",
       "uploadedDate": "2020-12-26T12:40:26.220Z",
       "raw": "https://mega.nz/folder/5cwAXKDC#Y9kis1tGUpauocFcZwoXkA"
+    },
+    {
+      "airingId": "190",
+      "content": "Our theme for this episode is soaking. Chef Saito will be making spinach Ohitashi, a very popular home-cooked standard, served with a unique twist: adding Japan's best known edible flower, chrysanthemums, for a beautiful finishing touch. We'll also be making Kara-age fried chicken, flavored by soaking the chicken first in a soy sauce-based marinade, with our secret ingredient, Chinese chili oil, rounding out the flavor with just a hint of heat.",
+      "description": "Today's recipe: (1) Spinach Ohitashi with Chrysanthemums (2) Kara-age Fried Chicken. Why not learn Japanese food culture and try real Japanese dishes at your home!",
+      "endDate": "2021-01-26T01:00:00.000Z",
+      "link": "https://mega.nz/folder/c3pzxKqR#Ap68kGd0RhsW1F1oCiZN2A",
+      "recordDateEnd": "2021-01-26T01:00:31.725Z",
+      "recordDateStart": "2021-01-26T00:29:20.100Z",
+      "seriesId": "2019",
+      "sha256": "c3e1e9d0f220e7dbc73201950b9f850186ba9d12e2e85da02bdf5ce9bb4c3e5f",
+      "startDate": "2021-01-26T00:30:00.000Z",
+      "subtitle": "Authentic Japanese Cooking: Spinach Ohitashi with Chrysanthemums",
+      "title": "Dining with the Chef",
+      "uploadedDate": "2021-01-26T02:33:58.301Z"
     },
     {
       "airingId": "192",
