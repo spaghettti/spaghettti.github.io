@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-26T03:15:03.589Z</lastUpdated>
+  <lastUpdated>2021-01-26T05:05:03.536Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1059,6 +1059,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T23:04:18.080Z</uploadedDate>
     <raw>https://mega.nz/folder/sh0WEYgK#AWz2VlujOz747ZVJOXAIGQ</raw>
+  </episode>
+  <episode>
+    <airingId>673</airingId>
+    <content/>
+    <description>In 2013, Teshima Daisuke developed oral hygiene products that don't harm the body if swallowed. His innovative business model supports people with disabilities. We asked Teshima about his motivation.</description>
+    <endDate>2021-01-26T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/x7BT1KhS#Xds2xsGjuG4cndb7IRLOrg</link>
+    <recordDateEnd>2021-01-26T04:30:27.777Z</recordDateEnd>
+    <recordDateStart>2021-01-26T04:14:20.097Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>32a5e7bb78eb9030902c0663addbe3c3ffce99244eaad9f8f3f89c695a92b645</sha256>
+    <startDate>2021-01-26T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-26T05:00:04.454Z</uploadedDate>
   </episode>
   <episode>
     <airingId>675</airingId>
