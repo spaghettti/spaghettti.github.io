@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-26T05:05:03.587Z",
+  "lastUpdated": "2021-01-26T05:25:03.279Z",
   "seriesId": "2086",
   "title": "Doctor's Insight",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "Doctor's Insight",
       "uploadedDate": "2020-12-29T05:23:02.857Z",
       "raw": "https://mega.nz/folder/SgtlXKgI#NLRzzfsGOnlNLSjfc9mTfw"
+    },
+    {
+      "airingId": "012",
+      "content": "Vision is one of the most important of our senses and plays a critical role in our daily lives. Nonetheless, the WHO has estimated that more than 2 billion people around the world have a vision impairment or blindness. Some types of eye diseases can greatly impact our lives and early detection is key. Find out the warning signs and symptoms of common eye problems.",
+      "description": "The WHO estimates that there are over 2 billion people worldwide with vision impairment or blindness. Find out the warning signs to watch out for and prevent eye problems with early detection.",
+      "endDate": "2021-01-26T04:55:00.000Z",
+      "link": "https://mega.nz/folder/8AQTEAYb#BM4HP0-37lI_uK3Sa8J6LQ",
+      "recordDateEnd": "2021-01-26T04:55:26.017Z",
+      "recordDateStart": "2021-01-26T04:44:22.575Z",
+      "seriesId": "2086",
+      "sha256": "71d3efbe93f073bd80caa8a2456a124519f0151aaadd29bfbe978f526ffbbe1d",
+      "startDate": "2021-01-26T04:45:00.000Z",
+      "subtitle": "Eye Diseases #1: Check Your Symptoms",
+      "title": "Doctor's Insight",
+      "uploadedDate": "2021-01-26T05:24:47.548Z"
     },
     {
       "airingId": "016",

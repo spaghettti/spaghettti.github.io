@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-26T05:05:03.586Z</lastUpdated>
+  <lastUpdated>2021-01-26T05:25:03.277Z</lastUpdated>
   <seriesId>328f69455964a591</seriesId>
   <title>Doctor's Insight</title>
   <episode>
@@ -67,6 +67,21 @@
     <title>Doctor's Insight</title>
     <uploadedDate>2020-12-29T05:23:02.857Z</uploadedDate>
     <raw>https://mega.nz/folder/SgtlXKgI#NLRzzfsGOnlNLSjfc9mTfw</raw>
+  </episode>
+  <episode>
+    <airingId>012</airingId>
+    <content>Vision is one of the most important of our senses and plays a critical role in our daily lives. Nonetheless, the WHO has estimated that more than 2 billion people around the world have a vision impairment or blindness. Some types of eye diseases can greatly impact our lives and early detection is key. Find out the warning signs and symptoms of common eye problems.</content>
+    <description>The WHO estimates that there are over 2 billion people worldwide with vision impairment or blindness. Find out the warning signs to watch out for and prevent eye problems with early detection.</description>
+    <endDate>2021-01-26T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/8AQTEAYb#BM4HP0-37lI_uK3Sa8J6LQ</link>
+    <recordDateEnd>2021-01-26T04:55:26.017Z</recordDateEnd>
+    <recordDateStart>2021-01-26T04:44:22.575Z</recordDateStart>
+    <seriesId>2086</seriesId>
+    <sha256>71d3efbe93f073bd80caa8a2456a124519f0151aaadd29bfbe978f526ffbbe1d</sha256>
+    <startDate>2021-01-26T04:45:00.000Z</startDate>
+    <subtitle>Eye Diseases #1: Check Your Symptoms</subtitle>
+    <title>Doctor's Insight</title>
+    <uploadedDate>2021-01-26T05:24:47.548Z</uploadedDate>
   </episode>
   <episode>
     <airingId>016</airingId>
