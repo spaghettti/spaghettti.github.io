@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-27T08:30:03.813Z",
+  "lastUpdated": "2021-01-27T16:20:03.381Z",
   "seriesId": "2054",
   "title": "Trails to Oishii Tokyo",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "Trails to Oishii Tokyo",
       "uploadedDate": "2021-01-06T16:36:56.355Z",
       "raw": "https://mega.nz/folder/gV9mFQJb#v73omLl9gD7sS52XQYCwtw"
+    },
+    {
+      "airingId": "124",
+      "content": "Our focus today is fugu, or pufferfish. As one of Japan's great winter delicacies, it is eaten as nearly-transparent slices of sashimi, or in umami-packed hot pots. Even in seafood-loving Japan, fugu is a special treat that is among the most expensive fish. It's also known for containing lethal amounts of poison, requiring chefs to obtain a special license in order to prepare it. Dive in to learn more about the various methods devised to provide quality flavor while also ensuring safety. (Reporter: Kyle Card)",
+      "description": "Fugu - a Japanese winter delicacy. Handling the highly poisonous fish requires a special license. Discover several methods devised to ensure quality flavor, and above all, your safety.",
+      "endDate": "2021-01-27T15:00:00.000Z",
+      "link": "https://mega.nz/folder/AHJmCRyI#AFn40q4U24vvPpp-J7d11g",
+      "recordDateEnd": "2021-01-27T15:00:28.979Z",
+      "recordDateStart": "2021-01-27T14:29:20.064Z",
+      "seriesId": "2054",
+      "sha256": "0677699940bc6c86665444bcb47a0d73b6979ea63d32e96d95da00c675163b87",
+      "startDate": "2021-01-27T14:30:00.000Z",
+      "subtitle": "FUGU",
+      "title": "Trails to Oishii Tokyo",
+      "uploadedDate": "2021-01-27T16:18:56.813Z"
     }
   ]
 }
