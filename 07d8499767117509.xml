@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-27T02:20:02.956Z</lastUpdated>
+  <lastUpdated>2021-01-27T05:00:04.296Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -643,6 +643,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T00:21:23.224Z</uploadedDate>
     <raw>https://mega.nz/folder/JAYlUYgD#kXP3t7uixnsQwyNkl45rmg</raw>
+  </episode>
+  <episode>
+    <airingId>626</airingId>
+    <content/>
+    <description>Popular among the Berliners, "Kreuzberger Himmel" serves dishes from Syria and Afghanistan. Tolke opened this restaurant to provide occupations for refugees. We asked his principle in helping them.</description>
+    <endDate>2021-01-27T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/9yh0zABK#gqtHHudBw4j2o11FJ5IQzw</link>
+    <recordDateEnd>2021-01-27T04:30:28.433Z</recordDateEnd>
+    <recordDateStart>2021-01-27T04:14:20.099Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>d4298f609c55dfeb19ab65e78412b517688341eb66556b852975a18649e8b859</sha256>
+    <startDate>2021-01-27T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-01-27T04:57:35.587Z</uploadedDate>
+    <raw>https://mega.nz/folder/F3hADQSC#7_rHwqhOwK8ShA8uAJ0vcA</raw>
   </episode>
   <episode>
     <airingId>627</airingId>
