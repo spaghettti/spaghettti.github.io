@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-27T00:10:03.449Z</lastUpdated>
+  <lastUpdated>2021-01-27T01:05:03.789Z</lastUpdated>
   <series>
     <count>15</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -899,10 +899,10 @@
     <title>Today's Close-Up</title>
   </series>
   <series>
-    <count>8</count>
+    <count>9</count>
     <uniqueId>50872d98dbace20c</uniqueId>
-    <lastAiring>2021-01-05T23:30:00.000Z</lastAiring>
-    <lastUpload>2021-01-06T07:45:30.877Z</lastUpload>
+    <lastAiring>2021-01-26T23:30:00.000Z</lastAiring>
+    <lastUpload>2021-01-27T01:01:12.600Z</lastUpload>
     <seriesId>2053</seriesId>
     <title>TOKYO EYE</title>
   </series>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-27T00:10:03.268Z</lastUpdated>
+  <lastUpdated>2021-01-27T01:05:03.608Z</lastUpdated>
   <seriesId>50872d98dbace20c</seriesId>
   <title>TOKYO EYE</title>
   <episode>
@@ -131,5 +131,20 @@
     <title>TOKYO EYE 2020</title>
     <uploadedDate>2020-12-30T01:00:16.934Z</uploadedDate>
     <raw>https://mega.nz/folder/ahkhFCgT#7qeAK9CpaF7ehQO_Yjv0Gw</raw>
+  </episode>
+  <episode>
+    <airingId>197</airingId>
+    <content>In Tokyo, social businesses are giving a whole new shape to home life. They're creating affordable housing for those facing hardship, and devising "stockpiles" of unique new structures for disaster aid. Let's see how these efforts are progressing even in the midst of a pandemic.</content>
+    <description>Must-see Tokyo! Be like a local as you journey through this amazing city. Great food, unique shopping, plus the best and latest things to see and do.</description>
+    <endDate>2021-01-27T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/bdVHDSQA#BbH9kuZrYpdKtQNX2tf9Lg</link>
+    <recordDateEnd>2021-01-27T00:00:32.675Z</recordDateEnd>
+    <recordDateStart>2021-01-26T23:29:20.099Z</recordDateStart>
+    <seriesId>2053</seriesId>
+    <sha256>f37d6684e0940864820cd5d663ba956a1e4d5a7aa8e8dee3428ebeb1da4f6a80</sha256>
+    <startDate>2021-01-26T23:30:00.000Z</startDate>
+    <subtitle>Tokyo and the Coronavirus: The New Shape of Home</subtitle>
+    <title>TOKYO EYE 2020</title>
+    <uploadedDate>2021-01-27T01:01:12.600Z</uploadedDate>
   </episode>
 </episodeList>
