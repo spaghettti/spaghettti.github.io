@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-27T01:45:03.114Z</lastUpdated>
+  <lastUpdated>2021-01-27T02:20:02.934Z</lastUpdated>
   <seriesId>da958502b69dde1e</seriesId>
   <title>Her Story</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>Her Story</title>
     <uploadedDate>2020-12-25T04:03:05.997Z</uploadedDate>
     <raw>https://mega.nz/folder/IRlUCY5A#HU-gFdrZgH5Q4bu31dKkSA</raw>
+  </episode>
+  <episode>
+    <airingId>035</airingId>
+    <content>Comma Leung is a designer from Hong Kong who creates items for everyday use that are geared for the physically disabled and the elderly. Her past work, such as wallets that allow blind people to differentiate bills, as well as coin purses that can be used without the fingers, have earned high praise. She also teaches the intellectually challenged the joys of designing by creating products from their own drawings. Comma hopes that the power of design can help people live more fulfilling lives.</content>
+    <description>Comma Leung is a designer from Hong Kong. Her designs are characterized by the ideas she employs to make them useful for the disabled and the elderly, hoping to improve their quality of life.</description>
+    <endDate>2021-01-27T01:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/hrYHEQBJ#55xfmw0Rt_3wJt9Si6L0nQ</link>
+    <recordDateEnd>2021-01-27T01:50:31.497Z</recordDateEnd>
+    <recordDateStart>2021-01-27T01:29:20.164Z</recordDateStart>
+    <seriesId>2048</seriesId>
+    <sha256>bd1d5e4d3175e73e261059b2f9984ecf61a1ad8a5efa5da54a2a159d63051081</sha256>
+    <startDate>2021-01-27T01:30:00.000Z</startDate>
+    <subtitle>Kind by Design</subtitle>
+    <title>Her Story</title>
+    <uploadedDate>2021-01-27T02:19:07.775Z</uploadedDate>
+    <raw>https://mega.nz/folder/VjRjiKBI#brzTPBBqvxbM09FAuD-LWw</raw>
   </episode>
   <episode>
     <airingId>036</airingId>
