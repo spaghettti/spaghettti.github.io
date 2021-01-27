@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-27T16:20:03.416Z</lastUpdated>
+  <lastUpdated>2021-01-27T16:55:03.755Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -163,5 +163,21 @@
     <title>Japan's Top Inventions</title>
     <uploadedDate>2021-01-13T20:10:47.656Z</uploadedDate>
     <raw>https://mega.nz/folder/aAcylTxb#x-iAxrNcPsDcLvH_7tzH4g</raw>
+  </episode>
+  <episode>
+    <airingId>044</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, the story behind the handheld digital pets known as Tamagotchi. Released by a Japanese toy maker in 1996, these toys let owners "raise" an on-screen digital pet, feeding it, putting it to bed, playing with it and more. We dig into the little-known story behind the creation of these handheld digital pets, a giant hit in some 30 countries and regions.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, the story behind the handheld digital pets known as Tamagotchi.</description>
+    <endDate>2021-01-27T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/MXATFKbT#MyOowi_wAciYjve28idr2Q</link>
+    <recordDateEnd>2021-01-27T16:00:28.469Z</recordDateEnd>
+    <recordDateStart>2021-01-27T15:44:20.099Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>c89b679c5053dadb53eee1dfcaacefd26df090d2feaccfa1b1ffb353a0f7540a</sha256>
+    <startDate>2021-01-27T15:45:00.000Z</startDate>
+    <subtitle>Handheld Digital Pets</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2021-01-27T16:51:32.687Z</uploadedDate>
+    <raw>https://mega.nz/folder/5zYjFQBJ#xn7V5UiHw1VK6ZkVqaYR1A</raw>
   </episode>
 </episodeList>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-27T16:20:03.547Z",
+  "lastUpdated": "2021-01-27T16:55:03.900Z",
   "series": [
     {
       "count": 16,
@@ -490,10 +490,10 @@
       "title": "JAPAN SPORTSCOPE"
     },
     {
-      "count": 10,
+      "count": 11,
       "uniqueId": "fb3ddf5a1a053dcd",
-      "lastAiring": "2021-01-20T15:45:00.000Z",
-      "lastUpload": "2021-01-20T16:32:40.199Z",
+      "lastAiring": "2021-01-27T15:45:00.000Z",
+      "lastUpload": "2021-01-27T16:51:32.687Z",
       "seriesId": "2072",
       "title": "Japan's Top Inventions"
     },
