@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2021-01-27T01:05:03.796Z",
+  "lastUpdated": "2021-01-27T01:45:03.298Z",
   "series": [
     {
-      "count": 15,
+      "count": 16,
       "uniqueId": "c656328a0f33bc89",
-      "lastAiring": "2021-01-20T00:30:00.000Z",
-      "lastUpload": "2021-01-20T01:35:02.198Z",
+      "lastAiring": "2021-01-27T00:30:00.000Z",
+      "lastUpload": "2021-01-27T01:41:07.142Z",
       "seriesId": "3019",
       "title": "15 Minutes"
     },
@@ -16,6 +16,14 @@
       "lastUpload": "2020-12-25T15:40:48.025Z",
       "seriesId": "2067",
       "title": "2020 GRAND SUMO Review"
+    },
+    {
+      "count": 1,
+      "uniqueId": "049d4b8dc9d6ada0",
+      "lastAiring": "2021-01-27T00:45:00.000Z",
+      "lastUpload": "2021-01-27T01:43:38.728Z",
+      "seriesId": "3019",
+      "title": "3-Day Dare*Devils"
     },
     {
       "count": 2,

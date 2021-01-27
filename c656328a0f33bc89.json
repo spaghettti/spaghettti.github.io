@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-27T01:05:03.690Z",
+  "lastUpdated": "2021-01-27T01:45:03.207Z",
   "seriesId": "3019",
   "title": "15 Minutes",
   "episodes": [
@@ -242,6 +242,22 @@
       "title": "15 Minutes",
       "uploadedDate": "2021-01-20T01:35:02.198Z",
       "raw": "https://mega.nz/folder/EKZUyRwa#2XooQ7z_VET8dQ93u4xjcQ"
+    },
+    {
+      "airingId": "129",
+      "content": "The Watari Museum of Contemporary Art, or the \"Watari-um,\" is a privately-owned museum in Tokyo's central Shibuya Ward. In 1990, it was constructed from a design by architect Mario Botta in a uniquely triangular shape. Founder Watari Shizuko and her children Etsuko and Koichi held close dialogues with artists in order to present the most cutting-edge art. For a limited time in 2021, the museum will erect \"art pavilions\" all around Tokyo, as they seek out new perspectives in artistic beauty.",
+      "description": "The Watari Museum of Contemporary Art is a privately-owned museum in Tokyo. Founder Watari Shizuko and her children have worked closely with artists in order to present the most cutting-edge subjects.",
+      "endDate": "2021-01-27T00:45:00.000Z",
+      "link": "https://mega.nz/folder/EERFRQ7Y#GaTlhoLQXRUVbCCdR5c-Gg",
+      "recordDateEnd": "2021-01-27T00:45:29.692Z",
+      "recordDateStart": "2021-01-27T00:29:20.099Z",
+      "seriesId": "3019",
+      "sha256": "db63679848f3613e7dd6a7307d704a025bb4baaef6bd55d5da148250731c05eb",
+      "startDate": "2021-01-27T00:30:00.000Z",
+      "subtitle": "Close to ART: WATARI-UM - The Watari Museum of Contemporary Art",
+      "title": "15 Minutes",
+      "uploadedDate": "2021-01-27T01:41:07.142Z",
+      "raw": "https://mega.nz/folder/4jAzVayb#lwAP82Yjj5m6zFlrpvhfgQ"
     }
   ]
 }

@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-27T01:05:03.789Z</lastUpdated>
+  <lastUpdated>2021-01-27T01:45:03.294Z</lastUpdated>
   <series>
-    <count>15</count>
+    <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
-    <lastAiring>2021-01-20T00:30:00.000Z</lastAiring>
-    <lastUpload>2021-01-20T01:35:02.198Z</lastUpload>
+    <lastAiring>2021-01-27T00:30:00.000Z</lastAiring>
+    <lastUpload>2021-01-27T01:41:07.142Z</lastUpload>
     <seriesId>3019</seriesId>
     <title>15 Minutes</title>
   </series>
@@ -17,6 +17,14 @@
     <lastUpload>2020-12-25T15:40:48.025Z</lastUpload>
     <seriesId>2067</seriesId>
     <title>2020 GRAND SUMO Review</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>049d4b8dc9d6ada0</uniqueId>
+    <lastAiring>2021-01-27T00:45:00.000Z</lastAiring>
+    <lastUpload>2021-01-27T01:43:38.728Z</lastUpload>
+    <seriesId>3019</seriesId>
+    <title>3-Day Dare*Devils</title>
   </series>
   <series>
     <count>2</count>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-27T01:05:03.689Z</lastUpdated>
+  <lastUpdated>2021-01-27T01:45:03.205Z</lastUpdated>
   <seriesId>c656328a0f33bc89</seriesId>
   <title>15 Minutes</title>
   <episode>
@@ -250,5 +250,21 @@ With 87 million passengers per year, Haneda Airport is one of the world's busies
     <title>15 Minutes</title>
     <uploadedDate>2021-01-20T01:35:02.198Z</uploadedDate>
     <raw>https://mega.nz/folder/EKZUyRwa#2XooQ7z_VET8dQ93u4xjcQ</raw>
+  </episode>
+  <episode>
+    <airingId>129</airingId>
+    <content>The Watari Museum of Contemporary Art, or the "Watari-um," is a privately-owned museum in Tokyo's central Shibuya Ward. In 1990, it was constructed from a design by architect Mario Botta in a uniquely triangular shape. Founder Watari Shizuko and her children Etsuko and Koichi held close dialogues with artists in order to present the most cutting-edge art. For a limited time in 2021, the museum will erect "art pavilions" all around Tokyo, as they seek out new perspectives in artistic beauty.</content>
+    <description>The Watari Museum of Contemporary Art is a privately-owned museum in Tokyo. Founder Watari Shizuko and her children have worked closely with artists in order to present the most cutting-edge subjects.</description>
+    <endDate>2021-01-27T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/EERFRQ7Y#GaTlhoLQXRUVbCCdR5c-Gg</link>
+    <recordDateEnd>2021-01-27T00:45:29.692Z</recordDateEnd>
+    <recordDateStart>2021-01-27T00:29:20.099Z</recordDateStart>
+    <seriesId>3019</seriesId>
+    <sha256>db63679848f3613e7dd6a7307d704a025bb4baaef6bd55d5da148250731c05eb</sha256>
+    <startDate>2021-01-27T00:30:00.000Z</startDate>
+    <subtitle>Close to ART: WATARI-UM - The Watari Museum of Contemporary Art</subtitle>
+    <title>15 Minutes</title>
+    <uploadedDate>2021-01-27T01:41:07.142Z</uploadedDate>
+    <raw>https://mega.nz/folder/4jAzVayb#lwAP82Yjj5m6zFlrpvhfgQ</raw>
   </episode>
 </episodeList>
