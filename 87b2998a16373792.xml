@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-26T22:20:03.131Z</lastUpdated>
+  <lastUpdated>2021-01-27T00:10:03.188Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -75,6 +75,22 @@ The World's First Plywood Using Colorful Recycled Paper</content>
     <title>Science View</title>
     <uploadedDate>2020-12-24T17:11:56.989Z</uploadedDate>
     <raw>https://mega.nz/folder/LIVxSSAJ#AIrqbLTMomc633Va8sZXBg</raw>
+  </episode>
+  <episode>
+    <airingId>227</airingId>
+    <content>What if you could regrow a missing arm or leg? Can you imagine such a thing? World leading regenerative biologist Kiyokazu Agata sees this every day in his studies of planarian flatworms. They can not only regrow missing tails or mid-sections, but even missing heads and brains! In this episode, we'll learn about Agata, the astounding abilities of the creatures he studies, his discoveries about the genes, stem cells and regrowth locational information that make it possible, and his hopes to apply these discoveries to human medicine.</content>
+    <description>Regenerative biologist Kiyokazu Agata studies planarian flatworms, which can regrow missing heads! We'll look at Agata's discoveries about genes and stem cells, and his hopes for human medicine.</description>
+    <endDate>2021-01-26T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/TFNziCTS#GnHjG6Mv0YHhk0enJSayWQ</link>
+    <recordDateEnd>2021-01-26T16:00:30.321Z</recordDateEnd>
+    <recordDateStart>2021-01-26T15:29:20.107Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>7eaf7cad4ef48ffffb00d20d03d5cafe7eb46d9b359fc1394c6ec355bb273213</sha256>
+    <startDate>2021-01-26T15:30:00.000Z</startDate>
+    <subtitle>Regenerative Biologist Kiyokazu Agata</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-01-27T00:06:37.478Z</uploadedDate>
+    <raw>https://mega.nz/folder/fMlREAoZ#Vf5vLPAc449-MRCTRCqWuw</raw>
   </episode>
   <episode>
     <airingId>246</airingId>
