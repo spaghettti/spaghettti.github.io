@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-28T00:50:03.716Z</lastUpdated>
+  <lastUpdated>2021-01-28T02:10:03.095Z</lastUpdated>
   <seriesId>93f1898b227dbd5d</seriesId>
   <title>DESIGN TALKS plus</title>
   <episode>
@@ -131,5 +131,20 @@
     <title>DESIGN TALKS plus</title>
     <uploadedDate>2020-12-31T08:49:54.737Z</uploadedDate>
     <raw>https://mega.nz/folder/pRoTECST#mhMHU_4CS0LAzeDgeRpT_g</raw>
+  </episode>
+  <episode>
+    <airingId>139</airingId>
+    <content>Translation: the act of communicating words of one language to those who do not know it. On this episode, Dominique Chen guides Andy and Shaula through an exhibition exploring this very theme through a variety of designs that offer new perspectives on the world from different linguistic and non-linguistic layers. Explore new avenues of communication in an increasingly fragmented world through "Translations."</content>
+    <description>Today's theme: Translations. The act of communicating words in one language to those who don't know it. An exhibition directed by Dominique Chen explores many links between translation and design.</description>
+    <endDate>2021-01-28T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/LzhBSAaB#__xsMDDXo4wjAVnF0sf_Pw</link>
+    <recordDateEnd>2021-01-28T01:00:24.696Z</recordDateEnd>
+    <recordDateStart>2021-01-28T00:29:22.760Z</recordDateStart>
+    <seriesId>2046</seriesId>
+    <sha256>5ceb6eac28145f19de73db3812a244abfd9cfb3299ac794bc26e9f3ae07e9af0</sha256>
+    <startDate>2021-01-28T00:30:00.000Z</startDate>
+    <subtitle>Translations</subtitle>
+    <title>DESIGN TALKS plus</title>
+    <uploadedDate>2021-01-28T02:06:25.248Z</uploadedDate>
   </episode>
 </episodeList>
