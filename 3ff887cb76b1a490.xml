@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-28T17:15:03.594Z</lastUpdated>
+  <lastUpdated>2021-01-28T17:35:03.255Z</lastUpdated>
   <seriesId>3ff887cb76b1a490</seriesId>
   <title>Japan Railway Journal</title>
   <episode>
@@ -147,5 +147,20 @@
     <title>Japan Railway Journal</title>
     <uploadedDate>2020-12-31T02:53:18.845Z</uploadedDate>
     <raw>https://mega.nz/folder/hQclBCxQ#uZPrgfR0564_1xrNu35iBg</raw>
+  </episode>
+  <episode>
+    <airingId>096</airingId>
+    <content>The coronavirus pandemic has changed the way people live and work. While many people are now working from home, many others are still commuting to work. Because of this, several companies have begun working on solutions to reduce crowding during rush hours. Keio Corporation and Tobu Railway have both begun working on reservation systems, while JR East has developed an app to check train congestion. Train companies are also considering changing fares during peak and off-peak times to ensure passenger safety and peace of mind in these challenging times.</content>
+    <description>From reserved seats to dedicated apps, railway companies are developing ways to avoid busy commuter trains during the pandemic. See how they are working to ensure passenger safety and peace of mind.</description>
+    <endDate>2021-01-28T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/pR41wAqS#Tlyh8mwrtRmQUaTOFcsu8Q</link>
+    <recordDateEnd>2021-01-28T16:00:34.034Z</recordDateEnd>
+    <recordDateStart>2021-01-28T15:29:20.100Z</recordDateStart>
+    <seriesId>2049</seriesId>
+    <sha256>9dda783aa99cf568f64c700e5580db63b93dd6077c92662b244eff528678fc08</sha256>
+    <startDate>2021-01-28T15:30:00.000Z</startDate>
+    <subtitle>Keeping Commuters Safe during the Pandemic</subtitle>
+    <title>Japan Railway Journal</title>
+    <uploadedDate>2021-01-28T17:32:08.796Z</uploadedDate>
   </episode>
 </episodeList>
