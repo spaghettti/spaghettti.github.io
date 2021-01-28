@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-28T02:10:03.267Z</lastUpdated>
+  <lastUpdated>2021-01-28T03:15:04.410Z</lastUpdated>
   <seriesId>b0ee8e6b5f5551b1</seriesId>
   <title>Spirit of Resilience</title>
   <episode>
@@ -99,5 +99,20 @@
     <title>Spirit of Resilience</title>
     <uploadedDate>2021-01-20T02:00:52.943Z</uploadedDate>
     <raw>https://mega.nz/folder/MYBxRYYY#_6ex8X3t8nzcZ1Ea8PUcNw</raw>
+  </episode>
+  <episode>
+    <airingId>466</airingId>
+    <content/>
+    <description>Raising Fruit with Style: Documents a group of young farmers in Niigata Prefecture as they try to promote their region through humor and innovative agricultural techniques.</description>
+    <endDate>2021-01-28T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/QiA10YLI#Nh_Qj8dC91eInvx5eI7QRw</link>
+    <recordDateEnd>2021-01-28T02:00:28.034Z</recordDateEnd>
+    <recordDateStart>2021-01-28T01:29:20.100Z</recordDateStart>
+    <seriesId>7000</seriesId>
+    <sha256>5d6bae99aed821da205e6ca218febee59acabaa9d0f7af6f12ad8afaa6ac89ff</sha256>
+    <startDate>2021-01-28T01:30:00.000Z</startDate>
+    <subtitle>Raising Fruit with Style</subtitle>
+    <title>Spirit of Resilience</title>
+    <uploadedDate>2021-01-28T03:13:44.079Z</uploadedDate>
   </episode>
 </episodeList>
