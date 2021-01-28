@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-28T08:25:03.744Z</lastUpdated>
+  <lastUpdated>2021-01-28T17:15:03.643Z</lastUpdated>
   <seriesId>054ab52e36a50c36</seriesId>
   <title>CYCLE AROUND JAPAN  Highlights</title>
   <episode>
@@ -163,5 +163,21 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
     <uploadedDate>2020-12-24T22:41:28.471Z</uploadedDate>
     <raw>https://mega.nz/folder/O1EFGara#l1KWm6jfbEavcKNhdBkzFw</raw>
+  </episode>
+  <episode>
+    <airingId>031</airingId>
+    <content>Facing the Seto Inland Sea, sunny Kagawa Prefecture historically overcame a lack of natural resources and water through skill and hard work. Despite no local bamboo or paper, Kagawa artisans created paper fans famed for their quality. We get a look at how those fans are made. Then, after sampling Wasanbon sweets, prized for centuries for their delicate sweetness, we cross to a small island to sample soy sauce made the traditional way. A trip of tough but rewarding climbs, reflecting the spirit of Kagawa.</content>
+    <description>A ride from one edge to the other of Japan's smallest prefecture, where a relative scarcity of natural resources has been historically offset by an unrelenting drive to create outstanding quality.</description>
+    <endDate>2021-01-28T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/OnhADDpa#NHCRBqKXEv_erwPCOsDYBg</link>
+    <recordDateEnd>2021-01-28T15:00:32.745Z</recordDateEnd>
+    <recordDateStart>2021-01-28T14:29:20.099Z</recordDateStart>
+    <seriesId>2070</seriesId>
+    <sha256>790f203d2017524abea202019f4d91692dbb1b1006af7e31032febe35b0befce</sha256>
+    <startDate>2021-01-28T14:30:00.000Z</startDate>
+    <subtitle>Kagawa - The Pursuit of Excellence</subtitle>
+    <title>CYCLE AROUND JAPAN  Highlights</title>
+    <uploadedDate>2021-01-28T17:12:45.731Z</uploadedDate>
+    <raw>https://mega.nz/folder/rJtUXIqT#ptP84Rb6B9WbHVC0lwNiOg</raw>
   </episode>
 </episodeList>
