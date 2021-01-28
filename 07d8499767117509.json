@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-28T05:35:03.115Z",
+  "lastUpdated": "2021-01-28T08:25:03.728Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -850,6 +850,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-26T11:12:39.200Z",
       "raw": "https://mega.nz/folder/7dUBgKSQ#c7g76KQfIBSrCzzm100gqg"
+    },
+    {
+      "airingId": "648",
+      "content": "Japanese violinist Lena Yokoyama performed on the rooftop of Cremona's hospital, as a tribute to healthcare workers and patients struggling through the coronavirus emergency.",
+      "description": "Japanese violinist Lena Yokoyama performed on the rooftop of Cremona's hospital, as a tribute to healthcare workers and patients struggling through the coronavirus emergency.",
+      "endDate": "2021-01-28T07:30:00.000Z",
+      "link": "https://mega.nz/folder/3jA2xbZb#YXKSSoC34wvYTjxRotB-Gw",
+      "recordDateEnd": "2021-01-28T07:30:28.815Z",
+      "recordDateStart": "2021-01-28T07:14:20.011Z",
+      "seriesId": "2058",
+      "sha256": "7db5164fe369cdad79d4fcaba60fbcfba3933c28fc9c95c861317aceee89b6d3",
+      "startDate": "2021-01-28T07:15:00.000Z",
+      "subtitle": "A Violin Flies Over Cremona: Lena Yokoyama / Violinist",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-28T08:22:58.050Z",
+      "raw": "https://mega.nz/folder/PYVgSLDR#1JvCiulVyqKz2dMCP-THxQ"
     },
     {
       "airingId": "650",
