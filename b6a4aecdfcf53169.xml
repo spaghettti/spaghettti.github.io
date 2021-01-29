@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-29T01:20:02.982Z</lastUpdated>
+  <lastUpdated>2021-01-29T02:50:03.256Z</lastUpdated>
   <seriesId>b6a4aecdfcf53169</seriesId>
   <title>Asia Insight</title>
   <episode>
@@ -163,5 +163,20 @@
     <title>Asia Insight</title>
     <uploadedDate>2021-01-22T04:53:12.645Z</uploadedDate>
     <raw>https://mega.nz/folder/xM4Q2SDb#HCnUOb6iZRZUxW9t2wKdOw</raw>
+  </episode>
+  <episode>
+    <airingId>322</airingId>
+    <content>In November 2020, one of Thailand's biggest festivals, the Surin Elephant Round-Up, took place -- despite the coronavirus pandemic. The event went ahead thanks largely to the passion of an ethnic tribe of elephant handlers. With a history of living with elephants that dates back centuries, the Kui people today depend heavily on income from tourism -- a livelihood that is now in danger of disappearing. We follow the people taking on new challenges in a long-running fight to preserve their culture.</content>
+    <description>Thailand's famed Surin Elephant Round-Up took place in 2020, despite difficulties amid the pandemic. The festival went ahead thanks largely to the passion of an ethnic tribe of elephant handlers.</description>
+    <endDate>2021-01-29T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/EbJWiDKB#jy5y-JaQZjGrNm8EQisXBg</link>
+    <recordDateEnd>2021-01-29T02:00:32.286Z</recordDateEnd>
+    <recordDateStart>2021-01-29T01:29:20.059Z</recordDateStart>
+    <seriesId>2022</seriesId>
+    <sha256>ee3385133401be373504d2b912c161da7591c856e2f50db90e67d10be3e94e24</sha256>
+    <startDate>2021-01-29T01:30:00.000Z</startDate>
+    <subtitle>Thailand's Elephant Tribe: Searching for a New Path</subtitle>
+    <title>Asia Insight</title>
+    <uploadedDate>2021-01-29T02:46:09.301Z</uploadedDate>
   </episode>
 </episodeList>

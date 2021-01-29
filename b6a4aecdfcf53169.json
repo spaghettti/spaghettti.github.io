@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-29T01:20:02.988Z",
+  "lastUpdated": "2021-01-29T02:50:03.262Z",
   "seriesId": "2022",
   "title": "Asia Insight",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "Asia Insight",
       "uploadedDate": "2021-01-22T04:53:12.645Z",
       "raw": "https://mega.nz/folder/xM4Q2SDb#HCnUOb6iZRZUxW9t2wKdOw"
+    },
+    {
+      "airingId": "322",
+      "content": "In November 2020, one of Thailand's biggest festivals, the Surin Elephant Round-Up, took place -- despite the coronavirus pandemic. The event went ahead thanks largely to the passion of an ethnic tribe of elephant handlers. With a history of living with elephants that dates back centuries, the Kui people today depend heavily on income from tourism -- a livelihood that is now in danger of disappearing. We follow the people taking on new challenges in a long-running fight to preserve their culture.",
+      "description": "Thailand's famed Surin Elephant Round-Up took place in 2020, despite difficulties amid the pandemic. The festival went ahead thanks largely to the passion of an ethnic tribe of elephant handlers.",
+      "endDate": "2021-01-29T02:00:00.000Z",
+      "link": "https://mega.nz/folder/EbJWiDKB#jy5y-JaQZjGrNm8EQisXBg",
+      "recordDateEnd": "2021-01-29T02:00:32.286Z",
+      "recordDateStart": "2021-01-29T01:29:20.059Z",
+      "seriesId": "2022",
+      "sha256": "ee3385133401be373504d2b912c161da7591c856e2f50db90e67d10be3e94e24",
+      "startDate": "2021-01-29T01:30:00.000Z",
+      "subtitle": "Thailand's Elephant Tribe: Searching for a New Path",
+      "title": "Asia Insight",
+      "uploadedDate": "2021-01-29T02:46:09.301Z"
     }
   ]
 }
