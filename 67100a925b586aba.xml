@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-28T17:35:03.439Z</lastUpdated>
+  <lastUpdated>2021-01-29T01:20:03.202Z</lastUpdated>
   <seriesId>67100a925b586aba</seriesId>
   <title>CATCH JAPAN</title>
   <episode>
@@ -51,5 +51,21 @@
     <title>CATCH JAPAN</title>
     <uploadedDate>2020-12-25T17:35:19.404Z</uploadedDate>
     <raw>https://mega.nz/folder/nodh1aLa#qabhrT6oEAMWlDNPJ5ChfQ</raw>
+  </episode>
+  <episode>
+    <airingId>459</airingId>
+    <content/>
+    <description>Explore a colorful variety of modern Japan's most popular topics, including food, technology, ecology and regional promotions, with a focus on the innovative ideas of the people behind it all.</description>
+    <endDate>2021-01-29T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/YFRh2YDB#ih-bckgV904aG__NN0aTEg</link>
+    <recordDateEnd>2021-01-29T00:00:27.590Z</recordDateEnd>
+    <recordDateStart>2021-01-28T23:29:20.100Z</recordDateStart>
+    <seriesId>7000</seriesId>
+    <sha256>a2fcf8ab8e447b9bae3c9fa7be816dda5f0ae33813ebeec2e7aa90cb003b92cb</sha256>
+    <startDate>2021-01-28T23:30:00.000Z</startDate>
+    <subtitle/>
+    <title>CATCH JAPAN</title>
+    <uploadedDate>2021-01-29T01:17:23.018Z</uploadedDate>
+    <raw>https://mega.nz/folder/oSAzQCqI#Ea20POJnQjoP4jqceaGOcg</raw>
   </episode>
 </episodeList>

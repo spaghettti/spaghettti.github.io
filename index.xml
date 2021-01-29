@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-28T17:35:03.461Z</lastUpdated>
+  <lastUpdated>2021-01-29T01:20:03.220Z</lastUpdated>
   <series>
     <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -115,10 +115,10 @@
     <title>Broadcasters' Eye</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>67100a925b586aba</uniqueId>
-    <lastAiring>2020-12-24T23:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T06:26:52.991Z</lastUpload>
+    <lastAiring>2021-01-28T23:30:00.000Z</lastAiring>
+    <lastUpload>2021-01-29T01:17:23.018Z</lastUpload>
     <seriesId>7000</seriesId>
     <title>CATCH JAPAN</title>
   </series>
