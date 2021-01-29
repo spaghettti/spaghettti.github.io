@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-29T18:15:03.912Z",
+  "lastUpdated": "2021-01-29T18:20:03.753Z",
   "seriesId": "4002",
   "title": "Today's Close-Up",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Today's Close-Up",
       "uploadedDate": "2021-01-22T17:44:11.561Z",
       "raw": "https://mega.nz/folder/oWYADLaQ#1FqS2YGsK56y-XM0wAbifQ"
+    },
+    {
+      "airingId": "816",
+      "content": "Japan's izakaya dining bars have always been places for people to enjoy a cozy drink and a bite to eat with friends. It's a dining culture that attracts overseas tourists too. But the coronavirus pandemic has the industry up against a wall. Some izakaya have transitioned into barbecue restaurants with robot servers, while others now specialize in take-out and delivery. A major worry is how to safeguard jobs in an industry where most of the workers are part-timers. NHK's cameras followed one major izakaya chain to document its efforts to survive.\nGuests:\nAsagi Kuniko (TV personality)\nIshii Kota (Writer)",
+      "description": "Japan's izakaya dining bars are loved by workers and students alike, but the ongoing pandemic has put business at risk. We go behind the scenes of a major chain as it works out a way to survive.",
+      "endDate": "2021-01-29T16:00:00.000Z",
+      "link": "https://mega.nz/folder/lBZxRSra#el--DjTUTZV1h2wTYPnaBQ",
+      "recordDateEnd": "2021-01-29T16:00:27.661Z",
+      "recordDateStart": "2021-01-29T15:29:22.842Z",
+      "seriesId": "4002",
+      "sha256": "c4e403d0d908a1a34688afbcc7ab983c9f43b44a3514db5ebbafd00b06d6c363",
+      "startDate": "2021-01-29T15:30:00.000Z",
+      "subtitle": "Goodbye, Izakaya? Japanese Pubs at Crossroads",
+      "title": "Today's Close-Up",
+      "uploadedDate": "2021-01-29T18:17:24.212Z"
     }
   ]
 }
