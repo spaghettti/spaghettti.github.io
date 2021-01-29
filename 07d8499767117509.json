@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-29T05:50:03.272Z",
+  "lastUpdated": "2021-01-29T08:00:03.666Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1682,6 +1682,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-01-26T21:52:02.585Z",
       "raw": "https://mega.nz/folder/SNlCyJyB#-kvfQ72gRhvUYs68AatofA"
+    },
+    {
+      "airingId": "732",
+      "content": "Jimmy Pham's vocational school in Vietnam provides young deprived people with hospitality training. He talks about the struggle for sustenance during the economic downturn caused by COVID-19.",
+      "description": "Jimmy Pham's vocational school in Vietnam provides young deprived people with hospitality training. He talks about the struggle for sustenance during the economic downturn caused by COVID-19.",
+      "endDate": "2021-01-29T07:30:00.000Z",
+      "link": "https://mega.nz/folder/pMg2DBjb#SWEJe1QvAAuV40MmDtsDMQ",
+      "recordDateEnd": "2021-01-29T07:30:34.366Z",
+      "recordDateStart": "2021-01-29T07:14:20.015Z",
+      "seriesId": "2058",
+      "sha256": "0357163c99a253d16572ce87f77959aff364c73bbfc8bb36e76e549c50ebad94",
+      "startDate": "2021-01-29T07:15:00.000Z",
+      "subtitle": "Have the Courage to Open Up Your Future: Jimmy Pham / Founder of KOTO",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-01-29T07:56:12.337Z",
+      "raw": "https://mega.nz/folder/Mig0iJ5I#fXRKDbQSHu5h5TC_seAZnQ"
     }
   ]
 }
