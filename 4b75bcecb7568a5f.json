@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-29T05:00:04.250Z",
+  "lastUpdated": "2021-01-29T05:50:03.291Z",
   "seriesId": "2073",
   "title": "J-Arena",
   "episodes": [
@@ -82,6 +82,21 @@
       "title": "J-Arena",
       "uploadedDate": "2020-12-25T17:46:58.519Z",
       "raw": "https://mega.nz/folder/ix9igSLJ#2chXxFpRbVqSrc10pWk9eg"
+    },
+    {
+      "airingId": "078",
+      "content": "Over the past 2 decades, the world of competitive video-gaming has transformed from niche amateur hobby to a multi-billion dollar spectator sport with global reach. We take the pulse on Japan's rapidly evolving esports scene and meet the legendary Umehara Daigo, known as \"The Beast\" for his unrivaled mastery of 2D arcade fighting games. As he turns 40 this year, we look back over Daigo's record-breaking career so far, and explore the secrets of his enduring success after decades in the sport.",
+      "description": "As esports hit the mainstream, we take the pulse on Japan's rapidly evolving scene. We meet fighting game legend Umehara Daigo and reveal the secrets to his enduring success after decades in the game.",
+      "endDate": "2021-01-29T05:00:00.000Z",
+      "link": "https://mega.nz/folder/a3Zj3AjB#xP66EbC1NGSOsXSqhZUJHg",
+      "recordDateEnd": "2021-01-29T05:00:27.547Z",
+      "recordDateStart": "2021-01-29T04:29:20.003Z",
+      "seriesId": "2073",
+      "sha256": "fb8f059207bc9ffd4989043a158d97873017155ce06e4c9f494e4152be918f7e",
+      "startDate": "2021-01-29T04:30:00.000Z",
+      "subtitle": "eSports",
+      "title": "J-Arena",
+      "uploadedDate": "2021-01-29T05:49:04.494Z"
     }
   ]
 }
