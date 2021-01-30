@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-29T18:20:03.842Z",
+  "lastUpdated": "2021-01-30T00:10:03.933Z",
   "seriesId": "3004",
   "title": "Drainspotters",
   "episodes": [
@@ -18,6 +18,22 @@
       "title": "Drainspotters #1 Green Tea",
       "uploadedDate": "2020-12-29T23:08:09.199Z",
       "raw": "https://mega.nz/folder/rg8SiKZD#aXFLEz3oaV-CmOv7N7Df9g"
+    },
+    {
+      "airingId": "427",
+      "content": "",
+      "description": "We explore Iga, home of a legendary ninja clan, for some absorbing insights into the world of ninjutsu from one of Japan's last ninja grandmasters.",
+      "endDate": "2021-01-30T00:00:00.000Z",
+      "link": "https://mega.nz/folder/9BwkRaIQ#ymjkIBpDsPpxIsBsQ8RadA",
+      "recordDateEnd": "2021-01-30T00:00:25.300Z",
+      "recordDateStart": "2021-01-29T23:56:22.767Z",
+      "seriesId": "3004",
+      "sha256": "42f6c2580da8d946df7516d5fb8b4613243a7f9602cf4d90ace6d1066e1fc613",
+      "startDate": "2021-01-29T23:57:00.000Z",
+      "subtitle": "",
+      "title": "Drainspotters #2 Ninja",
+      "uploadedDate": "2021-01-30T00:07:29.511Z",
+      "raw": "https://mega.nz/folder/zZ1ACChQ#7ujl6-R9oJt7YxB89RAHWg"
     },
     {
       "airingId": "428",
