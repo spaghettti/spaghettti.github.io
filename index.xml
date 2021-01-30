@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-30T04:25:03.597Z</lastUpdated>
+  <lastUpdated>2021-01-30T06:10:02.987Z</lastUpdated>
   <series>
     <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -563,10 +563,10 @@
     <title>Kawaii International</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>0fb6afa0f420e9e6</uniqueId>
-    <lastAiring>2021-01-23T02:40:00.000Z</lastAiring>
-    <lastUpload>2021-01-23T04:18:20.433Z</lastUpload>
+    <lastAiring>2021-01-30T02:40:00.000Z</lastAiring>
+    <lastUpload>2021-01-30T06:08:53.532Z</lastUpload>
     <seriesId>6116</seriesId>
     <title>Little Charo</title>
   </series>
