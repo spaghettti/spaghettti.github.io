@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-30T03:05:03.355Z</lastUpdated>
+  <lastUpdated>2021-01-30T04:25:03.547Z</lastUpdated>
   <seriesId>da2ed3151c7e82e4</seriesId>
   <title>no art, no life</title>
   <episode>
@@ -51,6 +51,21 @@
     <title>no art, no life</title>
     <uploadedDate>2021-01-23T04:11:41.364Z</uploadedDate>
     <raw>https://mega.nz/folder/s65WXBRJ#wU6AtUZxiG2R0E8VZpgt0A</raw>
+  </episode>
+  <episode>
+    <airingId>008</airingId>
+    <content/>
+    <description>Outsider artists like Makoto Toya are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.</description>
+    <endDate>2021-01-30T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/qR9iEAIK#VU4MfdPhEo6qQ4pT2pGr2w</link>
+    <recordDateEnd>2021-01-30T02:55:28.872Z</recordDateEnd>
+    <recordDateStart>2021-01-30T02:49:20.003Z</recordDateStart>
+    <seriesId>6026</seriesId>
+    <sha256>24763101528b684bf4783282f51c98af8147deaf087a90f0b0183be72d01826a</sha256>
+    <startDate>2021-01-30T02:50:00.000Z</startDate>
+    <subtitle/>
+    <title>no art, no life</title>
+    <uploadedDate>2021-01-30T04:22:40.536Z</uploadedDate>
   </episode>
   <episode>
     <airingId>013</airingId>

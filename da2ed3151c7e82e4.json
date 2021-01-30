@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-30T03:05:03.356Z",
+  "lastUpdated": "2021-01-30T04:25:03.547Z",
   "seriesId": "6026",
   "title": "no art, no life",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "no art, no life",
       "uploadedDate": "2021-01-23T04:11:41.364Z",
       "raw": "https://mega.nz/folder/s65WXBRJ#wU6AtUZxiG2R0E8VZpgt0A"
+    },
+    {
+      "airingId": "008",
+      "content": "",
+      "description": "Outsider artists like Makoto Toya are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.",
+      "endDate": "2021-01-30T02:55:00.000Z",
+      "link": "https://mega.nz/folder/qR9iEAIK#VU4MfdPhEo6qQ4pT2pGr2w",
+      "recordDateEnd": "2021-01-30T02:55:28.872Z",
+      "recordDateStart": "2021-01-30T02:49:20.003Z",
+      "seriesId": "6026",
+      "sha256": "24763101528b684bf4783282f51c98af8147deaf087a90f0b0183be72d01826a",
+      "startDate": "2021-01-30T02:50:00.000Z",
+      "subtitle": "",
+      "title": "no art, no life",
+      "uploadedDate": "2021-01-30T04:22:40.536Z"
     },
     {
       "airingId": "013",
