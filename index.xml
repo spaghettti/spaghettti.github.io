@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-30T00:10:03.945Z</lastUpdated>
+  <lastUpdated>2021-01-30T01:25:03.086Z</lastUpdated>
   <series>
     <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -107,10 +107,10 @@
     <title>BOSAI: Science that Can Save Your Life</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>245e52873e6a4f2e</uniqueId>
-    <lastAiring>2020-12-19T23:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-26T08:18:56.592Z</lastUpload>
+    <lastAiring>2021-01-29T23:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-30T01:23:58.326Z</lastUpload>
     <seriesId>5006</seriesId>
     <title>Broadcasters' Eye</title>
   </series>
