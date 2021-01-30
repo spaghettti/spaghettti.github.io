@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-30T01:25:03.009Z</lastUpdated>
+  <lastUpdated>2021-01-30T03:05:03.320Z</lastUpdated>
   <seriesId>de77f30c8ee5dd46</seriesId>
   <title>Darwin's Amazing Animals</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Darwin's Amazing Animals</title>
     <uploadedDate>2020-12-26T13:25:35.201Z</uploadedDate>
     <raw>https://mega.nz/folder/yAdxlaCZ#sFrNWcOCcXYqhOfPon42cw</raw>
+  </episode>
+  <episode>
+    <airingId>031</airingId>
+    <content>Wildlife cinematographer Nobuaki Hirano is called to the outskirts of Tokyo to investigate a strange autumn occurrence: hornet nests are being attacked and plundered. But by what? In the forests of Okutama, Hirano finds nature's drama always on display as he films the fall foliage and an array of wild animals. Bears and monkeys come down from the hills to feast on fruits in local villages. A species of bird actually encourages angry ants to attack and bite it over and over again. Look out!</content>
+    <description>Tokyo's got a secret. In fall, wild animals on the outskirts do odd things. Bears eat persimmons in public. Birds are happily covered in angry ants. And who knows what is targeting hornets! Look out!</description>
+    <endDate>2021-01-30T00:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/fYVkGDTQ#TT21k2nt-gTve-VlyRfaOA</link>
+    <recordDateEnd>2021-01-30T00:50:27.599Z</recordDateEnd>
+    <recordDateStart>2021-01-30T00:24:20.101Z</recordDateStart>
+    <seriesId>4030</seriesId>
+    <sha256>f48e18243e093b88d213d75d911f9aa5bcaee727357c09ccf2218e90ba1f8d1a</sha256>
+    <startDate>2021-01-30T00:25:00.000Z</startDate>
+    <subtitle>Tokyo's Autumn Wildlife Kingdom -- Okutama, Japan</subtitle>
+    <title>Darwin's Amazing Animals</title>
+    <uploadedDate>2021-01-30T03:02:18.602Z</uploadedDate>
   </episode>
   <episode>
     <airingId>047</airingId>
