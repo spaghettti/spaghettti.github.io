@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-30T06:10:02.987Z</lastUpdated>
+  <lastUpdated>2021-01-30T10:20:03.399Z</lastUpdated>
   <series>
     <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -363,10 +363,10 @@
     <title>Geiko SATSUKI, A Beauty Through the Seasons</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>3bc8dcb0dce4c540</uniqueId>
-    <lastAiring>2020-12-19T01:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T05:17:34.291Z</lastUpload>
+    <lastAiring>2021-01-30T01:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-30T10:18:53.328Z</lastUpload>
     <seriesId>2047</seriesId>
     <title>GLOBAL AGENDA</title>
   </series>
