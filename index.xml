@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-31T07:30:04.250Z</lastUpdated>
+  <lastUpdated>2021-01-31T08:05:03.678Z</lastUpdated>
   <series>
     <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -275,10 +275,10 @@
     <title>Drainspotters</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>b60ca341c528e0e4</uniqueId>
-    <lastAiring>2021-01-23T04:25:00.000Z</lastAiring>
-    <lastUpload>2021-01-23T04:39:22.593Z</lastUpload>
+    <lastAiring>2021-01-30T04:55:00.000Z</lastAiring>
+    <lastUpload>2021-01-31T08:00:30.923Z</lastUpload>
     <seriesId>6022</seriesId>
     <title>Easy Japanese</title>
   </series>
@@ -683,10 +683,10 @@
     <title>Paprika  Let's dance!</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>3bee8422e8005b98</uniqueId>
-    <lastAiring>2021-01-23T03:55:00.000Z</lastAiring>
-    <lastUpload>2021-01-23T04:13:19.939Z</lastUpload>
+    <lastAiring>2021-01-30T03:55:00.000Z</lastAiring>
+    <lastUpload>2021-01-31T08:03:10.677Z</lastUpload>
     <seriesId>6021</seriesId>
     <title>PythagoraSwitch mini</title>
   </series>

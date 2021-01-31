@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-31T07:30:04.192Z</lastUpdated>
+  <lastUpdated>2021-01-31T08:05:03.614Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -179,5 +179,21 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-01-23T04:39:22.593Z</uploadedDate>
     <raw>https://mega.nz/folder/8yAGlBqa#MQKu3iZR9HdPqZ0pQ-iJNw</raw>
+  </episode>
+  <episode>
+    <airingId>042</airingId>
+    <content/>
+    <description>#42 I'm going to give them to Yuuki-san. / To explain what you intend to do, say a verb followed by "tsumori desu." So "watasu" (to give) becomes "watasu tsumori desu."</description>
+    <endDate>2021-01-30T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/vvY0GZ7B#8nwIOtARsSrDiU03-7_AtQ</link>
+    <recordDateEnd>2021-01-30T05:00:26.575Z</recordDateEnd>
+    <recordDateStart>2021-01-30T04:54:22.517Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>1748380f452cfbcebea7c6c049d170a041084a21778a78c4b18f0d20e39447a1</sha256>
+    <startDate>2021-01-30T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-01-31T08:00:30.923Z</uploadedDate>
+    <raw>https://mega.nz/folder/BUQQ1LAC#pXh3SLcQzdQ4tqO_FglNVA</raw>
   </episode>
 </episodeList>
