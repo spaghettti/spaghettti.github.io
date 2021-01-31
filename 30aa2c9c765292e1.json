@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-31T12:30:03.654Z",
+  "lastUpdated": "2021-01-31T17:50:03.503Z",
   "seriesId": "6206",
   "title": "Inspiring Landscapes",
   "episodes": [
@@ -114,6 +114,21 @@
       "title": "Inspiring Landscapes",
       "uploadedDate": "2020-12-25T02:39:13.684Z",
       "raw": "https://mega.nz/folder/xR80XD6J#sJ9fHr3KTszQVuhwv7LqPg"
+    },
+    {
+      "airingId": "050",
+      "content": "",
+      "description": "We visit an island filled with extraordinary sights and sounds: rare thrushes singing, woodpeckers drilling holes, endemic jays building their nests early, and tiger butterflies huddled to keep warm.",
+      "endDate": "2021-01-31T16:47:00.000Z",
+      "link": "https://mega.nz/folder/6uxh1Sqb#cGeHU3rQdDkH1t3ZGUw1bg",
+      "recordDateEnd": "2021-01-31T16:47:30.266Z",
+      "recordDateStart": "2021-01-31T16:29:20.099Z",
+      "seriesId": "6206",
+      "sha256": "02536587b837ba759828b416038aaf37b81fc3156e212150a859f0355d8b91ad",
+      "startDate": "2021-01-31T16:30:00.000Z",
+      "subtitle": "",
+      "title": "Inspiring Landscapes",
+      "uploadedDate": "2021-01-31T17:46:49.571Z"
     },
     {
       "airingId": "054",
