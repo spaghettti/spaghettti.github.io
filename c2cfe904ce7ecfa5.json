@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-31T08:05:03.488Z",
+  "lastUpdated": "2021-01-31T08:40:03.745Z",
   "seriesId": "2043",
   "title": "Face To Face",
   "episodes": [
@@ -50,6 +50,22 @@
       "title": "Face To Face",
       "uploadedDate": "2020-12-25T05:33:29.803Z",
       "raw": "https://mega.nz/folder/7EcQ3R7R#5b2dc_-jq-pQTJeECG1R7A"
+    },
+    {
+      "airingId": "064",
+      "content": "A Japanese aquarium that was once in dire straits has become the world's center for jellyfish research, thanks to its current director, Okuizumi Kazuya. He proposed setting up a jellyfish exhibit many years ago. At the time, he was a young man with little self-esteem. But the success of the exhibit gave him a new perspective. Today, he's become a leading expert in jellyfish, and his fish tank designs have been adopted by aquariums world over. He shares his passion for jellyfish with our host, Robert Campbell.",
+      "description": "Okuizumi Kazuya is the director of an aquarium with the world's largest display of jellyfish. He talks about how his love for jellyfish helped him regain his self-esteem and find a purpose in life.",
+      "endDate": "2021-01-31T01:40:00.000Z",
+      "link": "https://mega.nz/folder/QiID2YgJ#92hwQOrNTOge-riYj9IJNg",
+      "recordDateEnd": "2021-01-31T01:40:28.354Z",
+      "recordDateStart": "2021-01-31T01:09:23.146Z",
+      "seriesId": "2043",
+      "sha256": "5b69e7413cb7a33d47891876fa1b584056513542e033f860f0fe82aaa6509a95",
+      "startDate": "2021-01-31T01:10:00.000Z",
+      "subtitle": "Okuizumi Kazuya: Lovestruck by Jellyfish",
+      "title": "Face To Face",
+      "uploadedDate": "2021-01-31T08:35:18.094Z",
+      "raw": "https://mega.nz/folder/cHYzDKaZ#1_4r1ypCrem1RhWt1Wp02w"
     }
   ]
 }
