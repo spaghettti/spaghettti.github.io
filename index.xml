@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-31T06:30:03.832Z</lastUpdated>
+  <lastUpdated>2021-01-31T06:40:03.546Z</lastUpdated>
   <series>
     <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -811,10 +811,10 @@
     <title>Spirit of Resilience</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>29c1799bc492d0cf</uniqueId>
-    <lastAiring>2020-12-27T00:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-27T23:20:42.890Z</lastUpload>
+    <lastAiring>2021-01-31T00:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-31T06:36:34.687Z</lastUpload>
     <seriesId>2088</seriesId>
     <title>Spiritual Explorers</title>
   </series>
