@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-31T09:15:03.619Z</lastUpdated>
+  <lastUpdated>2021-01-31T09:25:03.535Z</lastUpdated>
   <seriesId>be55ba93c748813c</seriesId>
   <title>COOL JAPAN</title>
   <episode>
@@ -67,6 +67,21 @@
     <title>COOL JAPAN</title>
     <uploadedDate>2020-12-28T01:18:39.590Z</uploadedDate>
     <raw>https://mega.nz/folder/w4F2XTgL#-wEA1yGNZ-0wDIe5iNwNvw</raw>
+  </episode>
+  <episode>
+    <airingId>229</airingId>
+    <content>Foreigners say that fruit sandwiches are inconceivable and sandwiching side dishes between bread is strange. However, people who become hooked on cutlet sandwiches once they eat them are rapidly increasing. What's the aesthetic of Moedan sandwiches that are particular about the beauty of cross sections? Following ramen, sushi, and tempura, will they see a boom that spreads to the world? We investigate the cools of Japan's sandwiches.</content>
+    <description>Sandwiches have evolved uniquely in Japan, originating various styles and configurations. The panelists discuss the potential for Japanese sandwiches to follow sushi and ramen in global appreciation.</description>
+    <endDate>2021-01-30T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/QD4WjIqR#uQs0AIizwdBpcHqMPkb4WA</link>
+    <recordDateEnd>2021-01-30T04:55:23.345Z</recordDateEnd>
+    <recordDateStart>2021-01-30T04:09:20.100Z</recordDateStart>
+    <seriesId>4008</seriesId>
+    <sha256>f80247a8391f272711767cf84de69c3d89f0930346dc84d76f1b1aaf3466535b</sha256>
+    <startDate>2021-01-30T04:10:00.000Z</startDate>
+    <subtitle>Sandwiches</subtitle>
+    <title>COOL JAPAN</title>
+    <uploadedDate>2021-01-31T09:20:20.714Z</uploadedDate>
   </episode>
   <episode>
     <airingId>246</airingId>

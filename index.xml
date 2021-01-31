@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-31T09:15:03.715Z</lastUpdated>
+  <lastUpdated>2021-01-31T09:25:03.647Z</lastUpdated>
   <series>
     <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -139,10 +139,10 @@
     <title>Ceramic Treasures</title>
   </series>
   <series>
-    <count>6</count>
+    <count>7</count>
     <uniqueId>be55ba93c748813c</uniqueId>
-    <lastAiring>2021-01-16T11:10:00.000Z</lastAiring>
-    <lastUpload>2021-01-16T22:39:00.566Z</lastUpload>
+    <lastAiring>2021-01-30T04:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-31T09:20:20.714Z</lastUpload>
     <seriesId>4008</seriesId>
     <title>COOL JAPAN</title>
   </series>
