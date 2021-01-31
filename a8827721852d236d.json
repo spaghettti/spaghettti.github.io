@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-31T09:25:03.608Z",
+  "lastUpdated": "2021-01-31T12:20:03.438Z",
   "seriesId": "6210",
   "title": "Japan-easy",
   "episodes": [
@@ -178,6 +178,22 @@
       "title": "Japan-easy2",
       "uploadedDate": "2021-01-24T12:08:09.529Z",
       "raw": "https://mega.nz/folder/oKRCkZ7B#5p32nwu7s03Rjh3BWW8F3g"
+    },
+    {
+      "airingId": "120",
+      "content": "",
+      "description": "Today, we'll learn how to say \"This is expensive, isn't it?\" in Japanese. Learn useful phrases and cool kanji! And you'll realize \"Japanese is easy!\"",
+      "endDate": "2021-01-31T11:40:00.000Z",
+      "link": "https://mega.nz/folder/xEBFkA5Z#BF8KZdCEGH_i9XFsSR48Fg",
+      "recordDateEnd": "2021-01-31T11:40:29.075Z",
+      "recordDateStart": "2021-01-31T11:24:20.102Z",
+      "seriesId": "6210",
+      "sha256": "c8af7a2f8a02de0fd3f6214c1fcd3df46e1825a228f958f2d79feb28596557d1",
+      "startDate": "2021-01-31T11:25:00.000Z",
+      "subtitle": "",
+      "title": "Japan-easy2",
+      "uploadedDate": "2021-01-31T12:19:44.104Z",
+      "raw": "https://mega.nz/folder/IuAlUYBA#JFweZY-dfuwsz0_TW0gmKg"
     }
   ]
 }
