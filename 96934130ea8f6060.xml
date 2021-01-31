@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-31T17:50:03.491Z</lastUpdated>
+  <lastUpdated>2021-01-31T23:30:04.376Z</lastUpdated>
   <seriesId>96934130ea8f6060</seriesId>
   <title>We, in the Time of Corona</title>
   <episode>
@@ -51,6 +51,21 @@
     <title>We, in the Time of Corona</title>
     <uploadedDate>2021-01-06T07:45:12.657Z</uploadedDate>
     <raw>https://mega.nz/folder/4EY1EYhA#rogJpa44fmBsZ9sFR0QKFw</raw>
+  </episode>
+  <episode>
+    <airingId>020</airingId>
+    <content>The Rev. Takafumi Kawakami is a priest in Kyoto Prefecture. He gives a lecture on Zen at Brown University and speaker at TEDxKyoto. During the Pandemic, he is working more actively on sharing the wisdom of Zen.</content>
+    <description>The Rev. Takafumi Kawakami is a priest in Kyoto. He gives a lecturer on Zen at Brown University and speaker at TEDxKyoto. During the Pandemic, he is working more actively on sharing the wisdom of Zen.</description>
+    <endDate>2021-01-31T23:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/5yggyYqa#Sb34SMmdLcggKXKQcO7MYg</link>
+    <recordDateEnd>2021-01-31T23:20:30.961Z</recordDateEnd>
+    <recordDateStart>2021-01-31T23:14:20.100Z</recordDateStart>
+    <seriesId>6033</seriesId>
+    <sha256>67d910552f45af126b7b900d69c98c632cc8a6d5574792caa7f021bb2033e280</sha256>
+    <startDate>2021-01-31T23:15:00.000Z</startDate>
+    <subtitle>Rev. Takafumi Zenryu Kawakami, Zen Priest</subtitle>
+    <title>We, in the Time of Corona</title>
+    <uploadedDate>2021-01-31T23:28:31.270Z</uploadedDate>
   </episode>
   <episode>
     <airingId>030</airingId>
