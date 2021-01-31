@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-31T06:40:03.460Z</lastUpdated>
+  <lastUpdated>2021-01-31T07:15:03.294Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -131,6 +131,22 @@
     <title>Somewhere Street</title>
     <uploadedDate>2021-01-19T04:45:32.759Z</uploadedDate>
     <raw>https://mega.nz/folder/fn4WTQIA#KEaIO-Nhgdc8Sew-4nmd9w</raw>
+  </episode>
+  <episode>
+    <airingId>086</airingId>
+    <content>This is Andalusia, in southern Spain. Midway up the mountain is the village of Mijas. The walls of the buildings were whitewashed in order to fend off the powerful rays of the sun, making it one of Andalusian's traditional "white villages." During the 1960's the walls were whitewashed with lime in order to protect the city from the harsh sunlight and disease, as well as to attract tourists. The whole town highlights the beauty of the white walls by cleaning them daily and growing colorful flowers. Due to these efforts, Mijas is now visited by tourists from around the world seeking to enjoy this spectacular "white village."</content>
+    <description>This is Andalusia, in southern Spain. Midway up the mountain is Mijas. The whitewashed walls protect the city from the harsh sun and disease, attracting tourists who visit from all over the world.</description>
+    <endDate>2021-01-31T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/VL5zWKrL#MOnB7dJaEY7aE5qz56K16Q</link>
+    <recordDateEnd>2021-01-31T05:00:26.060Z</recordDateEnd>
+    <recordDateStart>2021-01-31T04:09:20.100Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>560c10be566b02af4658b03d84d54fe1b5565f3aa612774860f74cef02a75bdb</sha256>
+    <startDate>2021-01-31T04:10:00.000Z</startDate>
+    <subtitle>Mijas, Spain</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-01-31T07:13:34.383Z</uploadedDate>
+    <raw>https://mega.nz/folder/ZuwFCCiC#decwi3X3lRYcPy0Maw5oKA</raw>
   </episode>
   <episode>
     <airingId>107</airingId>
