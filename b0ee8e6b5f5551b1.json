@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-31T08:40:03.931Z",
+  "lastUpdated": "2021-01-31T08:55:03.383Z",
   "seriesId": "7000",
   "title": "Spirit of Resilience",
   "episodes": [
@@ -114,6 +114,22 @@
       "title": "Spirit of Resilience",
       "uploadedDate": "2021-01-28T03:13:44.079Z",
       "raw": "https://mega.nz/folder/tAAj0KYL#67mEb6ANy8okgObXpy3QBw"
+    },
+    {
+      "airingId": "467",
+      "content": "",
+      "description": "Apples and Pop Idols: Documents \"Ringo Musume,\" an idol group from Aomori Prefecture and their efforts to make a difference in their hometown.",
+      "endDate": "2021-01-30T14:40:00.000Z",
+      "link": "https://mega.nz/folder/wmp3HCyR#GYJJ7jzlC0WD5sVl7w1osA",
+      "recordDateEnd": "2021-01-30T14:40:27.831Z",
+      "recordDateStart": "2021-01-30T14:09:20.125Z",
+      "seriesId": "7000",
+      "sha256": "1c88cac958f75b2f8ccaa43749a936e593b446eb5b682925367e85f6cb8080a3",
+      "startDate": "2021-01-30T14:10:00.000Z",
+      "subtitle": "Raising Fruit with Style",
+      "title": "Spirit of Resilience",
+      "uploadedDate": "2021-01-31T08:50:17.863Z",
+      "raw": "https://mega.nz/folder/UbYxjaCY#XZaeqUo4Mykmw9WxGFf6gQ"
     }
   ]
 }

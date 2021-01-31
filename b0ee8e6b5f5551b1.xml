@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-31T08:40:03.930Z</lastUpdated>
+  <lastUpdated>2021-01-31T08:55:03.382Z</lastUpdated>
   <seriesId>b0ee8e6b5f5551b1</seriesId>
   <title>Spirit of Resilience</title>
   <episode>
@@ -115,5 +115,21 @@
     <title>Spirit of Resilience</title>
     <uploadedDate>2021-01-28T03:13:44.079Z</uploadedDate>
     <raw>https://mega.nz/folder/tAAj0KYL#67mEb6ANy8okgObXpy3QBw</raw>
+  </episode>
+  <episode>
+    <airingId>467</airingId>
+    <content/>
+    <description>Apples and Pop Idols: Documents "Ringo Musume," an idol group from Aomori Prefecture and their efforts to make a difference in their hometown.</description>
+    <endDate>2021-01-30T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/wmp3HCyR#GYJJ7jzlC0WD5sVl7w1osA</link>
+    <recordDateEnd>2021-01-30T14:40:27.831Z</recordDateEnd>
+    <recordDateStart>2021-01-30T14:09:20.125Z</recordDateStart>
+    <seriesId>7000</seriesId>
+    <sha256>1c88cac958f75b2f8ccaa43749a936e593b446eb5b682925367e85f6cb8080a3</sha256>
+    <startDate>2021-01-30T14:10:00.000Z</startDate>
+    <subtitle>Raising Fruit with Style</subtitle>
+    <title>Spirit of Resilience</title>
+    <uploadedDate>2021-01-31T08:50:17.863Z</uploadedDate>
+    <raw>https://mega.nz/folder/UbYxjaCY#XZaeqUo4Mykmw9WxGFf6gQ</raw>
   </episode>
 </episodeList>
