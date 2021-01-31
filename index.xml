@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-31T07:15:03.396Z</lastUpdated>
+  <lastUpdated>2021-01-31T07:30:04.250Z</lastUpdated>
   <series>
     <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -33,6 +33,14 @@
     <lastUpload>2020-12-28T23:44:00.528Z</lastUpload>
     <seriesId>3019</seriesId>
     <title>A*B*C Tours</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>137043339a47aebd</uniqueId>
+    <lastAiring>2021-01-30T23:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-31T07:25:52.028Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>ABU TV SONG FESTIVAL</title>
   </series>
   <series>
     <count>2</count>
