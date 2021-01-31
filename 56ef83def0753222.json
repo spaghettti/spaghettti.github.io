@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-31T08:55:03.386Z",
+  "lastUpdated": "2021-01-31T09:15:03.701Z",
   "seriesId": "3016,4001",
   "title": "NHK Documentary",
   "episodes": [
@@ -178,6 +178,22 @@
       "title": "NHK Documentary",
       "uploadedDate": "2021-01-19T08:57:06.891Z",
       "raw": "https://mega.nz/folder/nAlR3CQY#Uc_tkFhupu0HrqBKfIQ1Gw"
+    },
+    {
+      "airingId": "384",
+      "content": "Ever since the COVID-19 pandemic first hit Japan, the far-reaching economic fallout has disproportionately impacted women's livelihoods. More than twice as many women have lost work, or seen their incomes slashed, compared to men. In an era where women are now often key breadwinners for their families, the repercussions have created a dire situation for households across the country. We explore what lies behind stark demographic discrepancies between men's and women's employment, and report first-hand on the bitter struggles of those whose voices all too often go unheard.",
+      "description": "The pandemic's far-reaching economic fallout has disproportionately hit women's livelihoods, with more than twice as many losing work as men. We hear from families struggling with the repercussions.",
+      "endDate": "2021-01-30T16:00:00.000Z",
+      "link": "https://mega.nz/folder/u2xggYhS#vFNKd34gjgGBjk_X_ywkkQ",
+      "recordDateEnd": "2021-01-30T16:00:29.264Z",
+      "recordDateStart": "2021-01-30T15:09:20.099Z",
+      "seriesId": "4001",
+      "sha256": "3216b9a1cbaa5140daf0413b47b2c80b594c9a8300bce96d7ec592d39a5855da",
+      "startDate": "2021-01-30T15:10:00.000Z",
+      "subtitle": "Women's Livelihoods in Crisis: Bearing the Brunt of the Pandemic",
+      "title": "NHK Documentary",
+      "uploadedDate": "2021-01-31T09:14:50.401Z",
+      "raw": "https://mega.nz/folder/W6oSGLIY#uFm6_cGOCpLgpw_GozCvuw"
     }
   ]
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-01-31T08:55:03.400Z</lastUpdated>
+  <lastUpdated>2021-01-31T09:15:03.715Z</lastUpdated>
   <series>
     <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -635,10 +635,10 @@
     <title>Music for Tomorrow</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>56ef83def0753222</uniqueId>
-    <lastAiring>2021-01-23T15:10:00.000Z</lastAiring>
-    <lastUpload>2021-01-23T17:54:40.840Z</lastUpload>
+    <lastAiring>2021-01-30T15:10:00.000Z</lastAiring>
+    <lastUpload>2021-01-31T09:14:50.401Z</lastUpload>
     <seriesId>3016,4001</seriesId>
     <title>NHK Documentary</title>
   </series>
