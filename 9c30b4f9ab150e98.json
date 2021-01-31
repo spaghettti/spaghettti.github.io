@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-31T06:05:03.572Z",
+  "lastUpdated": "2021-01-31T06:25:03.606Z",
   "seriesId": "3004",
   "title": "BOSAI: Science that Can Save Your Life",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "BOSAI: Science that Can Save Your Life",
       "uploadedDate": "2021-01-13T07:56:50.818Z",
       "raw": "https://mega.nz/folder/GsUyATiA#qdnXeJDRpHjXo2UxWMBneA"
+    },
+    {
+      "airingId": "702",
+      "content": "",
+      "description": "This program examines two types of earthquake phenomena: long-period ground motion and the long-period pulse. We'll also look at the effects of earthquakes on buildings and explore ways to save lives.",
+      "endDate": "2021-01-31T02:55:00.000Z",
+      "link": "https://mega.nz/folder/FMhyyTQB#qHVstK1grfKNAlFGiQmLZA",
+      "recordDateEnd": "2021-01-31T02:55:24.019Z",
+      "recordDateStart": "2021-01-31T02:39:24.351Z",
+      "seriesId": "3004",
+      "sha256": "f41d20a19bd64183f69edf02e28d934068638272840f4b7f04061e1de1450cca",
+      "startDate": "2021-01-31T02:40:00.000Z",
+      "subtitle": "#4 Long-period Ground Motion and A New Threat",
+      "title": "BOSAI: Science that Can Save Your Life",
+      "uploadedDate": "2021-01-31T06:23:40.819Z"
     }
   ]
 }
