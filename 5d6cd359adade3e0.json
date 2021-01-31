@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-31T12:20:03.301Z",
+  "lastUpdated": "2021-01-31T12:30:03.538Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
@@ -178,6 +178,22 @@
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2021-01-19T03:46:28.212Z",
       "raw": "https://mega.nz/folder/0NRSlD7T#0kEfAdELqbGZ5ZmeakGcUQ"
+    },
+    {
+      "airingId": "077",
+      "content": "",
+      "description": "This time we introduce \"Spiritual Explorers,\" which visits Kitakami area, Iwate Prefecture. There we find plenty of legends on \"Oni,\" The Japanese Ogre. Two travelers meet surprising facts on \"Oni.\"",
+      "endDate": "2021-01-31T11:55:00.000Z",
+      "link": "https://mega.nz/folder/gJoi3Krb#8fQSkOattTlt9Pm3IL1BjQ",
+      "recordDateEnd": "2021-01-31T11:55:28.021Z",
+      "recordDateStart": "2021-01-31T11:49:20.101Z",
+      "seriesId": "2075",
+      "sha256": "592350b47a51e2cd447228024fad226552180bcee1e309b7ee82a7941f8bea29",
+      "startDate": "2021-01-31T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2021-01-31T12:25:11.116Z",
+      "raw": "https://mega.nz/folder/f2wwTAoa#9BBSQQmVVtvvJrzXOCh-AQ"
     }
   ]
 }
