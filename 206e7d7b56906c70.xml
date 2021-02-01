@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-31T23:30:04.183Z</lastUpdated>
+  <lastUpdated>2021-02-01T01:45:03.945Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -83,6 +83,22 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2021-01-19T03:25:29.990Z</uploadedDate>
     <raw>https://mega.nz/folder/CJ9z2CgA#UI3r8_t5a84XbvhJ425aow</raw>
+  </episode>
+  <episode>
+    <airingId>093</airingId>
+    <content>Kinosaki Onsen is a small town faces the Sea of Japan to its north, and is spread out between mountains. It is a hot springs, or an "onsen" resort in Hyogo Prefecture. About 100 "ryokan" or traditional Japanese inns line a 1-kilometer street, which are visited by 1 million tourists a year. The way to enjoy the hot springs here is to visit all of the 7 public baths in the town. A sparkling otherworldly thermal utopia built in the mountains. In this episode of Seasoning the Seasons, we visit a small hot springs resort that relaxes the body and mind.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history. Today: Kinosaki Onsen - A Town of Hot Springs.</description>
+    <endDate>2021-02-01T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/juIDXI4Q#J_A6jvPdCRa_QjGrUg0Mbg</link>
+    <recordDateEnd>2021-02-01T00:00:30.540Z</recordDateEnd>
+    <recordDateStart>2021-01-31T23:29:20.100Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>769b0ee9e08aaaa67242d1038e3e183d46a470a411b6d10b4efc4431a71d7c9e</sha256>
+    <startDate>2021-01-31T23:30:00.000Z</startDate>
+    <subtitle>Kinosaki Onsen: A Town of Hot Springs</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-02-01T01:41:19.785Z</uploadedDate>
+    <raw>https://mega.nz/folder/13RCCJxQ#kyY9LkOklfiMvsE4YFzZ1Q</raw>
   </episode>
   <episode>
     <airingId>094</airingId>
