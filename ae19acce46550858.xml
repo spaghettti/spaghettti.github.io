@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-01T01:45:04.096Z</lastUpdated>
+  <lastUpdated>2021-02-01T02:05:03.554Z</lastUpdated>
   <seriesId>ae19acce46550858</seriesId>
   <title>Easy Japanese for Work</title>
+  <episode>
+    <airingId>022</airingId>
+    <content>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</content>
+    <description>Today: identifying your chance to speak at a meeting. Timothy James Mahrt, from the United States, works at an IT firm in Tokyo. He has difficulty finding the right time to speak up.</description>
+    <endDate>2021-02-01T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/VmQ1BapK#4sC6LrdYVfirfdPz5KE2dQ</link>
+    <recordDateEnd>2021-02-01T01:00:27.949Z</recordDateEnd>
+    <recordDateStart>2021-02-01T00:44:20.100Z</recordDateStart>
+    <seriesId>2078</seriesId>
+    <sha256>e5d438d55451c615dc880082a10c9dbf2b8d5af4757320439c53a6a33c035c0d</sha256>
+    <startDate>2021-02-01T00:45:00.000Z</startDate>
+    <subtitle>#22 Identifying your chance to speak at a meeting</subtitle>
+    <title>Easy Japanese for Work</title>
+    <uploadedDate>2021-02-01T02:03:32.137Z</uploadedDate>
+    <raw>https://mega.nz/folder/CnQBmabI#bMJNkRTaIbf8PKG_TKgBzw</raw>
+  </episode>
   <episode>
     <airingId>024</airingId>
     <content>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</content>
