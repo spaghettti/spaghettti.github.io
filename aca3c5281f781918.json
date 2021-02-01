@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-01T05:15:03.665Z",
+  "lastUpdated": "2021-02-01T06:15:04.105Z",
   "seriesId": "4018",
   "title": "The Mark of Beauty",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "The Mark of Beauty",
       "uploadedDate": "2020-12-28T03:07:46.408Z",
       "raw": "https://mega.nz/folder/RNM2kTgI#IPassARFF51oUMPQ0k271w"
+    },
+    {
+      "airingId": "122",
+      "content": "This episode features mushrooms, which have been part of the Japanese diet since pre-historic times. We look at some exquisite dishes from a French restaurant that is fussy about its mushrooms, as well as a superb mushroom hotpot of the kind prepared by the hunters who move through the mountain forests in the Tohoku region. An expert shows some unusual fungi, including a species on Hachijo Island that glows in the dark. An internationally renowned botanical artist specializing in fungi reveals the intricacies of these organisms, and takes us through the illustrated encyclopedia compiled by the great polymath Minakata Kumagusu (1867-1941) that features 4,000 different specimens. The Kyogen performer Nomura Mansai visits the home of our host Kusakari Masao in the guise of a mountain hermit.",
+      "description": "Japan is home to a variety of mushrooms. From those that look like eggs to those resemble corals, mushrooms come in many shapes and colors. Tune in to find out what make them so special.",
+      "endDate": "2021-02-01T05:00:00.000Z",
+      "link": "https://mega.nz/folder/gm43wSzA#WiKS5D9e-s1GhAidAkmbjg",
+      "recordDateEnd": "2021-02-01T05:00:28.976Z",
+      "recordDateStart": "2021-02-01T04:29:23.003Z",
+      "seriesId": "4018",
+      "sha256": "b94de70532855084a2b69795b5ccfe06e271d12cb5c0b8395b0023391ac0ddc0",
+      "startDate": "2021-02-01T04:30:00.000Z",
+      "subtitle": "Mushrooms of Japan",
+      "title": "The Mark of Beauty",
+      "uploadedDate": "2021-02-01T06:14:16.353Z"
     }
   ]
 }
