@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-01T06:15:04.022Z</lastUpdated>
+  <lastUpdated>2021-02-01T08:00:04.118Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1715,5 +1715,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-29T07:56:12.337Z</uploadedDate>
     <raw>https://mega.nz/folder/Mig0iJ5I#fXRKDbQSHu5h5TC_seAZnQ</raw>
+  </episode>
+  <episode>
+    <airingId>733</airingId>
+    <content>Iida Masashige creates immersive video presentations for dome-shaped projection screens that hang overhead in planetariums and other theaters. He talks about his vision, themes and methods.</content>
+    <description>Iida Masashige creates immersive video presentations for dome-shaped projection screens that hang overhead in planetariums and other theaters. He talks about his vision, themes, and methods.</description>
+    <endDate>2021-02-01T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/8JZjkYyD#w-dGzXTbAFMHURyPaRMg8g</link>
+    <recordDateEnd>2021-02-01T07:30:30.005Z</recordDateEnd>
+    <recordDateStart>2021-02-01T07:14:22.593Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>cd285ef36be7c8ea95eb59209bba3d7db5d64e1862ec537debb092073353f6cb</sha256>
+    <startDate>2021-02-01T07:15:00.000Z</startDate>
+    <subtitle>Pushing the Boundaries: Iida Masashige / Visual Artist</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-01T07:57:34.712Z</uploadedDate>
   </episode>
 </episodeList>
