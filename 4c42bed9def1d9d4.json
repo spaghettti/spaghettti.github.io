@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-01T02:05:03.561Z",
+  "lastUpdated": "2021-02-01T02:45:03.803Z",
   "seriesId": "2087",
   "title": "Where We Call Home",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "Where We Call Home",
       "uploadedDate": "2021-01-19T03:11:09.456Z",
       "raw": "https://mega.nz/folder/AahAySRT#o7S4cDeCsInnHH-FjP0rag"
+    },
+    {
+      "airingId": "027",
+      "content": "On this episode, we visit Takasaki in Gunma Prefecture to meet Russian-native Yulia Lev, a pianist who's been active in Japan for 20 years. As an accompanist - a specialization common in Russia yet rare in Japan - she performs with a wide range of musicians and singers, proving there are no borders in music. Her love for her work and city of adoption helps her through life's hardships. We also drop by a Tokyo gallery to watch Italian-born Greta Rossi at work organizing a contemporary art exhibition.",
+      "description": "On this episode, we visit Takasaki to meet Russian-born Yulia Lev, a piano accompanist who performs with a wide range of musicians and singers, proving there are no borders in the world of music.",
+      "endDate": "2021-02-01T02:00:00.000Z",
+      "link": "https://mega.nz/folder/1zhGUTKT#L3xsgO9FVTDXFIIMpcUGcA",
+      "recordDateEnd": "2021-02-01T02:00:24.964Z",
+      "recordDateStart": "2021-02-01T01:29:22.723Z",
+      "seriesId": "2087",
+      "sha256": "1f51ab50b89a74e14410a29558dad493a026a6e5caf7c14a263b74fc0aca239a",
+      "startDate": "2021-02-01T01:30:00.000Z",
+      "subtitle": "A Pianist's Love, Loss and Life in Takasaki",
+      "title": "Where We Call Home",
+      "uploadedDate": "2021-02-01T02:42:55.716Z"
     }
   ]
 }
