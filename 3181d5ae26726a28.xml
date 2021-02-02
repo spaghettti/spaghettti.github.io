@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-02T03:00:03.921Z</lastUpdated>
+  <lastUpdated>2021-02-02T03:05:03.744Z</lastUpdated>
   <seriesId>3181d5ae26726a28</seriesId>
   <title>Document 72 Hours</title>
   <episode>
@@ -179,5 +179,20 @@
     <title>Document 72 Hours</title>
     <uploadedDate>2021-01-26T03:14:38.970Z</uploadedDate>
     <raw>https://mega.nz/folder/m6pwCL5Y#FEQO3bB-IO7zUjBpLwFlhA</raw>
+  </episode>
+  <episode>
+    <airingId>149</airingId>
+    <content>A Tokyo store selling cheap, good-quality kitchen equipment is a boon for restaurant owners, especially during the coronavirus pandemic. The store sells over 9,000 kinds of products, ranging from fridges to pots and pans to cutlery. Among customers we met were an owner of a Japanese-style bar who started meal deliveries; and a couple opening their dream café. The store also receives a steady stream of requests to buy equipment from restaurants that have shut their doors. For 3 days, we asked operators who shop here about what's on their minds as they search for their new equipment.</content>
+    <description>A Tokyo store selling mainly used kitchen equipment is a boon for restaurant owners reeling from the coronavirus pandemic or opening a new business. For 3 days, we asked what is on their minds.</description>
+    <endDate>2021-02-02T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/eVd0QTqQ#aswo-14mrPlVKUAmaZn1bQ</link>
+    <recordDateEnd>2021-02-02T02:00:25.390Z</recordDateEnd>
+    <recordDateStart>2021-02-02T01:29:20.099Z</recordDateStart>
+    <seriesId>4026</seriesId>
+    <sha256>d6597b694f806973c2610ab2fd12311b95f4274638ae1beecb1161fc7525aca1</sha256>
+    <startDate>2021-02-02T01:30:00.000Z</startDate>
+    <subtitle>Giving Kitchen Equipment New Homes</subtitle>
+    <title>Document 72 Hours</title>
+    <uploadedDate>2021-02-02T03:02:13.165Z</uploadedDate>
   </episode>
 </episodeList>
