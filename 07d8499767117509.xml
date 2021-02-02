@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-02T05:25:02.940Z</lastUpdated>
+  <lastUpdated>2021-02-02T07:50:03.460Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -563,6 +563,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-25T08:19:57.505Z</uploadedDate>
     <raw>https://mega.nz/folder/xY5kyThI#wCgJUWchKDnj2vuLNBxC-Q</raw>
+  </episode>
+  <episode>
+    <airingId>598</airingId>
+    <content>Ryusen Hamono has developed a steak knife with excellent sharpness that has been carefully designed to be safe to use. President Koji Masutani talks about the work that went into crafting the blade.</content>
+    <description>Ryusen Hamono has developed a steak knife with excellent sharpness that has been carefully designed to be safe to use. President Koji Masutani talks about the work that went into crafting the blade.</description>
+    <endDate>2021-02-02T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/NUF3mYAT#QQ24aq5scNNxR6s0EPJPKg</link>
+    <recordDateEnd>2021-02-02T07:30:29.692Z</recordDateEnd>
+    <recordDateStart>2021-02-02T07:14:20.015Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>efe9cef872de4184860b636a47110c949acfac7448599b91494a00827d9d32fa</sha256>
+    <startDate>2021-02-02T07:15:00.000Z</startDate>
+    <subtitle>A Cutting-Edge Steak Knife: Koji Masutani / President, Ryusen Hamono</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-02T07:46:35.086Z</uploadedDate>
   </episode>
   <episode>
     <airingId>602</airingId>

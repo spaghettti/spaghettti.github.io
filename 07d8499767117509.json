@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-02T05:25:02.959Z",
+  "lastUpdated": "2021-02-02T07:50:03.478Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -562,6 +562,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-01-25T08:19:57.505Z",
       "raw": "https://mega.nz/folder/xY5kyThI#wCgJUWchKDnj2vuLNBxC-Q"
+    },
+    {
+      "airingId": "598",
+      "content": "Ryusen Hamono has developed a steak knife with excellent sharpness that has been carefully designed to be safe to use. President Koji Masutani talks about the work that went into crafting the blade.",
+      "description": "Ryusen Hamono has developed a steak knife with excellent sharpness that has been carefully designed to be safe to use. President Koji Masutani talks about the work that went into crafting the blade.",
+      "endDate": "2021-02-02T07:30:00.000Z",
+      "link": "https://mega.nz/folder/NUF3mYAT#QQ24aq5scNNxR6s0EPJPKg",
+      "recordDateEnd": "2021-02-02T07:30:29.692Z",
+      "recordDateStart": "2021-02-02T07:14:20.015Z",
+      "seriesId": "2058",
+      "sha256": "efe9cef872de4184860b636a47110c949acfac7448599b91494a00827d9d32fa",
+      "startDate": "2021-02-02T07:15:00.000Z",
+      "subtitle": "A Cutting-Edge Steak Knife: Koji Masutani / President, Ryusen Hamono",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-02T07:46:35.086Z"
     },
     {
       "airingId": "602",
