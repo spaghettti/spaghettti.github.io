@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-02T05:10:03.854Z</lastUpdated>
+  <lastUpdated>2021-02-02T05:25:02.987Z</lastUpdated>
   <seriesId>f85084a2d40d190a</seriesId>
   <title>DEEPER LOOK from New York</title>
   <episode>
@@ -131,5 +131,20 @@
     <title>DEEPER LOOK from New York</title>
     <uploadedDate>2021-01-26T21:44:37.358Z</uploadedDate>
     <raw>https://mega.nz/folder/Na5AVILD#DTJKaPXYJPi9gEMxz4mgEA</raw>
+  </episode>
+  <episode>
+    <airingId>024</airingId>
+    <content>The first 100 days of a new administration is seen as a benchmark measuring a president's early success. President Joseph R. Biden Jr. is moving aggressively to implement his agenda such as the vaccination plan and economic relief package. Many goals require support from Congress. How can President Biden push through key policies and win bipartisan support to unite the country? We asked Capri Cafaro about the path President Biden may take.</content>
+    <description>An experienced anchor Del Irani has a cutting-edge dialogue. This time, Capri Cafaro of American Univ. and Fmr. Democratic Leader of the Ohio State Senate about the path President Biden may take.</description>
+    <endDate>2021-02-02T04:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/TE1GzYaL#lM4QJzHuvlhY1xiEyJtGaw</link>
+    <recordDateEnd>2021-02-02T04:45:28.622Z</recordDateEnd>
+    <recordDateStart>2021-02-02T04:29:23.006Z</recordDateStart>
+    <seriesId>2085</seriesId>
+    <sha256>521e1151c3c2e1da52c7e7ac64b9efeec80195df38523e2b1cc7b61d52aacce6</sha256>
+    <startDate>2021-02-02T04:30:00.000Z</startDate>
+    <subtitle>How Can the Biden Administration achieve Its Agenda?: Capri Cafaro / Professor of Public Affairs, American University/Former Democratic Leader of the Ohio State Senate</subtitle>
+    <title>DEEPER LOOK from New York</title>
+    <uploadedDate>2021-02-02T05:23:14.520Z</uploadedDate>
   </episode>
 </episodeList>

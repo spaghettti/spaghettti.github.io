@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-02T05:10:03.856Z",
+  "lastUpdated": "2021-02-02T05:25:02.989Z",
   "seriesId": "2086",
   "title": "Doctor's Insight",
   "episodes": [
@@ -82,6 +82,21 @@
       "title": "Doctor's Insight",
       "uploadedDate": "2021-01-26T05:24:47.548Z",
       "raw": "https://mega.nz/folder/azZFyKLa#acqUiI-ylKsBraawfhI0wQ"
+    },
+    {
+      "airingId": "013",
+      "content": "The prevalence of myopia, or nearsightedness, is rapidly increasing worldwide and particularly in East Asia. The WHO estimates 1.3 billion people with myopia in 2000, 2.5 billion in 2020, and 5 billion people by the year 2050. Do you consider nearsightedness as a simple problem that can be corrected with prescription glasses or contact lenses? Recent studies have shown that myopia increases the risk of blindness. Find out the hidden risks of myopia and what we can do about it.",
+      "description": "Myopia, or nearsightedness is a growing global problem. The WHO estimated 1.3 billion people with myopia in 2000 and 5 billion by 2050. Find out the risks of myopia and what we can do about it.",
+      "endDate": "2021-02-02T04:55:00.000Z",
+      "link": "https://mega.nz/folder/xJ9ykaTC#mEfOvA3O-CEqTbKZjnGzwA",
+      "recordDateEnd": "2021-02-02T04:55:29.294Z",
+      "recordDateStart": "2021-02-02T04:44:20.003Z",
+      "seriesId": "2086",
+      "sha256": "3a1075734b1a68a609e1aae7f560a00a54edb34fe0b325c9ef8a08d085de32d5",
+      "startDate": "2021-02-02T04:45:00.000Z",
+      "subtitle": "Eye Diseases #2: Myopia",
+      "title": "Doctor's Insight",
+      "uploadedDate": "2021-02-02T05:24:37.382Z"
     },
     {
       "airingId": "016",

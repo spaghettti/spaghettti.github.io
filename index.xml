@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-02T05:10:03.982Z</lastUpdated>
+  <lastUpdated>2021-02-02T05:25:03.106Z</lastUpdated>
   <series>
     <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -203,10 +203,10 @@
     <title>Darwin's Amazing Animals</title>
   </series>
   <series>
-    <count>8</count>
+    <count>9</count>
     <uniqueId>f85084a2d40d190a</uniqueId>
-    <lastAiring>2021-01-26T04:30:00.000Z</lastAiring>
-    <lastUpload>2021-01-26T21:44:37.358Z</lastUpload>
+    <lastAiring>2021-02-02T04:30:00.000Z</lastAiring>
+    <lastUpload>2021-02-02T05:23:14.520Z</lastUpload>
     <seriesId>2085</seriesId>
     <title>DEEPER LOOK from New York</title>
   </series>
@@ -243,10 +243,10 @@
     <title>Direct Talk</title>
   </series>
   <series>
-    <count>8</count>
+    <count>9</count>
     <uniqueId>328f69455964a591</uniqueId>
-    <lastAiring>2021-01-26T04:45:00.000Z</lastAiring>
-    <lastUpload>2021-01-26T05:24:47.548Z</lastUpload>
+    <lastAiring>2021-02-02T04:45:00.000Z</lastAiring>
+    <lastUpload>2021-02-02T05:24:37.382Z</lastUpload>
     <seriesId>2086</seriesId>
     <title>Doctor's Insight</title>
   </series>

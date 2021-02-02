@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-02T05:10:03.987Z",
+  "lastUpdated": "2021-02-02T05:25:03.110Z",
   "series": [
     {
       "count": 16,
@@ -202,10 +202,10 @@
       "title": "Darwin's Amazing Animals"
     },
     {
-      "count": 8,
+      "count": 9,
       "uniqueId": "f85084a2d40d190a",
-      "lastAiring": "2021-01-26T04:30:00.000Z",
-      "lastUpload": "2021-01-26T21:44:37.358Z",
+      "lastAiring": "2021-02-02T04:30:00.000Z",
+      "lastUpload": "2021-02-02T05:23:14.520Z",
       "seriesId": "2085",
       "title": "DEEPER LOOK from New York"
     },
@@ -242,10 +242,10 @@
       "title": "Direct Talk"
     },
     {
-      "count": 8,
+      "count": 9,
       "uniqueId": "328f69455964a591",
-      "lastAiring": "2021-01-26T04:45:00.000Z",
-      "lastUpload": "2021-01-26T05:24:47.548Z",
+      "lastAiring": "2021-02-02T04:45:00.000Z",
+      "lastUpload": "2021-02-02T05:24:37.382Z",
       "seriesId": "2086",
       "title": "Doctor's Insight"
     },
