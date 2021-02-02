@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-01T16:10:02.807Z</lastUpdated>
+  <lastUpdated>2021-02-02T01:05:03.245Z</lastUpdated>
   <seriesId>b7a2bc9b23a9c5ee</seriesId>
   <title>Journeys in Japan</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>Journeys in Japan</title>
     <uploadedDate>2021-01-19T01:53:22.183Z</uploadedDate>
     <raw>https://mega.nz/folder/gEACibKT#UDIVTYyLNJIi9G_fBkA8AA</raw>
+  </episode>
+  <episode>
+    <airingId>411</airingId>
+    <content>Located 2,000 kilometers southwest of Tokyo, Hateruma is the southernmost inhabited island in Japan. With a population of about 500, it's known for its beautiful beaches and the local specialty, brown sugar. About 70% of the island's flat land is covered by sugarcane fields. When the cane is harvested in winter, the farmers work in teams, along with seasonal laborers from outside. Since the old days, the islanders have fostered this traditional spirit of cooperation. On this episode of Journeys in Japan, British photographer Alfie Goodrich meets the people of Hateruma, to see how they live on this distant subtropical island.</content>
+    <description>Alfie Goodrich heads to Japan's southernmost inhabited island, Hateruma (Okinawa Pref). On this program, get to know the real Japan and discover useful travel tips.</description>
+    <endDate>2021-02-02T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/QYklGaTY#wCGkL9osW_xjbRE3KyyY3g</link>
+    <recordDateEnd>2021-02-02T00:00:34.466Z</recordDateEnd>
+    <recordDateStart>2021-02-01T23:29:20.099Z</recordDateStart>
+    <seriesId>2007</seriesId>
+    <sha256>b99fb3fc200b67e563b049a6b10e8027bdab6bc74d3b10750186932ff6d524d7</sha256>
+    <startDate>2021-02-01T23:30:00.000Z</startDate>
+    <subtitle>Hateruma: Life on a Distant Island</subtitle>
+    <title>Journeys in Japan</title>
+    <uploadedDate>2021-02-02T01:00:27.385Z</uploadedDate>
+    <raw>https://mega.nz/folder/aM9D1KgI#uSnAZ6f7jVK-uETKDeg8rw</raw>
   </episode>
   <episode>
     <airingId>423</airingId>
