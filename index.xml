@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-02T11:25:03.735Z</lastUpdated>
+  <lastUpdated>2021-02-02T15:45:04.306Z</lastUpdated>
   <series>
     <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -523,10 +523,10 @@
     <title>JAPANGLE</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>845116d579af2806</uniqueId>
-    <lastAiring>2021-01-26T14:30:00.000Z</lastAiring>
-    <lastUpload>2021-01-26T22:15:28.736Z</lastUpload>
+    <lastAiring>2021-02-02T14:30:00.000Z</lastAiring>
+    <lastUpload>2021-02-02T15:44:40.622Z</lastUpload>
     <seriesId>2032</seriesId>
     <title>Japanology Plus</title>
   </series>

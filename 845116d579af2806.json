@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-02T11:25:03.513Z",
+  "lastUpdated": "2021-02-02T15:45:04.109Z",
   "seriesId": "2032",
   "title": "Japanology Plus",
   "episodes": [
@@ -178,6 +178,21 @@
       "title": "Japanology Plus",
       "uploadedDate": "2021-01-26T22:15:28.736Z",
       "raw": "https://mega.nz/folder/GQUlTQAA#W7Ffp2LJudCloh_BIjWNXw"
+    },
+    {
+      "airingId": "230",
+      "content": "*First broadcast on February 2, 2021.\nUkiyo-e is a Japanese artform that emerged in the 17th century. Using woodblock prints, people and landscapes are brought to life with bold compositions and vivid colors. The images influenced European artists such as van Gogh, and they remain part of the visual landscape in modern Japan. Our main guest, art historian Fujisawa Murasaki, introduces several examples of ukiyo-e, and talks about its legacy. And in Plus One, Matt Alt searches Tokyo for locations featured in famous ukiyo-e pictures.",
+      "description": "Ukiyo-e. Traditional Japanese woodblock prints. Each time, Peter Barakan visits the key locations, and meets experts with fascinating cultural insights.",
+      "endDate": "2021-02-02T15:00:00.000Z",
+      "link": "https://mega.nz/folder/YJxzgIAZ#qfv_heg4l45zWAWp_etBSg",
+      "recordDateEnd": "2021-02-02T15:00:29.892Z",
+      "recordDateStart": "2021-02-02T14:29:20.100Z",
+      "seriesId": "2032",
+      "sha256": "6cbc0fae7e1bb396fc60a5e349ed781dcd04d7ba0ce8626debd32798cce9c438",
+      "startDate": "2021-02-02T14:30:00.000Z",
+      "subtitle": "Ukiyo-e",
+      "title": "Japanology Plus",
+      "uploadedDate": "2021-02-02T15:44:40.622Z"
     }
   ]
 }
