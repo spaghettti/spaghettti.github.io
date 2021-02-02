@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-02T15:45:04.306Z</lastUpdated>
+  <lastUpdated>2021-02-02T18:20:03.082Z</lastUpdated>
   <series>
     <count>16</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -739,10 +739,10 @@
     <title>Sapiens and Pandemic: A Special Discussion with Yuval Noah Harari</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>87b2998a16373792</uniqueId>
-    <lastAiring>2021-01-26T15:30:00.000Z</lastAiring>
-    <lastUpload>2021-01-27T00:06:37.478Z</lastUpload>
+    <lastAiring>2021-02-02T15:30:00.000Z</lastAiring>
+    <lastUpload>2021-02-02T18:17:23.197Z</lastUpload>
     <seriesId>2015</seriesId>
     <title>Science View</title>
   </series>

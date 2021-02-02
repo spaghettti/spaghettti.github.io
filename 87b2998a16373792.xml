@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-02T15:45:04.056Z</lastUpdated>
+  <lastUpdated>2021-02-02T18:20:02.827Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -193,5 +193,20 @@ Quake-resistant Pipe Retrofittings</content>
     <title>Science View</title>
     <uploadedDate>2021-01-19T17:21:10.137Z</uploadedDate>
     <raw>https://mega.nz/folder/FNREjLRB#mml0jKSNnmE8qiXlhmytWg</raw>
+  </episode>
+  <episode>
+    <airingId>252</airingId>
+    <content>Research is underway on using diamonds inside sensors for measuring magnetic fields at the nanoscale. In Japan, a team lead by Professor Mutsuko Hatano at the Tokyo Institute of Technology has succeeded in developing a sensor. The key was to remove a single carbon atom from the crystal structure of the diamond. Find out more about the research and the story behind its development. In the latter part of the program, we'll introduce an innovative pen-type electronic pipette used for PCR testing for COVID-19.</content>
+    <description>A diamond sensor can measure magnetic fields at the nanoscale. Find out how this technology could be used widely, from geomagnetic surveys on Mars to the detection of cancer metastasis.</description>
+    <endDate>2021-02-02T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/NB1DDSBR#T-UeHHYLOkQQr3QdQcwIIw</link>
+    <recordDateEnd>2021-02-02T16:00:23.960Z</recordDateEnd>
+    <recordDateStart>2021-02-02T15:29:24.384Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>ccbbe2bd3e27cc61ec5aff55ab1bb796baae30205b1f08b0cd226075e558b0b7</sha256>
+    <startDate>2021-02-02T15:30:00.000Z</startDate>
+    <subtitle>Diamonds - The Ultimate Magnetic Field Sensor</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-02-02T18:17:23.197Z</uploadedDate>
   </episode>
 </episodeList>
