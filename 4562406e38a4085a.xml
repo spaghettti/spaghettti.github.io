@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-02T01:05:03.261Z</lastUpdated>
+  <lastUpdated>2021-02-02T03:00:03.749Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -259,6 +259,22 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2021-01-08T15:44:59.501Z</uploadedDate>
     <raw>https://mega.nz/folder/WF1AAL6Q#Gh3EOGVQFfXwcIm3iGiC3g</raw>
+  </episode>
+  <episode>
+    <airingId>257</airingId>
+    <content>Our host, Yu Hayami and chef Yasuhiro Watanabe stroll around Nagasaki to find delicious local foods and cuisine. Featured recipe: Hatoshi (shrimp toast).</content>
+    <description>Our host, Yu Hayami and chef Yasuhiro Watanabe stroll around Nagasaki to find delicious local foods and cuisine. Featured recipe: Hatoshi (shrimp toast).</description>
+    <endDate>2021-02-02T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ZBIAWLSJ#-rb6gPS4ladF9IK4ZQaNpw</link>
+    <recordDateEnd>2021-02-02T01:00:27.800Z</recordDateEnd>
+    <recordDateStart>2021-02-02T00:29:20.100Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>1e384b5fd8448658336f707e0d87a73a6f64d6d1815c03d2584b1f0002c53bd6</sha256>
+    <startDate>2021-02-02T00:30:00.000Z</startDate>
+    <subtitle>Cook Around Japan "Nagasaki": Nagasaki, A Culinary Tour through Town</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-02-02T02:56:21.366Z</uploadedDate>
+    <raw>https://mega.nz/folder/Y2oQGJrR#p65K8mpb9_msrkBrRRR78Q</raw>
   </episode>
   <episode>
     <airingId>278</airingId>
