@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-03T04:20:03.637Z</lastUpdated>
+  <lastUpdated>2021-02-03T05:45:04.044Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -771,6 +771,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T00:14:40.759Z</uploadedDate>
     <raw>https://mega.nz/folder/tEJw2brI#co-35Urbo9JF5SFHv-fiGA</raw>
+  </episode>
+  <episode>
+    <airingId>631</airingId>
+    <content/>
+    <description>The unique Green School in Indonesia founded by John Hardy and his wife Cynthia aims for a sustainable future. Favoring a progressive education, children and parents gather from all over the world.</description>
+    <endDate>2021-02-03T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/8u5REYCI#y0-b1cEPB9Qb5N3-FMip3g</link>
+    <recordDateEnd>2021-02-03T04:30:27.431Z</recordDateEnd>
+    <recordDateStart>2021-02-03T04:14:20.100Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>8a898af39272f477cf4dc1e9448c6dc43c4c3202a119d659c070706232f3d108</sha256>
+    <startDate>2021-02-03T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-03T05:43:15.469Z</uploadedDate>
+    <raw>https://mega.nz/folder/wJ13RCwQ#_Ci-ItWNZl1Kzw2ofvS0Jg</raw>
   </episode>
   <episode>
     <airingId>632</airingId>
