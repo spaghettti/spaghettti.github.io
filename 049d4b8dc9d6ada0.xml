@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-03T02:10:03.785Z</lastUpdated>
+  <lastUpdated>2021-02-03T03:35:04.191Z</lastUpdated>
   <seriesId>049d4b8dc9d6ada0</seriesId>
   <title>3-Day Dare*Devils</title>
   <episode>
@@ -20,5 +20,21 @@ An Ikebukuro, Tokyo, rooftop aquarium is the setting for his harrowing mission. 
     <title>3-Day Dare*Devils</title>
     <uploadedDate>2021-01-27T01:43:38.728Z</uploadedDate>
     <raw>https://mega.nz/folder/EYRnAIAQ#5xZLP87rG8LirkABaAo-bA</raw>
+  </episode>
+  <episode>
+    <airingId>131</airingId>
+    <content>Our challenger this time is Ayatar, Japan resident and Thai influencer.
+Birds like pigeons and crows can cause real damage. Enter the 1,000-year-old profession of the Takajo, or Japanese falconer. Through their mastery of the fearsome hawk, they use traditional hunting techniques to drive avian pests from urban sites like factories. But will Ayatar be able to master the techniques needed in just 3 days?! His struggle for control over the skies has begun!</content>
+    <description>Thai influencer and Japan resident Ayatar takes on the job of a takajou, or Japanese falconer-a profession with a 1,000-year history now put to use patrolling the urban skies.</description>
+    <endDate>2021-02-03T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/vEFHHSgK#z_4RPp48XS0J4dXB1UfY8Q</link>
+    <recordDateEnd>2021-02-03T01:00:29.402Z</recordDateEnd>
+    <recordDateStart>2021-02-03T00:44:20.002Z</recordDateStart>
+    <seriesId>3019</seriesId>
+    <sha256>ad0660fd503492a108bb3e8ced02eeb84ad9b41fa1d13e7895393daf071f7cd4</sha256>
+    <startDate>2021-02-03T00:45:00.000Z</startDate>
+    <subtitle>Keeping a Hawk Eye on the Sky!</subtitle>
+    <title>3-Day Dare*Devils</title>
+    <uploadedDate>2021-02-03T03:34:23.570Z</uploadedDate>
   </episode>
 </episodeList>
