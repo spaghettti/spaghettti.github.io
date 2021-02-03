@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-03T00:40:03.636Z</lastUpdated>
+  <lastUpdated>2021-02-03T02:10:03.699Z</lastUpdated>
   <seriesId>50872d98dbace20c</seriesId>
   <title>TOKYO EYE</title>
+  <episode>
+    <airingId>178</airingId>
+    <content>Asakusa: a neighborhood that retains the feel of old Tokyo. At its old school theaters, called "yose," you can catch traditional comedic performances day in and day out. Yose theaters are facing tough times during the pandemic, but today we'll see how they're working hard to keep people smiling.</content>
+    <description>Old school theaters called "yose," are facing tough times during the pandemic. Today we'll see how they're working hard to keep people smiling through their traditional comedic performances.</description>
+    <endDate>2021-02-03T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/sfwmHBKR#yH-aZjijouEJZJ0YmI5GkQ</link>
+    <recordDateEnd>2021-02-03T00:00:33.505Z</recordDateEnd>
+    <recordDateStart>2021-02-02T23:29:20.099Z</recordDateStart>
+    <seriesId>2053</seriesId>
+    <sha256>a4fcce5cf4ade3e60d5f1807efef57d9ad1070731f4a6c54513e9d1a73537d92</sha256>
+    <startDate>2021-02-02T23:30:00.000Z</startDate>
+    <subtitle>Tokyo and the Coronavirus: Classic Tokyo Comedy Bringing Laughs</subtitle>
+    <title>TOKYO EYE 2020</title>
+    <uploadedDate>2021-02-03T02:09:00.361Z</uploadedDate>
+    <raw>https://mega.nz/folder/pFoVWA7R#3_k8HsjsdKghd3cKVMgWgA</raw>
+  </episode>
   <episode>
     <airingId>185</airingId>
     <content>Asakusa is one of Tokyo's most popular tourist destinations. But due to the coronavirus pandemic, visits to Asakusa are down, and the neighborhood is feeling the pinch. At the same time, it's using the situation as a chance to get inventive. This time, we take a virtual tour of Asakusa from our studio to see how things are going.</content>
