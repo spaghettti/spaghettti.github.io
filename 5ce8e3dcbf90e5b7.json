@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-03T03:35:04.080Z",
+  "lastUpdated": "2021-02-03T04:20:03.611Z",
   "seriesId": "2037",
   "title": "Side by Side",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "Side by Side",
       "uploadedDate": "2020-12-30T03:51:46.174Z",
       "raw": "https://mega.nz/folder/wt1zhYgR#iHB_h8IamiassuAhqdNfEA"
+    },
+    {
+      "airingId": "073",
+      "content": "Over 900,000 people from the Akha, Hmong, Karen and other indigenous communities live in the mountains of northern Thailand. Each with their own language and culture, they rely on local fields. Nakano Hozumi wants to improve lives and incomes by farming organic coffee. She previously built a student dorm for local children and has worked with these communities for over 30 years. Explore how organic coffee is bringing change.",
+      "description": "The indigenous communities in northern Thailand rely on local fields. Nakano Hozumi has worked with these communities for over 30 years and wants to improve their incomes by farming organic coffee.",
+      "endDate": "2021-02-03T02:00:00.000Z",
+      "link": "https://mega.nz/folder/srQ0WDCb#CbZgEUXN06HYcBAd8fgU3Q",
+      "recordDateEnd": "2021-02-03T02:00:29.239Z",
+      "recordDateStart": "2021-02-03T01:29:20.125Z",
+      "seriesId": "2037",
+      "sha256": "1a8c6f03ec2f6a2c4bea18c6e85bdf00fdf6422c1c013b3732bf5262970f427f",
+      "startDate": "2021-02-03T01:30:00.000Z",
+      "subtitle": "Coffee and Hope in Northern Thailand",
+      "title": "Side by Side",
+      "uploadedDate": "2021-02-03T04:19:52.064Z"
     }
   ]
 }
