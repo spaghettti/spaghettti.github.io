@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-04T23:35:03.361Z",
+  "lastUpdated": "2021-02-04T23:40:03.871Z",
   "series": [
     {
       "count": 17,
@@ -482,10 +482,10 @@
       "title": "Japan Lost and Found"
     },
     {
-      "count": 10,
+      "count": 11,
       "uniqueId": "3ff887cb76b1a490",
-      "lastAiring": "2021-01-28T15:30:00.000Z",
-      "lastUpload": "2021-01-28T17:32:08.796Z",
+      "lastAiring": "2021-02-04T15:30:00.000Z",
+      "lastUpload": "2021-02-04T23:37:51.950Z",
       "seriesId": "2049",
       "title": "Japan Railway Journal"
     },
