@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-04T23:40:03.740Z</lastUpdated>
+  <lastUpdated>2021-02-04T23:50:03.174Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -115,6 +115,21 @@
     <title>Japan's Top Inventions</title>
     <uploadedDate>2021-01-20T16:32:40.199Z</uploadedDate>
     <raw>https://mega.nz/folder/NUwxTITZ#SAECRqAJUjXGFRBJ_N7hZg</raw>
+  </episode>
+  <episode>
+    <airingId>020</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, durable timepieces that don't break when dropped: shock resistant wristwatches. These unique watches were created by a Japanese firm in 1983, and are now available in 138 countries and regions. Over 100 million units have been shipped to date. Discover their surprising inspiration -- a child playing with a rubber ball in a park -- and more in the little-known story behind this invention.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, durable timepieces that don't break when dropped: shock resistant wristwatches.</description>
+    <endDate>2021-02-03T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/TaIknbhI#vfGy4Z0zJ2YBob1uqg9hkQ</link>
+    <recordDateEnd>2021-02-03T16:00:29.853Z</recordDateEnd>
+    <recordDateStart>2021-02-03T15:44:23.018Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>162984653b0de750e25f44d4ce7302048b8a56765b9ec75b74af5e21650ba49d</sha256>
+    <startDate>2021-02-03T15:45:00.000Z</startDate>
+    <subtitle>Shock Resistant Wristwatches</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2021-02-04T23:47:19.128Z</uploadedDate>
   </episode>
   <episode>
     <airingId>041</airingId>
