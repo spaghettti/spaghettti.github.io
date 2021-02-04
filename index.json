@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-04T23:15:03.728Z",
+  "lastUpdated": "2021-02-04T23:30:03.684Z",
   "series": [
     {
       "count": 17,
@@ -578,10 +578,10 @@
       "title": "Little Charo"
     },
     {
-      "count": 8,
+      "count": 9,
       "uniqueId": "2ac7100c81ee10d6",
-      "lastAiring": "2021-01-28T04:30:00.000Z",
-      "lastUpload": "2021-01-28T05:34:39.475Z",
+      "lastAiring": "2021-02-04T04:30:00.000Z",
+      "lastUpload": "2021-02-04T23:29:17.623Z",
       "seriesId": "4023",
       "title": "Lunch ON!"
     },

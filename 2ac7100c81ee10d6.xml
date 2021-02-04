@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-04T23:15:03.641Z</lastUpdated>
+  <lastUpdated>2021-02-04T23:30:03.599Z</lastUpdated>
   <seriesId>2ac7100c81ee10d6</seriesId>
   <title>Lunch ON!</title>
   <episode>
@@ -132,5 +132,21 @@ In another segment, we visit the southernmost prefecture of Okinawa to meet a pu
     <title>Lunch ON!</title>
     <uploadedDate>2021-01-28T05:34:39.475Z</uploadedDate>
     <raw>https://mega.nz/folder/Uqg2DTZS#IDa9vn8fxevmkUZ35_Rcmg</raw>
+  </episode>
+  <episode>
+    <airingId>160</airingId>
+    <content>Echizen Railway is a third-sector train company in Fukui Prefecture, a prefecture located on the coast of the Sea of Japan. Since with limited funds, it is difficult to rebuild stations and trains to make them more accessible, or make new facilities, the attendant program was introduced. Yamazaki Nanami is an attendant fresh out of high school, and even though the work is tough, she gets through it all with a smile thanks to the tasty bento her grandmother cooks for her every day.</content>
+    <description>Nanami works in Fukui Prefecture, helping customers as a train attendant. The work is tough, but she gets through it all with a smile thanks to the bento her grandmother cooks for her every day.</description>
+    <endDate>2021-02-04T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/wbwhXSSb#taRR5TMjJHrHeXBjRkdw2A</link>
+    <recordDateEnd>2021-02-04T04:55:30.547Z</recordDateEnd>
+    <recordDateStart>2021-02-04T04:29:20.125Z</recordDateStart>
+    <seriesId>4023</seriesId>
+    <sha256>fe4d5938fbc2034b649b12d32a7aab2af7cc937c609764622323c0e1e773857c</sha256>
+    <startDate>2021-02-04T04:30:00.000Z</startDate>
+    <subtitle>The Rookie Train Attendant</subtitle>
+    <title>Lunch ON!</title>
+    <uploadedDate>2021-02-04T23:29:17.623Z</uploadedDate>
+    <raw>https://mega.nz/folder/lax12KaC#qgmOC-eeMSdvaTJ0gj8O1Q</raw>
   </episode>
 </episodeList>
