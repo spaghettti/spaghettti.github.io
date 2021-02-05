@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-05T23:10:03.263Z</lastUpdated>
+  <lastUpdated>2021-02-05T23:25:03.054Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -915,6 +915,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T11:12:39.200Z</uploadedDate>
     <raw>https://mega.nz/folder/7dUBgKSQ#c7g76KQfIBSrCzzm100gqg</raw>
+  </episode>
+  <episode>
+    <airingId>647</airingId>
+    <content>Health psychologist, Professor Susan Michie is advising the British government on how to help people change their behavior in a pandemic so as to control the spread of coronavirus.</content>
+    <description>Health psychologist, Professor Susan Michie is advising the British Government on how to help people change their behavior in a pandemic so as to control the spread of coronavirus.</description>
+    <endDate>2021-02-03T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/pRFCWL4K#y2HuYxpltDhPquU7STb0hw</link>
+    <recordDateEnd>2021-02-03T07:30:34.201Z</recordDateEnd>
+    <recordDateStart>2021-02-03T07:14:20.033Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>eb8c81ce8008a13a2a8df4cc43cb120b6f8ac7ebc3b03450a6307e4f505d3530</sha256>
+    <startDate>2021-02-03T07:15:00.000Z</startDate>
+    <subtitle>Changing Behavior in a Pandemic: Susan Michie / Professor of Health Psychology</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-05T23:22:14.602Z</uploadedDate>
   </episode>
   <episode>
     <airingId>648</airingId>
