@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-05T22:00:04.072Z",
+  "lastUpdated": "2021-02-05T22:10:02.926Z",
   "seriesId": "2025",
   "title": "Kawaii International",
   "episodes": [
@@ -114,6 +114,21 @@
       "title": "Kawaii International",
       "uploadedDate": "2021-01-22T01:50:21.874Z",
       "raw": "https://mega.nz/folder/xZ51yQgY#QKQ-2NwT7daj2hAuzzaMvQ"
+    },
+    {
+      "airingId": "136",
+      "content": "Miniature items have long been popular in Japan, and on this episode, we're featuring the latest trends! We'll introduce you to different ways of enjoying miniatures as well as unique capsule toys. Also, our reporter Mr. Yabatan will try making miniature food for the first time!",
+      "description": "While at home during the COVID-19 pandemic, finding new indoor hobbies are a must. How about making miniature dioramas with detailed furniture inside? Watch the episode to find out more!",
+      "endDate": "2021-02-05T01:00:00.000Z",
+      "link": "https://mega.nz/folder/RbQ2SJaY#K3Egaezi_NapE2GLstoJ2Q",
+      "recordDateEnd": "2021-02-05T01:00:34.890Z",
+      "recordDateStart": "2021-02-05T00:29:20.151Z",
+      "seriesId": "2025",
+      "sha256": "f0688e5e0e83f4e1b84dc99ee4803e4351d33b2f45a5523910584c375e7f8e35",
+      "startDate": "2021-02-05T00:30:00.000Z",
+      "subtitle": "We're Obsessed with Miniatures!",
+      "title": "Kawaii International",
+      "uploadedDate": "2021-02-05T22:08:01.890Z"
     }
   ]
 }
