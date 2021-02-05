@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-05T21:20:03.735Z</lastUpdated>
+  <lastUpdated>2021-02-05T21:50:03.682Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -211,6 +211,21 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2021-01-29T18:13:57.115Z</uploadedDate>
     <raw>https://mega.nz/folder/TV8QFJgS#qIF8Uw2ThlHs3Oz6_Oq-1w</raw>
+  </episode>
+  <episode>
+    <airingId>250</airingId>
+    <content>Our chef Rika Yukimasa visits Kesennuma, Miyagi Prefecture in northeast Japan to meet a sake brewer, and an oyster farmer whose work has achieved worldwide recognition. Today's recipes: (1) Kesennuma Fisherman's Oysters (2) Rika's Oyster and Scallop Tempura.</content>
+    <description>Today's recipes: (1) Kesennuma Fisherman's Oysters (2) Rika's Oyster &amp; Scallop Tempura. Chef Rika visits Kesennuma to meet a charismatic oyster farmer and savor the local sake with delicious oysters.</description>
+    <endDate>2021-02-05T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/RNMQzR6Z#60dpqroT3SIgZhakfrgH-g</link>
+    <recordDateEnd>2021-02-05T15:00:27.545Z</recordDateEnd>
+    <recordDateStart>2021-02-05T14:29:20.117Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>03f5b6a80e2fd7d27a06a89f1ae42fd5217143683d73b8108dd8d27db965118c</sha256>
+    <startDate>2021-02-05T14:30:00.000Z</startDate>
+    <subtitle>Cook Around Japan "Miyagi": Kesennuma's Oysters and Sake</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-02-05T21:45:26.596Z</uploadedDate>
   </episode>
   <episode>
     <airingId>251</airingId>
