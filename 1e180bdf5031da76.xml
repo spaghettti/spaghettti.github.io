@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-01-13T19:50:03.789Z</lastUpdated>
+  <lastUpdated>2021-02-05T23:10:03.421Z</lastUpdated>
   <seriesId>1e180bdf5031da76</seriesId>
   <title>Culture Crossroads</title>
   <episode>
@@ -20,6 +20,22 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2021-01-06T16:00:04.416Z</uploadedDate>
     <raw>https://mega.nz/folder/asllyQzR#bvE5WFhT29odHQHMwlV8Cw</raw>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content>A popular Japanese tourist spot, the Great Buddha at Todaiji Temple, is said to be constructed because of a major outbreak of smallpox. Dr. ISO explains why it occurred in the Nara period (710-794).</content>
+    <description>How can we associate better with COVID-19? Let's find the key by learning about the history of the infectious diseases Japan has experienced. This time: Epidemics in the Nara Period.</description>
+    <endDate>2021-01-13T15:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/FFsgyTzC#XOgqlRjEGIf17E5pBDroWw</link>
+    <recordDateEnd>2021-01-13T15:45:32.318Z</recordDateEnd>
+    <recordDateStart>2021-01-13T15:39:20.041Z</recordDateStart>
+    <seriesId>6036</seriesId>
+    <sha256>75df7dc832d9ddaa161e2a9bbd5fede83210a2ce100b76591d3e30701205ccd3</sha256>
+    <startDate>2021-01-13T15:40:00.000Z</startDate>
+    <subtitle>Dr. ISO's Pandemic History, Info &amp; Tips: Epidemics in the Nara Period</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-01-13T19:50:56.652Z</uploadedDate>
+    <raw>https://mega.nz/folder/KV8iSDzR#0ihyLUJjpN7dLehkG2-Sfw</raw>
   </episode>
   <episode>
     <airingId>004</airingId>
@@ -68,6 +84,21 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2021-01-13T18:05:38.555Z</uploadedDate>
     <raw>https://mega.nz/folder/T08RxC5L#JPEgLxurtWRjhqrAa7PNaQ</raw>
+  </episode>
+  <episode>
+    <airingId>007</airingId>
+    <content>In a disaster, with concerns over infectious disease or personal privacy, at-home evacuation is a consideration. We look at how to prepare your home and what supplies you need to have on hand.</content>
+    <description>As a series in Culture Crossroads, BOSAI: BE PREPARED provides practical knowledge to save yourself from natural disaster. In this episode, we learn concrete tips for home evacuation.</description>
+    <endDate>2021-02-03T15:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/0Ik02J5Z#Dl88ZqNEu4YKzHze0yh9BA</link>
+    <recordDateEnd>2021-02-03T15:40:27.312Z</recordDateEnd>
+    <recordDateStart>2021-02-03T15:29:20.147Z</recordDateStart>
+    <seriesId>2084</seriesId>
+    <sha256>cd09585fdf8843267c2ba70fdd871129b067f7f1c43e97e5fc33eee3f7a3feb5</sha256>
+    <startDate>2021-02-03T15:30:00.000Z</startDate>
+    <subtitle>BOSAI: Be Prepared - At-home Evacuation</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-02-05T23:07:56.491Z</uploadedDate>
   </episode>
   <episode>
     <airingId>013</airingId>

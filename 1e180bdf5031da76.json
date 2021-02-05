@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-01-13T19:50:03.790Z",
+  "lastUpdated": "2021-02-05T23:10:03.422Z",
   "seriesId": "2076,2083,2084,6036",
   "title": "Culture Crossroads",
   "episodes": [
@@ -18,6 +18,22 @@
       "title": "Culture Crossroads",
       "uploadedDate": "2021-01-06T16:00:04.416Z",
       "raw": "https://mega.nz/folder/asllyQzR#bvE5WFhT29odHQHMwlV8Cw"
+    },
+    {
+      "airingId": "002",
+      "content": "A popular Japanese tourist spot, the Great Buddha at Todaiji Temple, is said to be constructed because of a major outbreak of smallpox. Dr. ISO explains why it occurred in the Nara period (710-794).",
+      "description": "How can we associate better with COVID-19? Let's find the key by learning about the history of the infectious diseases Japan has experienced. This time: Epidemics in the Nara Period.",
+      "endDate": "2021-01-13T15:45:00.000Z",
+      "link": "https://mega.nz/folder/FFsgyTzC#XOgqlRjEGIf17E5pBDroWw",
+      "recordDateEnd": "2021-01-13T15:45:32.318Z",
+      "recordDateStart": "2021-01-13T15:39:20.041Z",
+      "seriesId": "6036",
+      "sha256": "75df7dc832d9ddaa161e2a9bbd5fede83210a2ce100b76591d3e30701205ccd3",
+      "startDate": "2021-01-13T15:40:00.000Z",
+      "subtitle": "Dr. ISO's Pandemic History, Info & Tips: Epidemics in the Nara Period",
+      "title": "Culture Crossroads",
+      "uploadedDate": "2021-01-13T19:50:56.652Z",
+      "raw": "https://mega.nz/folder/KV8iSDzR#0ihyLUJjpN7dLehkG2-Sfw"
     },
     {
       "airingId": "004",
@@ -66,6 +82,21 @@
       "title": "Culture Crossroads",
       "uploadedDate": "2021-01-13T18:05:38.555Z",
       "raw": "https://mega.nz/folder/T08RxC5L#JPEgLxurtWRjhqrAa7PNaQ"
+    },
+    {
+      "airingId": "007",
+      "content": "In a disaster, with concerns over infectious disease or personal privacy, at-home evacuation is a consideration. We look at how to prepare your home and what supplies you need to have on hand.",
+      "description": "As a series in Culture Crossroads, BOSAI: BE PREPARED provides practical knowledge to save yourself from natural disaster. In this episode, we learn concrete tips for home evacuation.",
+      "endDate": "2021-02-03T15:40:00.000Z",
+      "link": "https://mega.nz/folder/0Ik02J5Z#Dl88ZqNEu4YKzHze0yh9BA",
+      "recordDateEnd": "2021-02-03T15:40:27.312Z",
+      "recordDateStart": "2021-02-03T15:29:20.147Z",
+      "seriesId": "2084",
+      "sha256": "cd09585fdf8843267c2ba70fdd871129b067f7f1c43e97e5fc33eee3f7a3feb5",
+      "startDate": "2021-02-03T15:30:00.000Z",
+      "subtitle": "BOSAI: Be Prepared - At-home Evacuation",
+      "title": "Culture Crossroads",
+      "uploadedDate": "2021-02-05T23:07:56.491Z"
     },
     {
       "airingId": "013",
