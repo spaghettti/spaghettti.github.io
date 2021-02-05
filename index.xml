@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-05T23:25:03.214Z</lastUpdated>
+  <lastUpdated>2021-02-05T23:50:03.898Z</lastUpdated>
   <series>
     <count>17</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -939,10 +939,10 @@
     <title>Tokyo Life</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>31851bb3dfae7f8a</uniqueId>
-    <lastAiring>2021-01-27T14:30:00.000Z</lastAiring>
-    <lastUpload>2021-01-27T16:18:56.813Z</lastUpload>
+    <lastAiring>2021-02-03T14:30:00.000Z</lastAiring>
+    <lastUpload>2021-02-05T23:47:06.401Z</lastUpload>
     <seriesId>2054</seriesId>
     <title>Trails to Oishii Tokyo</title>
   </series>

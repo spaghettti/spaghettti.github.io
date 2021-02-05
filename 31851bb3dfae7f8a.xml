@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-05T23:25:03.049Z</lastUpdated>
+  <lastUpdated>2021-02-05T23:50:03.720Z</lastUpdated>
   <seriesId>31851bb3dfae7f8a</seriesId>
   <title>Trails to Oishii Tokyo</title>
   <episode>
@@ -179,5 +179,20 @@
     <title>Trails to Oishii Tokyo</title>
     <uploadedDate>2021-01-27T16:18:56.813Z</uploadedDate>
     <raw>https://mega.nz/folder/wyZECZSL#cZqlNfr6PWwf_GRZkEpLyg</raw>
+  </episode>
+  <episode>
+    <airingId>125</airingId>
+    <content>Daikon, Japanese radishes, are often over 30cm long, large and white, but there are also colorful types ranging from pink to green. They're an essential ingredient used in stews, salads, miso soup and more. We visit the Miura Peninsula, where half the daikon eaten in the Tokyo region are grown. There, we discover a "curtain" of thousands of daikon drying on a beach, soil supplemented with ground tuna, and the skills of those involved in daikon production. (Reporter: Jason Hancock)</content>
+    <description>Daikon, Japanese radishes, are often over 30cm long, large and white. They're used in stews, salads, miso soup and more. We visit the Miura Peninsula, where half the daikon eaten in Tokyo are grown.</description>
+    <endDate>2021-02-03T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/VEtkzagI#C9avjUzKKmoAe3vgtvsJ5w</link>
+    <recordDateEnd>2021-02-03T15:00:28.758Z</recordDateEnd>
+    <recordDateStart>2021-02-03T14:29:20.122Z</recordDateStart>
+    <seriesId>2054</seriesId>
+    <sha256>08b156ae947d5d0cdfa1324ccc17c90b0bf259f3599fd36434a33f41edac00e4</sha256>
+    <startDate>2021-02-03T14:30:00.000Z</startDate>
+    <subtitle>DAIKON</subtitle>
+    <title>Trails to Oishii Tokyo</title>
+    <uploadedDate>2021-02-05T23:47:06.401Z</uploadedDate>
   </episode>
 </episodeList>
