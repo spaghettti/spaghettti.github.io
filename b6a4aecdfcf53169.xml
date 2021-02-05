@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-05T21:55:03.105Z</lastUpdated>
+  <lastUpdated>2021-02-05T22:00:04.050Z</lastUpdated>
   <seriesId>b6a4aecdfcf53169</seriesId>
   <title>Asia Insight</title>
   <episode>
@@ -83,6 +83,21 @@
     <title>Asia Insight</title>
     <uploadedDate>2021-01-08T05:54:24.058Z</uploadedDate>
     <raw>https://mega.nz/folder/zx0mCZpL#yLTIQmHNhBwdmRpVfslcCg</raw>
+  </episode>
+  <episode>
+    <airingId>282</airingId>
+    <content>As bookstores around the world continue to dwindle in number among declining sales of physical books, Taiwan has been hit particularly hard: In 2012, two-thirds of all regions there lacked bookstores. But thanks to a government policy promoting small retailers, so-called "community bookstores" have begun to sprout up. Some include literary salons or cafes, while other have special concepts like trading local produce for books. All are places where paper books bring about new communication between people.</content>
+    <description>Community bookstores offering unique non-book services like cooking and organic crops are gaining popularity in Taiwan as e-books and online sales have led to bankruptcy of traditional bookshops.</description>
+    <endDate>2021-02-05T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/VKB3TKBD#LlkL5GG_B-U0UcpV15rebQ</link>
+    <recordDateEnd>2021-02-05T02:00:29.361Z</recordDateEnd>
+    <recordDateStart>2021-02-05T01:29:20.140Z</recordDateStart>
+    <seriesId>2022</seriesId>
+    <sha256>e79a0cba82f98f7bb137295c3f5b869361fc8e3868ff741bc4b6b007210cd745</sha256>
+    <startDate>2021-02-05T01:30:00.000Z</startDate>
+    <subtitle>Taiwan's Bookstore Revolution</subtitle>
+    <title>Asia Insight</title>
+    <uploadedDate>2021-02-05T21:57:11.303Z</uploadedDate>
   </episode>
   <episode>
     <airingId>317</airingId>
