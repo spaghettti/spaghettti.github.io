@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-05T21:50:03.842Z",
+  "lastUpdated": "2021-02-05T21:55:03.248Z",
   "seriesId": "4002",
   "title": "Today's Close-Up",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "Today's Close-Up",
       "uploadedDate": "2021-01-29T18:17:24.212Z",
       "raw": "https://mega.nz/folder/0c421bjB#XQuMgwo67ISXge8jfRWnGg"
+    },
+    {
+      "airingId": "817",
+      "content": "Stock investment apps are becoming popular in Japan as share prices surge during the pandemic. Some even allow people to use reward points earned through everyday cashless payments to become shareholders. Such mobile investors could become a driving force in the market, as the case of Robinhood showed in the US. How will this new trend change our lives and the economy at a time when the world is trying to bounce back from the coronavirus?\nGuests:\nNagi Rei (Researcher, Youth research unit, Dentsu)\nIwashita Naoyuki (Professor, Kyoto University School of Government)",
+      "description": "A vast range of financial services from payments and loan financing to investment is becoming available through smartphone apps. We take a look at these developments being accelerated by the pandemic.",
+      "endDate": "2021-02-05T16:00:00.000Z",
+      "link": "https://mega.nz/folder/dIoFDa5L#rKNjKzQav1lQlmg_m0_2qg",
+      "recordDateEnd": "2021-02-05T16:00:31.466Z",
+      "recordDateStart": "2021-02-05T15:29:23.503Z",
+      "seriesId": "4002",
+      "sha256": "a43b0992c20b2815e80c808baeb3b3bb11c9a7c611d6f4af44d2eae353ae58d6",
+      "startDate": "2021-02-05T15:30:00.000Z",
+      "subtitle": "Mobile Finance Revolution Driven by Pandemic",
+      "title": "Today's Close-Up",
+      "uploadedDate": "2021-02-05T21:52:22.604Z"
     }
   ]
 }

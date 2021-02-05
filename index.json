@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-05T21:50:03.935Z",
+  "lastUpdated": "2021-02-05T21:55:03.343Z",
   "series": [
     {
       "count": 17,
@@ -442,10 +442,10 @@
       "title": "Inspiring Landscapes"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "4b75bcecb7568a5f",
-      "lastAiring": "2021-01-29T04:30:00.000Z",
-      "lastUpload": "2021-01-29T05:49:04.494Z",
+      "lastAiring": "2021-02-05T04:30:00.000Z",
+      "lastUpload": "2021-02-05T21:51:15.452Z",
       "seriesId": "2073",
       "title": "J-Arena"
     },
@@ -906,10 +906,10 @@
       "title": "TIME-LAPSE"
     },
     {
-      "count": 9,
+      "count": 10,
       "uniqueId": "a5fed3c217d7b7f6",
-      "lastAiring": "2021-01-29T15:30:00.000Z",
-      "lastUpload": "2021-01-29T18:17:24.212Z",
+      "lastAiring": "2021-02-05T15:30:00.000Z",
+      "lastUpload": "2021-02-05T21:52:22.604Z",
       "seriesId": "4002",
       "title": "Today's Close-Up"
     },

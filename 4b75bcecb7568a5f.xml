@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-05T21:50:03.803Z</lastUpdated>
+  <lastUpdated>2021-02-05T21:55:03.209Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -99,5 +99,21 @@
     <title>J-Arena</title>
     <uploadedDate>2021-01-29T05:49:04.494Z</uploadedDate>
     <raw>https://mega.nz/folder/pSY1CSSR#zOLklHoVefSTSKzb6_mYnA</raw>
+  </episode>
+  <episode>
+    <airingId>079</airingId>
+    <content>Ekiden is a hugely popular form of long-distance relay race in Japan, dating back to 1917. Key races are typically held in winter, with televised races over New Year's drawing audiences in the tens of millions. The team relay format makes for a distinct atmosphere and appeal that sets Ekiden apart from individual long-distance events. In this episode we feature the inter-high school Ekiden held in Kyoto at the end of 2020. We also explore the relationship between Ekiden events and local communities, and learn about the key role played by overseas students from East Africa.</content>
+    <description>"Ekiden" is a hugely popular form of long-distance relay race in Japan, dating back to 1917. With key races typically held in winter, we report on the recent inter-high school ekiden event in Kyoto.</description>
+    <endDate>2021-02-05T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/sE1h2CDY#znToPX0PENuuZuUXQcHRdg</link>
+    <recordDateEnd>2021-02-05T05:00:28.145Z</recordDateEnd>
+    <recordDateStart>2021-02-05T04:29:20.136Z</recordDateStart>
+    <seriesId>2073</seriesId>
+    <sha256>f3c1cbbe6994d0061793f4441cfcb264953f5575ad0af94fc2cfa487b9269792</sha256>
+    <startDate>2021-02-05T04:30:00.000Z</startDate>
+    <subtitle>Ekiden</subtitle>
+    <title>J-Arena</title>
+    <uploadedDate>2021-02-05T21:51:15.452Z</uploadedDate>
+    <raw>https://mega.nz/folder/JoplEI5D#gBakNuHWiqDnnka6rB2r2w</raw>
   </episode>
 </episodeList>
