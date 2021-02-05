@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-05T00:00:04.029Z",
+  "lastUpdated": "2021-02-05T21:20:03.841Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1794,6 +1794,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-02-01T07:57:34.712Z",
       "raw": "https://mega.nz/folder/jjplzArI#wK1cBHhHuRwfR6XzgSTd1Q"
+    },
+    {
+      "airingId": "734",
+      "content": "A Vietnamese Japanese engineer discusses the high-frequency ventilator he developed to save the lives of premature infants, but it has been considered difficult to put into practical use.",
+      "description": "A Vietnamese Japanese engineer discusses the high-frequency ventilator he developed to save the lives of premature infants, but it has been considered difficult to put into practical use.",
+      "endDate": "2021-02-05T07:30:00.000Z",
+      "link": "https://mega.nz/folder/Eo4g0JSb#Y_UDf5T1cPmSjG8AyjrgyA",
+      "recordDateEnd": "2021-02-05T07:30:31.288Z",
+      "recordDateStart": "2021-02-05T07:14:20.015Z",
+      "seriesId": "2058",
+      "sha256": "886ab5af0a94101ad3105c1389d6d7d3ec5a0d86c7ca662e4134f6458c18fc95",
+      "startDate": "2021-02-05T07:15:00.000Z",
+      "subtitle": "Technology to Defeat the Coronavirus: Tran Ngoc Phuc / Chairman, Metran",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-05T21:17:16.853Z"
     }
   ]
 }
