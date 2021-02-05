@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-04T23:50:03.087Z</lastUpdated>
+  <lastUpdated>2021-02-05T00:00:03.957Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -355,5 +355,20 @@
     <title>Core Kyoto</title>
     <uploadedDate>2021-01-21T06:49:32.646Z</uploadedDate>
     <raw>https://mega.nz/folder/7dlUAAqL#jvP7L08n4phPlZ3ZvVTZnw</raw>
+  </episode>
+  <episode>
+    <airingId>148</airingId>
+    <content>Mountainous Keihoku in Kyoto's north is more than 90% woodlands. The drastic temperature differences and the frequent rain and mist are ideal conditions for forestry. For more than 1,200 years the area supported the ancient capital's prosperity, supplying it with raw materials and food supplies. Residents carry on the trades of their ancestors, coexisting with nature. Discover how Keihoku is attracting attention from people wanting to learn the customs of old to build a sustainable future.</content>
+    <description>Keihoku, an hour from the city, is 90 percent forest and was imperial land for 1,000 years. Take a look at rural life in Kyoto and how the township supported life and culture in the ancient capital.</description>
+    <endDate>2021-02-04T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/JMMh2aRJ#_0o2-fZnBZ9eGEDQqjm1Zg</link>
+    <recordDateEnd>2021-02-04T00:00:30.110Z</recordDateEnd>
+    <recordDateStart>2021-02-03T23:29:20.127Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>9ed598642aa15ec38c51531a9c2c7c9378ce815c77a278b4b78946df6c5e160c</sha256>
+    <startDate>2021-02-03T23:30:00.000Z</startDate>
+    <subtitle>The Forests of Keihoku: Nature's Blessings Sustain the Ancient Capital</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-02-04T23:59:33.959Z</uploadedDate>
   </episode>
 </episodeList>
