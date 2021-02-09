@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-09T05:50:03.306Z",
+  "lastUpdated": "2021-02-09T05:55:03.569Z",
   "seriesId": "2007",
   "title": "Journeys in Japan",
   "episodes": [
@@ -178,6 +178,21 @@
       "title": "Journeys in Japan",
       "uploadedDate": "2021-01-26T22:09:18.599Z",
       "raw": "https://mega.nz/folder/1v5RxaCK#CRYI6HgoMCdrmW90Pb1iBw"
+    },
+    {
+      "airingId": "432",
+      "content": "The island of Tsushima, in Nagasaki Prefecture, lies between Japan and South Korea, just 50 kilometers from the South Korean port city of Busan. Thanks to its location, the island developed as a thriving hub for trade and cultural exchanges between Japan, the Korean Peninsula and mainland China. Tsushima has also played a strategic role on the frontline between the regional powers. From the Battle of Baekgang (663) and the Mongolian expeditions of Japan (1274 and 1281) to Japan's invasions of Korea under Toyotomi Hideyoshi (1592-1598) and the Russo-Japanese War (1904-5), it has had a long and turbulent history but has overcome all challenges. On this episode of Journeys in Japan, Brandon Chin explores Tsushima, meets the residents, and discovers the important role the island has played in Japan's history and international relations.",
+      "description": "Brandon Chin visits Tsushima (Nagasaki Pref.), to discover its history and the way people live on the island. On this program, get to know the real Japan and discover useful travel tips.",
+      "endDate": "2021-02-09T00:00:00.000Z",
+      "link": "https://mega.nz/folder/EwJzjIoT#aq_TVvZ40bMVAfdrabM3kg",
+      "recordDateEnd": "2021-02-09T00:00:33.399Z",
+      "recordDateStart": "2021-02-08T23:29:20.116Z",
+      "seriesId": "2007",
+      "sha256": "07493c7d7a0472eb35d947db8d9d7f03a034866a7596cbc2862302d7b17885c0",
+      "startDate": "2021-02-08T23:30:00.000Z",
+      "subtitle": "Tsushima: Slow Living on a Frontline Island",
+      "title": "Journeys in Japan",
+      "uploadedDate": "2021-02-09T05:52:00.390Z"
     }
   ]
 }
