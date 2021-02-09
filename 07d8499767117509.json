@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-09T07:25:04.020Z",
+  "lastUpdated": "2021-02-09T07:30:03.780Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1284,6 +1284,22 @@
       "raw": "https://mega.nz/folder/7RUhiIzI#jced2Ua70_yBnc0WkO_EJg"
     },
     {
+      "airingId": "679",
+      "content": "",
+      "description": "Fukunaga Takeshi's latest film, which is about the indigenous Ainu of Japan, received special jury mention at the 2020 Tribeca Film Festival. What inspires him to tell stories of minority communities?",
+      "endDate": "2021-02-08T04:30:00.000Z",
+      "link": "https://mega.nz/folder/lk5DQKpa#wdvGir-uS_fPowZ3HIZFmQ",
+      "recordDateEnd": "2021-02-08T04:30:27.742Z",
+      "recordDateStart": "2021-02-08T04:14:20.148Z",
+      "seriesId": "2058",
+      "sha256": "11d94e052f9f1062e2d72ed5c85972c6681611745b58ac2c34104b852bf5c712",
+      "startDate": "2021-02-08T04:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-09T07:28:24.655Z",
+      "raw": "https://mega.nz/folder/OFtVjQZT#HUmdFgIjY_834arN6y69Hw"
+    },
+    {
       "airingId": "680",
       "content": "",
       "description": "Anoushka Shankar is a sitarist, composer and producer who has won many awards in the world music scene. She is the daughter of Indian musician Ravi Shankar. She is also a social activist and feminist.",
@@ -1842,6 +1858,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-02-05T21:17:16.853Z",
       "raw": "https://mega.nz/folder/hsJzVITC#h56_oUJrux435fEqZTj4JA"
+    },
+    {
+      "airingId": "735",
+      "content": "Mizutani Yoshihiro invented a cardboard bed for use in evacuation centers during natural disasters. He talks about what drives him in his quest to improve conditions at emergency shelters.",
+      "description": "Mizutani Yoshihiro invented a cardboard bed for use in evacuation centers during natural disasters. He talks about what drives him in his quest to improve conditions at emergency shelters.",
+      "endDate": "2021-02-08T07:30:00.000Z",
+      "link": "https://mega.nz/folder/NI5HVK7Y#KlJ1iLTvQFz93N29_9jBqQ",
+      "recordDateEnd": "2021-02-08T07:30:30.361Z",
+      "recordDateStart": "2021-02-08T07:14:20.047Z",
+      "seriesId": "2058",
+      "sha256": "087fb6836353e7b459a70fcc6b32f57b24767b524d560567bffc9f98d744d1ee",
+      "startDate": "2021-02-08T07:15:00.000Z",
+      "subtitle": "Relief Beds Made of Cardboard: Mizutani Yoshihiro / President, J Packs",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-09T07:26:46.722Z",
+      "raw": "https://mega.nz/folder/0CY1FYxJ#6Z6HOzY4wd9kIg8OJqFJQg"
     }
   ]
 }
