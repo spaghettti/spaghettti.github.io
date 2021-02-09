@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-09T07:30:03.802Z</lastUpdated>
+  <lastUpdated>2021-02-09T08:00:04.185Z</lastUpdated>
   <seriesId>ae19acce46550858</seriesId>
   <title>Easy Japanese for Work</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Easy Japanese for Work</title>
     <uploadedDate>2021-02-01T02:03:32.137Z</uploadedDate>
     <raw>https://mega.nz/folder/CnQBmabI#bMJNkRTaIbf8PKG_TKgBzw</raw>
+  </episode>
+  <episode>
+    <airingId>023</airingId>
+    <content>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</content>
+    <description>Today: explaining when there's been a misunderstanding. Bima Aji Nugroho, from Indonesia, works at a metalworking company in Saitama Prefecture. He worries about problems due to miscommunication.</description>
+    <endDate>2021-02-08T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/F4JijBhK#lGaEk4Lc8OpH8qwtRJzEWg</link>
+    <recordDateEnd>2021-02-08T01:00:26.831Z</recordDateEnd>
+    <recordDateStart>2021-02-08T00:44:20.130Z</recordDateStart>
+    <seriesId>2078</seriesId>
+    <sha256>6bfbd3bfcd603c4b6ce69441538369b7fb628a907fade5ff0c9f770fef275578</sha256>
+    <startDate>2021-02-08T00:45:00.000Z</startDate>
+    <subtitle>#23 Explaining when there's been a misunderstanding</subtitle>
+    <title>Easy Japanese for Work</title>
+    <uploadedDate>2021-02-09T07:55:28.643Z</uploadedDate>
   </episode>
   <episode>
     <airingId>024</airingId>
