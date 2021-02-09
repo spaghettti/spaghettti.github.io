@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-09T05:20:02.942Z</lastUpdated>
+  <lastUpdated>2021-02-09T05:30:03.864Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1299,6 +1299,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-25T21:38:17.197Z</uploadedDate>
     <raw>https://mega.nz/folder/zNMHnKJK#Sbk-rxaZnm4y4e7cJX1FuQ</raw>
+  </episode>
+  <episode>
+    <airingId>682</airingId>
+    <content/>
+    <description>Osawa Shuichi is a baker who won the 2019 Mondial du Pain, arguably the world's most prestigious breadmaking competition. He tells us how he crafts his top-class bread.</description>
+    <endDate>2021-02-09T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/l4QiGBYQ#xzIiz11EWEcjCack24goKQ</link>
+    <recordDateEnd>2021-02-09T04:30:35.699Z</recordDateEnd>
+    <recordDateStart>2021-02-09T04:14:20.128Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>80ab285f1df95e358b76c14c94fbde87e1dd1ac57a1449646ccbb1418bfdd594</sha256>
+    <startDate>2021-02-09T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-09T05:29:50.914Z</uploadedDate>
   </episode>
   <episode>
     <airingId>684</airingId>
