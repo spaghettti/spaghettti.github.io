@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-09T06:25:03.525Z</lastUpdated>
+  <lastUpdated>2021-02-09T07:25:04.044Z</lastUpdated>
   <seriesId>f85084a2d40d190a</seriesId>
   <title>DEEPER LOOK from New York</title>
   <episode>
@@ -147,5 +147,21 @@
     <title>DEEPER LOOK from New York</title>
     <uploadedDate>2021-02-02T05:23:14.520Z</uploadedDate>
     <raw>https://mega.nz/folder/oQojDYyZ#WyLComNlDi_pBMae5uKXaA</raw>
+  </episode>
+  <episode>
+    <airingId>025</airingId>
+    <content>For the last several years, a troubling trend shows global hunger is on the rise, with about 690 million people undernourished. And the coronavirus pandemic adds to the numbers. In 2020 the World Food Programme won the Nobel Peace Prize for its efforts to combat hunger. While this helped their mission, they still face many obstacles in their quest to eradicate hunger. We checked in with Valerie Guarnieri to see how the WFP is promoting food security under the pandemic and what is needed to reach their goals.</content>
+    <description>An experienced anchor Del Irani has a cutting-edge dialogue. Today, Valerie Guarnieri, Assistant Executive Director of World Food Programme, talks about how they are combating hunger in the Pandemic.</description>
+    <endDate>2021-02-09T04:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/nhN1SAZD#6d1Gn9sAXrW0gjIcSjAqaA</link>
+    <recordDateEnd>2021-02-09T04:45:27.740Z</recordDateEnd>
+    <recordDateStart>2021-02-09T04:29:25.135Z</recordDateStart>
+    <seriesId>2085</seriesId>
+    <sha256>eb9e1bf1e3753fec6d5fccfe86a8ed892b2ef2c90eeb27297825743ad9e706d1</sha256>
+    <startDate>2021-02-09T04:30:00.000Z</startDate>
+    <subtitle>Combating Hunger During the Pandemic: Valerie Guarnieri / Assistant Executive Director, World Food Programme</subtitle>
+    <title>DEEPER LOOK from New York</title>
+    <uploadedDate>2021-02-09T07:21:29.001Z</uploadedDate>
+    <raw>https://mega.nz/folder/dhJAADoY#gsVqCAPqlrU2hUl_eaiGTA</raw>
   </episode>
 </episodeList>
