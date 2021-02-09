@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-09T08:00:04.327Z</lastUpdated>
+  <lastUpdated>2021-02-09T08:05:03.790Z</lastUpdated>
   <series>
     <count>17</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -987,10 +987,10 @@
     <title>We, in the Time of Corona</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>4c42bed9def1d9d4</uniqueId>
-    <lastAiring>2021-02-01T01:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-01T02:42:55.716Z</lastUpload>
+    <lastAiring>2021-02-08T01:30:00.000Z</lastAiring>
+    <lastUpload>2021-02-09T08:00:47.755Z</lastUpload>
     <seriesId>2087</seriesId>
     <title>Where We Call Home</title>
   </series>

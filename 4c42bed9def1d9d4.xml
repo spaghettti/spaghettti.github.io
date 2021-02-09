@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-09T08:00:04.191Z</lastUpdated>
+  <lastUpdated>2021-02-09T08:05:03.677Z</lastUpdated>
   <seriesId>4c42bed9def1d9d4</seriesId>
   <title>Where We Call Home</title>
   <episode>
@@ -179,5 +179,20 @@
     <title>Where We Call Home</title>
     <uploadedDate>2021-02-01T02:42:55.716Z</uploadedDate>
     <raw>https://mega.nz/folder/Rro0BZCD#Scs_BwOc5NoLfXMVxo0jPg</raw>
+  </episode>
+  <episode>
+    <airingId>028</airingId>
+    <content>On the program, we've been introducing people from around the world who have made Japan their home. Living abroad means having to adapt to one's new community, but the unprecedented issue of COVID-19 is adding to the hardships of non-Japanese. A year after the pandemic started, there is still no end in sight. We get in touch with some of the people we met in past episodes to ask how their situation has changed and get some insight on the impact the coronavirus has had on foreigners in Japan.</content>
+    <description>As the pandemic shows little to no sign of abating, we get in touch with some of the people we met in past episodes to ask about the ongoing impact the coronavirus is having on foreigners in Japan.</description>
+    <endDate>2021-02-08T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/5KBG3TIZ#Kzpadjy8nXbomeSZlh3Llw</link>
+    <recordDateEnd>2021-02-08T02:00:26.230Z</recordDateEnd>
+    <recordDateStart>2021-02-08T01:29:22.894Z</recordDateStart>
+    <seriesId>2087</seriesId>
+    <sha256>fbae9bfed18bfd206f9f32f2831aadce52a4c86717d53219323cc00084f68880</sha256>
+    <startDate>2021-02-08T01:30:00.000Z</startDate>
+    <subtitle>The Pandemic Rages On</subtitle>
+    <title>Where We Call Home</title>
+    <uploadedDate>2021-02-09T08:00:47.755Z</uploadedDate>
   </episode>
 </episodeList>
