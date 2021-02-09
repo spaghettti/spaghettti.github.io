@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-05T23:55:03.512Z</lastUpdated>
+  <lastUpdated>2021-02-09T05:20:02.989Z</lastUpdated>
   <seriesId>328f69455964a591</seriesId>
   <title>Doctor's Insight</title>
   <episode>
@@ -99,6 +99,21 @@
     <title>Doctor's Insight</title>
     <uploadedDate>2021-02-02T05:24:37.382Z</uploadedDate>
     <raw>https://mega.nz/folder/tNk0VIqC#YvLuJWkESkSBtz23pkZQ7g</raw>
+  </episode>
+  <episode>
+    <airingId>014</airingId>
+    <content>What are cataracts? People with cataracts experience blurry or cloudy vision, glare and even double vision. In Japan, 60-80% of those in their 60's, 90% of those in their 70's and 100% of those over 80 years old are reported to have developed some degree of cataracts. This tendency is the same anywhere in the world regardless of race. The cause is found in the natural lens of the eye. Find out the mechanisms of cataracts and its latest treatment options.</content>
+    <description>Cataracts develop as we get older, causing blurry or cloudy vision, glare and even double vision. What happens in the lens? Find out the mechanisms of cataracts and its latest treatment options.</description>
+    <endDate>2021-02-09T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/xApQkLrb#wnYHPdrD_i-vfgg7qRavDA</link>
+    <recordDateEnd>2021-02-09T04:55:30.957Z</recordDateEnd>
+    <recordDateStart>2021-02-09T04:44:20.013Z</recordDateStart>
+    <seriesId>2086</seriesId>
+    <sha256>880506b9ccb234dc086a14ccc2c3e1352081f12c24a1f22c9b65dc25bf8b1bb6</sha256>
+    <startDate>2021-02-09T04:45:00.000Z</startDate>
+    <subtitle>Eye Diseases #3: Cataracts</subtitle>
+    <title>Doctor's Insight</title>
+    <uploadedDate>2021-02-09T05:18:07.321Z</uploadedDate>
   </episode>
   <episode>
     <airingId>016</airingId>
