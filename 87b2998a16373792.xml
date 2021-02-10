@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-10T21:20:03.752Z</lastUpdated>
+  <lastUpdated>2021-02-10T22:00:04.204Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -91,6 +91,26 @@ The World's First Plywood Using Colorful Recycled Paper</content>
     <title>Science View</title>
     <uploadedDate>2021-01-27T00:06:37.478Z</uploadedDate>
     <raw>https://mega.nz/folder/fMlREAoZ#Vf5vLPAc449-MRCTRCqWuw</raw>
+  </episode>
+  <episode>
+    <airingId>228</airingId>
+    <content>Recent research has shown that almost all organs send out messages and exchange information as though they were all communicating within a huge network inside the body. Tiny vesicles called "exosomes" are responsible for carrying the molecules that comprise these messages. We'll look at how scientists are hoping to use these "exosomes" in various medical fields, such as for treating cancer and myocardial infarction, as well as in explaining the mechanism of aging.
+[Science News Watch]
+Testing Continues on Japan's Self-Driving Public Bus
+[J-Innovators]
+A Compact, Non-destructive Saccharimeter for Fruit</content>
+    <description>Research has revealed that organs in the body communicate by sending out message molecules. We'll look at research on the tiny vesicles known as "exosomes" that carry these messages.</description>
+    <endDate>2021-02-09T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/QYgxSKbS#1ncpjkMIOm08ZLaD3mFkVQ</link>
+    <recordDateEnd>2021-02-09T16:00:31.250Z</recordDateEnd>
+    <recordDateStart>2021-02-09T15:29:20.113Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>f84e50180f81acb3eb87fb4c93d46c9c3ef9003d9d8eec4c552a0ff5678a557c</sha256>
+    <startDate>2021-02-09T15:30:00.000Z</startDate>
+    <subtitle>Exosomes - Mysterious Messengers in Our Bodies</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-02-10T21:58:52.167Z</uploadedDate>
+    <raw>https://mega.nz/folder/jRtn0IqL#Gi008D-wzMZm84Maf2AVgA</raw>
   </episode>
   <episode>
     <airingId>246</airingId>
