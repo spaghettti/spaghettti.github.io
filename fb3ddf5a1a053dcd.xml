@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-10T19:40:03.868Z</lastUpdated>
+  <lastUpdated>2021-02-10T19:55:02.977Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -131,6 +131,22 @@
     <title>Japan's Top Inventions</title>
     <uploadedDate>2021-02-04T23:47:19.128Z</uploadedDate>
     <raw>https://mega.nz/folder/WS50xR7a#x5DPWD99dxeZS5iKF-Oypw</raw>
+  </episode>
+  <episode>
+    <airingId>024</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, umami seasoning. Umami, one of the 5 basic tastes, was christened by chemist Kikunae Ikeda. Ikeda traced it to the glutamate found in kombu kelp dashi stock, an essential part of Japanese cuisine. The umami seasoning invented by Ikeda became a long-selling hit, and is now used in over 100 countries and regions. Discover the little-known tale of this hit culinary invention.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, umami seasoning, a long-selling hit now used in 106 countries worldwide.</description>
+    <endDate>2021-02-10T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/8JB3WSrY#HbmzPCfmKH74FqDGL52Eig</link>
+    <recordDateEnd>2021-02-10T16:00:27.185Z</recordDateEnd>
+    <recordDateStart>2021-02-10T15:44:20.036Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>af21d515a10886313786990cc5a6e86030d6bc37cc80cb148948e2052a40ed12</sha256>
+    <startDate>2021-02-10T15:45:00.000Z</startDate>
+    <subtitle>Umami Seasoning</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2021-02-10T19:52:55.507Z</uploadedDate>
+    <raw>https://mega.nz/folder/E45inDZC#BnU81cQQ709AzPoGvBb_jQ</raw>
   </episode>
   <episode>
     <airingId>041</airingId>
