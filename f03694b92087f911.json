@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-09T23:25:03.709Z",
+  "lastUpdated": "2021-02-10T00:05:03.005Z",
   "seriesId": "2004",
   "title": "J-MELO",
   "episodes": [
@@ -82,6 +82,21 @@
       "title": "J-MELO",
       "uploadedDate": "2021-01-19T04:28:48.901Z",
       "raw": "https://mega.nz/folder/UFJBAYqQ#lCh7jGmxYGrRdYTdF1kCvg"
+    },
+    {
+      "airingId": "366",
+      "content": "Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news and video releases!",
+      "description": "Join May J. for Japanese music! This week's guest is Ieiri Leo, a singer-songwriter who sings lots of drama themes. She'll discuss her creative activities and perform two songs (including a new one).",
+      "endDate": "2021-02-07T15:40:00.000Z",
+      "link": "https://mega.nz/folder/Po8inKCA#X4PaqZgsQ8ioyx61H7R4VA",
+      "recordDateEnd": "2021-02-07T15:40:28.865Z",
+      "recordDateStart": "2021-02-07T15:09:20.138Z",
+      "seriesId": "2004",
+      "sha256": "f7a7f618d77eec91d85f798ecdbcfa25d51f0527ba7cfb6c3cd4187266e25db8",
+      "startDate": "2021-02-07T15:10:00.000Z",
+      "subtitle": "Ieiri Leo",
+      "title": "J-MELO",
+      "uploadedDate": "2021-02-10T00:01:56.827Z"
     }
   ]
 }
