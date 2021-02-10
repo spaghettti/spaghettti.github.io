@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-10T20:30:03.188Z</lastUpdated>
+  <lastUpdated>2021-02-10T21:00:03.549Z</lastUpdated>
   <seriesId>c656328a0f33bc89</seriesId>
   <title>15 Minutes</title>
   <episode>
@@ -282,5 +282,21 @@ With 87 million passengers per year, Haneda Airport is one of the world's busies
     <title>15 Minutes</title>
     <uploadedDate>2021-02-03T03:30:20.524Z</uploadedDate>
     <raw>https://mega.nz/folder/RKYRmIab#9a80C3G-G3qrb5yhZ7ZPyw</raw>
+  </episode>
+  <episode>
+    <airingId>133</airingId>
+    <content>"It's kami (gods) that have helped us for generations." So says Sato Akihito (82), a 19th-generation Ai, or indigo, producer. Digging into a hot mound of Ai, he immediately knows what the Ai "wants." Ai makes an almost mystical color due to time, several fermentation processes and constant care. It requires a delicate balance between the power of humans and Ai, as well as dye artisans who are dedicated to the craft of Aizome, or indigo dyeing. We take a look at the incessant dialog between humans, fungus and plant matter, which epitomizes the Japanese attitude towards nature and beauty.</content>
+    <description>Ai, the natural indigo of Japan, makes an almost mystical color due to time and several fermentation processes. We take a look at the incessant dialog between humans, fungus and plant matter.</description>
+    <endDate>2021-02-10T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/Y8ZliCDI#MDC4lzGO3ESuU03j9DE7Pw</link>
+    <recordDateEnd>2021-02-10T00:45:29.968Z</recordDateEnd>
+    <recordDateStart>2021-02-10T00:29:20.127Z</recordDateStart>
+    <seriesId>3019</seriesId>
+    <sha256>65340a5c49550fa97d8232ce9cde8fc977874082fb00079ed36450681a12d6c0</sha256>
+    <startDate>2021-02-10T00:30:00.000Z</startDate>
+    <subtitle>A Treasured Creation: Today's Treasure - Ai, the Natural Indigo of Japan</subtitle>
+    <title>15 Minutes</title>
+    <uploadedDate>2021-02-10T20:58:43.967Z</uploadedDate>
+    <raw>https://mega.nz/folder/NbwgjDoA#EwCZfMs92KNzUZcTphY-5w</raw>
   </episode>
 </episodeList>
