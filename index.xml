@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-10T21:10:03.866Z</lastUpdated>
+  <lastUpdated>2021-02-10T21:20:04.009Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -27,10 +27,10 @@
     <title>3-Day Dare*Devils</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>80c159d773764353</uniqueId>
-    <lastAiring>2020-12-02T00:45:00.000Z</lastAiring>
-    <lastUpload>2020-12-28T23:44:00.528Z</lastUpload>
+    <lastAiring>2021-02-10T00:45:00.000Z</lastAiring>
+    <lastUpload>2021-02-10T21:18:01.008Z</lastUpload>
     <seriesId>3019</seriesId>
     <title>A*B*C Tours</title>
   </series>
