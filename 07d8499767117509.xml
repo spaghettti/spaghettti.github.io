@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T08:40:05.714Z</lastUpdated>
+  <lastUpdated>2021-02-15T09:05:03.161Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1891,5 +1891,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-09T07:26:46.722Z</uploadedDate>
     <raw>https://mega.nz/folder/0CY1FYxJ#6Z6HOzY4wd9kIg8OJqFJQg</raw>
+  </episode>
+  <episode>
+    <airingId>739</airingId>
+    <content>Takahama Kan was awarded one of Japan's most prestigious manga prizes in 2020. She talks about overcoming alcoholism and how the experience ties into her internationally acclaimed work.</content>
+    <description>Takahama Kan was awarded one of Japan's most prestigious manga prizes in 2020. She talks about overcoming alcoholism and how the experience ties into her internationally acclaimed work.</description>
+    <endDate>2021-02-15T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/PR8g2aLI#xDhlirYTdnwzZhyXr03KXQ</link>
+    <recordDateEnd>2021-02-15T07:30:24.567Z</recordDateEnd>
+    <recordDateStart>2021-02-15T07:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>c785e3fdb1856f1be55784dbe78b8abf6ef94615960d76eb772e5504bdf8b1b1</sha256>
+    <startDate>2021-02-15T07:15:00.000Z</startDate>
+    <subtitle>Comic Books Give Us Hope: Takahama Kan / Comic Book Artist</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-15T09:04:51.386Z</uploadedDate>
   </episode>
 </episodeList>
