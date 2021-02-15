@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T14:50:03.243Z</lastUpdated>
+  <lastUpdated>2021-02-15T14:55:03.534Z</lastUpdated>
   <seriesId>e8efbfade72fd0fa</seriesId>
   <title>no art, no life plus</title>
   <episode>
@@ -34,5 +34,22 @@
     <subtitle/>
     <title>no art, no life plus</title>
     <uploadedDate>2021-02-15T14:37:16.382Z</uploadedDate>
+    <raw>https://mega.nz/folder/3NtFxQaC#kLyD4xqpJU83fIQHRdPwwA</raw>
+  </episode>
+  <episode>
+    <airingId>010</airingId>
+    <content/>
+    <description>Outsider artists like Tayu Kanako are gaining recognition around the world. Although she creates mainly for herself, others have taken notice. See how these artists live and work.</description>
+    <endDate>2021-02-11T02:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/gJp1wCoB#tMqy8vxYd_buordeNJZjQg</link>
+    <recordDateEnd>2021-02-11T02:20:27.784Z</recordDateEnd>
+    <recordDateStart>2021-02-11T02:09:20.126Z</recordDateStart>
+    <seriesId>6123</seriesId>
+    <sha256>9340b057f46b607df713e37b8ca104da113a3882810a84822abb8483b650d36c</sha256>
+    <startDate>2021-02-11T02:10:00.000Z</startDate>
+    <subtitle/>
+    <title>no art, no life plus</title>
+    <uploadedDate>2021-02-15T14:52:01.991Z</uploadedDate>
+    <raw>https://mega.nz/folder/C9thmKga#oNLh9nwHk-uDgQnblmVLlw</raw>
   </episode>
 </episodeList>
