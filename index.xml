@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-15T19:20:03.310Z</lastUpdated>
+  <lastUpdated>2021-02-15T20:00:04.066Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -57,6 +57,14 @@
     <lastUpload>2021-01-23T02:03:57.782Z</lastUpload>
     <seriesId>2065</seriesId>
     <title>Anime Supernova</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>646bf939167be0b8</uniqueId>
+    <lastAiring>2021-02-06T23:10:00.000Z</lastAiring>
+    <lastUpload>2021-02-15T19:55:27.132Z</lastUpload>
+    <seriesId>5001</seriesId>
+    <title>Art is trash without social impact</title>
   </series>
   <series>
     <count>13</count>
