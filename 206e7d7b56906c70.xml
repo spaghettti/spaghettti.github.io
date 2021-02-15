@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T05:40:03.402Z</lastUpdated>
+  <lastUpdated>2021-02-15T05:55:03.511Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -115,6 +115,22 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2020-12-24T16:43:06.651Z</uploadedDate>
     <raw>https://mega.nz/folder/ohciHD7I#ZEE4C2gsB9gsJosH_nWtFw</raw>
+  </episode>
+  <episode>
+    <airingId>095</airingId>
+    <content>Otaru is a city in Hokkaido Prefecture with a canal flowing by the harbor. It was once a center of commerce where goods from all over Hokkaido were traded. People flocked to the city in search of prosperity and success, and the canal has kept the city flourishing. Here in Otaru, there are many old buildings with over 100 years of history. Though located in Asia, the city scenery is reminiscent of Europe. Over 100,000 foreign tourists arrive each year. This is the story of Otaru, a city that's grown together with its canal.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history. Today: Otaru, Classic Canal City.</description>
+    <endDate>2021-02-15T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/65JzwCKR#tRZmTIQSko2Anr4p988CgQ</link>
+    <recordDateEnd>2021-02-15T00:00:28.203Z</recordDateEnd>
+    <recordDateStart>2021-02-14T23:29:20.125Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>d6473080e279335e7059fa6cbc1679b4a6fbb492520213e68624b15474e4bb62</sha256>
+    <startDate>2021-02-14T23:30:00.000Z</startDate>
+    <subtitle>Otaru: Classic Canal City</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-02-15T05:54:03.252Z</uploadedDate>
+    <raw>https://mega.nz/folder/fpEWBT5Z#1aW3zRp280b2CU4Y3cR0pQ</raw>
   </episode>
   <episode>
     <airingId>096</airingId>
