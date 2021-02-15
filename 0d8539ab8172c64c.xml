@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T17:30:03.999Z</lastUpdated>
+  <lastUpdated>2021-02-15T17:50:03.365Z</lastUpdated>
   <seriesId>0d8539ab8172c64c</seriesId>
   <title>Selfie Japan!</title>
   <episode>
@@ -51,6 +51,21 @@
     <title>Selfie Japan!</title>
     <uploadedDate>2021-01-19T05:38:16.874Z</uploadedDate>
     <raw>https://mega.nz/folder/tRQGjRza#g8OdI341DXLKOLXdyRMyaQ</raw>
+  </episode>
+  <episode>
+    <airingId>009</airingId>
+    <content/>
+    <description>Today, we visit Fukuoka Prefecture to take selfies. The new era of Reiwa began in May. Duan Wenning will visit a place, which has close ties with the era name. Dazaifu-Tenmangu is another destination.</description>
+    <endDate>2021-02-07T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ch1Q1BJK#8mJzCfQ-vv4k168W3HklcA</link>
+    <recordDateEnd>2021-02-07T02:00:32.209Z</recordDateEnd>
+    <recordDateStart>2021-02-07T01:54:22.628Z</recordDateStart>
+    <seriesId>6028</seriesId>
+    <sha256>f22e16fe5a1142ea49f691bc28e87c598b7d7fc93aa97a76dafa1f0d2c7c9d52</sha256>
+    <startDate>2021-02-07T01:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Selfie Japan!</title>
+    <uploadedDate>2021-02-15T17:47:51.403Z</uploadedDate>
   </episode>
   <episode>
     <airingId>010</airingId>
