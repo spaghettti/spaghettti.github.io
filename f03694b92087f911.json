@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T02:40:03.072Z",
+  "lastUpdated": "2021-02-15T03:00:03.587Z",
   "seriesId": "2004",
   "title": "J-MELO",
   "episodes": [
@@ -97,6 +97,22 @@
       "subtitle": "Ieiri Leo",
       "title": "J-MELO",
       "uploadedDate": "2021-02-10T00:01:56.827Z"
+    },
+    {
+      "airingId": "367",
+      "content": "Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news and video releases!",
+      "description": "Join May J. for great Japanese music! This week's guests are idol group SKE48, four-man group OWV, and Hello! Project artists Oda Sakura and Takagi Sayuki. They're all coming to chat and perform.",
+      "endDate": "2021-02-14T15:40:00.000Z",
+      "link": "https://mega.nz/folder/0MZUUTBQ#A5mmorp0rympeAw_Yd_DRA",
+      "recordDateEnd": "2021-02-14T15:40:28.922Z",
+      "recordDateStart": "2021-02-14T15:09:20.122Z",
+      "seriesId": "2004",
+      "sha256": "bbaab22b7e5efe580df5c9394cbc3efb8b36e43f9e70cbf187d4c73fa9c54308",
+      "startDate": "2021-02-14T15:10:00.000Z",
+      "subtitle": "SKE48, OWV, and Oda Sakura & Takagi Sayuki",
+      "title": "J-MELO",
+      "uploadedDate": "2021-02-15T02:59:41.244Z",
+      "raw": "https://mega.nz/folder/3BcmERAA#5mYDQYyl0XMWWu0t8qTy6g"
     }
   ]
 }
