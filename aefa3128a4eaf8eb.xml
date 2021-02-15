@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T16:50:03.792Z</lastUpdated>
+  <lastUpdated>2021-02-15T17:30:03.955Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -163,6 +163,21 @@
     <title>Somewhere Street</title>
     <uploadedDate>2021-01-31T07:13:34.383Z</uploadedDate>
     <raw>https://mega.nz/folder/ZuwFCCiC#decwi3X3lRYcPy0Maw5oKA</raw>
+  </episode>
+  <episode>
+    <airingId>087</airingId>
+    <content>Asuncion, the capital of Paraguay is located in the middle of South America. Established during the 16th century by Spaniards who had traveled across the Atlantic Ocean, the city proved to be a convenient and strategic base for colonial development. Rather than fighting with the Spaniards, the indigenous Guarani chose to protect their bloodline by entering into alliances and intermarriage with the conquerors. Thus the Guarani culture is still a vital part of life in Asuncion today. In this episode we explore Asuncion and meet its residents who love their traditions and their distinctive culture.</content>
+    <description>Paraguay's capital city of Asuncion was established by Spanish colonialists during the 16th century. In this episode we explore the city, meeting residents who love its traditions and unique culture.</description>
+    <endDate>2021-02-07T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Xc9jCQIK#g2W4vX9FuzH5KeuhNe7Hqw</link>
+    <recordDateEnd>2021-02-07T05:00:30.821Z</recordDateEnd>
+    <recordDateStart>2021-02-07T04:09:22.649Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>0e67384b3f2914b59edf0ae8fdacdf4f577151ed378de16ad8226715d437de4a</sha256>
+    <startDate>2021-02-07T04:10:00.000Z</startDate>
+    <subtitle>Asuncion, Paraguay</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-02-15T17:28:40.968Z</uploadedDate>
   </episode>
   <episode>
     <airingId>107</airingId>
