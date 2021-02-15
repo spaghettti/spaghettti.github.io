@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T04:00:04.061Z",
+  "lastUpdated": "2021-02-15T04:30:04.595Z",
   "seriesId": "4003",
   "title": "The Professionals",
   "episodes": [
@@ -82,6 +82,22 @@
       "title": "The Professionals",
       "uploadedDate": "2021-01-19T06:32:22.922Z",
       "raw": "https://mega.nz/folder/KUtClCaQ#unRWehDP1Mf4TxAhPlU4ZA"
+    },
+    {
+      "airingId": "149",
+      "content": "This time, we focus on Hasegawa Hiroki, a fish broker who has charmed many a top-class chef. Finding value in fish that are normally thrown away, he brings out their true flavor as if by magic. What he seeks is \"vitality.\" In pursuit of the finest fish, he even takes to the sea himself, free-diving in order to catch the expensive leopard coral grouper. Despite being a broker, he throws himself into the depths to experience the ultimate battle with fish. However, there was once a time when Hasegawa roamed the city with \"the eyes of a dead fish.\" Spend a summer with this one-of-a-kind broker -- he'll light a fire in your heart!",
+      "description": "Favored by top chefs, fish broker Hasegawa Hiroki magically brings out the value in disregarded fish. We spend a summer with him as he pursues fish with vitality, even taking to the sea himself.",
+      "endDate": "2021-02-14T01:55:00.000Z",
+      "link": "https://mega.nz/folder/wIo30C5R#zXMalZD32GdhowGgsU05lg",
+      "recordDateEnd": "2021-02-14T01:55:27.449Z",
+      "recordDateStart": "2021-02-14T01:09:20.131Z",
+      "seriesId": "4003",
+      "sha256": "c755846ed6a88ab12c0e7495517cbcfc6441dd357dbce5d6534fe71077a4bf4f",
+      "startDate": "2021-02-14T01:10:00.000Z",
+      "subtitle": "Living Life Feeling Alive: Hasegawa Hiroki, Fish Broker",
+      "title": "The Professionals",
+      "uploadedDate": "2021-02-15T04:27:21.922Z",
+      "raw": "https://mega.nz/folder/FEwHlA4Z#_-1HtcZLI2RYhWldbZh_EQ"
     }
   ]
 }
