@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T11:20:03.872Z</lastUpdated>
+  <lastUpdated>2021-02-15T11:45:03.862Z</lastUpdated>
   <seriesId>bb37f38613051f9c</seriesId>
   <title>J-FLICKS</title>
   <episode>
@@ -19,5 +19,20 @@
     <title>J-FLICKS</title>
     <uploadedDate>2020-12-25T01:09:10.422Z</uploadedDate>
     <raw>https://mega.nz/folder/NQwBVKwJ#MRc0qyjEOWzDHleu_pDGyw</raw>
+  </episode>
+  <episode>
+    <airingId>067</airingId>
+    <content/>
+    <description>On this episode, we focus on one of the grandmasters of classic Japanese cinema, world-renowned filmmaker Ozu Yasujiro. We look at his earlier films: "There Was a Father" and "Dragnet Girl."</description>
+    <endDate>2021-02-13T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/BRIRgQRA#IfALe434OXAMKfQovvn5ew</link>
+    <recordDateEnd>2021-02-13T00:00:24.453Z</recordDateEnd>
+    <recordDateStart>2021-02-12T23:09:20.067Z</recordDateStart>
+    <seriesId>2036</seriesId>
+    <sha256>4c98ac50a03466147d7031d76d4a81d1420677d2e76df3e0f11c3da4cf99ac2e</sha256>
+    <startDate>2021-02-12T23:10:00.000Z</startDate>
+    <subtitle>How to Watch Ozu</subtitle>
+    <title>J-FLICKS</title>
+    <uploadedDate>2021-02-15T11:42:35.568Z</uploadedDate>
   </episode>
 </episodeList>
