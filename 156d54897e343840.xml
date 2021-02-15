@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T09:20:02.989Z</lastUpdated>
+  <lastUpdated>2021-02-15T10:20:03.869Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
   <episode>
@@ -99,6 +99,21 @@
     <title>NHK WORLD PRIME</title>
     <uploadedDate>2021-01-13T16:44:50.465Z</uploadedDate>
     <raw>https://mega.nz/folder/0MMXjIyK#stiRYwTeK1h05ji6bgcooQ</raw>
+  </episode>
+  <episode>
+    <airingId>082</airingId>
+    <content>Using the latest AI technology, can we defeat our "invisible enemy," the novel coronavirus that causes COVID-19? In Part 2, we hear from researchers on the pandemic battlefield frontline who are fighting against the explosion of infections with the help of AI. They include the solo data scientist whose predictions of COVID-19 deaths are the most accurate, the researcher who can detect viral infections from voices and researchers making full use of Fugaku, the world's fastest supercomputer.</content>
+    <description>Part2: AI vs. Pandemic. Using the latest AI technology, how close can we get to defeating our "invisible enemy" that causes COVID-19? Researchers on the pandemic battlefield provide answers.</description>
+    <endDate>2021-02-13T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/0ZhX0K6S#ZGpgqKz-jzasyBVU-5z1Uw</link>
+    <recordDateEnd>2021-02-13T02:00:36.159Z</recordDateEnd>
+    <recordDateStart>2021-02-13T01:09:23.246Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>78ae5b754d2e5f99f846477ceede6f9a6a9a8d71555968b1c6b445de8624d6b0</sha256>
+    <startDate>2021-02-13T01:10:00.000Z</startDate>
+    <subtitle>AI vs Pandemic: Part 2</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2021-02-15T10:15:52.798Z</uploadedDate>
   </episode>
   <episode>
     <airingId>083</airingId>
