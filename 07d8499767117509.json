@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T10:45:03.971Z",
+  "lastUpdated": "2021-02-15T10:50:03.518Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1376,7 +1376,8 @@
       "startDate": "2021-02-12T04:15:00.000Z",
       "subtitle": "",
       "title": "Direct Talk",
-      "uploadedDate": "2021-02-15T10:43:42.483Z"
+      "uploadedDate": "2021-02-15T10:43:42.483Z",
+      "raw": "https://mega.nz/folder/ywE2nDqJ#JtGp2IjWXoIS8_iD6o4Few"
     },
     {
       "airingId": "693",
@@ -1921,6 +1922,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-02-15T09:04:51.386Z",
       "raw": "https://mega.nz/folder/kcwE3KoK#0EBxywEW3_ajjqkqIK4gtA"
+    },
+    {
+      "airingId": "741",
+      "content": "Kotchakorn Voraakhom is a Thai landscape architect known for designing public parks that combat flooding. In order to fight an unpredictable future, she uses nature as her blueprint.",
+      "description": "Kotchakorn Voraakhom is a Thai landscape architect known for designing public parks that combat flooding. In order to fight an unpredictable future, she uses nature as her blueprint.",
+      "endDate": "2021-02-12T11:55:00.000Z",
+      "link": "https://mega.nz/folder/LwZADTIa#tp77pLf20dO7Wa4UxQ5i7A",
+      "recordDateEnd": "2021-02-12T11:55:27.432Z",
+      "recordDateStart": "2021-02-12T11:39:22.727Z",
+      "seriesId": "2058",
+      "sha256": "47895aba731eba58f9b57111459f28feeee22a33d14f1bb4951ca2125cff0924",
+      "startDate": "2021-02-12T11:40:00.000Z",
+      "subtitle": "Floating a Sinking City: Kotchakorn Voraakhom / Landscape Architect",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-15T10:49:45.422Z",
+      "raw": "https://mega.nz/folder/f5E22TrI#TKd2-85mhbmjCQR09X1LNA"
     }
   ]
 }
