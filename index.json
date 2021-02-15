@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T11:45:04.060Z",
+  "lastUpdated": "2021-02-15T12:35:04.119Z",
   "series": [
     {
       "count": 18,
@@ -162,10 +162,10 @@
       "title": "Core Kyoto mini"
     },
     {
-      "count": 4,
+      "count": 5,
       "uniqueId": "1f5fba41f3b4738b",
-      "lastAiring": "2021-01-20T18:05:00.000Z",
-      "lastUpload": "2021-01-21T00:19:05.027Z",
+      "lastAiring": "2021-02-11T23:10:00.000Z",
+      "lastUpload": "2021-02-15T12:31:13.391Z",
       "seriesId": "6034",
       "title": "Covid-19: Medical Frontiers"
     },
