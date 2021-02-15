@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-10T22:15:04.059Z</lastUpdated>
+  <lastUpdated>2021-02-15T02:20:03.340Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
   <episode>
@@ -195,5 +195,21 @@
     <title>Doki Doki! NHK WORLD-JAPAN</title>
     <uploadedDate>2021-01-31T12:25:11.116Z</uploadedDate>
     <raw>https://mega.nz/folder/f2wwTAoa#9BBSQQmVVtvvJrzXOCh-AQ</raw>
+  </episode>
+  <episode>
+    <airingId>079</airingId>
+    <content/>
+    <description>This time we introduce "Trails to Oishii Tokyo," which shows dishes of shark meat in Japan. We explore shark-fishing in Tsugaru Strait and have some traditional shark dishes in Aomiri Prefecture.</description>
+    <endDate>2021-02-14T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/W1ZURZbK#NV3dNPejZ_puO9C-yUngZg</link>
+    <recordDateEnd>2021-02-14T11:55:27.491Z</recordDateEnd>
+    <recordDateStart>2021-02-14T11:49:20.162Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>1e779888a6b90ea9c30eb743f60892f9fc6f393e966e6de8face882e0cae35c5</sha256>
+    <startDate>2021-02-14T11:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2021-02-15T02:18:38.648Z</uploadedDate>
+    <raw>https://mega.nz/folder/SIVABBaL#RDtDDH-sXXxHiyI0zL6oMw</raw>
   </episode>
 </episodeList>
