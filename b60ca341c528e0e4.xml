@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T20:15:04.574Z</lastUpdated>
+  <lastUpdated>2021-02-15T20:25:04.042Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -195,6 +195,21 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-01-31T08:00:30.923Z</uploadedDate>
     <raw>https://mega.nz/folder/BUQQ1LAC#pXh3SLcQzdQ4tqO_FglNVA</raw>
+  </episode>
+  <episode>
+    <airingId>043</airingId>
+    <content/>
+    <description>#43 You look well. / To express an opinion about what you see, drop the "na" of a "na" ending adjective or the "i" of an "i" ending adjective, then add "soo desu ne."</description>
+    <endDate>2021-02-06T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/A4cXmIST#ifHDiZYTHQe8dQXmzy2-aQ</link>
+    <recordDateEnd>2021-02-06T05:00:28.378Z</recordDateEnd>
+    <recordDateStart>2021-02-06T04:54:23.037Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>e85f82dd7c0fef9c76638c4cd85fa12cd012fab2c3b6beba56672be4edc114a3</sha256>
+    <startDate>2021-02-06T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-02-15T20:22:03.712Z</uploadedDate>
   </episode>
   <episode>
     <airingId>044</airingId>
