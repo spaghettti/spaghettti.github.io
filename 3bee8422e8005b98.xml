@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T21:45:04.167Z</lastUpdated>
+  <lastUpdated>2021-02-15T22:35:03.775Z</lastUpdated>
   <seriesId>3bee8422e8005b98</seriesId>
   <title>PythagoraSwitch mini</title>
   <episode>
@@ -195,6 +195,21 @@
     <title>PythagoraSwitch mini</title>
     <uploadedDate>2021-01-31T08:03:10.677Z</uploadedDate>
     <raw>https://mega.nz/folder/1IA2yJjD#UfzIBGbbltHs2Fbc-Djr1w</raw>
+  </episode>
+  <episode>
+    <airingId>027</airingId>
+    <content/>
+    <description>There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time "Folding Handkerchief Theater...</description>
+    <endDate>2021-02-06T04:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/XlM3wIZS#BgvIL5u2SmH2ro3PLysQfw</link>
+    <recordDateEnd>2021-02-06T04:00:27.721Z</recordDateEnd>
+    <recordDateStart>2021-02-06T03:54:23.832Z</recordDateStart>
+    <seriesId>6021</seriesId>
+    <sha256>d7485848b5f2c5613cbedcf7a8762f1ff375456d41a7625647c72d16aa79abab</sha256>
+    <startDate>2021-02-06T03:55:00.000Z</startDate>
+    <subtitle/>
+    <title>PythagoraSwitch mini</title>
+    <uploadedDate>2021-02-15T22:30:56.773Z</uploadedDate>
   </episode>
   <episode>
     <airingId>028</airingId>
