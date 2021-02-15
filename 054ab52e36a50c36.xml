@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T13:25:03.457Z</lastUpdated>
+  <lastUpdated>2021-02-15T13:40:03.600Z</lastUpdated>
   <seriesId>054ab52e36a50c36</seriesId>
   <title>CYCLE AROUND JAPAN  Highlights</title>
   <episode>
@@ -147,6 +147,22 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
     <uploadedDate>2021-02-04T23:34:18.971Z</uploadedDate>
     <raw>https://mega.nz/folder/lJUQlTiT#yJXGrgB4gGKKl2cBLT8sJQ</raw>
+  </episode>
+  <episode>
+    <airingId>023</airingId>
+    <content>A ride through the high mountains of Yamagata Prefecture, northern Japan, with a cyclist on his first long road trip. An interest in Eastern philosophy has drawn him to the 3 Mountains of Dewa, a legendary abode of kami deities. We begin by cycling among cherry trees and meeting a veteran artisan of Japanese chess pieces. On Mt. Haguro, we're guided up the sacred peak by a Yamabushi mountain ascetic. Finally, we help a free-spirited falconer train his bird of prey in the snowy wilderness.</content>
+    <description>This time, the northern mountains of Yamagata, and a ride through the abode of deities, remote peaks that attract ascetics seeking enlightenment and free spirits wanting a life close to nature.</description>
+    <endDate>2021-02-11T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/tMY2xBiB#L-jcNxhwRdWyVOZMs9y8Ng</link>
+    <recordDateEnd>2021-02-11T15:00:24.769Z</recordDateEnd>
+    <recordDateStart>2021-02-11T14:29:22.736Z</recordDateStart>
+    <seriesId>2070</seriesId>
+    <sha256>bcf0551326df514239d2580cc3b462ba0bad949965a444800400cc5ebf45ea4f</sha256>
+    <startDate>2021-02-11T14:30:00.000Z</startDate>
+    <subtitle>Yamagata - Call of The Wild</subtitle>
+    <title>CYCLE AROUND JAPAN  Highlights</title>
+    <uploadedDate>2021-02-15T13:39:16.536Z</uploadedDate>
+    <raw>https://mega.nz/folder/QYp1UAzQ#V4KiNl2uxwdkrl1Ip3ZDuw</raw>
   </episode>
   <episode>
     <airingId>029</airingId>
