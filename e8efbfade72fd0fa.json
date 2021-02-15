@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2021-02-15T14:40:03.424Z",
+  "lastUpdated": "2021-02-15T14:50:03.244Z",
   "seriesId": "6123",
   "title": "no art, no life plus",
   "episodes": [
+    {
+      "airingId": "008",
+      "content": "",
+      "description": "Outsider artists like Ayama Takayuki are  gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.",
+      "endDate": "2021-02-11T00:20:00.000Z",
+      "link": "https://mega.nz/folder/4ZwjiSRJ#H8bC-DTiAIfy75qd13D3sA",
+      "recordDateEnd": "2021-02-11T00:20:27.148Z",
+      "recordDateStart": "2021-02-11T00:09:20.099Z",
+      "seriesId": "6123",
+      "sha256": "afe8182273c4f01767e07046e656bc48f8474af89d7f9ad227a8d95ff6546264",
+      "startDate": "2021-02-11T00:10:00.000Z",
+      "subtitle": "",
+      "title": "no art, no life plus",
+      "uploadedDate": "2021-02-15T14:48:51.843Z",
+      "raw": "https://mega.nz/folder/eosVCCAZ#sfYqq3nL2AVaTf0cmzTV_g"
+    },
     {
       "airingId": "009",
       "content": "",
