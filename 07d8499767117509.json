@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T10:20:03.820Z",
+  "lastUpdated": "2021-02-15T10:45:03.971Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1362,6 +1362,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-31T11:08:53.787Z",
       "raw": "https://mega.nz/folder/cAxEHLYJ#64TXExFJb7oWE6wCmmPRIA"
+    },
+    {
+      "airingId": "685",
+      "content": "",
+      "description": "A former German teacher who created a revolutionary system to provide people in developing countries with one-dollar glasses shares his thoughts on the meaning of sustainable social business.",
+      "endDate": "2021-02-12T04:30:00.000Z",
+      "link": "https://mega.nz/folder/rEdEGZQC#nGHVgKVf_Z6R00L3CiyZjQ",
+      "recordDateEnd": "2021-02-12T04:30:26.086Z",
+      "recordDateStart": "2021-02-12T04:14:20.099Z",
+      "seriesId": "2058",
+      "sha256": "b9c79d1d26739e5c13725703a686b39949e11b176341262ee065958342ef955d",
+      "startDate": "2021-02-12T04:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-15T10:43:42.483Z"
     },
     {
       "airingId": "693",
