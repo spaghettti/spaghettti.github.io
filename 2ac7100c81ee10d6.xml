@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T14:00:04.253Z</lastUpdated>
+  <lastUpdated>2021-02-15T14:10:03.195Z</lastUpdated>
   <seriesId>2ac7100c81ee10d6</seriesId>
   <title>Lunch ON!</title>
   <episode>
@@ -52,6 +52,21 @@ In another segment, we visit the southernmost prefecture of Okinawa to meet a pu
     <title>Lunch ON!</title>
     <uploadedDate>2020-12-24T05:37:55.705Z</uploadedDate>
     <raw>https://mega.nz/folder/OlVQQbzQ#35mFkpAWUIvYJD7d9oNlNQ</raw>
+  </episode>
+  <episode>
+    <airingId>143</airingId>
+    <content>We visit an ironworks situated in Yamagata Prefecture, northern Japan. At the factory, there is a monthly lunch day wherein the staff take turns cooking soups from other countries. The task wouldn't be that difficult if they were allowed to use a recipe and have access to the right ingredients, but since the aim of this lunch tradition is to train the workers' ability to use their imagination to make things, the staff do just that, improvising as they go along.</content>
+    <description>We visit an ironworks situated in Yamagata Pref., northern Japan. At the factory, there is a monthly lunch day wherein the staff take turns cooking soups from other countries.</description>
+    <endDate>2021-02-11T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/fpkkFYxD#vYxenyZWtSaaNuuEqFhZzA</link>
+    <recordDateEnd>2021-02-11T04:55:30.290Z</recordDateEnd>
+    <recordDateStart>2021-02-11T04:29:20.099Z</recordDateStart>
+    <seriesId>4023</seriesId>
+    <sha256>b4bf317fb88ff0fa911365801479c70837ee496f64d31cab8759b033582044a5</sha256>
+    <startDate>2021-02-11T04:30:00.000Z</startDate>
+    <subtitle>Soups of the World</subtitle>
+    <title>Lunch ON!</title>
+    <uploadedDate>2021-02-15T14:08:30.652Z</uploadedDate>
   </episode>
   <episode>
     <airingId>155</airingId>

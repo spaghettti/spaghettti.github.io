@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T14:00:04.254Z",
+  "lastUpdated": "2021-02-15T14:10:03.196Z",
   "seriesId": "4023",
   "title": "Lunch ON!",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "Lunch ON!",
       "uploadedDate": "2020-12-24T05:37:55.705Z",
       "raw": "https://mega.nz/folder/OlVQQbzQ#35mFkpAWUIvYJD7d9oNlNQ"
+    },
+    {
+      "airingId": "143",
+      "content": "We visit an ironworks situated in Yamagata Prefecture, northern Japan. At the factory, there is a monthly lunch day wherein the staff take turns cooking soups from other countries. The task wouldn't be that difficult if they were allowed to use a recipe and have access to the right ingredients, but since the aim of this lunch tradition is to train the workers' ability to use their imagination to make things, the staff do just that, improvising as they go along.",
+      "description": "We visit an ironworks situated in Yamagata Pref., northern Japan. At the factory, there is a monthly lunch day wherein the staff take turns cooking soups from other countries.",
+      "endDate": "2021-02-11T04:55:00.000Z",
+      "link": "https://mega.nz/folder/fpkkFYxD#vYxenyZWtSaaNuuEqFhZzA",
+      "recordDateEnd": "2021-02-11T04:55:30.290Z",
+      "recordDateStart": "2021-02-11T04:29:20.099Z",
+      "seriesId": "4023",
+      "sha256": "b4bf317fb88ff0fa911365801479c70837ee496f64d31cab8759b033582044a5",
+      "startDate": "2021-02-11T04:30:00.000Z",
+      "subtitle": "Soups of the World",
+      "title": "Lunch ON!",
+      "uploadedDate": "2021-02-15T14:08:30.652Z"
     },
     {
       "airingId": "155",
