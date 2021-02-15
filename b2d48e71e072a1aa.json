@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T03:00:03.715Z",
+  "lastUpdated": "2021-02-15T03:30:03.598Z",
   "seriesId": "2069",
   "title": "Wild Hokkaido!",
   "episodes": [
@@ -194,6 +194,21 @@
       "title": "Wild Hokkaido!",
       "uploadedDate": "2021-01-19T05:54:34.382Z",
       "raw": "https://mega.nz/folder/W7oykASY#Fe_DEdijbx9Z9WErkktmqw"
+    },
+    {
+      "airingId": "082",
+      "content": "Our stage this time is Lake Akan in the eastern part of Hokkaido Prefecture. It is a caldera lake created as a result of ancient volcanic activity. In the dead of winter, the lake is completely frozen over. Our program host walks around the surrounding forests inhabited by a variety of wild fauna, as well as over the frozen lake to experience the flourishing forest and the energy of the volcano, which is still active today. Later, we show you rare footage of the lakeside facility of the Ainu, the indigenous people of Hokkaido, as well as some mysterious phenomena created in the lake by the intense winter conditions.",
+      "description": "In the dead of winter, Lake Akan is completely frozen over. Our program host walks around the surrounding forests inhabited by a variety of wild fauna.",
+      "endDate": "2021-02-14T01:00:00.000Z",
+      "link": "https://mega.nz/folder/upZygJ6I#vWagg6MnywUjkvRRQgXILA",
+      "recordDateEnd": "2021-02-14T01:00:27.731Z",
+      "recordDateStart": "2021-02-14T00:44:23.000Z",
+      "seriesId": "2069",
+      "sha256": "18589884ce32312481db7eac19dec967aa75cea20ac473af208d33bc45b685bd",
+      "startDate": "2021-02-14T00:45:00.000Z",
+      "subtitle": "Winter in Lake Akan",
+      "title": "Wild Hokkaido!",
+      "uploadedDate": "2021-02-15T03:27:38.258Z"
     }
   ]
 }
