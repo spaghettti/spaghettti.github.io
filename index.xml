@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-15T14:55:03.563Z</lastUpdated>
+  <lastUpdated>2021-02-15T15:10:03.803Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -491,10 +491,10 @@
     <title>Japan Lost and Found</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>3ff887cb76b1a490</uniqueId>
-    <lastAiring>2021-02-04T15:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-04T23:37:51.950Z</lastUpload>
+    <lastAiring>2021-02-11T15:30:00.000Z</lastAiring>
+    <lastUpload>2021-02-15T15:09:20.411Z</lastUpload>
     <seriesId>2049</seriesId>
     <title>Japan Railway Journal</title>
   </series>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T14:55:03.328Z</lastUpdated>
+  <lastUpdated>2021-02-15T15:10:03.617Z</lastUpdated>
   <seriesId>3ff887cb76b1a490</seriesId>
   <title>Japan Railway Journal</title>
   <episode>
@@ -115,6 +115,22 @@
     <title>Japan Railway Journal</title>
     <uploadedDate>2021-02-04T23:37:51.950Z</uploadedDate>
     <raw>https://mega.nz/folder/RWJWiRKZ#cb5vRwZOJRckUVBgbTDByQ</raw>
+  </episode>
+  <episode>
+    <airingId>082</airingId>
+    <content>Echigo Tokimeki Railway in Niigata Prefecture started service in 2015, coinciding with the opening of the Hokuriku Shinkansen. However, due to a drop in passenger numbers, the company is currently 490 million yen in debt. The railway's hopes now rest with a new president, Akira Torizuka, who was appointed in September 2019. See how the president plans to revive the railway with exciting ideas that will benefit everyone.</content>
+    <description>Echigo Tokimeki Railway appointed a new president, bringing exciting new ideas to the third sector company. See how the president plans to revive the railway to benefit everyone.</description>
+    <endDate>2021-02-11T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ahtWgZjZ#6P6LfEuBwUwXD1iclpBYRg</link>
+    <recordDateEnd>2021-02-11T16:00:28.146Z</recordDateEnd>
+    <recordDateStart>2021-02-11T15:29:20.099Z</recordDateStart>
+    <seriesId>2049</seriesId>
+    <sha256>89979912eba17340bddd62db61c5225fb9747870fa24fed23fbee06e35a7a6ac</sha256>
+    <startDate>2021-02-11T15:30:00.000Z</startDate>
+    <subtitle>Echigo Tokimeki Railway: A Railway for Everyone</subtitle>
+    <title>Japan Railway Journal</title>
+    <uploadedDate>2021-02-15T15:09:20.411Z</uploadedDate>
+    <raw>https://mega.nz/folder/2l5T2Y4b#EUvpfjoK-99EZPjhUS4PVA</raw>
   </episode>
   <episode>
     <airingId>093</airingId>
