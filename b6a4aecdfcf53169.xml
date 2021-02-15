@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T13:15:03.572Z</lastUpdated>
+  <lastUpdated>2021-02-15T13:20:03.189Z</lastUpdated>
   <seriesId>b6a4aecdfcf53169</seriesId>
   <title>Asia Insight</title>
   <episode>
@@ -99,6 +99,22 @@
     <title>Asia Insight</title>
     <uploadedDate>2021-02-05T21:57:11.303Z</uploadedDate>
     <raw>https://mega.nz/folder/sQQzXQKD#0fa4hvyTCr8bPMIAp11fJw</raw>
+  </episode>
+  <episode>
+    <airingId>283</airingId>
+    <content>Surabaya, a city in Indonesia, runs a bus service that doesn't cost money to use. Instead, the fare is paid in plastic bottles. The goal is to promote waste reduction and recycling. 20 years ago, the city streets were overflowing with garbage, so the local government took action. They introduced a system to transform everyday kitchen waste into compost. They set up waste banks, where people can sell recyclables. We take a look at the incredible success of Surabaya's eco-friendly initiatives.</content>
+    <description>Dynamic Asia. Stories behind the world's largest continent as it faces political, economic, cultural and technological change. Today: From Trash to Treasure - Indonesia</description>
+    <endDate>2021-02-12T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Xol1QIyC#W-_RdUHCtVScFX98YrdiUQ</link>
+    <recordDateEnd>2021-02-12T02:00:31.084Z</recordDateEnd>
+    <recordDateStart>2021-02-12T01:29:20.103Z</recordDateStart>
+    <seriesId>2022</seriesId>
+    <sha256>23d22c937f1f8dca111f0f78fc425cb9184d354347bc147814eab5204c84f8d8</sha256>
+    <startDate>2021-02-12T01:30:00.000Z</startDate>
+    <subtitle>From Trash to Treasure: Indonesia</subtitle>
+    <title>Asia Insight</title>
+    <uploadedDate>2021-02-15T13:16:49.698Z</uploadedDate>
+    <raw>https://mega.nz/folder/cM4TwYrb#fCvacClQUTIbieFkMMAGNQ</raw>
   </episode>
   <episode>
     <airingId>317</airingId>
