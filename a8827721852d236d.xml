@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T02:20:03.467Z</lastUpdated>
+  <lastUpdated>2021-02-15T02:30:03.695Z</lastUpdated>
   <seriesId>a8827721852d236d</seriesId>
   <title>Japan-easy</title>
   <episode>
@@ -195,5 +195,20 @@
     <title>Japan-easy2</title>
     <uploadedDate>2021-01-31T12:19:44.104Z</uploadedDate>
     <raw>https://mega.nz/folder/IuAlUYBA#JFweZY-dfuwsz0_TW0gmKg</raw>
+  </episode>
+  <episode>
+    <airingId>122</airingId>
+    <content/>
+    <description>Today, we'll learn how to say "I am cooking now" in Japanese. Learn useful phrases and cool kanji! And you'll realize "Japanese is easy"!</description>
+    <endDate>2021-02-14T11:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/btxUDQqY#0QWfsdt2blrYzBzV4dzK2Q</link>
+    <recordDateEnd>2021-02-14T11:40:33.389Z</recordDateEnd>
+    <recordDateStart>2021-02-14T11:24:20.456Z</recordDateStart>
+    <seriesId>6210</seriesId>
+    <sha256>a86981c47ba9d5e45dfce7518fc2cd3cd1c076fc841f60093dc2c28926b81a38</sha256>
+    <startDate>2021-02-14T11:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Japan-easy2</title>
+    <uploadedDate>2021-02-15T02:29:40.699Z</uploadedDate>
   </episode>
 </episodeList>

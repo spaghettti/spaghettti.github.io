@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T02:20:03.468Z",
+  "lastUpdated": "2021-02-15T02:30:03.696Z",
   "seriesId": "6210",
   "title": "Japan-easy",
   "episodes": [
@@ -194,6 +194,21 @@
       "title": "Japan-easy2",
       "uploadedDate": "2021-01-31T12:19:44.104Z",
       "raw": "https://mega.nz/folder/IuAlUYBA#JFweZY-dfuwsz0_TW0gmKg"
+    },
+    {
+      "airingId": "122",
+      "content": "",
+      "description": "Today, we'll learn how to say \"I am cooking now\" in Japanese. Learn useful phrases and cool kanji! And you'll realize \"Japanese is easy\"!",
+      "endDate": "2021-02-14T11:40:00.000Z",
+      "link": "https://mega.nz/folder/btxUDQqY#0QWfsdt2blrYzBzV4dzK2Q",
+      "recordDateEnd": "2021-02-14T11:40:33.389Z",
+      "recordDateStart": "2021-02-14T11:24:20.456Z",
+      "seriesId": "6210",
+      "sha256": "a86981c47ba9d5e45dfce7518fc2cd3cd1c076fc841f60093dc2c28926b81a38",
+      "startDate": "2021-02-14T11:25:00.000Z",
+      "subtitle": "",
+      "title": "Japan-easy2",
+      "uploadedDate": "2021-02-15T02:29:40.699Z"
     }
   ]
 }
