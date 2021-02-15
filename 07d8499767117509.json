@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T15:10:03.649Z",
+  "lastUpdated": "2021-02-15T15:15:04.186Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -578,6 +578,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-02-02T07:46:35.086Z",
       "raw": "https://mega.nz/folder/tdAEVDrB#BlXGsd85tzLkorV0DhFUvQ"
+    },
+    {
+      "airingId": "601",
+      "content": "Pianist Gohei Nishikawa was diagnosed with focal dystonia as an adult. Unable to use 3 fingers on his left hand, he performs using his other 7. How did he find his way back to the piano?",
+      "description": "Pianist Gohei Nishikawa was diagnosed with focal dystonia as an adult. Unable to use 3 fingers on his left hand, he performs using his other 7. How did he find his way back to the piano?",
+      "endDate": "2021-02-09T07:30:00.000Z",
+      "link": "https://mega.nz/folder/poNDUKRb#t3DiC7KmGFVK-3DUYNRP3Q",
+      "recordDateEnd": "2021-02-09T07:30:31.786Z",
+      "recordDateStart": "2021-02-09T07:14:20.012Z",
+      "seriesId": "2058",
+      "sha256": "a82a72fc342f5703c68e89de9447847c33332f1618ee4a227d281a5dae1dcf0a",
+      "startDate": "2021-02-09T07:15:00.000Z",
+      "subtitle": "The Sound of Resilience: Gohei Nishikawa / Pianist",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-15T15:11:05.778Z"
     },
     {
       "airingId": "602",
@@ -1906,6 +1921,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-02-09T07:26:46.722Z",
       "raw": "https://mega.nz/folder/0CY1FYxJ#6Z6HOzY4wd9kIg8OJqFJQg"
+    },
+    {
+      "airingId": "736",
+      "content": "Richard Misrach, an eminent photographer who has been shooting deserts in the U.S. for half a century, discusses the split of America as he has been bearing witness it.",
+      "description": "Richard Misrach, an eminent photographer who has been shooting deserts in the U.S. for half a century, discusses the split of America as he has been bearing witness it.",
+      "endDate": "2021-02-10T07:30:00.000Z",
+      "link": "https://mega.nz/folder/J0NjzYgL#8JDujn7NLuYrUWf67Rj1LA",
+      "recordDateEnd": "2021-02-10T07:30:27.632Z",
+      "recordDateStart": "2021-02-10T07:14:22.528Z",
+      "seriesId": "2058",
+      "sha256": "d285b750a9de4d8e3d515fca7b7cbddd7f3b8fcfd61f456a6b350d7ed757ca00",
+      "startDate": "2021-02-10T07:15:00.000Z",
+      "subtitle": "Beyond the Divide: Richard Misrach / Photographer",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-15T15:12:55.115Z",
+      "raw": "https://mega.nz/folder/tw5iGQ7B#Lq3Ln9HVT2PG315nIPt9Mg"
     },
     {
       "airingId": "739",

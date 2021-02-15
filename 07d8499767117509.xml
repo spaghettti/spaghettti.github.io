@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T15:10:03.634Z</lastUpdated>
+  <lastUpdated>2021-02-15T15:15:04.172Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -579,6 +579,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-02T07:46:35.086Z</uploadedDate>
     <raw>https://mega.nz/folder/tdAEVDrB#BlXGsd85tzLkorV0DhFUvQ</raw>
+  </episode>
+  <episode>
+    <airingId>601</airingId>
+    <content>Pianist Gohei Nishikawa was diagnosed with focal dystonia as an adult. Unable to use 3 fingers on his left hand, he performs using his other 7. How did he find his way back to the piano?</content>
+    <description>Pianist Gohei Nishikawa was diagnosed with focal dystonia as an adult. Unable to use 3 fingers on his left hand, he performs using his other 7. How did he find his way back to the piano?</description>
+    <endDate>2021-02-09T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/poNDUKRb#t3DiC7KmGFVK-3DUYNRP3Q</link>
+    <recordDateEnd>2021-02-09T07:30:31.786Z</recordDateEnd>
+    <recordDateStart>2021-02-09T07:14:20.012Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>a82a72fc342f5703c68e89de9447847c33332f1618ee4a227d281a5dae1dcf0a</sha256>
+    <startDate>2021-02-09T07:15:00.000Z</startDate>
+    <subtitle>The Sound of Resilience: Gohei Nishikawa / Pianist</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-15T15:11:05.778Z</uploadedDate>
   </episode>
   <episode>
     <airingId>602</airingId>
@@ -1907,6 +1922,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-09T07:26:46.722Z</uploadedDate>
     <raw>https://mega.nz/folder/0CY1FYxJ#6Z6HOzY4wd9kIg8OJqFJQg</raw>
+  </episode>
+  <episode>
+    <airingId>736</airingId>
+    <content>Richard Misrach, an eminent photographer who has been shooting deserts in the U.S. for half a century, discusses the split of America as he has been bearing witness it.</content>
+    <description>Richard Misrach, an eminent photographer who has been shooting deserts in the U.S. for half a century, discusses the split of America as he has been bearing witness it.</description>
+    <endDate>2021-02-10T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/J0NjzYgL#8JDujn7NLuYrUWf67Rj1LA</link>
+    <recordDateEnd>2021-02-10T07:30:27.632Z</recordDateEnd>
+    <recordDateStart>2021-02-10T07:14:22.528Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>d285b750a9de4d8e3d515fca7b7cbddd7f3b8fcfd61f456a6b350d7ed757ca00</sha256>
+    <startDate>2021-02-10T07:15:00.000Z</startDate>
+    <subtitle>Beyond the Divide: Richard Misrach / Photographer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-15T15:12:55.115Z</uploadedDate>
+    <raw>https://mega.nz/folder/tw5iGQ7B#Lq3Ln9HVT2PG315nIPt9Mg</raw>
   </episode>
   <episode>
     <airingId>739</airingId>
