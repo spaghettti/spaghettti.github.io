@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T16:05:04.041Z</lastUpdated>
+  <lastUpdated>2021-02-15T16:30:04.233Z</lastUpdated>
   <seriesId>a8827721852d236d</seriesId>
   <title>Japan-easy</title>
   <episode>
@@ -195,6 +195,22 @@
     <title>Japan-easy2</title>
     <uploadedDate>2021-01-31T12:19:44.104Z</uploadedDate>
     <raw>https://mega.nz/folder/IuAlUYBA#JFweZY-dfuwsz0_TW0gmKg</raw>
+  </episode>
+  <episode>
+    <airingId>121</airingId>
+    <content/>
+    <description>Today, we'll learn how to say "I like the bigger one" in Japanese. Learn useful phrases and cool kanji! And you'll realize "Japanese is easy"!</description>
+    <endDate>2021-02-07T11:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/u98wXaRQ#z5qdwTVZUAylKBjmimztmQ</link>
+    <recordDateEnd>2021-02-07T11:40:34.626Z</recordDateEnd>
+    <recordDateStart>2021-02-07T11:24:20.141Z</recordDateStart>
+    <seriesId>6210</seriesId>
+    <sha256>04f67bf7b153cfd3d052982edd5156db4ce712f066a5b14a8277e6724b7ac237</sha256>
+    <startDate>2021-02-07T11:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Japan-easy2</title>
+    <uploadedDate>2021-02-15T16:25:22.393Z</uploadedDate>
+    <raw>https://mega.nz/folder/kA4yDYiS#Qu83YUPXdItaHAqVmxwEBQ</raw>
   </episode>
   <episode>
     <airingId>122</airingId>
