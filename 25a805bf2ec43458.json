@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T13:00:04.087Z",
+  "lastUpdated": "2021-02-15T13:15:03.593Z",
   "seriesId": "2025",
   "title": "Kawaii International",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Kawaii International",
       "uploadedDate": "2021-02-05T22:08:01.890Z",
       "raw": "https://mega.nz/folder/MZl0WDYL#k2UbssFAJw7y-Fgf57HKLA"
+    },
+    {
+      "airingId": "137",
+      "content": "This episode brings you the latest mask fashion trends, a must-have item in the fight against the pandemic. We'll introduce you to some mask specialty shops as well as the popular mask accessories. Also, we check out some of the world's most innovative fashion products created during the pandemic.",
+      "description": "During COVID-19, face masks not only help us protect the people around us, but they can also be a great fashion accessory! Find out how fashionistas blend virus protection items into their look.",
+      "endDate": "2021-02-12T01:00:00.000Z",
+      "link": "https://mega.nz/folder/MQ4xxaLS#WABHW7wXKwfJHW3OCzgcsA",
+      "recordDateEnd": "2021-02-12T01:00:30.318Z",
+      "recordDateStart": "2021-02-12T00:29:20.100Z",
+      "seriesId": "2025",
+      "sha256": "d320d92ef0cbd0e2393bb2a6d7b1b51783a1c38b26d922e65fe5a228846b93f4",
+      "startDate": "2021-02-12T00:30:00.000Z",
+      "subtitle": "Love for Fashion in the Age of Covid",
+      "title": "Kawaii International",
+      "uploadedDate": "2021-02-15T13:10:09.265Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T13:00:04.072Z</lastUpdated>
+  <lastUpdated>2021-02-15T13:15:03.588Z</lastUpdated>
   <seriesId>25a805bf2ec43458</seriesId>
   <title>Kawaii International</title>
   <episode>
@@ -131,5 +131,20 @@
     <title>Kawaii International</title>
     <uploadedDate>2021-02-05T22:08:01.890Z</uploadedDate>
     <raw>https://mega.nz/folder/MZl0WDYL#k2UbssFAJw7y-Fgf57HKLA</raw>
+  </episode>
+  <episode>
+    <airingId>137</airingId>
+    <content>This episode brings you the latest mask fashion trends, a must-have item in the fight against the pandemic. We'll introduce you to some mask specialty shops as well as the popular mask accessories. Also, we check out some of the world's most innovative fashion products created during the pandemic.</content>
+    <description>During COVID-19, face masks not only help us protect the people around us, but they can also be a great fashion accessory! Find out how fashionistas blend virus protection items into their look.</description>
+    <endDate>2021-02-12T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/MQ4xxaLS#WABHW7wXKwfJHW3OCzgcsA</link>
+    <recordDateEnd>2021-02-12T01:00:30.318Z</recordDateEnd>
+    <recordDateStart>2021-02-12T00:29:20.100Z</recordDateStart>
+    <seriesId>2025</seriesId>
+    <sha256>d320d92ef0cbd0e2393bb2a6d7b1b51783a1c38b26d922e65fe5a228846b93f4</sha256>
+    <startDate>2021-02-12T00:30:00.000Z</startDate>
+    <subtitle>Love for Fashion in the Age of Covid</subtitle>
+    <title>Kawaii International</title>
+    <uploadedDate>2021-02-15T13:10:09.265Z</uploadedDate>
   </episode>
 </episodeList>
