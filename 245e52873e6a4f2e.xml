@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T07:55:03.485Z</lastUpdated>
+  <lastUpdated>2021-02-15T08:05:03.870Z</lastUpdated>
   <seriesId>245e52873e6a4f2e</seriesId>
   <title>Broadcasters' Eye</title>
   <episode>
@@ -67,5 +67,21 @@
     <title>Broadcasters' Eye</title>
     <uploadedDate>2021-01-30T01:23:58.326Z</uploadedDate>
     <raw>https://mega.nz/folder/WU8TTKLB#C-GO3HxAGRdpgGjDvqEufg</raw>
+  </episode>
+  <episode>
+    <airingId>032</airingId>
+    <content/>
+    <description>Broadcasters' Eye showcases excellent programs produced by Japanese commercial broadcasters. This program is about a man's efforts to repopulate a rural town by securing vacant houses for newcomers.</description>
+    <endDate>2021-02-13T23:56:00.000Z</endDate>
+    <link>https://mega.nz/folder/8BpmBJKY#AXeoMUfXCxYRIsb-L_Ralg</link>
+    <recordDateEnd>2021-02-13T23:56:28.319Z</recordDateEnd>
+    <recordDateStart>2021-02-13T23:09:22.598Z</recordDateStart>
+    <seriesId>5006</seriesId>
+    <sha256>4d0931a5bd3dd70adb959bbf99c245e1ac80a17bbc395f57d2c0d0ba3ce1befe</sha256>
+    <startDate>2021-02-13T23:10:00.000Z</startDate>
+    <subtitle>Jeffrey Real Estate</subtitle>
+    <title>Broadcasters' Eye</title>
+    <uploadedDate>2021-02-15T08:03:58.912Z</uploadedDate>
+    <raw>https://mega.nz/folder/xAhQ3b5T#jXBbzo3txZxdOFJANFs5hA</raw>
   </episode>
 </episodeList>
