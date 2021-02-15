@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-15T20:25:04.103Z</lastUpdated>
+  <lastUpdated>2021-02-15T21:45:04.230Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -363,10 +363,10 @@
     <title>Fresh Eyes on Japan</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>2db080459cbd9d82</uniqueId>
-    <lastAiring>2020-12-05T04:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T05:15:45.953Z</lastUpload>
+    <lastAiring>2021-02-06T04:10:00.000Z</lastAiring>
+    <lastUpload>2021-02-15T21:45:01.544Z</lastUpload>
     <seriesId>4031</seriesId>
     <title>GATTEN!</title>
   </series>

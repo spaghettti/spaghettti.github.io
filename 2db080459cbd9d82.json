@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T20:25:04.023Z",
+  "lastUpdated": "2021-02-15T21:45:04.151Z",
   "seriesId": "4031",
   "title": "GATTEN!",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "GATTEN!",
       "uploadedDate": "2020-12-25T05:15:45.953Z",
       "raw": "https://mega.nz/folder/eVcUyBJY#bdkBYEbx0a3AKYU4jIaHJA"
+    },
+    {
+      "airingId": "006",
+      "content": "Video calling has existed for a while, but in the face of COVID-19, it's become more vital than ever to our daily lives. Using a device like a computer or a smartphone, you can connect with other people remotely, seeing and hearing them live. It's easy and extremely convenient. But why do video calls sometimes feel awkward or listless? We found a surprising pitfall ... and a simple action you can do to avoid it! Follow our advice, and everyone on your call will feel engaged and in sync!",
+      "description": "Video calls are more vital than ever to our daily lives, but they can sometimes feel awkward or listless. We reveal a simple action that will have everyone on your call feeling engaged and in sync!",
+      "endDate": "2021-02-06T04:55:00.000Z",
+      "link": "https://mega.nz/folder/I9sUmKAZ#cmGP3Ep_rtHzp62LCu2QxA",
+      "recordDateEnd": "2021-02-06T04:55:23.660Z",
+      "recordDateStart": "2021-02-06T04:09:20.121Z",
+      "seriesId": "4031",
+      "sha256": "69563490a69fa6651cd3e36dd6cc87d79e6814db9b3b248ae46300900a170be7",
+      "startDate": "2021-02-06T04:10:00.000Z",
+      "subtitle": "How to Have Better Video Calls",
+      "title": "GATTEN!",
+      "uploadedDate": "2021-02-15T21:45:01.544Z"
     }
   ]
 }
