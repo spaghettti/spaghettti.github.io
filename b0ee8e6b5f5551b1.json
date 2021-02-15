@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T13:20:03.396Z",
+  "lastUpdated": "2021-02-15T13:25:03.574Z",
   "seriesId": "7000",
   "title": "Spirit of Resilience",
   "episodes": [
@@ -130,6 +130,22 @@
       "title": "Spirit of Resilience",
       "uploadedDate": "2021-01-31T08:50:17.863Z",
       "raw": "https://mega.nz/folder/UbYxjaCY#XZaeqUo4Mykmw9WxGFf6gQ"
+    },
+    {
+      "airingId": "472",
+      "content": "",
+      "description": "Shige's Gift: Sowing Seeds for the Future ? A story of a farmer who received an unexpected gift from a perfect stranger and how he's seeking ways to use the gift to share the joys of farming.",
+      "endDate": "2021-02-12T00:00:00.000Z",
+      "link": "https://mega.nz/folder/K44XDKjB#VHTvgPhegFIvXO2U_n9TTA",
+      "recordDateEnd": "2021-02-12T00:00:30.331Z",
+      "recordDateStart": "2021-02-11T23:29:20.099Z",
+      "seriesId": "7000",
+      "sha256": "b751a63f925edc15f00caec6f9088f63c69fa09f338c80f92313ce184d419f84",
+      "startDate": "2021-02-11T23:30:00.000Z",
+      "subtitle": "Shige's Gift: Sowing Seeds for the Future",
+      "title": "Spirit of Resilience",
+      "uploadedDate": "2021-02-15T13:21:06.727Z",
+      "raw": "https://mega.nz/folder/a51xXAKK#yl5IlOvPMY7t-n38H-uqtA"
     }
   ]
 }

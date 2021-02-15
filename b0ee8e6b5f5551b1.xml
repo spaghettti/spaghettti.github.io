@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T13:20:03.395Z</lastUpdated>
+  <lastUpdated>2021-02-15T13:25:03.573Z</lastUpdated>
   <seriesId>b0ee8e6b5f5551b1</seriesId>
   <title>Spirit of Resilience</title>
   <episode>
@@ -131,5 +131,21 @@
     <title>Spirit of Resilience</title>
     <uploadedDate>2021-01-31T08:50:17.863Z</uploadedDate>
     <raw>https://mega.nz/folder/UbYxjaCY#XZaeqUo4Mykmw9WxGFf6gQ</raw>
+  </episode>
+  <episode>
+    <airingId>472</airingId>
+    <content/>
+    <description>Shige's Gift: Sowing Seeds for the Future ? A story of a farmer who received an unexpected gift from a perfect stranger and how he's seeking ways to use the gift to share the joys of farming.</description>
+    <endDate>2021-02-12T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/K44XDKjB#VHTvgPhegFIvXO2U_n9TTA</link>
+    <recordDateEnd>2021-02-12T00:00:30.331Z</recordDateEnd>
+    <recordDateStart>2021-02-11T23:29:20.099Z</recordDateStart>
+    <seriesId>7000</seriesId>
+    <sha256>b751a63f925edc15f00caec6f9088f63c69fa09f338c80f92313ce184d419f84</sha256>
+    <startDate>2021-02-11T23:30:00.000Z</startDate>
+    <subtitle>Shige's Gift: Sowing Seeds for the Future</subtitle>
+    <title>Spirit of Resilience</title>
+    <uploadedDate>2021-02-15T13:21:06.727Z</uploadedDate>
+    <raw>https://mega.nz/folder/a51xXAKK#yl5IlOvPMY7t-n38H-uqtA</raw>
   </episode>
 </episodeList>
