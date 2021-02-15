@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T07:25:03.453Z</lastUpdated>
+  <lastUpdated>2021-02-15T07:55:03.467Z</lastUpdated>
   <seriesId>be55ba93c748813c</seriesId>
   <title>COOL JAPAN</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>COOL JAPAN</title>
     <uploadedDate>2021-01-13T17:32:34.836Z</uploadedDate>
     <raw>https://mega.nz/folder/3wo2BYyD#7zLzXYeIb4QyIvZD4QgJTw</raw>
+  </episode>
+  <episode>
+    <airingId>248</airingId>
+    <content>Japan is an Osozai heaven where you can easily find Osozai anywhere, including convenience stores, supermarkets and basement floors of department stores. Osozai has recently been popular among foreigners too due to its wide variety, deliciousness and healthiness. There are many foreign tourists who not only go to restaurants but go out to buy popular Osozai, and some basement floors of department stores have become tourist locations. At the front lines of Osozai, which is bound to become increasingly popular in the future, we close in on the capabilities of Japan's Osozai, including container technology that supports it in the background.</content>
+    <description>Osozai are Japan's unique range of prepared and ready-to-eat food. The panelists look at popular traditional dishes as well as some recent innovations, and discuss whether they have global potential.</description>
+    <endDate>2021-02-13T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/z5VmAbzC#WhN5of7xKB5scHVYl8-S_Q</link>
+    <recordDateEnd>2021-02-13T04:55:25.925Z</recordDateEnd>
+    <recordDateStart>2021-02-13T04:09:20.099Z</recordDateStart>
+    <seriesId>4008</seriesId>
+    <sha256>6d8c0d6733622f83259e8ca96cb201035df577a4a87aa1030f2180a182f91358</sha256>
+    <startDate>2021-02-13T04:10:00.000Z</startDate>
+    <subtitle>Osozai</subtitle>
+    <title>COOL JAPAN</title>
+    <uploadedDate>2021-02-15T07:51:27.318Z</uploadedDate>
   </episode>
 </episodeList>
