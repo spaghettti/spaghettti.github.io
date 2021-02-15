@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T22:35:03.830Z",
+  "lastUpdated": "2021-02-15T22:55:03.534Z",
   "seriesId": "2074,3004",
   "title": "BIZ STREAM",
   "episodes": [
@@ -114,6 +114,21 @@
       "title": "BIZ STREAM",
       "uploadedDate": "2021-01-23T15:36:53.809Z",
       "raw": "https://mega.nz/folder/Oy5wgTbT#wNbwmvve-9Z8Le4HdGLzEg"
+    },
+    {
+      "airingId": "092",
+      "content": "[On-Site Report]\nJackets, sweaters and other products made from synthetic fibers inspired by spider silk are attracting attention for their comfort, durability and environmental friendliness. The fibers are made of synthesized proteins created by genetically modified microorganisms. This episode takes a look at the exciting potential these synthetic fibers are bringing to the fashion world and beyond.",
+      "description": "This episode features durable and environmentally friendly synthetic fibers inspired by spider silk that could revolutionize the fashion and apparel industry.",
+      "endDate": "2021-02-06T14:40:00.000Z",
+      "link": "https://mega.nz/folder/x9dUwLxC#AIY60NefR5gYUMlcLmH26A",
+      "recordDateEnd": "2021-02-06T14:40:32.609Z",
+      "recordDateStart": "2021-02-06T14:09:20.122Z",
+      "seriesId": "2074",
+      "sha256": "3c70fd097f164592b7ebeaa896e4422866c2bd0abbc93eec89cdce19598d2ed3",
+      "startDate": "2021-02-06T14:10:00.000Z",
+      "subtitle": "Chemistry on the Catwalk",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2021-02-15T22:50:34.338Z"
     },
     {
       "airingId": "093",
