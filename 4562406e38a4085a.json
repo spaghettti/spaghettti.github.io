@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T10:50:03.438Z",
+  "lastUpdated": "2021-02-15T11:20:03.840Z",
   "seriesId": "2019",
   "title": "Dining with the Chef",
   "episodes": [
@@ -401,6 +401,21 @@
       "title": "Dining with the Chef",
       "uploadedDate": "2021-01-22T16:05:47.126Z",
       "raw": "https://mega.nz/folder/xPwwyCCQ#Cdn6jRRn_dhIOe0vU5g6eQ"
+    },
+    {
+      "airingId": "284",
+      "content": "Learn about easy, delicious and healthy cooking with Chef Rika! Featured recipes: (1) Aji - Deep Fried Fish and Asparagus (2) Tangy Celery and Chicken Soup.",
+      "description": "Featured recipes: (1) Aji - Deep Fried Fish and Asparagus (2) Tangy Celery and Chicken Soup/Learn about easy, delicious, and healthy cooking with Chef Rika!",
+      "endDate": "2021-02-12T15:00:00.000Z",
+      "link": "https://mega.nz/folder/OghQ0aaY#UmEl5HQ5HJEL_J8PSUXWJw",
+      "recordDateEnd": "2021-02-12T15:00:33.974Z",
+      "recordDateStart": "2021-02-12T14:29:20.099Z",
+      "seriesId": "2019",
+      "sha256": "62f267d62eaf16b81a80ca4a0faa8949cf610a212c27806d372c5034931eeae3",
+      "startDate": "2021-02-12T14:30:00.000Z",
+      "subtitle": "Rika's TOKYO CUISINE: Aji - Deep Fried Fish and Asparagus",
+      "title": "Dining with the Chef",
+      "uploadedDate": "2021-02-15T11:15:20.669Z"
     }
   ]
 }
