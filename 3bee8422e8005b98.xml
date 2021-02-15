@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T06:55:03.035Z</lastUpdated>
+  <lastUpdated>2021-02-15T07:05:03.741Z</lastUpdated>
   <seriesId>3bee8422e8005b98</seriesId>
   <title>PythagoraSwitch mini</title>
   <episode>
@@ -195,5 +195,20 @@
     <title>PythagoraSwitch mini</title>
     <uploadedDate>2021-01-31T08:03:10.677Z</uploadedDate>
     <raw>https://mega.nz/folder/1IA2yJjD#UfzIBGbbltHs2Fbc-Djr1w</raw>
+  </episode>
+  <episode>
+    <airingId>028</airingId>
+    <content/>
+    <description>There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time "The Algorithum March"...</description>
+    <endDate>2021-02-13T04:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/eR8kkAAS#1e8MSf9uSPVuQ12mDtfJFQ</link>
+    <recordDateEnd>2021-02-13T04:00:21.001Z</recordDateEnd>
+    <recordDateStart>2021-02-13T03:54:22.535Z</recordDateStart>
+    <seriesId>6021</seriesId>
+    <sha256>37f66ace90bc4892d076ce443fc29ba348494facf274402b4b95b64a63900167</sha256>
+    <startDate>2021-02-13T03:55:00.000Z</startDate>
+    <subtitle/>
+    <title>PythagoraSwitch mini</title>
+    <uploadedDate>2021-02-15T07:02:55.144Z</uploadedDate>
   </episode>
 </episodeList>
