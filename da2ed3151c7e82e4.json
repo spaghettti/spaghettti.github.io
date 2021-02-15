@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T07:05:03.751Z",
+  "lastUpdated": "2021-02-15T07:10:03.381Z",
   "seriesId": "6026",
   "title": "no art, no life",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "no art, no life",
       "uploadedDate": "2021-01-30T04:22:40.536Z",
       "raw": "https://mega.nz/folder/Wi4hDIpA#rumhZNMpkvW22mFCuKaZWQ"
+    },
+    {
+      "airingId": "012",
+      "content": "",
+      "description": "Outsider artists like Marie Suzuki are gaining recognition around the world. Although she creates mainly for herself, others have taken notice. See how these artists live and work.",
+      "endDate": "2021-02-13T02:55:00.000Z",
+      "link": "https://mega.nz/folder/DN1STKSZ#MRxg662OjAxYWkA5HpGSrw",
+      "recordDateEnd": "2021-02-13T02:55:32.496Z",
+      "recordDateStart": "2021-02-13T02:49:20.003Z",
+      "seriesId": "6026",
+      "sha256": "d8bbbd4b5234b5496199607d1ee1f14a34214762329ea9c723b0e43e84b41e09",
+      "startDate": "2021-02-13T02:50:00.000Z",
+      "subtitle": "",
+      "title": "no art, no life",
+      "uploadedDate": "2021-02-15T07:09:29.777Z"
     },
     {
       "airingId": "013",

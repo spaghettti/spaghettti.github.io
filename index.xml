@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-15T07:05:03.804Z</lastUpdated>
+  <lastUpdated>2021-02-15T07:10:03.433Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -667,10 +667,10 @@
     <title>NHK WORLD-JAPAN presents SONGS OF TOKYO FESTIVAL</title>
   </series>
   <series>
-    <count>12</count>
+    <count>13</count>
     <uniqueId>da2ed3151c7e82e4</uniqueId>
-    <lastAiring>2021-01-30T02:50:00.000Z</lastAiring>
-    <lastUpload>2021-01-30T04:22:40.536Z</lastUpload>
+    <lastAiring>2021-02-13T02:50:00.000Z</lastAiring>
+    <lastUpload>2021-02-15T07:09:29.777Z</lastUpload>
     <seriesId>6026</seriesId>
     <title>no art, no life</title>
   </series>
