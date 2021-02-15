@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T04:30:04.698Z",
+  "lastUpdated": "2021-02-15T05:40:03.635Z",
   "series": [
     {
       "count": 18,
@@ -234,10 +234,10 @@
       "title": "Dining with the Chef"
     },
     {
-      "count": 117,
+      "count": 118,
       "uniqueId": "07d8499767117509",
-      "lastAiring": "2021-02-10T04:15:00.000Z",
-      "lastUpload": "2021-02-10T21:07:11.050Z",
+      "lastAiring": "2021-02-15T04:15:00.000Z",
+      "lastUpload": "2021-02-15T05:35:41.655Z",
       "seriesId": "2058",
       "title": "Direct Talk"
     },
@@ -272,6 +272,14 @@
       "lastUpload": "2021-01-30T00:07:29.511Z",
       "seriesId": "3004",
       "title": "Drainspotters"
+    },
+    {
+      "count": 1,
+      "uniqueId": "aac961759e0a69b9",
+      "lastAiring": "2021-02-13T23:56:00.000Z",
+      "lastUpload": "2021-02-15T05:39:55.758Z",
+      "seriesId": "3004",
+      "title": "Dranspotters #5 Nishikigoi"
     },
     {
       "count": 12,

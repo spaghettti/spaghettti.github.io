@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T04:30:04.513Z</lastUpdated>
+  <lastUpdated>2021-02-15T05:40:03.458Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1331,6 +1331,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-09T05:29:50.914Z</uploadedDate>
     <raw>https://mega.nz/folder/uwVngAZa#jz-iuFASQb-AdFVNnqD0Rg</raw>
+  </episode>
+  <episode>
+    <airingId>683</airingId>
+    <content/>
+    <description>Ogawa Yoko's novel "The Memory Police" was shortlisted for the prestigious International Booker Prize in 2020. What are the major themes and motifs that characterize her work?</description>
+    <endDate>2021-02-15T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/g01HjYRL#t2sOzLVTDuO5jZyLkekFyQ</link>
+    <recordDateEnd>2021-02-15T04:30:26.742Z</recordDateEnd>
+    <recordDateStart>2021-02-15T04:14:20.099Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>3dc90f12a3a5fda9c7003b76793c258bbb26f48d4b3fe3105ba07420702f202b</sha256>
+    <startDate>2021-02-15T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-15T05:35:41.655Z</uploadedDate>
   </episode>
   <episode>
     <airingId>684</airingId>
