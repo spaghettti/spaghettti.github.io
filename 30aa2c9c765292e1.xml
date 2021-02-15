@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T02:30:03.692Z</lastUpdated>
+  <lastUpdated>2021-02-15T02:40:03.325Z</lastUpdated>
   <seriesId>30aa2c9c765292e1</seriesId>
   <title>Inspiring Landscapes</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>Inspiring Landscapes</title>
     <uploadedDate>2020-12-25T02:55:59.897Z</uploadedDate>
     <raw>https://mega.nz/folder/W9dFwaiL#SfxcQAGDhRDOyvyeRfDeMg</raw>
+  </episode>
+  <episode>
+    <airingId>033</airingId>
+    <content/>
+    <description>Tatsukushi Bay is on the southern tip of Kochi Prefecture, close to Cape Ashizuri. We can witness the appearance of new lives in early spring in the sea of Tatsukushi around this time of the year.</description>
+    <endDate>2021-02-14T16:47:00.000Z</endDate>
+    <link>https://mega.nz/folder/fxVFTSRY#96UgypWL8aUmjbvJsh8hyg</link>
+    <recordDateEnd>2021-02-14T16:47:27.057Z</recordDateEnd>
+    <recordDateStart>2021-02-14T16:29:20.133Z</recordDateStart>
+    <seriesId>6206</seriesId>
+    <sha256>3c2ead57c422906b92372b488a7bdf01f3584d636f4eb39579f2c8a4d84d06be</sha256>
+    <startDate>2021-02-14T16:30:00.000Z</startDate>
+    <subtitle/>
+    <title>Inspiring Landscapes</title>
+    <uploadedDate>2021-02-15T02:39:56.320Z</uploadedDate>
   </episode>
   <episode>
     <airingId>036</airingId>
