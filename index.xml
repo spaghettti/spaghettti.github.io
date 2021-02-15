@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-15T09:05:03.321Z</lastUpdated>
+  <lastUpdated>2021-02-15T09:20:03.092Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -99,10 +99,10 @@
     <title>BENTO EXPO</title>
   </series>
   <series>
-    <count>17</count>
+    <count>18</count>
     <uniqueId>4365cf84c14911e8</uniqueId>
-    <lastAiring>2021-01-23T14:10:00.000Z</lastAiring>
-    <lastUpload>2021-01-23T15:36:53.809Z</lastUpload>
+    <lastAiring>2021-02-13T14:10:00.000Z</lastAiring>
+    <lastUpload>2021-02-15T09:15:49.209Z</lastUpload>
     <seriesId>2074,3004</seriesId>
     <title>BIZ STREAM</title>
   </series>

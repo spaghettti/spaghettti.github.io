@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T09:05:03.315Z</lastUpdated>
+  <lastUpdated>2021-02-15T09:20:03.082Z</lastUpdated>
   <seriesId>4365cf84c14911e8</seriesId>
   <title>BIZ STREAM</title>
   <episode>
@@ -150,6 +150,27 @@ A growing environmental awareness in Thailand is bringing change to the country'
     <title>BIZ STREAM</title>
     <uploadedDate>2021-01-23T15:36:53.809Z</uploadedDate>
     <raw>https://mega.nz/folder/Oy5wgTbT#wNbwmvve-9Z8Le4HdGLzEg</raw>
+  </episode>
+  <episode>
+    <airingId>093</airingId>
+    <content>[On-Site Report]
+Wearable devices are now expanding into safety and healthcare applications. A Kyoto-based company has created undershirts that can measure and display core body temperature, pulse and other biometric data. Construction businesses are using them to help prevent heat exhaustion and other health risks by monitoring their workers' biometric data and as Japan's elderly population increases, some local governments are using the technology to keep an eye on the health of senior citizens.
+[In Depth: Tesla's Bet Boost for Bitcoin]
+The world's richest person Elon Musk has taken a step to endorse bitcoin. Cryptocurrencies have faced years of skepticism, but we look into how they are gaining acceptance as a mainstream method of payment.
+[Global Trends: Hydrogen Race Car Set to Take Lead]
+The organizers of 24 Hours of Le Mans will open the race to fuel-cell cars in 2024, and are even developing a hydrogen-powered racing car. We look at how the project is pushing forward fuel-cell technology.</content>
+    <description>A unique type of wearable device that can monitor various types of biometric data is now being used to protect workers from heat stroke and to keep watch over the elderly.</description>
+    <endDate>2021-02-13T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/xEYB2YhB#L0jrES4MrxAClBeTrJb49Q</link>
+    <recordDateEnd>2021-02-13T14:40:33.722Z</recordDateEnd>
+    <recordDateStart>2021-02-13T14:09:20.103Z</recordDateStart>
+    <seriesId>2074</seriesId>
+    <sha256>1d36d408b484b40d023f4a8ef30bd064d13cc8544859c126381ba3ea98f01d2a</sha256>
+    <startDate>2021-02-13T14:10:00.000Z</startDate>
+    <subtitle>Wearables Tackle Health and Safety</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2021-02-15T09:15:49.209Z</uploadedDate>
+    <raw>https://mega.nz/folder/810k2ADJ#l_VnFpsb5i6TVDvo1kUaDg</raw>
   </episode>
   <episode>
     <airingId>704</airingId>
