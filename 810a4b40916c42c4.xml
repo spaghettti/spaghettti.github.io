@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T18:55:03.948Z</lastUpdated>
+  <lastUpdated>2021-02-15T19:20:03.240Z</lastUpdated>
   <seriesId>810a4b40916c42c4</seriesId>
   <title>Hometown Stories</title>
   <episode>
@@ -131,6 +131,22 @@
     <title>Hometown Stories</title>
     <uploadedDate>2021-01-19T06:27:41.047Z</uploadedDate>
     <raw>https://mega.nz/folder/XQVjnYJY#UOLHakN4sQ4UrYNtwGRmYw</raw>
+  </episode>
+  <episode>
+    <airingId>159</airingId>
+    <content>Yamazaki Takashi runs Bethesda, a support center in Hokkaido Prefecture for people in need. Amid the COVID-19 pandemic, he has noticed a trend -- more people in white-collar jobs are in dire straits. Bethesda's late founder, Manabe Chikako, began the nonprofit in 2009 to save as many lives as possible. Takashi continues that mission, providing a safe haven with 3 free meals a day, so people can make a fresh start. We follow Takashi for 5 months as he works to help residents, and receives shocking news about the founder's son.</content>
+    <description>Fallout from the COVID-19 pandemic has hit even white-collar workers. For people out of work or left homeless, there's a safe haven - Bethesda, a support center that helps them get back on their feet.</description>
+    <endDate>2021-02-07T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/tQZVjQgS#2Mc7rb9ktepuOW1qojRHBQ</link>
+    <recordDateEnd>2021-02-07T00:45:29.921Z</recordDateEnd>
+    <recordDateStart>2021-02-07T00:09:20.071Z</recordDateStart>
+    <seriesId>5003</seriesId>
+    <sha256>cb0da96d8a7fa304402447d60be3be4815e28deeb631653ff7019cabcdc1b0cb</sha256>
+    <startDate>2021-02-07T00:10:00.000Z</startDate>
+    <subtitle>A Haven Called Bethesda</subtitle>
+    <title>Hometown Stories</title>
+    <uploadedDate>2021-02-15T19:17:20.653Z</uploadedDate>
+    <raw>https://mega.nz/folder/k9FxGC4Y#rz-tTJcZXM-hriESLrt38A</raw>
   </episode>
   <episode>
     <airingId>160</airingId>
