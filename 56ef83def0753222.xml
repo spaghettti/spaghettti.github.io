@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T23:40:03.820Z</lastUpdated>
+  <lastUpdated>2021-02-15T23:45:04.472Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -198,6 +198,22 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <raw>https://mega.nz/folder/W6oSGLIY#uFm6_cGOCpLgpw_GozCvuw</raw>
   </episode>
   <episode>
+    <airingId>385</airingId>
+    <content>How far will COVID-19 spread before it subsides? An artificial intelligence system developed by NHK analyzed more than 200,000 scholarly articles to answer some pressing questions: how many more people will get infected this winter, why does the number of deaths differ from country to country, when will the pandemic begin to slow down, and what is the key to stopping this deadly disease? Learn some of the most effective ways to fend off the virus and hasten our return to normal life.</content>
+    <description>Recent COVID-19 research debunks the myth that it's not much worse than a cold and underscores the power of masks. Learn some effective ways to fend off the virus and hasten a return to normal life.</description>
+    <endDate>2021-02-06T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/v0syyICJ#EvcrWfEK49yioPUuRIOUyA</link>
+    <recordDateEnd>2021-02-06T16:00:26.704Z</recordDateEnd>
+    <recordDateStart>2021-02-06T15:09:23.008Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>642a0212304a5ae900f2ef0f00370e6fa6fdacbb62b47195a7b1fbd9bb589f78</sha256>
+    <startDate>2021-02-06T15:10:00.000Z</startDate>
+    <subtitle>COVID-19: AI Decodes the Research</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2021-02-15T23:44:01.921Z</uploadedDate>
+    <raw>https://mega.nz/folder/RMhC0IBS#QmeUM0gHk9fJZ43CbURoFw</raw>
+  </episode>
+  <episode>
     <airingId>386</airingId>
     <content>How far can a human go to adapt? Tatyana McFadden of the United States is a wheelchair athlete who was born paralyzed from the waist down. She is already a legendary figure in para track and field who has won major events at all distances. In order to understand the secrets of her almost superhuman dominance, we did a scientific analysis of her body. What gives her speed in her wheelchair is not just raw strength, but also her exceptional command of her arms. She has this power because of remarkable adaptations within her body. To explore this further, we went to Russia, where McFadden spent her early childhood, and discovered that the first years of her life were unimaginably harsh. Born without certain physical abilities, she adapted ... and a "miracle body" was born. At the difficult time with the coronavirus, we offer this story about the wondrous potential of the human body to overcome seemingly impossible odds.</content>
     <description>Tatyana McFadden is a Paralympian who has won multiple gold medals competing in marathons and more. We see how her brain rewired itself to achieve such feats in a phenomenon called hyper-adaptability.</description>
@@ -211,6 +227,6 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <subtitle>Breaking Limits With Hyper-Adaptability</subtitle>
     <title>NHK Documentary</title>
     <uploadedDate>2021-02-15T08:35:48.793Z</uploadedDate>
-    <raw>https://mega.nz/folder/4hs2jLLJ#PHAR-RYzTAiFFymQbxpq1A</raw>
+    <raw>https://mega.nz/folder/w1UTEATI#VnTWS9iQBXlJG_JL0DmL_Q</raw>
   </episode>
 </episodeList>
