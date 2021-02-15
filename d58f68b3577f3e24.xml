@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T20:00:03.994Z</lastUpdated>
+  <lastUpdated>2021-02-15T20:15:04.569Z</lastUpdated>
   <seriesId>d58f68b3577f3e24</seriesId>
   <title>BEGIN Japanology mini</title>
   <episode>
@@ -211,6 +211,21 @@
     <title>BEGIN Japanology mini</title>
     <uploadedDate>2020-12-26T08:08:17.080Z</uploadedDate>
     <raw>https://mega.nz/folder/lYFnUaAQ#3iVchUMb-lhjHlvR-JCTvA</raw>
+  </episode>
+  <episode>
+    <airingId>022</airingId>
+    <content/>
+    <description>Trivia on aspects of Japan's unique culture and products that reflect the aesthetic sense and values of the Japanese people. Today: Hina Dolls.</description>
+    <endDate>2021-02-06T07:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/25wyjDDD#N_t53aMdMDu4lF3zCe7iZw</link>
+    <recordDateEnd>2021-02-06T07:00:30.582Z</recordDateEnd>
+    <recordDateStart>2021-02-06T06:54:20.079Z</recordDateStart>
+    <seriesId>6001</seriesId>
+    <sha256>ef63f18f3b87218e228887a6267b51abf96285ad41c66c46dd670cf062bf13a1</sha256>
+    <startDate>2021-02-06T06:55:00.000Z</startDate>
+    <subtitle/>
+    <title>BEGIN Japanology mini</title>
+    <uploadedDate>2021-02-15T20:13:38.739Z</uploadedDate>
   </episode>
   <episode>
     <airingId>026</airingId>
