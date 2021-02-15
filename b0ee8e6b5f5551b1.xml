@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T15:15:04.315Z</lastUpdated>
+  <lastUpdated>2021-02-15T15:30:03.527Z</lastUpdated>
   <seriesId>b0ee8e6b5f5551b1</seriesId>
   <title>Spirit of Resilience</title>
   <episode>
@@ -131,6 +131,22 @@
     <title>Spirit of Resilience</title>
     <uploadedDate>2021-01-31T08:50:17.863Z</uploadedDate>
     <raw>https://mega.nz/folder/UbYxjaCY#XZaeqUo4Mykmw9WxGFf6gQ</raw>
+  </episode>
+  <episode>
+    <airingId>471</airingId>
+    <content/>
+    <description>The Big Little World of Tanaka Tatsuya: Documents Tanaka Tatsuya, an artist who creates unique, playful dioramas using food and everyday objects that have earned him millions of fans around the world.</description>
+    <endDate>2021-02-11T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/34E0SRAY#p4LaHzQLfhQp8AQbvY_igw</link>
+    <recordDateEnd>2021-02-11T02:00:35.562Z</recordDateEnd>
+    <recordDateStart>2021-02-11T01:29:20.091Z</recordDateStart>
+    <seriesId>7000</seriesId>
+    <sha256>13a5ad0eae670db4c5c3fa7271cecf2f6efbbebce0fa5fdf1fda19a0cf369e40</sha256>
+    <startDate>2021-02-11T01:30:00.000Z</startDate>
+    <subtitle>The Big Little World of Tanaka Tatsuya</subtitle>
+    <title>Spirit of Resilience</title>
+    <uploadedDate>2021-02-15T15:25:20.607Z</uploadedDate>
+    <raw>https://mega.nz/folder/8otEBZxS#vnfmJMCR8SMkBFbsMlA_wQ</raw>
   </episode>
   <episode>
     <airingId>472</airingId>

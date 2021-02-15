@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T15:15:04.332Z",
+  "lastUpdated": "2021-02-15T15:30:03.546Z",
   "series": [
     {
       "count": 18,
@@ -146,10 +146,10 @@
       "title": "COOL JAPAN"
     },
     {
-      "count": 24,
+      "count": 25,
       "uniqueId": "67d2ae7ac69fb919",
-      "lastAiring": "2021-02-08T14:30:00.000Z",
-      "lastUpload": "2021-02-09T06:20:17.495Z",
+      "lastAiring": "2021-02-10T23:30:00.000Z",
+      "lastUpload": "2021-02-15T15:28:14.695Z",
       "seriesId": "2029",
       "title": "Core Kyoto"
     },
@@ -834,10 +834,10 @@
       "title": "SONGS OF TOKYO"
     },
     {
-      "count": 9,
+      "count": 10,
       "uniqueId": "b0ee8e6b5f5551b1",
       "lastAiring": "2021-02-11T23:30:00.000Z",
-      "lastUpload": "2021-02-15T13:21:06.727Z",
+      "lastUpload": "2021-02-15T15:25:20.607Z",
       "seriesId": "7000",
       "title": "Spirit of Resilience"
     },

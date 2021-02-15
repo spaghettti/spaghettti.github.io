@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T15:15:04.128Z</lastUpdated>
+  <lastUpdated>2021-02-15T15:30:03.334Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -179,6 +179,21 @@
     <title>Core Kyoto</title>
     <uploadedDate>2021-02-09T06:20:17.495Z</uploadedDate>
     <raw>https://mega.nz/folder/09oQzRKL#qHFviVTNLT_qLr3HOZqFhw</raw>
+  </episode>
+  <episode>
+    <airingId>064</airingId>
+    <content>Traditional woodblock prints in the ancient capital have a strong, distinct history. Their origins lie in the woodblock printing of Buddhist scriptures. Compared to the mass production of ukiyo-e prints that were popular with Edo (now Tokyo) residents, woodblock printers in Kyoto were more focused on quality over quantity, creating delicate, soft expressions of art with their honed skills. Discover the subtle, elaborate beauty through the expertise of the 3 artists involved in process.</content>
+    <description>Today: Woodblock Prints, beauty in the hands of a trinity of artists. The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive program.</description>
+    <endDate>2021-02-11T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/GFVyjRiB#cNfpY6ZvD1zMnBtrdmi2yA</link>
+    <recordDateEnd>2021-02-11T00:00:30.361Z</recordDateEnd>
+    <recordDateStart>2021-02-10T23:29:20.060Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>ade3a7b67844b154ed5580b7bc9c3ea6394987cdf10b6aa14272daee1040dfcd</sha256>
+    <startDate>2021-02-10T23:30:00.000Z</startDate>
+    <subtitle>Woodblock Prints: Beauty in the Hands of a Trinity of Artists</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-02-15T15:28:14.695Z</uploadedDate>
   </episode>
   <episode>
     <airingId>077</airingId>
