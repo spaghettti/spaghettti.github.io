@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T13:40:03.620Z</lastUpdated>
+  <lastUpdated>2021-02-15T14:00:04.223Z</lastUpdated>
   <seriesId>945d35e844a7ed5b</seriesId>
   <title>Moonlit Nights - Superb Scenes of Japan</title>
   <episode>
@@ -19,5 +19,20 @@
     <title>Moonlit Nights - Superb Scenes of Japan -</title>
     <uploadedDate>2020-12-24T20:33:37.031Z</uploadedDate>
     <raw>https://mega.nz/folder/T1lXzITC#GFlBR5xE_FI17xeqy0-mFQ</raw>
+  </episode>
+  <episode>
+    <airingId>424</airingId>
+    <content/>
+    <description>What do cuisine, art, and romance have in common in Japan? They are all used to show love for the moon. See for yourself how Japanese people play with the moon in this intriguing program.</description>
+    <endDate>2021-02-11T03:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/z4smBRhB#GLna3rTtCR1HN5XSkNfecg</link>
+    <recordDateEnd>2021-02-11T03:30:29.166Z</recordDateEnd>
+    <recordDateStart>2021-02-11T03:09:20.099Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>5056c0a2cd1a914602ea42db8a0b9bacaf6504759b4f9c81c3d9712bf54619c3</sha256>
+    <startDate>2021-02-11T03:10:00.000Z</startDate>
+    <subtitle>Playing with the Moon</subtitle>
+    <title>Moonlit Nights - Superb Scenes of Japan -</title>
+    <uploadedDate>2021-02-15T13:55:20.333Z</uploadedDate>
   </episode>
 </episodeList>
