@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T05:55:03.690Z",
+  "lastUpdated": "2021-02-15T06:00:04.072Z",
   "seriesId": "5003",
   "title": "Hometown Stories",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Hometown Stories",
       "uploadedDate": "2021-01-19T06:27:41.047Z",
       "raw": "https://mega.nz/folder/XQVjnYJY#UOLHakN4sQ4UrYNtwGRmYw"
+    },
+    {
+      "airingId": "160",
+      "content": "Nagano Haruki and Okuda Sho, 17-year-old high-school boys in central Japan, have been writing to each other about once every 2 weeks since 2017. It started when Haruki developed a hard-to-cure eye condition and transferred to a school for visually impaired students. Separated from his best friend, Sho wrote a letter to Haruki so they could stay connected. Now, they both have smartphones, and send text messages to their other friends, but the 2 boys communicate exclusively by letter. We wanted to know why.",
+      "description": "Despite having smartphones, 17-year-old high-school boys Nagano Haruki and Okuda Sho stay connected by exchanging letters. In this digital age, why do they choose to communicate like this?",
+      "endDate": "2021-02-14T00:40:00.000Z",
+      "link": "https://mega.nz/folder/YlNFGCSZ#vcfGkxD7R1tudLHf_N2WFg",
+      "recordDateEnd": "2021-02-14T00:40:29.182Z",
+      "recordDateStart": "2021-02-14T00:09:20.101Z",
+      "seriesId": "5003",
+      "sha256": "548c7833c1e3bce22eaf2a9f56b0666cbccc8dc76fc44fe2d7387d83cb65b090",
+      "startDate": "2021-02-14T00:10:00.000Z",
+      "subtitle": "Analog Buddies in a Digital Age",
+      "title": "Hometown Stories",
+      "uploadedDate": "2021-02-15T05:57:32.702Z"
     }
   ]
 }
