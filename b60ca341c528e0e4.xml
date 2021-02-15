@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T06:30:03.958Z</lastUpdated>
+  <lastUpdated>2021-02-15T06:55:03.036Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -195,5 +195,20 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-01-31T08:00:30.923Z</uploadedDate>
     <raw>https://mega.nz/folder/BUQQ1LAC#pXh3SLcQzdQ4tqO_FglNVA</raw>
+  </episode>
+  <episode>
+    <airingId>044</airingId>
+    <content/>
+    <description>#44 I've heard he's giving another recital. / To tell someone what you heard from someone else, use adjectives or verbs without "masu" or "desu," then add "soo desu."</description>
+    <endDate>2021-02-13T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/U0kCkZ6J#itYFcnryz3bhFKY0TDb1PA</link>
+    <recordDateEnd>2021-02-13T05:00:23.722Z</recordDateEnd>
+    <recordDateStart>2021-02-13T04:54:25.628Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>7d86fc1b3e3c9f66bbc0000b6cd1c840235a48bf701c4c755102c9bc06fd9d42</sha256>
+    <startDate>2021-02-13T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-02-15T06:51:03.383Z</uploadedDate>
   </episode>
 </episodeList>

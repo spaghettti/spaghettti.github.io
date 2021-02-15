@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T06:30:03.960Z",
+  "lastUpdated": "2021-02-15T06:55:03.037Z",
   "seriesId": "6022",
   "title": "Easy Japanese",
   "episodes": [
@@ -194,6 +194,21 @@
       "title": "Easy Japanese",
       "uploadedDate": "2021-01-31T08:00:30.923Z",
       "raw": "https://mega.nz/folder/BUQQ1LAC#pXh3SLcQzdQ4tqO_FglNVA"
+    },
+    {
+      "airingId": "044",
+      "content": "",
+      "description": "#44 I've heard he's giving another recital. / To tell someone what you heard from someone else, use adjectives or verbs without \"masu\" or \"desu,\" then add \"soo desu.\"",
+      "endDate": "2021-02-13T05:00:00.000Z",
+      "link": "https://mega.nz/folder/U0kCkZ6J#itYFcnryz3bhFKY0TDb1PA",
+      "recordDateEnd": "2021-02-13T05:00:23.722Z",
+      "recordDateStart": "2021-02-13T04:54:25.628Z",
+      "seriesId": "6022",
+      "sha256": "7d86fc1b3e3c9f66bbc0000b6cd1c840235a48bf701c4c755102c9bc06fd9d42",
+      "startDate": "2021-02-13T04:55:00.000Z",
+      "subtitle": "",
+      "title": "Easy Japanese",
+      "uploadedDate": "2021-02-15T06:51:03.383Z"
     }
   ]
 }
