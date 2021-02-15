@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T08:05:03.804Z",
+  "lastUpdated": "2021-02-15T08:15:03.681Z",
   "seriesId": "2066",
   "title": "CYCLE AROUND JAPAN",
   "episodes": [
@@ -34,6 +34,22 @@
       "title": "CYCLE AROUND JAPAN",
       "uploadedDate": "2021-01-19T09:07:51.863Z",
       "raw": "https://mega.nz/folder/3xl21LpQ#FUaQs29_FXHo4Y9DqI-nJg"
+    },
+    {
+      "airingId": "039",
+      "content": "The mountain ranges known as the Japanese Alps are a spectacular backdrop to our ride across Nagano Prefecture, its forests glowing with the late autumn colors. With many 3,000m peaks, Nagano is popular with climbers and we're given a brief taste by a world-class mountain guide. We'll meet people drawn to live here by the forests, including a man who left a top cabinet making career in Tokyo to craft uniquely distinctive furniture from these wild trees, and a group of friends who devote their spare time to caring for the woods.",
+      "description": "A 320-km ride through Nagano, with its magnificent mountain scenery and forests bright with late autumn colors, meeting some distinctive characters drawn to live here by their love of nature.",
+      "endDate": "2021-02-13T07:00:00.000Z",
+      "link": "https://mega.nz/folder/yw4k2LYS#aJpDTqT3wIwaBGyeaAKLeQ",
+      "recordDateEnd": "2021-02-13T07:00:28.287Z",
+      "recordDateStart": "2021-02-13T06:09:20.099Z",
+      "seriesId": "2066",
+      "sha256": "f377902243132495f92ea5a0403f52061564063105b06256a7887ddc533b3224",
+      "startDate": "2021-02-13T06:10:00.000Z",
+      "subtitle": "Nagano - Life in the Mountains",
+      "title": "CYCLE AROUND JAPAN",
+      "uploadedDate": "2021-02-15T08:13:23.598Z",
+      "raw": "https://mega.nz/folder/lAxSTR5B#zVeiU5IBlEK58oJSZCom6w"
     }
   ]
 }
