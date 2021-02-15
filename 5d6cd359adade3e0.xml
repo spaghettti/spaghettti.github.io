@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-15T15:55:03.949Z</lastUpdated>
+  <lastUpdated>2021-02-15T16:05:03.896Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
   <episode>
@@ -195,6 +195,22 @@
     <title>Doki Doki! NHK WORLD-JAPAN</title>
     <uploadedDate>2021-01-31T12:25:11.116Z</uploadedDate>
     <raw>https://mega.nz/folder/f2wwTAoa#9BBSQQmVVtvvJrzXOCh-AQ</raw>
+  </episode>
+  <episode>
+    <airingId>078</airingId>
+    <content/>
+    <description>This time we introduce "Core Kyoto," which shows "Kimono Revolution." A new wave is weaving global tastes into orthodox fabrics, coordinate with western-style and employ different fields' materials.</description>
+    <endDate>2021-02-07T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/98UGmRgK#NiEjZe-QjG69cBBeTQ5New</link>
+    <recordDateEnd>2021-02-07T11:55:30.844Z</recordDateEnd>
+    <recordDateStart>2021-02-07T11:49:20.101Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>b9689355cc1b1499933b9377efb0fa4da0cfd5108513b2a45a0d72d9ffe8d4a8</sha256>
+    <startDate>2021-02-07T11:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2021-02-15T16:04:04.543Z</uploadedDate>
+    <raw>https://mega.nz/folder/MkNCEBDC#MEhVfbagi2N5f762opR74A</raw>
   </episode>
   <episode>
     <airingId>079</airingId>
