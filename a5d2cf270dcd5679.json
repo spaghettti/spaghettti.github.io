@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-15T18:20:03.919Z",
+  "lastUpdated": "2021-02-15T18:55:03.845Z",
   "seriesId": "2050",
   "title": "Medical Frontiers",
   "episodes": [
@@ -146,6 +146,22 @@
       "title": "Medical Frontiers",
       "uploadedDate": "2021-01-25T17:05:40.898Z",
       "raw": "https://mega.nz/folder/ENIxVajI#dq7fBwOiFZRzI9PODQ_Tgw"
+    },
+    {
+      "airingId": "104",
+      "content": "An Egyptian doctor wrote to the program. He is currently in Japan studying a new medical technique called mechanotherapy, which treats scars and makes them virtually unnoticeable. It involves dispersing the force applied to scars considered difficult to treat, such as keloids. Efforts are also being made to help patients who have suffered psychological damage as a result of their scars by teaching them a special makeup method.",
+      "description": "Red, swollen scars resulting from surgery or burns can have a major impact, both physically and psychologically. We focus on a new medical field called mechanotherapy, which treats such scars.",
+      "endDate": "2021-02-15T16:00:00.000Z",
+      "link": "https://mega.nz/folder/iUVnxazJ#Sj8hriZqOP853hLKzLYIjA",
+      "recordDateEnd": "2021-02-15T16:00:30.127Z",
+      "recordDateStart": "2021-02-15T15:29:22.795Z",
+      "seriesId": "2050",
+      "sha256": "bcc24d6ace82615083b9e43c43961e71d99058499e105a283f5a4a0359d30fba",
+      "startDate": "2021-02-15T15:30:00.000Z",
+      "subtitle": "Treating Scars with Mechanotherapy",
+      "title": "Medical Frontiers",
+      "uploadedDate": "2021-02-15T18:50:46.338Z",
+      "raw": "https://mega.nz/folder/iZEXnK4I#hZi7x1XxJdIsYwVfLkvd8w"
     }
   ]
 }
