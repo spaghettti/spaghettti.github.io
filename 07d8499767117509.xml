@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-16T05:45:03.515Z</lastUpdated>
+  <lastUpdated>2021-02-16T05:50:03.032Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1395,6 +1395,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-15T10:43:42.483Z</uploadedDate>
     <raw>https://mega.nz/folder/ywE2nDqJ#JtGp2IjWXoIS8_iD6o4Few</raw>
+  </episode>
+  <episode>
+    <airingId>687</airingId>
+    <content/>
+    <description>For three long decades, Vosot Ikeida has been a hikikomori, locking himself in his room and avoiding human contact. Now, he wants to do something about it. His answer? Communication and connection.</description>
+    <endDate>2021-02-16T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/1RYCxDBZ#hdaEjMBhXblxtvt1wFr2og</link>
+    <recordDateEnd>2021-02-16T04:30:30.379Z</recordDateEnd>
+    <recordDateStart>2021-02-16T04:14:20.100Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>1a797c8119e552e4aecc6e01561641ae4b68340fa2bf34cb4808552a37f25261</sha256>
+    <startDate>2021-02-16T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-16T05:47:57.897Z</uploadedDate>
   </episode>
   <episode>
     <airingId>693</airingId>
