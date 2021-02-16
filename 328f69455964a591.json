@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-16T05:25:03.838Z",
+  "lastUpdated": "2021-02-16T05:45:03.559Z",
   "seriesId": "2086",
   "title": "Doctor's Insight",
   "episodes": [
@@ -114,6 +114,22 @@
       "title": "Doctor's Insight",
       "uploadedDate": "2021-02-09T05:18:07.321Z",
       "raw": "https://mega.nz/folder/MaYUzLSZ#uSRb3d8xQ4wcXSQI6uVEGw"
+    },
+    {
+      "airingId": "015",
+      "content": "Have you experienced problems with your eyesight? Do objects appear distorted? Is there a blind spot in the center of your field of view? They may be signs of a retinal disease called \"age-related macular degeneration\" or AMD. AMD is the leading cause of blindness in the US and in Europe. In Japan, it is the 4th leading cause, but the number of cases is rising. What is AMD? Find out about the different types of AMD and how to perform a self-test for this eye disease.",
+      "description": "Have you ever heard of \"age-related macular degeneration\" or AMD? It's the leading cause of blindness in the US and in Europe. Learn about the different types of AMD and how to perform a self-test.",
+      "endDate": "2021-02-16T04:55:00.000Z",
+      "link": "https://mega.nz/folder/LxZUADLD#2MwikehLTc8PFsLWPPhFbw",
+      "recordDateEnd": "2021-02-16T04:55:23.960Z",
+      "recordDateStart": "2021-02-16T04:44:22.431Z",
+      "seriesId": "2086",
+      "sha256": "fe9d81bc3aaddea15606f3466858a1b8aa647a5127985891457dd3c711f40b95",
+      "startDate": "2021-02-16T04:45:00.000Z",
+      "subtitle": "Eye Diseases #4: Age-related Macular Degeneration",
+      "title": "Doctor's Insight",
+      "uploadedDate": "2021-02-16T05:41:49.019Z",
+      "raw": "https://mega.nz/folder/59VE3T6R#gvixixrAxwW6agJhBH69Yg"
     },
     {
       "airingId": "016",
