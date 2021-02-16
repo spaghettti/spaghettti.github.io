@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-16T01:20:03.213Z</lastUpdated>
+  <lastUpdated>2021-02-16T01:30:04.447Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
   <episode>
@@ -99,6 +99,21 @@
     <title>NHK WORLD PRIME</title>
     <uploadedDate>2021-01-13T16:44:50.465Z</uploadedDate>
     <raw>https://mega.nz/folder/0MMXjIyK#stiRYwTeK1h05ji6bgcooQ</raw>
+  </episode>
+  <episode>
+    <airingId>081</airingId>
+    <content>Using the latest AI technology, can we defeat our "invisible enemy," the novel coronavirus that causes COVID-19? It was AI that first detected and warned about the infection outbreak, a homepage uses AI to collect and display the latest infection data, and 4 million AI experts are cooperating in a huge online project... In the first part, we report on how researchers on the frontline of the pandemic battlefield are fighting against the explosion of infections with the help of AI.</content>
+    <description>Part1: AI vs. Pandemic. Using the latest AI technology, how close can we get to defeating our "invisible enemy" that causes COVID-19? Researchers on the pandemic battlefield provide answers.</description>
+    <endDate>2021-02-06T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/XVVVVS4B#FRVd-RRV4-u-kb6Y--hEyg</link>
+    <recordDateEnd>2021-02-06T02:00:35.444Z</recordDateEnd>
+    <recordDateStart>2021-02-06T01:09:22.772Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>aced6bd04bb72d4ce58ddbdb2ce3445370c083d6ba87dbc923abf95d7d6251f6</sha256>
+    <startDate>2021-02-06T01:10:00.000Z</startDate>
+    <subtitle>AI vs Pandemic: Part 1</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2021-02-16T01:29:48.919Z</uploadedDate>
   </episode>
   <episode>
     <airingId>082</airingId>
