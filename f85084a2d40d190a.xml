@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-16T05:50:03.073Z</lastUpdated>
+  <lastUpdated>2021-02-16T05:55:03.162Z</lastUpdated>
   <seriesId>f85084a2d40d190a</seriesId>
   <title>DEEPER LOOK from New York</title>
   <episode>
@@ -163,5 +163,20 @@
     <title>DEEPER LOOK from New York</title>
     <uploadedDate>2021-02-09T07:21:29.001Z</uploadedDate>
     <raw>https://mega.nz/folder/dhJAADoY#gsVqCAPqlrU2hUl_eaiGTA</raw>
+  </episode>
+  <episode>
+    <airingId>026</airingId>
+    <content>President Biden faces many foreign policy challenges. During Donald Trump's term, the U.S. pulled out from an array of international accords and institutions. While Biden proclaims, "America is back," it may take years to regain the world's trust. And just 10-days after the inauguration, Myanmar's military led a coup, potentially shifting power in the region and strengthening China's influence. We asked former NSC member Charles Kupchan how the Biden administration will shape their foreign policy.</content>
+    <description>An experienced anchor Del Irani has a cutting-edge dialogue. Today, Charles Kupchan, Professor at Georgetown University talks about US foreign policy especially on China and Asian situation.</description>
+    <endDate>2021-02-16T04:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/oJAymZoS#Flxh8_AeC8bjxDxpFbHMHw</link>
+    <recordDateEnd>2021-02-16T04:45:28.283Z</recordDateEnd>
+    <recordDateStart>2021-02-16T04:29:20.012Z</recordDateStart>
+    <seriesId>2085</seriesId>
+    <sha256>24016703bdde5ca35129d078942ec331b8de8640b5cd2d79de5930d3b760f854</sha256>
+    <startDate>2021-02-16T04:30:00.000Z</startDate>
+    <subtitle>President Biden's Foreign Policy Challenges: Charles Kupchan / Professor of International Affairs, Georgetown University</subtitle>
+    <title>DEEPER LOOK from New York</title>
+    <uploadedDate>2021-02-16T05:50:25.847Z</uploadedDate>
   </episode>
 </episodeList>
