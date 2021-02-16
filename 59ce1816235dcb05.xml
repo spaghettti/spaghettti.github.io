@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-16T04:40:03.700Z</lastUpdated>
+  <lastUpdated>2021-02-16T05:15:03.581Z</lastUpdated>
   <seriesId>59ce1816235dcb05</seriesId>
   <title>KABUKI KOOL</title>
   <episode>
@@ -99,5 +99,21 @@
     <title>KABUKI KOOL</title>
     <uploadedDate>2021-01-06T09:03:44.468Z</uploadedDate>
     <raw>https://mega.nz/folder/1YUikZTD#2HEIHiFsu13vpwfX8Rb_Lw</raw>
+  </episode>
+  <episode>
+    <airingId>070</airingId>
+    <content>A family tragedy when in a civil war, 2 brothers, both brilliant strategists, fight on opposing sides. Moritsuna worries about his younger brother, culminating in having to identify his brother's head. The tense scene when Moritsuna must examine his brother's head.</content>
+    <description>This is a family tragedy during a civil war where two brothers fight on opposing sides, both brilliant strategists. The story takes place against the real historical background.</description>
+    <endDate>2021-02-03T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/4x0ijTja#Vcjigfd_T1clP0cGlP6pJw</link>
+    <recordDateEnd>2021-02-03T05:00:22.756Z</recordDateEnd>
+    <recordDateStart>2021-02-03T04:29:23.355Z</recordDateStart>
+    <seriesId>2035</seriesId>
+    <sha256>4063e7a4995174655b048e72aba34641ff32da3a5999f1822aca4b5fef3a40fb</sha256>
+    <startDate>2021-02-03T04:30:00.000Z</startDate>
+    <subtitle>Moritsuna's Battle Camp</subtitle>
+    <title>KABUKI KOOL</title>
+    <uploadedDate>2021-02-16T05:11:10.998Z</uploadedDate>
+    <raw>https://mega.nz/folder/tAESBRCT#qMEVwEnkZ7obKDv6WqqGpw</raw>
   </episode>
 </episodeList>
