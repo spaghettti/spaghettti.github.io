@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-16T00:05:03.515Z",
+  "lastUpdated": "2021-02-16T00:15:04.231Z",
   "seriesId": "6026",
   "title": "no art, no life",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "no art, no life",
       "uploadedDate": "2021-01-30T04:22:40.536Z",
       "raw": "https://mega.nz/folder/Wi4hDIpA#rumhZNMpkvW22mFCuKaZWQ"
+    },
+    {
+      "airingId": "011",
+      "content": "",
+      "description": "Outsider artists like Kazuyuki Nishimura are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.",
+      "endDate": "2021-02-06T02:55:00.000Z",
+      "link": "https://mega.nz/folder/g90S3C5D#edSAi1M1OGZXPh7T5-9Uwg",
+      "recordDateEnd": "2021-02-06T02:55:22.563Z",
+      "recordDateStart": "2021-02-06T02:49:23.023Z",
+      "seriesId": "6026",
+      "sha256": "0f83cd134d59dd6cd0c6d9fac78bbd1e06d9ce7bbd7c221162c5dbed4ac69395",
+      "startDate": "2021-02-06T02:50:00.000Z",
+      "subtitle": "",
+      "title": "no art, no life",
+      "uploadedDate": "2021-02-16T00:12:17.588Z"
     },
     {
       "airingId": "012",

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-16T00:05:03.514Z</lastUpdated>
+  <lastUpdated>2021-02-16T00:15:04.230Z</lastUpdated>
   <seriesId>da2ed3151c7e82e4</seriesId>
   <title>no art, no life</title>
   <episode>
@@ -67,6 +67,21 @@
     <title>no art, no life</title>
     <uploadedDate>2021-01-30T04:22:40.536Z</uploadedDate>
     <raw>https://mega.nz/folder/Wi4hDIpA#rumhZNMpkvW22mFCuKaZWQ</raw>
+  </episode>
+  <episode>
+    <airingId>011</airingId>
+    <content/>
+    <description>Outsider artists like Kazuyuki Nishimura are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.</description>
+    <endDate>2021-02-06T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/g90S3C5D#edSAi1M1OGZXPh7T5-9Uwg</link>
+    <recordDateEnd>2021-02-06T02:55:22.563Z</recordDateEnd>
+    <recordDateStart>2021-02-06T02:49:23.023Z</recordDateStart>
+    <seriesId>6026</seriesId>
+    <sha256>0f83cd134d59dd6cd0c6d9fac78bbd1e06d9ce7bbd7c221162c5dbed4ac69395</sha256>
+    <startDate>2021-02-06T02:50:00.000Z</startDate>
+    <subtitle/>
+    <title>no art, no life</title>
+    <uploadedDate>2021-02-16T00:12:17.588Z</uploadedDate>
   </episode>
   <episode>
     <airingId>012</airingId>
