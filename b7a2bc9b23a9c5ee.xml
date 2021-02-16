@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-16T01:30:04.266Z</lastUpdated>
+  <lastUpdated>2021-02-16T03:40:02.877Z</lastUpdated>
   <seriesId>b7a2bc9b23a9c5ee</seriesId>
   <title>Journeys in Japan</title>
   <episode>
@@ -195,5 +195,20 @@
     <title>Journeys in Japan</title>
     <uploadedDate>2021-02-09T05:52:00.390Z</uploadedDate>
     <raw>https://mega.nz/folder/nllCDbRK#oaCzq_zUYcl1LAPmYDX78Q</raw>
+  </episode>
+  <episode>
+    <airingId>433</airingId>
+    <content>Moji, just over 800 kilometers west of Tokyo, is on the northernmost tip of Kyushu. Facing the Kanmon Strait -- an easy access route for Japan's main island and mainland Asia -- Moji prospered as a major sea transportation post from the Meiji to early Showa periods. Businesses catering to the port visitors, including foreigners, cropped up. And much of the Western-style architecture of the time has been preserved. On Journeys in Japan, Winnie Tsu strolls around the old port town, tracing its legacy.</content>
+    <description>Taiwanese Winnie Tsu takes a stroll through Moji in Kita-Kyushu, a port city that flourished from the late 19th century to the early 20th century, where she traces its cosmopolitan history.</description>
+    <endDate>2021-02-16T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/fdcUiBRS#vi8mDh_wxl0G0Tbjc2PQaQ</link>
+    <recordDateEnd>2021-02-16T00:00:34.257Z</recordDateEnd>
+    <recordDateStart>2021-02-15T23:29:20.099Z</recordDateStart>
+    <seriesId>2007</seriesId>
+    <sha256>993cafd8e0cdd741339f77a6381ebad8bf15c62057e5bd9a216af3adc581a108</sha256>
+    <startDate>2021-02-15T23:30:00.000Z</startDate>
+    <subtitle>Moji: Gateway to the World</subtitle>
+    <title>Journeys in Japan</title>
+    <uploadedDate>2021-02-16T03:38:04.883Z</uploadedDate>
   </episode>
 </episodeList>

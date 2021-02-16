@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-16T01:30:04.277Z",
+  "lastUpdated": "2021-02-16T03:40:02.887Z",
   "seriesId": "2007",
   "title": "Journeys in Japan",
   "episodes": [
@@ -194,6 +194,21 @@
       "title": "Journeys in Japan",
       "uploadedDate": "2021-02-09T05:52:00.390Z",
       "raw": "https://mega.nz/folder/nllCDbRK#oaCzq_zUYcl1LAPmYDX78Q"
+    },
+    {
+      "airingId": "433",
+      "content": "Moji, just over 800 kilometers west of Tokyo, is on the northernmost tip of Kyushu. Facing the Kanmon Strait -- an easy access route for Japan's main island and mainland Asia -- Moji prospered as a major sea transportation post from the Meiji to early Showa periods. Businesses catering to the port visitors, including foreigners, cropped up. And much of the Western-style architecture of the time has been preserved. On Journeys in Japan, Winnie Tsu strolls around the old port town, tracing its legacy.",
+      "description": "Taiwanese Winnie Tsu takes a stroll through Moji in Kita-Kyushu, a port city that flourished from the late 19th century to the early 20th century, where she traces its cosmopolitan history.",
+      "endDate": "2021-02-16T00:00:00.000Z",
+      "link": "https://mega.nz/folder/fdcUiBRS#vi8mDh_wxl0G0Tbjc2PQaQ",
+      "recordDateEnd": "2021-02-16T00:00:34.257Z",
+      "recordDateStart": "2021-02-15T23:29:20.099Z",
+      "seriesId": "2007",
+      "sha256": "993cafd8e0cdd741339f77a6381ebad8bf15c62057e5bd9a216af3adc581a108",
+      "startDate": "2021-02-15T23:30:00.000Z",
+      "subtitle": "Moji: Gateway to the World",
+      "title": "Journeys in Japan",
+      "uploadedDate": "2021-02-16T03:38:04.883Z"
     }
   ]
 }
