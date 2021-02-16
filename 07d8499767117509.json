@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-16T05:55:03.136Z",
+  "lastUpdated": "2021-02-16T08:05:03.686Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -386,6 +386,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-01-27T08:29:24.503Z",
       "raw": "https://mega.nz/folder/8TAAXZDa#E6UPSC8tmKsPBk6zE5KOwQ"
+    },
+    {
+      "airingId": "580",
+      "content": "Katsuobushi is a traditional Japanese foodstuff. It is dried bonito, typically shaved into umami-rich flakes. Mai Nagamatsu is the owner of a restaurant that specializes in recipes using katsuobushi.",
+      "description": "Katsuobushi is a traditional Japanese foodstuff. It is dried bonito, typically shaved into umami-rich flakes. Mai Nagamatsu is the owner of a restaurant that specializes in recipes using katsuobushi.",
+      "endDate": "2021-02-16T07:30:00.000Z",
+      "link": "https://mega.nz/folder/kxknBCYR#Cdy6lJmli4NHazoDc5NcMQ",
+      "recordDateEnd": "2021-02-16T07:30:31.046Z",
+      "recordDateStart": "2021-02-16T07:14:20.011Z",
+      "seriesId": "2058",
+      "sha256": "55c02bbe153857b801e073a861e3764ea1a9dcfa4da2d3aba7d63412c5e337a7",
+      "startDate": "2021-02-16T07:15:00.000Z",
+      "subtitle": "You Can't Beat Katsuobushi: Mai Nagamatsu / Owner, Katsuo Shokudo",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-16T08:03:57.414Z"
     },
     {
       "airingId": "581",

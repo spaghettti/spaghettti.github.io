@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-16T05:55:03.118Z</lastUpdated>
+  <lastUpdated>2021-02-16T08:05:03.664Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -387,6 +387,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-27T08:29:24.503Z</uploadedDate>
     <raw>https://mega.nz/folder/8TAAXZDa#E6UPSC8tmKsPBk6zE5KOwQ</raw>
+  </episode>
+  <episode>
+    <airingId>580</airingId>
+    <content>Katsuobushi is a traditional Japanese foodstuff. It is dried bonito, typically shaved into umami-rich flakes. Mai Nagamatsu is the owner of a restaurant that specializes in recipes using katsuobushi.</content>
+    <description>Katsuobushi is a traditional Japanese foodstuff. It is dried bonito, typically shaved into umami-rich flakes. Mai Nagamatsu is the owner of a restaurant that specializes in recipes using katsuobushi.</description>
+    <endDate>2021-02-16T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/kxknBCYR#Cdy6lJmli4NHazoDc5NcMQ</link>
+    <recordDateEnd>2021-02-16T07:30:31.046Z</recordDateEnd>
+    <recordDateStart>2021-02-16T07:14:20.011Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>55c02bbe153857b801e073a861e3764ea1a9dcfa4da2d3aba7d63412c5e337a7</sha256>
+    <startDate>2021-02-16T07:15:00.000Z</startDate>
+    <subtitle>You Can't Beat Katsuobushi: Mai Nagamatsu / Owner, Katsuo Shokudo</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-16T08:03:57.414Z</uploadedDate>
   </episode>
   <episode>
     <airingId>581</airingId>
