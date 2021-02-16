@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-16T00:40:03.371Z</lastUpdated>
+  <lastUpdated>2021-02-16T01:15:04.068Z</lastUpdated>
   <seriesId>80afb7aa5174d5ac</seriesId>
   <title>Train Cruise</title>
   <episode>
@@ -19,5 +19,20 @@
     <title>Train Cruise</title>
     <uploadedDate>2020-12-24T03:30:41.188Z</uploadedDate>
     <raw>https://mega.nz/folder/TNFBgK6Q#TaHEHqH7VJmE1nTlcJuOWQ</raw>
+  </episode>
+  <episode>
+    <airingId>022</airingId>
+    <content>The imperial steelworks established 120 years ago in Kitakyushu, Fukuoka Pref., on the southern island of Kyushu, drove Japan's modernization. And coal mined in the nearby Chikuho area fueled this industry. We visit old ironworks and coal mines along the railways that transported the coal, and eat a bento that has delighted travelers for a century. We meet a retired mechanic working to invigorate the area with railroad history and an ex-coal miner preserving its coal mining past for posterity.</content>
+    <description>The steel industry of Kitakyushu, Fukuoka Pref., Kyushu, drove Japan's modernization. Ride the rail lines that sprang up to transport coal from the resource-rich Chikuho area to supply its ironworks.</description>
+    <endDate>2021-02-06T00:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/1VxGwB4b#FeCn55bdIsrZY35M4qDSng</link>
+    <recordDateEnd>2021-02-06T00:55:30.984Z</recordDateEnd>
+    <recordDateStart>2021-02-06T00:09:20.047Z</recordDateStart>
+    <seriesId>2068</seriesId>
+    <sha256>f8a28c1e2f531061b0080b6ebb137d285339f92f9e5d7189188a820ea4ef7d3f</sha256>
+    <startDate>2021-02-06T00:10:00.000Z</startDate>
+    <subtitle>Fukuoka: The Steely Backbone of Japan's Modernization</subtitle>
+    <title>Train Cruise</title>
+    <uploadedDate>2021-02-16T01:12:15.543Z</uploadedDate>
   </episode>
 </episodeList>
