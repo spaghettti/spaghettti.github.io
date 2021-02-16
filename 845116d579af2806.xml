@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-16T08:05:03.620Z</lastUpdated>
+  <lastUpdated>2021-02-16T16:05:03.646Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -71,6 +71,22 @@ Miso, a fermented soybean paste, is a bedrock of Japanese cuisine. For many Japa
     <title>Japanology Plus</title>
     <uploadedDate>2021-02-09T23:21:50.154Z</uploadedDate>
     <raw>https://mega.nz/folder/MThCyQBQ#ymbo7yqkMTNhk5zt7XeCjg</raw>
+  </episode>
+  <episode>
+    <airingId>212</airingId>
+    <content>*First broadcast on August 18, 2020.
+Over the centuries, Japan has suffered from repeated outbreaks of diseases like smallpox, measles and cholera. Where did the people of the past think these epidemics came from? And how did they cope? Our theme this time is Japan vs. Epidemics. Our main guest is Yamamoto Satomi, an art historian. She explains historical attitudes to disease by examining works of art, and the characters they feature. We also take a look at a contemporary social media trend.</content>
+    <description>Japan vs. Epidemics. How did Japan cope in days gone by? Each time, Peter Barakan meets experts with fascinating cultural insights that present Japan in a different light.</description>
+    <endDate>2021-02-16T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/qNNEVZJY#JD7RzpEOGOUzO8PkgiYfiA</link>
+    <recordDateEnd>2021-02-16T15:00:28.823Z</recordDateEnd>
+    <recordDateStart>2021-02-16T14:29:20.099Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>ca88c2eba7e42712bfa548bb91a8c1e5511839345fe3a912c7cc4980a7c574e4</sha256>
+    <startDate>2021-02-16T14:30:00.000Z</startDate>
+    <subtitle>Japan vs. Epidemics</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-02-16T16:01:50.523Z</uploadedDate>
   </episode>
   <episode>
     <airingId>222</airingId>
