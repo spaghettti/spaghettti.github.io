@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-05T23:05:03.388Z</lastUpdated>
+  <lastUpdated>2021-02-16T04:40:03.915Z</lastUpdated>
   <seriesId>46311af43d5442f3</seriesId>
   <title>Culture Crossroads</title>
   <episode>
@@ -36,6 +36,22 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2021-01-13T19:50:56.652Z</uploadedDate>
     <raw>https://mega.nz/folder/KV8iSDzR#0ihyLUJjpN7dLehkG2-Sfw</raw>
+  </episode>
+  <episode>
+    <airingId>003</airingId>
+    <content>Girls brought up protectively in good families in the Heian period (794-late 12th) basically stayed socially distanced. Dr. ISO talks about the "zoning concept" of Japanese people.</content>
+    <description>How can we associate better with COVID-19? Let's find the key by learning about the history of the infectious diseases Japan has experienced. This time: Social Distancing in the Heian Period.</description>
+    <endDate>2021-02-03T15:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/A0UmURia#aU5hz7i12XsUkPkn-v6B6w</link>
+    <recordDateEnd>2021-02-03T15:45:24.415Z</recordDateEnd>
+    <recordDateStart>2021-02-03T15:39:20.029Z</recordDateStart>
+    <seriesId>6036</seriesId>
+    <sha256>b1ffe086bbf15512d139f3027c3e1be7020bdee05a6a4986209330046620076f</sha256>
+    <startDate>2021-02-03T15:40:00.000Z</startDate>
+    <subtitle>Dr. ISO's Pandemic History, Info &amp; Tips: Social Distancing in the Heian Period</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-02-16T04:36:52.574Z</uploadedDate>
+    <raw>https://mega.nz/folder/9840DZZa#BeFyXpmYt4Ppx4UCsh78vQ</raw>
   </episode>
   <episode>
     <airingId>004</airingId>
@@ -84,6 +100,22 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2021-01-13T18:05:38.555Z</uploadedDate>
     <raw>https://mega.nz/folder/T08RxC5L#JPEgLxurtWRjhqrAa7PNaQ</raw>
+  </episode>
+  <episode>
+    <airingId>007</airingId>
+    <content>In a disaster, with concerns over infectious disease or personal privacy, at-home evacuation is a consideration. We look at how to prepare your home and what supplies you need to have on hand.</content>
+    <description>As a series in Culture Crossroads, BOSAI: BE PREPARED provides practical knowledge to save yourself from natural disaster. In this episode, we learn concrete tips for home evacuation.</description>
+    <endDate>2021-02-03T15:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/0Ik02J5Z#Dl88ZqNEu4YKzHze0yh9BA</link>
+    <recordDateEnd>2021-02-03T15:40:27.312Z</recordDateEnd>
+    <recordDateStart>2021-02-03T15:29:20.147Z</recordDateStart>
+    <seriesId>2084</seriesId>
+    <sha256>cd09585fdf8843267c2ba70fdd871129b067f7f1c43e97e5fc33eee3f7a3feb5</sha256>
+    <startDate>2021-02-03T15:30:00.000Z</startDate>
+    <subtitle>BOSAI: Be Prepared - At-home Evacuation</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-02-05T23:07:56.491Z</uploadedDate>
+    <raw>https://mega.nz/folder/1PwWHZqZ#ABvYEvLR72hvn2yEpmQyzg</raw>
   </episode>
   <episode>
     <airingId>013</airingId>
@@ -148,6 +180,22 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2020-12-26T03:41:05.954Z</uploadedDate>
     <raw>https://mega.nz/folder/FU40BRZI#EM6wOS8TEFzi07BAxC-gdw</raw>
+  </episode>
+  <episode>
+    <airingId>017</airingId>
+    <content>In the wake of the 2011 Great East Japan Earthquake, the song "Flowers Will Bloom" was created in support of those affected by the disaster. Now, 10 years later, it is reborn in 11 languages with performances by artists such as May J., Ono Lisa, and Morisaki Win who generously offered their voices. Can the song carry its prayer of hope across the globe? Join us as we learn the story behind the song's inception, look at the disaster area today, and introduce messages from around the world.</content>
+    <description>After the Great East Japan Earthquake on 2011, the song "Flowers Will Bloom" was created in support of those affected by the disaster. Now the song is about to be reborn in 11 languages!</description>
+    <endDate>2021-02-10T15:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/FGxUURrB#0LWsZ4teGKJBIKnNgHN6Kw</link>
+    <recordDateEnd>2021-02-10T15:45:27.127Z</recordDateEnd>
+    <recordDateStart>2021-02-10T15:29:20.099Z</recordDateStart>
+    <seriesId>2083</seriesId>
+    <sha256>9aeb910078e23d7762bcffbff82afe1b7333262ccc9c2b38e106d1b08e82aa39</sha256>
+    <startDate>2021-02-10T15:30:00.000Z</startDate>
+    <subtitle>Flowers Will Bloom Beyond Borders</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-02-10T19:37:00.023Z</uploadedDate>
+    <raw>https://mega.nz/folder/iJk2RBxa#hxrRZfdz7rqa8_RsPb_I7w</raw>
   </episode>
   <episode>
     <airingId>023</airingId>
