@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-17T05:55:03.364Z",
+  "lastUpdated": "2021-02-17T07:55:03.245Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2018,6 +2018,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-02-15T10:49:45.422Z",
       "raw": "https://mega.nz/folder/f5E22TrI#TKd2-85mhbmjCQR09X1LNA"
+    },
+    {
+      "airingId": "742",
+      "content": "Marc Hull-Jacquin of Shelter Movers has rescued over 2,000 people fleeing domestic violence, providing 6 sanctuaries in Canada since 2016. He's fighting an increase in DV cases during the pandemic.",
+      "description": "Marc Hull-Jacquin of Shelter Movers has rescued about 2,000 people fleeing domestic violence, providing 6 sanctuaries in Canada since 2016. He's fighting an increase in DV cases during the pandemic.",
+      "endDate": "2021-02-17T07:30:00.000Z",
+      "link": "https://mega.nz/folder/qBcUWBbQ#jzXYaxxXEtx-v5B-dpZsxw",
+      "recordDateEnd": "2021-02-17T07:30:26.215Z",
+      "recordDateStart": "2021-02-17T07:14:22.819Z",
+      "seriesId": "2058",
+      "sha256": "2cb435838bc232dc6f7bbef547177339ea6eb0c443edbd4b7275ddd7c8bdec47",
+      "startDate": "2021-02-17T07:15:00.000Z",
+      "subtitle": "Rescuing People from Domestic Violence: Marc Hull-Jacquin / Founder/Executive Director of Shelter Movers",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-17T07:54:52.559Z"
     }
   ]
 }

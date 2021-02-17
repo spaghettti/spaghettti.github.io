@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-17T05:55:03.348Z</lastUpdated>
+  <lastUpdated>2021-02-17T07:55:03.229Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2019,5 +2019,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-15T10:49:45.422Z</uploadedDate>
     <raw>https://mega.nz/folder/f5E22TrI#TKd2-85mhbmjCQR09X1LNA</raw>
+  </episode>
+  <episode>
+    <airingId>742</airingId>
+    <content>Marc Hull-Jacquin of Shelter Movers has rescued over 2,000 people fleeing domestic violence, providing 6 sanctuaries in Canada since 2016. He's fighting an increase in DV cases during the pandemic.</content>
+    <description>Marc Hull-Jacquin of Shelter Movers has rescued about 2,000 people fleeing domestic violence, providing 6 sanctuaries in Canada since 2016. He's fighting an increase in DV cases during the pandemic.</description>
+    <endDate>2021-02-17T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/qBcUWBbQ#jzXYaxxXEtx-v5B-dpZsxw</link>
+    <recordDateEnd>2021-02-17T07:30:26.215Z</recordDateEnd>
+    <recordDateStart>2021-02-17T07:14:22.819Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>2cb435838bc232dc6f7bbef547177339ea6eb0c443edbd4b7275ddd7c8bdec47</sha256>
+    <startDate>2021-02-17T07:15:00.000Z</startDate>
+    <subtitle>Rescuing People from Domestic Violence: Marc Hull-Jacquin / Founder/Executive Director of Shelter Movers</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-17T07:54:52.559Z</uploadedDate>
   </episode>
 </episodeList>
