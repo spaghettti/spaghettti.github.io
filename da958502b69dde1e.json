@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-17T01:30:04.493Z",
+  "lastUpdated": "2021-02-17T02:40:03.292Z",
   "seriesId": "2048",
   "title": "Her Story",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "Her Story",
       "uploadedDate": "2020-12-25T04:03:05.997Z",
       "raw": "https://mega.nz/folder/IRlUCY5A#HU-gFdrZgH5Q4bu31dKkSA"
+    },
+    {
+      "airingId": "019",
+      "content": "In 2015, Evilita Adriani launched Ojesy, a motorbike-taxi dispatch service with only female drivers, providing safe transport for women in Indonesia, where around 90% of the population is Muslim. As it is taboo in Islam for women to touch men other than family members, it was difficult for women to use services with male drivers. Over its first year, the new service grew rapidly in popularity. Looking at the entrepreneurship of Evilita Adriani, we see how the lifestyles of Indonesian women are changing.",
+      "description": "We introduce Evilita Adriani, a university student from Indonesia who launched a motorcycle taxi dispatch service crewed entirely by female Muslim drivers.",
+      "endDate": "2021-02-17T01:50:00.000Z",
+      "link": "https://mega.nz/folder/RNwyjRLa#MVPlc6Vofp_bh6JIH0ErGw",
+      "recordDateEnd": "2021-02-17T01:50:33.760Z",
+      "recordDateStart": "2021-02-17T01:29:20.099Z",
+      "seriesId": "2048",
+      "sha256": "adc293f17e6bcfc694b051cfc2c7771bf199c2f1006b7088c78abd2b5dc49a1c",
+      "startDate": "2021-02-17T01:30:00.000Z",
+      "subtitle": "Starting a New Cycle",
+      "title": "Her Story",
+      "uploadedDate": "2021-02-17T02:36:16.358Z"
     },
     {
       "airingId": "035",
