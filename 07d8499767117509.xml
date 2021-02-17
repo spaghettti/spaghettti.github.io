@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-17T02:40:03.313Z</lastUpdated>
+  <lastUpdated>2021-02-17T05:00:03.342Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1187,6 +1187,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-25T04:55:19.669Z</uploadedDate>
     <raw>https://mega.nz/folder/MHgUhT5I#ic6Mxn_jhhrZ2mRerTGhxA</raw>
+  </episode>
+  <episode>
+    <airingId>669</airingId>
+    <content/>
+    <description>Buku Jalanan Chow Kit is a school co-founded by Siti Rahayu who aims to provide education for poor and stateless children who live in the red light district of Malaysia.</description>
+    <endDate>2021-02-17T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/SgcnQQ4C#n9kX8kF_o8Fl-dumw3x3gg</link>
+    <recordDateEnd>2021-02-17T04:30:27.307Z</recordDateEnd>
+    <recordDateStart>2021-02-17T04:14:20.099Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>814ed1e326be681404ce4f95b7368d238cb1e8d578e58030b296130315d9cd87</sha256>
+    <startDate>2021-02-17T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-17T04:55:11.877Z</uploadedDate>
+    <raw>https://mega.nz/folder/H5Mj0ajR#MvbKBrdp4UTtfYUdZ71H9Q</raw>
   </episode>
   <episode>
     <airingId>670</airingId>
