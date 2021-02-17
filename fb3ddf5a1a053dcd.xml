@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-17T16:30:03.537Z</lastUpdated>
+  <lastUpdated>2021-02-17T17:10:03.808Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -131,6 +131,21 @@
     <title>Japan's Top Inventions</title>
     <uploadedDate>2021-02-04T23:47:19.128Z</uploadedDate>
     <raw>https://mega.nz/folder/WS50xR7a#x5DPWD99dxeZS5iKF-Oypw</raw>
+  </episode>
+  <episode>
+    <airingId>021</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, the food you can eat anytime, anywhere, with no need for bowls or plates: Cup ramen. Invented by Momofuku Ando in an attempt to spread his instant ramen worldwide, Cup ramen has been sold in over 80 countries and regions to date. And an incredible 40 billion cups have been sold! This time, slurp up the secrets behind this hit cup-based Japanese invention.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, the food you can eat anytime, anywhere, with no need for bowls or plates: Cup ramen.</description>
+    <endDate>2021-02-17T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/r00R1AaT#9spQWDashKOwUdLQL4FmoQ</link>
+    <recordDateEnd>2021-02-17T16:00:32.176Z</recordDateEnd>
+    <recordDateStart>2021-02-17T15:44:20.003Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>27557204c9d24d9de32df122c0d3c2c5c45071492147266bf6cc878b61ecbeae</sha256>
+    <startDate>2021-02-17T15:45:00.000Z</startDate>
+    <subtitle>Cup Ramen</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2021-02-17T17:06:50.793Z</uploadedDate>
   </episode>
   <episode>
     <airingId>024</airingId>
