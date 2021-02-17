@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-16T04:35:03.262Z</lastUpdated>
+  <lastUpdated>2021-02-17T16:30:03.671Z</lastUpdated>
   <seriesId>849018bc46f056a7</seriesId>
   <title>Culture Crossroads</title>
   <episode>
@@ -36,6 +36,22 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2021-01-13T19:50:56.652Z</uploadedDate>
     <raw>https://mega.nz/folder/KV8iSDzR#0ihyLUJjpN7dLehkG2-Sfw</raw>
+  </episode>
+  <episode>
+    <airingId>003</airingId>
+    <content>Girls brought up protectively in good families in the Heian period (794-late 12th) basically stayed socially distanced. Dr. ISO talks about the "zoning concept" of Japanese people.</content>
+    <description>How can we associate better with COVID-19? Let's find the key by learning about the history of the infectious diseases Japan has experienced. This time: Social Distancing in the Heian Period.</description>
+    <endDate>2021-02-03T15:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/A0UmURia#aU5hz7i12XsUkPkn-v6B6w</link>
+    <recordDateEnd>2021-02-03T15:45:24.415Z</recordDateEnd>
+    <recordDateStart>2021-02-03T15:39:20.029Z</recordDateStart>
+    <seriesId>6036</seriesId>
+    <sha256>b1ffe086bbf15512d139f3027c3e1be7020bdee05a6a4986209330046620076f</sha256>
+    <startDate>2021-02-03T15:40:00.000Z</startDate>
+    <subtitle>Dr. ISO's Pandemic History, Info &amp; Tips: Social Distancing in the Heian Period</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-02-16T04:36:52.574Z</uploadedDate>
+    <raw>https://mega.nz/folder/9840DZZa#BeFyXpmYt4Ppx4UCsh78vQ</raw>
   </episode>
   <episode>
     <airingId>004</airingId>
@@ -100,6 +116,22 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2021-02-05T23:07:56.491Z</uploadedDate>
     <raw>https://mega.nz/folder/1PwWHZqZ#ABvYEvLR72hvn2yEpmQyzg</raw>
+  </episode>
+  <episode>
+    <airingId>012</airingId>
+    <content>The COVID-19 has affected everyone, especially for foreigners. For example, the situation coincided with Ramadan. Most years it's a time when Muslims fast during the day, joining friends and relatives after sunset to share a meal. However, self-isolation made it impossible. For another example, Bangladeshi community in Japan made up a network to help with each other. In this program, we focus on Muslim and Bangladeshi communities to have a look at their efforts to overcome the difficulties.</content>
+    <description>The COVID-19 has affected Muslims in Japan. The situation coincided with Ramadan, making it tougher due to self-isolation. We link up with some of Muslims to find how they coped with the situation.</description>
+    <endDate>2021-02-17T15:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/zt820aoD#LTd4ggU08vUosWIw6kMXZw</link>
+    <recordDateEnd>2021-02-17T15:45:26.273Z</recordDateEnd>
+    <recordDateStart>2021-02-17T15:29:23.109Z</recordDateStart>
+    <seriesId>2083</seriesId>
+    <sha256>83d3bbfe141725053cf51d59cb78dfbbfa20f2a246f36d7ce488099a7ad08d42</sha256>
+    <startDate>2021-02-17T15:30:00.000Z</startDate>
+    <subtitle>Linking Hands in Times of Crisis</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-02-17T16:28:31.741Z</uploadedDate>
+    <raw>https://mega.nz/folder/L09wnYSB#xeHCN4cnfkJwhpACEfLsUg</raw>
   </episode>
   <episode>
     <airingId>013</airingId>
