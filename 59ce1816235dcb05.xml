@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-17T05:00:03.298Z</lastUpdated>
+  <lastUpdated>2021-02-17T05:55:03.313Z</lastUpdated>
   <seriesId>59ce1816235dcb05</seriesId>
   <title>KABUKI KOOL</title>
   <episode>
@@ -67,6 +67,21 @@
     <title>KABUKI KOOL</title>
     <uploadedDate>2020-12-24T23:38:05.761Z</uploadedDate>
     <raw>https://mega.nz/folder/oxlD0ACR#0RIAdW8bmQc3BhgyHX5aSQ</raw>
+  </episode>
+  <episode>
+    <airingId>062</airingId>
+    <content>Actor Kataoka Ainosuke explores the fantastic play, "The Dance of the Earth Spider," where one actor skillfully switches between 5 very different roles.</content>
+    <description>Actor Kataoka Ainosuke explores the fantastic play, "The Dance of the Earth Spider," where one actor skillfully switches between 5 very different roles.</description>
+    <endDate>2021-02-17T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/XksTyQIR#vAod-skEwHhIjME55uP6Ng</link>
+    <recordDateEnd>2021-02-17T05:00:33.724Z</recordDateEnd>
+    <recordDateStart>2021-02-17T04:29:20.005Z</recordDateStart>
+    <seriesId>2035</seriesId>
+    <sha256>476135e2574412199550b0aae8bdc51fd4e61ccbf2d3a5443bce09a84683cffd</sha256>
+    <startDate>2021-02-17T04:30:00.000Z</startDate>
+    <subtitle>Kabuki Dance: Henge Buyo</subtitle>
+    <title>KABUKI KOOL</title>
+    <uploadedDate>2021-02-17T05:51:16.612Z</uploadedDate>
   </episode>
   <episode>
     <airingId>068</airingId>
