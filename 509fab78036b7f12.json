@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-18T02:05:03.364Z",
+  "lastUpdated": "2021-02-18T03:05:03.631Z",
   "seriesId": "2042",
   "title": "RISING",
   "episodes": [
@@ -242,6 +242,21 @@
       "title": "RISING",
       "uploadedDate": "2021-01-21T03:43:00.142Z",
       "raw": "https://mega.nz/folder/UJhCUKAQ#eBBNFrphuyBrkrTLw8oCCQ"
+    },
+    {
+      "airingId": "109",
+      "content": "With human interaction restricted by the pandemic, robotic communication aids are in the spotlight. Aoki Shunsuke heads a firm that develops such devices, with user-friendly messenger robots aimed at children and seniors uncomfortable with smartphones; home sensors that pair with the robots to let you monitor the wellbeing of isolated relatives; and robotics kits that help kids learn while expressing their creativity. Follow a unique business developing innovative solutions for the new normal.",
+      "description": "With human interaction limited by the pandemic, robotic communication aids for kids and seniors are in the spotlight. Follow a unique robot business developing innovative solutions for the new normal.",
+      "endDate": "2021-02-18T02:00:00.000Z",
+      "link": "https://mega.nz/folder/P41mjBgL#RebRV124eFP11gIx9w9Y5w",
+      "recordDateEnd": "2021-02-18T02:00:28.750Z",
+      "recordDateStart": "2021-02-18T01:29:20.099Z",
+      "seriesId": "2042",
+      "sha256": "7a337fd71104b0943c2e7cefe616d63040531d90bbe1c558d73661db34973a23",
+      "startDate": "2021-02-18T01:30:00.000Z",
+      "subtitle": "Tackling the New Normal - Robots with a Human Touch: Personal Robotics Innovator - Aoki Shunsuke",
+      "title": "RISING",
+      "uploadedDate": "2021-02-18T03:01:47.180Z"
     }
   ]
 }
