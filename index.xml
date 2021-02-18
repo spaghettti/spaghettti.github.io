@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-18T08:00:04.407Z</lastUpdated>
+  <lastUpdated>2021-02-18T16:15:04.312Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -195,10 +195,10 @@
     <title>CYCLE AROUND JAPAN</title>
   </series>
   <series>
-    <count>13</count>
+    <count>14</count>
     <uniqueId>054ab52e36a50c36</uniqueId>
-    <lastAiring>2021-02-11T14:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-15T13:39:16.536Z</lastUpload>
+    <lastAiring>2021-02-18T14:30:00.000Z</lastAiring>
+    <lastUpload>2021-02-18T16:11:58.211Z</lastUpload>
     <seriesId>2070</seriesId>
     <title>CYCLE AROUND JAPAN  Highlights</title>
   </series>

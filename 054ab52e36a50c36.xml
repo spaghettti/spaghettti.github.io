@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-18T08:00:04.262Z</lastUpdated>
+  <lastUpdated>2021-02-18T16:15:04.164Z</lastUpdated>
   <seriesId>054ab52e36a50c36</seriesId>
   <title>CYCLE AROUND JAPAN  Highlights</title>
   <episode>
@@ -163,6 +163,21 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
     <uploadedDate>2021-02-15T13:39:16.536Z</uploadedDate>
     <raw>https://mega.nz/folder/QYp1UAzQ#V4KiNl2uxwdkrl1Ip3ZDuw</raw>
+  </episode>
+  <episode>
+    <airingId>024</airingId>
+    <content>This time, we ride south from Narita Airport for a vibrant spring ride through the Boso Peninsula. It's April, and the cherry blossom trees are in full bloom! First, we ride along Japan's second-longest river, which makes the peninsula a great place for farming, and see a festival created to pray for a good harvest. We also visit a secluded inn and try dishes made with freshly picked bamboo shoots. Our ride ends near the coast, where we learn about the unique spirit of some chic fishermen!</content>
+    <description>This time, we take a spring ride through the Boso Peninsula, right next to Tokyo. Discover the history surrounding a giant river and learn about the spirit of fishermen blessed by plentiful seas!</description>
+    <endDate>2021-02-18T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/okcyBRAa#o-TlLMi9c6hGl1RnQKW76Q</link>
+    <recordDateEnd>2021-02-18T15:00:25.088Z</recordDateEnd>
+    <recordDateStart>2021-02-18T14:29:20.101Z</recordDateStart>
+    <seriesId>2070</seriesId>
+    <sha256>b3ee552f6c9819a16d8b907a25b9d7505971b7da55f967a59b820b4143eb3bf2</sha256>
+    <startDate>2021-02-18T14:30:00.000Z</startDate>
+    <subtitle>Boso Peninsula - A Vibrant Spring Journey</subtitle>
+    <title>CYCLE AROUND JAPAN  Highlights</title>
+    <uploadedDate>2021-02-18T16:11:58.211Z</uploadedDate>
   </episode>
   <episode>
     <airingId>029</airingId>
