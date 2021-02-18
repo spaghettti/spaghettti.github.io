@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-18T06:20:03.501Z",
+  "lastUpdated": "2021-02-18T08:00:04.248Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2034,6 +2034,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-02-17T07:54:52.559Z",
       "raw": "https://mega.nz/folder/nkYkHTbL#tI13EsJdnTPlgaMJ1vNfdQ"
+    },
+    {
+      "airingId": "743",
+      "content": "Rosemarie Garland-Thomson challenges stereotypes about people with disabilities. An advocate for human diversity, she explores how disabled culture and identity have evolved throughout history.",
+      "description": "Rosemarie Garland-Thomson challenges stereotypes about people with disabilities. An advocate for human diversity, she explores how disabled culture and identity have evolved throughout history.",
+      "endDate": "2021-02-18T07:30:00.000Z",
+      "link": "https://mega.nz/folder/TwEw2bqI#iMvy4zQj7OsCckn9YHcO9A",
+      "recordDateEnd": "2021-02-18T07:30:25.960Z",
+      "recordDateStart": "2021-02-18T07:14:20.007Z",
+      "seriesId": "2058",
+      "sha256": "e9ace0725a6f5556043694479e7a897b1e41e192a40b15446bf9d6e8918a3f45",
+      "startDate": "2021-02-18T07:15:00.000Z",
+      "subtitle": "Human Diversity for a Flourishing Life: Rosemarie Garland-Thomson / Bioethicist",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-18T07:58:15.161Z"
     }
   ]
 }

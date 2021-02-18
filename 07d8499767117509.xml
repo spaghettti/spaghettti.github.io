@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-18T06:20:03.481Z</lastUpdated>
+  <lastUpdated>2021-02-18T08:00:04.231Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2035,5 +2035,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-17T07:54:52.559Z</uploadedDate>
     <raw>https://mega.nz/folder/nkYkHTbL#tI13EsJdnTPlgaMJ1vNfdQ</raw>
+  </episode>
+  <episode>
+    <airingId>743</airingId>
+    <content>Rosemarie Garland-Thomson challenges stereotypes about people with disabilities. An advocate for human diversity, she explores how disabled culture and identity have evolved throughout history.</content>
+    <description>Rosemarie Garland-Thomson challenges stereotypes about people with disabilities. An advocate for human diversity, she explores how disabled culture and identity have evolved throughout history.</description>
+    <endDate>2021-02-18T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/TwEw2bqI#iMvy4zQj7OsCckn9YHcO9A</link>
+    <recordDateEnd>2021-02-18T07:30:25.960Z</recordDateEnd>
+    <recordDateStart>2021-02-18T07:14:20.007Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>e9ace0725a6f5556043694479e7a897b1e41e192a40b15446bf9d6e8918a3f45</sha256>
+    <startDate>2021-02-18T07:15:00.000Z</startDate>
+    <subtitle>Human Diversity for a Flourishing Life: Rosemarie Garland-Thomson / Bioethicist</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-18T07:58:15.161Z</uploadedDate>
   </episode>
 </episodeList>
