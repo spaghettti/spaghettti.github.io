@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-18T01:00:04.266Z</lastUpdated>
+  <lastUpdated>2021-02-18T02:05:03.366Z</lastUpdated>
   <seriesId>93f1898b227dbd5d</seriesId>
   <title>DESIGN TALKS plus</title>
   <episode>
@@ -147,5 +147,20 @@
     <title>DESIGN TALKS plus</title>
     <uploadedDate>2021-01-28T02:06:25.248Z</uploadedDate>
     <raw>https://mega.nz/folder/QVRTnSLY#2VJ1cdN0pR8hzXHb6V4XmQ</raw>
+  </episode>
+  <episode>
+    <airingId>140</airingId>
+    <content>As the world grapples with a global pandemic and environmental crises, many are reexamining their relationships with the objects around them. Guest Nagaoka Kenmei's belief in long-life design offers a way forward. He reevaluates the items that have been made for decades, and become an inextricable part of our everyday lives. Explore the beloved designs which have transcended generations.</content>
+    <description>Today's theme: Long Life Design. The pandemic and environmental concerns mean that we're all reassessing our relationship with objects. Guest Nagaoka Kenmei explores how long-life design can help.</description>
+    <endDate>2021-02-18T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/QRpQXSoC#WChGSigkH7CMr31bc04O2Q</link>
+    <recordDateEnd>2021-02-18T01:00:28.516Z</recordDateEnd>
+    <recordDateStart>2021-02-18T00:29:23.814Z</recordDateStart>
+    <seriesId>2046</seriesId>
+    <sha256>9de15a00b455a3e80d52d1c3272b1d3fedf30d817cc648bdc31f604c6500a990</sha256>
+    <startDate>2021-02-18T00:30:00.000Z</startDate>
+    <subtitle>Long Life Design</subtitle>
+    <title>DESIGN TALKS plus</title>
+    <uploadedDate>2021-02-18T02:00:48.674Z</uploadedDate>
   </episode>
 </episodeList>
