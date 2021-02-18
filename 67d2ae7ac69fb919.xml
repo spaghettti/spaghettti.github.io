@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-17T17:10:03.735Z</lastUpdated>
+  <lastUpdated>2021-02-18T01:00:04.239Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -419,5 +419,20 @@
     <title>Core Kyoto</title>
     <uploadedDate>2021-02-04T23:59:33.959Z</uploadedDate>
     <raw>https://mega.nz/folder/gIgg2LCC#M4gObHK8RDWtZ6eYuTTlsw</raw>
+  </episode>
+  <episode>
+    <airingId>149</airingId>
+    <content>Reizei Kimiko is the daughter of the 24th head of a once aristocratic family. Together with her husband, she upholds traditions in Waka poetry and other court rituals. Sugimoto Setsuko, the 10th generation of a former merchant family, preserves their Machiya townhouse for posterity and promotes the Obanzai style of cooking. Maintaining their family foundations, they both have faced adversity with the current pandemic. Discover the joy, pride and responsibility of carrying on family traditions.</content>
+    <description>Reizei Kimiko belongs to a noble family that dates back 800 years. Sugimoto Setsuko comes from a 300-year-old kimono merchant family. These scions discuss the joy and hardship of upholding tradition.</description>
+    <endDate>2021-02-18T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/g5tVUI4a#OwpJK8_diPpADycN9NIBWA</link>
+    <recordDateEnd>2021-02-18T00:00:29.569Z</recordDateEnd>
+    <recordDateStart>2021-02-17T23:29:20.100Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>43dcfe501fcc532d3460dbc3c989e832ddb8394b87b511b84e20db191b3c8439</sha256>
+    <startDate>2021-02-17T23:30:00.000Z</startDate>
+    <subtitle>Conversations: The Enduring Pride of Two Venerable Families</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-02-18T00:59:50.957Z</uploadedDate>
   </episode>
 </episodeList>
