@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-18T05:05:03.720Z</lastUpdated>
+  <lastUpdated>2021-02-18T06:20:03.573Z</lastUpdated>
   <seriesId>2ac7100c81ee10d6</seriesId>
   <title>Lunch ON!</title>
   <episode>
@@ -68,6 +68,21 @@ In another segment, we visit the southernmost prefecture of Okinawa to meet a pu
     <title>Lunch ON!</title>
     <uploadedDate>2021-02-15T14:08:30.652Z</uploadedDate>
     <raw>https://mega.nz/folder/SptgBI7I#dqbQ3jkAVHhvNb9btW5kwA</raw>
+  </episode>
+  <episode>
+    <airingId>144</airingId>
+    <content>We visit a coffee plantation in Okinawa, Japan's southernmost prefecture. The plantation is run by a family, and what is surprising is that they only recently began growing coffee. They used to mainly grow flowers, but after suffering much damage from a typhoon, the father decided the switch on his own, without even running the numbers! To stay afloat, the son has to work hard, but he has no complaints because the coffee they make tastes great, and his father is having the time of his life!</content>
+    <description>We visit a coffee plantation in Okinawa, Japan's southernmost prefecture. The plantation is run by a family, and what is surprising is that they only recently switched from growing flowers to coffee.</description>
+    <endDate>2021-02-18T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/HxcQFBaJ#h0Iod0ZuTVsyAMP2PR95mQ</link>
+    <recordDateEnd>2021-02-18T04:55:29.140Z</recordDateEnd>
+    <recordDateStart>2021-02-18T04:29:22.625Z</recordDateStart>
+    <seriesId>4023</seriesId>
+    <sha256>7636c51aa803e63aebc10bab3462f9aab42512af16f2240f23e474952baff1cc</sha256>
+    <startDate>2021-02-18T04:30:00.000Z</startDate>
+    <subtitle>Lunch at the Coffee Plantation</subtitle>
+    <title>Lunch ON!</title>
+    <uploadedDate>2021-02-18T06:18:52.229Z</uploadedDate>
   </episode>
   <episode>
     <airingId>155</airingId>

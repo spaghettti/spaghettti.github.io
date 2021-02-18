@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-18T05:05:03.721Z",
+  "lastUpdated": "2021-02-18T06:20:03.574Z",
   "seriesId": "4023",
   "title": "Lunch ON!",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "Lunch ON!",
       "uploadedDate": "2021-02-15T14:08:30.652Z",
       "raw": "https://mega.nz/folder/SptgBI7I#dqbQ3jkAVHhvNb9btW5kwA"
+    },
+    {
+      "airingId": "144",
+      "content": "We visit a coffee plantation in Okinawa, Japan's southernmost prefecture. The plantation is run by a family, and what is surprising is that they only recently began growing coffee. They used to mainly grow flowers, but after suffering much damage from a typhoon, the father decided the switch on his own, without even running the numbers! To stay afloat, the son has to work hard, but he has no complaints because the coffee they make tastes great, and his father is having the time of his life!",
+      "description": "We visit a coffee plantation in Okinawa, Japan's southernmost prefecture. The plantation is run by a family, and what is surprising is that they only recently switched from growing flowers to coffee.",
+      "endDate": "2021-02-18T04:55:00.000Z",
+      "link": "https://mega.nz/folder/HxcQFBaJ#h0Iod0ZuTVsyAMP2PR95mQ",
+      "recordDateEnd": "2021-02-18T04:55:29.140Z",
+      "recordDateStart": "2021-02-18T04:29:22.625Z",
+      "seriesId": "4023",
+      "sha256": "7636c51aa803e63aebc10bab3462f9aab42512af16f2240f23e474952baff1cc",
+      "startDate": "2021-02-18T04:30:00.000Z",
+      "subtitle": "Lunch at the Coffee Plantation",
+      "title": "Lunch ON!",
+      "uploadedDate": "2021-02-18T06:18:52.229Z"
     },
     {
       "airingId": "155",
