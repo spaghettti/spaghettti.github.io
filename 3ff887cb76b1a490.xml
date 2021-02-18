@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-18T16:15:04.119Z</lastUpdated>
+  <lastUpdated>2021-02-18T17:25:03.806Z</lastUpdated>
   <seriesId>3ff887cb76b1a490</seriesId>
   <title>Japan Railway Journal</title>
   <episode>
@@ -131,6 +131,21 @@
     <title>Japan Railway Journal</title>
     <uploadedDate>2021-02-15T15:09:20.411Z</uploadedDate>
     <raw>https://mega.nz/folder/2l5T2Y4b#EUvpfjoK-99EZPjhUS4PVA</raw>
+  </episode>
+  <episode>
+    <airingId>083</airingId>
+    <content>Visitors from around the world are expected to enter Japan through Tokyo's 2 international airports. JR East's "Narita Express" and Keisei Electric Railway's "Skyliner" service Narita Airport, while Keikyu Corporation and Tokyo Monorail service Haneda Airport. See how the railways are working to attract passengers by updating services, improving convenience and offering special discounts.</content>
+    <description>With the Tokyo 2020's big events on the way, railway companies are preparing for an increase in overseas passengers by improving the convenience of services to and from Tokyo's airports.</description>
+    <endDate>2021-02-18T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/k4EhBQzS#mbIhZWWiDvmqCpEk6qakWw</link>
+    <recordDateEnd>2021-02-18T16:00:32.178Z</recordDateEnd>
+    <recordDateStart>2021-02-18T15:29:20.100Z</recordDateStart>
+    <seriesId>2049</seriesId>
+    <sha256>a776efca6d5ff9d4c25c6d63cae87af645d7e4447ffc5dcbed20393ce17ddd21</sha256>
+    <startDate>2021-02-18T15:30:00.000Z</startDate>
+    <subtitle>A Guide to Tokyo's Airport Access Lines</subtitle>
+    <title>Japan Railway Journal</title>
+    <uploadedDate>2021-02-18T17:21:55.894Z</uploadedDate>
   </episode>
   <episode>
     <airingId>093</airingId>
