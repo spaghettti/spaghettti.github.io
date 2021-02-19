@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-19T07:55:03.590Z</lastUpdated>
+  <lastUpdated>2021-02-19T16:00:03.059Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -163,6 +163,21 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2020-12-26T12:46:18.354Z</uploadedDate>
     <raw>https://mega.nz/folder/tAo0EKya#7CIe4wwtKOXuU4A9_UpTKQ</raw>
+  </episode>
+  <episode>
+    <airingId>228</airingId>
+    <content>Our theme for this episode is grilling. We'll be making chicken miso gratin, for a Japanese take on Western-style ingredients: stir-fried chicken and boiled potatoes, covered with béchamel sauce seasoned with miso, then heated in the toaster oven until browned and delicious. The secrets to this dish's rich flavor are kombu kelp dashi, full of savory umami flavor and miso -- and they go great with béchamel sauce! For our side dish, we'll be making spicy simmered Konnyaku and lotus root. These 2 characteristic Japanese ingredients are stir-fried and seasoned with a soy sauce-based sauce, for a great combination of the chewy texture of the Konnyaku and the crunchiness of the lotus root. Adding red chili pepper helps give them a delicious bit of heat as an accent, for a side that goes great with drinks, too!</content>
+    <description>Today's recipe: (1) Chicken Miso Gratin (2) Simmered Spicy Konnyaku and Lotus Root. Why not learn Japanese food culture and try real Japanese dishes at your home!</description>
+    <endDate>2021-02-19T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/asRyxBZT#_cNyxl3Oe4ZsWjUlXw6inw</link>
+    <recordDateEnd>2021-02-19T15:00:28.431Z</recordDateEnd>
+    <recordDateStart>2021-02-19T14:29:20.100Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>cd318ad81cf9167bf7600fa9c8aa7f7929d923acfe2e765837b03b0f371ccaad</sha256>
+    <startDate>2021-02-19T14:30:00.000Z</startDate>
+    <subtitle>Authentic Japanese Cooking: Chicken Miso Gratin</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-02-19T15:58:58.575Z</uploadedDate>
   </episode>
   <episode>
     <airingId>246</airingId>
