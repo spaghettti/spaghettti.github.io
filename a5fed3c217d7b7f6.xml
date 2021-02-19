@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-19T16:00:03.206Z</lastUpdated>
+  <lastUpdated>2021-02-19T17:15:04.003Z</lastUpdated>
   <seriesId>a5fed3c217d7b7f6</seriesId>
   <title>Today's Close-Up</title>
   <episode>
@@ -192,5 +192,22 @@ Iwashita Naoyuki (Professor, Kyoto University School of Government)</content>
     <title>Today's Close-Up</title>
     <uploadedDate>2021-02-05T21:52:22.604Z</uploadedDate>
     <raw>https://mega.nz/folder/oZhB2I7Z#scA8NUbxUQ8fkIWgQQvh5A</raw>
+  </episode>
+  <episode>
+    <airingId>818</airingId>
+    <content>The coronavirus pandemic has hit Japan's vulnerable teenagers especially hard. Some have been forced to take jobs to support their cash-strapped parents. Others have found themselves cooped up in stressful home environments as a result of stay-at-home requests. We spent time at a school attended by many struggling teens and documented the efforts of teachers and other staff to assist them as they make the transition beyond graduation into society.
+Guest:
+Ishii Kota (Writer)</content>
+    <description>The pandemic has hit vulnerable teenagers hard, forcing them to work to support their parents and to spend more time in troubled home environments. We look at what some schools are doing to help.</description>
+    <endDate>2021-02-19T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/41lQUYYK#MrjzMUcR-i-t1aAa-XC-Yw</link>
+    <recordDateEnd>2021-02-19T16:00:27.091Z</recordDateEnd>
+    <recordDateStart>2021-02-19T15:29:22.751Z</recordDateStart>
+    <seriesId>4002</seriesId>
+    <sha256>62761da9c4dc989e1e1da14b2bdda600d369f1bef168bdd6c51f67e052250f2a</sha256>
+    <startDate>2021-02-19T15:30:00.000Z</startDate>
+    <subtitle>Pandemic Hits Troubled Teens</subtitle>
+    <title>Today's Close-Up</title>
+    <uploadedDate>2021-02-19T17:12:59.321Z</uploadedDate>
   </episode>
 </episodeList>

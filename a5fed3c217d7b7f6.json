@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-19T16:00:03.207Z",
+  "lastUpdated": "2021-02-19T17:15:04.004Z",
   "seriesId": "4002",
   "title": "Today's Close-Up",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "Today's Close-Up",
       "uploadedDate": "2021-02-05T21:52:22.604Z",
       "raw": "https://mega.nz/folder/oZhB2I7Z#scA8NUbxUQ8fkIWgQQvh5A"
+    },
+    {
+      "airingId": "818",
+      "content": "The coronavirus pandemic has hit Japan's vulnerable teenagers especially hard. Some have been forced to take jobs to support their cash-strapped parents. Others have found themselves cooped up in stressful home environments as a result of stay-at-home requests. We spent time at a school attended by many struggling teens and documented the efforts of teachers and other staff to assist them as they make the transition beyond graduation into society.\nGuest:\nIshii Kota (Writer)",
+      "description": "The pandemic has hit vulnerable teenagers hard, forcing them to work to support their parents and to spend more time in troubled home environments. We look at what some schools are doing to help.",
+      "endDate": "2021-02-19T16:00:00.000Z",
+      "link": "https://mega.nz/folder/41lQUYYK#MrjzMUcR-i-t1aAa-XC-Yw",
+      "recordDateEnd": "2021-02-19T16:00:27.091Z",
+      "recordDateStart": "2021-02-19T15:29:22.751Z",
+      "seriesId": "4002",
+      "sha256": "62761da9c4dc989e1e1da14b2bdda600d369f1bef168bdd6c51f67e052250f2a",
+      "startDate": "2021-02-19T15:30:00.000Z",
+      "subtitle": "Pandemic Hits Troubled Teens",
+      "title": "Today's Close-Up",
+      "uploadedDate": "2021-02-19T17:12:59.321Z"
     }
   ]
 }
