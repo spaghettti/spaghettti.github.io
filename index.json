@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-18T17:25:04.000Z",
+  "lastUpdated": "2021-02-19T02:00:04.419Z",
   "series": [
     {
       "count": 18,
@@ -848,6 +848,14 @@
       "lastUpload": "2021-01-24T17:59:08.580Z",
       "seriesId": "2080",
       "title": "SONGS OF TOKYO"
+    },
+    {
+      "count": 1,
+      "uniqueId": "10a1fcde22d98685",
+      "lastAiring": "2021-02-18T23:30:00.000Z",
+      "lastUpload": "2021-02-19T01:56:17.864Z",
+      "seriesId": "7000",
+      "title": "SPIRIT OF JAPAN"
     },
     {
       "count": 10,
