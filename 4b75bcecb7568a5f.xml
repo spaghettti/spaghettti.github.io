@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-19T06:00:03.286Z</lastUpdated>
+  <lastUpdated>2021-02-19T07:55:03.700Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -130,5 +130,6 @@
     <subtitle>Judo</subtitle>
     <title>J-Arena</title>
     <uploadedDate>2021-02-19T05:55:40.163Z</uploadedDate>
+    <raw>https://mega.nz/folder/G5QyELoK#0D19v9eRNcf9LLBq_XDdvg</raw>
   </episode>
 </episodeList>
