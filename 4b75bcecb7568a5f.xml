@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-19T05:00:04.013Z</lastUpdated>
+  <lastUpdated>2021-02-19T06:00:03.286Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>J-Arena</title>
     <uploadedDate>2021-02-05T21:51:15.452Z</uploadedDate>
     <raw>https://mega.nz/folder/JoplEI5D#gBakNuHWiqDnnka6rB2r2w</raw>
+  </episode>
+  <episode>
+    <airingId>080</airingId>
+    <content>With no divisions by weight class, the All Japan Judo Championships is a unique event said to determine Japan's overall top judoka. Held yearly since 1948, the tournament stands out for its memorable scenes of smaller wrestlers attempting to topple larger opponents, including a valiant effort by 75kg judoka Koga Toshihiko, who made it all the way to the final in 1990 only to lose to a rival weighing over 50kg more. Through the lens of the tournament's 2020 edition as well as past historic bouts, we examine the spirit of judo and the core principle of "softness overcomes hardness."</content>
+    <description>The All Japan Judo Championships determine Japan's overall top judoka. With only an open weight division, the event is noted for its scenes of smaller wrestlers attempting to topple larger opponents.</description>
+    <endDate>2021-02-19T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/0V5CyDZT#QgzaCQll0Y2gEhjGEmw8Ow</link>
+    <recordDateEnd>2021-02-19T05:00:28.761Z</recordDateEnd>
+    <recordDateStart>2021-02-19T04:29:20.005Z</recordDateStart>
+    <seriesId>2073</seriesId>
+    <sha256>319bb842f3104e85934a91abe92b10da021527cd994a255dae66ba3406f20175</sha256>
+    <startDate>2021-02-19T04:30:00.000Z</startDate>
+    <subtitle>Judo</subtitle>
+    <title>J-Arena</title>
+    <uploadedDate>2021-02-19T05:55:40.163Z</uploadedDate>
   </episode>
 </episodeList>
