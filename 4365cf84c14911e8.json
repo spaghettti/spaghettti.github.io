@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-20T06:50:04.003Z",
+  "lastUpdated": "2021-02-20T15:45:04.165Z",
   "seriesId": "2074,3004",
   "title": "BIZ STREAM",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "BIZ STREAM",
       "uploadedDate": "2021-02-15T09:15:49.209Z",
       "raw": "https://mega.nz/folder/810k2ADJ#l_VnFpsb5i6TVDvo1kUaDg"
+    },
+    {
+      "airingId": "094",
+      "content": "[On-Site Report]\nAccording to a government survey, nearly 1.27 million small and medium-sized enterprises in Japan will be in danger of going out of business by 2025. Although the number of companies being forced to close during the pandemic is increasing, the number of prospective buyers is also on the rise. This episode looks at how Tranbi, an online matching service that helps facilitate mergers and acquisitions, is saving many small and medium-sized Japanese companies from going out of business.\n[In Depth: China Celebrates New Year in New Way]\nChina celebrated the Lunar New Year this year but without the usual swarms of travelers. Concerns about a coronavirus resurgence have put a new spin on age-old traditions. We take a look at how people and businesses adapted.\n[Global Trends: Entrepreneurs Rise from Bali Tourism Struggles]\nThe tourism industry on the Indonesian resort island of Bali has been hit hard by coronavirus restrictions. With foreign visitors out of the picture, many locals are charting a new course by starting their own businesses.",
+      "description": "This episode looks at how an online matching service that helps facilitate mergers and acquisitions is saving many small and medium sized Japanese companies from going out of business.",
+      "endDate": "2021-02-20T14:40:00.000Z",
+      "link": "https://mega.nz/folder/5eQESb5C#am64HWOe6Wu0oj2AEuLikQ",
+      "recordDateEnd": "2021-02-20T14:40:32.151Z",
+      "recordDateStart": "2021-02-20T14:09:20.099Z",
+      "seriesId": "2074",
+      "sha256": "d971f16126a162885c55c21ef4190a36a6c449327b3b66f782d4f52884979743",
+      "startDate": "2021-02-20T14:10:00.000Z",
+      "subtitle": "E-Commerce Meets M&A",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2021-02-20T15:44:41.505Z"
     },
     {
       "airingId": "704",
