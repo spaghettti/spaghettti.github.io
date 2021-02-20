@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-20T01:25:03.121Z</lastUpdated>
+  <lastUpdated>2021-02-20T02:40:03.477Z</lastUpdated>
   <seriesId>de77f30c8ee5dd46</seriesId>
   <title>Darwin's Amazing Animals</title>
   <episode>
@@ -99,5 +99,20 @@
     <title>Darwin's Amazing Animals</title>
     <uploadedDate>2021-01-23T02:27:52.209Z</uploadedDate>
     <raw>https://mega.nz/folder/iBsDFYJL#tOsWU-CUeXWxi3xY1e6nhA</raw>
+  </episode>
+  <episode>
+    <airingId>051</airingId>
+    <content>Gars aren't big on activity but don't think they're being lazy. Whether hunting or breeding, they calmly wait for the ideal time. Gars are not good swimmers so they lie still, relying on their alligator-like snout with sharp teeth to ambush unsuspecting prey. And who needs annual spawning when the lifespan can reach 90 years of age? They even come to the surface occasionally to breathe air! This amazing way of life has allowed the species to survive relatively unchanged for 100 million years.</content>
+    <description>Don't confuse the gar's inactivity with laziness. Whether hunting or breeding, it waits for the ideal time. This slow life has allowed the species to survive almost unchanged for 100 million years.</description>
+    <endDate>2021-02-20T00:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/ktFWXJbB#9AaV_Bm9VELbT1BlrZrAxw</link>
+    <recordDateEnd>2021-02-20T00:50:27.088Z</recordDateEnd>
+    <recordDateStart>2021-02-20T00:24:20.099Z</recordDateStart>
+    <seriesId>4030</seriesId>
+    <sha256>7b9eaeeeaa583356bc41a5d07d21ae366be3ef619685cc4285bd692f0a826a4e</sha256>
+    <startDate>2021-02-20T00:25:00.000Z</startDate>
+    <subtitle>Living Fossil -- Gar, United States</subtitle>
+    <title>Darwin's Amazing Animals</title>
+    <uploadedDate>2021-02-20T02:36:29.572Z</uploadedDate>
   </episode>
 </episodeList>
