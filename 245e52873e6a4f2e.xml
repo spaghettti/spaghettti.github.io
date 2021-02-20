@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-19T17:15:04.027Z</lastUpdated>
+  <lastUpdated>2021-02-20T01:25:03.134Z</lastUpdated>
   <seriesId>245e52873e6a4f2e</seriesId>
   <title>Broadcasters' Eye</title>
   <episode>
@@ -83,5 +83,20 @@
     <title>Broadcasters' Eye</title>
     <uploadedDate>2021-02-15T08:03:58.912Z</uploadedDate>
     <raw>https://mega.nz/folder/xAhQ3b5T#jXBbzo3txZxdOFJANFs5hA</raw>
+  </episode>
+  <episode>
+    <airingId>033</airingId>
+    <content/>
+    <description>Broadcasters' Eye showcases excellent programs produced by Japanese commercial broadcasters. This story is about the people who carry on the tradition of a passionate festival performance in Nagasaki.</description>
+    <endDate>2021-02-20T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/7thAgabQ#I-YAsuMpBNqLHVr4hON0bQ</link>
+    <recordDateEnd>2021-02-20T00:00:27.730Z</recordDateEnd>
+    <recordDateStart>2021-02-19T23:09:20.099Z</recordDateStart>
+    <seriesId>5006</seriesId>
+    <sha256>67013b1890999841e49997df6816fea47d0141f5678a05f98517fc484105afa6</sha256>
+    <startDate>2021-02-19T23:10:00.000Z</startDate>
+    <subtitle>Kokkodesho: The Treasure Ship Performance of Nagasaki</subtitle>
+    <title>Broadcasters' Eye</title>
+    <uploadedDate>2021-02-20T01:24:19.811Z</uploadedDate>
   </episode>
 </episodeList>
