@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-20T15:45:04.168Z</lastUpdated>
+  <lastUpdated>2021-02-20T18:20:03.794Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -36,6 +36,21 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <title>NHK Documentary</title>
     <uploadedDate>2020-12-24T23:55:38.067Z</uploadedDate>
     <raw>https://mega.nz/folder/tFYE1BbZ#rfxKNrVZ4RL-PlTK0gvXGA</raw>
+  </episode>
+  <episode>
+    <airingId>329</airingId>
+    <content>Scientists are discovering what's behind the strong bonds that can form between dogs and humans. And few bonds are stronger than those between therapy dogs and the patients they care for. Bailey was the first resident therapy dog to work in a large Japanese hospital. Over his 9-year career, he's cared for thousands of children, comforting them as they face intractable diseases. The dedicated therapy dog is now ready to retire. But first he must help a young girl named Yui deal with a life-threatening illness.</content>
+    <description>Therapy dog Bailey has been comforting sick children for 9 years. Now on the verge of retirement, he's dedicating himself to caring for Yui, a young girl with a life-threatening illness.</description>
+    <endDate>2021-02-20T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/IbwkmC6Y#NuNtzpuoEc_KCwcTDCgzlA</link>
+    <recordDateEnd>2021-02-20T16:00:29.293Z</recordDateEnd>
+    <recordDateStart>2021-02-20T15:09:22.665Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>d89497f278e98f01105e32ece90dc16e11843ffaf6fa86710190fb5a3fd8c2ef</sha256>
+    <startDate>2021-02-20T15:10:00.000Z</startDate>
+    <subtitle>Yui and Bailey the Therapy Dog</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2021-02-20T18:16:28.784Z</uploadedDate>
   </episode>
   <episode>
     <airingId>361</airingId>
