@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-20T02:40:03.457Z</lastUpdated>
+  <lastUpdated>2021-02-20T04:10:03.217Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>NHK WORLD PRIME</title>
     <uploadedDate>2021-01-19T07:22:21.145Z</uploadedDate>
     <raw>https://mega.nz/folder/UMhGTIyB#yGHW-ZNEfIbQTGLAtZnnuw</raw>
+  </episode>
+  <episode>
+    <airingId>033</airingId>
+    <content>80-year-old Dr. Kobori is as old as many of the people he cares for. Every day, he visits his elderly patients at their homes, offering advice and support as well as medical treatment. But sometimes the families who care for these patients require support as well. We follow this dedicated physician as he attends to people at the end of life, ensuring that their final hours are filled with comfort and dignity.</content>
+    <description>Dr. Kobori (80) cares for elderly patients at their homes, offering support to their families. The camera follows him as he ensures that his patients' final days are filled with comfort and dignity.</description>
+    <endDate>2021-02-20T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/F8UjVYwC#tcf-1LG40laoUInPi2lilQ</link>
+    <recordDateEnd>2021-02-20T02:00:28.744Z</recordDateEnd>
+    <recordDateStart>2021-02-20T01:09:22.730Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>1eabcb837349716d0d25d8998c2f825419a7e511a62565cbe47cbcddb9b1a229</sha256>
+    <startDate>2021-02-20T01:10:00.000Z</startDate>
+    <subtitle>A Doctor Beside the Deathbed</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2021-02-20T04:09:13.996Z</uploadedDate>
   </episode>
   <episode>
     <airingId>058</airingId>
