@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-21T02:55:03.761Z</lastUpdated>
+  <lastUpdated>2021-02-21T22:45:04.371Z</lastUpdated>
   <seriesId>59faa2d1f7a22f19</seriesId>
   <title>Japanology Plus mini</title>
   <episode>
@@ -35,5 +35,35 @@
     <title>Japanology Plus mini</title>
     <uploadedDate>2021-02-21T02:46:51.117Z</uploadedDate>
     <raw>https://mega.nz/folder/nwo0iS7Q#VH_CNt7JZFWB-pZRZmgaxg</raw>
+  </episode>
+  <episode>
+    <airingId>007</airingId>
+    <content/>
+    <description>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at rice cultivation. It takes a lot of hard work to produce Japan's delicious staple food.</description>
+    <endDate>2021-02-21T14:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/h48xlI6C#2_YWXcfoZ7P8ADy0fRkZ0A</link>
+    <recordDateEnd>2021-02-21T14:00:30.995Z</recordDateEnd>
+    <recordDateStart>2021-02-21T13:54:20.120Z</recordDateStart>
+    <seriesId>6032</seriesId>
+    <sha256>02a8ee2b55b8f8e154d3d48363fa2172c05f76df95160675deeb98c21004a61c</sha256>
+    <startDate>2021-02-21T13:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Japanology Plus mini</title>
+    <uploadedDate>2021-02-21T22:45:02.337Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>008</airingId>
+    <content/>
+    <description>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at soba restaurants. As a quick meal, or part of a New Year's tradition, soba is an iconic Japanese dish.</description>
+    <endDate>2021-02-21T20:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/vB8nwCBZ#hQRdxSazHEWLwDwp1rPaQQ</link>
+    <recordDateEnd>2021-02-21T20:00:27.854Z</recordDateEnd>
+    <recordDateStart>2021-02-21T19:54:20.133Z</recordDateStart>
+    <seriesId>6032</seriesId>
+    <sha256>5e78d97c45d0478d179c4b6db40f5a6a7c4ef7a7389ee3dce10348c27c7799ec</sha256>
+    <startDate>2021-02-21T19:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Japanology Plus mini</title>
+    <uploadedDate>2021-02-21T22:44:19.248Z</uploadedDate>
   </episode>
 </episodeList>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-21T02:55:03.761Z",
+  "lastUpdated": "2021-02-21T22:45:04.371Z",
   "seriesId": "6032",
   "title": "Japanology Plus mini",
   "episodes": [
@@ -34,6 +34,36 @@
       "title": "Japanology Plus mini",
       "uploadedDate": "2021-02-21T02:46:51.117Z",
       "raw": "https://mega.nz/folder/nwo0iS7Q#VH_CNt7JZFWB-pZRZmgaxg"
+    },
+    {
+      "airingId": "007",
+      "content": "",
+      "description": "Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at rice cultivation. It takes a lot of hard work to produce Japan's delicious staple food.",
+      "endDate": "2021-02-21T14:00:00.000Z",
+      "link": "https://mega.nz/folder/h48xlI6C#2_YWXcfoZ7P8ADy0fRkZ0A",
+      "recordDateEnd": "2021-02-21T14:00:30.995Z",
+      "recordDateStart": "2021-02-21T13:54:20.120Z",
+      "seriesId": "6032",
+      "sha256": "02a8ee2b55b8f8e154d3d48363fa2172c05f76df95160675deeb98c21004a61c",
+      "startDate": "2021-02-21T13:55:00.000Z",
+      "subtitle": "",
+      "title": "Japanology Plus mini",
+      "uploadedDate": "2021-02-21T22:45:02.337Z"
+    },
+    {
+      "airingId": "008",
+      "content": "",
+      "description": "Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at soba restaurants. As a quick meal, or part of a New Year's tradition, soba is an iconic Japanese dish.",
+      "endDate": "2021-02-21T20:00:00.000Z",
+      "link": "https://mega.nz/folder/vB8nwCBZ#hQRdxSazHEWLwDwp1rPaQQ",
+      "recordDateEnd": "2021-02-21T20:00:27.854Z",
+      "recordDateStart": "2021-02-21T19:54:20.133Z",
+      "seriesId": "6032",
+      "sha256": "5e78d97c45d0478d179c4b6db40f5a6a7c4ef7a7389ee3dce10348c27c7799ec",
+      "startDate": "2021-02-21T19:55:00.000Z",
+      "subtitle": "",
+      "title": "Japanology Plus mini",
+      "uploadedDate": "2021-02-21T22:44:19.248Z"
     }
   ]
 }
