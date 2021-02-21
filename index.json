@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-21T01:30:03.226Z",
+  "lastUpdated": "2021-02-21T01:40:03.904Z",
   "series": [
     {
       "count": 18,
@@ -162,10 +162,10 @@
       "title": "Core Kyoto"
     },
     {
-      "count": 14,
+      "count": 15,
       "uniqueId": "582ad0f8b7805a6b",
-      "lastAiring": "2021-01-01T03:25:00.000Z",
-      "lastUpload": "2021-01-01T04:54:50.100Z",
+      "lastAiring": "2021-02-21T00:40:00.000Z",
+      "lastUpload": "2021-02-21T01:39:16.914Z",
       "seriesId": "6024",
       "title": "Core Kyoto mini"
     },

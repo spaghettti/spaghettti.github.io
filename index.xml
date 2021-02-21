@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-21T01:30:03.219Z</lastUpdated>
+  <lastUpdated>2021-02-21T01:40:03.897Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -163,10 +163,10 @@
     <title>Core Kyoto</title>
   </series>
   <series>
-    <count>14</count>
+    <count>15</count>
     <uniqueId>582ad0f8b7805a6b</uniqueId>
-    <lastAiring>2021-01-01T03:25:00.000Z</lastAiring>
-    <lastUpload>2021-01-01T04:54:50.100Z</lastUpload>
+    <lastAiring>2021-02-21T00:40:00.000Z</lastAiring>
+    <lastUpload>2021-02-21T01:39:16.914Z</lastUpload>
     <seriesId>6024</seriesId>
     <title>Core Kyoto mini</title>
   </series>
