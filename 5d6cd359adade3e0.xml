@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-21T23:05:03.900Z</lastUpdated>
+  <lastUpdated>2021-02-21T23:15:03.579Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
   <episode>
@@ -83,6 +83,22 @@
     <title>Doki Doki! NHK WORLD-JAPAN</title>
     <uploadedDate>2021-01-24T12:30:15.961Z</uploadedDate>
     <raw>https://mega.nz/folder/ayxhBCLB#UMeReYxl44YPHpd0v-a7Cg</raw>
+  </episode>
+  <episode>
+    <airingId>067</airingId>
+    <content/>
+    <description>This time we introduce "DESIGN TALKS plus," which shows local landscape of Manazuru, Kanagawa prefecture. Inhabitants set 69 regulations and rules to preserve the landscape of their town.</description>
+    <endDate>2021-02-21T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/u0pm3DJL#8UsODwjSQ8T74grnDaR88Q</link>
+    <recordDateEnd>2021-02-21T11:55:29.228Z</recordDateEnd>
+    <recordDateStart>2021-02-21T11:49:20.122Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>f80b6b60c8fdcc90068c385e9180ea3ef5490ad899d023d724df14f9a82b23f6</sha256>
+    <startDate>2021-02-21T11:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2021-02-21T23:10:27.919Z</uploadedDate>
+    <raw>https://mega.nz/folder/D5hinTwY#b3lSy32KfyWB673EzrFdAA</raw>
   </episode>
   <episode>
     <airingId>071</airingId>
