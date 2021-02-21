@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-21T22:50:03.831Z</lastUpdated>
+  <lastUpdated>2021-02-21T23:05:04.014Z</lastUpdated>
   <seriesId>30aa2c9c765292e1</seriesId>
   <title>Inspiring Landscapes</title>
   <episode>
@@ -51,6 +51,21 @@
     <title>Inspiring Landscapes</title>
     <uploadedDate>2021-02-15T02:39:56.320Z</uploadedDate>
     <raw>https://mega.nz/folder/kw9mDQqT#y6hRsBb79wECf7_spS8-gg</raw>
+  </episode>
+  <episode>
+    <airingId>034</airingId>
+    <content/>
+    <description>Minami-Izu,in Shizuoka Prefecture.The Suzaki Peninsula juts out into the Pacific Ocean.When spring arrives, many seaweed sprouts emerge in the still chilly ocean water.Come and explore the Minami-Izu.</description>
+    <endDate>2021-02-21T16:47:00.000Z</endDate>
+    <link>https://mega.nz/folder/TA12AA5b#OvSqV6b4gUdFgmKdRxxLZw</link>
+    <recordDateEnd>2021-02-21T16:47:26.713Z</recordDateEnd>
+    <recordDateStart>2021-02-21T16:29:20.125Z</recordDateStart>
+    <seriesId>6206</seriesId>
+    <sha256>03c425cafeb802c43985601f7e4e79589ddee26e9effdb188ebcc3fa678b3fc8</sha256>
+    <startDate>2021-02-21T16:30:00.000Z</startDate>
+    <subtitle/>
+    <title>Inspiring Landscapes</title>
+    <uploadedDate>2021-02-21T23:02:58.182Z</uploadedDate>
   </episode>
   <episode>
     <airingId>036</airingId>
