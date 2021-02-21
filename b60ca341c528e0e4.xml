@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-21T22:45:04.348Z</lastUpdated>
+  <lastUpdated>2021-02-21T22:50:03.794Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -227,5 +227,20 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-02-15T06:51:03.383Z</uploadedDate>
     <raw>https://mega.nz/folder/UVhGTZQQ#gzBJkoIGoN7KQkhTHLtZRw</raw>
+  </episode>
+  <episode>
+    <airingId>045</airingId>
+    <content/>
+    <description>#45 Would you check the Japanese in my email? / To politely ask someone to do something, use a "te" form verb and "moraemasen ka." For example, "chekku-shite moraemasen ka" (would you check?).</description>
+    <endDate>2021-02-21T16:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/G0whzSJQ#cXOP4wWy-53rkl8NkycLSg</link>
+    <recordDateEnd>2021-02-21T16:50:28.917Z</recordDateEnd>
+    <recordDateStart>2021-02-21T16:46:20.075Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>b3d2003bf1a6189cb4d7a1d7855906cf6076212366fba186f8173f869c644d98</sha256>
+    <startDate>2021-02-21T16:47:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-02-21T22:46:20.357Z</uploadedDate>
   </episode>
 </episodeList>
