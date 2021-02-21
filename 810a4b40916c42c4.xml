@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-21T00:55:03.537Z</lastUpdated>
+  <lastUpdated>2021-02-21T01:30:03.144Z</lastUpdated>
   <seriesId>810a4b40916c42c4</seriesId>
   <title>Hometown Stories</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>Hometown Stories</title>
     <uploadedDate>2020-12-25T03:54:51.888Z</uploadedDate>
     <raw>https://mega.nz/folder/6gckzZQR#-ogq3Uix8qZ-c7HFdO8zrw</raw>
+  </episode>
+  <episode>
+    <airingId>134</airingId>
+    <content>Paralyzed in his lower legs and hands, Takeshi Kukizaki, 68, grows azaleas and runs an azalea garden in Kagoshima City, southwest Japan. 19 years ago, while working at a company, he was suddenly struck by a serious neurological disorder. Suffering from severe aftereffects, he even contemplated suicide. It was azaleas, flowers he had long cherished, that restored his will to live. After leaving the hospital, Takeshi opened his garden and now uses his flowers to give hope and courage to others.</content>
+    <description>After a serious illness paralyzed his lower legs and hands, Takeshi Kukizaki, 68, grows azaleas and gives advice on how to raise them. He also uses the flowers to give hope and courage to others.</description>
+    <endDate>2021-02-21T00:37:00.000Z</endDate>
+    <link>https://mega.nz/folder/JxcWxBAB#7o9voJvwpXZKsMVI29E4Aw</link>
+    <recordDateEnd>2021-02-21T00:37:24.901Z</recordDateEnd>
+    <recordDateStart>2021-02-21T00:09:22.734Z</recordDateStart>
+    <seriesId>5003</seriesId>
+    <sha256>3d461c4485c52e12cea2ffa96d983702a332517d7168c9fa0f8496b192fafbb3</sha256>
+    <startDate>2021-02-21T00:10:00.000Z</startDate>
+    <subtitle>Strength and Hope - The Power of Azaleas</subtitle>
+    <title>Hometown Stories</title>
+    <uploadedDate>2021-02-21T01:30:00.391Z</uploadedDate>
   </episode>
   <episode>
     <airingId>136</airingId>
