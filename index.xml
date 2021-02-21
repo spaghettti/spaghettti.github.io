@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-21T23:15:03.725Z</lastUpdated>
+  <lastUpdated>2021-02-21T23:55:03.664Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -843,10 +843,10 @@
     <title>Somewhere Street</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>ee84cdd8cbb8021b</uniqueId>
-    <lastAiring>2021-01-24T15:10:00.000Z</lastAiring>
-    <lastUpload>2021-01-24T17:59:08.580Z</lastUpload>
+    <lastAiring>2021-02-21T15:10:00.000Z</lastAiring>
+    <lastUpload>2021-02-21T23:54:51.616Z</lastUpload>
     <seriesId>2080</seriesId>
     <title>SONGS OF TOKYO</title>
   </series>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-21T23:15:03.584Z</lastUpdated>
+  <lastUpdated>2021-02-21T23:55:03.537Z</lastUpdated>
   <seriesId>ee84cdd8cbb8021b</seriesId>
   <title>SONGS OF TOKYO</title>
   <episode>
@@ -67,5 +67,20 @@
     <title>SONGS OF TOKYO</title>
     <uploadedDate>2021-01-24T17:59:08.580Z</uploadedDate>
     <raw>https://mega.nz/folder/XiJUUTjR#MAgShnpANlM9qSp8TAp68w</raw>
+  </episode>
+  <episode>
+    <airingId>020</airingId>
+    <content>Showcasing Japanese music to the world. Featuring live performances by some of Japan's leading J-POP singers and musicians.</content>
+    <description>Meet Sexy Zone celebrating their 10th anniversary! They will perform RUN, a sing about their bond, and RIGHT NEXT TO YOU, a new English song with dynamic dance moves.</description>
+    <endDate>2021-02-21T15:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/w11gyRiY#ej7ZrSJ0XCDkNREm8LZOaA</link>
+    <recordDateEnd>2021-02-21T15:40:33.103Z</recordDateEnd>
+    <recordDateStart>2021-02-21T15:09:20.177Z</recordDateStart>
+    <seriesId>2080</seriesId>
+    <sha256>91fda1c45397936e872de09af1913b21cb7a7fdea922f5a93bea14c3c0bef10f</sha256>
+    <startDate>2021-02-21T15:10:00.000Z</startDate>
+    <subtitle>#19 Sexy Zone</subtitle>
+    <title>SONGS OF TOKYO</title>
+    <uploadedDate>2021-02-21T23:54:51.616Z</uploadedDate>
   </episode>
 </episodeList>
