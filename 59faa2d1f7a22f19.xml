@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-21T01:50:03.879Z</lastUpdated>
+  <lastUpdated>2021-02-21T02:50:03.471Z</lastUpdated>
   <seriesId>59faa2d1f7a22f19</seriesId>
   <title>Japanology Plus mini</title>
   <episode>
@@ -19,5 +19,21 @@
     <title>Japanology Plus mini</title>
     <uploadedDate>2021-01-13T07:28:37.660Z</uploadedDate>
     <raw>https://mega.nz/folder/uRF30CjC#0EeGEQRAcNPHysT6CYRfpg</raw>
+  </episode>
+  <episode>
+    <airingId>005</airingId>
+    <content/>
+    <description>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at bladed tools. Traditional techniques are used to make a range of state-of-the-art items.</description>
+    <endDate>2021-02-21T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/HBkGGS6Z#68e7tlpYPy4xTWN-WSwTFQ</link>
+    <recordDateEnd>2021-02-21T02:00:33.068Z</recordDateEnd>
+    <recordDateStart>2021-02-21T01:54:20.068Z</recordDateStart>
+    <seriesId>6032</seriesId>
+    <sha256>23e8aedbf381f8b56c321d3e6c3992568ecb451f1cb857ac709d3378dd084f0d</sha256>
+    <startDate>2021-02-21T01:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Japanology Plus mini</title>
+    <uploadedDate>2021-02-21T02:46:51.117Z</uploadedDate>
+    <raw>https://mega.nz/folder/nwo0iS7Q#VH_CNt7JZFWB-pZRZmgaxg</raw>
   </episode>
 </episodeList>
