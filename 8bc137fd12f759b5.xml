@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-20T18:20:03.683Z</lastUpdated>
+  <lastUpdated>2021-02-21T00:55:03.489Z</lastUpdated>
   <seriesId>8bc137fd12f759b5</seriesId>
   <title>Easy Travel Japanese</title>
   <episode>
@@ -51,5 +51,21 @@
     <title>Easy Travel Japanese</title>
     <uploadedDate>2021-01-24T01:26:38.633Z</uploadedDate>
     <raw>https://mega.nz/folder/xbhi2IQJ#Spma9O96UW6QnYNcdAXXpQ</raw>
+  </episode>
+  <episode>
+    <airingId>459</airingId>
+    <content/>
+    <description>#8 Onomatopoeia/ We'll look at some examples of onomatopoeia, the imitation of sounds in words. The Japanese language is rich with such words.</description>
+    <endDate>2021-02-21T00:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/XN10nZzB#fG6ICsP9BLJBVWULqKdflQ</link>
+    <recordDateEnd>2021-02-21T00:40:24.440Z</recordDateEnd>
+    <recordDateStart>2021-02-21T00:36:20.001Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>8cbbbd8d2d43d9fe367803f1ae9cfe70836fd9b0a3b4ffb511cf9dcc61c88f55</sha256>
+    <startDate>2021-02-21T00:37:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Travel Japanese</title>
+    <uploadedDate>2021-02-21T00:51:35.327Z</uploadedDate>
+    <raw>https://mega.nz/folder/AtsUiZjQ#WotNBGpNy7Y8owCQgmrCFw</raw>
   </episode>
 </episodeList>
