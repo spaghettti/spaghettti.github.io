@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-22T03:00:03.997Z</lastUpdated>
+  <lastUpdated>2021-02-22T03:20:03.223Z</lastUpdated>
   <seriesId>4c42bed9def1d9d4</seriesId>
   <title>Where We Call Home</title>
   <episode>
@@ -67,6 +67,22 @@
     <title>Where We Call Home</title>
     <uploadedDate>2021-01-25T03:44:23.615Z</uploadedDate>
     <raw>https://mega.nz/folder/cSBDDQbB#gFSrI1oHkl8CjJ7cAU_N7Q</raw>
+  </episode>
+  <episode>
+    <airingId>019</airingId>
+    <content>On this episode, we meet manga creator René Hoshino from Cameroon who's been living in Japan since childhood after his mother remarried to a Japanese national. Growing up, he has often been the target of prejudice and discrimination, but using his artistic skills, he turned this harsh experience into a best-selling manga that fosters understanding as it touches on serious matters with a little bit of humor. We also drop by a café in Tokyo where Korean-born Woo Youngju works as head barista.</content>
+    <description>On this episode, we meet manga creator Rene Hoshino from Cameroon. Having lived in Japan since childhood, he turned his experience with discrimination into a hit comic book series.</description>
+    <endDate>2021-02-22T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/N0gjEISb#FWIf4eZ15GWp16X_3bEQmQ</link>
+    <recordDateEnd>2021-02-22T02:00:23.959Z</recordDateEnd>
+    <recordDateStart>2021-02-22T01:29:22.960Z</recordDateStart>
+    <seriesId>2087</seriesId>
+    <sha256>84eeeb42d2c3759ee6ec0dcd04d78c3495a5b557856e3578c45de4a9879b97c4</sha256>
+    <startDate>2021-02-22T01:30:00.000Z</startDate>
+    <subtitle>Uniting People Through Manga</subtitle>
+    <title>Where We Call Home</title>
+    <uploadedDate>2021-02-22T03:16:07.084Z</uploadedDate>
+    <raw>https://mega.nz/folder/ts5FSQKb#gu466JkMq2YnBIgF5vCoRA</raw>
   </episode>
   <episode>
     <airingId>021</airingId>
