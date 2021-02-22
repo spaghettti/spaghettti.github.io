@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-22T06:10:04.025Z</lastUpdated>
+  <lastUpdated>2021-02-22T06:30:04.120Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -915,10 +915,10 @@
     <title>The KYOTO CODE: Bamboo Boundaries</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>aca3c5281f781918</uniqueId>
-    <lastAiring>2021-02-15T04:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-15T06:07:47.151Z</lastUpload>
+    <lastAiring>2021-02-22T04:30:00.000Z</lastAiring>
+    <lastUpload>2021-02-22T06:28:14.358Z</lastUpload>
     <seriesId>4018</seriesId>
     <title>The Mark of Beauty</title>
   </series>
