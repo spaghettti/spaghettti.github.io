@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-22T00:55:03.358Z</lastUpdated>
+  <lastUpdated>2021-02-22T02:40:03.633Z</lastUpdated>
   <seriesId>59faa2d1f7a22f19</seriesId>
   <title>Japanology Plus mini</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>Japanology Plus mini</title>
     <uploadedDate>2021-02-21T02:46:51.117Z</uploadedDate>
     <raw>https://mega.nz/folder/nwo0iS7Q#VH_CNt7JZFWB-pZRZmgaxg</raw>
+  </episode>
+  <episode>
+    <airingId>006</airingId>
+    <content/>
+    <description>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at deep-fried food. These mouth-watering Japanese dishes are enjoyed as takeaway items and made at home.</description>
+    <endDate>2021-02-21T08:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/WBsC3TDY#3pzE_LrLJ9-yf17Ue6fUwA</link>
+    <recordDateEnd>2021-02-21T08:00:30.449Z</recordDateEnd>
+    <recordDateStart>2021-02-21T07:54:20.127Z</recordDateStart>
+    <seriesId>6032</seriesId>
+    <sha256>26528729cea8ad4b459744f5ce9b99a344904cdb8583f94a281ac70f4ade8008</sha256>
+    <startDate>2021-02-21T07:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Japanology Plus mini</title>
+    <uploadedDate>2021-02-22T02:36:48.456Z</uploadedDate>
+    <raw>https://mega.nz/folder/LZsBRAzQ#tgxZ1tpE8X23OmoIZEceVA</raw>
   </episode>
   <episode>
     <airingId>007</airingId>
