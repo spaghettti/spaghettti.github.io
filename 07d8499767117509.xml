@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-22T06:30:03.956Z</lastUpdated>
+  <lastUpdated>2021-02-22T08:00:03.970Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -627,6 +627,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-29T04:56:03.806Z</uploadedDate>
     <raw>https://mega.nz/folder/kC4EFbDR#wg3lj6vS09iSsyLRd4Nxfw</raw>
+  </episode>
+  <episode>
+    <airingId>604</airingId>
+    <content>For years, Keiko Itabashi has hosted a radio show about disaster preparedness in Miyagi Prefecture, an area that suffered grave damage in Japan's 3.11 disaster. What lessons does she have for her audience?</content>
+    <description>For years, Keiko Itabashi has hosted a radio show about disaster preparedness in Miyagi, an area that suffered grave damage in Japan's 3.11 disaster. What lessons does she have for her audience?</description>
+    <endDate>2021-02-22T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/R9Ij2SgS#r4jAK1Nu4z5OTptKJ_305Q</link>
+    <recordDateEnd>2021-02-22T07:30:25.934Z</recordDateEnd>
+    <recordDateStart>2021-02-22T07:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>dbb555630c709d418ea6dc014e35790f0cb7ced0594e36e3f1537590a77be33c</sha256>
+    <startDate>2021-02-22T07:15:00.000Z</startDate>
+    <subtitle>Survival Cooking Consciousness: Keiko Itabashi / Radio Personality</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-22T07:58:24.907Z</uploadedDate>
   </episode>
   <episode>
     <airingId>608</airingId>

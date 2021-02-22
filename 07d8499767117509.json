@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-22T06:30:03.974Z",
+  "lastUpdated": "2021-02-22T08:00:03.987Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -626,6 +626,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-01-29T04:56:03.806Z",
       "raw": "https://mega.nz/folder/kC4EFbDR#wg3lj6vS09iSsyLRd4Nxfw"
+    },
+    {
+      "airingId": "604",
+      "content": "For years, Keiko Itabashi has hosted a radio show about disaster preparedness in Miyagi Prefecture, an area that suffered grave damage in Japan's 3.11 disaster. What lessons does she have for her audience?",
+      "description": "For years, Keiko Itabashi has hosted a radio show about disaster preparedness in Miyagi, an area that suffered grave damage in Japan's 3.11 disaster. What lessons does she have for her audience?",
+      "endDate": "2021-02-22T07:30:00.000Z",
+      "link": "https://mega.nz/folder/R9Ij2SgS#r4jAK1Nu4z5OTptKJ_305Q",
+      "recordDateEnd": "2021-02-22T07:30:25.934Z",
+      "recordDateStart": "2021-02-22T07:14:20.016Z",
+      "seriesId": "2058",
+      "sha256": "dbb555630c709d418ea6dc014e35790f0cb7ced0594e36e3f1537590a77be33c",
+      "startDate": "2021-02-22T07:15:00.000Z",
+      "subtitle": "Survival Cooking Consciousness: Keiko Itabashi / Radio Personality",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-22T07:58:24.907Z"
     },
     {
       "airingId": "608",
