@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-22T08:00:03.923Z</lastUpdated>
+  <lastUpdated>2021-02-22T15:50:03.348Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -195,6 +195,21 @@
     <title>Core Kyoto</title>
     <uploadedDate>2021-02-15T16:46:58.405Z</uploadedDate>
     <raw>https://mega.nz/folder/JotjiSLY#Ij-AV4edcnOOErmLUO2KDw</raw>
+  </episode>
+  <episode>
+    <airingId>059</airingId>
+    <content>Suiseki is the appreciation of natural stone shapes using poetic imagination to visualize magnificent mountain, island or waterfall landscapes. This pastime arrived from China in the late 1100s and spread among Kyoto aristocrats and Zen monks. Suiseki's beauty lies in the stones' understated simplicity and becalming quality. The Seven Stones of Kamo found in the Kamo River basin are prized in Suiseki circles. Discover the profound world of rock appreciation that evolved in the old capital.</content>
+    <description>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive program. Today: Suiseki, a world of understated beauty within natural stone.</description>
+    <endDate>2021-02-22T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/5KxiWZyL#EZtRmCh5mEikEZkDl3OYOw</link>
+    <recordDateEnd>2021-02-22T15:00:30.415Z</recordDateEnd>
+    <recordDateStart>2021-02-22T14:29:20.102Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>dce791cc80be3a66a6df617548ab6165784c1a3fd9af9b945fe500f26560eb61</sha256>
+    <startDate>2021-02-22T14:30:00.000Z</startDate>
+    <subtitle>Suiseki: A World of Understated Beauty within Natural Stone</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-02-22T15:48:23.535Z</uploadedDate>
   </episode>
   <episode>
     <airingId>064</airingId>
