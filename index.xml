@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-21T23:55:03.664Z</lastUpdated>
+  <lastUpdated>2021-02-22T00:10:03.675Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -1043,10 +1043,10 @@
     <title>We're in This Together</title>
   </series>
   <series>
-    <count>13</count>
+    <count>14</count>
     <uniqueId>96934130ea8f6060</uniqueId>
-    <lastAiring>2021-02-07T23:15:00.000Z</lastAiring>
-    <lastUpload>2021-02-09T21:32:59.692Z</lastUpload>
+    <lastAiring>2021-02-21T23:15:00.000Z</lastAiring>
+    <lastUpload>2021-02-22T00:09:15.711Z</lastUpload>
     <seriesId>6033</seriesId>
     <title>We, in the Time of Corona</title>
   </series>

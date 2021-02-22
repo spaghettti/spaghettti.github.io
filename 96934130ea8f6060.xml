@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-21T23:55:03.625Z</lastUpdated>
+  <lastUpdated>2021-02-22T00:10:03.634Z</lastUpdated>
   <seriesId>96934130ea8f6060</seriesId>
   <title>We, in the Time of Corona</title>
   <episode>
@@ -99,6 +99,21 @@
     <title>We, in the Time of Corona</title>
     <uploadedDate>2021-01-13T08:52:37.411Z</uploadedDate>
     <raw>https://mega.nz/folder/5R02iKYY#KAlcNRzvQUxfvrZhCWFnhQ</raw>
+  </episode>
+  <episode>
+    <airingId>032</airingId>
+    <content>With amazing economic growth in recent years, Rwanda has been pursuing a progressive ICT policy. The young ICT Minister talks about innovative technologies to combat the pandemic.</content>
+    <description>With amazing economic growth in recent years, Rwanda has been pursuing a progressive ICT policy. The young ICT Minister talks about innovative technologies to combat the pandemic.</description>
+    <endDate>2021-02-21T23:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/IlFHTYII#LDyJHFTNCro-NUW3t2BLnA</link>
+    <recordDateEnd>2021-02-21T23:20:27.252Z</recordDateEnd>
+    <recordDateStart>2021-02-21T23:14:20.100Z</recordDateStart>
+    <seriesId>6033</seriesId>
+    <sha256>bd79671429f332058b75ed6cf5b1c2dcbd4eb51b2fe6240e17e12a9bca2d04ab</sha256>
+    <startDate>2021-02-21T23:15:00.000Z</startDate>
+    <subtitle>Paula Ingabire, Minister of ICT &amp; Innovation, Rwanda</subtitle>
+    <title>We, in the Time of Corona</title>
+    <uploadedDate>2021-02-22T00:09:15.711Z</uploadedDate>
   </episode>
   <episode>
     <airingId>033</airingId>
