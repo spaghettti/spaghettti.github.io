@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-22T00:10:03.656Z",
+  "lastUpdated": "2021-02-22T00:35:03.401Z",
   "seriesId": "6210",
   "title": "Japan-easy",
   "episodes": [
@@ -226,6 +226,22 @@
       "title": "Japan-easy2",
       "uploadedDate": "2021-02-15T02:29:40.699Z",
       "raw": "https://mega.nz/folder/4B42GQRJ#sVX72rIv_o6cfpq84fpINw"
+    },
+    {
+      "airingId": "123",
+      "content": "",
+      "description": "Today, we'll learn how to say \"I don't like this\" in Japanese. Learn useful phrases and cool kanji! And you'll realize \"Japanese is easy\"!",
+      "endDate": "2021-02-21T11:40:00.000Z",
+      "link": "https://mega.nz/folder/ZddwWZgB#zbZu3joywVkiLD8VFxOHCQ",
+      "recordDateEnd": "2021-02-21T11:40:26.278Z",
+      "recordDateStart": "2021-02-21T11:24:23.254Z",
+      "seriesId": "6210",
+      "sha256": "8c56cc84b760f908ff6abb8fd3044d7c10db6f76963eae89b9c0fe672f3cbf88",
+      "startDate": "2021-02-21T11:25:00.000Z",
+      "subtitle": "",
+      "title": "Japan-easy2",
+      "uploadedDate": "2021-02-22T00:30:48.060Z",
+      "raw": "https://mega.nz/folder/5FFQWRoY#RUX4zkS08dEzJGqBlNyfKg"
     }
   ]
 }
