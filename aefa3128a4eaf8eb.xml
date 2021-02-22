@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-22T03:50:03.735Z</lastUpdated>
+  <lastUpdated>2021-02-22T05:45:03.776Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -179,6 +179,22 @@
     <title>Somewhere Street</title>
     <uploadedDate>2021-02-15T17:28:40.968Z</uploadedDate>
     <raw>https://mega.nz/folder/1psilR5I#fEltDdvK5q__l1QjrL4VpA</raw>
+  </episode>
+  <episode>
+    <airingId>090</airingId>
+    <content>Vigan, a city on the western coast of the island of Luzon in the Philippines, became a World Heritage Site in 1999. The Spanish established the city as a trading port when the Philippines was a Spanish colony. It's distinctive building styles incorporate the influence of Spain, the Philippines and China. Similar neighborhoods were built across the country -- in Manila, Cebu, and so on, however, almost all of that architecture was destroyed during the World War II. Only Vigan survived intact. Its Spanish colonial era preserved the townscape attracts visitors from all over the world.</content>
+    <description>Located on the western coast of the island of Luzon in the Philippines, Vigan is a UNESCO World Heritage Site. It is considered one of the best preserved examples of Spanish colonial towns in Asia.</description>
+    <endDate>2021-02-21T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/JLghgCAJ#v_7g8tTvQeaSFFncH_1SHw</link>
+    <recordDateEnd>2021-02-21T05:00:31.755Z</recordDateEnd>
+    <recordDateStart>2021-02-21T04:09:23.000Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>63b0495a7ce4bf9440ad17ae482bbf68a914e20f74e7ed6541acc049be2fd607</sha256>
+    <startDate>2021-02-21T04:10:00.000Z</startDate>
+    <subtitle>Vigan, The Philippines</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-02-22T05:41:26.467Z</uploadedDate>
+    <raw>https://mega.nz/folder/LkY0nZKS#2DILqpznCslvxn2zMJPChg</raw>
   </episode>
   <episode>
     <airingId>107</airingId>
