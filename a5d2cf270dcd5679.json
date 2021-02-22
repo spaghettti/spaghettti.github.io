@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-22T15:50:03.386Z",
+  "lastUpdated": "2021-02-22T16:45:03.862Z",
   "seriesId": "2050",
   "title": "Medical Frontiers",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "Medical Frontiers",
       "uploadedDate": "2021-02-15T18:50:46.338Z",
       "raw": "https://mega.nz/folder/iZEXnK4I#hZi7x1XxJdIsYwVfLkvd8w"
+    },
+    {
+      "airingId": "105",
+      "content": "Long COVID is a condition in which symptoms such as fatigue, cognitive dysfunction and hair loss continue after infection has passed. A Japanese researcher who studied the cause published a paper confirming that SARS-Cov-2 infects the brain. It says symptoms vary according to the area of the brain that is infected. Separately, a Japanese national medical institution has developed a blood test to predict who could get severe COVID-19.",
+      "description": "There have been reports of people suffering from prolonged symptoms that last months after their recovery from COVID-19. A Japanese researcher reveals her findings on the mysterious condition.",
+      "endDate": "2021-02-22T16:00:00.000Z",
+      "link": "https://mega.nz/folder/UE8inKyb#4gtQeQgXiuJ0uv58XGrU0g",
+      "recordDateEnd": "2021-02-22T16:00:29.163Z",
+      "recordDateStart": "2021-02-22T15:29:23.360Z",
+      "seriesId": "2050",
+      "sha256": "d8413c8e4c1734c19848b6eaf915de22bdcc5b3cf5a0c958b8534528cf5615f6",
+      "startDate": "2021-02-22T15:30:00.000Z",
+      "subtitle": "COVID-19: The Mystery of Prolonged Symptoms",
+      "title": "Medical Frontiers",
+      "uploadedDate": "2021-02-22T16:41:56.074Z"
     }
   ]
 }
