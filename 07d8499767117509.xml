@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-23T06:45:04.044Z</lastUpdated>
+  <lastUpdated>2021-02-23T08:05:03.670Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -643,6 +643,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-22T07:58:24.907Z</uploadedDate>
     <raw>https://mega.nz/folder/IEMDQCzb#2I_7kdcPTD_3zMTuIO7aFQ</raw>
+  </episode>
+  <episode>
+    <airingId>605</airingId>
+    <content>Hiroki Iwasa grows high-end strawberries in Miyagi Prefecture -- a region that was hit hard by the 2011 Tohoku earthquake and tsunami. How is he revitalizing the local economy and agricultural industry?</content>
+    <description>Hiroki Iwasa grows high-end strawberries in Miyagi Prefecture-a region that was hit hard by the 2011 Tohoku earthquake and tsunami. How is he revitalizing the local economy and agricultural industry?</description>
+    <endDate>2021-02-23T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/RRtE3TTa#qru72_jtk5K18s8h6wfugw</link>
+    <recordDateEnd>2021-02-23T07:30:24.208Z</recordDateEnd>
+    <recordDateStart>2021-02-23T07:14:20.100Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>ce533f5942e914a5717a8bf5dc3364e6c410447b85618c1f5e853a0fe8af0d72</sha256>
+    <startDate>2021-02-23T07:15:00.000Z</startDate>
+    <subtitle>High-tech Strawberry Farming: Hiroki Iwasa / President &amp; CEO, GRA</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-23T08:03:16.426Z</uploadedDate>
+    <raw>https://mega.nz/folder/XgoUCL4A#BOoJEoQS0b3nZyR91IQkSA</raw>
   </episode>
   <episode>
     <airingId>608</airingId>
