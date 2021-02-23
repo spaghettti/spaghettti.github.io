@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-23T08:05:03.670Z</lastUpdated>
+  <lastUpdated>2021-02-23T09:55:03.435Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1491,6 +1491,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-22T06:07:33.723Z</uploadedDate>
     <raw>https://mega.nz/folder/EsAimZgS#QNBDtiegAWOYu5s4GQLaRQ</raw>
+  </episode>
+  <episode>
+    <airingId>691</airingId>
+    <content/>
+    <description>In Ethiopia, one of the world's poorest countries, Samejima Hiroko founded a company that ethically produces high-quality leather handbags. She tells us the story of her unique products and business.</description>
+    <endDate>2021-02-23T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/zspG2IQb#63GgbUk-OoUH2GbiLFQoqQ</link>
+    <recordDateEnd>2021-02-23T09:30:25.350Z</recordDateEnd>
+    <recordDateStart>2021-02-23T09:14:20.099Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>680de2b0d9606bd04100528bffab6882a2d1203a123ca191005af551d8900347</sha256>
+    <startDate>2021-02-23T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-23T09:51:25.709Z</uploadedDate>
   </episode>
   <episode>
     <airingId>693</airingId>
