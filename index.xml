@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-23T05:15:04.227Z</lastUpdated>
+  <lastUpdated>2021-02-23T06:45:04.220Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -929,6 +929,14 @@
     <lastUpload>2021-02-22T06:28:14.358Z</lastUpload>
     <seriesId>4018</seriesId>
     <title>The Mark of Beauty</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>fe74c833b095e34e</uniqueId>
+    <lastAiring>2021-02-23T06:25:00.000Z</lastAiring>
+    <lastUpload>2021-02-23T06:42:07.423Z</lastUpload>
+    <seriesId>6035</seriesId>
+    <title>The New Coronavirus in 3DCG</title>
   </series>
   <series>
     <count>7</count>

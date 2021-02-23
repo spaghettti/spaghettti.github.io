@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-23T05:15:04.232Z",
+  "lastUpdated": "2021-02-23T06:45:04.225Z",
   "series": [
     {
       "count": 18,
@@ -928,6 +928,14 @@
       "lastUpload": "2021-02-22T06:28:14.358Z",
       "seriesId": "4018",
       "title": "The Mark of Beauty"
+    },
+    {
+      "count": 1,
+      "uniqueId": "fe74c833b095e34e",
+      "lastAiring": "2021-02-23T06:25:00.000Z",
+      "lastUpload": "2021-02-23T06:42:07.423Z",
+      "seriesId": "6035",
+      "title": "The New Coronavirus in 3DCG"
     },
     {
       "count": 7,
