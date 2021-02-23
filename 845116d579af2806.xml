@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-23T09:55:03.395Z</lastUpdated>
+  <lastUpdated>2021-02-23T16:25:03.079Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -71,6 +71,23 @@ Miso, a fermented soybean paste, is a bedrock of Japanese cuisine. For many Japa
     <title>Japanology Plus</title>
     <uploadedDate>2021-02-09T23:21:50.154Z</uploadedDate>
     <raw>https://mega.nz/folder/MThCyQBQ#ymbo7yqkMTNhk5zt7XeCjg</raw>
+  </episode>
+  <episode>
+    <airingId>211</airingId>
+    <content>*First broadcast on August 4, 2020.
+Rakugo is a traditional form of storytelling that emerged in 17th century Japan. Using minimal props, a single performer creates amusing and sometimes moving scenes featuring multiple characters. Johan Nilsson Bjoerk, from Sweden, is one of Japan's very few foreign Rakugo professionals. In a Japanophiles interview, he tells Peter Barakan about the art form. He also talks about his 4 years as an apprentice to the veteran performer Sanyutei Koraku.</content>
+    <description>Johan Nilsson Bjoerk: a Swedish rakugo storyteller. In a Japanophiles interview with Peter Barakan, Nilsson talks about rakugo--traditional Japanese storytelling--and about his time as an apprentice.</description>
+    <endDate>2021-02-23T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/5whglA4a#OU6L7RFiGPJUYwhifhRWOw</link>
+    <recordDateEnd>2021-02-23T15:00:32.422Z</recordDateEnd>
+    <recordDateStart>2021-02-23T14:29:20.100Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>a7a5fc60c4f1512a0829ee67dbd613db32a4d10d32484837ebb32dd9473f1acb</sha256>
+    <startDate>2021-02-23T14:30:00.000Z</startDate>
+    <subtitle>Japanophiles: Johan Nilsson Bjoerk</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-02-23T16:24:00.751Z</uploadedDate>
+    <raw>https://mega.nz/folder/QHZgADCI#SY31lhCagPoQoOWNIRKLXg</raw>
   </episode>
   <episode>
     <airingId>212</airingId>
