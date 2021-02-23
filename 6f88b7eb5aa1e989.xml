@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-23T00:45:03.994Z</lastUpdated>
+  <lastUpdated>2021-02-23T01:30:03.943Z</lastUpdated>
   <seriesId>6f88b7eb5aa1e989</seriesId>
   <title>Dig More Japan</title>
   <episode>
@@ -67,5 +67,21 @@
     <title>Dig More Japan</title>
     <uploadedDate>2021-01-13T07:03:54.692Z</uploadedDate>
     <raw>https://mega.nz/folder/mZ90kK7b#i9q8aeEmcvpd9OcHJlbqXg</raw>
+  </episode>
+  <episode>
+    <airingId>021</airingId>
+    <content/>
+    <description>Japan has come up with all kinds of ways to avert disaster. Today we look at the spiritual side of the equation with various ways to ward off evil. And we pray for the health of people of the world.</description>
+    <endDate>2021-02-23T00:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/GwgDTQZa#ZhyVZ-Gtq-tK3ofjcQgw3w</link>
+    <recordDateEnd>2021-02-23T00:20:27.955Z</recordDateEnd>
+    <recordDateStart>2021-02-23T00:09:20.103Z</recordDateStart>
+    <seriesId>6122</seriesId>
+    <sha256>5d4534bcc182796d00553dda4138de9a4b633f24655ca4867276d705f158191c</sha256>
+    <startDate>2021-02-23T00:10:00.000Z</startDate>
+    <subtitle>Warding Off Evil</subtitle>
+    <title>Dig More Japan</title>
+    <uploadedDate>2021-02-23T01:27:38.741Z</uploadedDate>
+    <raw>https://mega.nz/folder/RctzjKoA#yPyO9YTLfnJWOzN4ELAn3A</raw>
   </episode>
 </episodeList>
