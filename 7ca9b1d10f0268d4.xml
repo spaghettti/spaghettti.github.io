@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-23T02:40:03.837Z</lastUpdated>
+  <lastUpdated>2021-02-23T03:20:03.316Z</lastUpdated>
   <seriesId>7ca9b1d10f0268d4</seriesId>
   <title>Ceramic Treasures</title>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>Today: Kutani-yaki, Ishikawa Prefecture. We will visit the potters from all over Japan and discover their ceramics heritage by introducing the culture and historical background.</description>
+    <endDate>2021-02-23T02:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/8VlClBSK#gLjWmFVG5qSTcWZDj0N9Kg</link>
+    <recordDateEnd>2021-02-23T02:25:29.428Z</recordDateEnd>
+    <recordDateStart>2021-02-23T02:09:20.152Z</recordDateStart>
+    <seriesId>6211</seriesId>
+    <sha256>d531b2f067bb67a47842d533b1db0a9d477bc88d78b5c0d424ea1491bb15fa94</sha256>
+    <startDate>2021-02-23T02:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Ceramic Treasures</title>
+    <uploadedDate>2021-02-23T03:18:15.966Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>005</airingId>
     <content/>
