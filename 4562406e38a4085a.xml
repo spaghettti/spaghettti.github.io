@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-23T01:30:03.726Z</lastUpdated>
+  <lastUpdated>2021-02-23T02:00:05.073Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -67,6 +67,21 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2021-02-16T05:20:42.902Z</uploadedDate>
     <raw>https://mega.nz/folder/DJlXiSYQ#GEjLMd-WeqWmSHS_A6YMag</raw>
+  </episode>
+  <episode>
+    <airingId>189</airingId>
+    <content>In this two-part episode, our host Yu Hayami will be visiting the Tango region of Kyoto Prefecture, known as the "back room of Kyoto" and home to many developments in Japanese cuisine over the years. This region has long enjoyed incredible natural beauty and bounty from both land and sea, such as Amanohashidate -- considered one of Japan's 3 most beautiful views -- as well as outstanding foods like premium "taiza-gani" snow crab, and Tango's unparalleled Koshihikari rice. In this second half of Yu's visit, she'll be visiting Chef Yukinori Yoshioka, who has recently become a secret sensation in the gourmet world for his focus on dishes that can only be enjoyed in the Tango region. We'll take a look at some of his dishes that rely on exceptional local ingredients, such as female snow crab and Tango beef, for a new style of Kyoto cuisine.</content>
+    <description>Today's recipe: (1) Sake Lees Chawan-mushi (2) Tango Beef topped with Rice Sauce. Yu Hayami meets chef Yukinori Yoshioka who cooks local ingredients of Tango, Kyoto.</description>
+    <endDate>2021-02-23T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/HF0yECgQ#FxXdqFC-qAwMH70q9V3vbA</link>
+    <recordDateEnd>2021-02-23T01:00:33.969Z</recordDateEnd>
+    <recordDateStart>2021-02-23T00:29:20.100Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>376f7e2f2b1e170f5046e90706728b5ce949dfe4318f46e263f6027cf86ac1bc</sha256>
+    <startDate>2021-02-23T00:30:00.000Z</startDate>
+    <subtitle>Cook Around Japan "Kyotango": Creative Kyotango Cuisine</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-02-23T01:55:57.315Z</uploadedDate>
   </episode>
   <episode>
     <airingId>190</airingId>
