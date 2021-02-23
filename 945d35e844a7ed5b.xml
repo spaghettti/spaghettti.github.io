@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-23T03:45:03.840Z</lastUpdated>
+  <lastUpdated>2021-02-23T04:15:03.958Z</lastUpdated>
   <seriesId>945d35e844a7ed5b</seriesId>
   <title>Moonlit Nights - Superb Scenes of Japan</title>
   <episode>
@@ -35,5 +35,21 @@
     <title>Moonlit Nights - Superb Scenes of Japan -</title>
     <uploadedDate>2021-02-15T13:55:20.333Z</uploadedDate>
     <raw>https://mega.nz/folder/cktU0BgJ#ncoQVngTS5iMU1otVW1qWQ</raw>
+  </episode>
+  <episode>
+    <airingId>425</airingId>
+    <content/>
+    <description>Japanese people have long known that the moon works in mysterious ways. You'll feel a sense of awe as cherry trees bloom only under a full moon and as the crescent moon shows its curious power.</description>
+    <endDate>2021-02-23T03:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/VpIiybyb#gbhWNthMn8Utpy8E_u-GXg</link>
+    <recordDateEnd>2021-02-23T03:30:32.197Z</recordDateEnd>
+    <recordDateStart>2021-02-23T03:09:20.002Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>506f23610a785efb8557b99baf8e394590868825ca02b1193e4eeaafff307747</sha256>
+    <startDate>2021-02-23T03:10:00.000Z</startDate>
+    <subtitle>Mystery of the Moon</subtitle>
+    <title>Moonlit Nights - Superb Scenes of Japan -</title>
+    <uploadedDate>2021-02-23T04:13:06.816Z</uploadedDate>
+    <raw>https://mega.nz/folder/EEcA1BjY#kXqnV_-D6-VndR7BacfBdg</raw>
   </episode>
 </episodeList>

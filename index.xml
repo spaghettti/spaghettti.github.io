@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-23T03:45:03.974Z</lastUpdated>
+  <lastUpdated>2021-02-23T04:15:04.090Z</lastUpdated>
   <series>
     <count>18</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -635,10 +635,10 @@
     <title>Medical Frontiers</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>945d35e844a7ed5b</uniqueId>
-    <lastAiring>2021-02-11T03:10:00.000Z</lastAiring>
-    <lastUpload>2021-02-15T13:55:20.333Z</lastUpload>
+    <lastAiring>2021-02-23T03:10:00.000Z</lastAiring>
+    <lastUpload>2021-02-23T04:13:06.816Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>Moonlit Nights - Superb Scenes of Japan</title>
   </series>
