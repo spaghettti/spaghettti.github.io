@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-23T02:30:03.489Z",
+  "lastUpdated": "2021-02-23T02:40:03.824Z",
   "seriesId": "6122",
   "title": "Dig More Japan",
   "episodes": [
@@ -82,6 +82,22 @@
       "title": "Dig More Japan",
       "uploadedDate": "2021-02-23T01:27:38.741Z",
       "raw": "https://mega.nz/folder/RctzjKoA#yPyO9YTLfnJWOzN4ELAn3A"
+    },
+    {
+      "airingId": "022",
+      "content": "",
+      "description": "It's been a year since the beginning of the coronavirus pandemic and efforts continue to alleviate the crisis. Join us on our new episode for a look into how Japan is responding to the challenge.",
+      "endDate": "2021-02-23T01:20:00.000Z",
+      "link": "https://mega.nz/folder/stgwgA6T#NVCAd2GsnRoQx_D7u9xQsw",
+      "recordDateEnd": "2021-02-23T01:20:23.760Z",
+      "recordDateStart": "2021-02-23T01:09:22.616Z",
+      "seriesId": "6122",
+      "sha256": "46c7a62b853b8da6372d8eee67c37b71772563a481f8c5e7f2ccbb19fbdd8b18",
+      "startDate": "2021-02-23T01:10:00.000Z",
+      "subtitle": "Pandemic Solutions",
+      "title": "Dig More Japan",
+      "uploadedDate": "2021-02-23T02:38:03.412Z",
+      "raw": "https://mega.nz/folder/5Q0AlaiJ#b6fGzM7_vmknyduqO4Qy1w"
     }
   ]
 }

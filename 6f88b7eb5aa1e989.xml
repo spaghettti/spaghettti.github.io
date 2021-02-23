@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-23T02:30:03.488Z</lastUpdated>
+  <lastUpdated>2021-02-23T02:40:03.823Z</lastUpdated>
   <seriesId>6f88b7eb5aa1e989</seriesId>
   <title>Dig More Japan</title>
   <episode>
@@ -83,5 +83,21 @@
     <title>Dig More Japan</title>
     <uploadedDate>2021-02-23T01:27:38.741Z</uploadedDate>
     <raw>https://mega.nz/folder/RctzjKoA#yPyO9YTLfnJWOzN4ELAn3A</raw>
+  </episode>
+  <episode>
+    <airingId>022</airingId>
+    <content/>
+    <description>It's been a year since the beginning of the coronavirus pandemic and efforts continue to alleviate the crisis. Join us on our new episode for a look into how Japan is responding to the challenge.</description>
+    <endDate>2021-02-23T01:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/stgwgA6T#NVCAd2GsnRoQx_D7u9xQsw</link>
+    <recordDateEnd>2021-02-23T01:20:23.760Z</recordDateEnd>
+    <recordDateStart>2021-02-23T01:09:22.616Z</recordDateStart>
+    <seriesId>6122</seriesId>
+    <sha256>46c7a62b853b8da6372d8eee67c37b71772563a481f8c5e7f2ccbb19fbdd8b18</sha256>
+    <startDate>2021-02-23T01:10:00.000Z</startDate>
+    <subtitle>Pandemic Solutions</subtitle>
+    <title>Dig More Japan</title>
+    <uploadedDate>2021-02-23T02:38:03.412Z</uploadedDate>
+    <raw>https://mega.nz/folder/5Q0AlaiJ#b6fGzM7_vmknyduqO4Qy1w</raw>
   </episode>
 </episodeList>
