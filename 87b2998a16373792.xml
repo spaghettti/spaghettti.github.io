@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-23T16:25:03.031Z</lastUpdated>
+  <lastUpdated>2021-02-23T17:20:03.115Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -111,6 +111,25 @@ A Compact, Non-destructive Saccharimeter for Fruit</content>
     <title>Science View</title>
     <uploadedDate>2021-02-10T21:58:52.167Z</uploadedDate>
     <raw>https://mega.nz/folder/jRtn0IqL#Gi008D-wzMZm84Maf2AVgA</raw>
+  </episode>
+  <episode>
+    <airingId>229</airingId>
+    <content>One of Japan's largest limestone caves, Akiyoshido extends out underground directly beneath a karst plateau known as Akiyoshidai in western Japan's Yamaguchi Prefecture. The entrance to a previously unexplored chamber was found on the ceiling of the massive cave, and an NHK film crew accompanied researchers and specialists on the investigation of this unknown area. After hours of climbing and traversing terrain that humans had never before covered, the team made their way deep into the new chamber and began conducting surveys using 3D technology. Cave researcher and research team leader Takashi Murakami joins us inside the studio to discuss their findings.
+[Science News Watch]
+Electronic Devices with Low Environmental Impact
+[J-Innovators]
+An Innovative Reheating Cart for Hospital Meals</content>
+    <description>Akiyoshido is one of Japan's largest limestone caves, and recently a discovery of some new chambers were made! Follow researcher Takashi Murakami and his survey team as they venture inside.</description>
+    <endDate>2021-02-23T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/50RTVYRD#OlW-XNN8dek1byETwNPJ1Q</link>
+    <recordDateEnd>2021-02-23T16:00:34.547Z</recordDateEnd>
+    <recordDateStart>2021-02-23T15:29:20.082Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>4320ebe2fc0f3e79230b1d7ff7b354aa376995bd5826a88636de2076ce7ba18b</sha256>
+    <startDate>2021-02-23T15:30:00.000Z</startDate>
+    <subtitle>The Secret Chambers of Akiyoshido Cave</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-02-23T17:19:49.768Z</uploadedDate>
   </episode>
   <episode>
     <airingId>246</airingId>
