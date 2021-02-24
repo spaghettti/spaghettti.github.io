@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-24T07:55:03.789Z</lastUpdated>
+  <lastUpdated>2021-02-24T16:30:03.854Z</lastUpdated>
   <series>
     <count>20</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -181,8 +181,8 @@
   <series>
     <count>14</count>
     <uniqueId>849018bc46f056a7</uniqueId>
-    <lastAiring>2021-02-17T15:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-17T16:28:31.741Z</lastUpload>
+    <lastAiring>2021-02-24T15:30:00.000Z</lastAiring>
+    <lastUpload>2021-02-24T16:29:52.945Z</lastUpload>
     <seriesId>2076,2083,2084,6036</seriesId>
     <title>Culture Crossroads</title>
   </series>
