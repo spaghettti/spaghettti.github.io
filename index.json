@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-23T17:20:03.375Z",
+  "lastUpdated": "2021-02-24T00:55:03.374Z",
   "series": [
     {
       "count": 18,
@@ -424,6 +424,14 @@
       "lastUpload": "2021-01-09T01:37:33.080Z",
       "seriesId": "5001",
       "title": "GREAT RACE"
+    },
+    {
+      "count": 1,
+      "uniqueId": "8b9023379f402ad4",
+      "lastAiring": "2021-02-23T23:30:00.000Z",
+      "lastUpload": "2021-02-24T00:52:32.474Z",
+      "seriesId": "7000",
+      "title": "Greetings from Tohoku"
     },
     {
       "count": 7,
