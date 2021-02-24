@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-24T00:55:03.219Z</lastUpdated>
+  <lastUpdated>2021-02-24T01:45:04.591Z</lastUpdated>
   <seriesId>c656328a0f33bc89</seriesId>
   <title>15 Minutes</title>
   <episode>
@@ -154,6 +154,22 @@ With 87 million passengers per year, Haneda Airport is one of the world's busies
     <title>15 Minutes</title>
     <uploadedDate>2020-12-30T01:25:18.049Z</uploadedDate>
     <raw>https://mega.nz/folder/dR00kJpQ#7VKTpXiRQJlnEBeurjzpRw</raw>
+  </episode>
+  <episode>
+    <airingId>120</airingId>
+    <content>The coronavirus has changed everything. How can we overcome this crisis? How can we restore our normal lifestyles? In Japan, Tokyo had the largest number of coronavirus infections. In this series, we look inside 3 places in this megacity. Hotels, where many people stay. Schools, where young people gather. And airports, major transportation hubs. We'll bring you insight on how the people in these places are trying to recover.
+The threat of COVID-19 infection is just around the corner. Anyone can be infected at any time. If someone was infected in the school, what should the students do? The students in Jiyu Gakuen, have begun to think about corona and discrimination for themselves.</content>
+    <description>The threat of Covid-19 infection is just around the corner. If someone was infected in the school, what should the students do? The students think about Covid-19 and discrimination by themselves.</description>
+    <endDate>2021-02-24T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/dGwlUIzT#FVfuF3Q_xSqQYWvFXDdkIw</link>
+    <recordDateEnd>2021-02-24T00:45:26.790Z</recordDateEnd>
+    <recordDateStart>2021-02-24T00:29:25.456Z</recordDateStart>
+    <seriesId>3019</seriesId>
+    <sha256>7017f18aa6538fe8f799b79a5340ec73edacdab8abb8bfc51ae2c4060f0ffce0</sha256>
+    <startDate>2021-02-24T00:30:00.000Z</startDate>
+    <subtitle>Starting Over: Back to School Part 3</subtitle>
+    <title>15 Minutes</title>
+    <uploadedDate>2021-02-24T01:43:58.208Z</uploadedDate>
   </episode>
   <episode>
     <airingId>123</airingId>
