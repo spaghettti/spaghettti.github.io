@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-24T02:40:03.047Z</lastUpdated>
+  <lastUpdated>2021-02-24T07:55:03.618Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2131,5 +2131,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-19T07:52:16.745Z</uploadedDate>
     <raw>https://mega.nz/folder/64pHxQQD#yXoR3g75z1rtQIn0AzeLIA</raw>
+  </episode>
+  <episode>
+    <airingId>745</airingId>
+    <content>Director Eric Khoo is one of Singapore's leading creators. His recent short film is making waves online. We speak to Eric Khoo, spreading an important message "love and humanity" through film.</content>
+    <description>Director Eric Khoo is one of Singapore's leading creators. His recent short film is making waves online. We speak to Eric Khoo, spreading an important message "love and humanity" through film.</description>
+    <endDate>2021-02-24T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/0AF0zRwT#EqMYPlk4nszLxQx5vdW3Ig</link>
+    <recordDateEnd>2021-02-24T07:30:27.232Z</recordDateEnd>
+    <recordDateStart>2021-02-24T07:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>0d21db908d80e5399f890620841f9c566fd5d4f45053b884e3f826a6ac201437</sha256>
+    <startDate>2021-02-24T07:15:00.000Z</startDate>
+    <subtitle>Connecting a Divided World Through Film: Eric Khoo / Filmmaker</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-24T07:54:48.047Z</uploadedDate>
   </episode>
 </episodeList>

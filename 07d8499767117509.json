@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-24T02:40:03.062Z",
+  "lastUpdated": "2021-02-24T07:55:03.634Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2130,6 +2130,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-02-19T07:52:16.745Z",
       "raw": "https://mega.nz/folder/64pHxQQD#yXoR3g75z1rtQIn0AzeLIA"
+    },
+    {
+      "airingId": "745",
+      "content": "Director Eric Khoo is one of Singapore's leading creators. His recent short film is making waves online. We speak to Eric Khoo, spreading an important message \"love and humanity\" through film.",
+      "description": "Director Eric Khoo is one of Singapore's leading creators. His recent short film is making waves online. We speak to Eric Khoo, spreading an important message \"love and humanity\" through film.",
+      "endDate": "2021-02-24T07:30:00.000Z",
+      "link": "https://mega.nz/folder/0AF0zRwT#EqMYPlk4nszLxQx5vdW3Ig",
+      "recordDateEnd": "2021-02-24T07:30:27.232Z",
+      "recordDateStart": "2021-02-24T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "0d21db908d80e5399f890620841f9c566fd5d4f45053b884e3f826a6ac201437",
+      "startDate": "2021-02-24T07:15:00.000Z",
+      "subtitle": "Connecting a Divided World Through Film: Eric Khoo / Filmmaker",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-24T07:54:48.047Z"
     }
   ]
 }
