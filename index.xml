@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-25T00:50:03.989Z</lastUpdated>
+  <lastUpdated>2021-02-25T00:55:03.933Z</lastUpdated>
   <series>
     <count>20</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -601,6 +601,14 @@
     <lastUpload>2021-02-15T13:10:09.265Z</lastUpload>
     <seriesId>2025</seriesId>
     <title>Kawaii International</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>67c4534cd38c5484</uniqueId>
+    <lastAiring>2021-02-24T23:55:00.000Z</lastAiring>
+    <lastUpload>2021-02-25T00:54:41.949Z</lastUpload>
+    <seriesId>6037</seriesId>
+    <title>Kiyo in Kyoto: 3min</title>
   </series>
   <series>
     <count>15</count>

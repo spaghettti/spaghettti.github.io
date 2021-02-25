@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-25T00:50:03.995Z",
+  "lastUpdated": "2021-02-25T00:55:03.939Z",
   "series": [
     {
       "count": 20,
@@ -600,6 +600,14 @@
       "lastUpload": "2021-02-15T13:10:09.265Z",
       "seriesId": "2025",
       "title": "Kawaii International"
+    },
+    {
+      "count": 1,
+      "uniqueId": "67c4534cd38c5484",
+      "lastAiring": "2021-02-24T23:55:00.000Z",
+      "lastUpload": "2021-02-25T00:54:41.949Z",
+      "seriesId": "6037",
+      "title": "Kiyo in Kyoto: 3min"
     },
     {
       "count": 15,
