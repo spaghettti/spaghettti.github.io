@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-25T08:00:04.163Z</lastUpdated>
+  <lastUpdated>2021-02-25T16:20:03.080Z</lastUpdated>
   <seriesId>054ab52e36a50c36</seriesId>
   <title>CYCLE AROUND JAPAN  Highlights</title>
   <episode>
@@ -227,5 +227,20 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
     <uploadedDate>2021-01-28T17:12:45.731Z</uploadedDate>
     <raw>https://mega.nz/folder/rJtUXIqT#ptP84Rb6B9WbHVC0lwNiOg</raw>
+  </episode>
+  <episode>
+    <airingId>032</airingId>
+    <content>This time, we cycle through Toyama Prefecture, which has both a bountiful sea and 3,000-meter mountains that feed its fields with rich waters. First, we sample some rare seafood unique to the area. We then discover the culture and way of life created by the strong winds that blow here all year. That includes a traditional festival meant to calm disasters caused by the winds, plus a beautiful style of wood carving. Join us on a 250-kilometer cycling trip through the winds of Toyama.</content>
+    <description>This time, we cycle Toyama at the end of summer. The strong winds that blow here all year have created a unique culture and way of life. As the season turns, let's ride and learn more.</description>
+    <endDate>2021-02-25T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/T59QjBDR#ejgLcyRDqRwNj7f-T0H3vg</link>
+    <recordDateEnd>2021-02-25T15:00:35.793Z</recordDateEnd>
+    <recordDateStart>2021-02-25T14:29:20.092Z</recordDateStart>
+    <seriesId>2070</seriesId>
+    <sha256>aec6860d72767b739be3fe748a64f9aa7a8a9f0650f3a94f6b794418c5541675</sha256>
+    <startDate>2021-02-25T14:30:00.000Z</startDate>
+    <subtitle>Toyama - Riding with the Wind</subtitle>
+    <title>CYCLE AROUND JAPAN  Highlights</title>
+    <uploadedDate>2021-02-25T16:18:42.285Z</uploadedDate>
   </episode>
 </episodeList>
