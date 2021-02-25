@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-25T07:05:03.920Z</lastUpdated>
+  <lastUpdated>2021-02-25T08:00:04.133Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2147,5 +2147,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-24T07:54:48.047Z</uploadedDate>
     <raw>https://mega.nz/folder/jJEDyChL#0OJ2YUpwjMDXPksfvOv3xA</raw>
+  </episode>
+  <episode>
+    <airingId>746</airingId>
+    <content>Musician and scholar Chi Suwichan Phattanaphraiwan, a member of the Pgaz k'Nyau (Karen) ethnic group in northern Thailand, advocates for ethnic equality and fosters cultural identity through music.</content>
+    <description>Musician and scholar Chi Suwichan Phatthanaphraiwan, a member of the Pgaz k'Nyau (Karen) ethnic group in Northern Thailand, advocates for ethnic equality and fosters cultural identity through music.</description>
+    <endDate>2021-02-25T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/IVFCxT4A#aM9YhR5IRbzRwwMsTSf_nQ</link>
+    <recordDateEnd>2021-02-25T07:30:29.066Z</recordDateEnd>
+    <recordDateStart>2021-02-25T07:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>45b9511766c9c168dccfefc1c29101722bf5030f44c14130a08483f7a9d6f7d5</sha256>
+    <startDate>2021-02-25T07:15:00.000Z</startDate>
+    <subtitle>Ethnic Equality Through Music: Chi Suwichan Phattanaphraiwan / University Professor, Social Artivist</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-25T07:59:38.464Z</uploadedDate>
+    <raw>https://mega.nz/folder/dcMDFKzB#Gh3fzuxyzIYCpY7RncfefA</raw>
   </episode>
 </episodeList>
