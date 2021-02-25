@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-25T16:20:03.039Z",
+  "lastUpdated": "2021-02-25T17:35:02.897Z",
   "seriesId": "2049",
   "title": "Japan Railway Journal",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "Japan Railway Journal",
       "uploadedDate": "2021-02-18T17:21:55.894Z",
       "raw": "https://mega.nz/folder/DsBhCSIR#Hj1_QdlNQqidW68EU_ym2Q"
+    },
+    {
+      "airingId": "084",
+      "content": "Kintetsu Railway (known as the \"kingdom of limited express trains\") introduced the new \"Series 80000 Hinotori,\" which operates between Osaka and Nagoya in March 2020. With comfort in mind, see how Kintetsu Railway developed its luxurious new limited express train with reclining backshell seats, ample legroom and more, to compete with the high-speed Shinkansen.",
+      "description": "Hinotori is Kintetsu Railway's new limited express train that runs between Osaka and Nagoya. Focusing on passenger comfort, see how the company developed the train to compete with the shinkansen.",
+      "endDate": "2021-02-25T16:00:00.000Z",
+      "link": "https://mega.nz/folder/O0cQTTIS#BFwqhhKiSWB2YI6gDXEIjg",
+      "recordDateEnd": "2021-02-25T16:00:30.822Z",
+      "recordDateStart": "2021-02-25T15:29:20.103Z",
+      "seriesId": "2049",
+      "sha256": "df3821a147017ed3d4212a013196ab4f8526eacf0fa8233260b2db13c4efd409",
+      "startDate": "2021-02-25T15:30:00.000Z",
+      "subtitle": "Kintetsu Railway's Hinotori: Challenging the Shinkansen with Comfort",
+      "title": "Japan Railway Journal",
+      "uploadedDate": "2021-02-25T17:32:28.416Z"
     },
     {
       "airingId": "093",
