@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-25T04:45:03.898Z</lastUpdated>
+  <lastUpdated>2021-02-25T07:05:04.004Z</lastUpdated>
   <seriesId>2ac7100c81ee10d6</seriesId>
   <title>Lunch ON!</title>
   <episode>
@@ -84,6 +84,21 @@ In another segment, we visit the southernmost prefecture of Okinawa to meet a pu
     <title>Lunch ON!</title>
     <uploadedDate>2021-02-18T06:18:52.229Z</uploadedDate>
     <raw>https://mega.nz/folder/usFwnTYA#1okVVVXwWwgItI9lB1Mh6w</raw>
+  </episode>
+  <episode>
+    <airingId>148</airingId>
+    <content>We go to Hyogo Prefecture, western Japan to visit a factory that handcrafts scissors for hairstylists. Scissors for cutting hair have to cut extremely well, and the process to customize scissors so that they can do just that demands unthinkable exactness. At this factory, they even handle repairs of scissors that are decades old, but that task can only be carried out by the best, most experienced technicians. Tune in to find out the detailed work of scissor crafters and also what they do for lunch.</content>
+    <description>We go to Hyogo, western Japan to visit a factory that handcrafts professional scissors for hairstylists. Tune in to find out the detailed work of scissor crafters and also what they do for lunch.</description>
+    <endDate>2021-02-25T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/xWg3gI7J#tVcK2miOvqBquuhuwvdaPg</link>
+    <recordDateEnd>2021-02-25T04:55:25.486Z</recordDateEnd>
+    <recordDateStart>2021-02-25T04:29:23.351Z</recordDateStart>
+    <seriesId>4023</seriesId>
+    <sha256>31d71a1f0db4c5db3aca3e5dc0f701b8c68244941c922cbff0a2fae47dfe0a84</sha256>
+    <startDate>2021-02-25T04:30:00.000Z</startDate>
+    <subtitle>Lunchtime for the Scissor Makers</subtitle>
+    <title>Lunch ON!</title>
+    <uploadedDate>2021-02-25T07:04:26.061Z</uploadedDate>
   </episode>
   <episode>
     <airingId>155</airingId>

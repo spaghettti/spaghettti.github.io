@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-25T04:45:03.985Z</lastUpdated>
+  <lastUpdated>2021-02-25T07:05:04.096Z</lastUpdated>
   <series>
     <count>20</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -619,10 +619,10 @@
     <title>Little Charo</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>2ac7100c81ee10d6</uniqueId>
-    <lastAiring>2021-02-18T04:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-18T06:18:52.229Z</lastUpload>
+    <lastAiring>2021-02-25T04:30:00.000Z</lastAiring>
+    <lastUpload>2021-02-25T07:04:26.061Z</lastUpload>
     <seriesId>4023</seriesId>
     <title>Lunch ON!</title>
   </series>
