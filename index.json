@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-24T17:10:03.293Z",
+  "lastUpdated": "2021-02-25T00:50:03.995Z",
   "series": [
     {
       "count": 20,
@@ -616,6 +616,14 @@
       "lastUpload": "2021-02-18T06:18:52.229Z",
       "seriesId": "4023",
       "title": "Lunch ON!"
+    },
+    {
+      "count": 1,
+      "uniqueId": "0c1dc7135e38a8f6",
+      "lastAiring": "2021-02-24T23:30:00.000Z",
+      "lastUpload": "2021-02-25T00:45:23.743Z",
+      "seriesId": "2094",
+      "title": "Maiko-san Chi no Makanai-san - Kiyo in Kyoto: From the Maiko House"
     },
     {
       "count": 3,
