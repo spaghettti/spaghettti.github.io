@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-25T00:55:03.737Z",
+  "lastUpdated": "2021-02-25T02:15:03.704Z",
   "seriesId": "2046",
   "title": "DESIGN TALKS plus",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "DESIGN TALKS plus",
       "uploadedDate": "2021-02-18T02:00:48.674Z",
       "raw": "https://mega.nz/folder/c51HnKCI#Ryw4uPJH_X32Z6Ftwsb4aQ"
+    },
+    {
+      "airingId": "141",
+      "content": "The d47 MUSEUM in Shibuya, Tokyo showcases Japan's 47 prefectures, exploring their unique beauty and culture through regional designs. Guest Nagaoka Kenmei curated its Reverent Design exhibition. Today, he shows us around, explaining how the concept could shape our lives and craftsmanship going forward.",
+      "description": "Today's theme is Inori: Reverent Design. Tokyo's d47 MUSEUM showcases the best of Japan's 47 prefectures. Nagaoka Kenmei's Reverent Design exhibition explores reverence in our lives and craftsmanship.",
+      "endDate": "2021-02-25T01:00:00.000Z",
+      "link": "https://mega.nz/folder/IggEBKjA#ByPBxR14aMXB-iM_tj937g",
+      "recordDateEnd": "2021-02-25T01:00:31.520Z",
+      "recordDateStart": "2021-02-25T00:29:23.228Z",
+      "seriesId": "2046",
+      "sha256": "550d8b77114a99dc7bde554425859c7b569da1d95a759f35e8629436cdaa64c4",
+      "startDate": "2021-02-25T00:30:00.000Z",
+      "subtitle": "Inori: Reverent Design",
+      "title": "DESIGN TALKS plus",
+      "uploadedDate": "2021-02-25T02:12:42.685Z"
     }
   ]
 }
