@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-26T16:05:03.153Z",
+  "lastUpdated": "2021-02-26T17:10:03.698Z",
   "seriesId": "4002",
   "title": "Today's Close-Up",
   "episodes": [
@@ -178,6 +178,22 @@
       "title": "Today's Close-Up",
       "uploadedDate": "2021-02-19T17:12:59.321Z",
       "raw": "https://mega.nz/folder/cxFiiLCY#K6P5a8vCPaCHEbVjKOTxsQ"
+    },
+    {
+      "airingId": "819",
+      "content": "On February 1st, Myanmar's military shocked the world by staging a coup. In the weeks since, civilian protests have continued to grow. Many countries have denounced the military's actions but China has maintained its policy of non-interference. Meanwhile, Japan is in a unique position, with strong ties to both the military and democratic leaders. How will the country respond to the situation? We talk to an expert about the growing impact of the protests.\nGuest:\nNakanishi Yoshihiro (Associate Professor, Center for Southeast Asian Studies, Kyoto University)",
+      "description": "Weeks of widespread civilian protests have followed a military coup in Myanmar. The political turmoil is starting to affect foreign businesses in the country. We take a deeper look at the situation.",
+      "endDate": "2021-02-26T16:00:00.000Z",
+      "link": "https://mega.nz/folder/gBt2BS6I#bbVjHYAxYtGJr9nDoC3UEA",
+      "recordDateEnd": "2021-02-26T16:00:35.879Z",
+      "recordDateStart": "2021-02-26T15:29:20.095Z",
+      "seriesId": "4002",
+      "sha256": "edd145dd3c33b989dc09e48c11aff541aa4ca14a8e1b84c755325958e4af5267",
+      "startDate": "2021-02-26T15:30:00.000Z",
+      "subtitle": "Myanmar Coup: Future of the Protests",
+      "title": "Today's Close-Up",
+      "uploadedDate": "2021-02-26T17:06:42.720Z",
+      "raw": "https://mega.nz/folder/0M0mRSpT#myECMdW8nZaDdeNFo07T7Q"
     }
   ]
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-26T16:05:03.150Z</lastUpdated>
+  <lastUpdated>2021-02-26T17:10:03.696Z</lastUpdated>
   <seriesId>a5fed3c217d7b7f6</seriesId>
   <title>Today's Close-Up</title>
   <episode>
@@ -210,5 +210,23 @@ Ishii Kota (Writer)</content>
     <title>Today's Close-Up</title>
     <uploadedDate>2021-02-19T17:12:59.321Z</uploadedDate>
     <raw>https://mega.nz/folder/cxFiiLCY#K6P5a8vCPaCHEbVjKOTxsQ</raw>
+  </episode>
+  <episode>
+    <airingId>819</airingId>
+    <content>On February 1st, Myanmar's military shocked the world by staging a coup. In the weeks since, civilian protests have continued to grow. Many countries have denounced the military's actions but China has maintained its policy of non-interference. Meanwhile, Japan is in a unique position, with strong ties to both the military and democratic leaders. How will the country respond to the situation? We talk to an expert about the growing impact of the protests.
+Guest:
+Nakanishi Yoshihiro (Associate Professor, Center for Southeast Asian Studies, Kyoto University)</content>
+    <description>Weeks of widespread civilian protests have followed a military coup in Myanmar. The political turmoil is starting to affect foreign businesses in the country. We take a deeper look at the situation.</description>
+    <endDate>2021-02-26T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/gBt2BS6I#bbVjHYAxYtGJr9nDoC3UEA</link>
+    <recordDateEnd>2021-02-26T16:00:35.879Z</recordDateEnd>
+    <recordDateStart>2021-02-26T15:29:20.095Z</recordDateStart>
+    <seriesId>4002</seriesId>
+    <sha256>edd145dd3c33b989dc09e48c11aff541aa4ca14a8e1b84c755325958e4af5267</sha256>
+    <startDate>2021-02-26T15:30:00.000Z</startDate>
+    <subtitle>Myanmar Coup: Future of the Protests</subtitle>
+    <title>Today's Close-Up</title>
+    <uploadedDate>2021-02-26T17:06:42.720Z</uploadedDate>
+    <raw>https://mega.nz/folder/0M0mRSpT#myECMdW8nZaDdeNFo07T7Q</raw>
   </episode>
 </episodeList>
