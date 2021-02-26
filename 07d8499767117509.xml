@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-26T05:20:03.890Z</lastUpdated>
+  <lastUpdated>2021-02-26T05:45:03.316Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1459,6 +1459,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-15T10:43:42.483Z</uploadedDate>
     <raw>https://mega.nz/folder/ywE2nDqJ#JtGp2IjWXoIS8_iD6o4Few</raw>
+  </episode>
+  <episode>
+    <airingId>686</airingId>
+    <content/>
+    <description>Larry Littlebird, a Native American Elder/Storyteller, founded Hamaatsa, a place to reconnect with nature with indigenous wisdom, by listening to nature and to each other in this challenging time.</description>
+    <endDate>2021-02-26T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/m4gUEaTS#1ZvWZ7hoPuF2ApS7rxjTiA</link>
+    <recordDateEnd>2021-02-26T04:30:29.293Z</recordDateEnd>
+    <recordDateStart>2021-02-26T04:14:20.100Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>7e67d197260553605e71d04fea01a048207245f05f62e88e0ef4c74660a29dfb</sha256>
+    <startDate>2021-02-26T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-26T05:43:22.751Z</uploadedDate>
   </episode>
   <episode>
     <airingId>687</airingId>
