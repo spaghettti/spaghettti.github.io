@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-26T01:00:04.225Z",
+  "lastUpdated": "2021-02-26T05:20:03.828Z",
   "seriesId": "2022",
   "title": "Asia Insight",
   "episodes": [
@@ -226,6 +226,22 @@
       "title": "Asia Insight",
       "uploadedDate": "2021-01-29T02:46:09.301Z",
       "raw": "https://mega.nz/folder/sQY0HJBa#U02gaa_SrF2hJtSSesqY0Q"
+    },
+    {
+      "airingId": "323",
+      "content": "China is one of the few nations experiencing economic growth among COVID-19. But the swift pace of real estate development has led to a strange phenomenon all over the country: \"Ghost castles,\" apartments where building has halted. Hopeful residents are unable to live in the unfinished apartments, all while stuck in deep debt. A group of artists has begun creating art based on the buildings in order to draw attention to the plight. In this episode, we examine this issue faced by modern China.",
+      "description": "Swift real estate development in China has led to a strange problem: \"Ghost castles,\"  apartments where building has halted. Residents cannot live in the unfinished rooms, yet are stuck in deep debt.",
+      "endDate": "2021-02-26T02:00:00.000Z",
+      "link": "https://mega.nz/folder/a5101LBL#FxIBRLexVIuI1dWBMt9oIw",
+      "recordDateEnd": "2021-02-26T02:00:30.648Z",
+      "recordDateStart": "2021-02-26T01:29:20.099Z",
+      "seriesId": "2022",
+      "sha256": "8aacb7707845596fa3cf30c2dcca4ef192ba76f8e7f1170d6e5f4f8f5ffb7e25",
+      "startDate": "2021-02-26T01:30:00.000Z",
+      "subtitle": "The Darkness Around China's \"Ghost Castles\"",
+      "title": "Asia Insight",
+      "uploadedDate": "2021-02-26T05:19:27.647Z",
+      "raw": "https://mega.nz/folder/K0t3ECgA#B4x9s-Ala9AHSqcSMflE4A"
     }
   ]
 }

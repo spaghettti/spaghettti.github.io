@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-26T01:00:04.217Z</lastUpdated>
+  <lastUpdated>2021-02-26T05:20:03.821Z</lastUpdated>
   <seriesId>b6a4aecdfcf53169</seriesId>
   <title>Asia Insight</title>
   <episode>
@@ -227,5 +227,21 @@
     <title>Asia Insight</title>
     <uploadedDate>2021-01-29T02:46:09.301Z</uploadedDate>
     <raw>https://mega.nz/folder/sQY0HJBa#U02gaa_SrF2hJtSSesqY0Q</raw>
+  </episode>
+  <episode>
+    <airingId>323</airingId>
+    <content>China is one of the few nations experiencing economic growth among COVID-19. But the swift pace of real estate development has led to a strange phenomenon all over the country: "Ghost castles," apartments where building has halted. Hopeful residents are unable to live in the unfinished apartments, all while stuck in deep debt. A group of artists has begun creating art based on the buildings in order to draw attention to the plight. In this episode, we examine this issue faced by modern China.</content>
+    <description>Swift real estate development in China has led to a strange problem: "Ghost castles,"  apartments where building has halted. Residents cannot live in the unfinished rooms, yet are stuck in deep debt.</description>
+    <endDate>2021-02-26T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/a5101LBL#FxIBRLexVIuI1dWBMt9oIw</link>
+    <recordDateEnd>2021-02-26T02:00:30.648Z</recordDateEnd>
+    <recordDateStart>2021-02-26T01:29:20.099Z</recordDateStart>
+    <seriesId>2022</seriesId>
+    <sha256>8aacb7707845596fa3cf30c2dcca4ef192ba76f8e7f1170d6e5f4f8f5ffb7e25</sha256>
+    <startDate>2021-02-26T01:30:00.000Z</startDate>
+    <subtitle>The Darkness Around China's "Ghost Castles"</subtitle>
+    <title>Asia Insight</title>
+    <uploadedDate>2021-02-26T05:19:27.647Z</uploadedDate>
+    <raw>https://mega.nz/folder/K0t3ECgA#B4x9s-Ala9AHSqcSMflE4A</raw>
   </episode>
 </episodeList>
