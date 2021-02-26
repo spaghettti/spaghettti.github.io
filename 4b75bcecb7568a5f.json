@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-26T05:45:03.347Z",
+  "lastUpdated": "2021-02-26T06:15:04.207Z",
   "seriesId": "2073",
   "title": "J-Arena",
   "episodes": [
@@ -130,6 +130,22 @@
       "title": "J-Arena",
       "uploadedDate": "2021-02-19T05:55:40.163Z",
       "raw": "https://mega.nz/folder/G5QyELoK#0D19v9eRNcf9LLBq_XDdvg"
+    },
+    {
+      "airingId": "081",
+      "content": "In Japan, some college-level sports have as dedicated a following as the professional leagues. A baseball league contested by 6 Tokyo universities has a proud history stretching right back to a match between the universities of Keio and Waseda in 1903. The 2 teams' century-spanning rivalry includes a particularly dramatic series from 1960 that remains etched in the national memory. We also learn about the student sumo wrestlers who later turn pro, as well as the student football teams giving top J.League sides a run for their money in a unique open tournament.",
+      "description": "In Japan, some college-level sports have as dedicated a following as the pro leagues. We cover college baseball and sumo, as well as the student football teams giving the pros a run for their money.",
+      "endDate": "2021-02-26T05:00:00.000Z",
+      "link": "https://mega.nz/folder/fwsFxSiD#HsgJIotP9X2C_k7oCruQ2Q",
+      "recordDateEnd": "2021-02-26T05:00:28.466Z",
+      "recordDateStart": "2021-02-26T04:29:23.904Z",
+      "seriesId": "2073",
+      "sha256": "f56bda6ff04dd3086fc7801b8d0191f96ec04d0798cc070fb740ec93f4730fdb",
+      "startDate": "2021-02-26T04:30:00.000Z",
+      "subtitle": "College Sports",
+      "title": "J-Arena",
+      "uploadedDate": "2021-02-26T06:10:24.717Z",
+      "raw": "https://mega.nz/folder/WkBWwLpB#SByPNCEYKHMVOk4DDXg6pg"
     }
   ]
 }
