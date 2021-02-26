@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-26T08:00:03.660Z",
+  "lastUpdated": "2021-02-26T16:05:02.992Z",
   "seriesId": "2019",
   "title": "Dining with the Chef",
   "episodes": [
@@ -466,6 +466,21 @@
       "title": "Dining with the Chef",
       "uploadedDate": "2021-02-15T11:15:20.669Z",
       "raw": "https://mega.nz/folder/EQYWEZID#5I-L_HcrjvlvSEUvzIytkg"
+    },
+    {
+      "airingId": "285",
+      "content": "Learn about easy, delicious and healthy cooking with Chef Rika! Featured recipes: (1) Shrimp Balls - Ebi Shinjo (2) Mixed Rice with Ebi (3) Shrimp Avocado Salad with Curried Tofu and Mayonnaise.",
+      "description": "Featured recipes: (1) Shrimp Balls - Ebi Shinjo (2) Mixed Rice with Ebi (3) Shrimp Avocado Salad with Curried Tofu and Mayonnaise/Learn about easy, delicious, and healthy cooking with Chef Rika!",
+      "endDate": "2021-02-26T15:00:00.000Z",
+      "link": "https://mega.nz/folder/VU1g0RzT#gyk7JiFBwyQl0Eu1OSEt1w",
+      "recordDateEnd": "2021-02-26T15:00:27.833Z",
+      "recordDateStart": "2021-02-26T14:29:20.060Z",
+      "seriesId": "2019",
+      "sha256": "641b7dc976428ba6a93a867999086c8c1dfaac8b120462ecd838d39c038adbab",
+      "startDate": "2021-02-26T14:30:00.000Z",
+      "subtitle": "Rika's TOKYO CUISINE: Three Ebi Dishes",
+      "title": "Dining with the Chef",
+      "uploadedDate": "2021-02-26T16:02:19.086Z"
     }
   ]
 }
