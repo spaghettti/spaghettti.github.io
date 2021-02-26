@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-26T06:15:04.191Z",
+  "lastUpdated": "2021-02-26T08:00:03.743Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2066,6 +2066,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-02-15T15:12:55.115Z",
       "raw": "https://mega.nz/folder/tw5iGQ7B#Lq3Ln9HVT2PG315nIPt9Mg"
+    },
+    {
+      "airingId": "737",
+      "content": "Wanda took part in the Warsaw Uprising in 1944, which was the resistance struggle to the Nazi regime. Nowadays, she protests against the politicians about some social matters from her experience of the war.",
+      "description": "Wanda took part in the Warsaw Uprising in 1944, which was the resistance struggle to Naci regime. Nowadays, she protests against the politicians about some social matters from her experience of war.",
+      "endDate": "2021-02-26T07:30:00.000Z",
+      "link": "https://mega.nz/folder/fpd3WIqJ#yxPbmd5SaN4bL1t-tfWSsw",
+      "recordDateEnd": "2021-02-26T07:30:30.374Z",
+      "recordDateStart": "2021-02-26T07:14:20.012Z",
+      "seriesId": "2058",
+      "sha256": "60e2f991cb17aacf4ef03053abe60fb33338d53ec0aeb9597b4e950570e7f56f",
+      "startDate": "2021-02-26T07:15:00.000Z",
+      "subtitle": "Uprising for Human Rights: Wanda Traczyk-Stawska / Former Warsaw Uprising Soldier",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-02-26T07:55:36.096Z"
     },
     {
       "airingId": "739",

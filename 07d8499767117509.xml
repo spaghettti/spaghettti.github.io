@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-26T06:15:04.175Z</lastUpdated>
+  <lastUpdated>2021-02-26T08:00:03.727Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2067,6 +2067,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-15T15:12:55.115Z</uploadedDate>
     <raw>https://mega.nz/folder/tw5iGQ7B#Lq3Ln9HVT2PG315nIPt9Mg</raw>
+  </episode>
+  <episode>
+    <airingId>737</airingId>
+    <content>Wanda took part in the Warsaw Uprising in 1944, which was the resistance struggle to the Nazi regime. Nowadays, she protests against the politicians about some social matters from her experience of the war.</content>
+    <description>Wanda took part in the Warsaw Uprising in 1944, which was the resistance struggle to Naci regime. Nowadays, she protests against the politicians about some social matters from her experience of war.</description>
+    <endDate>2021-02-26T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/fpd3WIqJ#yxPbmd5SaN4bL1t-tfWSsw</link>
+    <recordDateEnd>2021-02-26T07:30:30.374Z</recordDateEnd>
+    <recordDateStart>2021-02-26T07:14:20.012Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>60e2f991cb17aacf4ef03053abe60fb33338d53ec0aeb9597b4e950570e7f56f</sha256>
+    <startDate>2021-02-26T07:15:00.000Z</startDate>
+    <subtitle>Uprising for Human Rights: Wanda Traczyk-Stawska / Former Warsaw Uprising Soldier</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-02-26T07:55:36.096Z</uploadedDate>
   </episode>
   <episode>
     <airingId>739</airingId>
