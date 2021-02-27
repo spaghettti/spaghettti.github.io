@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-26T17:10:03.675Z</lastUpdated>
+  <lastUpdated>2021-02-27T00:35:04.448Z</lastUpdated>
   <seriesId>e425ad11d70fcae3</seriesId>
   <title>Zeroing In: Carbon Neutral</title>
   <episode>
@@ -35,5 +35,21 @@
     <title>Zeroing In: Carbon Neutral 2050</title>
     <uploadedDate>2020-12-24T00:11:06.382Z</uploadedDate>
     <raw>https://mega.nz/folder/AU1CFaDY#nqOyJ3SqJQsCXhtE7BPvmQ</raw>
+  </episode>
+  <episode>
+    <airingId>715</airingId>
+    <content/>
+    <description>Rising temperatures. Warming oceans. Melting ice. Climate change touches all of us. In partnership with Northern California Public Media, we zero in on a course to a carbon neutral future.</description>
+    <endDate>2021-02-26T23:35:00.000Z</endDate>
+    <link>https://mega.nz/folder/tVFwBLxQ#G8jEoJjf85XoUBluCtrbVQ</link>
+    <recordDateEnd>2021-02-26T23:35:29.514Z</recordDateEnd>
+    <recordDateStart>2021-02-26T23:09:20.098Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>10ecbe7dc506d7a7851463b8938b84d6d602ef6abbecbd58922dfe552a63b6e7</sha256>
+    <startDate>2021-02-26T23:10:00.000Z</startDate>
+    <subtitle>Episode 3: Uncommon Ground</subtitle>
+    <title>Zeroing In: Carbon Neutral 2050</title>
+    <uploadedDate>2021-02-27T00:30:39.953Z</uploadedDate>
+    <raw>https://mega.nz/folder/zsdiEDRI#xAMpnEAmX3PiDJEJhCSfXw</raw>
   </episode>
 </episodeList>
