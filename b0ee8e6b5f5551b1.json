@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-27T08:00:04.610Z",
+  "lastUpdated": "2021-02-27T15:40:04.097Z",
   "seriesId": "7000",
   "title": "Spirit of Resilience",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "Spirit of Resilience",
       "uploadedDate": "2021-02-15T13:21:06.727Z",
       "raw": "https://mega.nz/folder/a51xXAKK#yl5IlOvPMY7t-n38H-uqtA"
+    },
+    {
+      "airingId": "476",
+      "content": "",
+      "description": "Dairy Farmers on the Mooove: Documents dairy farmers in Tottori Prefecture as they work to ensure that their local dairy farming tradition continues to flourish.",
+      "endDate": "2021-02-27T14:40:00.000Z",
+      "link": "https://mega.nz/folder/3twSkTYK#GUJtgP5Q5nBJIQL_RfMuQw",
+      "recordDateEnd": "2021-02-27T14:40:29.705Z",
+      "recordDateStart": "2021-02-27T14:09:20.102Z",
+      "seriesId": "7000",
+      "sha256": "32efe7b9cf402858d3d83c6d35654177ce7584073ae3fd4c22693ff84ffa91d6",
+      "startDate": "2021-02-27T14:10:00.000Z",
+      "subtitle": "Dairy Farmers on the Mooove",
+      "title": "Spirit of Resilience",
+      "uploadedDate": "2021-02-27T15:38:53.797Z"
     }
   ]
 }
