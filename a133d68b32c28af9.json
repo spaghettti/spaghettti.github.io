@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-27T00:35:04.545Z",
+  "lastUpdated": "2021-02-27T00:55:03.805Z",
   "seriesId": "6109",
   "title": "Winter Joy",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "Winter Joy",
       "uploadedDate": "2021-01-20T02:20:01.423Z",
       "raw": "https://mega.nz/folder/VAw23BSI#hSjUfYd9qT7ZEMGHDVqQ6g"
+    },
+    {
+      "airingId": "004",
+      "content": "",
+      "description": "Winter brings joy to Japan. Enjoy the beautiful landscape of Japan and enjoy the wonders of winter. #4: Let's visit the powder-snow ski slopes and hot spring resorts of Nagano prefecture.",
+      "endDate": "2021-02-27T00:00:00.000Z",
+      "link": "https://mega.nz/folder/xtBDWYwY#HcWjptcECZ3c0xzLBSDVkw",
+      "recordDateEnd": "2021-02-27T00:00:35.679Z",
+      "recordDateStart": "2021-02-26T23:49:20.080Z",
+      "seriesId": "6109",
+      "sha256": "45ba81561bc63fa65f63738952d1fd97a1bf3752aeb9e5050800324c83e4162e",
+      "startDate": "2021-02-26T23:50:00.000Z",
+      "subtitle": "",
+      "title": "Winter Joy",
+      "uploadedDate": "2021-02-27T00:52:26.009Z"
     },
     {
       "airingId": "005",
