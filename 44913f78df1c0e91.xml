@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-27T04:20:02.955Z</lastUpdated>
+  <lastUpdated>2021-02-27T04:35:03.511Z</lastUpdated>
   <seriesId>44913f78df1c0e91</seriesId>
   <title>The Signs</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>The Signs</title>
     <uploadedDate>2021-01-23T04:21:54.671Z</uploadedDate>
     <raw>https://mega.nz/folder/Mjp1HCRI#aIYQEbL6SG4ScYOOjzTlJQ</raw>
+  </episode>
+  <episode>
+    <airingId>009</airingId>
+    <content>Messenger RNA science has tremendously accelerated the development of effective COVID-19 vaccines. Enabling the creation of a variety of proteins inside the body, mRNAs are a promising weapon in the fight against intractable diseases such as cancer. This episode of The Signs focuses on Japanese researchers who work to create new vaccines and medicine through combining mRNAs with original technology.</content>
+    <description>Used in COVID-19 vaccines, mRNA science is a promising weapon in the fight against intractable diseases. This episode focuses on Japanese researchers who use mRNA technology to develop new treatments.</description>
+    <endDate>2021-02-27T03:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/ttQXQIZB#vQKg3Go_d5LQhG0qhq0rSg</link>
+    <recordDateEnd>2021-02-27T03:55:29.551Z</recordDateEnd>
+    <recordDateStart>2021-02-27T03:39:20.172Z</recordDateStart>
+    <seriesId>2089</seriesId>
+    <sha256>3fcea6eb559f7a674fb98c9dd805d9c3988996486c66782fe185a0f4d5bcc9ac</sha256>
+    <startDate>2021-02-27T03:40:00.000Z</startDate>
+    <subtitle>mRNA: Medical Messenger of Hope</subtitle>
+    <title>The Signs</title>
+    <uploadedDate>2021-02-27T04:33:57.160Z</uploadedDate>
   </episode>
 </episodeList>
