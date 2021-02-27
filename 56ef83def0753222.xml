@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-27T15:40:04.102Z</lastUpdated>
+  <lastUpdated>2021-02-27T18:20:03.178Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -244,5 +244,21 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <title>NHK Documentary</title>
     <uploadedDate>2021-02-16T00:02:11.484Z</uploadedDate>
     <raw>https://mega.nz/folder/w1UTEATI#VnTWS9iQBXlJG_JL0DmL_Q</raw>
+  </episode>
+  <episode>
+    <airingId>387</airingId>
+    <content>Musical polymath Tsuneta Daiki is the mastermind behind chart-topping Japanese rock group King Gnu, and now also heads a boundary-pushing artist collective called "millennium parade." In an exclusive first, we were given full access to witness his intense creative process up close for a whole 3 months, tracking the progress and development of a special track entitled "2992" that boldly juxtaposes sonic genres. As Tsuneta over and again applies his ruthless process of destruction and creation in pursuit of his musical vision, our cameras are there to capture every step of the way.</content>
+    <description>Musical polymath Tsuneta Daiki is mastermind behind chart-topping Japanese rock group King Gnu, and also heads a boundary-pushing artist collective. We witness his intense creative process up close.</description>
+    <endDate>2021-02-27T15:54:00.000Z</endDate>
+    <link>https://mega.nz/folder/v950RRKb#Czx6iUy3rhaKdaXV-mwf1w</link>
+    <recordDateEnd>2021-02-27T15:54:28.792Z</recordDateEnd>
+    <recordDateStart>2021-02-27T15:09:22.773Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>8da62a5f0172032f3f254b2664380a68f73fb07b038571145721f31432cd3873</sha256>
+    <startDate>2021-02-27T15:10:00.000Z</startDate>
+    <subtitle>Tsuneta Daiki: Creation through Destruction</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2021-02-27T18:17:38.237Z</uploadedDate>
+    <raw>https://mega.nz/folder/3whxTCxB#NdTrQ75bv69Jt_AhKgixwg</raw>
   </episode>
 </episodeList>

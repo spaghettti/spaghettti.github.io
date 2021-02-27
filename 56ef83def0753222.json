@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-27T15:40:04.103Z",
+  "lastUpdated": "2021-02-27T18:20:03.179Z",
   "seriesId": "3016,4001",
   "title": "NHK Documentary",
   "episodes": [
@@ -242,6 +242,22 @@
       "title": "NHK Documentary",
       "uploadedDate": "2021-02-16T00:02:11.484Z",
       "raw": "https://mega.nz/folder/w1UTEATI#VnTWS9iQBXlJG_JL0DmL_Q"
+    },
+    {
+      "airingId": "387",
+      "content": "Musical polymath Tsuneta Daiki is the mastermind behind chart-topping Japanese rock group King Gnu, and now also heads a boundary-pushing artist collective called \"millennium parade.\" In an exclusive first, we were given full access to witness his intense creative process up close for a whole 3 months, tracking the progress and development of a special track entitled \"2992\" that boldly juxtaposes sonic genres. As Tsuneta over and again applies his ruthless process of destruction and creation in pursuit of his musical vision, our cameras are there to capture every step of the way.",
+      "description": "Musical polymath Tsuneta Daiki is mastermind behind chart-topping Japanese rock group King Gnu, and also heads a boundary-pushing artist collective. We witness his intense creative process up close.",
+      "endDate": "2021-02-27T15:54:00.000Z",
+      "link": "https://mega.nz/folder/v950RRKb#Czx6iUy3rhaKdaXV-mwf1w",
+      "recordDateEnd": "2021-02-27T15:54:28.792Z",
+      "recordDateStart": "2021-02-27T15:09:22.773Z",
+      "seriesId": "4001",
+      "sha256": "8da62a5f0172032f3f254b2664380a68f73fb07b038571145721f31432cd3873",
+      "startDate": "2021-02-27T15:10:00.000Z",
+      "subtitle": "Tsuneta Daiki: Creation through Destruction",
+      "title": "NHK Documentary",
+      "uploadedDate": "2021-02-27T18:17:38.237Z",
+      "raw": "https://mega.nz/folder/3whxTCxB#NdTrQ75bv69Jt_AhKgixwg"
     }
   ]
 }
