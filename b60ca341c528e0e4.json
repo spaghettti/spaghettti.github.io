@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-27T04:40:03.111Z",
+  "lastUpdated": "2021-02-27T05:15:03.651Z",
   "seriesId": "6022",
   "title": "Easy Japanese",
   "episodes": [
@@ -242,6 +242,22 @@
       "title": "Easy Japanese",
       "uploadedDate": "2021-02-21T22:46:20.357Z",
       "raw": "https://mega.nz/folder/TgByDB5I#_74ZenncB_z-l3LuvSOX4w"
+    },
+    {
+      "airingId": "046",
+      "content": "",
+      "description": "#46 It's small but beautiful. / Connect 2 opposing adjectives by using \"kedo\" (but) followed by \"desu ne.\"",
+      "endDate": "2021-02-27T05:00:00.000Z",
+      "link": "https://mega.nz/folder/0p5SBT5I#Ue22WEj-yU7IkCqJh8S0XA",
+      "recordDateEnd": "2021-02-27T05:00:26.119Z",
+      "recordDateStart": "2021-02-27T04:54:22.263Z",
+      "seriesId": "6022",
+      "sha256": "d38166201591dd22db82ee2367d093acfb09c28ae437bc1361e17d5aac20a4a1",
+      "startDate": "2021-02-27T04:55:00.000Z",
+      "subtitle": "",
+      "title": "Easy Japanese",
+      "uploadedDate": "2021-02-27T05:12:28.398Z",
+      "raw": "https://mega.nz/folder/ngtwFLRQ#0lsjNiqbgPu7ryqIcyZBvA"
     }
   ]
 }

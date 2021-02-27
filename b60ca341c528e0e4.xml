@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-27T04:40:03.110Z</lastUpdated>
+  <lastUpdated>2021-02-27T05:15:03.650Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -243,5 +243,21 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-02-21T22:46:20.357Z</uploadedDate>
     <raw>https://mega.nz/folder/TgByDB5I#_74ZenncB_z-l3LuvSOX4w</raw>
+  </episode>
+  <episode>
+    <airingId>046</airingId>
+    <content/>
+    <description>#46 It's small but beautiful. / Connect 2 opposing adjectives by using "kedo" (but) followed by "desu ne."</description>
+    <endDate>2021-02-27T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/0p5SBT5I#Ue22WEj-yU7IkCqJh8S0XA</link>
+    <recordDateEnd>2021-02-27T05:00:26.119Z</recordDateEnd>
+    <recordDateStart>2021-02-27T04:54:22.263Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>d38166201591dd22db82ee2367d093acfb09c28ae437bc1361e17d5aac20a4a1</sha256>
+    <startDate>2021-02-27T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-02-27T05:12:28.398Z</uploadedDate>
+    <raw>https://mega.nz/folder/ngtwFLRQ#0lsjNiqbgPu7ryqIcyZBvA</raw>
   </episode>
 </episodeList>
