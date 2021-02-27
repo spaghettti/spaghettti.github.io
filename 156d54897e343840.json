@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-27T01:50:04.179Z",
+  "lastUpdated": "2021-02-27T04:15:04.180Z",
   "seriesId": "3016",
   "title": "NHK WORLD PRIME",
   "episodes": [
@@ -258,6 +258,22 @@
       "title": "NHK WORLD PRIME",
       "uploadedDate": "2021-01-23T04:01:55.034Z",
       "raw": "https://mega.nz/folder/UNxVjQ5T#dhPHxf9L8SXl0WLixCCI6Q"
+    },
+    {
+      "airingId": "090",
+      "content": "Dr. Oichiro Kobori (82) cares for dying patients at their homes. Many live with middle-aged and older children who are cut off from society. One man in his 50s, whose father has terminal cancer, hasn't worked since he was young and has psychological problems. Under Dr. Kobori's guidance, the son learns to care for his father and slowly becomes more engaged with the world around him. Follow the two-year journey as Dr. Kobori and his team help patients and families find comfort at the end of life.",
+      "description": "In Japan, many dying people live at home with middle-aged and older children who are cut off from society. Follow a doctor's two-year journey to help these families find comfort at the end of life.",
+      "endDate": "2021-02-27T02:00:00.000Z",
+      "link": "https://mega.nz/folder/8wpkzQxb#61EJovZhUhT8cEzorGoF9w",
+      "recordDateEnd": "2021-02-27T02:00:26.673Z",
+      "recordDateStart": "2021-02-27T01:09:20.140Z",
+      "seriesId": "3016",
+      "sha256": "d3403d1b171d321a116253cf5df5c3f16fa01556dd6afa4c9a949893612df5fc",
+      "startDate": "2021-02-27T01:10:00.000Z",
+      "subtitle": "Gifts from a Parent's Deathbed",
+      "title": "NHK WORLD PRIME",
+      "uploadedDate": "2021-02-27T04:11:34.449Z",
+      "raw": "https://mega.nz/folder/nwR0UJKC#tA0U9N0vM2I_dkuUXlc2Sw"
     }
   ]
 }
