@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-27T05:15:03.623Z</lastUpdated>
+  <lastUpdated>2021-02-27T08:00:04.519Z</lastUpdated>
   <seriesId>be55ba93c748813c</seriesId>
   <title>COOL JAPAN</title>
   <episode>
@@ -147,5 +147,21 @@
     <title>COOL JAPAN</title>
     <uploadedDate>2021-02-15T07:51:27.318Z</uploadedDate>
     <raw>https://mega.nz/folder/IQghXAwJ#xN87mivENNSyec2Ifg61JQ</raw>
+  </episode>
+  <episode>
+    <airingId>249</airingId>
+    <content>Japan is one of the few countries with heavy snowfall in the world. It holds the top 3 spots in the annual snowfall ranking for cities with populations over 100,000 people. Regions nationally designated as having heavy snowfall covers about 50% of Japan. Many foreign tourists who visit during the winter come seeking this snow. Snow itself is becoming a tourist attraction with things such as experiencing blizzards in Tsugaru and snow shoveling tours in regions with heavy snowfall. We compare Japan's culture related to snow with the world's. We discover what's cool about Japan's snow culture.</content>
+    <description>The panelists evaluate the unique customs and traditions by which snow has been dealt with and even utilized as a productive resource in the snowbound regions of Japan, which take up half of its area.</description>
+    <endDate>2021-02-27T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/boBmybJR#1ngyQmBr6mqHsSAIKNjd6g</link>
+    <recordDateEnd>2021-02-27T04:55:29.212Z</recordDateEnd>
+    <recordDateStart>2021-02-27T04:09:20.099Z</recordDateStart>
+    <seriesId>4008</seriesId>
+    <sha256>9d9058fd2e03287215a9f9a47c503469c7e63842e43ec420da1d10fad72a2773</sha256>
+    <startDate>2021-02-27T04:10:00.000Z</startDate>
+    <subtitle>Snow</subtitle>
+    <title>COOL JAPAN</title>
+    <uploadedDate>2021-02-27T07:57:50.208Z</uploadedDate>
+    <raw>https://mega.nz/folder/3ooUBSTA#gJJfl6gTEAN1lE93tEoyCQ</raw>
   </episode>
 </episodeList>
