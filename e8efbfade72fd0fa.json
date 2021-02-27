@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-27T00:55:03.811Z",
+  "lastUpdated": "2021-02-27T01:05:03.429Z",
   "seriesId": "6123",
   "title": "no art, no life plus",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "no art, no life plus",
       "uploadedDate": "2021-02-15T14:52:01.991Z",
       "raw": "https://mega.nz/folder/C9thmKga#oNLh9nwHk-uDgQnblmVLlw"
+    },
+    {
+      "airingId": "011",
+      "content": "",
+      "description": "Outsider artists like Ozawa Yuki are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.",
+      "endDate": "2021-02-26T23:45:00.000Z",
+      "link": "https://mega.nz/folder/T85UnDYL#ZJVy5G5woOsMOb3Dfq8q5g",
+      "recordDateEnd": "2021-02-26T23:45:24.192Z",
+      "recordDateStart": "2021-02-26T23:34:22.590Z",
+      "seriesId": "6123",
+      "sha256": "551d6de778ff2ef807f3fcb340661d3eb5a43598461fec4245901551e6595d8a",
+      "startDate": "2021-02-26T23:35:00.000Z",
+      "subtitle": "",
+      "title": "no art, no life plus",
+      "uploadedDate": "2021-02-27T01:03:01.084Z"
     }
   ]
 }

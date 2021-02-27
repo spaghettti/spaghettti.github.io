@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-27T00:55:03.811Z</lastUpdated>
+  <lastUpdated>2021-02-27T01:05:03.428Z</lastUpdated>
   <seriesId>e8efbfade72fd0fa</seriesId>
   <title>no art, no life plus</title>
   <episode>
@@ -51,5 +51,20 @@
     <title>no art, no life plus</title>
     <uploadedDate>2021-02-15T14:52:01.991Z</uploadedDate>
     <raw>https://mega.nz/folder/C9thmKga#oNLh9nwHk-uDgQnblmVLlw</raw>
+  </episode>
+  <episode>
+    <airingId>011</airingId>
+    <content/>
+    <description>Outsider artists like Ozawa Yuki are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.</description>
+    <endDate>2021-02-26T23:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/T85UnDYL#ZJVy5G5woOsMOb3Dfq8q5g</link>
+    <recordDateEnd>2021-02-26T23:45:24.192Z</recordDateEnd>
+    <recordDateStart>2021-02-26T23:34:22.590Z</recordDateStart>
+    <seriesId>6123</seriesId>
+    <sha256>551d6de778ff2ef807f3fcb340661d3eb5a43598461fec4245901551e6595d8a</sha256>
+    <startDate>2021-02-26T23:35:00.000Z</startDate>
+    <subtitle/>
+    <title>no art, no life plus</title>
+    <uploadedDate>2021-02-27T01:03:01.084Z</uploadedDate>
   </episode>
 </episodeList>
