@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-27T18:20:03.190Z</lastUpdated>
+  <lastUpdated>2021-02-28T00:20:03.241Z</lastUpdated>
   <series>
     <count>20</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -1123,10 +1123,10 @@
     <title>Your Japanese Kitchen mini</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>e425ad11d70fcae3</uniqueId>
-    <lastAiring>2021-02-26T23:10:00.000Z</lastAiring>
-    <lastUpload>2021-02-27T00:30:39.953Z</lastUpload>
+    <lastAiring>2021-02-27T23:10:00.000Z</lastAiring>
+    <lastUpload>2021-02-28T00:18:42.203Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>Zeroing In: Carbon Neutral</title>
   </series>

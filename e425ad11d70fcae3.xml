@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-27T18:20:03.054Z</lastUpdated>
+  <lastUpdated>2021-02-28T00:20:03.124Z</lastUpdated>
   <seriesId>e425ad11d70fcae3</seriesId>
   <title>Zeroing In: Carbon Neutral</title>
   <episode>
@@ -51,5 +51,20 @@
     <title>Zeroing In: Carbon Neutral 2050</title>
     <uploadedDate>2021-02-27T00:30:39.953Z</uploadedDate>
     <raw>https://mega.nz/folder/zsdiEDRI#xAMpnEAmX3PiDJEJhCSfXw</raw>
+  </episode>
+  <episode>
+    <airingId>716</airingId>
+    <content/>
+    <description>Rising temperatures. Warming oceans. Melting ice. Climate change touches all of us. In partnership with Northern California Public Media, we zero in on a course to a carbon neutral future.</description>
+    <endDate>2021-02-27T23:35:00.000Z</endDate>
+    <link>https://mega.nz/folder/X84UURyI#OK5Wv182OnpI3XsDcGh1tg</link>
+    <recordDateEnd>2021-02-27T23:35:33.394Z</recordDateEnd>
+    <recordDateStart>2021-02-27T23:09:20.101Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>e8e525ca8eb35cd466b2364e65ef84661489d0b98a45b29a1200e5975f5559b2</sha256>
+    <startDate>2021-02-27T23:10:00.000Z</startDate>
+    <subtitle>Episode 4: Recharging the Grid</subtitle>
+    <title>Zeroing In: Carbon Neutral 2050</title>
+    <uploadedDate>2021-02-28T00:18:42.203Z</uploadedDate>
   </episode>
 </episodeList>
