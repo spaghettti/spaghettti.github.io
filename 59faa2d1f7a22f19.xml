@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-28T06:55:04.182Z</lastUpdated>
+  <lastUpdated>2021-02-28T08:15:04.220Z</lastUpdated>
   <seriesId>59faa2d1f7a22f19</seriesId>
   <title>Japanology Plus mini</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>Japanology Plus mini</title>
     <uploadedDate>2021-02-28T02:08:11.992Z</uploadedDate>
     <raw>https://mega.nz/folder/ZYUARJxT#E7bspiWvLc_dyd3PNSs_MQ</raw>
+  </episode>
+  <episode>
+    <airingId>010</airingId>
+    <content/>
+    <description>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at konamon: flour-based cuisine. Two popular examples are takoyaki and okonomiyaki.</description>
+    <endDate>2021-02-28T08:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/h54BSK7J#v0o38rWIyupP1JawB5vyrA</link>
+    <recordDateEnd>2021-02-28T08:00:27.123Z</recordDateEnd>
+    <recordDateStart>2021-02-28T07:54:23.178Z</recordDateStart>
+    <seriesId>6032</seriesId>
+    <sha256>06242f1629a817199106a8cdda01eec4d82463b4cdab305adb63594c4328a953</sha256>
+    <startDate>2021-02-28T07:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Japanology Plus mini</title>
+    <uploadedDate>2021-02-28T08:11:56.502Z</uploadedDate>
   </episode>
 </episodeList>
