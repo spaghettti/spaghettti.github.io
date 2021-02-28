@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-28T00:55:03.611Z</lastUpdated>
+  <lastUpdated>2021-02-28T01:20:03.695Z</lastUpdated>
   <seriesId>29c1799bc492d0cf</seriesId>
   <title>Spiritual Explorers</title>
+  <episode>
+    <airingId>003</airingId>
+    <content/>
+    <description>This time, we will focus on the living art of Bonsai. What is behind the art of cultivating trees into aesthetically pleasing shapes in containers rather than allowing nature to take its course?</description>
+    <endDate>2021-02-28T00:35:00.000Z</endDate>
+    <link>https://mega.nz/folder/5YlkhBgK#UPnA3PDgFUL33iWZx7GntQ</link>
+    <recordDateEnd>2021-02-28T00:35:29.732Z</recordDateEnd>
+    <recordDateStart>2021-02-28T00:09:20.099Z</recordDateStart>
+    <seriesId>2088</seriesId>
+    <sha256>fd8e5993e1d65feb79f54ee6cd70eb70806cbcb5a8066dc1bb097320263a0448</sha256>
+    <startDate>2021-02-28T00:10:00.000Z</startDate>
+    <subtitle>Bonsai: Nature in a Pot</subtitle>
+    <title>Spiritual Explorers</title>
+    <uploadedDate>2021-02-28T01:18:24.993Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>004</airingId>
     <content/>
