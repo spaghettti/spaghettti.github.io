@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-28T12:55:03.294Z</lastUpdated>
+  <lastUpdated>2021-02-28T14:15:03.655Z</lastUpdated>
   <seriesId>59faa2d1f7a22f19</seriesId>
   <title>Japanology Plus mini</title>
   <episode>
@@ -131,5 +131,21 @@
     <title>Japanology Plus mini</title>
     <uploadedDate>2021-02-28T08:11:56.502Z</uploadedDate>
     <raw>https://mega.nz/folder/OtAyHLqb#wzxnvIF4KMfRMN_rB9PyWw</raw>
+  </episode>
+  <episode>
+    <airingId>011</airingId>
+    <content/>
+    <description>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at karakuri ningyo, or mechanical dolls. Their clever mechanisms have been entertaining the public for centuries.</description>
+    <endDate>2021-02-28T14:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ThUSgbDL#LN7XTbsyACUIYQ_Buatq9A</link>
+    <recordDateEnd>2021-02-28T14:00:32.556Z</recordDateEnd>
+    <recordDateStart>2021-02-28T13:54:20.101Z</recordDateStart>
+    <seriesId>6032</seriesId>
+    <sha256>19f96396794ebd52f469ee7ec7b62f91d925a76b4a2d3ce21d8180b3176a946e</sha256>
+    <startDate>2021-02-28T13:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Japanology Plus mini</title>
+    <uploadedDate>2021-02-28T14:10:11.294Z</uploadedDate>
+    <raw>https://mega.nz/folder/D0YCgBiD#ysIlKmdzHG46WMFoxIxEvQ</raw>
   </episode>
 </episodeList>
