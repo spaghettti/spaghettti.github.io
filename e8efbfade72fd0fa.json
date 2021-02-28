@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-28T00:50:03.966Z",
+  "lastUpdated": "2021-02-28T00:55:03.708Z",
   "seriesId": "6123",
   "title": "no art, no life plus",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "no art, no life plus",
       "uploadedDate": "2021-02-27T01:03:01.084Z",
       "raw": "https://mega.nz/folder/tsxwAJZY#ArGrsYJKIIC0uIe4Wn6I0Q"
+    },
+    {
+      "airingId": "012",
+      "content": "",
+      "description": "Outsider artists like Kimura Masahiko are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.",
+      "endDate": "2021-02-27T23:45:00.000Z",
+      "link": "https://mega.nz/folder/K9J2GT4S#S6Mi8-y0FfsTCshzImY19w",
+      "recordDateEnd": "2021-02-27T23:45:26.484Z",
+      "recordDateStart": "2021-02-27T23:34:20.002Z",
+      "seriesId": "6123",
+      "sha256": "a15aca23932a65276e8b69260f4685827700f0bf9d70b83c9fd031a8624ffc69",
+      "startDate": "2021-02-27T23:35:00.000Z",
+      "subtitle": "",
+      "title": "no art, no life plus",
+      "uploadedDate": "2021-02-28T00:51:22.800Z"
     }
   ]
 }

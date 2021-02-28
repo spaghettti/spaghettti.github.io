@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-28T00:50:03.966Z</lastUpdated>
+  <lastUpdated>2021-02-28T00:55:03.707Z</lastUpdated>
   <seriesId>e8efbfade72fd0fa</seriesId>
   <title>no art, no life plus</title>
   <episode>
@@ -67,5 +67,20 @@
     <title>no art, no life plus</title>
     <uploadedDate>2021-02-27T01:03:01.084Z</uploadedDate>
     <raw>https://mega.nz/folder/tsxwAJZY#ArGrsYJKIIC0uIe4Wn6I0Q</raw>
+  </episode>
+  <episode>
+    <airingId>012</airingId>
+    <content/>
+    <description>Outsider artists like Kimura Masahiko are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.</description>
+    <endDate>2021-02-27T23:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/K9J2GT4S#S6Mi8-y0FfsTCshzImY19w</link>
+    <recordDateEnd>2021-02-27T23:45:26.484Z</recordDateEnd>
+    <recordDateStart>2021-02-27T23:34:20.002Z</recordDateStart>
+    <seriesId>6123</seriesId>
+    <sha256>a15aca23932a65276e8b69260f4685827700f0bf9d70b83c9fd031a8624ffc69</sha256>
+    <startDate>2021-02-27T23:35:00.000Z</startDate>
+    <subtitle/>
+    <title>no art, no life plus</title>
+    <uploadedDate>2021-02-28T00:51:22.800Z</uploadedDate>
   </episode>
 </episodeList>
