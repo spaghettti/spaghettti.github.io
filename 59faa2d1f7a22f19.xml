@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-28T14:15:03.655Z</lastUpdated>
+  <lastUpdated>2021-02-28T20:20:03.927Z</lastUpdated>
   <seriesId>59faa2d1f7a22f19</seriesId>
   <title>Japanology Plus mini</title>
   <episode>
@@ -147,5 +147,21 @@
     <title>Japanology Plus mini</title>
     <uploadedDate>2021-02-28T14:10:11.294Z</uploadedDate>
     <raw>https://mega.nz/folder/D0YCgBiD#ysIlKmdzHG46WMFoxIxEvQ</raw>
+  </episode>
+  <episode>
+    <airingId>012</airingId>
+    <content/>
+    <description>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at plasterwork. Time-honored methods are still used to achieve astonishing results.</description>
+    <endDate>2021-02-28T20:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/IJ0knS6A#FHatbHAL3p4jbNsQcBA5fQ</link>
+    <recordDateEnd>2021-02-28T20:00:21.937Z</recordDateEnd>
+    <recordDateStart>2021-02-28T19:54:34.884Z</recordDateStart>
+    <seriesId>6032</seriesId>
+    <sha256>a1ef146ba02808615149dcc746d9f5cf1681292c645a400f704093e8fe00f50d</sha256>
+    <startDate>2021-02-28T19:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Japanology Plus mini</title>
+    <uploadedDate>2021-02-28T20:18:36.491Z</uploadedDate>
+    <raw>https://mega.nz/folder/QwpwFJDT#A5Ui_EYsPhSPw636zgrtdw</raw>
   </episode>
 </episodeList>
