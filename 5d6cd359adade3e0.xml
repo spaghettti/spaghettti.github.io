@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-28T12:10:03.453Z</lastUpdated>
+  <lastUpdated>2021-02-28T12:55:03.199Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
   <episode>
@@ -99,6 +99,22 @@
     <title>Doki Doki! NHK WORLD-JAPAN</title>
     <uploadedDate>2021-02-21T23:10:27.919Z</uploadedDate>
     <raw>https://mega.nz/folder/D5hinTwY#b3lSy32KfyWB673EzrFdAA</raw>
+  </episode>
+  <episode>
+    <airingId>068</airingId>
+    <content/>
+    <description>This time we introduce "Core Kyoto," which shows amulets in Kyoto. Some are in traditional shapes and some are installed in IC chips to be able to connect to smartphones or smart-watches.</description>
+    <endDate>2021-02-28T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/mpx32aZT#zKAUNIQ85BR3L2A76BobbA</link>
+    <recordDateEnd>2021-02-28T11:55:32.769Z</recordDateEnd>
+    <recordDateStart>2021-02-28T11:49:20.102Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>718094a63006c5ed08b39d98b09550a77e7c65662963e39353b49929c1063e94</sha256>
+    <startDate>2021-02-28T11:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2021-02-28T12:51:33.245Z</uploadedDate>
+    <raw>https://mega.nz/folder/EB8wCDAI#4DMExfY3vYz078-oNo2m8g</raw>
   </episode>
   <episode>
     <airingId>071</airingId>
