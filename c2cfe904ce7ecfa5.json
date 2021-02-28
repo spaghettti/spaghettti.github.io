@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-28T02:10:03.524Z",
+  "lastUpdated": "2021-02-28T03:10:03.245Z",
   "seriesId": "2043",
   "title": "Face To Face",
   "episodes": [
@@ -82,6 +82,21 @@
       "title": "Face To Face",
       "uploadedDate": "2021-01-31T08:35:18.094Z",
       "raw": "https://mega.nz/folder/cHYzDKaZ#1_4r1ypCrem1RhWt1Wp02w"
+    },
+    {
+      "airingId": "065",
+      "content": "The skills of Japan's craftsmen are indispensable in restoring and preserving Japan's traditional wooden architecture. At the end of 2020, these skills were listed as a UNESCO Intangible Cultural Heritage. David Atkinson, a former financial analyst from the UK, is the CEO of a 300-year-old company that has led the restoration of World Heritage sites such as Nikko Toshogu Shrine. Through bold reforms, he's managed to attract more young people into the field and is now seeking ways to secure funding through tourism.",
+      "description": "A former financial analyst from the UK, David Atkinson is the CEO of a company that specializes in restoring Japanese architectural heritage. He discusses ways to pass on tradition and ensure funding.",
+      "endDate": "2021-02-28T01:40:00.000Z",
+      "link": "https://mega.nz/folder/Op4wHaBA#D9McPJDKvwqSNiaPPU5l_Q",
+      "recordDateEnd": "2021-02-28T01:40:29.860Z",
+      "recordDateStart": "2021-02-28T01:09:22.889Z",
+      "seriesId": "2043",
+      "sha256": "4ae5e76dc2346b0ca9e27dfcb589ead87179e2f707267c21c400496669f44926",
+      "startDate": "2021-02-28T01:10:00.000Z",
+      "subtitle": "David Atkinson: Preserving Craftsmanship for Posterity",
+      "title": "Face To Face",
+      "uploadedDate": "2021-02-28T03:09:35.989Z"
     }
   ]
 }
