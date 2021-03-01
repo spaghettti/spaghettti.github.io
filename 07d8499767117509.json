@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-01T06:05:03.808Z",
+  "lastUpdated": "2021-03-01T08:00:03.524Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -674,6 +674,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-02-04T23:12:33.961Z",
       "raw": "https://mega.nz/folder/EC4iwA5Y#t31AvlqQJ_HXtDaiIKOY7g"
+    },
+    {
+      "airingId": "609",
+      "content": "The seas of Fukushima Prefecture were gravely harmed by the 2011 nuclear disaster and its aftermath. For the past 9 years, Riken Komatsu has worked tirelessly to restore them and related industries.",
+      "description": "The seas of Fukushima were gravely harmed by the 2011 nuclear disaster and its aftermath. For the past 9 years, Riken Komatsu has worked tirelessly to restore them and related industries.",
+      "endDate": "2021-03-01T07:30:00.000Z",
+      "link": "https://mega.nz/folder/7lpjkQaI#7sawiKO2csm2cApdA10htA",
+      "recordDateEnd": "2021-03-01T07:30:31.048Z",
+      "recordDateStart": "2021-03-01T07:14:22.729Z",
+      "seriesId": "2058",
+      "sha256": "48102490c0abf74a92985f0402a4cd74ac59ed5be0cb79b4c55b00fb3c59d088",
+      "startDate": "2021-03-01T07:15:00.000Z",
+      "subtitle": "Saving the Fukushima Seas: Riken Komatsu / Local Activist",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-03-01T07:58:50.368Z"
     },
     {
       "airingId": "615",
