@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-01T01:05:03.664Z</lastUpdated>
+  <lastUpdated>2021-03-01T01:45:04.033Z</lastUpdated>
   <seriesId>e5a5b6a12ffc2a6e</seriesId>
   <title>BENTO EXPO</title>
   <episode>
@@ -147,5 +147,21 @@
     <title>BENTO EXPO</title>
     <uploadedDate>2021-01-25T01:27:38.590Z</uploadedDate>
     <raw>https://mega.nz/folder/oZxkVQAY#Q_KiWGRHqyzNVYPooEt1eg</raw>
+  </episode>
+  <episode>
+    <airingId>029</airingId>
+    <content>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</content>
+    <description>From Marc, crispy fried tofu in a sweet ginger glaze, and from Maki, sweet and sour meatballs. And from Tottori, Japan, famous for its sand dunes, a bento featuring another Tottori specialty, crabs.</description>
+    <endDate>2021-03-01T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/Tw9GmZAS#T7Ls5UfFIJdsspun88DNhg</link>
+    <recordDateEnd>2021-03-01T00:45:25.960Z</recordDateEnd>
+    <recordDateStart>2021-03-01T00:29:22.945Z</recordDateStart>
+    <seriesId>2077</seriesId>
+    <sha256>cbbab80382fed57e07070c9a85013b39dd050583f1fa0efd838f8f0bb7f60bf0</sha256>
+    <startDate>2021-03-01T00:30:00.000Z</startDate>
+    <subtitle>Season 5-19 Crispy Tofu Bento &amp; Sweet and Sour Meatball Bento</subtitle>
+    <title>BENTO EXPO</title>
+    <uploadedDate>2021-03-01T01:42:00.771Z</uploadedDate>
+    <raw>https://mega.nz/folder/igwC1LZK#PzXtab3WIa2k3FCke4LHDg</raw>
   </episode>
 </episodeList>
