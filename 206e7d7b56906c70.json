@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-02-28T20:20:03.743Z",
+  "lastUpdated": "2021-03-01T01:05:03.575Z",
   "seriesId": "2024",
   "title": "Seasoning the Seasons",
   "episodes": [
@@ -242,6 +242,21 @@
       "title": "Seasoning the Seasons",
       "uploadedDate": "2021-01-06T10:32:24.499Z",
       "raw": "https://mega.nz/folder/NAJDBASS#QUW7RjsZDhK610ImAFVsfA"
+    },
+    {
+      "airingId": "134",
+      "content": "Mount Iwate is a mountain that the people of Iwate always look up to. Standing at 2,038 meters above sea level, the locals are proud of this beautiful sight. Mount Iwate is an active volcano that has been erupting repeatedly for 700,000 years, and has undergone 7 major sector collapses to reach its current form. The large amount of volcanic ash and rocks that fell created vast foothills of the mountain. In this episode, we take a look at people living in the embrace of Mount Iwate.",
+      "description": "This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.",
+      "endDate": "2021-03-01T00:00:00.000Z",
+      "link": "https://mega.nz/folder/q1pVwKyR#fJL2E9PmXYVY7D1ycbEqTA",
+      "recordDateEnd": "2021-03-01T00:00:32.889Z",
+      "recordDateStart": "2021-02-28T23:29:20.101Z",
+      "seriesId": "2024",
+      "sha256": "d49c0105c93bbf1f2c146f3f1608e8aa6be015ddab26322b747dc36df07fa0ad",
+      "startDate": "2021-02-28T23:30:00.000Z",
+      "subtitle": "Mount Iwate: Guardian of the Homeland",
+      "title": "Seasoning the Seasons",
+      "uploadedDate": "2021-03-01T01:04:46.244Z"
     }
   ]
 }

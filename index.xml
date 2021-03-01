@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-02-28T20:20:03.980Z</lastUpdated>
+  <lastUpdated>2021-03-01T01:05:03.797Z</lastUpdated>
   <series>
     <count>20</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -827,10 +827,10 @@
     <title>Searching for the Standing Boy of Nagasaki</title>
   </series>
   <series>
-    <count>15</count>
+    <count>16</count>
     <uniqueId>206e7d7b56906c70</uniqueId>
-    <lastAiring>2021-02-21T23:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-22T03:45:57.636Z</lastUpload>
+    <lastAiring>2021-02-28T23:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-01T01:04:46.244Z</lastUpload>
     <seriesId>2024</seriesId>
     <title>Seasoning the Seasons</title>
   </series>
