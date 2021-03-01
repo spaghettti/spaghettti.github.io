@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-01T08:00:03.454Z</lastUpdated>
+  <lastUpdated>2021-03-01T16:10:03.202Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -211,6 +211,22 @@
     <title>Core Kyoto</title>
     <uploadedDate>2021-02-22T15:48:23.535Z</uploadedDate>
     <raw>https://mega.nz/folder/X8x3wIZa#zrOxzzm5xC1qwI8kVyuvqw</raw>
+  </episode>
+  <episode>
+    <airingId>062</airingId>
+    <content>The obi sash is an integral accessory for the kimono. One company has produced opulent Nishijin-ori obi for more than 120 years. A lady conveys the obi's allure through fitting classes. A dresser deftly ties the trailing obi of the Gion maiko. Fastened with a decorative cord, the obi is the final touch in a kimono ensemble. Its form manifests the obi's rich history and the sentiments of the people who produce or tie them. Discover the profound world hiding in a beautiful obi and its knot.</content>
+    <description>Today: Obi, unbridled beauty in a knot. The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive program.</description>
+    <endDate>2021-03-01T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/GwYmmJYS#wSafgGPv_8wwaBSDu5faqA</link>
+    <recordDateEnd>2021-03-01T15:00:29.840Z</recordDateEnd>
+    <recordDateStart>2021-03-01T14:29:20.102Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>ccc43f30f6688e9abc3901113a4bbff72832408e5c74952a4a6fe6ed61e91aa1</sha256>
+    <startDate>2021-03-01T14:30:00.000Z</startDate>
+    <subtitle>Obi: Unbridled Beauty in a Knot</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-03-01T16:05:03.058Z</uploadedDate>
+    <raw>https://mega.nz/folder/ZMd0zb4Q#eZb2Ybcx7eKdjBhQhhnPjA</raw>
   </episode>
   <episode>
     <airingId>064</airingId>
