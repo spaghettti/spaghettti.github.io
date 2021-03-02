@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-02T01:20:03.759Z",
+  "lastUpdated": "2021-03-02T02:05:02.996Z",
   "seriesId": "2019",
   "title": "Dining with the Chef",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "Dining with the Chef",
       "uploadedDate": "2020-12-26T02:32:27.618Z",
       "raw": "https://mega.nz/folder/Z99BwCQQ#q9hLwoGw47xaX4hZtt9VWA"
+    },
+    {
+      "airingId": "220",
+      "content": "In this two-part special, our host Yu Hayami is off to visit the cities of Aizuwakamatsu and Iwaki, in Fukushima Prefecture, and she'll be sharing the joys of Fukushima's food with us. In this first episode, we'll be exploring Aizuwakamatsu, an old capital city that gave rise to Japan's samurai culture. Our trip starts with iconic sights like Tsuruga Castle and the old-fashioned townscape of Nanokamachi Street, and we'll be taking a close look at the traditional techniques and traditional culture of Wagashi sweets and Aizu lacquerware. Finally, we'll be visiting an old ryokan inn in Aizu-Higashiyama Onsen, originally opened in 1873 and registered as a tangible cultural property, where we'll learn how to prepare Kozuyu, a traditional local dish.",
+      "description": "Today's recipe: Kozuyu. Our host Yu Hayami visits Aizuwakamatsu, Fukushima Pref. to look for the local old and new food culture and learns how to cook the dish beloved by Samurai in Edo period.",
+      "endDate": "2021-03-02T01:00:00.000Z",
+      "link": "https://mega.nz/folder/UNFETbJB#Xv19Y6ASIgOjRsnK9yEWnA",
+      "recordDateEnd": "2021-03-02T01:00:30.184Z",
+      "recordDateStart": "2021-03-02T00:29:20.046Z",
+      "seriesId": "2019",
+      "sha256": "a04ffd51081a6711cf45cac42839ec108d895d9cace61399c6c07500fb14b274",
+      "startDate": "2021-03-02T00:30:00.000Z",
+      "subtitle": "Cook Around Japan \"Fukushima\": Samurai Food",
+      "title": "Dining with the Chef",
+      "uploadedDate": "2021-03-02T02:02:28.240Z"
     },
     {
       "airingId": "222",
