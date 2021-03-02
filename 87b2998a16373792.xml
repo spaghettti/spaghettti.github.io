@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-02T16:20:03.587Z</lastUpdated>
+  <lastUpdated>2021-03-02T17:05:03.522Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -131,6 +131,21 @@ An Innovative Reheating Cart for Hospital Meals</content>
     <title>Science View</title>
     <uploadedDate>2021-02-23T17:19:49.768Z</uploadedDate>
     <raw>https://mega.nz/folder/Nap1HAhS#DnqrD0Bd4tPqbssU7klJ4g</raw>
+  </episode>
+  <episode>
+    <airingId>230</airingId>
+    <content>Atsuo Sasaki, associate professor at the University of Cincinnati discovered the metabolic mechanisms of cells which could open up new possibilities for cancer treatment. Guanosine triphosphate or GTP is the molecule that holds the key. Sasaki uncovered that a certain enzyme which reacted to GTP in cells acts as a "energy sensor" sending signals for cancer cells to grow. Furthermore, his recent study revealed the mechanism of nucleolus enlargement in highly malignant form of cancer cells, which had been a mystery for more than 100 years. Currently, he is conducting joint research to elucidate how his findings could be connected to metabolic diseases related to obesity. Find out how international collaboration is opening up potential uses for GTP research.</content>
+    <description>What causes tumors to grow? This episode features Atsuo Sasaki at the University of Cincinnati who discovered the mechanism and is developing new cancer treatments through international collaboration.</description>
+    <endDate>2021-03-02T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Whl0WZiS#LOt4av3do8MdnwMjR4nMgg</link>
+    <recordDateEnd>2021-03-02T16:00:23.811Z</recordDateEnd>
+    <recordDateStart>2021-03-02T15:29:22.684Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>3e2181b423b53a23483695b08253862fa256c0d214fd0d329b06249f27f9aa27</sha256>
+    <startDate>2021-03-02T15:30:00.000Z</startDate>
+    <subtitle>Developing a New Way to Fight Cancer - Molecular Biologist Atsuo Sasaki</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-03-02T17:00:58.483Z</uploadedDate>
   </episode>
   <episode>
     <airingId>246</airingId>
