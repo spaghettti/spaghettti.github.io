@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-01T16:10:03.148Z</lastUpdated>
+  <lastUpdated>2021-03-02T01:20:03.723Z</lastUpdated>
   <seriesId>b7a2bc9b23a9c5ee</seriesId>
   <title>Journeys in Japan</title>
   <episode>
@@ -227,5 +227,21 @@
     <title>Journeys in Japan</title>
     <uploadedDate>2021-02-16T03:38:04.883Z</uploadedDate>
     <raw>https://mega.nz/folder/g00lXCpK#lLXKObTb0gip9bLJT0vCcQ</raw>
+  </episode>
+  <episode>
+    <airingId>434</airingId>
+    <content>Hokkaido Prefecture in mid-winter is a frigid land of snow and ice, where temperatures can drop below minus 20 degrees Celsius for weeks on end. But this is the perfect time to see wildlife and natural phenomena that can only be glimpsed at this time of year. And, of course, it's a paradise for winter sports and other outdoor activities. This episode is presented by Bill Sullivan, the narrator for Journeys in Japan. He loves Hokkaido and the great outdoors. Right now, he can't make any trips, due to the coronavirus pandemic. But he hasn't stopped making travel plans. So this time he introduces 3 places and activities that are on his wish list, all in Hokkaido.</content>
+    <description>Winter in Hokkaido: Bill Sullivan introduces three locations he hopes to visit once the pandemic is over. On this program, get to know the real Japan and discover useful travel tips.</description>
+    <endDate>2021-03-02T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/1sYxzaqZ#RyVY1r96lby4jvN9EkK00g</link>
+    <recordDateEnd>2021-03-02T00:00:36.485Z</recordDateEnd>
+    <recordDateStart>2021-03-01T23:29:20.102Z</recordDateStart>
+    <seriesId>2007</seriesId>
+    <sha256>89916aaee9e44e01cc9d58a1ec3d5b1c103beb5c93a01f30370f89175655cd7c</sha256>
+    <startDate>2021-03-01T23:30:00.000Z</startDate>
+    <subtitle>Frozen Beauty at Dawn and Dusk: Hokkaido in Midwinter</subtitle>
+    <title>Journeys in Japan</title>
+    <uploadedDate>2021-03-02T01:15:52.353Z</uploadedDate>
+    <raw>https://mega.nz/folder/cAMTXSwa#Ej8o98hrhehFT44Tf2_mEg</raw>
   </episode>
 </episodeList>

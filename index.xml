@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-01T16:10:03.475Z</lastUpdated>
+  <lastUpdated>2021-03-02T01:20:04.005Z</lastUpdated>
   <series>
     <count>20</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -579,10 +579,10 @@
     <title>JAPN SPORTSCOPE "KARATE"</title>
   </series>
   <series>
-    <count>14</count>
+    <count>15</count>
     <uniqueId>b7a2bc9b23a9c5ee</uniqueId>
-    <lastAiring>2021-02-22T23:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-23T00:44:00.719Z</lastUpload>
+    <lastAiring>2021-03-01T23:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-02T01:15:52.353Z</lastUpload>
     <seriesId>2007</seriesId>
     <title>Journeys in Japan</title>
   </series>
