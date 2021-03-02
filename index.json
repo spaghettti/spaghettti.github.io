@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-02T17:05:03.788Z",
+  "lastUpdated": "2021-03-02T22:10:03.508Z",
   "series": [
     {
       "count": 20,
@@ -40,6 +40,14 @@
       "lastUpload": "2021-01-31T07:25:52.028Z",
       "seriesId": "3004",
       "title": "ABU TV SONG FESTIVAL"
+    },
+    {
+      "count": 1,
+      "uniqueId": "d0b78225853ccefc",
+      "lastAiring": "2021-03-02T20:00:00.000Z",
+      "lastUpload": "2021-03-02T22:07:13.732Z",
+      "seriesId": "7000",
+      "title": "Alluring Okinawa"
     },
     {
       "count": 2,
