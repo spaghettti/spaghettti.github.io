@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-02T05:00:04.201Z</lastUpdated>
+  <lastUpdated>2021-03-02T05:25:03.818Z</lastUpdated>
   <series>
     <count>20</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -211,10 +211,10 @@
     <title>Darwin's Amazing Animals</title>
   </series>
   <series>
-    <count>12</count>
+    <count>13</count>
     <uniqueId>f85084a2d40d190a</uniqueId>
-    <lastAiring>2021-02-23T04:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-23T05:14:40.431Z</lastUpload>
+    <lastAiring>2021-03-02T04:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-02T05:20:41.840Z</lastUpload>
     <seriesId>2085</seriesId>
     <title>DEEPER LOOK from New York</title>
   </series>
