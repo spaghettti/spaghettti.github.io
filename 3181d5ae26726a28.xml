@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-02T02:05:03.147Z</lastUpdated>
+  <lastUpdated>2021-03-02T03:00:03.299Z</lastUpdated>
   <seriesId>3181d5ae26726a28</seriesId>
   <title>Document 72 Hours</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Document 72 Hours</title>
     <uploadedDate>2021-02-23T03:44:27.140Z</uploadedDate>
     <raw>https://mega.nz/folder/0U9THKiR#kZ3j4kd384lbTaZJBWNfHg</raw>
+  </episode>
+  <episode>
+    <airingId>094</airingId>
+    <content>It's midwinter at Tsugaru Strait, where a huge ferry connects the 120 kilometers between Aomori Prefecture and Hakodate, Hokkaido Prefecture. With showers, a game center and even suite rooms with beds, the spacious ferry can carry 600 passengers. At the end of each year, crowds of people head back to their hometowns on this boat. From a father living away from his family for work, to a couple excited about their new life together, everyone has a different reason for crossing the strait. We spend 3 days traveling between Aomori and Hakodate, and take a look at the stories of the people we meet.</content>
+    <description>At the end of each year, crowds of people head home on a ferry crossing the Tsugaru Strait between Aomori Prefecture and Hokkaido. Over 3 days, we take a look at the stories of these ferry passengers.</description>
+    <endDate>2021-03-02T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/IlowUAJC#EZBiarGdHrql8f5xZUR9Sg</link>
+    <recordDateEnd>2021-03-02T01:55:26.357Z</recordDateEnd>
+    <recordDateStart>2021-03-02T01:29:20.100Z</recordDateStart>
+    <seriesId>4026</seriesId>
+    <sha256>684714eeb9a7a445e967d5562a94bbc69e30e89eedf790e1f674d8f61a7df8b4</sha256>
+    <startDate>2021-03-02T01:30:00.000Z</startDate>
+    <subtitle>Heading Home on the Strait Ferry</subtitle>
+    <title>Document 72 Hours</title>
+    <uploadedDate>2021-03-02T02:55:56.941Z</uploadedDate>
   </episode>
   <episode>
     <airingId>104</airingId>
