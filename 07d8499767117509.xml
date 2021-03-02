@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-02T03:00:03.217Z</lastUpdated>
+  <lastUpdated>2021-03-02T05:00:04.003Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1571,6 +1571,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-22T05:13:18.160Z</uploadedDate>
     <raw>https://mega.nz/folder/4RpElRLD#z-fw-wakH0qjy3amvWf-Wg</raw>
+  </episode>
+  <episode>
+    <airingId>695</airingId>
+    <content/>
+    <description>Fujiyama Taijyu is a practitioner of tezuma, a uniquely Japanese art of illusion. He placed in the top five at the World Championships of Magic. We ask him about tezuma's enduring appeal.</description>
+    <endDate>2021-03-02T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/0dFV3aiR#__sCKciKAUn5Ys_C6eqgNQ</link>
+    <recordDateEnd>2021-03-02T04:30:30.753Z</recordDateEnd>
+    <recordDateStart>2021-03-02T04:14:20.099Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>286cfae06611c5a0b789d832e7f3c46002b62fe53d6bdb04bbf753facd0497cb</sha256>
+    <startDate>2021-03-02T04:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-03-02T04:59:29.912Z</uploadedDate>
+    <raw>https://mega.nz/folder/GtRDlQKZ#rZdcXa3hZW8uDm4KTCW-5Q</raw>
   </episode>
   <episode>
     <airingId>701</airingId>
