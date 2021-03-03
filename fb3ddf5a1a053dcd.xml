@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-03T16:20:03.087Z</lastUpdated>
+  <lastUpdated>2021-03-03T16:40:03.526Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -179,6 +179,21 @@
     <title>Japan's Top Inventions</title>
     <uploadedDate>2021-02-10T19:52:55.507Z</uploadedDate>
     <raw>https://mega.nz/folder/E45inDZC#BnU81cQQ709AzPoGvBb_jQ</raw>
+  </episode>
+  <episode>
+    <airingId>025</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, blue LEDs, or light-emitting diodes. The world's first blue LEDs were created in 1989 by a research team at Nagoya University. These LEDs, now used in lightbulbs, smartphone screens, automobile headlights, and more sparked a lighting revolution. Discover the little-known story behind this Nobel Prize-winning invention.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, blue LEDs, or light-emitting diodes, which sparked a lighting revolution.</description>
+    <endDate>2021-03-03T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/c9RmmJRJ#Arl0RHOQVuE6YhPN2Nvgeg</link>
+    <recordDateEnd>2021-03-03T16:00:25.972Z</recordDateEnd>
+    <recordDateStart>2021-03-03T15:44:20.002Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>fc7bb0cb88798c38f7d58b397a35237a4651ac117d9cffa21cb723fa0e7f5cec</sha256>
+    <startDate>2021-03-03T15:45:00.000Z</startDate>
+    <subtitle>Blue LEDs</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2021-03-03T16:38:21.485Z</uploadedDate>
   </episode>
   <episode>
     <airingId>041</airingId>
