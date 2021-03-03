@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-03T01:55:03.952Z</lastUpdated>
+  <lastUpdated>2021-03-03T03:00:04.100Z</lastUpdated>
   <series>
     <count>21</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -859,10 +859,10 @@
     <title>Shuri Castle: Rebirth in 3D</title>
   </series>
   <series>
-    <count>5</count>
+    <count>6</count>
     <uniqueId>5ce8e3dcbf90e5b7</uniqueId>
-    <lastAiring>2021-02-03T01:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-03T04:19:52.064Z</lastUpload>
+    <lastAiring>2021-03-03T01:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-03T02:56:20.448Z</lastUpload>
     <seriesId>2037</seriesId>
     <title>Side by Side</title>
   </series>
