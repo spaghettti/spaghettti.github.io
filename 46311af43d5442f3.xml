@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-02-17T16:25:03.765Z</lastUpdated>
+  <lastUpdated>2021-03-03T16:20:03.218Z</lastUpdated>
   <seriesId>46311af43d5442f3</seriesId>
   <title>Culture Crossroads</title>
   <episode>
@@ -70,6 +70,22 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <raw>https://mega.nz/folder/PJtHWKwZ#u0lWQEmR_agwX6EnomJkWA</raw>
   </episode>
   <episode>
+    <airingId>004</airingId>
+    <content>During the Edo period (1603-1868), many infections were named after something popular at that time, for instance songs or a sumo wrestler. Dr. ISO introduces distinctive cases.</content>
+    <description>How can we associate better with COVID-19? Let's find the key by learning about the history of the infectious diseases Japan has experienced. This time: Naming of Diseases in the Edo Period.</description>
+    <endDate>2021-03-03T15:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/nttlXK7C#I-eagX3vsObQSuC1O7N0iA</link>
+    <recordDateEnd>2021-03-03T15:45:27.102Z</recordDateEnd>
+    <recordDateStart>2021-03-03T15:39:20.003Z</recordDateStart>
+    <seriesId>6036</seriesId>
+    <sha256>f3024234cbb03186455c95f68743cf6091f1dcdd250d84b3de08b35390a93202</sha256>
+    <startDate>2021-03-03T15:40:00.000Z</startDate>
+    <subtitle>Dr. ISO's Pandemic History, Info &amp; Tips: Naming of Diseases in the Edo Period</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-03-03T16:16:27.472Z</uploadedDate>
+    <raw>https://mega.nz/folder/ut5D3aaJ#rmQQFkEvJ2-YDniDVocKsw</raw>
+  </episode>
+  <episode>
     <airingId>005</airingId>
     <content>When homes are lost or when danger comes, community-run evacuation centers are there. But who's eligible? What about provisions? And what are the rules? We'll take a closer look to find the answers.</content>
     <description>When homes are lost or when danger comes, community-run evacuation centers are there. But who's eligible? What about provisions? And what are the rules? We'll take a closer look to find the answers.</description>
@@ -116,6 +132,38 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2021-02-05T23:07:56.491Z</uploadedDate>
     <raw>https://mega.nz/folder/1PwWHZqZ#ABvYEvLR72hvn2yEpmQyzg</raw>
+  </episode>
+  <episode>
+    <airingId>008</airingId>
+    <content>When disaster strikes, finding accurate information can be difficult. We'll show you how foreign residents of Japan can swiftly and easily access vital information avoiding rumor and inaccuracy.</content>
+    <description>As a series in Culture Crossroads, BOSAI: BE PREPARED provides practical knowledge to save yourself from natural disaster. In this episode, we learn how to get an accurate and reliable information.</description>
+    <endDate>2021-03-03T15:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/CwICFJzC#6zYmOg63Ym_zEjnamqheGQ</link>
+    <recordDateEnd>2021-03-03T15:40:32.672Z</recordDateEnd>
+    <recordDateStart>2021-03-03T15:29:20.075Z</recordDateStart>
+    <seriesId>2084</seriesId>
+    <sha256>e9f53fb98286437ad7d818b71bfd18c7b59679ad3bb707c7601a4aafb0720374</sha256>
+    <startDate>2021-03-03T15:30:00.000Z</startDate>
+    <subtitle>BOSAI: Be Prepared - Information &amp; Communication</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-03-03T16:08:08.149Z</uploadedDate>
+    <raw>https://mega.nz/folder/S8hEUJrY#RciHkqgNMKB6CLhTvmz3TA</raw>
+  </episode>
+  <episode>
+    <airingId>012</airingId>
+    <content>The COVID-19 has affected everyone, especially for foreigners. For example, the situation coincided with Ramadan. Most years it's a time when Muslims fast during the day, joining friends and relatives after sunset to share a meal. However, self-isolation made it impossible. For another example, Bangladeshi community in Japan made up a network to help with each other. In this program, we focus on Muslim and Bangladeshi communities to have a look at their efforts to overcome the difficulties.</content>
+    <description>The COVID-19 has affected Muslims in Japan. The situation coincided with Ramadan, making it tougher due to self-isolation. We link up with some of Muslims to find how they coped with the situation.</description>
+    <endDate>2021-02-17T15:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/zt820aoD#LTd4ggU08vUosWIw6kMXZw</link>
+    <recordDateEnd>2021-02-17T15:45:26.273Z</recordDateEnd>
+    <recordDateStart>2021-02-17T15:29:23.109Z</recordDateStart>
+    <seriesId>2083</seriesId>
+    <sha256>83d3bbfe141725053cf51d59cb78dfbbfa20f2a246f36d7ce488099a7ad08d42</sha256>
+    <startDate>2021-02-17T15:30:00.000Z</startDate>
+    <subtitle>Linking Hands in Times of Crisis</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-02-17T16:28:31.741Z</uploadedDate>
+    <raw>https://mega.nz/folder/L09wnYSB#xeHCN4cnfkJwhpACEfLsUg</raw>
   </episode>
   <episode>
     <airingId>013</airingId>
@@ -167,19 +215,19 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
   </episode>
   <episode>
     <airingId>016</airingId>
-    <content>This time, we respond to a request from a viewer in Pakistan who wants to know about kite-flying in Japan. Our reporter is Bilal Khan, an announcer in our Urdu broadcasting division. A kite-flying event is held all over Japan to offer wishes for an end to the COVID-19 pandemic. By attending the event, Bilal learns about the unique meaning of kites in Japan. Japan's kite-flying culture goes back to the 8th century. It experienced a boom during the 17th century and then developed differently from region to region. Bilal visits Niigata Prefecture where a huge kite battle will take place. He experiences a culture of unique large kites with a 300-year history and meets a craftsman who makes kites using traditional techniques. Bilal tries to make and fly a kite himself. How are kites unique in Japan? And will his kite fly?</content>
+    <content/>
     <description>Our theme is Japanese kite culture. We look at their history through a Niigata kite battle and a craftsman in a traditional shop. Our reporter tries to make and fly a kite. Will it get off the ground?</description>
-    <endDate>2020-12-16T15:45:00.000Z</endDate>
-    <link>https://mega.nz/folder/ZQ8R2K6R#RY4pNNdo7MhoJXiEr8YFsA</link>
-    <recordDateEnd>2020-12-16T15:45:28.355Z</recordDateEnd>
-    <recordDateStart>2020-12-16T15:29:22.811Z</recordDateStart>
+    <endDate>2021-02-24T15:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/pVFRAaJR#hgUmYqpVmteYLerlc6uEKw</link>
+    <recordDateEnd>2021-02-24T15:45:27.183Z</recordDateEnd>
+    <recordDateStart>2021-02-24T15:29:23.007Z</recordDateStart>
     <seriesId>2083</seriesId>
-    <sha256>3e72cde59e305ef7ea760b534b1248298635350309e8cd0f5843a3547415922e</sha256>
-    <startDate>2020-12-16T15:30:00.000Z</startDate>
-    <subtitle>WHAT'S YOUR CONNECTION?: Wishing on a Kite</subtitle>
+    <sha256>cc8ebda001c82e63c4dd7e619e4c3e246be58d804e7161f3dc694d41dc921ab1</sha256>
+    <startDate>2021-02-24T15:30:00.000Z</startDate>
+    <subtitle/>
     <title>Culture Crossroads</title>
-    <uploadedDate>2020-12-26T03:41:05.954Z</uploadedDate>
-    <raw>https://mega.nz/folder/FU40BRZI#EM6wOS8TEFzi07BAxC-gdw</raw>
+    <uploadedDate>2021-02-24T16:29:52.945Z</uploadedDate>
+    <raw>https://mega.nz/folder/QJdFVa4D#imbkpLhDG-EvoCTudRhfmw</raw>
   </episode>
   <episode>
     <airingId>017</airingId>
