@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-02T22:10:03.319Z",
+  "lastUpdated": "2021-03-03T01:35:03.675Z",
   "seriesId": "2053",
   "title": "TOKYO EYE",
   "episodes": [
@@ -178,6 +178,22 @@
       "title": "TOKYO EYE 2020",
       "uploadedDate": "2021-02-10T22:12:34.930Z",
       "raw": "https://mega.nz/folder/vsknUKCQ#3t9f9TYDnuSezCsQbUDT3g"
+    },
+    {
+      "airingId": "200",
+      "content": "It's not just humanity fighting the pandemic: robots are joining in too! They're helping out by disinfecting buildings, acting as waitstaff at restaurants, and much more. There's even a cute robot helping people get rid of pandemic stress. Let's dive into Tokyo's robot revolution.",
+      "description": "Robots are joining in the fight against the pandemic. It's disinfecting buildings, acting as waitstaffs and even helping people get rid of pandemic stress. Let's dive into Tokyo's robot revolution.",
+      "endDate": "2021-03-03T00:00:00.000Z",
+      "link": "https://mega.nz/folder/EMURWK4A#7afI9WzM0b7axvfoa6qzRw",
+      "recordDateEnd": "2021-03-03T00:00:28.765Z",
+      "recordDateStart": "2021-03-02T23:29:20.100Z",
+      "seriesId": "2053",
+      "sha256": "fd81dd1543e54ecaf32031c58c094239eb4f845f29aa810e85a3b1e06c40f781",
+      "startDate": "2021-03-02T23:30:00.000Z",
+      "subtitle": "Tokyo and the Coronavirus: Robots on the March",
+      "title": "TOKYO EYE 2020",
+      "uploadedDate": "2021-03-03T01:31:52.712Z",
+      "raw": "https://mega.nz/folder/L4kgBJSS#m2Dx19j1VlSqNcmb_tk3pw"
     }
   ]
 }
