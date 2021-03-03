@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-03T05:10:03.575Z</lastUpdated>
+  <lastUpdated>2021-03-03T05:50:02.929Z</lastUpdated>
   <seriesId>59ce1816235dcb05</seriesId>
   <title>KABUKI KOOL</title>
   <episode>
@@ -131,5 +131,20 @@
     <title>KABUKI KOOL</title>
     <uploadedDate>2021-02-16T05:11:10.998Z</uploadedDate>
     <raw>https://mega.nz/folder/tAESBRCT#qMEVwEnkZ7obKDv6WqqGpw</raw>
+  </episode>
+  <episode>
+    <airingId>071</airingId>
+    <content>As with live performance worldwide, COVID-19 has affected kabuki. Actors Kataoka Ainosuke and Nakamura Kazutaro talk about the difficulties and reveal some creative solutions. In the first performance after Kabukiza reopened, the fierce lions dance as if to drive away COVID-19.</content>
+    <description>As with live performance worldwide, COVID-19 has affected kabuki. Actors Kataoka Ainosuke and Nakamura Kazutaro talk about the difficulties and reveal some creative solutions.</description>
+    <endDate>2021-03-03T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/vtQ1yIyR#XSy9dia8xhW8T1mGplJaFA</link>
+    <recordDateEnd>2021-03-03T05:00:24.695Z</recordDateEnd>
+    <recordDateStart>2021-03-03T04:29:22.782Z</recordDateStart>
+    <seriesId>2035</seriesId>
+    <sha256>60dc9e117c658ae616383f56ed3d80d91f4adfe61002c7d8d07f9696919ba593</sha256>
+    <startDate>2021-03-03T04:30:00.000Z</startDate>
+    <subtitle>Kabuki and the Pandemic</subtitle>
+    <title>KABUKI KOOL</title>
+    <uploadedDate>2021-03-03T05:46:58.602Z</uploadedDate>
   </episode>
 </episodeList>
