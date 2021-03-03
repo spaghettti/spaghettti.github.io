@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-03T01:35:03.754Z</lastUpdated>
+  <lastUpdated>2021-03-03T01:55:03.850Z</lastUpdated>
   <seriesId>c656328a0f33bc89</seriesId>
   <title>15 Minutes</title>
   <episode>
@@ -171,6 +171,22 @@ The threat of COVID-19 infection is just around the corner. Anyone can be infect
     <title>15 Minutes</title>
     <uploadedDate>2021-02-24T01:43:58.208Z</uploadedDate>
     <raw>https://mega.nz/folder/zwhQBA7Q#qs5f2vWhng5xR4YIZbNweQ</raw>
+  </episode>
+  <episode>
+    <airingId>121</airingId>
+    <content>The coronavirus has changed everything. How can we overcome this crisis? How can we restore our normal lifestyles? In Japan, Tokyo had the largest number of coronavirus infections. In this series, we look inside 3 places in this megacity. Hotels, where many people stay. Schools, where young people gather. And airports, major transportation hubs. We'll bring you insight on how the people in these places are trying to recover.
+Last December, the Hawaii state government decided to accept Japanese tourists, and flights to Hawaii were resumed. The airline industry in Japan was filled with hope for a bright future. However, in January 2021, the state of emergency was again declared in 11 prefectures, including Tokyo. As the spread of COVID-19 continued, the number of passengers at Haneda Airport decreased dramatically, and tenants of the airport's shopping areas have also kept their doors closed. But airport workers are perseveringly preparing to bring back air travel.</content>
+    <description>In this January, the state of emergency was again declared in Tokyo. At Haneda Airport, the number of passengers has dropped drastically, but the staff are quietly preparing to revive air travel.</description>
+    <endDate>2021-03-03T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/v5pw2T7a#X5n67eOfPaHwaeQGX1OYYw</link>
+    <recordDateEnd>2021-03-03T00:45:30.527Z</recordDateEnd>
+    <recordDateStart>2021-03-03T00:29:22.852Z</recordDateStart>
+    <seriesId>3019</seriesId>
+    <sha256>51988c82266b14ab7665f8422659259604f12f953644d2bdb2e41883728bddfc</sha256>
+    <startDate>2021-03-03T00:30:00.000Z</startDate>
+    <subtitle>Starting Over: The Flight Goes On Part 3</subtitle>
+    <title>15 Minutes</title>
+    <uploadedDate>2021-03-03T01:54:25.011Z</uploadedDate>
   </episode>
   <episode>
     <airingId>123</airingId>
