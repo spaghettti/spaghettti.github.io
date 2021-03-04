@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-04T08:00:03.903Z",
+  "lastUpdated": "2021-03-04T09:10:03.444Z",
   "seriesId": "6031",
   "title": "Dining with the Chef mini",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "Dining with the Chef mini",
       "uploadedDate": "2021-03-04T05:45:00.806Z",
       "raw": "https://mega.nz/folder/sREAmTAK#qWGICRWpMfkU_uSD4zqYzA"
+    },
+    {
+      "airingId": "010",
+      "content": "",
+      "description": "Featured recipe: Homemade Udon Noodles with Poached Eggs/ Learn about easy, delicious, and healthy cooking with Chef Rika in five minutes!",
+      "endDate": "2021-03-04T09:00:00.000Z",
+      "link": "https://mega.nz/folder/Oswx0aJC#ocJJY7R98E5pm5b-IlEZuA",
+      "recordDateEnd": "2021-03-04T09:00:26.760Z",
+      "recordDateStart": "2021-03-04T08:54:20.101Z",
+      "seriesId": "6031",
+      "sha256": "2539c79e03ffbc0d7a5cde801380df1db79fa1f97f9a9216e3b540d0fb21e1d8",
+      "startDate": "2021-03-04T08:55:00.000Z",
+      "subtitle": "",
+      "title": "Dining with the Chef mini",
+      "uploadedDate": "2021-03-04T09:09:32.954Z"
     }
   ]
 }

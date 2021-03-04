@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-04T08:00:03.902Z</lastUpdated>
+  <lastUpdated>2021-03-04T09:10:03.443Z</lastUpdated>
   <seriesId>2bd1ba9a5a78145f</seriesId>
   <title>Dining with the Chef mini</title>
   <episode>
@@ -19,5 +19,20 @@
     <title>Dining with the Chef mini</title>
     <uploadedDate>2021-03-04T05:45:00.806Z</uploadedDate>
     <raw>https://mega.nz/folder/sREAmTAK#qWGICRWpMfkU_uSD4zqYzA</raw>
+  </episode>
+  <episode>
+    <airingId>010</airingId>
+    <content/>
+    <description>Featured recipe: Homemade Udon Noodles with Poached Eggs/ Learn about easy, delicious, and healthy cooking with Chef Rika in five minutes!</description>
+    <endDate>2021-03-04T09:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Oswx0aJC#ocJJY7R98E5pm5b-IlEZuA</link>
+    <recordDateEnd>2021-03-04T09:00:26.760Z</recordDateEnd>
+    <recordDateStart>2021-03-04T08:54:20.101Z</recordDateStart>
+    <seriesId>6031</seriesId>
+    <sha256>2539c79e03ffbc0d7a5cde801380df1db79fa1f97f9a9216e3b540d0fb21e1d8</sha256>
+    <startDate>2021-03-04T08:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Dining with the Chef mini</title>
+    <uploadedDate>2021-03-04T09:09:32.954Z</uploadedDate>
   </episode>
 </episodeList>
