@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-04T01:25:03.365Z</lastUpdated>
+  <lastUpdated>2021-03-04T02:15:03.609Z</lastUpdated>
   <seriesId>93f1898b227dbd5d</seriesId>
   <title>DESIGN TALKS plus</title>
   <episode>
@@ -179,5 +179,21 @@
     <title>DESIGN TALKS plus</title>
     <uploadedDate>2021-02-25T02:12:42.685Z</uploadedDate>
     <raw>https://mega.nz/folder/0I0nTCbA#FKwf22sLgTFdyhkYKzshAg</raw>
+  </episode>
+  <episode>
+    <airingId>142</airingId>
+    <content>The rise in remote work and workations have led to massive changes in the relationship between our jobs and lives at home. Some have been inspired to reexamine their lifestyles and move from the city to the countryside. Designer Kobayashi Shinya connects craftsmanship and everyday life by reinvigorating local industry. Art director Hirose Kiyoharu works on social design projects that conserve local natural environments. They explore future possibilities for connecting work and home life.</content>
+    <description>Today's theme: Work Life. Remote work, workations, and an exodus of workers from metropolitan to rural areas: Explore how we are rethinking the relationship between our private and professional lives.</description>
+    <endDate>2021-03-04T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/nxQ1zaKL#tF_re-P2bQZl16pRs9-Bsw</link>
+    <recordDateEnd>2021-03-04T01:00:34.010Z</recordDateEnd>
+    <recordDateStart>2021-03-04T00:29:20.103Z</recordDateStart>
+    <seriesId>2046</seriesId>
+    <sha256>f4a9bd7fb3942639a2bf04bc39ca84890de227cf7f3a208dc06c9da525b8a4e1</sha256>
+    <startDate>2021-03-04T00:30:00.000Z</startDate>
+    <subtitle>Work Life</subtitle>
+    <title>DESIGN TALKS plus</title>
+    <uploadedDate>2021-03-04T02:10:59.771Z</uploadedDate>
+    <raw>https://mega.nz/folder/SxB3WSBL#SPYoPKBc98QRvDhQcgNTag</raw>
   </episode>
 </episodeList>
