@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-04T03:30:04.524Z</lastUpdated>
+  <lastUpdated>2021-03-04T05:35:03.986Z</lastUpdated>
   <seriesId>2ac7100c81ee10d6</seriesId>
   <title>Lunch ON!</title>
   <episode>
@@ -84,6 +84,21 @@ In another segment, we visit the southernmost prefecture of Okinawa to meet a pu
     <title>Lunch ON!</title>
     <uploadedDate>2021-02-18T06:18:52.229Z</uploadedDate>
     <raw>https://mega.nz/folder/usFwnTYA#1okVVVXwWwgItI9lB1Mh6w</raw>
+  </episode>
+  <episode>
+    <airingId>145</airingId>
+    <content>We visit a restaurant of Okinawan cuisine, not in the tropical prefecture of Okinawa, but in Niigata Prefecture, a snowy region by the Sea of Japan. The restaurant manager, who is a huge fan of the program, cooks lunch for his staff every day, and does so using "mentsuyu," the standard noodle sauce of Japan. Whether it be meat sauce or curry, he always uses noodle sauce. In fact, he's so into cooking with noodle sauce that he dreams of one day publishing his own cookbook of his ingenious noodle sauce dishes.</content>
+    <description>We visit a restaurant of Okinawan cuisine, not in the tropical prefecture of Okinawa, but in Niigata, a snowy region by the Sea of Japan. The manager there always cooks staff lunch with noodle sauce.</description>
+    <endDate>2021-03-04T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/vhARwQaI#cxnXJDXA_yoFFZvwu-PKFA</link>
+    <recordDateEnd>2021-03-04T04:55:29.951Z</recordDateEnd>
+    <recordDateStart>2021-03-04T04:29:20.100Z</recordDateStart>
+    <seriesId>4023</seriesId>
+    <sha256>f6765fad4505f02217c961fa6e18848d165899b131051f71860af39cb5d98e94</sha256>
+    <startDate>2021-03-04T04:30:00.000Z</startDate>
+    <subtitle>Okinawan Restaurant in Niigata</subtitle>
+    <title>Lunch ON!</title>
+    <uploadedDate>2021-03-04T05:34:10.125Z</uploadedDate>
   </episode>
   <episode>
     <airingId>148</airingId>
