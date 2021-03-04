@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-04T05:35:04.083Z",
+  "lastUpdated": "2021-03-04T05:45:04.373Z",
   "series": [
     {
       "count": 21,
@@ -248,6 +248,14 @@
       "lastUpload": "2021-03-02T02:02:28.240Z",
       "seriesId": "2019",
       "title": "Dining with the Chef"
+    },
+    {
+      "count": 1,
+      "uniqueId": "2bd1ba9a5a78145f",
+      "lastAiring": "2021-03-04T04:55:00.000Z",
+      "lastUpload": "2021-03-04T05:45:00.806Z",
+      "seriesId": "6031",
+      "title": "Dining with the Chef mini"
     },
     {
       "count": 142,

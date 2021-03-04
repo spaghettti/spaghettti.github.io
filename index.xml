@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-04T05:35:04.075Z</lastUpdated>
+  <lastUpdated>2021-03-04T05:45:04.366Z</lastUpdated>
   <series>
     <count>21</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -249,6 +249,14 @@
     <lastUpload>2021-03-02T02:02:28.240Z</lastUpload>
     <seriesId>2019</seriesId>
     <title>Dining with the Chef</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>2bd1ba9a5a78145f</uniqueId>
+    <lastAiring>2021-03-04T04:55:00.000Z</lastAiring>
+    <lastUpload>2021-03-04T05:45:00.806Z</lastUpload>
+    <seriesId>6031</seriesId>
+    <title>Dining with the Chef mini</title>
   </series>
   <series>
     <count>142</count>
