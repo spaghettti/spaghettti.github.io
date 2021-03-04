@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-04T18:30:04.158Z</lastUpdated>
+  <lastUpdated>2021-03-04T23:25:03.292Z</lastUpdated>
   <seriesId>2bd1ba9a5a78145f</seriesId>
   <title>Dining with the Chef mini</title>
   <episode>
@@ -51,5 +51,21 @@
     <title>Dining with the Chef mini</title>
     <uploadedDate>2021-03-04T17:42:37.901Z</uploadedDate>
     <raw>https://mega.nz/folder/h1JlHArC#we-miVY979_QbUNFrStYPQ</raw>
+  </episode>
+  <episode>
+    <airingId>012</airingId>
+    <content/>
+    <description>Featured recipe: Beef with Kombu Dashi Sauce Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes!</description>
+    <endDate>2021-03-04T23:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/9N1w2Job#jELAvYh19qlwea9ftD8u0g</link>
+    <recordDateEnd>2021-03-04T23:00:30.261Z</recordDateEnd>
+    <recordDateStart>2021-03-04T22:54:20.101Z</recordDateStart>
+    <seriesId>6031</seriesId>
+    <sha256>b553405ae7d92a7115887c5229d41daeae380301fd16d46ed42cf9cdd007da46</sha256>
+    <startDate>2021-03-04T22:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Dining with the Chef mini</title>
+    <uploadedDate>2021-03-04T23:20:24.873Z</uploadedDate>
+    <raw>https://mega.nz/folder/xYkm0DxD#0EO5qtTbIONg47PoFQ0paA</raw>
   </episode>
 </episodeList>

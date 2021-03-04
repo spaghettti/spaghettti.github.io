@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-04T18:30:04.159Z",
+  "lastUpdated": "2021-03-04T23:25:03.293Z",
   "seriesId": "6031",
   "title": "Dining with the Chef mini",
   "episodes": [
@@ -50,6 +50,22 @@
       "title": "Dining with the Chef mini",
       "uploadedDate": "2021-03-04T17:42:37.901Z",
       "raw": "https://mega.nz/folder/h1JlHArC#we-miVY979_QbUNFrStYPQ"
+    },
+    {
+      "airingId": "012",
+      "content": "",
+      "description": "Featured recipe: Beef with Kombu Dashi Sauce Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes!",
+      "endDate": "2021-03-04T23:00:00.000Z",
+      "link": "https://mega.nz/folder/9N1w2Job#jELAvYh19qlwea9ftD8u0g",
+      "recordDateEnd": "2021-03-04T23:00:30.261Z",
+      "recordDateStart": "2021-03-04T22:54:20.101Z",
+      "seriesId": "6031",
+      "sha256": "b553405ae7d92a7115887c5229d41daeae380301fd16d46ed42cf9cdd007da46",
+      "startDate": "2021-03-04T22:55:00.000Z",
+      "subtitle": "",
+      "title": "Dining with the Chef mini",
+      "uploadedDate": "2021-03-04T23:20:24.873Z",
+      "raw": "https://mega.nz/folder/xYkm0DxD#0EO5qtTbIONg47PoFQ0paA"
     }
   ]
 }
