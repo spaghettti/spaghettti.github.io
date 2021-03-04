@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-04T15:55:04.002Z</lastUpdated>
+  <lastUpdated>2021-03-04T17:45:04.368Z</lastUpdated>
   <seriesId>2bd1ba9a5a78145f</seriesId>
   <title>Dining with the Chef mini</title>
   <episode>
@@ -35,5 +35,21 @@
     <title>Dining with the Chef mini</title>
     <uploadedDate>2021-03-04T09:09:32.954Z</uploadedDate>
     <raw>https://mega.nz/folder/6gIxiILJ#XwZHCOTFa8gDQVrfXNIwyw</raw>
+  </episode>
+  <episode>
+    <airingId>011</airingId>
+    <content/>
+    <description>Featured recipe: Chicken Thigh Kara-age Learn about easy, delicious, and healthy cooking with Chef Rika in five minutes!</description>
+    <endDate>2021-03-04T17:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/P4UhSCxD#5SnLrEw1cuAqhRcpP_W_wg</link>
+    <recordDateEnd>2021-03-04T17:00:30.095Z</recordDateEnd>
+    <recordDateStart>2021-03-04T16:54:20.099Z</recordDateStart>
+    <seriesId>6031</seriesId>
+    <sha256>25c98fccd66c4fcd2a76b0a3c83836aeec5ccdf443eca593570f0e63f1526f47</sha256>
+    <startDate>2021-03-04T16:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Dining with the Chef mini</title>
+    <uploadedDate>2021-03-04T17:42:37.901Z</uploadedDate>
+    <raw>https://mega.nz/folder/h1JlHArC#we-miVY979_QbUNFrStYPQ</raw>
   </episode>
 </episodeList>
