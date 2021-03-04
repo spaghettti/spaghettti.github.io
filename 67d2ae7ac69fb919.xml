@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-03T16:40:03.449Z</lastUpdated>
+  <lastUpdated>2021-03-04T01:25:03.338Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -371,6 +371,21 @@
     <title>Core Kyoto</title>
     <uploadedDate>2021-01-07T00:48:49.612Z</uploadedDate>
     <raw>https://mega.nz/folder/G0swwCgR#l5YKPL_NH2Z49Gjun7c7Uw</raw>
+  </episode>
+  <episode>
+    <airingId>141</airingId>
+    <content>From the late 1800s to the early 1900s, dominant political and business figures owned villas in neighborhoods at the foot of the Higashiyama mountains. Many of their gardens were built by the pioneer of the modern Japanese garden, Ogawa Jihei VII. While Kyoto's cityscape was transforming after the fall of feudalism, Jihei designed spaces of comfort in a desire to return Kyoto to its glory days of scenic beauty. Discover natural spaces of calculated beauty that offer solace during the pandemic.</content>
+    <description>The pioneer of the modern garden, Ogawa Jihei VII revolutionized Kyoto gardens 100 years ago. He cleverly used water and rocks in his relaxing spaces, which continue to inspire landscapers today.</description>
+    <endDate>2021-03-04T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/8sZRDIxA#FTMyUMRJBtGK_ogQY-7VlA</link>
+    <recordDateEnd>2021-03-04T00:00:33.583Z</recordDateEnd>
+    <recordDateStart>2021-03-03T23:29:20.100Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>5b060d062bf90fe81fd9035e530e6a6ffafca7c329682c5235c8bafe094a2f2f</sha256>
+    <startDate>2021-03-03T23:30:00.000Z</startDate>
+    <subtitle>Ogawa Jihei Gardens: Beauty Soothes and Nourishes the Soul</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-03-04T01:20:48.455Z</uploadedDate>
   </episode>
   <episode>
     <airingId>144</airingId>
