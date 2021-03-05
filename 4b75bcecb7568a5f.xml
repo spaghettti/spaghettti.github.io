@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-05T04:55:03.390Z</lastUpdated>
+  <lastUpdated>2021-03-05T05:55:03.382Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -147,5 +147,20 @@
     <title>J-Arena</title>
     <uploadedDate>2021-02-26T06:10:24.717Z</uploadedDate>
     <raw>https://mega.nz/folder/WkBWwLpB#SByPNCEYKHMVOk4DDXg6pg</raw>
+  </episode>
+  <episode>
+    <airingId>082</airingId>
+    <content>Shorinji Kempo is a dynamic martial art that combines both hard and soft techniques while developing mind and body as one. Previously, we followed British practitioner Paul King as he trained intensively for his 4th dan exam at the head dojo in Shikoku, Japan. In this episode we catch up with Paul, who returned home to the Netherlands to fulfill his long-held dream of opening his own dojo. Not long after he started, the pandemic hit, yet Paul is applying Shorinji Kempo's philosophy to help him be there for his students and ensure their continued progress amid the challenges of lockdown.</content>
+    <description>We catch up with a 4th dan Shorinji Kempo teacher in Holland as he strives to keep the members of his new dojo on track with their training in the martial art amid the ongoing pandemic.</description>
+    <endDate>2021-03-05T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/rw5kwTDS#AQkxOYa709poPKq54sIYbw</link>
+    <recordDateEnd>2021-03-05T05:00:28.186Z</recordDateEnd>
+    <recordDateStart>2021-03-05T04:29:20.003Z</recordDateStart>
+    <seriesId>2073</seriesId>
+    <sha256>295ddb5bafb2623c301b4282664720ce680c5183beef8dcd576ca85e726ed94a</sha256>
+    <startDate>2021-03-05T04:30:00.000Z</startDate>
+    <subtitle>Shorinji Kempo</subtitle>
+    <title>J-Arena</title>
+    <uploadedDate>2021-03-05T05:51:56.851Z</uploadedDate>
   </episode>
 </episodeList>
