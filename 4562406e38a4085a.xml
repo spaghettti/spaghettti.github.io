@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-05T07:55:03.512Z</lastUpdated>
+  <lastUpdated>2021-03-05T16:20:03.100Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -211,6 +211,22 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2021-02-19T15:58:58.575Z</uploadedDate>
     <raw>https://mega.nz/folder/asoHCYDT#DWbkHvmIhLU5zljaFSqMlw</raw>
+  </episode>
+  <episode>
+    <airingId>229</airingId>
+    <content>Our theme for this episode is frying. We'll be making a traditional Japanese dish called Kuwayaki: pan-fried chicken with a sweet and savory sauce made with soy sauce, mirin and sake. The sweet and savory combination of soy sauce and mirin is an iconic Japanese flavor today; we'll be marinating chicken and frying it to juicy perfection, adding the sauce to coat as we fry. We'll also be making beautiful, delicious shrimp rice. The pink of the sakura shrimp and the green of the Japanese herb mitsuba come together for a wonderful springtime feel, as well as a great combination of textures and flavors. Join us and enjoy a meal that feels like spring is here!</content>
+    <description>Today's recipe: (1) Chicken Kuwayaki (2) Rice with Sakura Shrimp. Why not learn Japanese food culture and try real Japanese dishes at your home!</description>
+    <endDate>2021-03-05T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/zl8yTApQ#6hJ4XcoMjcVCH5aaDYax8w</link>
+    <recordDateEnd>2021-03-05T15:00:27.087Z</recordDateEnd>
+    <recordDateStart>2021-03-05T14:29:20.101Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>314359d8a34cc0d75d21462c44e750521174f74a0c9c246a3e7d9e4460d5ad6d</sha256>
+    <startDate>2021-03-05T14:30:00.000Z</startDate>
+    <subtitle>Authentic Japanese Cooking: Chicken Kuwayaki</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-03-05T16:15:35.167Z</uploadedDate>
+    <raw>https://mega.nz/folder/atxGjQZJ#PmRkWzTq9kqA1DE3PpMgMQ</raw>
   </episode>
   <episode>
     <airingId>246</airingId>
