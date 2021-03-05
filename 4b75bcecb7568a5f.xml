@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-05T05:55:03.382Z</lastUpdated>
+  <lastUpdated>2021-03-05T07:55:03.624Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -162,5 +162,6 @@
     <subtitle>Shorinji Kempo</subtitle>
     <title>J-Arena</title>
     <uploadedDate>2021-03-05T05:51:56.851Z</uploadedDate>
+    <raw>https://mega.nz/folder/1aoHgIAL#DuB8kh5rFO7wOw3skoQh9A</raw>
   </episode>
 </episodeList>

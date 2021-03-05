@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-05T05:55:03.366Z",
+  "lastUpdated": "2021-03-05T07:55:03.610Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2306,6 +2306,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-03-04T07:58:48.409Z",
       "raw": "https://mega.nz/folder/HkRhkIQY#tROSDyrgwcvV36_YTJUSRg"
+    },
+    {
+      "airingId": "748",
+      "content": "Filmmaker Mansour documents the impact of wars in the Middle East on the people of Lebanon. When parts of Beirut were destroyed by a massive blast in August 2020 her cameras captured the aftermath.",
+      "description": "Filmmaker Mansour documents the impact of wars in the Middle East on the people of Lebanon. When parts of Beirut were destroyed by a massive blast in August 2020 her cameras captured the aftermath.",
+      "endDate": "2021-03-05T07:30:00.000Z",
+      "link": "https://mega.nz/folder/rh4VVKRR#RWSIrQXB-acV19ZJCtmDKQ",
+      "recordDateEnd": "2021-03-05T07:30:30.062Z",
+      "recordDateStart": "2021-03-05T07:14:20.017Z",
+      "seriesId": "2058",
+      "sha256": "5519c6ba9a41d99690c3430a55fca97f826b5df1a8f8d64cda87a278dacf558e",
+      "startDate": "2021-03-05T07:15:00.000Z",
+      "subtitle": "Documenting Lebanon's Pain: Carol Mansour / Documentary Filmmaker",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-03-05T07:54:47.644Z"
     }
   ]
 }

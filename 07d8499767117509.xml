@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-05T05:55:03.348Z</lastUpdated>
+  <lastUpdated>2021-03-05T07:55:03.592Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2307,5 +2307,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-03-04T07:58:48.409Z</uploadedDate>
     <raw>https://mega.nz/folder/HkRhkIQY#tROSDyrgwcvV36_YTJUSRg</raw>
+  </episode>
+  <episode>
+    <airingId>748</airingId>
+    <content>Filmmaker Mansour documents the impact of wars in the Middle East on the people of Lebanon. When parts of Beirut were destroyed by a massive blast in August 2020 her cameras captured the aftermath.</content>
+    <description>Filmmaker Mansour documents the impact of wars in the Middle East on the people of Lebanon. When parts of Beirut were destroyed by a massive blast in August 2020 her cameras captured the aftermath.</description>
+    <endDate>2021-03-05T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/rh4VVKRR#RWSIrQXB-acV19ZJCtmDKQ</link>
+    <recordDateEnd>2021-03-05T07:30:30.062Z</recordDateEnd>
+    <recordDateStart>2021-03-05T07:14:20.017Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>5519c6ba9a41d99690c3430a55fca97f826b5df1a8f8d64cda87a278dacf558e</sha256>
+    <startDate>2021-03-05T07:15:00.000Z</startDate>
+    <subtitle>Documenting Lebanon's Pain: Carol Mansour / Documentary Filmmaker</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-03-05T07:54:47.644Z</uploadedDate>
   </episode>
 </episodeList>
