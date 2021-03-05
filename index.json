@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-04T23:25:03.349Z",
+  "lastUpdated": "2021-03-05T01:50:03.389Z",
   "series": [
     {
       "count": 21,
@@ -646,6 +646,14 @@
       "uniqueId": "635491b347615173",
       "lastAiring": "2021-03-04T01:30:00.000Z",
       "lastUpload": "2021-03-04T03:27:59.778Z",
+      "seriesId": "7000",
+      "title": "Magical Journey FUKUSHIMA"
+    },
+    {
+      "count": 1,
+      "uniqueId": "437b6d2d733a4674",
+      "lastAiring": "2021-03-04T23:30:00.000Z",
+      "lastUpload": "2021-03-05T01:47:07.511Z",
       "seriesId": "7000",
       "title": "Magical Journey FUKUSHIMA"
     },
