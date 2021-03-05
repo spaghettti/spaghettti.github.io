@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-05T16:20:03.278Z",
+  "lastUpdated": "2021-03-05T17:25:03.157Z",
   "seriesId": "4002",
   "title": "Today's Close-Up",
   "episodes": [
@@ -194,6 +194,22 @@
       "title": "Today's Close-Up",
       "uploadedDate": "2021-02-26T17:06:42.720Z",
       "raw": "https://mega.nz/folder/0M0mRSpT#myECMdW8nZaDdeNFo07T7Q"
+    },
+    {
+      "airingId": "820",
+      "content": "The 2011 earthquake and tsunami transformed some Japanese townships in just minutes, taking thousands of lives, and leaving behind many grieving survivors. In one town, storytellers on a bus tour honor the legacy of both groups by sharing their experiences and passing on their memories to visitors. The program follows the same route with detailed visual simulations of the tsunami to show how people acted to save their lives and the lives of others.\nGuest:\nIto Shun (Storyteller, hotel employee)",
+      "description": "Ten years after one of Japan's worst ever natural disasters, the 2011 earthquake and tsunami, a bus storytelling tour preserves and passes on the traumatic experiences of those who lived and died.",
+      "endDate": "2021-03-05T16:00:00.000Z",
+      "link": "https://mega.nz/folder/nl1AxZoY#8GHU04jrhqVEJs_jE0YJ9A",
+      "recordDateEnd": "2021-03-05T16:00:26.688Z",
+      "recordDateStart": "2021-03-05T15:29:22.452Z",
+      "seriesId": "4002",
+      "sha256": "8bb29247bce5252777573f67a79a5b0eea76bf6b48b32d8f9ff2d71c2d23c8e7",
+      "startDate": "2021-03-05T15:30:00.000Z",
+      "subtitle": "Storytelling Bus Tour: 2011 Tsunami Survivors Keep Memories Alive",
+      "title": "Today's Close-Up",
+      "uploadedDate": "2021-03-05T17:20:11.676Z",
+      "raw": "https://mega.nz/folder/jk4UFTaT#NFxBLJj5dmTllQxGh3ONiQ"
     }
   ]
 }
