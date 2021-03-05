@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-05T03:05:03.286Z</lastUpdated>
+  <lastUpdated>2021-03-05T04:15:03.591Z</lastUpdated>
   <seriesId>b6a4aecdfcf53169</seriesId>
   <title>Asia Insight</title>
   <episode>
@@ -243,5 +243,21 @@
     <title>Asia Insight</title>
     <uploadedDate>2021-02-26T05:19:27.647Z</uploadedDate>
     <raw>https://mega.nz/folder/K0t3ECgA#B4x9s-Ala9AHSqcSMflE4A</raw>
+  </episode>
+  <episode>
+    <airingId>324</airingId>
+    <content>In July 2020, a second wave of COVID-19 hit the city of Da Nang, Vietnam. A team from Hanoi's Bach Mai hospital who survived lockdown in the first wave came to support their colleagues and share their expertise on preventing in-house infections. But with far fewer resources, staff and equipment, it's a tough battle. To prepare for the worst-case scenario, they transform a local sports stadium into a field hospital. Follow the hard work of the medical team as they fight a multi-front battle.</content>
+    <description>A medical team from Hanoi head to the city of Da Nang to help a local hospital through a second wave of COVID-19. Are their experiences from the first wave enough to beat gear and staff shortages?</description>
+    <endDate>2021-03-05T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ClJiDBpZ#Lr9njI3zCvxUx2jYoRfRmA</link>
+    <recordDateEnd>2021-03-05T02:00:28.768Z</recordDateEnd>
+    <recordDateStart>2021-03-05T01:29:20.102Z</recordDateStart>
+    <seriesId>2022</seriesId>
+    <sha256>13468c627bd0265b731d2ff8af41919c475aab706392c33e53e74ef1f9a76952</sha256>
+    <startDate>2021-03-05T01:30:00.000Z</startDate>
+    <subtitle>Vietnam: Fighting the Second Wave</subtitle>
+    <title>Asia Insight</title>
+    <uploadedDate>2021-03-05T04:14:44.997Z</uploadedDate>
+    <raw>https://mega.nz/folder/RaIUSJaD#KlE4w9QHISVk-iot8R92zA</raw>
   </episode>
 </episodeList>
