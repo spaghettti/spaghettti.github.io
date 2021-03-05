@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-05T01:50:03.129Z",
+  "lastUpdated": "2021-03-05T03:05:03.315Z",
   "seriesId": "2025",
   "title": "Kawaii International",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "Kawaii International",
       "uploadedDate": "2021-02-15T13:10:09.265Z",
       "raw": "https://mega.nz/folder/4MZgxJaD#e1zM4hXgWEYvqjOXjv7KaA"
+    },
+    {
+      "airingId": "138",
+      "content": "The keyword for this episode is \"diversity.\" We feature stylish and barrier-free fashion items of the future, as well as some fashion leaders in genderless Kawaii style. Also, don't miss our interview with Amane, an up-and-coming model with a prosthetic leg.",
+      "description": "Kawaii culture has no boundaries - express yourself and embrace who you are! Our hosts Misha and RinRin will guide you to figure out how to let your uniqueness shine.",
+      "endDate": "2021-03-05T01:00:00.000Z",
+      "link": "https://mega.nz/folder/xJlkja5A#P8R3feMMZnn4IRA_tIlK7Q",
+      "recordDateEnd": "2021-03-05T01:00:33.963Z",
+      "recordDateStart": "2021-03-05T00:29:20.004Z",
+      "seriesId": "2025",
+      "sha256": "95511832232dd964e608ae50266192aa21ad8e74587afbda88472e0dab7011a3",
+      "startDate": "2021-03-05T00:30:00.000Z",
+      "subtitle": "The Extraordinary Diversity of Kawaii",
+      "title": "Kawaii International",
+      "uploadedDate": "2021-03-05T03:03:12.807Z"
     }
   ]
 }

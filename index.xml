@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-05T01:50:03.381Z</lastUpdated>
+  <lastUpdated>2021-03-05T03:05:03.555Z</lastUpdated>
   <series>
     <count>21</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -611,10 +611,10 @@
     <title>KABUKI KOOL</title>
   </series>
   <series>
-    <count>9</count>
+    <count>10</count>
     <uniqueId>25a805bf2ec43458</uniqueId>
-    <lastAiring>2021-02-12T00:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-15T13:10:09.265Z</lastUpload>
+    <lastAiring>2021-03-05T00:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-05T03:03:12.807Z</lastUpload>
     <seriesId>2025</seriesId>
     <title>Kawaii International</title>
   </series>
