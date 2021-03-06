@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-05T17:25:03.223Z",
+  "lastUpdated": "2021-03-06T01:10:04.126Z",
   "seriesId": "6032",
   "title": "Japanology Plus mini",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "Japanology Plus mini",
       "uploadedDate": "2021-02-28T20:18:36.491Z",
       "raw": "https://mega.nz/folder/QwpwFJDT#A5Ui_EYsPhSPw636zgrtdw"
+    },
+    {
+      "airingId": "013",
+      "content": "",
+      "description": "Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at donburi rice bowls, Japan's ultimate comfort food.",
+      "endDate": "2021-03-06T01:00:00.000Z",
+      "link": "https://mega.nz/folder/V1w2BBYT#aTehvEG-ZsDmpeDPOnZzOA",
+      "recordDateEnd": "2021-03-06T01:00:22.641Z",
+      "recordDateStart": "2021-03-06T00:54:23.006Z",
+      "seriesId": "6032",
+      "sha256": "3a3409f53eb2e99af83c565e0b12fe0c2fb09e7c101c727b048fe5ef4dd19fbe",
+      "startDate": "2021-03-06T00:55:00.000Z",
+      "subtitle": "",
+      "title": "Japanology Plus mini",
+      "uploadedDate": "2021-03-06T01:09:50.249Z"
     }
   ]
 }
