@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-06T01:10:04.176Z</lastUpdated>
+  <lastUpdated>2021-03-06T02:25:03.508Z</lastUpdated>
   <series>
     <count>21</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -1091,10 +1091,10 @@
     <title>Trails to Oishii Tokyo mini</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>80afb7aa5174d5ac</uniqueId>
-    <lastAiring>2021-02-06T00:10:00.000Z</lastAiring>
-    <lastUpload>2021-02-16T01:12:15.543Z</lastUpload>
+    <lastAiring>2021-03-06T00:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-06T02:24:12.780Z</lastUpload>
     <seriesId>2068</seriesId>
     <title>Train Cruise</title>
   </series>

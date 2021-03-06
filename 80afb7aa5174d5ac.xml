@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T01:10:04.017Z</lastUpdated>
+  <lastUpdated>2021-03-06T02:25:03.341Z</lastUpdated>
   <seriesId>80afb7aa5174d5ac</seriesId>
   <title>Train Cruise</title>
+  <episode>
+    <airingId>019</airingId>
+    <content>The Sanriku Railway Rias Line runs 163km the length of Iwate Pref. in Japan's northeast, from Kuji Station in the north through Sakari Station in the south. The only way to conquer the rugged coastline was to go through it, with no fewer than 80 tunnels. Brilliant scenery and the sea awaits when you exit each tunnel. Travel the Sanriku Railway that was the beacon of hope for the region's quick recovery after the Sanriku coastline suffered much damage during the 2011 Great East Japan Earthquake.</content>
+    <description>The Sanriku Railway Rias Line runs 163km along the rugged Pacific coast through 80 tunnels. The coastline was damaged during the 2011 earthquake, and the line was the beacon of hope for its recovery.</description>
+    <endDate>2021-03-06T00:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/C59AEJoI#UARaw1y5fPt3fv8any-LDQ</link>
+    <recordDateEnd>2021-03-06T00:55:21.263Z</recordDateEnd>
+    <recordDateStart>2021-03-06T00:09:20.101Z</recordDateStart>
+    <seriesId>2068</seriesId>
+    <sha256>7abdd010fa812cc4154e8da30e2702a6b7f849a5a900b1e65f45c353c8ce0118</sha256>
+    <startDate>2021-03-06T00:10:00.000Z</startDate>
+    <subtitle>The Sanriku Coast's Unbeatable Spirit</subtitle>
+    <title>Train Cruise</title>
+    <uploadedDate>2021-03-06T02:24:12.780Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>021</airingId>
     <content>Starting from Hachioji in Tokyo's west, our journey takes us to Mt. Fuji, then into the mountains of Yamanashi and Nagano Prefectures. We watch traditional puppet theater. We alight at Mt. Fuji Station on the Fujikyu line, the closest railway to the peak, and enter a spiritual lava cave in the bowels of the mountain. As we make our way north, we stop by a Buddhist temple with a vineyard and a colossal radio telescope. Discover amazing scenery and sights deep in the mountains outside Tokyo.</content>
