@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-06T04:10:03.267Z",
+  "lastUpdated": "2021-03-13T08:34:37.974Z",
   "seriesId": "2069",
   "title": "Wild Hokkaido!",
   "episodes": [
@@ -258,6 +258,22 @@
       "title": "Wild Hokkaido!",
       "uploadedDate": "2021-02-15T03:27:38.258Z",
       "raw": "https://mega.nz/folder/bBsy2TgJ#uNku_-4GjpYyREj4q423-Q"
+    },
+    {
+      "airingId": "083",
+      "content": "Our stage this time is Lake Shikotsu, located about an hour's drive from Hokkaido Prefecture's capital city of Sapporo with a population of over 1.9 million. Although the lake does not freeze over even during the harsh winter, its shores are decorated with beautiful ice formations. Our program host takes a canoe trip along Lake Shikotsu and the Chitose River, which flows out of the lake, to enjoy the beauty of the icy landscapes and wildlife encounters on the water. Later, we show you some footage of the creatures that survive the winter at Lake Shikotsu.",
+      "description": "Lake Shikotsu does not freeze over even during the winter. Its shores are decorated with beautiful ice formations. Our program host takes a canoe trip along the lake and the river.",
+      "endDate": "2021-03-07T01:00:00.000Z",
+      "link": "https://mega.nz/folder/ZW5HgQQK#qPWRUd6nZCrJeCbGfqf5Bg",
+      "recordDateEnd": "2021-03-07T01:00:27.976Z",
+      "recordDateStart": "2021-03-07T00:44:23.005Z",
+      "seriesId": "2069",
+      "sha256": "1a067793f36ada2548c616d64d8a62b50c61d85cc457e3c59d26c84c00574605",
+      "startDate": "2021-03-07T00:45:00.000Z",
+      "subtitle": "Harsh Winter in Lake Shikotsu",
+      "title": "Wild Hokkaido!",
+      "uploadedDate": "2021-03-07T02:02:24.943Z",
+      "raw": "https://mega.nz/folder/b44XXQwT#kIW-jGxCLvc-ybIeAhll3w"
     }
   ]
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.191Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:37.906Z</lastUpdated>
   <seriesId>67d2ae7ac69fb919</seriesId>
   <title>Core Kyoto</title>
   <episode>
@@ -387,6 +387,22 @@
     <title>Core Kyoto</title>
     <uploadedDate>2021-03-04T01:20:48.455Z</uploadedDate>
     <raw>https://mega.nz/folder/ggZ3xSDS#MZ6e93Z2uDNZoPx3SK946g</raw>
+  </episode>
+  <episode>
+    <airingId>142</airingId>
+    <content>The five seasonal festivals to drive out evil originate in Yin and Yang philosophy. The most important is the Double Ninth festival on September 9, the largest, single-digit odd number. Chrysanthemums, a medicinal herb, are used for purification in the 1,000-year-old longevity rituals; hence, the festival's name. A chrysanthemum-boy doll, Noh plays, children's sumo, and floss-adorned chrysanthemums. Discover how the Chrysanthemum Festival has taken on new significance during the pandemic.</content>
+    <description>Chrysanthemum flowers, which are used as a medicinal herb, are used to ward off evil on September 9th. Communities are now reevaluating the festival's significance in light of the current pandemic.</description>
+    <endDate>2021-03-11T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/NXxWHTLD#NO9Hw19sxrmJ027aW0rRhQ</link>
+    <recordDateEnd>2021-03-11T00:00:29.747Z</recordDateEnd>
+    <recordDateStart>2021-03-10T23:29:20.101Z</recordDateStart>
+    <seriesId>2029</seriesId>
+    <sha256>51d797751c8200bbd5acb1d0b23fdb4f761f76158bef5577b1ec33dacca33358</sha256>
+    <startDate>2021-03-10T23:30:00.000Z</startDate>
+    <subtitle>The Double Ninth Festival: Beautiful Chrysanthemums Grant Longevity</subtitle>
+    <title>Core Kyoto</title>
+    <uploadedDate>2021-03-11T01:03:53.900Z</uploadedDate>
+    <raw>https://mega.nz/folder/G4hGEABa#dBcePr8f-bqOKqQs-H9p7A</raw>
   </episode>
   <episode>
     <airingId>144</airingId>

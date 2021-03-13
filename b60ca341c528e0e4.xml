@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.348Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.059Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
+  <episode>
+    <airingId>014</airingId>
+    <content/>
+    <description>#14 I want to go to Japan someday. / A verb with "te mitai desu" means "want to do something that you haven't done before." "Nihon e itte mitai desu" means "I want to go to Japan someday."</description>
+    <endDate>2021-03-12T05:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/O8AjVaKa#S0xpBrnHYcRim6EGSfx3-g</link>
+    <recordDateEnd>2021-03-12T05:30:26.894Z</recordDateEnd>
+    <recordDateStart>2021-03-12T05:24:22.865Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>adc07b3eb1139c22374d2b247db57b0d4f493051772053f58bbb2d4b69dc7d74</sha256>
+    <startDate>2021-03-12T05:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-03-12T06:20:44.425Z</uploadedDate>
+    <raw>https://mega.nz/folder/C0MTyawD#ikClF6CWltjPaiTNr7E9hg</raw>
+  </episode>
   <episode>
     <airingId>031</airingId>
     <content/>
@@ -259,5 +275,37 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-02-27T05:12:28.398Z</uploadedDate>
     <raw>https://mega.nz/folder/ngtwFLRQ#0lsjNiqbgPu7ryqIcyZBvA</raw>
+  </episode>
+  <episode>
+    <airingId>047</airingId>
+    <content/>
+    <description>#47 How do you do it? / To ask how to do something, say "doo yatte," meaning "how," followed with a verb like "suru," (to do), and then "n desuka."</description>
+    <endDate>2021-03-06T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/kLh03aCZ#NqPhgTEgzPU7gFNgt-CwCg</link>
+    <recordDateEnd>2021-03-06T05:00:23.032Z</recordDateEnd>
+    <recordDateStart>2021-03-06T04:54:20.043Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>cbc5b31170a442e7b412f26d9a6341b4a68965574fcf7d4ce9eefbbfc16d5f9f</sha256>
+    <startDate>2021-03-06T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-03-06T05:55:56.194Z</uploadedDate>
+    <raw>https://mega.nz/folder/npxg3IxY#ClUhZlrDoSFNXSFfRitWNA</raw>
+  </episode>
+  <episode>
+    <airingId>048</airingId>
+    <content/>
+    <description>#48 When I graduate, I want to work in Japan. / To explain your plan, say a verb in the "ta" form followed by "ra," to indicate the circumstance, and then whatever your plan is.</description>
+    <endDate>2021-03-13T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/L1Z10YzL#CjPNzRDB0KsVdVh46iu--A</link>
+    <recordDateEnd>2021-03-13T05:00:22.802Z</recordDateEnd>
+    <recordDateStart>2021-03-13T04:54:20.070Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>f9e0aa84ab4c848bee63078ceb35802a89aa521eeccdfee2ccbdc6f0f6fc7d7d</sha256>
+    <startDate>2021-03-13T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-03-13T08:18:54.462Z</uploadedDate>
+    <raw>https://mega.nz/folder/Gx5EgYjJ#QZn7J3k_dfwkn-IEwkT7wQ</raw>
   </episode>
 </episodeList>

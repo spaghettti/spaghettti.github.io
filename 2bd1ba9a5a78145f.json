@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2021-03-06T04:10:03.371Z",
+  "lastUpdated": "2021-03-13T08:34:38.084Z",
   "seriesId": "6031",
   "title": "Dining with the Chef mini",
   "episodes": [
+    {
+      "airingId": "002",
+      "content": "",
+      "description": "Learn about easy, delicious and healthy cooking with Chef Rika! Featured recipe: Chicken Rice Burger.",
+      "endDate": "2021-03-11T05:00:00.000Z",
+      "link": "https://mega.nz/folder/i5pyyIqa#y6PZQ9pRVFRYHYAPo8Y2Uw",
+      "recordDateEnd": "2021-03-11T05:00:26.213Z",
+      "recordDateStart": "2021-03-11T04:54:22.759Z",
+      "seriesId": "6031",
+      "sha256": "48bd79d5d7668d9c1dd8f02af4a0fa20ce9a42d7fdc2711937d79ff1c35f1b24",
+      "startDate": "2021-03-11T04:55:00.000Z",
+      "subtitle": "",
+      "title": "Dining with the Chef mini",
+      "uploadedDate": "2021-03-11T05:19:31.088Z",
+      "raw": "https://mega.nz/folder/4ToCiKaa#Pda_xh8kby9vDhQ72hkWDQ"
+    },
     {
       "airingId": "009",
       "content": "",

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.390Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.109Z</lastUpdated>
   <seriesId>f2fee2555c450616</seriesId>
   <title>JAPANGLE</title>
   <episode>
@@ -120,17 +120,33 @@
     <airingId>008</airingId>
     <content/>
     <description>JAPANGLE is a series of educational entertainment programs that put a spotlight on various aspects of Japan. This episode is Sweets and snacks.</description>
-    <endDate>2020-11-22T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/C0cFDQzL#Rkxf0hvHtgXmzebLcZwENg</link>
-    <recordDateEnd>2020-11-22T07:30:29.593Z</recordDateEnd>
-    <recordDateStart>2020-11-22T07:09:20.063Z</recordDateStart>
+    <endDate>2021-03-08T02:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/ux8hWKKL#Mh1TS5gJjwBxq_i2ZC37Uw</link>
+    <recordDateEnd>2021-03-08T02:50:28.243Z</recordDateEnd>
+    <recordDateStart>2021-03-08T02:29:20.053Z</recordDateStart>
     <seriesId>6200</seriesId>
-    <sha256>523a2efc612168fabc29abd12f009d7c59f5a03cfa9ac6a40c9ae98837d21018</sha256>
-    <startDate>2020-11-22T07:10:00.000Z</startDate>
-    <subtitle>Sweets and snacks</subtitle>
+    <sha256>f7585e430e10910a8b45189b48905b67cad94485159fe431972fed9bf3e057ca</sha256>
+    <startDate>2021-03-08T02:30:00.000Z</startDate>
+    <subtitle/>
     <title>JAPANGLE</title>
-    <uploadedDate>2020-12-25T02:09:44.715Z</uploadedDate>
-    <raw>https://mega.nz/folder/DoN3hCyY#XkpIbGYEtdhOJbt8CserFQ</raw>
+    <uploadedDate>2021-03-08T03:40:25.533Z</uploadedDate>
+    <raw>https://mega.nz/folder/pTYD1AzD#sZafDH5RjxyT5H-yHUGTqQ</raw>
+  </episode>
+  <episode>
+    <airingId>009</airingId>
+    <content/>
+    <description>JAPANGLE is a series of educational entertainment programs that put a spotlight on various aspects of Japan. This episode is Stylized movement.</description>
+    <endDate>2021-03-07T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/qhxgBbCZ#UaPvs8Q0GuTqjRaG7b276Q</link>
+    <recordDateEnd>2021-03-07T03:00:34.202Z</recordDateEnd>
+    <recordDateStart>2021-03-07T02:39:20.101Z</recordDateStart>
+    <seriesId>6200</seriesId>
+    <sha256>72d297b40818e163ec3860de8dcdbb0ce935e31bbc3318bb70c8a57125775fd0</sha256>
+    <startDate>2021-03-07T02:40:00.000Z</startDate>
+    <subtitle>Stylized movement</subtitle>
+    <title>JAPANGLE</title>
+    <uploadedDate>2021-03-07T04:12:59.882Z</uploadedDate>
+    <raw>https://mega.nz/folder/qoh31QKS#ue4kzfbuiN7TjQP_R145gA</raw>
   </episode>
   <episode>
     <airingId>010</airingId>

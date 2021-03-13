@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-06T04:10:03.318Z",
+  "lastUpdated": "2021-03-13T08:34:38.026Z",
   "seriesId": "4003",
   "title": "The Professionals",
   "episodes": [
@@ -114,6 +114,22 @@
       "title": "The Professionals",
       "uploadedDate": "2021-02-15T04:27:21.922Z",
       "raw": "https://mega.nz/folder/FEwHlA4Z#_-1HtcZLI2RYhWldbZh_EQ"
+    },
+    {
+      "airingId": "150",
+      "content": "Meet a famous Hakone bus driver! Omori Toru (62) has 40 years of driving experience. He has the technical skills to navigate Hakone's sharp curves and steep hills, and a warm consideration for his passengers' needs. He's been a part of the region's public transport network for decades and is proud of supporting everyday life. As the pandemic turns our attention to the essential workers we've long overlooked, meet a man who quietly dedicated his career to supporting the truly important aspects of our day-to-day lives.",
+      "description": "Omori Toru is a 40-year veteran bus driver who navigates sharp curves and steep hills and offers warm consideration to his passengers. He's proud of supporting everyday life in spite of the pandemic.",
+      "endDate": "2021-03-07T01:55:00.000Z",
+      "link": "https://mega.nz/folder/Sog2CBBS#hnbsKSEM2HDfMgtuFiwJvQ",
+      "recordDateEnd": "2021-03-07T01:55:27.922Z",
+      "recordDateStart": "2021-03-07T01:09:20.151Z",
+      "seriesId": "4003",
+      "sha256": "8332dc705e15ab1d272d92af3a6b1eef15a6cf72a12cbcd982791c6d05258e0f",
+      "startDate": "2021-03-07T01:10:00.000Z",
+      "subtitle": "Keeping Things Running: Omori Toru, Bus Driver",
+      "title": "The Professionals",
+      "uploadedDate": "2021-03-07T03:11:26.106Z",
+      "raw": "https://mega.nz/folder/ZTgwWBhJ#pukgQJElHHKGh9BjLcHoHw"
     }
   ]
 }

@@ -41,7 +41,7 @@
               <xsl:value-of select="episodeList/seriesId"/>
               <xsl:text>.json</xsl:text>
             </xsl:attribute>
-            <xsl:text>JSON version</xsl:text>
+            <xsl:text>JSON index</xsl:text>
           </a>
         </p>
         <table>

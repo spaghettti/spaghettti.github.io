@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.405Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.123Z</lastUpdated>
   <seriesId>b0ee8e6b5f5551b1</seriesId>
   <title>Spirit of Resilience</title>
   <episode>
@@ -179,5 +179,21 @@
     <title>Spirit of Resilience</title>
     <uploadedDate>2021-02-27T15:38:53.797Z</uploadedDate>
     <raw>https://mega.nz/folder/zgIWEZqT#SMdLbMuQBUrNAvky3BmjxA</raw>
+  </episode>
+  <episode>
+    <airingId>480</airingId>
+    <content/>
+    <description>Action Figures Lead the Way:Features a tradition-steeped town in Tottori teaming up with a manufacturer of action figures to translate the passion towards Japanese anime and manga into tourist visits.</description>
+    <endDate>2021-03-12T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/9DoC0Yxa#LEbAOgadE8JQ3eWzRb067A</link>
+    <recordDateEnd>2021-03-12T00:00:27.449Z</recordDateEnd>
+    <recordDateStart>2021-03-11T23:29:20.102Z</recordDateStart>
+    <seriesId>7000</seriesId>
+    <sha256>8ccc19a831812164aee1e4273a51014c717051709ccccd573e3a720eb256c9d4</sha256>
+    <startDate>2021-03-11T23:30:00.000Z</startDate>
+    <subtitle>Action Figures Lead the Way</subtitle>
+    <title>Spirit of Resilience</title>
+    <uploadedDate>2021-03-12T01:56:01.321Z</uploadedDate>
+    <raw>https://mega.nz/folder/QWJk3bTB#ZmG3edL49NjRi8-j8MoauQ</raw>
   </episode>
 </episodeList>

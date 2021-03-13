@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-06T04:10:03.327Z",
+  "lastUpdated": "2021-03-13T08:34:38.036Z",
   "seriesId": "4026",
   "title": "Document 72 Hours",
   "episodes": [
@@ -258,6 +258,22 @@
       "title": "Document 72 Hours",
       "uploadedDate": "2021-02-16T03:42:03.003Z",
       "raw": "https://mega.nz/folder/e5FyDZDB#zsuHCXqmZjTuMD33rX5LWA"
+    },
+    {
+      "airingId": "151",
+      "content": "With over 40 kinds of handmade sandwiches including egg, mince cutlet and even fruit available, it could be the wide selection that draws customers to this small shop near Sapporo's Susukino entertainment district. However, this shop has another major attraction: it is open 24 hours a day. Among the customers we met, include a female owner of a nearby bar; a mother preparing breakfast for her family at 4 AM; and a nightclub host needing a snack before work. For 3 days, we spoke to the customers dropping by this shop that never sleeps.",
+      "description": "Many businesses cut their operating hours due to Covid-19, but one shop in Sapporo selling more than 40 kinds of sandwiches still operates around the clock. For 3 days, we spoke to its customers.",
+      "endDate": "2021-03-09T02:00:00.000Z",
+      "link": "https://mega.nz/folder/9OoCBbJb#NQiD-4LR40PkpSEJMWevLg",
+      "recordDateEnd": "2021-03-09T02:00:27.039Z",
+      "recordDateStart": "2021-03-09T01:29:20.090Z",
+      "seriesId": "4026",
+      "sha256": "343567e5cfeee59f0709e538b5e9c20f52d265b67ce1081c15fc57f2dba7d723",
+      "startDate": "2021-03-09T01:30:00.000Z",
+      "subtitle": "Sapporo Born and Bread: A 24-Hour Sandwich Shop",
+      "title": "Document 72 Hours",
+      "uploadedDate": "2021-03-09T03:32:56.879Z",
+      "raw": "https://mega.nz/folder/H4BnlILY#DNo2d3wQnAgAXZkyK_TCOg"
     }
   ]
 }

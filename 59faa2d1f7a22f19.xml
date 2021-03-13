@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.371Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.084Z</lastUpdated>
   <seriesId>59faa2d1f7a22f19</seriesId>
   <title>Japanology Plus mini</title>
   <episode>
@@ -179,5 +179,53 @@
     <title>Japanology Plus mini</title>
     <uploadedDate>2021-03-06T01:09:50.249Z</uploadedDate>
     <raw>https://mega.nz/folder/Mx4k1TTC#3ZZunea1o2rKWAHd8XlzyA</raw>
+  </episode>
+  <episode>
+    <airingId>014</airingId>
+    <content/>
+    <description>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at osechi, a special New Year's meal that offers a traditional start to the year.</description>
+    <endDate>2021-03-06T07:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/kHhU0TAJ#b2J6vitwPysLPhP7lcityQ</link>
+    <recordDateEnd>2021-03-06T07:00:29.486Z</recordDateEnd>
+    <recordDateStart>2021-03-06T06:54:20.101Z</recordDateStart>
+    <seriesId>6032</seriesId>
+    <sha256>20ee9ca91fee5259ba12140669b65154580ad043662c9bf1a028a0e89d6daeb0</sha256>
+    <startDate>2021-03-06T06:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Japanology Plus mini</title>
+    <uploadedDate>2021-03-06T07:23:23.242Z</uploadedDate>
+    <raw>https://mega.nz/folder/b0oQyDqD#3uU2PFiAKnn8f9npMbXHrg</raw>
+  </episode>
+  <episode>
+    <airingId>015</airingId>
+    <content/>
+    <description>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at Japan's innovative, efficient, and convenient laundry services.</description>
+    <endDate>2021-03-06T13:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/CpRGRBhJ#sS5Wte1jZW3ypSwEobhBVQ</link>
+    <recordDateEnd>2021-03-06T13:00:28.762Z</recordDateEnd>
+    <recordDateStart>2021-03-06T12:54:20.028Z</recordDateStart>
+    <seriesId>6032</seriesId>
+    <sha256>46470059a6ae461520b7636b1626abb30f59b2ce4aa5ba5451cfca8c10ec60b6</sha256>
+    <startDate>2021-03-06T12:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Japanology Plus mini</title>
+    <uploadedDate>2021-03-06T13:12:21.537Z</uploadedDate>
+    <raw>https://mega.nz/folder/WtQUAZCD#vvxwI6Rym0HkL9Rjjs1CjQ</raw>
+  </episode>
+  <episode>
+    <airingId>016</airingId>
+    <content/>
+    <description>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at miso, Japan's healthy and comforting taste of home.</description>
+    <endDate>2021-03-06T19:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/G94hRKBQ#alqFnn6f-F72kEf4J2C19w</link>
+    <recordDateEnd>2021-03-06T19:00:30.733Z</recordDateEnd>
+    <recordDateStart>2021-03-06T18:54:20.101Z</recordDateStart>
+    <seriesId>6032</seriesId>
+    <sha256>20c99ef44ed8feb8b4f1d12bca6fbc76b428d21b5e3238113b2c6a149a7ed1c6</sha256>
+    <startDate>2021-03-06T18:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Japanology Plus mini</title>
+    <uploadedDate>2021-03-06T19:12:17.181Z</uploadedDate>
+    <raw>https://mega.nz/folder/EL4XgSZQ#1H2qLZFAfkhrvL0P66iPgg</raw>
   </episode>
 </episodeList>

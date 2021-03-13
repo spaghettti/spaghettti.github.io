@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-06T04:10:03.407Z",
+  "lastUpdated": "2021-03-13T08:34:38.124Z",
   "seriesId": "7000",
   "title": "Spirit of Resilience",
   "episodes": [
@@ -178,6 +178,22 @@
       "title": "Spirit of Resilience",
       "uploadedDate": "2021-02-27T15:38:53.797Z",
       "raw": "https://mega.nz/folder/zgIWEZqT#SMdLbMuQBUrNAvky3BmjxA"
+    },
+    {
+      "airingId": "480",
+      "content": "",
+      "description": "Action Figures Lead the Way:Features a tradition-steeped town in Tottori teaming up with a manufacturer of action figures to translate the passion towards Japanese anime and manga into tourist visits.",
+      "endDate": "2021-03-12T00:00:00.000Z",
+      "link": "https://mega.nz/folder/9DoC0Yxa#LEbAOgadE8JQ3eWzRb067A",
+      "recordDateEnd": "2021-03-12T00:00:27.449Z",
+      "recordDateStart": "2021-03-11T23:29:20.102Z",
+      "seriesId": "7000",
+      "sha256": "8ccc19a831812164aee1e4273a51014c717051709ccccd573e3a720eb256c9d4",
+      "startDate": "2021-03-11T23:30:00.000Z",
+      "subtitle": "Action Figures Lead the Way",
+      "title": "Spirit of Resilience",
+      "uploadedDate": "2021-03-12T01:56:01.321Z",
+      "raw": "https://mega.nz/folder/QWJk3bTB#ZmG3edL49NjRi8-j8MoauQ"
     }
   ]
 }

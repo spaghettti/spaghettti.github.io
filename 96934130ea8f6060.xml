@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.373Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.086Z</lastUpdated>
   <seriesId>96934130ea8f6060</seriesId>
   <title>We, in the Time of Corona</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>We, in the Time of Corona</title>
     <uploadedDate>2021-01-06T07:45:12.657Z</uploadedDate>
     <raw>https://mega.nz/folder/4EY1EYhA#rogJpa44fmBsZ9sFR0QKFw</raw>
+  </episode>
+  <episode>
+    <airingId>019</airingId>
+    <content>Fermentation designer Ogura Hiraku leverages the power of design to highlight the invisible work of microorganisms. How could fermentation shape humans' relationship with nature going forward?</content>
+    <description>Fermentation designer Ogura Hiraku leverages the power of design to highlight the invisible work of microorganisms. How could fermentation shape humans' relationship with nature going forward?</description>
+    <endDate>2021-03-07T23:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/BPBglTIR#d-xMKxpqmKhYSClodTUMaQ</link>
+    <recordDateEnd>2021-03-07T23:20:30.052Z</recordDateEnd>
+    <recordDateStart>2021-03-07T23:14:20.100Z</recordDateStart>
+    <seriesId>6033</seriesId>
+    <sha256>32b00cba226c70d8786623135d7ae6fd85aa0ae868f5612d44a3df54829ed965</sha256>
+    <startDate>2021-03-07T23:15:00.000Z</startDate>
+    <subtitle>Ogura Hiraku, Fermentation Designer</subtitle>
+    <title>We, in the Time of Corona</title>
+    <uploadedDate>2021-03-07T23:30:40.280Z</uploadedDate>
+    <raw>https://mega.nz/folder/JKI3gAia#tY_PMu4ADr-0W7F81GxIhQ</raw>
   </episode>
   <episode>
     <airingId>020</airingId>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-06T04:10:03.330Z",
+  "lastUpdated": "2021-03-13T08:34:38.039Z",
   "seriesId": "5001",
   "title": "GATTEN!",
   "episodes": [
@@ -18,6 +18,22 @@
       "title": "GATTEN!",
       "uploadedDate": "2021-01-06T14:32:46.832Z",
       "raw": "https://mega.nz/folder/hEMUSDjS#Lg5uqXTFFSwfuemTZ5Dsmw"
+    },
+    {
+      "airingId": "282",
+      "content": "At every annual checkup, you can bet they're going to measure your cholesterol. And cholesterol comes in 2 main types: LDL (bad) and HDL (good). We know that if your bad cholesterol is high, you are at higher risk of stroke and heart attack. Meanwhile, good cholesterol works to absorb excess cholesterol in your arteries. So you might think the more good cholesterol you have the better. But new research has revealed that the issue isn't quite so simple. How well good cholesterol absorbs excess cholesterol varies from person to person, and if this absorbency is low, you may be at increased risk of stroke. How can you increase your absorbency? We'll show you how!",
+      "description": "Good cholesterol absorbs excess cholesterol in your blood. But new research shows that this absorbency varies from person to person - and you don't want it to be low! We'll show you how to raise it.",
+      "endDate": "2021-03-06T04:55:00.000Z",
+      "link": "https://mega.nz/folder/texhCQTI#5KQk2A_tZS3lPVM4NR59dA",
+      "recordDateEnd": "2021-03-06T04:55:26.940Z",
+      "recordDateStart": "2021-03-06T04:09:20.101Z",
+      "seriesId": "5001",
+      "sha256": "4cd6705448bb3b82ed06ed54260f97a4f773f2f489facaa326ba1061c8411ab3",
+      "startDate": "2021-03-06T04:10:00.000Z",
+      "subtitle": "The New Cholesterol Battle! Keep Those Arteries Clean",
+      "title": "GATTEN!",
+      "uploadedDate": "2021-03-06T07:11:00.081Z",
+      "raw": "https://mega.nz/folder/e45xUSwK#QVXQrgFAqHg58Ypru8CUFw"
     }
   ]
 }

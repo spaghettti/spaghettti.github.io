@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-06T04:10:03.159Z",
+  "lastUpdated": "2021-03-13T08:34:37.872Z",
   "seriesId": "2015",
   "title": "Science View",
   "episodes": [
@@ -258,6 +258,22 @@
       "title": "Science View",
       "uploadedDate": "2021-02-16T17:16:31.148Z",
       "raw": "https://mega.nz/folder/LFd0zLzK#pAkxupPz63DYErbQ54TArg"
+    },
+    {
+      "airingId": "254",
+      "content": "Professor Takanori Takebe of Tokyo Medical and Dental University (Director of Commercial Innovation at Center for Stem Cell and Organoid Research and Medicine [CuSTOM], Cincinnati Children's Hospital Medical Center) is leading the world in research on creating mini-livers from iPS cells. Research on organoids, mini-organs grown in test tubes, has made great advances in the past 10 years and the technology is already being applied to treat incurable diseases. Takebe has successfully created not only liver organoid, but an entire set of 4 connected organoids - the liver, bile duct, pancreas and duodenum. He is continuing to break new grounds with bold new ideas. This episode features Takebe's wide range of iPS cell research and his fresh ideas that transcend disciplinary boundaries.",
+      "description": "Professor Takanori Takebe of Tokyo Medical and Dental University is breaking new ground with research on iPS cell-derived organoids. Discover how lives could be saved with Takebe's bold new ideas..",
+      "endDate": "2021-03-09T16:00:00.000Z",
+      "link": "https://mega.nz/folder/m1BQQRyC#u3L5uyhwoc2zXJ3GnV0Afg",
+      "recordDateEnd": "2021-03-09T16:00:31.352Z",
+      "recordDateStart": "2021-03-09T15:29:25.328Z",
+      "seriesId": "2015",
+      "sha256": "2d725e61415b676c339ca4054e14ab13f8d0a95fe63aecbeb4eb43dba9b44340",
+      "startDate": "2021-03-09T15:30:00.000Z",
+      "subtitle": "Special Episode: The Sky's the Limit! - Takanori Takebe and iPS Cell Research",
+      "title": "Science View",
+      "uploadedDate": "2021-03-09T17:22:01.112Z",
+      "raw": "https://mega.nz/folder/Xw9wFKDZ#hT4J03UfuFZohzphPNKtag"
     }
   ]
 }

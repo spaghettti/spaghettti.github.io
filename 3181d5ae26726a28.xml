@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.325Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.034Z</lastUpdated>
   <seriesId>3181d5ae26726a28</seriesId>
   <title>Document 72 Hours</title>
   <episode>
@@ -259,5 +259,21 @@
     <title>Document 72 Hours</title>
     <uploadedDate>2021-02-16T03:42:03.003Z</uploadedDate>
     <raw>https://mega.nz/folder/e5FyDZDB#zsuHCXqmZjTuMD33rX5LWA</raw>
+  </episode>
+  <episode>
+    <airingId>151</airingId>
+    <content>With over 40 kinds of handmade sandwiches including egg, mince cutlet and even fruit available, it could be the wide selection that draws customers to this small shop near Sapporo's Susukino entertainment district. However, this shop has another major attraction: it is open 24 hours a day. Among the customers we met, include a female owner of a nearby bar; a mother preparing breakfast for her family at 4 AM; and a nightclub host needing a snack before work. For 3 days, we spoke to the customers dropping by this shop that never sleeps.</content>
+    <description>Many businesses cut their operating hours due to Covid-19, but one shop in Sapporo selling more than 40 kinds of sandwiches still operates around the clock. For 3 days, we spoke to its customers.</description>
+    <endDate>2021-03-09T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/9OoCBbJb#NQiD-4LR40PkpSEJMWevLg</link>
+    <recordDateEnd>2021-03-09T02:00:27.039Z</recordDateEnd>
+    <recordDateStart>2021-03-09T01:29:20.090Z</recordDateStart>
+    <seriesId>4026</seriesId>
+    <sha256>343567e5cfeee59f0709e538b5e9c20f52d265b67ce1081c15fc57f2dba7d723</sha256>
+    <startDate>2021-03-09T01:30:00.000Z</startDate>
+    <subtitle>Sapporo Born and Bread: A 24-Hour Sandwich Shop</subtitle>
+    <title>Document 72 Hours</title>
+    <uploadedDate>2021-03-09T03:32:56.879Z</uploadedDate>
+    <raw>https://mega.nz/folder/H4BnlILY#DNo2d3wQnAgAXZkyK_TCOg</raw>
   </episode>
 </episodeList>

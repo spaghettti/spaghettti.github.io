@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.416Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.134Z</lastUpdated>
   <seriesId>4365cf84c14911e8</seriesId>
   <title>BIZ STREAM</title>
   <episode>
@@ -209,6 +209,27 @@ The tourism industry on the Indonesian resort island of Bali has been hit hard b
     <title>BIZ STREAM</title>
     <uploadedDate>2021-02-20T15:44:41.505Z</uploadedDate>
     <raw>https://mega.nz/folder/IeACVTwb#PfpBB5tfYMEVXbpPdnaRDw</raw>
+  </episode>
+  <episode>
+    <airingId>095</airingId>
+    <content>[On-Site Report]
+In a country facing one disaster after another, the market for emergency survival goods is seeing both growth and innovation. A startup has created a gel-type survival food that can easily be eaten by people of all ages and now features minerals to keep them hydrated and catechins to provide a boost to their immune systems. Larger food manufacturers are also expanding their survival product offerings. One company has released the world's first canned cheesecake and another has launched a delivery service that provides customers with a new set of supplies every 3 months.
+[In Depth: Myanmar's Coup Put Foreign Investments at Risk]
+The death toll continues to rise in Myanmar as police and soldiers use force against pro-democracy demonstrators. Amid the turmoil, foreign firms that have heavily invested in the country are scrambling to navigate the fallout from the coup.
+[Global Trends: SE Asia Raises the Bar for Chocolate]
+Southeast Asia is getting a name for chocolate. Companies there are partnering with farmers to produce high-quality beans and bars. We take a look at why their delicious creations are winning awards and customers.</content>
+    <description>This episode features emergency survival food products including a long-lasting nutrient loaded gel-type food and other products and services designed to keep people healthy in times of trouble.</description>
+    <endDate>2021-03-06T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/XoJCzbzK#SqkK2mgJyCZm1Yv3mNkSFg</link>
+    <recordDateEnd>2021-03-06T14:40:27.591Z</recordDateEnd>
+    <recordDateStart>2021-03-06T14:09:20.100Z</recordDateStart>
+    <seriesId>2074</seriesId>
+    <sha256>80a1e33180857a92cc56ad1ae08e08987d60f4dd7ede3c64dd1fc630ab353201</sha256>
+    <startDate>2021-03-06T14:10:00.000Z</startDate>
+    <subtitle>New Advances in Emergency Foods</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2021-03-06T15:39:23.263Z</uploadedDate>
+    <raw>https://mega.nz/folder/OwZD1ITR#FRQ9_kIdP0yMYCw5mWo1OQ</raw>
   </episode>
   <episode>
     <airingId>704</airingId>

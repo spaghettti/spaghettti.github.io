@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.395Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.112Z</lastUpdated>
   <seriesId>30aa2c9c765292e1</seriesId>
   <title>Inspiring Landscapes</title>
   <episode>
@@ -99,6 +99,22 @@
     <title>Inspiring Landscapes</title>
     <uploadedDate>2020-12-25T17:58:51.977Z</uploadedDate>
     <raw>https://mega.nz/folder/QJt2XQza#NkmYu1sOLCJJylxFNwyD_w</raw>
+  </episode>
+  <episode>
+    <airingId>041</airingId>
+    <content/>
+    <description>Iwojima island in Kagoshima Prefecture is a volcanic island situated between Yakushima Island and the main island of Kyushu. Some very hardy organisms can be found in this harsh environment.</description>
+    <endDate>2021-03-07T16:47:00.000Z</endDate>
+    <link>https://mega.nz/folder/gSYgVJqD#fBugJdQawZ6lPsxlBxT08g</link>
+    <recordDateEnd>2021-03-07T16:47:26.805Z</recordDateEnd>
+    <recordDateStart>2021-03-07T16:29:20.047Z</recordDateStart>
+    <seriesId>6206</seriesId>
+    <sha256>31dc5f00c443e072da0785e10a2ef0435359ecdae05098872393357f1983f7cc</sha256>
+    <startDate>2021-03-07T16:30:00.000Z</startDate>
+    <subtitle/>
+    <title>Inspiring Landscapes</title>
+    <uploadedDate>2021-03-07T17:26:05.725Z</uploadedDate>
+    <raw>https://mega.nz/folder/RSImVToQ#ns1FsXaveBAmgtDJLITftg</raw>
   </episode>
   <episode>
     <airingId>043</airingId>

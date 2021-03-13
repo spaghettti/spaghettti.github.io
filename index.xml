@@ -1,22 +1,14 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-06T04:10:03.424Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.142Z</lastUpdated>
   <series>
-    <count>21</count>
+    <count>22</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
-    <lastAiring>2021-03-03T00:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-03T01:54:25.011Z</lastUpload>
+    <lastAiring>2021-03-10T00:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-10T01:14:15.544Z</lastUpload>
     <seriesId>3019</seriesId>
     <title>15 Minutes</title>
-  </series>
-  <series>
-    <count>1</count>
-    <uniqueId>13e432cf78dd96b8</uniqueId>
-    <lastAiring>2020-12-25T04:30:00.000Z</lastAiring>
-    <lastUpload>2020-12-25T15:40:48.025Z</lastUpload>
-    <seriesId>2067</seriesId>
-    <title>2020 GRAND SUMO Review</title>
   </series>
   <series>
     <count>2</count>
@@ -59,10 +51,10 @@
     <title>ANIMATION X PARALYMPIC</title>
   </series>
   <series>
-    <count>5</count>
+    <count>6</count>
     <uniqueId>0fc6cd6b02dc8d5f</uniqueId>
-    <lastAiring>2021-01-23T00:10:00.000Z</lastAiring>
-    <lastUpload>2021-01-23T02:03:57.782Z</lastUpload>
+    <lastAiring>2021-03-12T15:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-12T17:47:53.731Z</lastUpload>
     <seriesId>2065</seriesId>
     <title>Anime Supernova</title>
   </series>
@@ -75,10 +67,10 @@
     <title>Art is trash without social impact</title>
   </series>
   <series>
-    <count>16</count>
+    <count>17</count>
     <uniqueId>b6a4aecdfcf53169</uniqueId>
-    <lastAiring>2021-03-05T01:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-05T04:14:44.997Z</lastUpload>
+    <lastAiring>2021-03-12T01:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-12T04:10:19.500Z</lastUpload>
     <seriesId>2022</seriesId>
     <title>Asia Insight</title>
   </series>
@@ -107,18 +99,18 @@
     <title>BEGIN Japanology mini</title>
   </series>
   <series>
-    <count>10</count>
+    <count>11</count>
     <uniqueId>e5a5b6a12ffc2a6e</uniqueId>
-    <lastAiring>2021-03-01T00:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-01T01:42:00.771Z</lastUpload>
+    <lastAiring>2021-03-08T00:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-08T01:54:34.981Z</lastUpload>
     <seriesId>2077</seriesId>
     <title>BENTO EXPO</title>
   </series>
   <series>
-    <count>20</count>
+    <count>21</count>
     <uniqueId>4365cf84c14911e8</uniqueId>
-    <lastAiring>2021-02-20T14:10:00.000Z</lastAiring>
-    <lastUpload>2021-02-20T15:44:41.505Z</lastUpload>
+    <lastAiring>2021-03-06T14:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-06T15:39:23.263Z</lastUpload>
     <seriesId>2074,3004</seriesId>
     <title>BIZ STREAM</title>
   </series>
@@ -155,26 +147,26 @@
     <title>Ceramic Treasures</title>
   </series>
   <series>
-    <count>10</count>
+    <count>11</count>
     <uniqueId>be55ba93c748813c</uniqueId>
-    <lastAiring>2021-02-27T04:10:00.000Z</lastAiring>
-    <lastUpload>2021-02-27T07:57:50.208Z</lastUpload>
+    <lastAiring>2021-03-13T04:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-13T07:37:50.102Z</lastUpload>
     <seriesId>4008</seriesId>
     <title>COOL JAPAN</title>
   </series>
   <series>
-    <count>30</count>
+    <count>31</count>
     <uniqueId>67d2ae7ac69fb919</uniqueId>
-    <lastAiring>2021-03-03T23:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-04T01:20:48.455Z</lastUpload>
+    <lastAiring>2021-03-10T23:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-11T01:03:53.900Z</lastUpload>
     <seriesId>2029</seriesId>
     <title>Core Kyoto</title>
   </series>
   <series>
-    <count>16</count>
+    <count>17</count>
     <uniqueId>582ad0f8b7805a6b</uniqueId>
-    <lastAiring>2021-02-28T00:40:00.000Z</lastAiring>
-    <lastUpload>2021-02-28T01:43:35.693Z</lastUpload>
+    <lastAiring>2021-03-07T00:40:00.000Z</lastAiring>
+    <lastUpload>2021-03-07T01:47:44.595Z</lastUpload>
     <seriesId>6024</seriesId>
     <title>Core Kyoto mini</title>
   </series>
@@ -187,10 +179,10 @@
     <title>Covid-19: Medical Frontiers</title>
   </series>
   <series>
-    <count>16</count>
+    <count>18</count>
     <uniqueId>46311af43d5442f3</uniqueId>
-    <lastAiring>2021-03-03T15:40:00.000Z</lastAiring>
-    <lastUpload>2021-03-03T16:16:27.472Z</lastUpload>
+    <lastAiring>2021-03-10T15:40:00.000Z</lastAiring>
+    <lastUpload>2021-03-10T16:16:29.884Z</lastUpload>
     <seriesId>2076,2083,2084,6036</seriesId>
     <title>Culture Crossroads</title>
   </series>
@@ -203,10 +195,10 @@
     <title>CYCLE AROUND JAPAN</title>
   </series>
   <series>
-    <count>16</count>
+    <count>17</count>
     <uniqueId>054ab52e36a50c36</uniqueId>
-    <lastAiring>2021-03-04T14:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-04T15:52:33.424Z</lastUpload>
+    <lastAiring>2021-03-11T20:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-11T21:59:15.455Z</lastUpload>
     <seriesId>2070</seriesId>
     <title>CYCLE AROUND JAPAN  Highlights</title>
   </series>
@@ -227,10 +219,10 @@
     <title>DEEPER LOOK from New York</title>
   </series>
   <series>
-    <count>12</count>
+    <count>13</count>
     <uniqueId>93f1898b227dbd5d</uniqueId>
-    <lastAiring>2021-03-04T00:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-04T02:10:59.771Z</lastUpload>
+    <lastAiring>2021-03-11T00:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-11T03:27:45.436Z</lastUpload>
     <seriesId>2046</seriesId>
     <title>DESIGN TALKS plus</title>
   </series>
@@ -243,26 +235,26 @@
     <title>Dig More Japan</title>
   </series>
   <series>
-    <count>32</count>
+    <count>34</count>
     <uniqueId>4562406e38a4085a</uniqueId>
-    <lastAiring>2021-03-05T14:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-05T16:15:35.167Z</lastUpload>
+    <lastAiring>2021-03-12T14:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-12T17:08:23.474Z</lastUpload>
     <seriesId>2019</seriesId>
     <title>Dining with the Chef</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>2bd1ba9a5a78145f</uniqueId>
-    <lastAiring>2021-03-04T22:55:00.000Z</lastAiring>
-    <lastUpload>2021-03-04T23:20:24.873Z</lastUpload>
+    <lastAiring>2021-03-11T04:55:00.000Z</lastAiring>
+    <lastUpload>2021-03-11T05:19:31.088Z</lastUpload>
     <seriesId>6031</seriesId>
     <title>Dining with the Chef mini</title>
   </series>
   <series>
-    <count>145</count>
+    <count>151</count>
     <uniqueId>07d8499767117509</uniqueId>
-    <lastAiring>2021-03-05T07:15:00.000Z</lastAiring>
-    <lastUpload>2021-03-05T07:54:47.644Z</lastUpload>
+    <lastAiring>2021-03-12T07:15:00.000Z</lastAiring>
+    <lastUpload>2021-03-12T08:06:34.441Z</lastUpload>
     <seriesId>2058</seriesId>
     <title>Direct Talk</title>
   </series>
@@ -275,18 +267,18 @@
     <title>Doctor's Insight</title>
   </series>
   <series>
-    <count>16</count>
+    <count>17</count>
     <uniqueId>3181d5ae26726a28</uniqueId>
-    <lastAiring>2021-03-02T01:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-02T02:55:56.941Z</lastUpload>
+    <lastAiring>2021-03-09T01:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-09T03:32:56.879Z</lastUpload>
     <seriesId>4026</seriesId>
     <title>Document 72 Hours</title>
   </series>
   <series>
-    <count>16</count>
+    <count>17</count>
     <uniqueId>5d6cd359adade3e0</uniqueId>
-    <lastAiring>2021-02-28T11:50:00.000Z</lastAiring>
-    <lastUpload>2021-02-28T12:51:33.245Z</lastUpload>
+    <lastAiring>2021-03-07T11:50:00.000Z</lastAiring>
+    <lastUpload>2021-03-07T12:17:37.580Z</lastUpload>
     <seriesId>2075</seriesId>
     <title>Doki Doki! NHK WORLD-JAPAN</title>
   </series>
@@ -307,10 +299,10 @@
     <title>Dranspotters #5 Nishikigoi</title>
   </series>
   <series>
-    <count>16</count>
+    <count>19</count>
     <uniqueId>b60ca341c528e0e4</uniqueId>
-    <lastAiring>2021-02-27T04:55:00.000Z</lastAiring>
-    <lastUpload>2021-02-27T05:12:28.398Z</lastUpload>
+    <lastAiring>2021-03-13T04:55:00.000Z</lastAiring>
+    <lastUpload>2021-03-13T08:18:54.462Z</lastUpload>
     <seriesId>6022</seriesId>
     <title>Easy Japanese</title>
   </series>
@@ -323,10 +315,10 @@
     <title>Easy Japanese for Work</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>8bc137fd12f759b5</uniqueId>
-    <lastAiring>2021-02-21T00:37:00.000Z</lastAiring>
-    <lastUpload>2021-02-21T00:51:35.327Z</lastUpload>
+    <lastAiring>2021-03-07T00:37:00.000Z</lastAiring>
+    <lastUpload>2021-03-07T00:47:17.150Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>Easy Travel Japanese</title>
   </series>
@@ -373,8 +365,8 @@
   <series>
     <count>16</count>
     <uniqueId>3ade7fb84e8cc130</uniqueId>
-    <lastAiring>2021-02-21T01:40:00.000Z</lastAiring>
-    <lastUpload>2021-02-21T02:51:10.108Z</lastUpload>
+    <lastAiring>2021-03-12T04:20:00.000Z</lastAiring>
+    <lastUpload>2021-03-12T04:51:56.652Z</lastUpload>
     <seriesId>6101</seriesId>
     <title>Four Seasons in Japan</title>
   </series>
@@ -395,10 +387,10 @@
     <title>GATTEN!</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>c1616c758db95ac6</uniqueId>
-    <lastAiring>2021-01-02T04:10:00.000Z</lastAiring>
-    <lastUpload>2021-01-06T14:32:46.832Z</lastUpload>
+    <lastAiring>2021-03-06T04:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-06T07:11:00.081Z</lastUpload>
     <seriesId>5001</seriesId>
     <title>GATTEN!</title>
   </series>
@@ -417,6 +409,14 @@
     <lastUpload>2021-01-30T10:18:53.328Z</lastUpload>
     <seriesId>2047</seriesId>
     <title>GLOBAL AGENDA</title>
+  </series>
+  <series>
+    <count>2</count>
+    <uniqueId>997cdf9299ef0529</uniqueId>
+    <lastAiring>2021-03-12T04:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-12T06:13:17.025Z</lastUpload>
+    <seriesId>2067</seriesId>
+    <title>GRAND SUMO</title>
   </series>
   <series>
     <count>23</count>
@@ -467,10 +467,10 @@
     <title>Home Sweet Tokyo</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>810a4b40916c42c4</uniqueId>
-    <lastAiring>2021-02-21T00:10:00.000Z</lastAiring>
-    <lastUpload>2021-02-21T01:30:00.391Z</lastUpload>
+    <lastAiring>2021-03-07T00:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-07T01:36:55.199Z</lastUpload>
     <seriesId>5003</seriesId>
     <title>Hometown Stories</title>
   </series>
@@ -483,10 +483,10 @@
     <title>Human Security in the COVID-19 Era</title>
   </series>
   <series>
-    <count>12</count>
+    <count>13</count>
     <uniqueId>30aa2c9c765292e1</uniqueId>
-    <lastAiring>2021-02-21T16:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-21T23:02:58.182Z</lastUpload>
+    <lastAiring>2021-03-07T16:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-07T17:26:05.725Z</lastUpload>
     <seriesId>6206</seriesId>
     <title>Inspiring Landscapes</title>
   </series>
@@ -507,10 +507,10 @@
     <title>J-FLICKS</title>
   </series>
   <series>
-    <count>7</count>
+    <count>8</count>
     <uniqueId>f03694b92087f911</uniqueId>
-    <lastAiring>2021-02-14T15:10:00.000Z</lastAiring>
-    <lastUpload>2021-02-15T02:59:41.244Z</lastUpload>
+    <lastAiring>2021-03-07T15:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-07T16:36:36.220Z</lastUpload>
     <seriesId>2004</seriesId>
     <title>J-MELO</title>
   </series>
@@ -531,10 +531,10 @@
     <title>Japan Lost and Found</title>
   </series>
   <series>
-    <count>15</count>
+    <count>16</count>
     <uniqueId>3ff887cb76b1a490</uniqueId>
-    <lastAiring>2021-03-04T15:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-04T18:27:24.979Z</lastUpload>
+    <lastAiring>2021-03-11T15:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-11T20:23:02.777Z</lastUpload>
     <seriesId>2049</seriesId>
     <title>Japan Railway Journal</title>
   </series>
@@ -547,10 +547,10 @@
     <title>JAPAN SPORTSCOPE</title>
   </series>
   <series>
-    <count>16</count>
+    <count>17</count>
     <uniqueId>fb3ddf5a1a053dcd</uniqueId>
-    <lastAiring>2021-03-03T15:45:00.000Z</lastAiring>
-    <lastUpload>2021-03-03T16:38:21.485Z</lastUpload>
+    <lastAiring>2021-03-10T15:45:00.000Z</lastAiring>
+    <lastUpload>2021-03-10T16:27:56.190Z</lastUpload>
     <seriesId>2072</seriesId>
     <title>Japan's Top Inventions</title>
   </series>
@@ -563,26 +563,26 @@
     <title>Japan-easy</title>
   </series>
   <series>
-    <count>13</count>
+    <count>14</count>
     <uniqueId>f2fee2555c450616</uniqueId>
-    <lastAiring>2021-02-21T02:40:00.000Z</lastAiring>
-    <lastUpload>2021-02-22T02:58:17.379Z</lastUpload>
+    <lastAiring>2021-03-08T02:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-08T03:40:25.533Z</lastUpload>
     <seriesId>6200</seriesId>
     <title>JAPANGLE</title>
   </series>
   <series>
-    <count>16</count>
+    <count>17</count>
     <uniqueId>845116d579af2806</uniqueId>
-    <lastAiring>2021-03-02T14:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-02T16:17:26.168Z</lastUpload>
+    <lastAiring>2021-03-09T14:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-09T17:28:07.556Z</lastUpload>
     <seriesId>2032</seriesId>
     <title>Japanology Plus</title>
   </series>
   <series>
-    <count>11</count>
+    <count>14</count>
     <uniqueId>59faa2d1f7a22f19</uniqueId>
-    <lastAiring>2021-03-06T00:55:00.000Z</lastAiring>
-    <lastUpload>2021-03-06T01:09:50.249Z</lastUpload>
+    <lastAiring>2021-03-06T18:55:00.000Z</lastAiring>
+    <lastUpload>2021-03-06T19:12:17.181Z</lastUpload>
     <seriesId>6032</seriesId>
     <title>Japanology Plus mini</title>
   </series>
@@ -611,10 +611,10 @@
     <title>KABUKI KOOL</title>
   </series>
   <series>
-    <count>10</count>
+    <count>11</count>
     <uniqueId>25a805bf2ec43458</uniqueId>
-    <lastAiring>2021-03-05T00:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-05T03:03:12.807Z</lastUpload>
+    <lastAiring>2021-03-12T00:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-12T02:49:34.180Z</lastUpload>
     <seriesId>2025</seriesId>
     <title>Kawaii International</title>
   </series>
@@ -627,18 +627,18 @@
     <title>Kiyo in Kyoto: 3min</title>
   </series>
   <series>
-    <count>17</count>
+    <count>18</count>
     <uniqueId>0fb6afa0f420e9e6</uniqueId>
-    <lastAiring>2021-03-06T02:40:00.000Z</lastAiring>
-    <lastUpload>2021-03-06T04:08:35.117Z</lastUpload>
+    <lastAiring>2021-03-13T02:40:00.000Z</lastAiring>
+    <lastUpload>2021-03-13T06:50:51.793Z</lastUpload>
     <seriesId>6116</seriesId>
     <title>Little Charo</title>
   </series>
   <series>
-    <count>13</count>
+    <count>14</count>
     <uniqueId>2ac7100c81ee10d6</uniqueId>
-    <lastAiring>2021-03-04T04:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-04T05:34:10.125Z</lastUpload>
+    <lastAiring>2021-03-11T04:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-11T05:53:46.424Z</lastUpload>
     <seriesId>4023</seriesId>
     <title>Lunch ON!</title>
   </series>
@@ -657,6 +657,14 @@
     <lastUpload>2021-03-05T01:47:07.511Z</lastUpload>
     <seriesId>7000</seriesId>
     <title>Magical Journey FUKUSHIMA</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>d65bd3cf3d1e2c93</uniqueId>
+    <lastAiring>2021-03-08T23:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-09T01:09:50.096Z</lastUpload>
+    <seriesId>7000</seriesId>
+    <title>Magical Journey TOHOKU</title>
   </series>
   <series>
     <count>1</count>
@@ -715,10 +723,18 @@
     <title>Music for Tomorrow</title>
   </series>
   <series>
-    <count>16</count>
+    <count>1</count>
+    <uniqueId>0be9d1cbccabf2fa</uniqueId>
+    <lastAiring>2021-03-07T04:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-07T06:54:54.738Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>Myanmar: What Next?</title>
+  </series>
+  <series>
+    <count>17</count>
     <uniqueId>56ef83def0753222</uniqueId>
-    <lastAiring>2021-02-27T15:10:00.000Z</lastAiring>
-    <lastUpload>2021-02-27T18:17:38.237Z</lastUpload>
+    <lastAiring>2021-03-06T15:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-06T17:31:34.612Z</lastUpload>
     <seriesId>3016,4001</seriesId>
     <title>NHK Documentary</title>
   </series>
@@ -728,6 +744,14 @@
     <lastAiring>2021-02-27T01:10:00.000Z</lastAiring>
     <lastUpload>2021-02-27T04:11:34.449Z</lastUpload>
     <seriesId>3016</seriesId>
+    <title>NHK WORLD PRIME</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>db139dd04eec6893</uniqueId>
+    <lastAiring>2021-03-06T01:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-06T05:45:29.126Z</lastUpload>
+    <seriesId>5001</seriesId>
     <title>NHK WORLD PRIME</title>
   </series>
   <series>
@@ -779,10 +803,10 @@
     <title>Paprika  Let's dance!</title>
   </series>
   <series>
-    <count>16</count>
+    <count>18</count>
     <uniqueId>3bee8422e8005b98</uniqueId>
-    <lastAiring>2021-02-27T03:55:00.000Z</lastAiring>
-    <lastUpload>2021-02-27T04:18:15.965Z</lastUpload>
+    <lastAiring>2021-03-13T03:55:00.000Z</lastAiring>
+    <lastUpload>2021-03-13T06:38:46.789Z</lastUpload>
     <seriesId>6021</seriesId>
     <title>PythagoraSwitch mini</title>
   </series>
@@ -843,10 +867,10 @@
     <title>Saving Pristine Shores for Future Generations</title>
   </series>
   <series>
-    <count>16</count>
+    <count>17</count>
     <uniqueId>87b2998a16373792</uniqueId>
-    <lastAiring>2021-03-02T15:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-02T17:00:58.483Z</lastUpload>
+    <lastAiring>2021-03-09T15:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-09T17:22:01.112Z</lastUpload>
     <seriesId>2015</seriesId>
     <title>Science View</title>
   </series>
@@ -859,10 +883,10 @@
     <title>Searching for the Standing Boy of Nagasaki</title>
   </series>
   <series>
-    <count>16</count>
+    <count>17</count>
     <uniqueId>206e7d7b56906c70</uniqueId>
-    <lastAiring>2021-02-28T23:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-01T01:04:46.244Z</lastUpload>
+    <lastAiring>2021-03-07T23:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-08T01:14:05.049Z</lastUpload>
     <seriesId>2024</seriesId>
     <title>Seasoning the Seasons</title>
   </series>
@@ -883,10 +907,10 @@
     <title>Shuri Castle: Rebirth in 3D</title>
   </series>
   <series>
-    <count>6</count>
+    <count>7</count>
     <uniqueId>5ce8e3dcbf90e5b7</uniqueId>
-    <lastAiring>2021-03-03T01:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-03T02:56:20.448Z</lastUpload>
+    <lastAiring>2021-03-10T01:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-10T02:54:03.732Z</lastUpload>
     <seriesId>2037</seriesId>
     <title>Side by Side</title>
   </series>
@@ -923,10 +947,10 @@
     <title>SPIRIT OF JAPAN</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>b0ee8e6b5f5551b1</uniqueId>
-    <lastAiring>2021-02-27T14:10:00.000Z</lastAiring>
-    <lastUpload>2021-02-27T15:38:53.797Z</lastUpload>
+    <lastAiring>2021-03-11T23:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-12T01:56:01.321Z</lastUpload>
     <seriesId>7000</seriesId>
     <title>Spirit of Resilience</title>
   </series>
@@ -979,10 +1003,10 @@
     <title>The KYOTO CODE: Bamboo Boundaries</title>
   </series>
   <series>
-    <count>13</count>
+    <count>14</count>
     <uniqueId>aca3c5281f781918</uniqueId>
-    <lastAiring>2021-03-01T04:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-01T06:00:17.305Z</lastUpload>
+    <lastAiring>2021-03-08T04:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-08T06:30:54.334Z</lastUpload>
     <seriesId>4018</seriesId>
     <title>The Mark of Beauty</title>
   </series>
@@ -995,10 +1019,10 @@
     <title>The New Coronavirus in 3DCG</title>
   </series>
   <series>
-    <count>7</count>
+    <count>8</count>
     <uniqueId>ac0dc75327258b51</uniqueId>
-    <lastAiring>2021-02-14T01:10:00.000Z</lastAiring>
-    <lastUpload>2021-02-15T23:39:45.873Z</lastUpload>
+    <lastAiring>2021-03-07T01:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-07T03:11:26.106Z</lastUpload>
     <seriesId>4003</seriesId>
     <title>The Professionals</title>
   </series>
@@ -1115,26 +1139,26 @@
     <title>We're in This Together</title>
   </series>
   <series>
-    <count>14</count>
+    <count>15</count>
     <uniqueId>96934130ea8f6060</uniqueId>
-    <lastAiring>2021-02-21T23:15:00.000Z</lastAiring>
-    <lastUpload>2021-02-22T00:09:15.711Z</lastUpload>
+    <lastAiring>2021-03-07T23:15:00.000Z</lastAiring>
+    <lastUpload>2021-03-07T23:30:40.280Z</lastUpload>
     <seriesId>6033</seriesId>
     <title>We, in the Time of Corona</title>
   </series>
   <series>
-    <count>15</count>
+    <count>16</count>
     <uniqueId>4c42bed9def1d9d4</uniqueId>
-    <lastAiring>2021-03-01T01:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-01T02:49:33.692Z</lastUpload>
+    <lastAiring>2021-03-08T01:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-08T02:51:52.933Z</lastUpload>
     <seriesId>2087</seriesId>
     <title>Where We Call Home</title>
   </series>
   <series>
-    <count>16</count>
+    <count>17</count>
     <uniqueId>b2d48e71e072a1aa</uniqueId>
-    <lastAiring>2021-02-28T00:45:00.000Z</lastAiring>
-    <lastUpload>2021-02-28T01:56:16.568Z</lastUpload>
+    <lastAiring>2021-03-07T00:45:00.000Z</lastAiring>
+    <lastUpload>2021-03-07T02:02:24.943Z</lastUpload>
     <seriesId>2069</seriesId>
     <title>Wild Hokkaido!</title>
   </series>

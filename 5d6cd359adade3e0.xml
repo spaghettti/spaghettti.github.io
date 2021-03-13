@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.273Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:37.980Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
   <episode>
@@ -259,5 +259,21 @@
     <title>Doki Doki! NHK WORLD-JAPAN</title>
     <uploadedDate>2021-02-15T02:18:38.648Z</uploadedDate>
     <raw>https://mega.nz/folder/SIVABBaL#RDtDDH-sXXxHiyI0zL6oMw</raw>
+  </episode>
+  <episode>
+    <airingId>080</airingId>
+    <content/>
+    <description>This time we introduce "Ground Detective Simon Wallis," which reveals the mystery of whale fossils found in dry land. Simon Wallis, a Ground Detective and a professor, reveals from shaved ice dessert!</description>
+    <endDate>2021-03-07T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/apQAWZbT#DnYapCMXdNRTz-itMd-uzw</link>
+    <recordDateEnd>2021-03-07T11:55:27.634Z</recordDateEnd>
+    <recordDateStart>2021-03-07T11:49:20.059Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>bfc19c8f3b12ee5065f29669b8c16396ff5eb95d637946425c2409a8e6391225</sha256>
+    <startDate>2021-03-07T11:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2021-03-07T12:17:37.580Z</uploadedDate>
+    <raw>https://mega.nz/folder/ywIF0QoK#FNPo7jGIqTqyR-ycgI1NJQ</raw>
   </episode>
 </episodeList>

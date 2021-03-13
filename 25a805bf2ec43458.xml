@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.188Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:37.903Z</lastUpdated>
   <seriesId>25a805bf2ec43458</seriesId>
   <title>Kawaii International</title>
   <episode>
@@ -163,5 +163,21 @@
     <title>Kawaii International</title>
     <uploadedDate>2021-03-05T03:03:12.807Z</uploadedDate>
     <raw>https://mega.nz/folder/LwIEELYC#vAYYMHnbgzMfizirPiK_9A</raw>
+  </episode>
+  <episode>
+    <airingId>139</airingId>
+    <content>After a long run of 9 years on the air, Kawaii International is coming to an end. In this final episode, we will update you about Kawaii fans and communities around the globe. Our special guest, MASUDA Sebastian, joins us as we report on what the Kawaii community leaders and influencers are up to during COVID-19 pandemic.</content>
+    <description>For our very last show, Misha, RinRin, and MASUDA Sebastian discuss the future of Kawaii culture. Also, Kelly Eden and Rosalynn join online as special guests to share what Kawaii means to them.</description>
+    <endDate>2021-03-12T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/wboBkAiR#FSa4ws4eGLgsfIYZCY09bQ</link>
+    <recordDateEnd>2021-03-12T01:00:29.673Z</recordDateEnd>
+    <recordDateStart>2021-03-12T00:29:23.187Z</recordDateStart>
+    <seriesId>2025</seriesId>
+    <sha256>b71341ac1227d7f608499c4c44ff93e445760e5a0444481002ac23010802afdd</sha256>
+    <startDate>2021-03-12T00:30:00.000Z</startDate>
+    <subtitle>The Future of Kawaii is YOURS</subtitle>
+    <title>Kawaii International</title>
+    <uploadedDate>2021-03-12T02:49:34.180Z</uploadedDate>
+    <raw>https://mega.nz/folder/kho1laDQ#asGn9NfQ-9rNoaHAiGbL_A</raw>
   </episode>
 </episodeList>

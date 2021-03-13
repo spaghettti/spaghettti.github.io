@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.284Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:37.991Z</lastUpdated>
   <seriesId>4c42bed9def1d9d4</seriesId>
   <title>Where We Call Home</title>
   <episode>
@@ -243,5 +243,21 @@
     <title>Where We Call Home</title>
     <uploadedDate>2021-02-15T03:55:43.554Z</uploadedDate>
     <raw>https://mega.nz/folder/UJ5XwCzK#nWce11yUM4jvRQJG2GS_Xw</raw>
+  </episode>
+  <episode>
+    <airingId>030</airingId>
+    <content>On January 7, 2021, a state of emergency was once again declared for 11 prefectures in Japan in response to a dramatic increase in COVID-19 cases. How is the lingering pandemic affecting foreigners working in Japan? To find out, we speak online with four of the people we met in past episodes: an Italian employee of a pizza brick oven manufacturer, the chairman of the Sendai Vietnamese Association, a Russian staff member of a hot-spring hotel, and a Tokyo-based drum teacher from Cameroun.</content>
+    <description>As the coronavirus pandemic lingers on, we speak online with some of the people we met in past episodes to ask about the impact COVID-19 is having on their jobs, workplaces, and lives.</description>
+    <endDate>2021-03-08T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/JTBz0aBI#fHA-Gid6R0hCvjLUX-UskA</link>
+    <recordDateEnd>2021-03-08T02:00:22.626Z</recordDateEnd>
+    <recordDateStart>2021-03-08T01:29:22.888Z</recordDateStart>
+    <seriesId>2087</seriesId>
+    <sha256>7227fc9084c38f966bd59109120db1e78903db0ffdef652a01881309dda9ccf6</sha256>
+    <startDate>2021-03-08T01:30:00.000Z</startDate>
+    <subtitle>Working Under the Pandemic</subtitle>
+    <title>Where We Call Home</title>
+    <uploadedDate>2021-03-08T02:51:52.933Z</uploadedDate>
+    <raw>https://mega.nz/folder/sSJn1ArR#0oFjX-WRpZHF1LrjOvVZuQ</raw>
   </episode>
 </episodeList>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.262Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:37.969Z</lastUpdated>
   <seriesId>0fc6cd6b02dc8d5f</seriesId>
   <title>Anime Supernova</title>
   <episode>
@@ -83,5 +83,21 @@
     <title>Anime Supernova</title>
     <uploadedDate>2021-01-23T02:03:57.782Z</uploadedDate>
     <raw>https://mega.nz/folder/HrAyEZLb#_oyjS17Z-rB48L4SBJeBzQ</raw>
+  </episode>
+  <episode>
+    <airingId>049</airingId>
+    <content>Murata Tomoyasu is a highly-acclaimed stop-motion animation artist known for his warm puppets and elaborate productions. The "life and death" of humans has been a focus in Murata's work ever since he was a student. This time, we bring the entirety of "A Branch of a Pine Is Tied Up," Murata's masterpiece based on the Great East Japan Earthquake.</content>
+    <description>Acclaimed stop-motion animator Murata Tomoyasu is known for his warm puppet designs. Enjoy the entirety of "A Branch of Pine Is Tied Up," Murata's masterpiece based on the Great East Japan Earthquake.</description>
+    <endDate>2021-03-12T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/LphSzTpa#Wf5wcTuhmlusQLLAhwR7TQ</link>
+    <recordDateEnd>2021-03-12T16:00:28.636Z</recordDateEnd>
+    <recordDateStart>2021-03-12T15:29:22.758Z</recordDateStart>
+    <seriesId>2065</seriesId>
+    <sha256>d81028f9c96518e4ab0be62fac3e74896126f6300e5e9078fa2fe1d555b659b7</sha256>
+    <startDate>2021-03-12T15:30:00.000Z</startDate>
+    <subtitle>Watch Murata Tomoyasu's "A Branch of a Pine Is Tied Up" in Full!</subtitle>
+    <title>Anime Supernova</title>
+    <uploadedDate>2021-03-12T17:47:53.731Z</uploadedDate>
+    <raw>https://mega.nz/folder/v95UGSLR#EhiDVBSPwHs5peOUsV9jSA</raw>
   </episode>
 </episodeList>

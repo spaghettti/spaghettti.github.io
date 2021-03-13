@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.324Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.033Z</lastUpdated>
   <seriesId>2ac7100c81ee10d6</seriesId>
   <title>Lunch ON!</title>
   <episode>
@@ -100,6 +100,22 @@ In another segment, we visit the southernmost prefecture of Okinawa to meet a pu
     <title>Lunch ON!</title>
     <uploadedDate>2021-03-04T05:34:10.125Z</uploadedDate>
     <raw>https://mega.nz/folder/EswBUaiJ#K-h0Ag3qmHrsVjwfbtyUuw</raw>
+  </episode>
+  <episode>
+    <airingId>146</airingId>
+    <content>We visit a factory in Miyagi Prefecture, northern Japan that processes and cans seafood. Their most popular product is their canned mackerel. Every morning, 2 purchasers from the factory go to the market to buy fresh mackerel, which are canned that very day. Although their factory was destroyed by the terrible tsunami of 2011, their mackerel cans miraculously survived, and that story gave the local people hope right when they were faced with the daunting task of rebuilding their community.</content>
+    <description>We visit a factory in Miyagi, northern Japan that processes and cans seafood. Their most popular product is their canned mackerel, which the locals call "the can of hope." Tune in to find out why.</description>
+    <endDate>2021-03-11T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/P982ERxY#UG9c4aklmbaXpbFmqUDlEg</link>
+    <recordDateEnd>2021-03-11T04:55:29.547Z</recordDateEnd>
+    <recordDateStart>2021-03-11T04:29:20.005Z</recordDateStart>
+    <seriesId>4023</seriesId>
+    <sha256>fb34272f9255f1ef7d2426dc35d807e83fd3c26055976a5651b2cd221ed87b50</sha256>
+    <startDate>2021-03-11T04:30:00.000Z</startDate>
+    <subtitle>Lunchtime at the Canning Factory</subtitle>
+    <title>Lunch ON!</title>
+    <uploadedDate>2021-03-11T05:53:46.424Z</uploadedDate>
+    <raw>https://mega.nz/folder/D45CyTRB#ZGrzeBtdlqSELkPK5HwxrQ</raw>
   </episode>
   <episode>
     <airingId>148</airingId>

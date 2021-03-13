@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.352Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.063Z</lastUpdated>
   <seriesId>582ad0f8b7805a6b</seriesId>
   <title>Core Kyoto mini</title>
   <episode>
@@ -195,6 +195,22 @@
     <title>Core Kyoto mini</title>
     <uploadedDate>2021-02-28T01:43:35.693Z</uploadedDate>
     <raw>https://mega.nz/folder/tN8DCAqQ#g_A_SZqQvnf17zsl2PcXYQ</raw>
+  </episode>
+  <episode>
+    <airingId>015</airingId>
+    <content/>
+    <description>Raden, the iridescent sheen of Kyoto craftwork. Dive deep into the ancient capital, still innovative 1,200 years after its foundation.</description>
+    <endDate>2021-03-07T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/bhwVQCKA#M1WF8FSBW2fKK6RLyJl6sg</link>
+    <recordDateEnd>2021-03-07T00:45:23.561Z</recordDateEnd>
+    <recordDateStart>2021-03-07T00:39:20.017Z</recordDateStart>
+    <seriesId>6024</seriesId>
+    <sha256>19708cd116f07bbcb3fcc2b6b8305aa07e663036aae2eaa716b7235f32bf04e9</sha256>
+    <startDate>2021-03-07T00:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Core Kyoto mini</title>
+    <uploadedDate>2021-03-07T01:47:44.595Z</uploadedDate>
+    <raw>https://mega.nz/folder/ytpFVSpb#RRwtUjWZJYJOYRTg3xM6sw</raw>
   </episode>
   <episode>
     <airingId>017</airingId>

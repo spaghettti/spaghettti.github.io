@@ -1,21 +1,13 @@
 {
-  "lastUpdated": "2021-03-06T04:10:03.429Z",
+  "lastUpdated": "2021-03-13T08:34:38.148Z",
   "series": [
     {
-      "count": 21,
+      "count": 22,
       "uniqueId": "c656328a0f33bc89",
-      "lastAiring": "2021-03-03T00:30:00.000Z",
-      "lastUpload": "2021-03-03T01:54:25.011Z",
+      "lastAiring": "2021-03-10T00:30:00.000Z",
+      "lastUpload": "2021-03-10T01:14:15.544Z",
       "seriesId": "3019",
       "title": "15 Minutes"
-    },
-    {
-      "count": 1,
-      "uniqueId": "13e432cf78dd96b8",
-      "lastAiring": "2020-12-25T04:30:00.000Z",
-      "lastUpload": "2020-12-25T15:40:48.025Z",
-      "seriesId": "2067",
-      "title": "2020 GRAND SUMO Review"
     },
     {
       "count": 2,
@@ -58,10 +50,10 @@
       "title": "ANIMATION X PARALYMPIC"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "0fc6cd6b02dc8d5f",
-      "lastAiring": "2021-01-23T00:10:00.000Z",
-      "lastUpload": "2021-01-23T02:03:57.782Z",
+      "lastAiring": "2021-03-12T15:30:00.000Z",
+      "lastUpload": "2021-03-12T17:47:53.731Z",
       "seriesId": "2065",
       "title": "Anime Supernova"
     },
@@ -74,10 +66,10 @@
       "title": "Art is trash without social impact"
     },
     {
-      "count": 16,
+      "count": 17,
       "uniqueId": "b6a4aecdfcf53169",
-      "lastAiring": "2021-03-05T01:30:00.000Z",
-      "lastUpload": "2021-03-05T04:14:44.997Z",
+      "lastAiring": "2021-03-12T01:30:00.000Z",
+      "lastUpload": "2021-03-12T04:10:19.500Z",
       "seriesId": "2022",
       "title": "Asia Insight"
     },
@@ -106,18 +98,18 @@
       "title": "BEGIN Japanology mini"
     },
     {
-      "count": 10,
+      "count": 11,
       "uniqueId": "e5a5b6a12ffc2a6e",
-      "lastAiring": "2021-03-01T00:30:00.000Z",
-      "lastUpload": "2021-03-01T01:42:00.771Z",
+      "lastAiring": "2021-03-08T00:30:00.000Z",
+      "lastUpload": "2021-03-08T01:54:34.981Z",
       "seriesId": "2077",
       "title": "BENTO EXPO"
     },
     {
-      "count": 20,
+      "count": 21,
       "uniqueId": "4365cf84c14911e8",
-      "lastAiring": "2021-02-20T14:10:00.000Z",
-      "lastUpload": "2021-02-20T15:44:41.505Z",
+      "lastAiring": "2021-03-06T14:10:00.000Z",
+      "lastUpload": "2021-03-06T15:39:23.263Z",
       "seriesId": "2074,3004",
       "title": "BIZ STREAM"
     },
@@ -154,26 +146,26 @@
       "title": "Ceramic Treasures"
     },
     {
-      "count": 10,
+      "count": 11,
       "uniqueId": "be55ba93c748813c",
-      "lastAiring": "2021-02-27T04:10:00.000Z",
-      "lastUpload": "2021-02-27T07:57:50.208Z",
+      "lastAiring": "2021-03-13T04:10:00.000Z",
+      "lastUpload": "2021-03-13T07:37:50.102Z",
       "seriesId": "4008",
       "title": "COOL JAPAN"
     },
     {
-      "count": 30,
+      "count": 31,
       "uniqueId": "67d2ae7ac69fb919",
-      "lastAiring": "2021-03-03T23:30:00.000Z",
-      "lastUpload": "2021-03-04T01:20:48.455Z",
+      "lastAiring": "2021-03-10T23:30:00.000Z",
+      "lastUpload": "2021-03-11T01:03:53.900Z",
       "seriesId": "2029",
       "title": "Core Kyoto"
     },
     {
-      "count": 16,
+      "count": 17,
       "uniqueId": "582ad0f8b7805a6b",
-      "lastAiring": "2021-02-28T00:40:00.000Z",
-      "lastUpload": "2021-02-28T01:43:35.693Z",
+      "lastAiring": "2021-03-07T00:40:00.000Z",
+      "lastUpload": "2021-03-07T01:47:44.595Z",
       "seriesId": "6024",
       "title": "Core Kyoto mini"
     },
@@ -186,10 +178,10 @@
       "title": "Covid-19: Medical Frontiers"
     },
     {
-      "count": 16,
+      "count": 18,
       "uniqueId": "46311af43d5442f3",
-      "lastAiring": "2021-03-03T15:40:00.000Z",
-      "lastUpload": "2021-03-03T16:16:27.472Z",
+      "lastAiring": "2021-03-10T15:40:00.000Z",
+      "lastUpload": "2021-03-10T16:16:29.884Z",
       "seriesId": "2076,2083,2084,6036",
       "title": "Culture Crossroads"
     },
@@ -202,10 +194,10 @@
       "title": "CYCLE AROUND JAPAN"
     },
     {
-      "count": 16,
+      "count": 17,
       "uniqueId": "054ab52e36a50c36",
-      "lastAiring": "2021-03-04T14:30:00.000Z",
-      "lastUpload": "2021-03-04T15:52:33.424Z",
+      "lastAiring": "2021-03-11T20:30:00.000Z",
+      "lastUpload": "2021-03-11T21:59:15.455Z",
       "seriesId": "2070",
       "title": "CYCLE AROUND JAPAN  Highlights"
     },
@@ -226,10 +218,10 @@
       "title": "DEEPER LOOK from New York"
     },
     {
-      "count": 12,
+      "count": 13,
       "uniqueId": "93f1898b227dbd5d",
-      "lastAiring": "2021-03-04T00:30:00.000Z",
-      "lastUpload": "2021-03-04T02:10:59.771Z",
+      "lastAiring": "2021-03-11T00:30:00.000Z",
+      "lastUpload": "2021-03-11T03:27:45.436Z",
       "seriesId": "2046",
       "title": "DESIGN TALKS plus"
     },
@@ -242,26 +234,26 @@
       "title": "Dig More Japan"
     },
     {
-      "count": 32,
+      "count": 34,
       "uniqueId": "4562406e38a4085a",
-      "lastAiring": "2021-03-05T14:30:00.000Z",
-      "lastUpload": "2021-03-05T16:15:35.167Z",
+      "lastAiring": "2021-03-12T14:30:00.000Z",
+      "lastUpload": "2021-03-12T17:08:23.474Z",
       "seriesId": "2019",
       "title": "Dining with the Chef"
     },
     {
-      "count": 4,
+      "count": 5,
       "uniqueId": "2bd1ba9a5a78145f",
-      "lastAiring": "2021-03-04T22:55:00.000Z",
-      "lastUpload": "2021-03-04T23:20:24.873Z",
+      "lastAiring": "2021-03-11T04:55:00.000Z",
+      "lastUpload": "2021-03-11T05:19:31.088Z",
       "seriesId": "6031",
       "title": "Dining with the Chef mini"
     },
     {
-      "count": 145,
+      "count": 151,
       "uniqueId": "07d8499767117509",
-      "lastAiring": "2021-03-05T07:15:00.000Z",
-      "lastUpload": "2021-03-05T07:54:47.644Z",
+      "lastAiring": "2021-03-12T07:15:00.000Z",
+      "lastUpload": "2021-03-12T08:06:34.441Z",
       "seriesId": "2058",
       "title": "Direct Talk"
     },
@@ -274,18 +266,18 @@
       "title": "Doctor's Insight"
     },
     {
-      "count": 16,
+      "count": 17,
       "uniqueId": "3181d5ae26726a28",
-      "lastAiring": "2021-03-02T01:30:00.000Z",
-      "lastUpload": "2021-03-02T02:55:56.941Z",
+      "lastAiring": "2021-03-09T01:30:00.000Z",
+      "lastUpload": "2021-03-09T03:32:56.879Z",
       "seriesId": "4026",
       "title": "Document 72 Hours"
     },
     {
-      "count": 16,
+      "count": 17,
       "uniqueId": "5d6cd359adade3e0",
-      "lastAiring": "2021-02-28T11:50:00.000Z",
-      "lastUpload": "2021-02-28T12:51:33.245Z",
+      "lastAiring": "2021-03-07T11:50:00.000Z",
+      "lastUpload": "2021-03-07T12:17:37.580Z",
       "seriesId": "2075",
       "title": "Doki Doki! NHK WORLD-JAPAN"
     },
@@ -306,10 +298,10 @@
       "title": "Dranspotters #5 Nishikigoi"
     },
     {
-      "count": 16,
+      "count": 19,
       "uniqueId": "b60ca341c528e0e4",
-      "lastAiring": "2021-02-27T04:55:00.000Z",
-      "lastUpload": "2021-02-27T05:12:28.398Z",
+      "lastAiring": "2021-03-13T04:55:00.000Z",
+      "lastUpload": "2021-03-13T08:18:54.462Z",
       "seriesId": "6022",
       "title": "Easy Japanese"
     },
@@ -322,10 +314,10 @@
       "title": "Easy Japanese for Work"
     },
     {
-      "count": 4,
+      "count": 5,
       "uniqueId": "8bc137fd12f759b5",
-      "lastAiring": "2021-02-21T00:37:00.000Z",
-      "lastUpload": "2021-02-21T00:51:35.327Z",
+      "lastAiring": "2021-03-07T00:37:00.000Z",
+      "lastUpload": "2021-03-07T00:47:17.150Z",
       "seriesId": "3004",
       "title": "Easy Travel Japanese"
     },
@@ -372,8 +364,8 @@
     {
       "count": 16,
       "uniqueId": "3ade7fb84e8cc130",
-      "lastAiring": "2021-02-21T01:40:00.000Z",
-      "lastUpload": "2021-02-21T02:51:10.108Z",
+      "lastAiring": "2021-03-12T04:20:00.000Z",
+      "lastUpload": "2021-03-12T04:51:56.652Z",
       "seriesId": "6101",
       "title": "Four Seasons in Japan"
     },
@@ -394,10 +386,10 @@
       "title": "GATTEN!"
     },
     {
-      "count": 1,
+      "count": 2,
       "uniqueId": "c1616c758db95ac6",
-      "lastAiring": "2021-01-02T04:10:00.000Z",
-      "lastUpload": "2021-01-06T14:32:46.832Z",
+      "lastAiring": "2021-03-06T04:10:00.000Z",
+      "lastUpload": "2021-03-06T07:11:00.081Z",
       "seriesId": "5001",
       "title": "GATTEN!"
     },
@@ -416,6 +408,14 @@
       "lastUpload": "2021-01-30T10:18:53.328Z",
       "seriesId": "2047",
       "title": "GLOBAL AGENDA"
+    },
+    {
+      "count": 2,
+      "uniqueId": "997cdf9299ef0529",
+      "lastAiring": "2021-03-12T04:30:00.000Z",
+      "lastUpload": "2021-03-12T06:13:17.025Z",
+      "seriesId": "2067",
+      "title": "GRAND SUMO"
     },
     {
       "count": 23,
@@ -466,10 +466,10 @@
       "title": "Home Sweet Tokyo"
     },
     {
-      "count": 11,
+      "count": 12,
       "uniqueId": "810a4b40916c42c4",
-      "lastAiring": "2021-02-21T00:10:00.000Z",
-      "lastUpload": "2021-02-21T01:30:00.391Z",
+      "lastAiring": "2021-03-07T00:10:00.000Z",
+      "lastUpload": "2021-03-07T01:36:55.199Z",
       "seriesId": "5003",
       "title": "Hometown Stories"
     },
@@ -482,10 +482,10 @@
       "title": "Human Security in the COVID-19 Era"
     },
     {
-      "count": 12,
+      "count": 13,
       "uniqueId": "30aa2c9c765292e1",
-      "lastAiring": "2021-02-21T16:30:00.000Z",
-      "lastUpload": "2021-02-21T23:02:58.182Z",
+      "lastAiring": "2021-03-07T16:30:00.000Z",
+      "lastUpload": "2021-03-07T17:26:05.725Z",
       "seriesId": "6206",
       "title": "Inspiring Landscapes"
     },
@@ -506,10 +506,10 @@
       "title": "J-FLICKS"
     },
     {
-      "count": 7,
+      "count": 8,
       "uniqueId": "f03694b92087f911",
-      "lastAiring": "2021-02-14T15:10:00.000Z",
-      "lastUpload": "2021-02-15T02:59:41.244Z",
+      "lastAiring": "2021-03-07T15:10:00.000Z",
+      "lastUpload": "2021-03-07T16:36:36.220Z",
       "seriesId": "2004",
       "title": "J-MELO"
     },
@@ -530,10 +530,10 @@
       "title": "Japan Lost and Found"
     },
     {
-      "count": 15,
+      "count": 16,
       "uniqueId": "3ff887cb76b1a490",
-      "lastAiring": "2021-03-04T15:30:00.000Z",
-      "lastUpload": "2021-03-04T18:27:24.979Z",
+      "lastAiring": "2021-03-11T15:30:00.000Z",
+      "lastUpload": "2021-03-11T20:23:02.777Z",
       "seriesId": "2049",
       "title": "Japan Railway Journal"
     },
@@ -546,10 +546,10 @@
       "title": "JAPAN SPORTSCOPE"
     },
     {
-      "count": 16,
+      "count": 17,
       "uniqueId": "fb3ddf5a1a053dcd",
-      "lastAiring": "2021-03-03T15:45:00.000Z",
-      "lastUpload": "2021-03-03T16:38:21.485Z",
+      "lastAiring": "2021-03-10T15:45:00.000Z",
+      "lastUpload": "2021-03-10T16:27:56.190Z",
       "seriesId": "2072",
       "title": "Japan's Top Inventions"
     },
@@ -562,26 +562,26 @@
       "title": "Japan-easy"
     },
     {
-      "count": 13,
+      "count": 14,
       "uniqueId": "f2fee2555c450616",
-      "lastAiring": "2021-02-21T02:40:00.000Z",
-      "lastUpload": "2021-02-22T02:58:17.379Z",
+      "lastAiring": "2021-03-08T02:30:00.000Z",
+      "lastUpload": "2021-03-08T03:40:25.533Z",
       "seriesId": "6200",
       "title": "JAPANGLE"
     },
     {
-      "count": 16,
+      "count": 17,
       "uniqueId": "845116d579af2806",
-      "lastAiring": "2021-03-02T14:30:00.000Z",
-      "lastUpload": "2021-03-02T16:17:26.168Z",
+      "lastAiring": "2021-03-09T14:30:00.000Z",
+      "lastUpload": "2021-03-09T17:28:07.556Z",
       "seriesId": "2032",
       "title": "Japanology Plus"
     },
     {
-      "count": 11,
+      "count": 14,
       "uniqueId": "59faa2d1f7a22f19",
-      "lastAiring": "2021-03-06T00:55:00.000Z",
-      "lastUpload": "2021-03-06T01:09:50.249Z",
+      "lastAiring": "2021-03-06T18:55:00.000Z",
+      "lastUpload": "2021-03-06T19:12:17.181Z",
       "seriesId": "6032",
       "title": "Japanology Plus mini"
     },
@@ -610,10 +610,10 @@
       "title": "KABUKI KOOL"
     },
     {
-      "count": 10,
+      "count": 11,
       "uniqueId": "25a805bf2ec43458",
-      "lastAiring": "2021-03-05T00:30:00.000Z",
-      "lastUpload": "2021-03-05T03:03:12.807Z",
+      "lastAiring": "2021-03-12T00:30:00.000Z",
+      "lastUpload": "2021-03-12T02:49:34.180Z",
       "seriesId": "2025",
       "title": "Kawaii International"
     },
@@ -626,18 +626,18 @@
       "title": "Kiyo in Kyoto: 3min"
     },
     {
-      "count": 17,
+      "count": 18,
       "uniqueId": "0fb6afa0f420e9e6",
-      "lastAiring": "2021-03-06T02:40:00.000Z",
-      "lastUpload": "2021-03-06T04:08:35.117Z",
+      "lastAiring": "2021-03-13T02:40:00.000Z",
+      "lastUpload": "2021-03-13T06:50:51.793Z",
       "seriesId": "6116",
       "title": "Little Charo"
     },
     {
-      "count": 13,
+      "count": 14,
       "uniqueId": "2ac7100c81ee10d6",
-      "lastAiring": "2021-03-04T04:30:00.000Z",
-      "lastUpload": "2021-03-04T05:34:10.125Z",
+      "lastAiring": "2021-03-11T04:30:00.000Z",
+      "lastUpload": "2021-03-11T05:53:46.424Z",
       "seriesId": "4023",
       "title": "Lunch ON!"
     },
@@ -656,6 +656,14 @@
       "lastUpload": "2021-03-05T01:47:07.511Z",
       "seriesId": "7000",
       "title": "Magical Journey FUKUSHIMA"
+    },
+    {
+      "count": 1,
+      "uniqueId": "d65bd3cf3d1e2c93",
+      "lastAiring": "2021-03-08T23:30:00.000Z",
+      "lastUpload": "2021-03-09T01:09:50.096Z",
+      "seriesId": "7000",
+      "title": "Magical Journey TOHOKU"
     },
     {
       "count": 1,
@@ -714,10 +722,18 @@
       "title": "Music for Tomorrow"
     },
     {
-      "count": 16,
+      "count": 1,
+      "uniqueId": "0be9d1cbccabf2fa",
+      "lastAiring": "2021-03-07T04:10:00.000Z",
+      "lastUpload": "2021-03-07T06:54:54.738Z",
+      "seriesId": "3004",
+      "title": "Myanmar: What Next?"
+    },
+    {
+      "count": 17,
       "uniqueId": "56ef83def0753222",
-      "lastAiring": "2021-02-27T15:10:00.000Z",
-      "lastUpload": "2021-02-27T18:17:38.237Z",
+      "lastAiring": "2021-03-06T15:10:00.000Z",
+      "lastUpload": "2021-03-06T17:31:34.612Z",
       "seriesId": "3016,4001",
       "title": "NHK Documentary"
     },
@@ -727,6 +743,14 @@
       "lastAiring": "2021-02-27T01:10:00.000Z",
       "lastUpload": "2021-02-27T04:11:34.449Z",
       "seriesId": "3016",
+      "title": "NHK WORLD PRIME"
+    },
+    {
+      "count": 1,
+      "uniqueId": "db139dd04eec6893",
+      "lastAiring": "2021-03-06T01:10:00.000Z",
+      "lastUpload": "2021-03-06T05:45:29.126Z",
+      "seriesId": "5001",
       "title": "NHK WORLD PRIME"
     },
     {
@@ -778,10 +802,10 @@
       "title": "Paprika  Let's dance!"
     },
     {
-      "count": 16,
+      "count": 18,
       "uniqueId": "3bee8422e8005b98",
-      "lastAiring": "2021-02-27T03:55:00.000Z",
-      "lastUpload": "2021-02-27T04:18:15.965Z",
+      "lastAiring": "2021-03-13T03:55:00.000Z",
+      "lastUpload": "2021-03-13T06:38:46.789Z",
       "seriesId": "6021",
       "title": "PythagoraSwitch mini"
     },
@@ -842,10 +866,10 @@
       "title": "Saving Pristine Shores for Future Generations"
     },
     {
-      "count": 16,
+      "count": 17,
       "uniqueId": "87b2998a16373792",
-      "lastAiring": "2021-03-02T15:30:00.000Z",
-      "lastUpload": "2021-03-02T17:00:58.483Z",
+      "lastAiring": "2021-03-09T15:30:00.000Z",
+      "lastUpload": "2021-03-09T17:22:01.112Z",
       "seriesId": "2015",
       "title": "Science View"
     },
@@ -858,10 +882,10 @@
       "title": "Searching for the Standing Boy of Nagasaki"
     },
     {
-      "count": 16,
+      "count": 17,
       "uniqueId": "206e7d7b56906c70",
-      "lastAiring": "2021-02-28T23:30:00.000Z",
-      "lastUpload": "2021-03-01T01:04:46.244Z",
+      "lastAiring": "2021-03-07T23:30:00.000Z",
+      "lastUpload": "2021-03-08T01:14:05.049Z",
       "seriesId": "2024",
       "title": "Seasoning the Seasons"
     },
@@ -882,10 +906,10 @@
       "title": "Shuri Castle: Rebirth in 3D"
     },
     {
-      "count": 6,
+      "count": 7,
       "uniqueId": "5ce8e3dcbf90e5b7",
-      "lastAiring": "2021-03-03T01:30:00.000Z",
-      "lastUpload": "2021-03-03T02:56:20.448Z",
+      "lastAiring": "2021-03-10T01:30:00.000Z",
+      "lastUpload": "2021-03-10T02:54:03.732Z",
       "seriesId": "2037",
       "title": "Side by Side"
     },
@@ -922,10 +946,10 @@
       "title": "SPIRIT OF JAPAN"
     },
     {
-      "count": 11,
+      "count": 12,
       "uniqueId": "b0ee8e6b5f5551b1",
-      "lastAiring": "2021-02-27T14:10:00.000Z",
-      "lastUpload": "2021-02-27T15:38:53.797Z",
+      "lastAiring": "2021-03-11T23:30:00.000Z",
+      "lastUpload": "2021-03-12T01:56:01.321Z",
       "seriesId": "7000",
       "title": "Spirit of Resilience"
     },
@@ -978,10 +1002,10 @@
       "title": "The KYOTO CODE: Bamboo Boundaries"
     },
     {
-      "count": 13,
+      "count": 14,
       "uniqueId": "aca3c5281f781918",
-      "lastAiring": "2021-03-01T04:30:00.000Z",
-      "lastUpload": "2021-03-01T06:00:17.305Z",
+      "lastAiring": "2021-03-08T04:30:00.000Z",
+      "lastUpload": "2021-03-08T06:30:54.334Z",
       "seriesId": "4018",
       "title": "The Mark of Beauty"
     },
@@ -994,10 +1018,10 @@
       "title": "The New Coronavirus in 3DCG"
     },
     {
-      "count": 7,
+      "count": 8,
       "uniqueId": "ac0dc75327258b51",
-      "lastAiring": "2021-02-14T01:10:00.000Z",
-      "lastUpload": "2021-02-15T23:39:45.873Z",
+      "lastAiring": "2021-03-07T01:10:00.000Z",
+      "lastUpload": "2021-03-07T03:11:26.106Z",
       "seriesId": "4003",
       "title": "The Professionals"
     },
@@ -1114,26 +1138,26 @@
       "title": "We're in This Together"
     },
     {
-      "count": 14,
+      "count": 15,
       "uniqueId": "96934130ea8f6060",
-      "lastAiring": "2021-02-21T23:15:00.000Z",
-      "lastUpload": "2021-02-22T00:09:15.711Z",
+      "lastAiring": "2021-03-07T23:15:00.000Z",
+      "lastUpload": "2021-03-07T23:30:40.280Z",
       "seriesId": "6033",
       "title": "We, in the Time of Corona"
     },
     {
-      "count": 15,
+      "count": 16,
       "uniqueId": "4c42bed9def1d9d4",
-      "lastAiring": "2021-03-01T01:30:00.000Z",
-      "lastUpload": "2021-03-01T02:49:33.692Z",
+      "lastAiring": "2021-03-08T01:30:00.000Z",
+      "lastUpload": "2021-03-08T02:51:52.933Z",
       "seriesId": "2087",
       "title": "Where We Call Home"
     },
     {
-      "count": 16,
+      "count": 17,
       "uniqueId": "b2d48e71e072a1aa",
-      "lastAiring": "2021-02-28T00:45:00.000Z",
-      "lastUpload": "2021-02-28T01:56:16.568Z",
+      "lastAiring": "2021-03-07T00:45:00.000Z",
+      "lastUpload": "2021-03-07T02:02:24.943Z",
       "seriesId": "2069",
       "title": "Wild Hokkaido!"
     },

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.289Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:37.995Z</lastUpdated>
   <seriesId>8bc137fd12f759b5</seriesId>
   <title>Easy Travel Japanese</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>Easy Travel Japanese</title>
     <uploadedDate>2021-01-24T01:26:38.633Z</uploadedDate>
     <raw>https://mega.nz/folder/xbhi2IQJ#Spma9O96UW6QnYNcdAXXpQ</raw>
+  </episode>
+  <episode>
+    <airingId>458</airingId>
+    <content/>
+    <description>#7 Domo, a versatile word/ Domo means "very", "hello" or "thanks", depending on the situation.</description>
+    <endDate>2021-03-07T00:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/jpp1GCAB#ahs06D9kyzrW3YQTybYhWA</link>
+    <recordDateEnd>2021-03-07T00:40:26.796Z</recordDateEnd>
+    <recordDateStart>2021-03-07T00:36:22.821Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>b7a8f1241abb2b4011bc44ece96e51140b09702852ea48f5be8b86d826529fbe</sha256>
+    <startDate>2021-03-07T00:37:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Travel Japanese</title>
+    <uploadedDate>2021-03-07T00:47:17.150Z</uploadedDate>
+    <raw>https://mega.nz/folder/Tk5RHQ5J#mzYcGJRlqy8vWgbFvJA-CA</raw>
   </episode>
   <episode>
     <airingId>459</airingId>

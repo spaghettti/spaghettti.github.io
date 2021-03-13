@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.198Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:37.912Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -71,6 +71,23 @@ In March 2011, a catastrophic earthquake and tsunami devastated communities on t
     <title>Japanology Plus</title>
     <uploadedDate>2021-03-02T16:17:26.168Z</uploadedDate>
     <raw>https://mega.nz/folder/Pgh1RYTY#EQPf_1qFTYphVngP32JSyQ</raw>
+  </episode>
+  <episode>
+    <airingId>206</airingId>
+    <content>*First broadcast on March 17, 2020.
+In March 2011, a catastrophic earthquake and tsunami devastated communities on the east coast of Tohoku, northeast Japan. We visit the region 9 years on, to learn how people coped with the disaster and its aftermath. This time, we learn about folklore in Tono, where legends about supernatural beings serve as a medium for sharing the advice of ancestors. Our guests include Yuko Kikuchi, a professional storyteller. She speaks about the local tales, and explains why they're so important.</content>
+    <description>Tohoku 9 Years On: Voices of the Deceased. Each time, Peter Barakan visits the key locations and meets experts with fascinating cultural insights.</description>
+    <endDate>2021-03-09T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/UaYATbqQ#f8o79qIxeaagVzeQifeD8A</link>
+    <recordDateEnd>2021-03-09T15:00:35.610Z</recordDateEnd>
+    <recordDateStart>2021-03-09T14:29:20.099Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>3d9b83971971978e9ed3390da0f429738240cb48c8dde870620fa77f54c5b775</sha256>
+    <startDate>2021-03-09T14:30:00.000Z</startDate>
+    <subtitle>Tohoku Nine Years On: Voices of the Deceased</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-03-09T17:28:07.556Z</uploadedDate>
+    <raw>https://mega.nz/folder/lbgzwQAQ#wQQ5DTuYibcD9EQtS8A3dg</raw>
   </episode>
   <episode>
     <airingId>209</airingId>

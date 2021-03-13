@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.267Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:37.975Z</lastUpdated>
   <seriesId>054ab52e36a50c36</seriesId>
   <title>CYCLE AROUND JAPAN  Highlights</title>
   <episode>
@@ -195,6 +195,22 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
     <uploadedDate>2021-03-04T15:52:33.424Z</uploadedDate>
     <raw>https://mega.nz/folder/W1d0iLQI#VbZvCdhdIeAp2vopNrT7MA</raw>
+  </episode>
+  <episode>
+    <airingId>028</airingId>
+    <content>Miyagi Prefecture is a beautiful part of Japan, and in autumn its seas and mountains are at their most scenic. Towns along this coast that were devastated by the great tsunami in 2011 are now almost totally restored. During this 300km cycle adventure, we'll encounter the irrepressible spirit of people who overcame disaster and the loss of loved ones to rebuild their lives, as we visit a workshop making salt the ancient way and a local festival that kept spirits high when times were tough.</content>
+    <description>On a 300km autumn trip through Miyagi, one of Japan's most beautiful regions, we visit coastal towns that have rebuilt their way of life in the time since the devastating 2011 earthquake.</description>
+    <endDate>2021-03-11T21:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/QG4ySA4K#Gs046dhZf7pXEycjq5OUpw</link>
+    <recordDateEnd>2021-03-11T21:00:26.928Z</recordDateEnd>
+    <recordDateStart>2021-03-11T20:29:22.739Z</recordDateStart>
+    <seriesId>2070</seriesId>
+    <sha256>23fbd8b37497ab855695c5e0bb260a5f5efac52371b6f4c7d20b8723233d97bb</sha256>
+    <startDate>2021-03-11T20:30:00.000Z</startDate>
+    <subtitle>Miyagi - An Unshaken Spirit</subtitle>
+    <title>CYCLE AROUND JAPAN  Highlights</title>
+    <uploadedDate>2021-03-11T21:59:15.455Z</uploadedDate>
+    <raw>https://mega.nz/folder/seB0Gb6Q#COv-A0TW1lhT--HANdLOvg</raw>
   </episode>
   <episode>
     <airingId>029</airingId>

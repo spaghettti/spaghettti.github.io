@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.370Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.083Z</lastUpdated>
   <seriesId>2bd1ba9a5a78145f</seriesId>
   <title>Dining with the Chef mini</title>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>Learn about easy, delicious and healthy cooking with Chef Rika! Featured recipe: Chicken Rice Burger.</description>
+    <endDate>2021-03-11T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/i5pyyIqa#y6PZQ9pRVFRYHYAPo8Y2Uw</link>
+    <recordDateEnd>2021-03-11T05:00:26.213Z</recordDateEnd>
+    <recordDateStart>2021-03-11T04:54:22.759Z</recordDateStart>
+    <seriesId>6031</seriesId>
+    <sha256>48bd79d5d7668d9c1dd8f02af4a0fa20ce9a42d7fdc2711937d79ff1c35f1b24</sha256>
+    <startDate>2021-03-11T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Dining with the Chef mini</title>
+    <uploadedDate>2021-03-11T05:19:31.088Z</uploadedDate>
+    <raw>https://mega.nz/folder/4ToCiKaa#Pda_xh8kby9vDhQ72hkWDQ</raw>
+  </episode>
   <episode>
     <airingId>009</airingId>
     <content/>

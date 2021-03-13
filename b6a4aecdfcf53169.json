@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-06T04:10:03.182Z",
+  "lastUpdated": "2021-03-13T08:34:37.897Z",
   "seriesId": "2022",
   "title": "Asia Insight",
   "episodes": [
@@ -258,6 +258,22 @@
       "title": "Asia Insight",
       "uploadedDate": "2021-03-05T04:14:44.997Z",
       "raw": "https://mega.nz/folder/RaIUSJaD#KlE4w9QHISVk-iot8R92zA"
+    },
+    {
+      "airingId": "325",
+      "content": "Seoul's district of Daerim-dong is home to a large number of ethnic Korean-Chinese residents. Ethnic Korean-Chinese are the descendants of Koreans who moved to China generations ago. Some seek new lives in South Korea, but much of what they find is hard labor with no job security. Even worse is the prejudice faced from South Koreans, and the recent threat of COVID-19. This episode follows the Korean-Chinese people grappling with their own roots in their ancestorial homeland.",
+      "description": "Ethnic Korean-Chinese, the descendants of Koreans who moved to China, increasingly travel to South Korea in search of work, but are met with harsh labor conditions and prejudice from locals.",
+      "endDate": "2021-03-12T02:00:00.000Z",
+      "link": "https://mega.nz/folder/UeQHlQpS#TpXh5YOrWWJ3NMpWEcuILw",
+      "recordDateEnd": "2021-03-12T02:00:27.391Z",
+      "recordDateStart": "2021-03-12T01:29:20.101Z",
+      "seriesId": "2022",
+      "sha256": "864c6947f889620c837355f9097a809ab511a4a798999be4faf110bf7cab5b39",
+      "startDate": "2021-03-12T01:30:00.000Z",
+      "subtitle": "The \"Homeland\" of Korean-Chinese Migrants in South Korea",
+      "title": "Asia Insight",
+      "uploadedDate": "2021-03-12T04:10:19.500Z",
+      "raw": "https://mega.nz/folder/sXJDmahS#E1CUQ3M5G4oo51BxhgDPBg"
     }
   ]
 }

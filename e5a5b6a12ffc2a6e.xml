@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.276Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:37.983Z</lastUpdated>
   <seriesId>e5a5b6a12ffc2a6e</seriesId>
   <title>BENTO EXPO</title>
   <episode>
@@ -163,5 +163,21 @@
     <title>BENTO EXPO</title>
     <uploadedDate>2021-03-01T01:42:00.771Z</uploadedDate>
     <raw>https://mega.nz/folder/igwC1LZK#PzXtab3WIa2k3FCke4LHDg</raw>
+  </episode>
+  <episode>
+    <airingId>030</airingId>
+    <content>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</content>
+    <description>It's spring! Marc celebrates with a fruity sandwich and Maki, colorful fritters. And from Taiwan's food capital, Tainan, a traditional breakfast and cute bento featuring the ubiquitous milkfish.</description>
+    <endDate>2021-03-08T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/dfJFRaaa#Z81ByZ1T_qeVyAlRgrkXUw</link>
+    <recordDateEnd>2021-03-08T00:45:27.477Z</recordDateEnd>
+    <recordDateStart>2021-03-08T00:29:20.101Z</recordDateStart>
+    <seriesId>2077</seriesId>
+    <sha256>6e87d878c56ca0e9812f1b8e430c299095c5d08b4c8de3a3e884e17b2225609c</sha256>
+    <startDate>2021-03-08T00:30:00.000Z</startDate>
+    <subtitle>Season 5-20 Fruit Sando Bento &amp; Hanami Bento</subtitle>
+    <title>BENTO EXPO</title>
+    <uploadedDate>2021-03-08T01:54:34.981Z</uploadedDate>
+    <raw>https://mega.nz/folder/9OwiiKJD#Z906d1nKKdjheMgM3U9nlg</raw>
   </episode>
 </episodeList>

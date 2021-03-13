@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.182Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:37.898Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -227,6 +227,22 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2020-12-24T16:15:47.293Z</uploadedDate>
     <raw>https://mega.nz/folder/SoVU3JjZ#t53hG0GVe_EnAyGAobZ9lw</raw>
+  </episode>
+  <episode>
+    <airingId>121</airingId>
+    <content>Kamaishi, in Iwate Prefecture in northeastern Japan is home to a steelworks with a history of 130 years, and is known as a "city of steel." Before the end of World War II, Kamaishi suffered a direct attack by the Allied Forces because of its steelworks. Then came the Great East Japan Earthquake in 2011. This is the story of Kamaishi, a city that has experienced many adversities, but has managed to rise above them.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</description>
+    <endDate>2021-03-08T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/IXYXFAgI#HsUBUTlW6uoejMyiY2LHVg</link>
+    <recordDateEnd>2021-03-08T00:00:28.866Z</recordDateEnd>
+    <recordDateStart>2021-03-07T23:29:20.101Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>e3633d9bf4eb4413204261f74c4a752f26b28c7f8212bd4d82324eaf6f7f75e1</sha256>
+    <startDate>2021-03-07T23:30:00.000Z</startDate>
+    <subtitle>Kamaishi: The Resilient City of Steel</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-03-08T01:14:05.049Z</uploadedDate>
+    <raw>https://mega.nz/folder/gDJxwSSQ#vHtgJ5OtGc2qhxB2_efNpA</raw>
   </episode>
   <episode>
     <airingId>133</airingId>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.347Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:38.057Z</lastUpdated>
   <seriesId>3bee8422e8005b98</seriesId>
   <title>PythagoraSwitch mini</title>
   <episode>
@@ -259,5 +259,37 @@
     <title>PythagoraSwitch mini</title>
     <uploadedDate>2021-02-27T04:18:15.965Z</uploadedDate>
     <raw>https://mega.nz/folder/H9sAzQqb#bqkKMHOhbS85Y03djPwNZw</raw>
+  </episode>
+  <episode>
+    <airingId>032</airingId>
+    <content/>
+    <description>There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time "See the Wiggle Men!"...</description>
+    <endDate>2021-03-06T04:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/S1hWGYoC#vrTpo0XM09nbJqhEq3O1cw</link>
+    <recordDateEnd>2021-03-06T04:00:27.021Z</recordDateEnd>
+    <recordDateStart>2021-03-06T03:54:22.948Z</recordDateStart>
+    <seriesId>6021</seriesId>
+    <sha256>adbfa110085dba5eb985193ead2ebda97cb2979070b3a31205e007e522adf917</sha256>
+    <startDate>2021-03-06T03:55:00.000Z</startDate>
+    <subtitle/>
+    <title>PythagoraSwitch mini</title>
+    <uploadedDate>2021-03-06T05:56:43.678Z</uploadedDate>
+    <raw>https://mega.nz/folder/LwhEmK4L#XkVLnZF5s33Irb7yJnzM_Q</raw>
+  </episode>
+  <episode>
+    <airingId>033</airingId>
+    <content/>
+    <description>There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time "Tape Measure Jackie"...</description>
+    <endDate>2021-03-13T04:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/PpogRLyC#J3XGKJTdG9sDvRq-GZ-N8w</link>
+    <recordDateEnd>2021-03-13T04:00:27.113Z</recordDateEnd>
+    <recordDateStart>2021-03-13T03:54:22.944Z</recordDateStart>
+    <seriesId>6021</seriesId>
+    <sha256>44040308a8a2aa3ff543c3e5e238892d453b20985803f115c27e90bf513c3709</sha256>
+    <startDate>2021-03-13T03:55:00.000Z</startDate>
+    <subtitle/>
+    <title>PythagoraSwitch mini</title>
+    <uploadedDate>2021-03-13T06:38:46.789Z</uploadedDate>
+    <raw>https://mega.nz/folder/Lo0kGbSS#BAp-f502djHKHVf7d-FCKA</raw>
   </episode>
 </episodeList>

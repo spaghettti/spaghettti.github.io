@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-06T04:10:03.275Z",
+  "lastUpdated": "2021-03-13T08:34:37.982Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
@@ -258,6 +258,22 @@
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2021-02-15T02:18:38.648Z",
       "raw": "https://mega.nz/folder/SIVABBaL#RDtDDH-sXXxHiyI0zL6oMw"
+    },
+    {
+      "airingId": "080",
+      "content": "",
+      "description": "This time we introduce \"Ground Detective Simon Wallis,\" which reveals the mystery of whale fossils found in dry land. Simon Wallis, a Ground Detective and a professor, reveals from shaved ice dessert!",
+      "endDate": "2021-03-07T11:55:00.000Z",
+      "link": "https://mega.nz/folder/apQAWZbT#DnYapCMXdNRTz-itMd-uzw",
+      "recordDateEnd": "2021-03-07T11:55:27.634Z",
+      "recordDateStart": "2021-03-07T11:49:20.059Z",
+      "seriesId": "2075",
+      "sha256": "bfc19c8f3b12ee5065f29669b8c16396ff5eb95d637946425c2409a8e6391225",
+      "startDate": "2021-03-07T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2021-03-07T12:17:37.580Z",
+      "raw": "https://mega.nz/folder/ywIF0QoK#FNPo7jGIqTqyR-ycgI1NJQ"
     }
   ]
 }

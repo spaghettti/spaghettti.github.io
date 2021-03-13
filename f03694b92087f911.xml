@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-06T04:10:03.125Z</lastUpdated>
+  <lastUpdated>2021-03-13T08:34:37.839Z</lastUpdated>
   <seriesId>f03694b92087f911</seriesId>
   <title>J-MELO</title>
   <episode>
@@ -115,5 +115,21 @@
     <title>J-MELO</title>
     <uploadedDate>2021-02-15T02:59:41.244Z</uploadedDate>
     <raw>https://mega.nz/folder/3BcmERAA#5mYDQYyl0XMWWu0t8qTy6g</raw>
+  </episode>
+  <episode>
+    <airingId>368</airingId>
+    <content>Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news and video releases!</content>
+    <description>Join May J. for Japanese music! In the spotlight this week: Namie Joshihatsu Kumiai (an idol group produced by Sasaki Ayaka from Momoiro Clover Z). They're performing three songs in the J-MELO studio.</description>
+    <endDate>2021-03-07T15:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/tKxmCRKT#i3R2ZK9o3pNlDIcfHwg4rw</link>
+    <recordDateEnd>2021-03-07T15:40:28.736Z</recordDateEnd>
+    <recordDateStart>2021-03-07T15:09:20.101Z</recordDateStart>
+    <seriesId>2004</seriesId>
+    <sha256>d8f485d270444e58e302205f509939d58a4f9ed5e574a39695fb7eedaae640a5</sha256>
+    <startDate>2021-03-07T15:10:00.000Z</startDate>
+    <subtitle>Namie Joshihatsu Kumiai (Joshihatsu Association Namie)</subtitle>
+    <title>J-MELO</title>
+    <uploadedDate>2021-03-07T16:36:36.220Z</uploadedDate>
+    <raw>https://mega.nz/folder/Ef5UHTAA#M0n5aMwL1QbnQLses9e2rA</raw>
   </episode>
 </episodeList>
