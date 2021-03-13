@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-13T10:45:04.372Z</lastUpdated>
+  <lastUpdated>2021-03-13T12:25:04.031Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -36,6 +36,22 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <title>NHK Documentary</title>
     <uploadedDate>2020-12-24T23:55:38.067Z</uploadedDate>
     <raw>https://mega.nz/folder/tFYE1BbZ#rfxKNrVZ4RL-PlTK0gvXGA</raw>
+  </episode>
+  <episode>
+    <airingId>119</airingId>
+    <content>Successive meltdowns of reactors at the Fukushima Daiichi Nuclear Power Plant resulted in significant nuclear contamination. How did the disaster unfold? NHK interviewed more than 400 people and conducted simulations based on volumes of data. Our independent investigation sheds new light on the accident 2 years after it occurred.</content>
+    <description>Hard-hitting documentary that takes an in-depth look at some of the political, economic, and social challenges that Japan is facing. Today: Meltdown: Oversights in the reactor cooling system.</description>
+    <endDate>2021-03-13T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/tVoEzBiA#J58abiMxeYbHpBTAFdSJxQ</link>
+    <recordDateEnd>2021-03-13T00:00:23.160Z</recordDateEnd>
+    <recordDateStart>2021-03-12T23:09:20.101Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>f2fdb99219a4062a8ae7add41a74f434429570f4e3a8a4e0eeb1ccdb10a03958</sha256>
+    <startDate>2021-03-12T23:10:00.000Z</startDate>
+    <subtitle>Meltdown: Oversights in the Reactor Cooling System</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2021-03-13T12:22:56.319Z</uploadedDate>
+    <raw>https://mega.nz/folder/CxIyDZAC#lqF2z_RBH_Z5VMRxXsBMsA</raw>
   </episode>
   <episode>
     <airingId>232</airingId>
