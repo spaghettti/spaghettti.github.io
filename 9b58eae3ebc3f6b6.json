@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-13T12:25:03.885Z",
+  "lastUpdated": "2021-03-19T00:40:03.785Z",
   "seriesId": "2062",
   "title": "Sumopedia",
   "episodes": [
@@ -226,6 +226,36 @@
       "title": "Sumopedia",
       "uploadedDate": "2021-01-24T19:02:09.022Z",
       "raw": "https://mega.nz/folder/PBlAULbS#BgkID8LeY5gb2Rn9yPKQ4w"
+    },
+    {
+      "airingId": "022",
+      "content": "",
+      "description": "Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.",
+      "endDate": "2021-03-14T17:00:00.000Z",
+      "link": "https://mega.nz/folder/IAYx1QRb#yVxCSbhs8BpBojnOiEt2GA",
+      "recordDateEnd": "2021-03-14T17:00:27.401Z",
+      "recordDateStart": "2021-03-14T16:56:20.098Z",
+      "seriesId": "2062",
+      "sha256": "e3c3d93f743d7887226d145a2c1867407e183d28483aaf48ded90f128afaa575",
+      "startDate": "2021-03-14T16:57:00.000Z",
+      "subtitle": "",
+      "title": "Sumopedia",
+      "uploadedDate": "2021-03-19T00:37:48.813Z"
+    },
+    {
+      "airingId": "023",
+      "content": "",
+      "description": "Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.",
+      "endDate": "2021-03-15T17:00:00.000Z",
+      "link": "https://mega.nz/folder/g4Rn0CYS#aCrU7Jip7cHlElc1vREP1A",
+      "recordDateEnd": "2021-03-15T17:00:24.992Z",
+      "recordDateStart": "2021-03-15T16:56:22.675Z",
+      "seriesId": "2062",
+      "sha256": "0d090802aa7f299c3a82bd7ab1a724ebf5aa52c0e1315ad9bb87d917ec48c6a4",
+      "startDate": "2021-03-15T16:57:00.000Z",
+      "subtitle": "",
+      "title": "Sumopedia",
+      "uploadedDate": "2021-03-19T00:37:55.499Z"
     },
     {
       "airingId": "056",
