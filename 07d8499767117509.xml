@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T00:55:03.388Z</lastUpdated>
+  <lastUpdated>2021-03-19T01:05:03.491Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -738,7 +738,7 @@
     <subtitle/>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-27T23:52:23.742Z</uploadedDate>
-    <raw>https://mega.nz/folder/6FNVAQhb#kYIQIxp0jUtxYNx5-zgy6w</raw>
+    <raw>https://mega.nz/folder/vwcFFQBY#CcBL-SxLsSi_kDDUzi_F6w</raw>
   </episode>
   <episode>
     <airingId>619</airingId>
@@ -2419,5 +2419,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-03-12T08:06:34.441Z</uploadedDate>
     <raw>https://mega.nz/folder/l8pjRAxK#BNpxBfyH_EBurn7mFa3Xaw</raw>
+  </episode>
+  <episode>
+    <airingId>753</airingId>
+    <content>Columbia University's Christopher Emdin talks about his method of centering culture to engage young people in science and how the pandemic is creating an opportunity to transform education.</content>
+    <description>Columbia University's Christopher Emdin talks about his method of centering culture to engage young people in science and how the pandemic is creating an opportunity to transform education.</description>
+    <endDate>2021-03-17T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/UxYRSCDQ#99Nvec1pipbajPCkm0WtuQ</link>
+    <recordDateEnd>2021-03-17T07:30:31.775Z</recordDateEnd>
+    <recordDateStart>2021-03-17T07:14:20.052Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>2fce36a091058243ebccb5d41651d62812376fd63751bee0ce807b7c2ae67cb9</sha256>
+    <startDate>2021-03-17T07:15:00.000Z</startDate>
+    <subtitle>Reimagining Education: Christopher Emdin / Associate Professor, Columbia University</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-03-19T01:00:32.632Z</uploadedDate>
   </episode>
 </episodeList>
