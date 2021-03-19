@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T02:10:03.101Z</lastUpdated>
+  <lastUpdated>2021-03-19T02:35:03.365Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -726,18 +726,18 @@
   </episode>
   <episode>
     <airingId>615</airingId>
-    <content/>
+    <content>Myanmar in southeast Asia suffers from a lack of safe drinking water. Hisafumi Shogi works with locals to develop the water supply infrastructure. He talks about the road so far, and what lies ahead.</content>
     <description>Myanmar in southeast Asia suffers from a lack of safe drinking water. Hisafumi Shogi works with locals to develop the water supply infrastructure. He talks about the road so far and what lies ahead.</description>
-    <endDate>2020-11-16T09:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/W01hwSAI#_vXjNiX42fEHJ3Y4TNVdeA</link>
-    <recordDateEnd>2020-11-16T09:30:27.264Z</recordDateEnd>
-    <recordDateStart>2020-11-16T09:14:20.013Z</recordDateStart>
+    <endDate>2021-03-16T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/L8ljTaRA#YoAJaSq3I0N36pBlOLlN-Q</link>
+    <recordDateEnd>2021-03-16T07:30:25.654Z</recordDateEnd>
+    <recordDateStart>2021-03-16T07:14:20.039Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>f1936c5e35155c677e2eb13b43ade0f1e9e9371c74079281d2ba9e06a5cc1a12</sha256>
-    <startDate>2020-11-16T09:15:00.000Z</startDate>
-    <subtitle/>
+    <sha256>30e5f1b292b4114eb5bbf88f4b4f37dff239ba82a526086c1a526ad4f9fb3d06</sha256>
+    <startDate>2021-03-16T07:15:00.000Z</startDate>
+    <subtitle>Water for Life: Hisafumi Shogi / Waterworks Engineer</subtitle>
     <title>Direct Talk</title>
-    <uploadedDate>2020-12-27T23:52:23.742Z</uploadedDate>
+    <uploadedDate>2021-03-19T02:30:42.369Z</uploadedDate>
     <raw>https://mega.nz/folder/vwcFFQBY#CcBL-SxLsSi_kDDUzi_F6w</raw>
   </episode>
   <episode>
@@ -2449,5 +2449,6 @@
     <subtitle>Reimagining Education: Christopher Emdin / Associate Professor, Columbia University</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2021-03-19T01:00:32.632Z</uploadedDate>
+    <raw>https://mega.nz/folder/SwlGQDAQ#5z2dQdmFJDNbBZ3r5nd2aA</raw>
   </episode>
 </episodeList>

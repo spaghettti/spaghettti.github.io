@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T02:10:03.115Z",
+  "lastUpdated": "2021-03-19T02:35:03.381Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -725,18 +725,18 @@
     },
     {
       "airingId": "615",
-      "content": "",
+      "content": "Myanmar in southeast Asia suffers from a lack of safe drinking water. Hisafumi Shogi works with locals to develop the water supply infrastructure. He talks about the road so far, and what lies ahead.",
       "description": "Myanmar in southeast Asia suffers from a lack of safe drinking water. Hisafumi Shogi works with locals to develop the water supply infrastructure. He talks about the road so far and what lies ahead.",
-      "endDate": "2020-11-16T09:30:00.000Z",
-      "link": "https://mega.nz/folder/W01hwSAI#_vXjNiX42fEHJ3Y4TNVdeA",
-      "recordDateEnd": "2020-11-16T09:30:27.264Z",
-      "recordDateStart": "2020-11-16T09:14:20.013Z",
+      "endDate": "2021-03-16T07:30:00.000Z",
+      "link": "https://mega.nz/folder/L8ljTaRA#YoAJaSq3I0N36pBlOLlN-Q",
+      "recordDateEnd": "2021-03-16T07:30:25.654Z",
+      "recordDateStart": "2021-03-16T07:14:20.039Z",
       "seriesId": "2058",
-      "sha256": "f1936c5e35155c677e2eb13b43ade0f1e9e9371c74079281d2ba9e06a5cc1a12",
-      "startDate": "2020-11-16T09:15:00.000Z",
-      "subtitle": "",
+      "sha256": "30e5f1b292b4114eb5bbf88f4b4f37dff239ba82a526086c1a526ad4f9fb3d06",
+      "startDate": "2021-03-16T07:15:00.000Z",
+      "subtitle": "Water for Life: Hisafumi Shogi / Waterworks Engineer",
       "title": "Direct Talk",
-      "uploadedDate": "2020-12-27T23:52:23.742Z",
+      "uploadedDate": "2021-03-19T02:30:42.369Z",
       "raw": "https://mega.nz/folder/vwcFFQBY#CcBL-SxLsSi_kDDUzi_F6w"
     },
     {
@@ -2447,7 +2447,8 @@
       "startDate": "2021-03-17T07:15:00.000Z",
       "subtitle": "Reimagining Education: Christopher Emdin / Associate Professor, Columbia University",
       "title": "Direct Talk",
-      "uploadedDate": "2021-03-19T01:00:32.632Z"
+      "uploadedDate": "2021-03-19T01:00:32.632Z",
+      "raw": "https://mega.nz/folder/SwlGQDAQ#5z2dQdmFJDNbBZ3r5nd2aA"
     }
   ]
 }
