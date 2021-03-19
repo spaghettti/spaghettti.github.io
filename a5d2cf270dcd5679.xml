@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T05:10:03.713Z</lastUpdated>
+  <lastUpdated>2021-03-19T05:30:03.917Z</lastUpdated>
   <seriesId>a5d2cf270dcd5679</seriesId>
   <title>Medical Frontiers</title>
   <episode>
@@ -179,5 +179,20 @@
     <title>Medical Frontiers</title>
     <uploadedDate>2021-02-22T16:41:56.074Z</uploadedDate>
     <raw>https://mega.nz/folder/2ppUHAaK#tF8WP7DTQai4xK0oSA-yIg</raw>
+  </episode>
+  <episode>
+    <airingId>106</airingId>
+    <content>The gut flora, or gut microbiota, consists of 1,000 types of bacteria, totaling some 40 trillion organisms. The latest research shows long-distance runners have large amounts of a certain type of gut bacteria, which leads to higher athletic ability and less fatigue. A bacterial imbalance was found to negatively affect sleep quality and the immune system. We look at the effect of gut microbiota on health with a researcher who aims to develop lifestyle plans tailored to each person's gut environment.</content>
+    <description>Japan is a world leader in health care. This program explores cutting-edge Japanese medical technologies and tips for a healthy lifestyle.</description>
+    <endDate>2021-03-15T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/AxgAGASA#CXzy-8KbtqSqN5mE8YmZqA</link>
+    <recordDateEnd>2021-03-15T16:00:30.336Z</recordDateEnd>
+    <recordDateStart>2021-03-15T15:29:22.881Z</recordDateStart>
+    <seriesId>2050</seriesId>
+    <sha256>eef867072a261a1f8fcec56359ded2b358f838735e0f3f57b209fac8d5f14207</sha256>
+    <startDate>2021-03-15T15:30:00.000Z</startDate>
+    <subtitle>Gut Microbiota: An Amazing Power to Regulate Health</subtitle>
+    <title>Medical Frontiers</title>
+    <uploadedDate>2021-03-19T05:25:54.730Z</uploadedDate>
   </episode>
 </episodeList>
