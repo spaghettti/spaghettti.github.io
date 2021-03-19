@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T11:45:04.220Z",
+  "lastUpdated": "2021-03-19T12:00:04.002Z",
   "seriesId": "3016,4001",
   "title": "NHK Documentary",
   "episodes": [
@@ -82,6 +82,22 @@
       "title": "NHK Documentary",
       "uploadedDate": "2021-02-20T18:16:28.784Z",
       "raw": "https://mega.nz/folder/4D4VQK4B#6fl6tJBWBJoEU3LuxSok8A"
+    },
+    {
+      "airingId": "352",
+      "content": "The tsunami that struck northeast Japan in March 2011 was among the largest in Japanese history. But it didn't correlate with the intensity of the preceding earthquake. How did the wave get to be so astonishingly big? We investigate a little-known seabed phenomenon that may have contributed. It seems that if a landslide and slow-motion plate shifting occur at the same time, they can cause a tsunami of an enormous size. 9 years after the disaster, a true picture of what happened is beginning to emerge.",
+      "description": "The 2011 tsunami was among the largest in Japanese history, but it didn't correlate with the intensity of the preceding earthquake. To find out why, we investigate a little-known phenomenon.",
+      "endDate": "2021-03-13T16:00:00.000Z",
+      "link": "https://mega.nz/folder/yBJETDzT#50DxsMLJOCulaO9B9hjQ8g",
+      "recordDateEnd": "2021-03-13T16:00:28.236Z",
+      "recordDateStart": "2021-03-13T15:09:22.754Z",
+      "seriesId": "4001",
+      "sha256": "604918489f48b1fb609af35d5eb1f6f31983b05994a932de00b6d2afbf131f69",
+      "startDate": "2021-03-13T15:10:00.000Z",
+      "subtitle": "The Mystery of the 40-Meter Tsunami: The Great East Japan Disaster",
+      "title": "NHK Documentary",
+      "uploadedDate": "2021-03-19T11:59:14.453Z",
+      "raw": "https://mega.nz/folder/etcgmZhI#3o57nJbm74uP-jmT0PyalQ"
     },
     {
       "airingId": "361",
