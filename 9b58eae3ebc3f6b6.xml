@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T02:50:03.792Z</lastUpdated>
+  <lastUpdated>2021-03-19T03:45:03.913Z</lastUpdated>
   <seriesId>9b58eae3ebc3f6b6</seriesId>
   <title>Sumopedia</title>
   <episode>
@@ -274,6 +274,36 @@
     <subtitle/>
     <title>Sumopedia</title>
     <uploadedDate>2021-03-19T02:01:21.881Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>025</airingId>
+    <content/>
+    <description>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</description>
+    <endDate>2021-03-17T17:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/AEhgAAID#BEU2ZYFrJrKEuz6Y-Eg3Iw</link>
+    <recordDateEnd>2021-03-17T17:00:28.541Z</recordDateEnd>
+    <recordDateStart>2021-03-17T16:56:23.807Z</recordDateStart>
+    <seriesId>2062</seriesId>
+    <sha256>c04af10f0503d7d56f3f9d298fafc5c4e26649942b0a1ae78299a496d18b07ae</sha256>
+    <startDate>2021-03-17T16:57:00.000Z</startDate>
+    <subtitle/>
+    <title>Sumopedia</title>
+    <uploadedDate>2021-03-19T03:42:22.047Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>026</airingId>
+    <content/>
+    <description>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</description>
+    <endDate>2021-03-18T17:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/X44SjA4D#jb0pZsgkx_x3d-ATNVxAfA</link>
+    <recordDateEnd>2021-03-18T17:00:31.789Z</recordDateEnd>
+    <recordDateStart>2021-03-18T16:56:20.003Z</recordDateStart>
+    <seriesId>2062</seriesId>
+    <sha256>ddca3294656fb2337d931d73b6c9dc2d27684459dde8955bcb4dc63d3598e9ff</sha256>
+    <startDate>2021-03-18T16:57:00.000Z</startDate>
+    <subtitle/>
+    <title>Sumopedia</title>
+    <uploadedDate>2021-03-19T03:43:54.562Z</uploadedDate>
   </episode>
   <episode>
     <airingId>056</airingId>
