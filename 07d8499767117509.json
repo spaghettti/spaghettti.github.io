@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T09:10:03.276Z",
+  "lastUpdated": "2021-03-19T09:20:03.014Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1665,6 +1665,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-03-08T05:21:53.078Z",
       "raw": "https://mega.nz/folder/300RRIRK#cknYof7FVTwTzvFWK-HT0g"
+    },
+    {
+      "airingId": "697",
+      "content": "",
+      "description": "Mr. Boyan Slat and his foundation's goal are getting rid of plastic waste from the oceans all over the world. They focus on developing technologies to achieve it. He adds supports from people is key.",
+      "endDate": "2021-03-18T04:30:00.000Z",
+      "link": "https://mega.nz/folder/RcJRAY6C#MB9uv_eoKYWvKR2HC7BzPg",
+      "recordDateEnd": "2021-03-18T04:30:29.095Z",
+      "recordDateStart": "2021-03-18T04:14:20.098Z",
+      "seriesId": "2058",
+      "sha256": "b1497e1ce44ecfc4a4a50b1310e55a41678a507263d95901bdb37a2d0f0a910a",
+      "startDate": "2021-03-18T04:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-03-19T09:19:11.155Z"
     },
     {
       "airingId": "699",
