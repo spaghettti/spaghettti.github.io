@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T04:40:03.836Z</lastUpdated>
+  <lastUpdated>2021-03-19T05:10:03.903Z</lastUpdated>
   <seriesId>ba5605f896f214e4</seriesId>
   <title>Barakan Discovers</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>Barakan Discovers Tokyo</title>
     <uploadedDate>2020-12-28T00:41:58.259Z</uploadedDate>
     <raw>https://mega.nz/folder/Z19CVaqI#v9REQ-Dxtbj4wABfN6olyA</raw>
+  </episode>
+  <episode>
+    <airingId>649</airingId>
+    <content/>
+    <description>North-east Japan has a long history of disasters, famines, ghosts, and a belief in the deceased "living with the living." How do residents have incorporated the loss of loved ones into their future?</description>
+    <endDate>2021-03-14T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/txpWEDhQ#B7uirgxGk-NrKydnC9jkXQ</link>
+    <recordDateEnd>2021-03-14T00:00:27.858Z</recordDateEnd>
+    <recordDateStart>2021-03-13T23:09:22.407Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>9d5b4a3a86ad8e1e12e06de3c75cfc07268f08476a078eae513ddac87437da14</sha256>
+    <startDate>2021-03-13T23:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Barakan Discovers TOHOKU</title>
+    <uploadedDate>2021-03-19T05:06:05.459Z</uploadedDate>
+    <raw>https://mega.nz/folder/upYygLpJ#DrurbQPy8VPnd4JlJUNP9w</raw>
   </episode>
   <episode>
     <airingId>683</airingId>

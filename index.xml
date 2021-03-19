@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-19T04:40:03.837Z</lastUpdated>
+  <lastUpdated>2021-03-19T05:10:03.914Z</lastUpdated>
   <series>
     <count>23</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -83,10 +83,10 @@
     <title>At One with Nature</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>ba5605f896f214e4</uniqueId>
-    <lastAiring>2020-12-25T23:10:00.000Z</lastAiring>
-    <lastUpload>2020-12-28T00:41:58.259Z</lastUpload>
+    <lastAiring>2021-03-13T23:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-19T05:06:05.459Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>Barakan Discovers</title>
   </series>
@@ -163,10 +163,10 @@
     <title>COOL JAPAN</title>
   </series>
   <series>
-    <count>32</count>
+    <count>33</count>
     <uniqueId>67d2ae7ac69fb919</uniqueId>
     <lastAiring>2021-03-17T23:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-19T01:19:26.498Z</lastUpload>
+    <lastUpload>2021-03-19T05:05:31.763Z</lastUpload>
     <seriesId>2029</seriesId>
     <title>Core Kyoto</title>
   </series>

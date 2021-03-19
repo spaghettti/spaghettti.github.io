@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T04:40:03.837Z",
+  "lastUpdated": "2021-03-19T05:10:03.903Z",
   "seriesId": "3004",
   "title": "Barakan Discovers",
   "episodes": [
@@ -18,6 +18,22 @@
       "title": "Barakan Discovers Tokyo",
       "uploadedDate": "2020-12-28T00:41:58.259Z",
       "raw": "https://mega.nz/folder/Z19CVaqI#v9REQ-Dxtbj4wABfN6olyA"
+    },
+    {
+      "airingId": "649",
+      "content": "",
+      "description": "North-east Japan has a long history of disasters, famines, ghosts, and a belief in the deceased \"living with the living.\" How do residents have incorporated the loss of loved ones into their future?",
+      "endDate": "2021-03-14T00:00:00.000Z",
+      "link": "https://mega.nz/folder/txpWEDhQ#B7uirgxGk-NrKydnC9jkXQ",
+      "recordDateEnd": "2021-03-14T00:00:27.858Z",
+      "recordDateStart": "2021-03-13T23:09:22.407Z",
+      "seriesId": "3004",
+      "sha256": "9d5b4a3a86ad8e1e12e06de3c75cfc07268f08476a078eae513ddac87437da14",
+      "startDate": "2021-03-13T23:10:00.000Z",
+      "subtitle": "",
+      "title": "Barakan Discovers TOHOKU",
+      "uploadedDate": "2021-03-19T05:06:05.459Z",
+      "raw": "https://mega.nz/folder/upYygLpJ#DrurbQPy8VPnd4JlJUNP9w"
     },
     {
       "airingId": "683",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T04:40:03.843Z",
+  "lastUpdated": "2021-03-19T05:10:03.920Z",
   "series": [
     {
       "count": 23,
@@ -82,10 +82,10 @@
       "title": "At One with Nature"
     },
     {
-      "count": 2,
+      "count": 3,
       "uniqueId": "ba5605f896f214e4",
-      "lastAiring": "2020-12-25T23:10:00.000Z",
-      "lastUpload": "2020-12-28T00:41:58.259Z",
+      "lastAiring": "2021-03-13T23:10:00.000Z",
+      "lastUpload": "2021-03-19T05:06:05.459Z",
       "seriesId": "3004",
       "title": "Barakan Discovers"
     },
@@ -162,10 +162,10 @@
       "title": "COOL JAPAN"
     },
     {
-      "count": 32,
+      "count": 33,
       "uniqueId": "67d2ae7ac69fb919",
       "lastAiring": "2021-03-17T23:30:00.000Z",
-      "lastUpload": "2021-03-19T01:19:26.498Z",
+      "lastUpload": "2021-03-19T05:05:31.763Z",
       "seriesId": "2029",
       "title": "Core Kyoto"
     },
