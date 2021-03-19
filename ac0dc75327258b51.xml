@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T12:20:03.335Z</lastUpdated>
+  <lastUpdated>2021-03-19T12:35:03.338Z</lastUpdated>
   <seriesId>ac0dc75327258b51</seriesId>
   <title>The Professionals</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>The Professionals</title>
     <uploadedDate>2021-01-06T11:31:34.247Z</uploadedDate>
     <raw>https://mega.nz/folder/jdsyGY6I#ekn91ILD-SdiirX4yNYyyw</raw>
+  </episode>
+  <episode>
+    <airingId>142</airingId>
+    <content>The Tsugaru peninsula lies on the northern part of Japan's main island, and is home to some of the country's most untamed landscapes. For more than 30 years, 93-year-old Kuwata Misao has made over 50,000 Sasa-mochi rice cakes every year here, all on her own. She goes into the wilderness to find bamboo leaves, and grows her own azuki beans to ensure the perfect ingredients for her delicious mochi. What is the meaning of work? Of life? Of happiness? Granny Mochi's quiet, delightful tale warms the heart.</content>
+    <description>93-year-old Kuwata Misao makes 50,000 sasa mochi rice cakes every year, all on her own. What is the meaning of work? Of life? Of happiness? Granny Mochi's quiet, delightful tale warms the heart.</description>
+    <endDate>2021-03-14T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/OUhiiAoC#rvq4LFU-fsVeFDbQ4rfUBA</link>
+    <recordDateEnd>2021-03-14T01:55:29.213Z</recordDateEnd>
+    <recordDateStart>2021-03-14T01:09:20.132Z</recordDateStart>
+    <seriesId>4003</seriesId>
+    <sha256>6681bbc4e0fd8ead0ca2fc122b8eeb76fa04b2a3515f5d871885c80af57d8951</sha256>
+    <startDate>2021-03-14T01:10:00.000Z</startDate>
+    <subtitle>The Tale of Granny Mochi: Kuwata Misao</subtitle>
+    <title>The Professionals</title>
+    <uploadedDate>2021-03-19T12:34:19.476Z</uploadedDate>
+    <raw>https://mega.nz/folder/T9hWDATb#VrSW6UvE-9WiFqTSi_7k9g</raw>
   </episode>
   <episode>
     <airingId>143</airingId>
