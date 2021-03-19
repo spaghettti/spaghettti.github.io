@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T09:00:03.715Z",
+  "lastUpdated": "2021-03-19T09:10:03.425Z",
   "seriesId": "6209",
   "title": "Somewhere Street",
   "episodes": [
@@ -18,6 +18,22 @@
       "title": "Somewhere Street A little Stroll",
       "uploadedDate": "2021-01-13T13:50:49.159Z",
       "raw": "https://mega.nz/folder/5HpnDQjS#OCSnunEBY7ivM4Q53Lc9NQ"
+    },
+    {
+      "airingId": "002",
+      "content": "",
+      "description": "Let's have a short walk around the street in Munich, Germany where we will meet the people who is enjoying a beer, surfing etc.",
+      "endDate": "2021-03-14T16:25:00.000Z",
+      "link": "https://mega.nz/folder/txBzCYzA#dM0yVR4dzSJQmgS4-kYGgg",
+      "recordDateEnd": "2021-03-14T16:25:26.457Z",
+      "recordDateStart": "2021-03-14T16:09:22.739Z",
+      "seriesId": "6209",
+      "sha256": "d07dea193bf56e8de154c34b1e0957a91b157bcf7e61f6f6af4320e020beed21",
+      "startDate": "2021-03-14T16:10:00.000Z",
+      "subtitle": "",
+      "title": "Somewhere Street A Little Stroll",
+      "uploadedDate": "2021-03-19T09:09:38.715Z",
+      "raw": "https://mega.nz/folder/Tt5TAYpQ#BWM-J6v5Yi3q8Xuwkxbz_g"
     },
     {
       "airingId": "007",

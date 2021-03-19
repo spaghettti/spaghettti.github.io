@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T09:00:03.714Z</lastUpdated>
+  <lastUpdated>2021-03-19T09:10:03.424Z</lastUpdated>
   <seriesId>8a4476c69fcf9dff</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>Somewhere Street A little Stroll</title>
     <uploadedDate>2021-01-13T13:50:49.159Z</uploadedDate>
     <raw>https://mega.nz/folder/5HpnDQjS#OCSnunEBY7ivM4Q53Lc9NQ</raw>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>Let's have a short walk around the street in Munich, Germany where we will meet the people who is enjoying a beer, surfing etc.</description>
+    <endDate>2021-03-14T16:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/txBzCYzA#dM0yVR4dzSJQmgS4-kYGgg</link>
+    <recordDateEnd>2021-03-14T16:25:26.457Z</recordDateEnd>
+    <recordDateStart>2021-03-14T16:09:22.739Z</recordDateStart>
+    <seriesId>6209</seriesId>
+    <sha256>d07dea193bf56e8de154c34b1e0957a91b157bcf7e61f6f6af4320e020beed21</sha256>
+    <startDate>2021-03-14T16:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Somewhere Street A Little Stroll</title>
+    <uploadedDate>2021-03-19T09:09:38.715Z</uploadedDate>
+    <raw>https://mega.nz/folder/Tt5TAYpQ#BWM-J6v5Yi3q8Xuwkxbz_g</raw>
   </episode>
   <episode>
     <airingId>007</airingId>
