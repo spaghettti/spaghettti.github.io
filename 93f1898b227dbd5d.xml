@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T04:35:03.544Z</lastUpdated>
+  <lastUpdated>2021-03-19T04:40:03.635Z</lastUpdated>
   <seriesId>93f1898b227dbd5d</seriesId>
   <title>DESIGN TALKS plus</title>
   <episode>
@@ -211,5 +211,20 @@
     <title>DESIGN TALKS plus</title>
     <uploadedDate>2021-03-11T03:27:45.436Z</uploadedDate>
     <raw>https://mega.nz/folder/1a4W1KiY#S2HPMWajhBtVxiSaEfmQzw</raw>
+  </episode>
+  <episode>
+    <airingId>144</airingId>
+    <content>The Mingei movement began in 1926 but still has an enormous impact on Japanese product design today. As we all re-evaluate our lifestyles in the midst of a pandemic, explore how Mingei helped shape the design of ordinary items around Japan. Guest Takaki Takao runs a craftwork shop in Fukuoka and explores what lies ahead for our everyday lives.</content>
+    <description>Today's theme: Mingei, or Japanese Folk Crafts. These traditional crafts influence Japanese product design. The pandemic has brought them renewed attention. Explore their past, present, and future!</description>
+    <endDate>2021-03-18T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/gAgkgQIT#cHry_4HLEWg1bez6Zxv9xQ</link>
+    <recordDateEnd>2021-03-18T01:00:32.887Z</recordDateEnd>
+    <recordDateStart>2021-03-18T00:29:20.100Z</recordDateStart>
+    <seriesId>2046</seriesId>
+    <sha256>716822ae98dae796b01fe81d4b309675a96121939f7839b23ebb0bd2cc931d3f</sha256>
+    <startDate>2021-03-18T00:30:00.000Z</startDate>
+    <subtitle>Mingei: Japanese Folk Craft</subtitle>
+    <title>DESIGN TALKS plus</title>
+    <uploadedDate>2021-03-19T04:37:49.947Z</uploadedDate>
   </episode>
 </episodeList>
