@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T05:30:03.887Z",
+  "lastUpdated": "2021-03-19T05:50:03.593Z",
   "seriesId": "2032",
   "title": "Japanology Plus",
   "episodes": [
@@ -274,6 +274,21 @@
       "title": "Japanology Plus",
       "uploadedDate": "2021-02-02T15:44:40.622Z",
       "raw": "https://mega.nz/folder/AQtDiAza#iAp0pJZDknRrWpDWihgkug"
+    },
+    {
+      "airingId": "234",
+      "content": "*First broadcast on March 16, 2021.\nOn March 11, 2011, a magnitude 9 earthquake off the coast of northeast Japan caused a devastating tsunami that left around 18,000 people dead or unaccounted for. Ishinomaki, in Miyagi Prefecture, was one of the worst-affected areas. In a Japanophiles interview, Peter Barakan meets a long-term resident of the city: Richard Halberstadt, from the UK. Halberstadt talks about the disaster and its aftermath, and explains why he decided to stay and help Ishinomaki recover.",
+      "description": "Richard Halberstadt: Ten years on from the 2011 disaster. In a Japanophiles interview, Halberstadt tells Peter Barakan about his life in Ishinomaki, a city devastated by the March 2011 tsunami.",
+      "endDate": "2021-03-16T15:00:00.000Z",
+      "link": "https://mega.nz/folder/ihpBBK6T#3jxnIXIYqWjSJhyit_vjvw",
+      "recordDateEnd": "2021-03-16T15:00:26.986Z",
+      "recordDateStart": "2021-03-16T14:29:20.132Z",
+      "seriesId": "2032",
+      "sha256": "92f5658a4303cd2853d7d684a2e2b589f4393aa3f0f428719104982ccab18e2f",
+      "startDate": "2021-03-16T14:30:00.000Z",
+      "subtitle": "Japanophiles: Richard Halberstadt",
+      "title": "Japanology Plus",
+      "uploadedDate": "2021-03-19T05:47:52.819Z"
     }
   ]
 }

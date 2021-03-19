@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-19T05:30:04.108Z</lastUpdated>
+  <lastUpdated>2021-03-19T05:50:03.812Z</lastUpdated>
   <series>
     <count>23</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -475,10 +475,10 @@
     <title>Home Sweet Tokyo</title>
   </series>
   <series>
-    <count>12</count>
+    <count>13</count>
     <uniqueId>810a4b40916c42c4</uniqueId>
-    <lastAiring>2021-03-07T00:10:00.000Z</lastAiring>
-    <lastUpload>2021-03-07T01:36:55.199Z</lastUpload>
+    <lastAiring>2021-03-14T00:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-19T05:47:54.586Z</lastUpload>
     <seriesId>5003</seriesId>
     <title>Hometown Stories</title>
   </series>
@@ -579,10 +579,10 @@
     <title>JAPANGLE</title>
   </series>
   <series>
-    <count>17</count>
+    <count>18</count>
     <uniqueId>845116d579af2806</uniqueId>
-    <lastAiring>2021-03-09T14:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-09T17:28:07.556Z</lastUpload>
+    <lastAiring>2021-03-16T14:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-19T05:47:52.819Z</lastUpload>
     <seriesId>2032</seriesId>
     <title>Japanology Plus</title>
   </series>

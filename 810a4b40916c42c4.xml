@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T05:30:04.028Z</lastUpdated>
+  <lastUpdated>2021-03-19T05:50:03.729Z</lastUpdated>
   <seriesId>810a4b40916c42c4</seriesId>
   <title>Hometown Stories</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Hometown Stories</title>
     <uploadedDate>2021-01-24T02:18:57.122Z</uploadedDate>
     <raw>https://mega.nz/folder/Yf5WRQKZ#lc-wD5wDwmV9L1sv2oAczg</raw>
+  </episode>
+  <episode>
+    <airingId>126</airingId>
+    <content>Spring 2019 saw the return of some of the former residents of Okuma Town, Fukushima Prefecture who had evacuated due to high radiation. Instrumental in this were 6 former town employees, aged 66 on average, known as the "Grandpa Troop." These men spent 6 years maintaining affected areas, believing that residents could someday return. Following the partial lifting of an evacuation order, the troop disbanded this spring. We look at what inspired them to clear a path for the younger generation.</content>
+    <description>In the shadow of the crippled Fukushima nuclear plant, a group of men in thier 60s spent 6 years preserving thier deserted hometown to draw back former residents and pass it on to the next generation.</description>
+    <endDate>2021-03-14T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/pkwTxaoR#1EsSIqbUbZFD_7ipAe40iQ</link>
+    <recordDateEnd>2021-03-14T00:45:27.484Z</recordDateEnd>
+    <recordDateStart>2021-03-14T00:09:20.080Z</recordDateStart>
+    <seriesId>5003</seriesId>
+    <sha256>990358abee1769cc96b90c496dfde1372db4768bfb92304944597b6025ef8d3a</sha256>
+    <startDate>2021-03-14T00:10:00.000Z</startDate>
+    <subtitle>Fukushima's Grandpa Troop: Restoring a Deserted Town</subtitle>
+    <title>Hometown Stories</title>
+    <uploadedDate>2021-03-19T05:47:54.586Z</uploadedDate>
   </episode>
   <episode>
     <airingId>130</airingId>

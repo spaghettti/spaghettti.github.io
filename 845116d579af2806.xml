@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T05:30:03.885Z</lastUpdated>
+  <lastUpdated>2021-03-19T05:50:03.591Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -292,5 +292,21 @@ Ukiyo-e is a Japanese artform that emerged in the 17th century. Using woodblock 
     <title>Japanology Plus</title>
     <uploadedDate>2021-02-02T15:44:40.622Z</uploadedDate>
     <raw>https://mega.nz/folder/AQtDiAza#iAp0pJZDknRrWpDWihgkug</raw>
+  </episode>
+  <episode>
+    <airingId>234</airingId>
+    <content>*First broadcast on March 16, 2021.
+On March 11, 2011, a magnitude 9 earthquake off the coast of northeast Japan caused a devastating tsunami that left around 18,000 people dead or unaccounted for. Ishinomaki, in Miyagi Prefecture, was one of the worst-affected areas. In a Japanophiles interview, Peter Barakan meets a long-term resident of the city: Richard Halberstadt, from the UK. Halberstadt talks about the disaster and its aftermath, and explains why he decided to stay and help Ishinomaki recover.</content>
+    <description>Richard Halberstadt: Ten years on from the 2011 disaster. In a Japanophiles interview, Halberstadt tells Peter Barakan about his life in Ishinomaki, a city devastated by the March 2011 tsunami.</description>
+    <endDate>2021-03-16T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ihpBBK6T#3jxnIXIYqWjSJhyit_vjvw</link>
+    <recordDateEnd>2021-03-16T15:00:26.986Z</recordDateEnd>
+    <recordDateStart>2021-03-16T14:29:20.132Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>92f5658a4303cd2853d7d684a2e2b589f4393aa3f0f428719104982ccab18e2f</sha256>
+    <startDate>2021-03-16T14:30:00.000Z</startDate>
+    <subtitle>Japanophiles: Richard Halberstadt</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-03-19T05:47:52.819Z</uploadedDate>
   </episode>
 </episodeList>
