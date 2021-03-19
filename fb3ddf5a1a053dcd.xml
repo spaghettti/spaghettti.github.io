@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T10:45:03.292Z</lastUpdated>
+  <lastUpdated>2021-03-19T11:30:04.005Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -211,6 +211,22 @@
     <title>Japan's Top Inventions</title>
     <uploadedDate>2021-03-10T16:27:56.190Z</uploadedDate>
     <raw>https://mega.nz/folder/Cgp2FCjC#-z3unVXTXfR2pdkY6dC2bw</raw>
+  </episode>
+  <episode>
+    <airingId>027</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, home bread makers. These bread makers, first released in Japan in 1987, allow you to bake fresh bread at home by simply adding the ingredients and pushing a button. With over 10 million units shipped to 26 countries and regions, they're beloved worldwide. This time, the little-known story behind the 3 years of hard baking work involved in their creation.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, home bread makers, which let you to bake bread at home by simply pressing a button.</description>
+    <endDate>2021-03-17T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/GpZ1wIbS#N_PtQNy_Q12Ney6FJfg8Iw</link>
+    <recordDateEnd>2021-03-17T16:00:29.038Z</recordDateEnd>
+    <recordDateStart>2021-03-17T15:44:20.100Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>1ab4fbf6d85d18eee84fe00830b839df88d7d784eb3a0923766fc812ce8a973f</sha256>
+    <startDate>2021-03-17T15:45:00.000Z</startDate>
+    <subtitle>Home Bread Makers</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2021-03-19T11:28:18.540Z</uploadedDate>
+    <raw>https://mega.nz/folder/OpdzSSCL#9lMHPypY32Cu-Kuoqj3yKA</raw>
   </episode>
   <episode>
     <airingId>041</airingId>

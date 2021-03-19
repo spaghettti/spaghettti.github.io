@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-19T10:45:03.441Z</lastUpdated>
+  <lastUpdated>2021-03-19T11:30:04.174Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -539,10 +539,10 @@
     <title>Japan Lost and Found</title>
   </series>
   <series>
-    <count>16</count>
+    <count>17</count>
     <uniqueId>3ff887cb76b1a490</uniqueId>
-    <lastAiring>2021-03-11T15:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-11T20:23:02.777Z</lastUpload>
+    <lastAiring>2021-03-18T15:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-19T11:29:30.984Z</lastUpload>
     <seriesId>2049</seriesId>
     <title>Japan Railway Journal</title>
   </series>
@@ -555,10 +555,10 @@
     <title>JAPAN SPORTSCOPE</title>
   </series>
   <series>
-    <count>17</count>
+    <count>18</count>
     <uniqueId>fb3ddf5a1a053dcd</uniqueId>
-    <lastAiring>2021-03-10T15:45:00.000Z</lastAiring>
-    <lastUpload>2021-03-10T16:27:56.190Z</lastUpload>
+    <lastAiring>2021-03-17T15:45:00.000Z</lastAiring>
+    <lastUpload>2021-03-19T11:28:18.540Z</lastUpload>
     <seriesId>2072</seriesId>
     <title>Japan's Top Inventions</title>
   </series>

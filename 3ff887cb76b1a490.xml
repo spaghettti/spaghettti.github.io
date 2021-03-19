@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T10:45:03.243Z</lastUpdated>
+  <lastUpdated>2021-03-19T11:30:03.954Z</lastUpdated>
   <seriesId>3ff887cb76b1a490</seriesId>
   <title>Japan Railway Journal</title>
   <episode>
@@ -195,6 +195,22 @@
     <title>Japan Railway Journal</title>
     <uploadedDate>2021-03-11T20:23:02.777Z</uploadedDate>
     <raw>https://mega.nz/folder/Lgg01SKB#tP_XHJcdB_cvhEBc8vpwWQ</raw>
+  </episode>
+  <episode>
+    <airingId>090</airingId>
+    <content>Celebrating its 90th year, Tsugaru Railway in Aomori Prefecture runs by many popular tourist spots, and the railway's "stove train" is also a popular tourist attraction in winter. However, the impact of the coronavirus has caused sales revenue to drop by 70% compared to the previous year. Known for his unique ideas, see how the company's president plans to survive and come back from the coronavirus pandemic.</content>
+    <description>Celebrating its 90th year, Tsugaru Railway in Aomori Prefecture runs by many popular tourist spots. See how the company plans to survive and come back from the coronavirus pandemic.</description>
+    <endDate>2021-03-18T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/j0FXjCZK#GkVWfo-MLX0wYMXPjd7wqw</link>
+    <recordDateEnd>2021-03-18T16:00:32.525Z</recordDateEnd>
+    <recordDateStart>2021-03-18T15:29:20.100Z</recordDateStart>
+    <seriesId>2049</seriesId>
+    <sha256>6445b6aecea3f94dbe116b0629563773a4f563b7985ebaad50c2370e08f76900</sha256>
+    <startDate>2021-03-18T15:30:00.000Z</startDate>
+    <subtitle>Tsugaru Railway: Surviving the Coronavirus Pandemic</subtitle>
+    <title>Japan Railway Journal</title>
+    <uploadedDate>2021-03-19T11:29:30.984Z</uploadedDate>
+    <raw>https://mega.nz/folder/j1wEhZ4L#H0mzwwv3w-xGvrhJ1oeEZQ</raw>
   </episode>
   <episode>
     <airingId>093</airingId>
