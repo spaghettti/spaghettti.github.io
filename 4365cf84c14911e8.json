@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T18:20:03.253Z",
+  "lastUpdated": "2021-03-19T18:45:04.258Z",
   "seriesId": "2074,3004",
   "title": "BIZ STREAM",
   "episodes": [
@@ -178,6 +178,22 @@
       "title": "BIZ STREAM",
       "uploadedDate": "2021-03-06T15:39:23.263Z",
       "raw": "https://mega.nz/folder/OwZD1ITR#FRQ9_kIdP0yMYCw5mWo1OQ"
+    },
+    {
+      "airingId": "096",
+      "content": "[On-Site Report]\nDeveloped by a Japanese start-up, LIMEX is a plastic alternative material made primarily of limestone. The material is made with small amounts of petroleum-based resin, but the company has recently succeeded in creating a 100% petroleum-free bag by making use of a plant-based resin. From research and development, to joint recycling projects, this episode revisits one of Japan's premier start-ups and highlights its efforts to become even more environmentally friendly.",
+      "description": "From creating a bag out of a 100% petroleum-free plastic alternative to participating in a variety of recycling projects, this episode follows up on one of Japan's biggest and greenest start-ups.",
+      "endDate": "2021-03-13T14:40:00.000Z",
+      "link": "https://mega.nz/folder/jwQSWTLL#HUj6m2Qi440WQxD_zK772g",
+      "recordDateEnd": "2021-03-13T14:40:30.278Z",
+      "recordDateStart": "2021-03-13T14:09:20.118Z",
+      "seriesId": "2074",
+      "sha256": "44cc01b26aa0daa2ebf67f2b4e0ad710b76e9eb612c388c3c9e74f1dc75944ac",
+      "startDate": "2021-03-13T14:10:00.000Z",
+      "subtitle": "Striving for a Petroleum-Free Plastic Alternative",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2021-03-19T18:41:31.167Z",
+      "raw": "https://mega.nz/folder/D0o23bJI#wcqOfZ1YvljqHPsjaknE1g"
     },
     {
       "airingId": "704",
