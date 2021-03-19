@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T18:45:04.108Z</lastUpdated>
+  <lastUpdated>2021-03-19T20:20:03.771Z</lastUpdated>
   <seriesId>1315496c5871b57d</seriesId>
   <title>CYCLE AROUND JAPAN</title>
   <episode>
@@ -51,5 +51,21 @@
     <title>CYCLE AROUND JAPAN</title>
     <uploadedDate>2021-02-15T08:13:23.598Z</uploadedDate>
     <raw>https://mega.nz/folder/lAxSTR5B#zVeiU5IBlEK58oJSZCom6w</raw>
+  </episode>
+  <episode>
+    <airingId>040</airingId>
+    <content>In the city of Hiroshima we visit a community where the families who survived the devastation of the atomic bomb in the Second World War managed to revive their traditional farming specialty. In the islands to the south, we meet a potter uniquely making glazes from cast-off oyster shells, and in the mountains, a farmer tells of his passion for making animals happy. The last individual we encounter who has stuck to his own path in life is a carver of traditional instruments seeking the perfect sound.</content>
+    <description>We discover how people live today in the city and prefecture of Hiroshima, where society has long since returned to normal after the devastation of the atomic bombing more than 75 years ago.</description>
+    <endDate>2021-03-13T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/v8QQ1TTT#YL9wXtAl9erx6VHpFI_LOw</link>
+    <recordDateEnd>2021-03-13T01:00:26.481Z</recordDateEnd>
+    <recordDateStart>2021-03-13T00:09:20.005Z</recordDateStart>
+    <seriesId>2066</seriesId>
+    <sha256>88c0e73831917af91bb9ceea8c2bd583f478bd27a72971c05488cc4eac9ec553</sha256>
+    <startDate>2021-03-13T00:10:00.000Z</startDate>
+    <subtitle>Hiroshima - Going it Alone</subtitle>
+    <title>CYCLE AROUND JAPAN</title>
+    <uploadedDate>2021-03-19T20:17:53.562Z</uploadedDate>
+    <raw>https://mega.nz/folder/G9wAUBSb#xKcKlM4qsX-b41vHsTAeuA</raw>
   </episode>
 </episodeList>
