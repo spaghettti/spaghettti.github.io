@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T01:05:03.676Z",
+  "lastUpdated": "2021-03-19T01:20:04.049Z",
   "series": [
     {
       "count": 23,
@@ -154,10 +154,10 @@
       "title": "COOL JAPAN"
     },
     {
-      "count": 31,
+      "count": 32,
       "uniqueId": "67d2ae7ac69fb919",
-      "lastAiring": "2021-03-10T23:30:00.000Z",
-      "lastUpload": "2021-03-11T01:03:53.900Z",
+      "lastAiring": "2021-03-17T23:30:00.000Z",
+      "lastUpload": "2021-03-19T01:19:26.498Z",
       "seriesId": "2029",
       "title": "Core Kyoto"
     },
@@ -234,10 +234,10 @@
       "title": "Dig More Japan"
     },
     {
-      "count": 34,
+      "count": 35,
       "uniqueId": "4562406e38a4085a",
-      "lastAiring": "2021-03-12T14:30:00.000Z",
-      "lastUpload": "2021-03-12T17:08:23.474Z",
+      "lastAiring": "2021-03-16T00:30:00.000Z",
+      "lastUpload": "2021-03-19T01:15:31.381Z",
       "seriesId": "2019",
       "title": "Dining with the Chef"
     },

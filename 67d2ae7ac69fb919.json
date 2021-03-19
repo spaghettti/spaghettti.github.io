@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T01:05:03.445Z",
+  "lastUpdated": "2021-03-19T01:20:03.823Z",
   "seriesId": "2029",
   "title": "Core Kyoto",
   "episodes": [
@@ -498,6 +498,21 @@
       "title": "Core Kyoto",
       "uploadedDate": "2021-02-18T00:59:50.957Z",
       "raw": "https://mega.nz/folder/tdgw3Taa#uXEijY1mHWs84pEj0eLC4A"
+    },
+    {
+      "airingId": "150",
+      "content": "The traditional, wooden townhouses built prior to 1950 that dot the downtown area of Kyoto served as both living and work spaces. American Jeff Berglund, university professor and Kyoto tourism ambassador, lives in one built 160 years ago. A Japan resident for 50 years, Berglund aspires to living in harmony with nature. He honors the customs of old that are still practiced today and promotes Japan's culture abroad. Discover the pleasures of living in a Machiya through Berglund's daily encounters.",
+      "description": "American Jeff Berglund, a university professor, lives in a Kyoto machiya townhouse, built 160 years ago. He shows us around his home and discusses the pleasures of living in a traditional setting.",
+      "endDate": "2021-03-18T00:00:00.000Z",
+      "link": "https://mega.nz/folder/2lciVRJB#GVFYrKT7Ol4t1ilObVLesw",
+      "recordDateEnd": "2021-03-18T00:00:26.112Z",
+      "recordDateStart": "2021-03-17T23:29:20.100Z",
+      "seriesId": "2029",
+      "sha256": "f1d6435b9dc1af38ee33c82112ee5817e3b0588850d4dfe228b7517ac2e0d66a",
+      "startDate": "2021-03-17T23:30:00.000Z",
+      "subtitle": "Life in a Machiya: The Appreciation of Nature and Time",
+      "title": "Core Kyoto",
+      "uploadedDate": "2021-03-19T01:19:26.498Z"
     }
   ]
 }
