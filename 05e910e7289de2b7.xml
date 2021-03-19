@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T15:40:04.018Z</lastUpdated>
+  <lastUpdated>2021-03-19T17:15:03.930Z</lastUpdated>
   <seriesId>05e910e7289de2b7</seriesId>
   <title>The Great Summits</title>
+  <episode>
+    <airingId>004</airingId>
+    <content/>
+    <description>"The Great Summit" presents you with breathtaking views and stories behind famous mountains around the world. Today: A sanctuary for Climbers, Matterhorn, the Alps.</description>
+    <endDate>2021-03-18T13:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/gFIx3SDK#UoBuld_G9TgcylpBqqZxkg</link>
+    <recordDateEnd>2021-03-18T13:30:27.093Z</recordDateEnd>
+    <recordDateStart>2021-03-18T13:19:20.098Z</recordDateStart>
+    <seriesId>6113</seriesId>
+    <sha256>10ea8b34c913577bd3b448f42efcd6053fd0663efe9a17e28537a8c615b7d1ed</sha256>
+    <startDate>2021-03-18T13:20:00.000Z</startDate>
+    <subtitle/>
+    <title>The Great Summits</title>
+    <uploadedDate>2021-03-19T17:14:50.320Z</uploadedDate>
+    <raw>https://mega.nz/folder/NkZBCIrZ#NDP7xXyREl3Bx16tVdIwBg</raw>
+  </episode>
   <episode>
     <airingId>011</airingId>
     <content/>
