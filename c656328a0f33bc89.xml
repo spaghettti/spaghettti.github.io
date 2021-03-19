@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T00:40:03.835Z</lastUpdated>
+  <lastUpdated>2021-03-19T00:55:03.457Z</lastUpdated>
   <seriesId>c656328a0f33bc89</seriesId>
   <title>15 Minutes</title>
   <episode>
@@ -36,6 +36,22 @@ Tami Hiyama, 92 years old, lives alone in Fukuoka City, where she has taught hom
     <title>15 Minutes</title>
     <uploadedDate>2020-12-30T01:21:46.367Z</uploadedDate>
     <raw>https://mega.nz/folder/ixNRXIbB#Rs3GOGDjerJY6sYqaRSwcQ</raw>
+  </episode>
+  <episode>
+    <airingId>101</airingId>
+    <content>In winter, men and women sheltered in strange shell-like tents patiently wait on the frozen surface of a picturesque mountain lake in central Japan. They come for Japanese pond smelt, a fish as marvelous to look at as it is tasty, especially in tempura. Catching it is not for the casual, but for the most passionate of anglers - those willing to meticulously craft their own rods or go as far as building a computer controlled fishing robot. Witness the mad enthusiasm of these innovators on ice.</content>
+    <description>In central Japan, anglers flock to the frozen surface of a lake to catch pond smelt - a tempura delicacy - using methods that range from the tried-and-true traditional to the robotically maniacal.</description>
+    <endDate>2021-03-17T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/EZRVFQLD#IeunG-e7aKr33HemnQAGtg</link>
+    <recordDateEnd>2021-03-17T01:00:27.533Z</recordDateEnd>
+    <recordDateStart>2021-03-17T00:44:23.082Z</recordDateStart>
+    <seriesId>3019</seriesId>
+    <sha256>9e872bcaedbfbd0bac7c6e1bd1dba1c73c0cf5ce3e9fe157f55b9d522bbf385c</sha256>
+    <startDate>2021-03-17T00:45:00.000Z</startDate>
+    <subtitle>Fishing Crazy: Innovators on Ice</subtitle>
+    <title>15 Minutes</title>
+    <uploadedDate>2021-03-19T00:55:00.249Z</uploadedDate>
+    <raw>https://mega.nz/folder/KkRjhQyD#IPXyYnjybay0Fy_DxF3Eqw</raw>
   </episode>
   <episode>
     <airingId>113</airingId>
