@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T07:35:03.552Z</lastUpdated>
+  <lastUpdated>2021-03-19T07:40:03.300Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -723,6 +723,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-03-02T07:58:36.597Z</uploadedDate>
     <raw>https://mega.nz/folder/xwgzFaoT#E2KqmUgaOUTUYLOUGwausw</raw>
+  </episode>
+  <episode>
+    <airingId>614</airingId>
+    <content>Yoshihiko Ishikawa has ascended to the elite ranks of the world's ultramarathon runners. He tells us how he got involved in this intense sport, and how he managed to rise to the top.</content>
+    <description>Yoshihiko Ishikawa has ascended to the elite ranks of the world's ultramarathon runners. He tells us how he got involved in this intense sport, and how he managed to rise to the top.</description>
+    <endDate>2021-03-15T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/wwYBVATA#aDBfN8a7MVzD-8ECG3Ruuw</link>
+    <recordDateEnd>2021-03-15T07:30:23.898Z</recordDateEnd>
+    <recordDateStart>2021-03-15T07:14:20.045Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>fe2aaf44a1aaff9f373a8b4025a96c12041a67efee9acc8ba24aa29431fcdc53</sha256>
+    <startDate>2021-03-15T07:15:00.000Z</startDate>
+    <subtitle>Unlocking Your True Potential: Yoshihiko Ishikawa / Ultramarathon Runner</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-03-19T07:36:43.664Z</uploadedDate>
   </episode>
   <episode>
     <airingId>615</airingId>
