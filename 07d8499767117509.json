@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T02:05:03.502Z",
+  "lastUpdated": "2021-03-19T02:10:03.115Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2402,6 +2402,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-03-11T07:57:21.823Z",
       "raw": "https://mega.nz/folder/vlsnSSiD#7JwelEJwlDYLEVXANb2kiA"
+    },
+    {
+      "airingId": "751",
+      "content": "Sarah Al Amiri is both a minister and the science lead of the UAE's Mars probe mission, which successfully entered orbit in 2021. What is it that pushes her and her country towards space exploration?",
+      "description": "Sarah Al Amiri is both a minister and the science lead of the UAE's Mars probe mission, which successfully entered orbit in 2021. What is it that pushes her and her country towards space exploration?",
+      "endDate": "2021-03-18T07:30:00.000Z",
+      "link": "https://mega.nz/folder/8tAmRZAK#EvjabJXs5xI62EzxALhM0Q",
+      "recordDateEnd": "2021-03-18T07:30:28.993Z",
+      "recordDateStart": "2021-03-18T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "5b8d72335bab44e283e68c166e74029f697972fb87b54f61c035a08c3bc3bd69",
+      "startDate": "2021-03-18T07:15:00.000Z",
+      "subtitle": "Unlocking UAE's Future With Science: Sarah Al Amiri / Minister of State for Advanced Technology, UAE",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-03-19T02:07:32.154Z"
     },
     {
       "airingId": "752",

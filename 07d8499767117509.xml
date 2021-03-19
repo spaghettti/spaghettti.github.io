@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T02:05:03.486Z</lastUpdated>
+  <lastUpdated>2021-03-19T02:10:03.101Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2403,6 +2403,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-03-11T07:57:21.823Z</uploadedDate>
     <raw>https://mega.nz/folder/vlsnSSiD#7JwelEJwlDYLEVXANb2kiA</raw>
+  </episode>
+  <episode>
+    <airingId>751</airingId>
+    <content>Sarah Al Amiri is both a minister and the science lead of the UAE's Mars probe mission, which successfully entered orbit in 2021. What is it that pushes her and her country towards space exploration?</content>
+    <description>Sarah Al Amiri is both a minister and the science lead of the UAE's Mars probe mission, which successfully entered orbit in 2021. What is it that pushes her and her country towards space exploration?</description>
+    <endDate>2021-03-18T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/8tAmRZAK#EvjabJXs5xI62EzxALhM0Q</link>
+    <recordDateEnd>2021-03-18T07:30:28.993Z</recordDateEnd>
+    <recordDateStart>2021-03-18T07:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>5b8d72335bab44e283e68c166e74029f697972fb87b54f61c035a08c3bc3bd69</sha256>
+    <startDate>2021-03-18T07:15:00.000Z</startDate>
+    <subtitle>Unlocking UAE's Future With Science: Sarah Al Amiri / Minister of State for Advanced Technology, UAE</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-03-19T02:07:32.154Z</uploadedDate>
   </episode>
   <episode>
     <airingId>752</airingId>
