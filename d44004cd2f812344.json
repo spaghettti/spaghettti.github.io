@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T06:10:04.180Z",
+  "lastUpdated": "2021-03-19T07:35:03.723Z",
   "seriesId": "3004",
   "title": "JAPAN SPORTSCOPE",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "JAPAN SPORTSCOPE",
       "uploadedDate": "2021-01-01T03:58:35.657Z",
       "raw": "https://mega.nz/folder/V0txCQLS#tV7sGMMWF2nIEtXRihfGeQ"
+    },
+    {
+      "airingId": "646",
+      "content": "",
+      "description": "This program introduces Japanese sports facilities for visitors from abroad. Our reporter visits spots you can get to and back from Tokyo in a day. This time we show a Squash facility in Yokohama.",
+      "endDate": "2021-03-14T11:35:00.000Z",
+      "link": "https://mega.nz/folder/qFZzGQhL#ZpWxjJR7DCIWeHpSCw5usA",
+      "recordDateEnd": "2021-03-14T11:35:24.810Z",
+      "recordDateStart": "2021-03-14T11:24:23.159Z",
+      "seriesId": "3004",
+      "sha256": "a23bb5ccceee5a02980544775c2827fae60cdfb2f63ed991d82882602fa1bdc5",
+      "startDate": "2021-03-14T11:25:00.000Z",
+      "subtitle": "",
+      "title": "JAPAN SPORTSCOPE",
+      "uploadedDate": "2021-03-19T07:32:41.576Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-19T06:10:04.182Z</lastUpdated>
+  <lastUpdated>2021-03-19T07:35:03.734Z</lastUpdated>
   <series>
     <count>23</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -547,10 +547,10 @@
     <title>Japan Railway Journal</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>d44004cd2f812344</uniqueId>
-    <lastAiring>2021-01-01T01:20:00.000Z</lastAiring>
-    <lastUpload>2021-01-01T03:58:35.657Z</lastUpload>
+    <lastAiring>2021-03-14T11:25:00.000Z</lastAiring>
+    <lastUpload>2021-03-19T07:32:41.576Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>JAPAN SPORTSCOPE</title>
   </series>

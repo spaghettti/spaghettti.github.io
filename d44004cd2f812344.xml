@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T06:10:04.180Z</lastUpdated>
+  <lastUpdated>2021-03-19T07:35:03.723Z</lastUpdated>
   <seriesId>d44004cd2f812344</seriesId>
   <title>JAPAN SPORTSCOPE</title>
   <episode>
@@ -67,5 +67,20 @@
     <title>JAPAN SPORTSCOPE</title>
     <uploadedDate>2021-01-01T03:58:35.657Z</uploadedDate>
     <raw>https://mega.nz/folder/V0txCQLS#tV7sGMMWF2nIEtXRihfGeQ</raw>
+  </episode>
+  <episode>
+    <airingId>646</airingId>
+    <content/>
+    <description>This program introduces Japanese sports facilities for visitors from abroad. Our reporter visits spots you can get to and back from Tokyo in a day. This time we show a Squash facility in Yokohama.</description>
+    <endDate>2021-03-14T11:35:00.000Z</endDate>
+    <link>https://mega.nz/folder/qFZzGQhL#ZpWxjJR7DCIWeHpSCw5usA</link>
+    <recordDateEnd>2021-03-14T11:35:24.810Z</recordDateEnd>
+    <recordDateStart>2021-03-14T11:24:23.159Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>a23bb5ccceee5a02980544775c2827fae60cdfb2f63ed991d82882602fa1bdc5</sha256>
+    <startDate>2021-03-14T11:25:00.000Z</startDate>
+    <subtitle/>
+    <title>JAPAN SPORTSCOPE</title>
+    <uploadedDate>2021-03-19T07:32:41.576Z</uploadedDate>
   </episode>
 </episodeList>
