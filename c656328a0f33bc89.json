@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T10:15:04.432Z",
+  "lastUpdated": "2021-03-19T10:20:03.241Z",
   "seriesId": "3019",
   "title": "15 Minutes",
   "episodes": [
@@ -370,6 +370,21 @@
       "title": "15 Minutes",
       "uploadedDate": "2021-02-24T02:03:26.397Z",
       "raw": "https://mega.nz/folder/RGhDVCoS#atjCc2LZqaUF7-24Kq11_A"
+    },
+    {
+      "airingId": "136",
+      "content": "At the foot of the Nikko mountains lives Yamamoto Yuichiro (age 70) and his son Jin-ichiro (45), who, without relying on any machines, produce the hardest natural ice in Japan. The season begins in late fall when they adjust the amount of spring water daily while waiting for cold weather. If the first centimeter freezes solid, then it will make fine ice. But if it doesn't, they will have to break it and start over. Yuichiro says, \"Man can only do very little to nature. So the ice artisan's job is to just help the ice to grow without fighting nature.\" In December, they scrape snow to help the ice freeze and keep careful watch as it slowly grows until harvest time in 3 months. We take a close look at the efforts of these men who produce hard-to-melt ice in harmony with nature.",
+      "description": "Artisans produce the hardest natural ice in Japan without relying on any machines. If the first centimeter freezes solid, it will make fine ice. But if it doesn't, then they have to start over.",
+      "endDate": "2021-03-17T00:45:00.000Z",
+      "link": "https://mega.nz/folder/204CHIZS#SALpq_tR6UujzoQhVE14xw",
+      "recordDateEnd": "2021-03-17T00:45:29.588Z",
+      "recordDateStart": "2021-03-17T00:29:20.159Z",
+      "seriesId": "3019",
+      "sha256": "f98b5b48c8ded243d02b534be6e441c83690b15d8c1256a7d17c87fe9e92ecc4",
+      "startDate": "2021-03-17T00:30:00.000Z",
+      "subtitle": "A Treasured Creation: Today's Treasure - \"Natural Ice Farmers\"",
+      "title": "15 Minutes",
+      "uploadedDate": "2021-03-19T10:17:15.482Z"
     }
   ]
 }
