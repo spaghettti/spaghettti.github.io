@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T12:00:03.847Z",
+  "lastUpdated": "2021-03-19T12:20:03.269Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -736,7 +736,8 @@
       "startDate": "2021-03-15T07:15:00.000Z",
       "subtitle": "Unlocking Your True Potential: Yoshihiko Ishikawa / Ultramarathon Runner",
       "title": "Direct Talk",
-      "uploadedDate": "2021-03-19T07:36:43.664Z"
+      "uploadedDate": "2021-03-19T07:36:43.664Z",
+      "raw": "https://mega.nz/folder/KwpGyKwB#rfjM2iRxWD1gExdq-nB5JQ"
     },
     {
       "airingId": "615",
@@ -1763,18 +1764,18 @@
     },
     {
       "airingId": "707",
-      "content": "HARA is an illusionist who has performed live and on television in over 30 countries, winning numerous awards. We speak with him about how he strives to conjure up \"magic that only I can do.\"",
+      "content": "",
       "description": "HARA is an illusionist who has performed live and on television in over 30 countries, winning numerous awards. We speak with him about how he strives to conjure up \"magic that only I can do.\"",
-      "endDate": "2020-11-30T07:30:00.000Z",
-      "link": "https://mega.nz/folder/N5NQmBpA#U3kYjqxkRHge0puicK5I8A",
-      "recordDateEnd": "2020-11-30T07:30:29.405Z",
-      "recordDateStart": "2020-11-30T07:14:20.018Z",
+      "endDate": "2021-03-15T04:30:00.000Z",
+      "link": "https://mega.nz/folder/pNoQ0KSK#BfzGo8g4VJPRYYY-6DDf-g",
+      "recordDateEnd": "2021-03-15T04:30:30.327Z",
+      "recordDateStart": "2021-03-15T04:14:20.132Z",
       "seriesId": "2058",
-      "sha256": "b8d0d4d127d101a0b0412479c5534aa9d9de6ff67f07228692f7145b11a19d37",
-      "startDate": "2020-11-30T07:15:00.000Z",
-      "subtitle": "Original Magic That Captivates the World: HARA / Illusionist",
+      "sha256": "49f314900c76832f277d0c665a6c06346f5441d0927ef677f1242db9e782d818",
+      "startDate": "2021-03-15T04:15:00.000Z",
+      "subtitle": "",
       "title": "Direct Talk",
-      "uploadedDate": "2020-12-25T21:27:21.769Z",
+      "uploadedDate": "2021-03-19T12:17:11.733Z",
       "raw": "https://mega.nz/folder/D99mwb7a#qhxgUNLukZzSi4-I83beJw"
     },
     {

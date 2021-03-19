@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T12:00:03.832Z</lastUpdated>
+  <lastUpdated>2021-03-19T12:20:03.254Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -738,6 +738,7 @@
     <subtitle>Unlocking Your True Potential: Yoshihiko Ishikawa / Ultramarathon Runner</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2021-03-19T07:36:43.664Z</uploadedDate>
+    <raw>https://mega.nz/folder/KwpGyKwB#rfjM2iRxWD1gExdq-nB5JQ</raw>
   </episode>
   <episode>
     <airingId>615</airingId>
@@ -1764,18 +1765,18 @@
   </episode>
   <episode>
     <airingId>707</airingId>
-    <content>HARA is an illusionist who has performed live and on television in over 30 countries, winning numerous awards. We speak with him about how he strives to conjure up "magic that only I can do."</content>
+    <content/>
     <description>HARA is an illusionist who has performed live and on television in over 30 countries, winning numerous awards. We speak with him about how he strives to conjure up "magic that only I can do."</description>
-    <endDate>2020-11-30T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/N5NQmBpA#U3kYjqxkRHge0puicK5I8A</link>
-    <recordDateEnd>2020-11-30T07:30:29.405Z</recordDateEnd>
-    <recordDateStart>2020-11-30T07:14:20.018Z</recordDateStart>
+    <endDate>2021-03-15T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/pNoQ0KSK#BfzGo8g4VJPRYYY-6DDf-g</link>
+    <recordDateEnd>2021-03-15T04:30:30.327Z</recordDateEnd>
+    <recordDateStart>2021-03-15T04:14:20.132Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>b8d0d4d127d101a0b0412479c5534aa9d9de6ff67f07228692f7145b11a19d37</sha256>
-    <startDate>2020-11-30T07:15:00.000Z</startDate>
-    <subtitle>Original Magic That Captivates the World: HARA / Illusionist</subtitle>
+    <sha256>49f314900c76832f277d0c665a6c06346f5441d0927ef677f1242db9e782d818</sha256>
+    <startDate>2021-03-15T04:15:00.000Z</startDate>
+    <subtitle/>
     <title>Direct Talk</title>
-    <uploadedDate>2020-12-25T21:27:21.769Z</uploadedDate>
+    <uploadedDate>2021-03-19T12:17:11.733Z</uploadedDate>
     <raw>https://mega.nz/folder/D99mwb7a#qhxgUNLukZzSi4-I83beJw</raw>
   </episode>
   <episode>
