@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T12:35:03.294Z</lastUpdated>
+  <lastUpdated>2021-03-19T14:35:03.020Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
   <episode>
@@ -275,5 +275,21 @@
     <title>Doki Doki! NHK WORLD-JAPAN</title>
     <uploadedDate>2021-03-07T12:17:37.580Z</uploadedDate>
     <raw>https://mega.nz/folder/ywIF0QoK#FNPo7jGIqTqyR-ycgI1NJQ</raw>
+  </episode>
+  <episode>
+    <airingId>081</airingId>
+    <content/>
+    <description>This time we introduce "Maiko-san Chi no Makanai-san," the anime series on NHK WORLD-JAPAN. The life and friendship of a Maiko and a live-in-cook in Kagai in Kyoto is presented in the series.</description>
+    <endDate>2021-03-14T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/ccJjSI5Z#j7-JQd44_uKppdfSCN9eRQ</link>
+    <recordDateEnd>2021-03-14T11:55:30.322Z</recordDateEnd>
+    <recordDateStart>2021-03-14T11:49:20.143Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>7cdbe5c778867a86b65ed2c866a96482dec71024ec5df99369a3dad34f328da2</sha256>
+    <startDate>2021-03-14T11:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2021-03-19T14:32:47.610Z</uploadedDate>
+    <raw>https://mega.nz/folder/RBp0DT7Z#B-kwRoa6iL6Gn4VKtKGatw</raw>
   </episode>
 </episodeList>
