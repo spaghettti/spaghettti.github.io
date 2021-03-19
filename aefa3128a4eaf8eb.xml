@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T05:50:03.711Z</lastUpdated>
+  <lastUpdated>2021-03-19T05:55:03.584Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -195,6 +195,21 @@
     <title>Somewhere Street</title>
     <uploadedDate>2021-02-22T05:41:26.467Z</uploadedDate>
     <raw>https://mega.nz/folder/LkY0nZKS#2DILqpznCslvxn2zMJPChg</raw>
+  </episode>
+  <episode>
+    <airingId>094</airingId>
+    <content>At the base of Tian Shan Mountains, in the Central Asian country of Kazakhstan, is the city of Almaty. Originally, Almaty was a small village on the edge of a broad plain. The people living here were Kazakhs. The Kazakhs kept sheep and camels, and led a nomadic life. Major changes came in the mid-19th century. The Russian Empire claimed this as its territory, and many Russian settlers came. They laid out streets in a grid, and built a modern city. Almaty is known for its rich greenery. It's also called a "garden city."</content>
+    <description>At the base of Tian Shan mountains, in the Central Asian country of Kazakhstan, is the city of Almaty. Almaty is known for its rich greenery. It's also called a "garden city."</description>
+    <endDate>2021-03-14T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/mtgVGSSK#RKhvqJiKpjCLll2Bp_mrOg</link>
+    <recordDateEnd>2021-03-14T05:00:26.217Z</recordDateEnd>
+    <recordDateStart>2021-03-14T04:09:23.064Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>2d8aea68d94583a4fcc518bdca683dc36c178956311a9c97b2dee2420b4976a7</sha256>
+    <startDate>2021-03-14T04:10:00.000Z</startDate>
+    <subtitle>Almaty, Kazakhstan</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-03-19T05:51:18.890Z</uploadedDate>
   </episode>
   <episode>
     <airingId>107</airingId>
