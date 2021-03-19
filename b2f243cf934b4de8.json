@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T11:30:03.993Z",
+  "lastUpdated": "2021-03-19T11:45:04.035Z",
   "seriesId": "2061",
   "title": "GRAND SUMO Highlights",
   "episodes": [
@@ -370,6 +370,21 @@
       "title": "GRAND SUMO Highlights",
       "uploadedDate": "2021-01-24T19:43:21.472Z",
       "raw": "https://mega.nz/folder/kAA1nArA#7bJfam3oeKLFFJLuO5puSg"
+    },
+    {
+      "airingId": "407",
+      "content": "The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!",
+      "description": "NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from March 15, Day 2 of the Grand Sumo Tournament in Tokyo.",
+      "endDate": "2021-03-15T16:57:00.000Z",
+      "link": "https://mega.nz/folder/k5pHAAxZ#bIUAl1ip2d7QuG99hRtDIg",
+      "recordDateEnd": "2021-03-15T16:57:30.497Z",
+      "recordDateStart": "2021-03-15T16:29:20.129Z",
+      "seriesId": "2061",
+      "sha256": "b9b0e30dd7ca9509c6cd064a1e7df780596cae85d859b09614335b36d328a280",
+      "startDate": "2021-03-15T16:30:00.000Z",
+      "subtitle": "March Tournament Day 2",
+      "title": "GRAND SUMO Highlights",
+      "uploadedDate": "2021-03-19T11:44:36.217Z"
     },
     {
       "airingId": "408",
