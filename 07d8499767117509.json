@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T14:35:03.001Z",
+  "lastUpdated": "2021-03-19T14:55:03.288Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2482,6 +2482,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-03-19T01:00:32.632Z",
       "raw": "https://mega.nz/folder/SwlGQDAQ#5z2dQdmFJDNbBZ3r5nd2aA"
+    },
+    {
+      "airingId": "754",
+      "content": "Using 360-degree cameras, a South African virtual reality video creator is helping to preserve wild animals on the verge of extinction by dispatching documentary films.",
+      "description": "Using 360-degree cameras, a South African virtual reality video creator is helping to preserve wild animals on the verge of extinction by dispatching documentary films.",
+      "endDate": "2021-03-19T07:30:00.000Z",
+      "link": "https://mega.nz/folder/moBT0a6D#aBE1yBlCLIxHgS06_cmVbw",
+      "recordDateEnd": "2021-03-19T07:30:29.132Z",
+      "recordDateStart": "2021-03-19T07:14:20.037Z",
+      "seriesId": "2058",
+      "sha256": "158572d7ec8663de00267d996647f418c94e8ba8c66cdf243f1e2ae3c463a3cb",
+      "startDate": "2021-03-19T07:15:00.000Z",
+      "subtitle": "Saving Wild Animals With VR: Ulrico Grech-Cumbo / VR Filmmaker",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-03-19T14:52:37.657Z"
     }
   ]
 }
