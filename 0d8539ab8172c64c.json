@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T10:10:03.547Z",
+  "lastUpdated": "2021-03-19T10:15:04.479Z",
   "seriesId": "6028",
   "title": "Selfie Japan!",
   "episodes": [
@@ -98,6 +98,22 @@
       "title": "Selfie Japan!",
       "uploadedDate": "2020-12-24T15:30:30.021Z",
       "raw": "https://mega.nz/folder/lEAj2SxY#zZ_VrgaLjO69NEVSSA6ecA"
+    },
+    {
+      "airingId": "012",
+      "content": "",
+      "description": "We visit Ehime Prefecture in Shikoku. Pirates once roamed the area. We take selfies with the swift currents. We also enjoy a \"pirate dish\" and take selfies with a 3,000-year-old tree.",
+      "endDate": "2021-03-14T02:00:00.000Z",
+      "link": "https://mega.nz/folder/ZNwiCITK#14fPnC4Vd0twQqG8nKjv1Q",
+      "recordDateEnd": "2021-03-14T02:00:27.234Z",
+      "recordDateStart": "2021-03-14T01:54:25.174Z",
+      "seriesId": "6028",
+      "sha256": "2388273ecf945198d286005c07f0913edd32ad5b439d825ca3ededcad1f715e8",
+      "startDate": "2021-03-14T01:55:00.000Z",
+      "subtitle": "",
+      "title": "Selfie Japan!",
+      "uploadedDate": "2021-03-19T10:13:18.241Z",
+      "raw": "https://mega.nz/folder/CkxjHCDK#0jb-YLFyJKkIbhV6N1zAqg"
     }
   ]
 }

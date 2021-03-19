@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-19T10:10:03.606Z</lastUpdated>
+  <lastUpdated>2021-03-19T10:15:04.538Z</lastUpdated>
   <series>
     <count>23</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -899,10 +899,10 @@
     <title>Seasoning the Seasons</title>
   </series>
   <series>
-    <count>6</count>
+    <count>7</count>
     <uniqueId>0d8539ab8172c64c</uniqueId>
-    <lastAiring>2021-02-07T01:55:00.000Z</lastAiring>
-    <lastUpload>2021-02-15T17:47:51.403Z</lastUpload>
+    <lastAiring>2021-03-14T01:55:00.000Z</lastAiring>
+    <lastUpload>2021-03-19T10:13:18.241Z</lastUpload>
     <seriesId>6028</seriesId>
     <title>Selfie Japan!</title>
   </series>
