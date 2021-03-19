@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T08:45:03.841Z</lastUpdated>
+  <lastUpdated>2021-03-19T09:00:03.583Z</lastUpdated>
   <seriesId>b2d48e71e072a1aa</seriesId>
   <title>Wild Hokkaido!</title>
   <episode>
@@ -275,5 +275,20 @@
     <title>Wild Hokkaido!</title>
     <uploadedDate>2021-03-07T02:02:24.943Z</uploadedDate>
     <raw>https://mega.nz/folder/b44XXQwT#kIW-jGxCLvc-ybIeAhll3w</raw>
+  </episode>
+  <episode>
+    <airingId>084</airingId>
+    <content>Skiers and snowboarders from all over the world come in search of Japan's finest snow, Japan Powder Snow, or "Japow" for short. We hope you will thoroughly enjoy this special episode of Wild Hokkaido, introducing you to Japow. Our stage this time is Niseko, one of the top resort destinations in all of Hokkaido Prefecture, where fresh snow piles up almost every day during winter. The program host enjoys the great outdoors through a variety of fun winter activities, aside from skiing and snowboarding.</content>
+    <description>Niseko is one of the top winter resort destinations in all of Hokkaido. The program host enjoys the great outdoors through a variety of fun winter activities, aside from skiing.</description>
+    <endDate>2021-03-14T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/z4ZyzLaT#hcNMd7HuYIJu2xWn-97N3A</link>
+    <recordDateEnd>2021-03-14T01:00:23.329Z</recordDateEnd>
+    <recordDateStart>2021-03-14T00:44:22.565Z</recordDateStart>
+    <seriesId>2069</seriesId>
+    <sha256>b70125d38eb0a61406945d99335b981ffb69f84b3dedb4e99d21a1ec263e868e</sha256>
+    <startDate>2021-03-14T00:45:00.000Z</startDate>
+    <subtitle>Enjoy Japow: Niseko Area</subtitle>
+    <title>Wild Hokkaido!</title>
+    <uploadedDate>2021-03-19T08:57:11.245Z</uploadedDate>
   </episode>
 </episodeList>
