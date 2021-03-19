@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-19T03:45:04.102Z</lastUpdated>
+  <lastUpdated>2021-03-19T04:00:04.078Z</lastUpdated>
   <series>
     <count>23</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -491,10 +491,10 @@
     <title>Human Security in the COVID-19 Era</title>
   </series>
   <series>
-    <count>13</count>
+    <count>14</count>
     <uniqueId>30aa2c9c765292e1</uniqueId>
-    <lastAiring>2021-03-07T16:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-07T17:26:05.725Z</lastUpload>
+    <lastAiring>2021-03-14T20:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-19T03:59:17.968Z</lastUpload>
     <seriesId>6206</seriesId>
     <title>Inspiring Landscapes</title>
   </series>
