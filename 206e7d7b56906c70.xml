@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T02:40:03.710Z</lastUpdated>
+  <lastUpdated>2021-03-19T02:50:03.718Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2020-12-24T16:37:26.309Z</uploadedDate>
     <raw>https://mega.nz/folder/ytlCVJTI#zG06REziEu2lQ64wlDxVmA</raw>
+  </episode>
+  <episode>
+    <airingId>081</airingId>
+    <content>The Sanriku Railway in Iwate Prefecture is a lifeline, playing an important role in the local community. The train goes up and down the line, and the arrival of the train is part of the rhythm of life. In March 2011, the railway was completely destroyed by the tsunami that followed the Great East Japan Earthquake. The road to recovery was a difficult one, and at one point, there was even talk of abolishing the line. The railway is now back on track, having finally resumed full service. We look back on the slow but steady restoration of the Sanriku Railway, over a period of 3 years.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history. Today: Sanriku Railway, Back from the Brink.</description>
+    <endDate>2021-03-15T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/kFo2nDTS#c3JEHC1mnwok8HPo0ArtIw</link>
+    <recordDateEnd>2021-03-15T00:00:26.572Z</recordDateEnd>
+    <recordDateStart>2021-03-14T23:29:20.130Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>7c83554db047995166924645a73eab77ad4956657c39bfa44bb3523dccc8fb8b</sha256>
+    <startDate>2021-03-14T23:30:00.000Z</startDate>
+    <subtitle>Sanriku Railway: Back from the Brink</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-03-19T02:49:57.131Z</uploadedDate>
   </episode>
   <episode>
     <airingId>083</airingId>
