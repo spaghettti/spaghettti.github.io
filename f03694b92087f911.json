@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T08:05:03.695Z",
+  "lastUpdated": "2021-03-19T08:45:03.716Z",
   "seriesId": "2004",
   "title": "J-MELO",
   "episodes": [
@@ -130,6 +130,22 @@
       "title": "J-MELO",
       "uploadedDate": "2021-03-07T16:36:36.220Z",
       "raw": "https://mega.nz/folder/Ef5UHTAA#M0n5aMwL1QbnQLses9e2rA"
+    },
+    {
+      "airingId": "369",
+      "content": "Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news and video releases!",
+      "description": "Join May J. for great Japanese music! This week's guests are seven-man group BALLISTIK BOYZ from EXILE TRIBE and four-piece all-female rock band SCANDAL.",
+      "endDate": "2021-03-14T15:40:00.000Z",
+      "link": "https://mega.nz/folder/f9xEGajC#YAqI5dwzZNUqCLyFtgbNNA",
+      "recordDateEnd": "2021-03-14T15:40:28.863Z",
+      "recordDateStart": "2021-03-14T15:09:20.131Z",
+      "seriesId": "2004",
+      "sha256": "bae446e764b874c68913a13d79d3e8a1cf2c610c47f49c4a7e7f7c6fa0cf26d0",
+      "startDate": "2021-03-14T15:10:00.000Z",
+      "subtitle": "BALLISTIK BOYZ from EXILE TRIBE and SCANDAL",
+      "title": "J-MELO",
+      "uploadedDate": "2021-03-19T08:42:07.967Z",
+      "raw": "https://mega.nz/folder/h9ggiLZJ#kpxG8iKHoRP42swX41sEvA"
     }
   ]
 }
