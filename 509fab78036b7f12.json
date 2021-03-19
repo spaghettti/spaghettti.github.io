@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-19T01:20:03.836Z",
+  "lastUpdated": "2021-03-19T01:30:03.829Z",
   "seriesId": "2042",
   "title": "RISING",
   "episodes": [
@@ -274,6 +274,21 @@
       "title": "RISING",
       "uploadedDate": "2021-02-18T03:01:47.180Z",
       "raw": "https://mega.nz/folder/c8sWBTYI#Xjo53_OiARmjCse7T1Vz8Q"
+    },
+    {
+      "airingId": "110",
+      "content": "Food waste is a global issue. And fresh fruit -- easily bruised; rejected for minor deviations in size, shape and color; and prone to price dips due to bumper crops -- is among the most widely discarded items. Kinoshita Masayuki set out to solve this with tailored flash freezing technology that maintains the taste and texture of cut fruit without the need for conventional preservatives. And now his approach is even helping pandemic-hit restaurants deliver their dishes with no loss in quality.",
+      "description": "Follow a firm using unique freezing technology to reduce food waste by preserving discarded fruit with no loss of taste or texture, and helping pandemic-hit restaurants deliver fresh dishes to diners.",
+      "endDate": "2021-03-18T02:00:00.000Z",
+      "link": "https://mega.nz/folder/Tkoy0KIJ#EPcRkJj2MdNJnTmqwgaIkA",
+      "recordDateEnd": "2021-03-18T02:00:27.881Z",
+      "recordDateStart": "2021-03-18T01:29:20.098Z",
+      "seriesId": "2042",
+      "sha256": "7e5a9bca1fdb469b10cf146115c63fa3a45bf5bdeeedc4115e475a252f675a6b",
+      "startDate": "2021-03-18T01:30:00.000Z",
+      "subtitle": "Quick Freezing Breathes New Life into Waste Food: Freezing Consultant - Kinoshita Masayuki",
+      "title": "RISING",
+      "uploadedDate": "2021-03-19T01:25:22.087Z"
     }
   ]
 }
