@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-19T01:35:03.687Z</lastUpdated>
+  <lastUpdated>2021-03-19T02:00:03.470Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1094,18 +1094,18 @@
   </episode>
   <episode>
     <airingId>652</airingId>
-    <content>As the coronavirus strikes the world, South Korea's corona prevention measures are recognized as a success. Professor Ki Moran, the chief of COVID-19 task force is leading the success with the government.</content>
+    <content/>
     <description>As the coronavirus strikes the world, South Korea's corona prevention measures are recognized as a success. Professor Moran Ki, the chief of COVID-19 task force is leading the success with government.</description>
-    <endDate>2020-12-17T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/h01lBQbJ#eizOh8oxLZJ2weSQGTVZgg</link>
-    <recordDateEnd>2020-12-17T07:30:28.058Z</recordDateEnd>
-    <recordDateStart>2020-12-17T07:14:20.013Z</recordDateStart>
+    <endDate>2021-03-17T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/ekhmDJgJ#F9uLUDdIFmC_2H7Cvah_uA</link>
+    <recordDateEnd>2021-03-17T04:30:27.325Z</recordDateEnd>
+    <recordDateStart>2021-03-17T04:14:20.154Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>c555ae115bd031165b67a8fbc94cc4ddf46cc9002ecf651ca150194247502daf</sha256>
-    <startDate>2020-12-17T07:15:00.000Z</startDate>
-    <subtitle>The Story Behind COVID-19 Measures: Ki Moran / Professor, Department of Cancer Control and Population Health at the National Cancer Center</subtitle>
+    <sha256>c5dbb1091be646370a28bd8b03f0b7cc72795238cd84de9bafad2bf6e1005e32</sha256>
+    <startDate>2021-03-17T04:15:00.000Z</startDate>
+    <subtitle/>
     <title>Direct Talk</title>
-    <uploadedDate>2020-12-25T22:22:32.630Z</uploadedDate>
+    <uploadedDate>2021-03-19T01:56:29.917Z</uploadedDate>
     <raw>https://mega.nz/folder/lFd3jQbB#bnAJO54CJ-d6VbSyf8QzFQ</raw>
   </episode>
   <episode>
