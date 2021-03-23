@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-23T21:05:03.939Z</lastUpdated>
+  <lastUpdated>2021-03-23T21:15:03.285Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -37,6 +37,23 @@ Between the 17th and 19th centuries, Christianity was banned in Japan. During th
     <title>Japanology Plus</title>
     <uploadedDate>2020-12-25T01:56:55.798Z</uploadedDate>
     <raw>https://mega.nz/folder/epV1UIqJ#UpcKm1AXmeTRk8kKf770FQ</raw>
+  </episode>
+  <episode>
+    <airingId>198</airingId>
+    <content>*First broadcast on November 12, 2019.
+Plasterwork has been an indispensable feature of Japanese architecture for hundreds of years. You can see it on the walls of castles, storehouses, and everyday homes. Using a humble trowel, plasterers create lustrous surfaces and intricate reliefs. This time on Japanology Plus, our theme is plasterwork. Our guest is Takao Kobayashi, a 40-year veteran of the trade. He explains why he finds the work so captivating. And in Plus One, Matt Alt meets young trainees creating innovative twists on the plasterwork tradition.</content>
+    <description>Plasterwork: Lustrous walls and intricate reliefs. Each time, Peter Barakan meets experts with fascinating cultural insights, while Matt Alt presents an entertaining take on the same theme.</description>
+    <endDate>2021-03-23T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/rw8hmQIT#gyY-T2A51vWH2iZo3d8_0A</link>
+    <recordDateEnd>2021-03-23T15:00:34.695Z</recordDateEnd>
+    <recordDateStart>2021-03-23T14:29:20.138Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>eb5e19f05d022ddc409ce3f407a069b1f7659be576633ee42512ffecd67aa96f</sha256>
+    <startDate>2021-03-23T14:30:00.000Z</startDate>
+    <subtitle>Plasterwork</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-03-23T21:12:49.424Z</uploadedDate>
+    <raw>https://mega.nz/folder/m8pwAB7Q#VX3dTpRsIdp9nlnhE6YoYg</raw>
   </episode>
   <episode>
     <airingId>202</airingId>
