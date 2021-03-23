@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-23T21:15:03.480Z</lastUpdated>
+  <lastUpdated>2021-03-23T21:25:04.038Z</lastUpdated>
   <seriesId>59faa2d1f7a22f19</seriesId>
   <title>Japanology Plus mini</title>
   <episode>
@@ -227,5 +227,20 @@
     <title>Japanology Plus mini</title>
     <uploadedDate>2021-03-06T19:12:17.181Z</uploadedDate>
     <raw>https://mega.nz/folder/EL4XgSZQ#1H2qLZFAfkhrvL0P66iPgg</raw>
+  </episode>
+  <episode>
+    <airingId>019</airingId>
+    <content/>
+    <description>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at rice snacks: traditional food with surprising diversity.</description>
+    <endDate>2021-03-21T14:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/xYpgGZ5a#-30cVsFeYVn6LTfa9PSOBw</link>
+    <recordDateEnd>2021-03-21T14:00:29.114Z</recordDateEnd>
+    <recordDateStart>2021-03-21T13:54:20.130Z</recordDateStart>
+    <seriesId>6032</seriesId>
+    <sha256>65e79fa2736fddfb8ff3c507f49e5fb4a4552900a2990f64147df5bddf03248e</sha256>
+    <startDate>2021-03-21T13:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Japanology Plus mini</title>
+    <uploadedDate>2021-03-23T21:22:12.528Z</uploadedDate>
   </episode>
 </episodeList>

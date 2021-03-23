@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-23T21:15:03.535Z",
+  "lastUpdated": "2021-03-23T21:25:04.090Z",
   "series": [
     {
       "count": 24,
@@ -586,10 +586,10 @@
       "title": "Japanology Plus"
     },
     {
-      "count": 14,
+      "count": 15,
       "uniqueId": "59faa2d1f7a22f19",
-      "lastAiring": "2021-03-06T18:55:00.000Z",
-      "lastUpload": "2021-03-06T19:12:17.181Z",
+      "lastAiring": "2021-03-21T13:55:00.000Z",
+      "lastUpload": "2021-03-23T21:22:12.528Z",
       "seriesId": "6032",
       "title": "Japanology Plus mini"
     },
@@ -1130,10 +1130,10 @@
       "title": "Train Cruise"
     },
     {
-      "count": 22,
+      "count": 23,
       "uniqueId": "3afe9a7a6f85079a",
       "lastAiring": "2021-03-23T18:55:00.000Z",
-      "lastUpload": "2021-03-23T20:02:58.238Z",
+      "lastUpload": "2021-03-23T21:23:27.183Z",
       "seriesId": "6030",
       "title": "Ukiyoe EDO-LIFE"
     },

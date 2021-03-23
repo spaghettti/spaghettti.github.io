@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-23T21:15:03.476Z</lastUpdated>
+  <lastUpdated>2021-03-23T21:25:04.034Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -323,6 +323,21 @@
     <title>Ukiyoe EDO-LIFE: Edo's Rush Hour</title>
     <uploadedDate>2020-12-24T02:08:38.370Z</uploadedDate>
     <raw>https://mega.nz/folder/clM2UbzI#ca0Nd5yJ96LcV_y6aD4t3Q</raw>
+  </episode>
+  <episode>
+    <airingId>021</airingId>
+    <content/>
+    <description>NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</description>
+    <endDate>2021-03-22T06:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/fwh21JZZ#_Ki0Wx5-Rk2LFyzsQGOagQ</link>
+    <recordDateEnd>2021-03-22T06:30:30.488Z</recordDateEnd>
+    <recordDateStart>2021-03-22T06:22:20.135Z</recordDateStart>
+    <seriesId>6030</seriesId>
+    <sha256>1113a62487ded1b8ade14cac6f4cd5bb391db229c0afbf2e9861042b55799154</sha256>
+    <startDate>2021-03-22T06:23:00.000Z</startDate>
+    <subtitle/>
+    <title>Ukiyoe EDO-LIFE</title>
+    <uploadedDate>2021-03-23T21:23:27.183Z</uploadedDate>
   </episode>
   <episode>
     <airingId>023</airingId>
