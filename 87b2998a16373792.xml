@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-23T20:05:03.295Z</lastUpdated>
+  <lastUpdated>2021-03-23T20:45:04.352Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -147,6 +147,21 @@ An Innovative Reheating Cart for Hospital Meals</content>
     <title>Science View</title>
     <uploadedDate>2021-03-02T17:00:58.483Z</uploadedDate>
     <raw>https://mega.nz/folder/KkghEAjJ#MPhGns4sCHicuI9CstPVoA</raw>
+  </episode>
+  <episode>
+    <airingId>232</airingId>
+    <content>Jellyfish have existed for 500 million years. Their great numbers and a diversity of some 4,000 species make them one of the most important creatures of the deep. A JAMSTEC research team has been garnering international attention for its study of jellyfish. Led by Australian marine biologist Dhugal Lindsay, the team is taking advantage of remote-controlled submersibles, 8K cameras and other new technologies to discover one new jellyfish species after the next. In February 2020, the team carried out surveys of Sagami Bay and Suruga Bay using a 15-camera submersible probe known as "Deep Tow." It's an ambitious attempt to get a complete picture of jellyfish and other creatures of the deep. Jellyfish have been the subject of numerous studies, about their longevity, how their population explosions occasionally impact the fishing industry and more. In this episode, we'll look at the latest of these studies, showing us the unknown charms and mysterious lives of jellyfish.</content>
+    <description>Jellyfish are central to marine biodiversity, with more than 4,000 species globally. This episode follows a JAMSTEC research team that's been discovering deep-sea jellyfish one after another.</description>
+    <endDate>2021-03-23T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/e8pmnCJa#hv5Mxll2dWn0uI-KJOaCgA</link>
+    <recordDateEnd>2021-03-23T16:00:30.276Z</recordDateEnd>
+    <recordDateStart>2021-03-23T15:29:20.164Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>0f9d054cd70320d8991c78e1bc1e41ee5773429538541ab8cd2683720a29b4c0</sha256>
+    <startDate>2021-03-23T15:30:00.000Z</startDate>
+    <subtitle>A Sharper Look at Amazing Jellyfish</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-03-23T20:43:30.768Z</uploadedDate>
   </episode>
   <episode>
     <airingId>246</airingId>
