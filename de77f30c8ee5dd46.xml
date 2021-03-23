@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-23T21:45:03.987Z</lastUpdated>
+  <lastUpdated>2021-03-23T22:15:04.333Z</lastUpdated>
   <seriesId>de77f30c8ee5dd46</seriesId>
   <title>Darwin's Amazing Animals</title>
   <episode>
@@ -131,5 +131,20 @@
     <title>Darwin's Amazing Animals</title>
     <uploadedDate>2021-02-20T02:36:29.572Z</uploadedDate>
     <raw>https://mega.nz/folder/TY1mmJJL#CbBlq5R5MdJhkqyusegC_g</raw>
+  </episode>
+  <episode>
+    <airingId>052</airingId>
+    <content>Legend has it that a powerful "man-beast" inhabits the cloud forests of Ecuador. Undaunted, the Darwin team traversed rugged terrain pursuing this mythological figure. What we found was hardly mysterious: an agile bear species whose playful cubs frolic in the treetops. Mothers raise their young on steep hillsides to maintain a careful distance from overly-aggressive males. She also decides when her cub must strike out on its own. We were fortunate to witness this cruel yet inevitable separation.</content>
+    <description>Legend has it that a powerful "man-beast" inhabits the cloud forests of Ecuador. What we discovered, however, was hardly mysterious: an agile bear species whose playful young frolic in the treetops!</description>
+    <endDate>2021-03-20T00:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/HhwDmSgB#Elqgtv_1T3PNO1yp4bkRhg</link>
+    <recordDateEnd>2021-03-20T00:50:29.197Z</recordDateEnd>
+    <recordDateStart>2021-03-20T00:24:20.037Z</recordDateStart>
+    <seriesId>4030</seriesId>
+    <sha256>beef0c8fe0d2bdfead45352ef0d27548f85d8bf4fa79a088056032cc139602fc</sha256>
+    <startDate>2021-03-20T00:25:00.000Z</startDate>
+    <subtitle>A Legend Exposed -- Spectacled Bear, Ecuador</subtitle>
+    <title>Darwin's Amazing Animals</title>
+    <uploadedDate>2021-03-23T22:10:17.735Z</uploadedDate>
   </episode>
 </episodeList>
