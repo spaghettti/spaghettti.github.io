@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-23T22:15:04.318Z",
+  "lastUpdated": "2021-03-23T22:20:03.524Z",
   "seriesId": "4002",
   "title": "Today's Close-Up",
   "episodes": [
@@ -210,6 +210,21 @@
       "title": "Today's Close-Up",
       "uploadedDate": "2021-03-05T17:20:11.676Z",
       "raw": "https://mega.nz/folder/jk4UFTaT#NFxBLJj5dmTllQxGh3ONiQ"
+    },
+    {
+      "airingId": "821",
+      "content": "On March 11, 2011, a huge earthquake and tsunami struck northeastern Japan, taking thousands of lives. Ten years on, a father continues to dive in the sea, looking for his missing daughter. At night, his wife records her memories of their daughter on paper. She says \"I try not to move on too quickly so the memories won't fade away.\" We report on a couple who lost their precious child so suddenly and how they have spent the past decade.",
+      "description": "More than 2,500 people went missing in the tsunami that hit northeastern Japan in 2011. This is a report about a father who continues diving in the sea in search of his missing daughter.",
+      "endDate": "2021-03-19T16:00:00.000Z",
+      "link": "https://mega.nz/folder/zwphAaiC#FDqJWpxcXxa3HQJLWOBT9Q",
+      "recordDateEnd": "2021-03-19T16:00:34.086Z",
+      "recordDateStart": "2021-03-19T15:29:20.138Z",
+      "seriesId": "4002",
+      "sha256": "0c27c5a88ed9764df61359f143db00e67adde073db5cb4582d2a01a9b88c596f",
+      "startDate": "2021-03-19T15:30:00.000Z",
+      "subtitle": "Diving for a Missing Daughter: Ten Years After 3.11 Tsunami",
+      "title": "Today's Close-Up",
+      "uploadedDate": "2021-03-23T22:18:52.056Z"
     }
   ]
 }
