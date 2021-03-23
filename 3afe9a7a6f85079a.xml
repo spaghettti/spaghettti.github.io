@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-23T20:00:04.064Z</lastUpdated>
+  <lastUpdated>2021-03-23T20:05:03.525Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -323,5 +323,36 @@
     <title>Ukiyoe EDO-LIFE: Edo's Rush Hour</title>
     <uploadedDate>2020-12-24T02:08:38.370Z</uploadedDate>
     <raw>https://mega.nz/folder/clM2UbzI#ca0Nd5yJ96LcV_y6aD4t3Q</raw>
+  </episode>
+  <episode>
+    <airingId>023</airingId>
+    <content/>
+    <description>It's edge-of-your-seat excitement as a high-speed transport boat departs for Edo carrying a rich cargo. Find out what's on the line for the stalwart crew as we break down their strategy.</description>
+    <endDate>2021-03-23T12:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/dIY3Va5I#SZTlOgTT-7AH7VY7cBzwGw</link>
+    <recordDateEnd>2021-03-23T12:00:33.690Z</recordDateEnd>
+    <recordDateStart>2021-03-23T11:54:20.124Z</recordDateStart>
+    <seriesId>6030</seriesId>
+    <sha256>3b45c1620daf686dee8d8124df22b9f232661defb3bcf85fc90fb30d566e0dae</sha256>
+    <startDate>2021-03-23T11:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Ukiyoe EDO-LIFE: The Great Race</title>
+    <uploadedDate>2021-03-23T20:02:58.238Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>024</airingId>
+    <content/>
+    <description>We go out onto a river where pleasure seekers take in an aquatics show. At first glance a display of rag-tag theatricality, the perform-ers are actually practicing a centuries-old form of swimming.</description>
+    <endDate>2021-03-23T19:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/qocVyYgA#t_-ZPg505A5OIP8IYpsWPw</link>
+    <recordDateEnd>2021-03-23T19:00:30.623Z</recordDateEnd>
+    <recordDateStart>2021-03-23T18:54:20.139Z</recordDateStart>
+    <seriesId>6030</seriesId>
+    <sha256>55b7e3cb67696094d1bf662826a700a8bdd25c8554a62897f301a4776914f47a</sha256>
+    <startDate>2021-03-23T18:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Ukiyoe EDO-LIFE: Edo Aquatics</title>
+    <uploadedDate>2021-03-23T20:02:34.437Z</uploadedDate>
+    <raw>https://mega.nz/folder/ekIlmQ5A#6TlqA_ZDZpn3SLsPrmWiQA</raw>
   </episode>
 </episodeList>

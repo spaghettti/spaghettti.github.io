@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-23T20:00:04.114Z</lastUpdated>
+  <lastUpdated>2021-03-23T20:05:03.575Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -1131,10 +1131,10 @@
     <title>Train Cruise</title>
   </series>
   <series>
-    <count>20</count>
+    <count>22</count>
     <uniqueId>3afe9a7a6f85079a</uniqueId>
-    <lastAiring>2020-12-12T11:55:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T04:29:56.207Z</lastUpload>
+    <lastAiring>2021-03-23T18:55:00.000Z</lastAiring>
+    <lastUpload>2021-03-23T20:02:58.238Z</lastUpload>
     <seriesId>6030</seriesId>
     <title>Ukiyoe EDO-LIFE</title>
   </series>
