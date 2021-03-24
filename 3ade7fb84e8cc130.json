@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-24T12:10:05.297Z",
+  "lastUpdated": "2021-03-24T14:10:03.830Z",
   "seriesId": "6101",
   "title": "Four Seasons in Japan",
   "episodes": [
@@ -194,6 +194,21 @@
       "title": "Four Seasons in Japan",
       "uploadedDate": "2021-01-01T07:11:53.992Z",
       "raw": "https://mega.nz/folder/349SSbSS#ZAWOWTUvRUBtQ_gF9lMSjA"
+    },
+    {
+      "airingId": "054",
+      "content": "",
+      "description": "This episode of Four Seasons in Japan introduces Okuizumo, Shimane. Terraced paddies in the 400-meter hills host pond loaches, newts, and giant water bugs that are now scarce in other parts of Japan.",
+      "endDate": "2021-03-20T04:20:00.000Z",
+      "link": "https://mega.nz/folder/ix4y1YKR#70RSeCW5XBXrIKnr9Rl7cg",
+      "recordDateEnd": "2021-03-20T04:20:28.552Z",
+      "recordDateStart": "2021-03-20T04:09:20.112Z",
+      "seriesId": "6101",
+      "sha256": "7a412b5b3e29277376dc3caeb72251f80edc87a9230b26c32f0bd3e6e19d8e33",
+      "startDate": "2021-03-20T04:10:00.000Z",
+      "subtitle": "",
+      "title": "Four Seasons in Japan",
+      "uploadedDate": "2021-03-24T14:06:29.531Z"
     },
     {
       "airingId": "061",
