@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T11:05:03.900Z</lastUpdated>
+  <lastUpdated>2021-03-24T11:10:03.986Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1318,18 +1318,18 @@
   </episode>
   <episode>
     <airingId>671</airingId>
-    <content>Earth Heir, a social enterprise in Malaysia is founded by Sasibai Kimis to empower the lives of marginalized communities, emphasizing on combining traditional craftsmanship with modern design.</content>
+    <content/>
     <description>Earth Heir, a social enterprise in Malaysia is founded by Sasibai Kimis to empower the lives of marginalized communities, emphasizing on combining traditional craftsmanship with modern design.</description>
-    <endDate>2020-12-04T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/DhkkRQ6a#0UQnFp0HdpePIKqXuYTstQ</link>
-    <recordDateEnd>2020-12-04T07:30:30.707Z</recordDateEnd>
-    <recordDateStart>2020-12-04T07:14:20.016Z</recordDateStart>
+    <endDate>2021-03-19T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/0BoHxYbD#aQY9SGelaOmyKQ8oQJ__7Q</link>
+    <recordDateEnd>2021-03-19T04:30:33.584Z</recordDateEnd>
+    <recordDateStart>2021-03-19T04:14:20.101Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>9d02fa8552ed6dd87c660f9de5eaee1d354a91bbdeaed65e49c3f1e380822c8f</sha256>
-    <startDate>2020-12-04T07:15:00.000Z</startDate>
-    <subtitle>Changing Perceptions: Sasibai Kimis / Founder of Earth Heir</subtitle>
+    <sha256>60f638b383ee4cb4e93d6e48b3fa814474b3bc34d6143d8efb3bd53b3b0aad55</sha256>
+    <startDate>2021-03-19T04:15:00.000Z</startDate>
+    <subtitle/>
     <title>Direct Talk</title>
-    <uploadedDate>2020-12-25T23:04:18.080Z</uploadedDate>
+    <uploadedDate>2021-03-24T11:08:32.227Z</uploadedDate>
     <raw>https://mega.nz/folder/R95R1QjK#Z_H_d1UdHPgaTMQYd6ejnQ</raw>
   </episode>
   <episode>
