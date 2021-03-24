@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T03:25:03.626Z</lastUpdated>
+  <lastUpdated>2021-03-24T03:40:03.540Z</lastUpdated>
   <seriesId>46311af43d5442f3</seriesId>
   <title>Culture Crossroads</title>
   <episode>
@@ -164,6 +164,21 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2021-03-03T16:08:08.149Z</uploadedDate>
     <raw>https://mega.nz/folder/S8hEUJrY#RciHkqgNMKB6CLhTvmz3TA</raw>
+  </episode>
+  <episode>
+    <airingId>008</airingId>
+    <content>Benefits existed in the Edo period, too. For example, 7.5 kilos of rice was given to each backstreet tenement house, and importance was placed on speed. Dr. ISO explains why they could have done so.</content>
+    <description>How can we associate better with COVID-19? Let's find the key by learning about the history of the infectious diseases Japan has experienced. This time: Benefits in the Edo Period.</description>
+    <endDate>2021-03-21T21:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/MdYB1ACJ#-_9aIa1QBCQiArSUS4_j8g</link>
+    <recordDateEnd>2021-03-21T21:50:27.553Z</recordDateEnd>
+    <recordDateStart>2021-03-21T21:44:20.137Z</recordDateStart>
+    <seriesId>6036</seriesId>
+    <sha256>d972f08dcc00bdce0c40b7ae350559c583df9691d89bd12c55ab93195b1c00ae</sha256>
+    <startDate>2021-03-21T21:45:00.000Z</startDate>
+    <subtitle>Dr. ISO's Pandemic History, Info &amp; Tips: Benefits in the Edo Period</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-03-24T03:38:32.527Z</uploadedDate>
   </episode>
   <episode>
     <airingId>009</airingId>
