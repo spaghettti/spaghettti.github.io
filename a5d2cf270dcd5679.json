@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-23T22:20:03.437Z",
+  "lastUpdated": "2021-03-24T00:30:04.037Z",
   "seriesId": "2050",
   "title": "Medical Frontiers",
   "episodes": [
@@ -194,6 +194,21 @@
       "title": "Medical Frontiers",
       "uploadedDate": "2021-03-19T05:25:54.730Z",
       "raw": "https://mega.nz/folder/j5RRRaIL#kjVzEiE-ozNUiEFdDS0u6Q"
+    },
+    {
+      "airingId": "107",
+      "content": "Autoimmune diseases are intractable, but research is under way on treatments using gut bacteria. Ulcerative colitis causes inflammation in the intestinal mucosa and ulcers. A Japanese doctor treats patients by combining antibiotics with fecal transplants using stool from siblings, achieving outstanding results. A clinical trial using gut microbiota is also under way for multiple sclerosis, which affects the central nervous system. A patient who needed a cane prior to the trial can now jog.",
+      "description": "Japanese doctors are leading efforts to fight intractable diseases by balancing the gut microbiota. We focus on the latest treatments for ulcerative colitis and multiple sclerosis.",
+      "endDate": "2021-03-22T16:00:00.000Z",
+      "link": "https://mega.nz/folder/cdh0jTJL#Gl1hd_Ei33a4mBISHQ_H3A",
+      "recordDateEnd": "2021-03-22T16:00:31.046Z",
+      "recordDateStart": "2021-03-22T15:29:23.021Z",
+      "seriesId": "2050",
+      "sha256": "834ce8777f871ffc444c8cbc2f8452768c2675126924f40889cb7a7e8de52edb",
+      "startDate": "2021-03-22T15:30:00.000Z",
+      "subtitle": "Gut Microbiota: Defeating Intractable Diseases",
+      "title": "Medical Frontiers",
+      "uploadedDate": "2021-03-24T00:28:37.546Z"
     }
   ]
 }
