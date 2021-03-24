@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T06:10:03.700Z</lastUpdated>
+  <lastUpdated>2021-03-24T07:20:04.048Z</lastUpdated>
   <seriesId>be55ba93c748813c</seriesId>
   <title>COOL JAPAN</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>COOL JAPAN</title>
     <uploadedDate>2020-12-26T16:31:21.481Z</uploadedDate>
     <raw>https://mega.nz/folder/c0k0kTSC#b8zhC5uZmNAGZxVwxms67g</raw>
+  </episode>
+  <episode>
+    <airingId>216</airingId>
+    <content>Fabric is one of Japan's industrial products that are popular among foreigners. There are textiles, dyes, and patterns that have remained unchanged from long ago. Recently, new materials with excellent functionalities such as protection against the cold, drying quickly, and absorbency are drawing attention. We close in on the secret behind the development of silk underpants that can be washed in a washing machine. We investigate the culture of Japan's unique fabric appeal.</content>
+    <description>Fabrics of Japan are world-renowned for their quality, versatility, and design. The panelists explore the traditional craftsmanship as well as contemporary developments that justify their popularity.</description>
+    <endDate>2021-03-20T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/W0h0ELCB#d8vXSFm2HpBREYND1BrOsQ</link>
+    <recordDateEnd>2021-03-20T11:55:29.920Z</recordDateEnd>
+    <recordDateStart>2021-03-20T11:09:20.220Z</recordDateStart>
+    <seriesId>4008</seriesId>
+    <sha256>6e851a07279bee337714055905734aaa53e52efd8106449d1ad99aaf5dfc1e8c</sha256>
+    <startDate>2021-03-20T11:10:00.000Z</startDate>
+    <subtitle>Fabrics</subtitle>
+    <title>COOL JAPAN</title>
+    <uploadedDate>2021-03-24T07:15:31.554Z</uploadedDate>
   </episode>
   <episode>
     <airingId>217</airingId>
