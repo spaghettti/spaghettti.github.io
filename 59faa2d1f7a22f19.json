@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-24T02:45:03.785Z",
+  "lastUpdated": "2021-03-24T02:50:03.589Z",
   "seriesId": "6032",
   "title": "Japanology Plus mini",
   "episodes": [
@@ -226,6 +226,21 @@
       "title": "Japanology Plus mini",
       "uploadedDate": "2021-03-06T19:12:17.181Z",
       "raw": "https://mega.nz/folder/EL4XgSZQ#1H2qLZFAfkhrvL0P66iPgg"
+    },
+    {
+      "airingId": "018",
+      "content": "",
+      "description": "Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at aloha shirts: Hawaiian garments with a Japanese connection.",
+      "endDate": "2021-03-21T08:00:00.000Z",
+      "link": "https://mega.nz/folder/hB4QBSSR#8U6EWtUwhQi45zJHuNUkhA",
+      "recordDateEnd": "2021-03-21T08:00:29.876Z",
+      "recordDateStart": "2021-03-21T07:54:20.117Z",
+      "seriesId": "6032",
+      "sha256": "28bc61c86100d3b38683ba1f284ecd3a09428bba4d265dc459a4404130fa4b51",
+      "startDate": "2021-03-21T07:55:00.000Z",
+      "subtitle": "",
+      "title": "Japanology Plus mini",
+      "uploadedDate": "2021-03-24T02:46:46.795Z"
     },
     {
       "airingId": "019",
