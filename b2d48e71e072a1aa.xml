@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T16:00:03.580Z</lastUpdated>
+  <lastUpdated>2021-03-24T16:40:02.997Z</lastUpdated>
   <seriesId>b2d48e71e072a1aa</seriesId>
   <title>Wild Hokkaido!</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>Wild Hokkaido!</title>
     <uploadedDate>2021-02-28T01:56:16.568Z</uploadedDate>
     <raw>https://mega.nz/folder/kkB0FTZK#13R_K2GEkMtlqguaVo0dNA</raw>
+  </episode>
+  <episode>
+    <airingId>051</airingId>
+    <content>Our stage this time is Mt. Tomuraushi in the very center of Hokkaido Prefecture. It's considered impassable during the harsh winter months, while the forest at its foot is good for trekking. Our program host, Charlotte Kate Fox, dons snow shoes and treks the forest covered with a blanket of snow. On her way to the waterfall that never freezes even during winter, she also observes snow crystals and bear claw scratches on a tree. In addition, we show you rare footage of spotted nutcracker dwelling in the forest.</content>
+    <description>Mt. Tomuraushi is considered impassable during the winter months, while the forest at its foot is good for trekking. Our program host dons snow shoes and treks the forest covered with snow.</description>
+    <endDate>2021-03-21T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/v5kU3K5Q#WIby3BA4COl4QZCTXWQTew</link>
+    <recordDateEnd>2021-03-21T01:00:30.361Z</recordDateEnd>
+    <recordDateStart>2021-03-21T00:44:20.108Z</recordDateStart>
+    <seriesId>2069</seriesId>
+    <sha256>250873a3fbd1a1931e7b80d804d3d33f1c2f6001c9f6724970142db1878bae6c</sha256>
+    <startDate>2021-03-21T00:45:00.000Z</startDate>
+    <subtitle>Mt. Tomuraushi in Harsh Winter</subtitle>
+    <title>Wild Hokkaido!</title>
+    <uploadedDate>2021-03-24T16:37:45.253Z</uploadedDate>
   </episode>
   <episode>
     <airingId>060</airingId>
