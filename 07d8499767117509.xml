@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T11:10:03.986Z</lastUpdated>
+  <lastUpdated>2021-03-24T11:20:03.568Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -770,7 +770,7 @@
     <subtitle/>
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T00:16:23.049Z</uploadedDate>
-    <raw>https://mega.nz/folder/xFQ3RQAA#erv9GfbV9idyTl0BAOJvoA</raw>
+    <raw>https://mega.nz/folder/6oUDhAQA#f3hjnQ_yMpvffu0dZaUv5Q</raw>
   </episode>
   <episode>
     <airingId>620</airingId>
@@ -2054,18 +2054,18 @@
   </episode>
   <episode>
     <airingId>725</airingId>
-    <content>Mounir Biba, multiple world champion of Breaking, runs the project about breaking and coaching to support young people. He also contributed to the promotion of Breaking for Olympic sports inclusion.</content>
+    <content/>
     <description>Mounir Biba, multiple world champion of Breaking, runs the project about breaking and coaching to support young people. He contributed also to the promotion of Breaking for Olympic sports inclusion.</description>
-    <endDate>2020-12-24T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/agsj1K5J#5uYgOgDQR0PKrGgKIOyjMA</link>
-    <recordDateEnd>2020-12-24T07:30:25.970Z</recordDateEnd>
-    <recordDateStart>2020-12-24T07:14:23.002Z</recordDateStart>
+    <endDate>2021-03-24T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/l5IzCIJa#Hik1GFLElwz61SmjFRhXAg</link>
+    <recordDateEnd>2021-03-24T09:30:26.994Z</recordDateEnd>
+    <recordDateStart>2021-03-24T09:14:20.094Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>0aab4e030b98128ab12e3f16cbb390a140e1be548676c1d47f7227f9b22a91b4</sha256>
-    <startDate>2020-12-24T07:15:00.000Z</startDate>
-    <subtitle>Breaking Makes Everything Possible: Mounir Biba / Breaker/Motivational Coach</subtitle>
+    <sha256>3a246e8f650737f067f95f5c10528873ecf55b6f195a2d3749e411d8b044ed68</sha256>
+    <startDate>2021-03-24T09:15:00.000Z</startDate>
+    <subtitle/>
     <title>Direct Talk</title>
-    <uploadedDate>2020-12-24T22:32:49.986Z</uploadedDate>
+    <uploadedDate>2021-03-24T11:16:45.124Z</uploadedDate>
     <raw>https://mega.nz/folder/ax0Sma6C#NzqhTQZ_DGGGLS63WPGJgA</raw>
   </episode>
   <episode>
