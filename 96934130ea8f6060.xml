@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T00:30:04.203Z</lastUpdated>
+  <lastUpdated>2021-03-24T01:15:03.868Z</lastUpdated>
   <seriesId>96934130ea8f6060</seriesId>
   <title>We, in the Time of Corona</title>
   <episode>
@@ -227,6 +227,21 @@
     <title>We, in the Time of Corona</title>
     <uploadedDate>2020-12-28T22:33:43.070Z</uploadedDate>
     <raw>https://mega.nz/folder/kJwHTQ7T#H61vlnZ1SiApilrInEy86A</raw>
+  </episode>
+  <episode>
+    <airingId>039</airingId>
+    <content>Paul Miller aka DJ Spooky; multimedia artist, composer and author. Miller creates music and art inspired by science and nature to grow hope in the time of corona.</content>
+    <description>Paul Miller aka DJ Spooky; multimedia artist, composer, and author. Miller creates music and art inspired by science and nature to grow hope in the time of corona.</description>
+    <endDate>2021-03-21T23:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/1Npx2IoR#r87cAWgwbyd2eAF1WLmplg</link>
+    <recordDateEnd>2021-03-21T23:20:30.335Z</recordDateEnd>
+    <recordDateStart>2021-03-21T23:14:20.131Z</recordDateStart>
+    <seriesId>6033</seriesId>
+    <sha256>c8d66da7961db8d0a06bc67abd058a9eab16a240b80e8b19d4858b2eb697833f</sha256>
+    <startDate>2021-03-21T23:15:00.000Z</startDate>
+    <subtitle>Paul Miller aka DJ Spooky, Multimedia Artist, Composer, Author</subtitle>
+    <title>We, in the Time of Corona</title>
+    <uploadedDate>2021-03-24T01:11:26.954Z</uploadedDate>
   </episode>
   <episode>
     <airingId>040</airingId>
