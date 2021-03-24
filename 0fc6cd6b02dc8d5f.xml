@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T01:30:03.934Z</lastUpdated>
+  <lastUpdated>2021-03-24T01:35:03.736Z</lastUpdated>
   <seriesId>0fc6cd6b02dc8d5f</seriesId>
   <title>Anime Supernova</title>
+  <episode>
+    <airingId>019</airingId>
+    <content>Tomoki Misato is a young up-and-coming animator who has already won numerous awards at festivals around the world. He creates stop-motion animations featuring colorfully designed puppets and stories with plenty of twists and turns.</content>
+    <description>Tomoki Misato is an up-and-coming animator who has won numerous awards at festivals around the world for his short works, which feature colorfully designed puppets and stories with plenty of twists.</description>
+    <endDate>2021-03-20T00:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/xI5WRR4R#AFRCKqUTtQPq16kFSDNeqw</link>
+    <recordDateEnd>2021-03-20T00:25:26.820Z</recordDateEnd>
+    <recordDateStart>2021-03-20T00:09:20.113Z</recordDateStart>
+    <seriesId>2065</seriesId>
+    <sha256>85e4ffe88f20a66cc3e6f7859e9d5522fe00a7a5e3adf9b3d085ac476fed7a98</sha256>
+    <startDate>2021-03-20T00:10:00.000Z</startDate>
+    <subtitle>A Creator of Imaginative Stop-Motion Worlds</subtitle>
+    <title>Anime Supernova</title>
+    <uploadedDate>2021-03-24T01:31:07.777Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>042</airingId>
     <content>A creator from Hokkaido Prefecture, Japan who specializes in rhythmical animation with illustrations and figures that move to music. He was commissioned by the Foundation for Ainu Culture to create an animation about the Ainu. The purpose of the foundation is to preserve the stories and myths passed down orally by the non-literate Ainu through music, language and animation. This episode explores the appeal of Ishiguro's portrayal of the Ainu culture, which has slowly been disappearing year by year.</content>
