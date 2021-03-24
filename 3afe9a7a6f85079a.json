@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-24T07:20:04.111Z",
+  "lastUpdated": "2021-03-24T07:30:04.248Z",
   "seriesId": "6030",
   "title": "Ukiyoe EDO-LIFE",
   "episodes": [
@@ -385,6 +385,22 @@
       "title": "Ukiyoe EDO-LIFE: Edo Aquatics",
       "uploadedDate": "2021-03-23T20:02:34.437Z",
       "raw": "https://mega.nz/folder/ekIlmQ5A#6TlqA_ZDZpn3SLsPrmWiQA"
+    },
+    {
+      "airingId": "025",
+      "content": "",
+      "description": "Summer is winding down, and tonight down by Edo Bay the streets are filled with professional entertainers, food sellers, and revelers. It's getting late, but this party is just getting started.",
+      "endDate": "2021-03-24T06:30:00.000Z",
+      "link": "https://mega.nz/folder/3oQFyaLB#txM2etD2XFo4p9ueKf2erw",
+      "recordDateEnd": "2021-03-24T06:30:32.965Z",
+      "recordDateStart": "2021-03-24T06:22:20.133Z",
+      "seriesId": "6030",
+      "sha256": "f5e0ee7a6c61cc0a859eeebc37a8d1e984c00c8f70e9d0e4e76e03ead467b067",
+      "startDate": "2021-03-24T06:23:00.000Z",
+      "subtitle": "",
+      "title": "Ukiyoe EDO-LIFE: Late Summer Fun",
+      "uploadedDate": "2021-03-24T07:28:27.850Z",
+      "raw": "https://mega.nz/folder/FkI1yCAZ#XcdDGqbzpF_3oBjIXbJGnA"
     }
   ]
 }

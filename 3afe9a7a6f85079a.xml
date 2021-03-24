@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T07:20:04.109Z</lastUpdated>
+  <lastUpdated>2021-03-24T07:30:04.246Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -386,5 +386,21 @@
     <title>Ukiyoe EDO-LIFE: Edo Aquatics</title>
     <uploadedDate>2021-03-23T20:02:34.437Z</uploadedDate>
     <raw>https://mega.nz/folder/ekIlmQ5A#6TlqA_ZDZpn3SLsPrmWiQA</raw>
+  </episode>
+  <episode>
+    <airingId>025</airingId>
+    <content/>
+    <description>Summer is winding down, and tonight down by Edo Bay the streets are filled with professional entertainers, food sellers, and revelers. It's getting late, but this party is just getting started.</description>
+    <endDate>2021-03-24T06:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/3oQFyaLB#txM2etD2XFo4p9ueKf2erw</link>
+    <recordDateEnd>2021-03-24T06:30:32.965Z</recordDateEnd>
+    <recordDateStart>2021-03-24T06:22:20.133Z</recordDateStart>
+    <seriesId>6030</seriesId>
+    <sha256>f5e0ee7a6c61cc0a859eeebc37a8d1e984c00c8f70e9d0e4e76e03ead467b067</sha256>
+    <startDate>2021-03-24T06:23:00.000Z</startDate>
+    <subtitle/>
+    <title>Ukiyoe EDO-LIFE: Late Summer Fun</title>
+    <uploadedDate>2021-03-24T07:28:27.850Z</uploadedDate>
+    <raw>https://mega.nz/folder/FkI1yCAZ#XcdDGqbzpF_3oBjIXbJGnA</raw>
   </episode>
 </episodeList>
