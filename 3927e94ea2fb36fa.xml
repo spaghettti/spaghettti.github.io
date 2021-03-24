@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T03:40:03.418Z</lastUpdated>
+  <lastUpdated>2021-03-24T03:50:03.725Z</lastUpdated>
   <seriesId>3927e94ea2fb36fa</seriesId>
   <title>BENTO EXPO</title>
   <episode>
@@ -19,5 +19,20 @@
     <title>BENTO EXPO</title>
     <uploadedDate>2021-03-19T02:03:38.543Z</uploadedDate>
     <raw>https://mega.nz/folder/kgpAyT4K#HuHNPl6Y6EEP5V0ZF15O2g</raw>
+  </episode>
+  <episode>
+    <airingId>382</airingId>
+    <content/>
+    <description>BENTO EXPO covers the healthy, appetizing and economical world of bento! Marc Matsumoto makes a delicious sandwich bento with leftover meatloaf and Maki shares her favorite tamagoyaki recipes.</description>
+    <endDate>2021-03-22T00:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/pphSmIoY#llyhGM3Z5Qp6Cm0qTDjesg</link>
+    <recordDateEnd>2021-03-22T00:45:27.896Z</recordDateEnd>
+    <recordDateStart>2021-03-22T00:29:20.120Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>22d272c80aae4d4a6d2e5156053fa3c1fbf76a9fcc494c63107f7057c61946cd</sha256>
+    <startDate>2021-03-22T00:30:00.000Z</startDate>
+    <subtitle>Season 1-2 Meatloaf Sandwich &amp; Tamagoyaki</subtitle>
+    <title>BENTO EXPO</title>
+    <uploadedDate>2021-03-24T03:50:01.394Z</uploadedDate>
   </episode>
 </episodeList>
