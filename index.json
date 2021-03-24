@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-24T11:20:03.786Z",
+  "lastUpdated": "2021-03-24T12:00:04.463Z",
   "series": [
     {
       "count": 24,
@@ -1000,6 +1000,14 @@
       "lastUpload": "2021-01-23T13:43:16.508Z",
       "seriesId": "5001",
       "title": "TAKADA KENZO Poet of Cotton"
+    },
+    {
+      "count": 1,
+      "uniqueId": "9f75b395bcc6ee59",
+      "lastAiring": "2021-03-19T23:10:00.000Z",
+      "lastUpload": "2021-03-24T11:56:57.603Z",
+      "seriesId": "3004",
+      "title": "The Forgotten: War-Displaced Japanese in the Philippines"
     },
     {
       "count": 13,
