@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T02:55:03.788Z</lastUpdated>
+  <lastUpdated>2021-03-24T03:25:03.412Z</lastUpdated>
   <seriesId>c2cfe904ce7ecfa5</seriesId>
   <title>Face To Face</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Face To Face</title>
     <uploadedDate>2020-12-25T05:35:01.857Z</uploadedDate>
     <raw>https://mega.nz/folder/4ZZ0TbID#Ag8AlgM4S-pzQj2hvNlrMg</raw>
+  </episode>
+  <episode>
+    <airingId>039</airingId>
+    <content>The 2018 Hans Christian Andersen Award for Writing, aka the Little Nobel Prize for Literature, went to Eiko Kadono (83), author of "Kiki's Delivery Service." She won acclaim for her inspirational portrayal of a girl who makes her own way through life. Recently, she started to write stories about her own wartime experiences in a way that transcends time and space. She also gives monthly public readings and provides insight into her magical world, inspiring children with imagination and courage.</content>
+    <description>The 2018 Hans Christian Andersen Award for Writing, aka the Little Nobel Prize for Literature, went to Eiko Kadono (83), author of "Kiki's Delivery Service." She talks about the magic of imagination.</description>
+    <endDate>2021-03-21T01:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/pAwW1R5C#7zYKc9zOu4vw66dXYJ3O5g</link>
+    <recordDateEnd>2021-03-21T01:40:29.552Z</recordDateEnd>
+    <recordDateStart>2021-03-21T01:09:22.590Z</recordDateStart>
+    <seriesId>2043</seriesId>
+    <sha256>cb944f590b6ce294b47916904bc0e8d3ed7fb7f48a98ad860f0810ea2e2631ae</sha256>
+    <startDate>2021-03-21T01:10:00.000Z</startDate>
+    <subtitle>Eiko Kadono: Weaving Magic with Words</subtitle>
+    <title>Face To Face</title>
+    <uploadedDate>2021-03-24T03:20:32.139Z</uploadedDate>
   </episode>
   <episode>
     <airingId>055</airingId>
