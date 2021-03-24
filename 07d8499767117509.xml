@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T04:25:03.462Z</lastUpdated>
+  <lastUpdated>2021-03-24T05:45:03.480Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1862,18 +1862,18 @@
   </episode>
   <episode>
     <airingId>713</airingId>
-    <content>The bicycles painstakingly crafted by Konno Shinichi offer superior technology and design. Japanese cyclists love them, and they've won multiple awards at international trade shows.</content>
+    <content/>
     <description>The bicycles painstakingly crafted by Konno Shinichi offer superior technology and design. Japanese cyclists love them, and they've won multiple awards at international trade shows.</description>
-    <endDate>2020-12-07T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/dM4nDYSK#vroBLrs3izKHNURaYQuYig</link>
-    <recordDateEnd>2020-12-07T07:30:29.740Z</recordDateEnd>
-    <recordDateStart>2020-12-07T07:14:20.015Z</recordDateStart>
+    <endDate>2021-03-22T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/ChwUFLIR#6A7Al4ZPcQbPs8N2QsKj8g</link>
+    <recordDateEnd>2021-03-22T09:30:26.334Z</recordDateEnd>
+    <recordDateStart>2021-03-22T09:14:20.037Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>a756a6b904afc32ff5cde408dcedff1eb86e0665b0387fd4457702622f90c64d</sha256>
-    <startDate>2020-12-07T07:15:00.000Z</startDate>
-    <subtitle>Ideal Framing: Konno Shinichi / Bicycle Framebuilder</subtitle>
+    <sha256>26e3c615f23ea0b8d869fa489d41914d1c989cb48491f723ac06c4fc377d8000</sha256>
+    <startDate>2021-03-22T09:15:00.000Z</startDate>
+    <subtitle/>
     <title>Direct Talk</title>
-    <uploadedDate>2020-12-25T20:41:56.395Z</uploadedDate>
+    <uploadedDate>2021-03-24T05:40:05.707Z</uploadedDate>
     <raw>https://mega.nz/folder/rc0mwSKS#Eg1qEGY5LvJ0QwZHV-v02A</raw>
   </episode>
   <episode>
