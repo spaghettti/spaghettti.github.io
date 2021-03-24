@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-24T10:55:03.981Z",
+  "lastUpdated": "2021-03-24T11:05:03.916Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2497,6 +2497,22 @@
       "subtitle": "Saving Wild Animals With VR: Ulrico Grech-Cumbo / VR Filmmaker",
       "title": "Direct Talk",
       "uploadedDate": "2021-03-19T14:52:37.657Z"
+    },
+    {
+      "airingId": "755",
+      "content": "Pianist Alice Sara Ott made her first recording in 3 years, as a reflection on life. Living with multiple sclerosis, she keeps a contemporary performance empowering her audience.",
+      "description": "Pianist Alice Sara Ott made her first recording in three years, as a reflection on life. Living with multiple sclerosis, she keeps a contemporary performance empowering her audience.",
+      "endDate": "2021-03-24T07:30:00.000Z",
+      "link": "https://mega.nz/folder/BVJCUDYC#Q1P6l5EaPNT2vMvUGeZ6lA",
+      "recordDateEnd": "2021-03-24T07:30:28.668Z",
+      "recordDateStart": "2021-03-24T07:14:20.042Z",
+      "seriesId": "2058",
+      "sha256": "e038a9894faac99da9105a10fbb238420887cd93156cc8cc1ef25eae27723f4e",
+      "startDate": "2021-03-24T07:15:00.000Z",
+      "subtitle": "Life Is Like Prélude: Alice Sara Ott / Pianist",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-03-24T11:00:56.890Z",
+      "raw": "https://mega.nz/folder/K9AEGb6D#DiKQZ6-TsJm1qEm_fzJbRw"
     }
   ]
 }

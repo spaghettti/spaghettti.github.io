@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T10:55:03.968Z</lastUpdated>
+  <lastUpdated>2021-03-24T11:05:03.900Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2498,5 +2498,21 @@
     <subtitle>Saving Wild Animals With VR: Ulrico Grech-Cumbo / VR Filmmaker</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2021-03-19T14:52:37.657Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>755</airingId>
+    <content>Pianist Alice Sara Ott made her first recording in 3 years, as a reflection on life. Living with multiple sclerosis, she keeps a contemporary performance empowering her audience.</content>
+    <description>Pianist Alice Sara Ott made her first recording in three years, as a reflection on life. Living with multiple sclerosis, she keeps a contemporary performance empowering her audience.</description>
+    <endDate>2021-03-24T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/BVJCUDYC#Q1P6l5EaPNT2vMvUGeZ6lA</link>
+    <recordDateEnd>2021-03-24T07:30:28.668Z</recordDateEnd>
+    <recordDateStart>2021-03-24T07:14:20.042Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>e038a9894faac99da9105a10fbb238420887cd93156cc8cc1ef25eae27723f4e</sha256>
+    <startDate>2021-03-24T07:15:00.000Z</startDate>
+    <subtitle>Life Is Like Prélude: Alice Sara Ott / Pianist</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-03-24T11:00:56.890Z</uploadedDate>
+    <raw>https://mega.nz/folder/K9AEGb6D#DiKQZ6-TsJm1qEm_fzJbRw</raw>
   </episode>
 </episodeList>
