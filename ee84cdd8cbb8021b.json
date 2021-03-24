@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-24T07:30:04.128Z",
+  "lastUpdated": "2021-03-24T08:25:03.987Z",
   "seriesId": "2080",
   "title": "SONGS OF TOKYO",
   "episodes": [
@@ -82,6 +82,21 @@
       "title": "SONGS OF TOKYO",
       "uploadedDate": "2021-02-21T23:54:51.616Z",
       "raw": "https://mega.nz/folder/XEsylTDT#6q3oKeEszENtP84wzE6isw"
+    },
+    {
+      "airingId": "021",
+      "content": "Showcasing Japanese music to the world. Featuring live performances by some of Japan's leading J-POP singers and musicians.",
+      "description": "Feat ring school idol groups from the Love Live! series, Thirteen representative members from Aqours, Liella! and Nijigasaki High School Idol Club will make their first TV appearance together.",
+      "endDate": "2021-03-21T15:40:00.000Z",
+      "link": "https://mega.nz/folder/8VomBL4S#vGid35guqKyvgncJPT3rFg",
+      "recordDateEnd": "2021-03-21T15:40:28.242Z",
+      "recordDateStart": "2021-03-21T15:09:20.076Z",
+      "seriesId": "2080",
+      "sha256": "f86b56c49b5dfeffeb14c77ecf00c7d075a370949eebb61879e59422cf98e3ad",
+      "startDate": "2021-03-21T15:10:00.000Z",
+      "subtitle": "#20 Love Live! Series SP",
+      "title": "SONGS OF TOKYO",
+      "uploadedDate": "2021-03-24T08:21:16.796Z"
     }
   ]
 }
