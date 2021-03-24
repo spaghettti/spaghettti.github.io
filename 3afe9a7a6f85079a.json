@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-24T20:40:04.023Z",
+  "lastUpdated": "2021-03-24T21:25:03.260Z",
   "seriesId": "6030",
   "title": "Ukiyoe EDO-LIFE",
   "episodes": [
@@ -352,7 +352,7 @@
       "subtitle": "",
       "title": "Ukiyoe EDO-LIFE: A Stylish Concert",
       "uploadedDate": "2021-03-24T15:57:49.150Z",
-      "raw": "https://mega.nz/folder/8VxiDKzJ#Y1iCq70e-c1K84HwywoKHg"
+      "raw": "https://mega.nz/folder/715AVbwY#Kxr5ZeMIPogvS44AG5rjZw"
     },
     {
       "airingId": "023",
@@ -401,6 +401,22 @@
       "title": "Ukiyoe EDO-LIFE: Late Summer Fun",
       "uploadedDate": "2021-03-24T07:28:27.850Z",
       "raw": "https://mega.nz/folder/FkI1yCAZ#XcdDGqbzpF_3oBjIXbJGnA"
+    },
+    {
+      "airingId": "026",
+      "content": "",
+      "description": "In the pleasure quarters of Edo, a precious house cat stares longingly out the window at a crowd of people going to and fro. Telltale signs scattered about the room reveal why it appears to be upset.",
+      "endDate": "2021-03-24T19:00:00.000Z",
+      "link": "https://mega.nz/folder/a9o2yLBb#MV26jc-axNug8hI6BUtXpA",
+      "recordDateEnd": "2021-03-24T19:00:25.661Z",
+      "recordDateStart": "2021-03-24T18:54:20.101Z",
+      "seriesId": "6030",
+      "sha256": "fce266005003897214e94eca03f9b0087faf31608777162c7b7ea4eacf54fd6e",
+      "startDate": "2021-03-24T18:55:00.000Z",
+      "subtitle": "",
+      "title": "Ukiyoe EDO-LIFE: A Kitty's Dreams",
+      "uploadedDate": "2021-03-24T21:20:04.763Z",
+      "raw": "https://mega.nz/folder/zs4kFJ6L#cbM15qNShHbefnBJiSNNLQ"
     }
   ]
 }
