@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T17:25:03.784Z</lastUpdated>
+  <lastUpdated>2021-03-24T17:50:03.699Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -210,6 +210,22 @@
     <subtitle>Almaty, Kazakhstan</subtitle>
     <title>Somewhere Street</title>
     <uploadedDate>2021-03-19T05:51:18.890Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>095</airingId>
+    <content>The city we visit this time, Johor Bahru in Malaysia is a major economic center. Situated along the Johor Straits, just across from Singapore, the city is located at the southernmost tip of the Malay Peninsula. Malaysia is a multi-ethnic nation with a population consisting of Malays, Chinese, and Indians. It is a harmonious society with each group retaining their distinct language, religion, and culture.</content>
+    <description>Johor Bahru is a city at the southernmost tip of Malaysia and a major economic center for the nation. We explore the city and meet its gracious and hospitable residents.</description>
+    <endDate>2021-03-21T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/S1FyQTJQ#5iXl3X-JR6Yxi-vJAI_IzQ</link>
+    <recordDateEnd>2021-03-21T15:00:30.994Z</recordDateEnd>
+    <recordDateStart>2021-03-21T14:09:20.096Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>5db2d0fc87fa9af4640976548c53fbcfd5e08e2d36aedea622f7ad3f35d0662b</sha256>
+    <startDate>2021-03-21T14:10:00.000Z</startDate>
+    <subtitle>Johor Bahru, Malaysia</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-03-24T17:49:32.359Z</uploadedDate>
+    <raw>https://mega.nz/folder/Ls4yCYLA#buQRtPqPANb3fa3ByyBTKw</raw>
   </episode>
   <episode>
     <airingId>107</airingId>
