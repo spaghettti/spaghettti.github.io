@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-24T01:35:03.711Z",
+  "lastUpdated": "2021-03-24T02:00:04.193Z",
   "seriesId": "2053",
   "title": "TOKYO EYE",
   "episodes": [
@@ -210,6 +210,21 @@
       "title": "TOKYO EYE 2020",
       "uploadedDate": "2021-03-03T01:31:52.712Z",
       "raw": "https://mega.nz/folder/L4kgBJSS#m2Dx19j1VlSqNcmb_tk3pw"
+    },
+    {
+      "airingId": "201",
+      "content": "Taking a virtual trip is a great way to feel like you're traveling while staying safe at home. Today we'll showcase many ways to get the Tokyo experience, from lesser-known spots to the Tokyo of the distant past. See the city in a new light, all from the comfort of home!",
+      "description": "Taking a virtual trip is a great way to feel like you're traveling while staying safe at home. Today, we'll showcase many ways to get the Tokyo experience through popular virtual tours.",
+      "endDate": "2021-03-24T00:00:00.000Z",
+      "link": "https://mega.nz/folder/9J5WBCob#TPbFeIwl9bI2CD1UgnL8sg",
+      "recordDateEnd": "2021-03-24T00:00:29.172Z",
+      "recordDateStart": "2021-03-23T23:29:20.102Z",
+      "seriesId": "2053",
+      "sha256": "2efd936a9bc4c0ba1227285f4ec438b213950da017ccb1125bb1978ca738b377",
+      "startDate": "2021-03-23T23:30:00.000Z",
+      "subtitle": "Tokyo and the Coronavirus: Virtual Tokyo Tours",
+      "title": "TOKYO EYE 2020",
+      "uploadedDate": "2021-03-24T01:56:07.918Z"
     }
   ]
 }
