@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T21:25:03.165Z</lastUpdated>
+  <lastUpdated>2021-03-24T23:15:04.354Z</lastUpdated>
   <seriesId>44913f78df1c0e91</seriesId>
   <title>The Signs</title>
   <episode>
@@ -131,5 +131,20 @@
     <title>The Signs</title>
     <uploadedDate>2021-02-27T04:33:57.160Z</uploadedDate>
     <raw>https://mega.nz/folder/n8BjhCLL#cNPeMHw03iYxABCbkqz8Iw</raw>
+  </episode>
+  <episode>
+    <airingId>010</airingId>
+    <content>Japan has long practiced the use of materials with sterilizing properties for everyday things and clothing. Scientific research now shows that these materials, such as extracts from indigo, known as Japan blue, and plaster used in traditional architecture, are also effective against COVID-19. Also, in the realm of the latest technology, a revolutionary virus-inhibiting lighting fixture has been developed that uses UV light that's safe for humans. In this episode, we talk to some of Japan's leading researchers about the forefront of antiviral technology.</content>
+    <description>Research reveals traditional Japanese materials like indigo and plaster can inactivate the coronavirus. They are expected to be put to a wide range of uses in medical facilities, schools, and trains.</description>
+    <endDate>2021-03-20T09:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/TspmUCbD#1BGOnWO768FzvUixgrP1_A</link>
+    <recordDateEnd>2021-03-20T09:55:26.276Z</recordDateEnd>
+    <recordDateStart>2021-03-20T09:39:22.826Z</recordDateStart>
+    <seriesId>2089</seriesId>
+    <sha256>517ab2c8190a8519f87fadd4f3f47b326d3e8043c14c8c22487e4a58edd0479e</sha256>
+    <startDate>2021-03-20T09:40:00.000Z</startDate>
+    <subtitle>Frontiers in Antiviral Technology</subtitle>
+    <title>The Signs</title>
+    <uploadedDate>2021-03-24T23:13:28.397Z</uploadedDate>
   </episode>
 </episodeList>
