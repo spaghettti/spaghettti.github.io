@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-24T01:15:03.884Z",
+  "lastUpdated": "2021-03-24T01:25:04.073Z",
   "seriesId": "6122",
   "title": "Dig More Japan",
   "episodes": [
@@ -98,6 +98,21 @@
       "title": "Dig More Japan",
       "uploadedDate": "2021-02-23T02:38:03.412Z",
       "raw": "https://mega.nz/folder/5Q0AlaiJ#b6fGzM7_vmknyduqO4Qy1w"
+    },
+    {
+      "airingId": "023",
+      "content": "",
+      "description": "In Japan, people and animals live and work together in all kinds of ways. Join us in this new episode, as we dig deep to uncover some surprising examples of how the Japanese interact with animals.",
+      "endDate": "2021-03-21T01:50:00.000Z",
+      "link": "https://mega.nz/folder/dcI0wJrJ#-jfoabababfZ1y2Jc0YlIQ",
+      "recordDateEnd": "2021-03-21T01:50:22.154Z",
+      "recordDateStart": "2021-03-21T01:39:23.047Z",
+      "seriesId": "6122",
+      "sha256": "84924f2c3abc39450ed707b2b3e8c76c09b553a16f69f1dcbbfa19d54ce942d0",
+      "startDate": "2021-03-21T01:40:00.000Z",
+      "subtitle": "Japanimals",
+      "title": "Dig More Japan",
+      "uploadedDate": "2021-03-24T01:22:48.543Z"
     }
   ]
 }
