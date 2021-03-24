@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T15:55:03.914Z</lastUpdated>
+  <lastUpdated>2021-03-24T16:00:03.692Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -342,17 +342,17 @@
   <episode>
     <airingId>022</airingId>
     <content/>
-    <description>NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</description>
-    <endDate>2021-03-22T19:00:00.000Z</endDate>
-    <link>https://mega.nz/folder/W8QgBZgR#ychicdwzgzrowAmSEJHvJg</link>
-    <recordDateEnd>2021-03-22T19:00:29.851Z</recordDateEnd>
-    <recordDateStart>2021-03-22T18:54:20.062Z</recordDateStart>
+    <description>We attend a New Year's concert at a samurai residence, where a master koto player delights a crowd of gorgeously dressed celebrity-types. Lounging in the best seat in the house is no ordinary V.I.P.</description>
+    <endDate>2021-03-22T23:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/f8g0AQgQ#sAU5vr0m8w2rxkW0FN3GBQ</link>
+    <recordDateEnd>2021-03-22T23:20:24.247Z</recordDateEnd>
+    <recordDateStart>2021-03-22T23:14:22.712Z</recordDateStart>
     <seriesId>6030</seriesId>
-    <sha256>c73d52fa5ad2ddf7306ebdea411084370628b1af2ca3b66d705ec875c040f850</sha256>
-    <startDate>2021-03-22T18:55:00.000Z</startDate>
+    <sha256>ba0af11015af982dab3cc1a609806bf6c4ff7748820e8426a882f88abd5f077d</sha256>
+    <startDate>2021-03-22T23:15:00.000Z</startDate>
     <subtitle/>
-    <title>Ukiyoe EDO-LIFE</title>
-    <uploadedDate>2021-03-24T02:51:19.327Z</uploadedDate>
+    <title>Ukiyoe EDO-LIFE: A Stylish Concert</title>
+    <uploadedDate>2021-03-24T15:57:49.150Z</uploadedDate>
     <raw>https://mega.nz/folder/8VxiDKzJ#Y1iCq70e-c1K84HwywoKHg</raw>
   </episode>
   <episode>
