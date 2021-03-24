@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-24T08:25:04.144Z",
+  "lastUpdated": "2021-03-24T08:55:03.240Z",
   "series": [
     {
       "count": 24,
@@ -792,6 +792,14 @@
       "lastUpload": "2021-02-28T00:51:22.800Z",
       "seriesId": "6123",
       "title": "no art, no life plus"
+    },
+    {
+      "count": 1,
+      "uniqueId": "c620a7ec2f9adde9",
+      "lastAiring": "2021-03-21T21:50:00.000Z",
+      "lastUpload": "2021-03-24T08:53:38.182Z",
+      "seriesId": "6038",
+      "title": "Origami Magic"
     },
     {
       "count": 1,
