@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T03:50:03.650Z</lastUpdated>
+  <lastUpdated>2021-03-24T04:25:03.441Z</lastUpdated>
   <seriesId>da958502b69dde1e</seriesId>
   <title>Her Story</title>
   <episode>
@@ -147,5 +147,21 @@
     <title>Her Story</title>
     <uploadedDate>2021-01-06T07:43:33.333Z</uploadedDate>
     <raw>https://mega.nz/folder/YYlGwJaZ#_1lWFrPZgB-THD9jEXCWPQ</raw>
+  </episode>
+  <episode>
+    <airingId>051</airingId>
+    <content>The geographical conditions of the Philippines subject it to frequent earthquakes, volcanic eruptions, typhoons and floods that together claim over 2,000 lives each year, while the country still lacks adequate training in emergency management. In response, Sandy Montano began teaching courses on preparation of emergency bags, evacuation and first aid. She also started manufacturing unique emergency rations, using the process as a means to help disaster victims financially recover.</content>
+    <description>In the Philippines, over 2,000 lives are lost each year to natural disasters. Sandy Montano teaches courses on emergency preparation while providing a way for disaster victims to financially recover.</description>
+    <endDate>2021-03-24T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/fpoHTYRB#42qtWnGPtlshv_kM3CMS4A</link>
+    <recordDateEnd>2021-03-24T02:00:32.530Z</recordDateEnd>
+    <recordDateStart>2021-03-24T01:29:20.103Z</recordDateStart>
+    <seriesId>2048</seriesId>
+    <sha256>2dfae7671bfd59f7f76d269f35be9c34568b23d7d9bfb98a0e70b9e3d4e9911f</sha256>
+    <startDate>2021-03-24T01:30:00.000Z</startDate>
+    <subtitle>A Natural Reaction</subtitle>
+    <title>Her Story</title>
+    <uploadedDate>2021-03-24T04:25:02.975Z</uploadedDate>
+    <raw>https://mega.nz/folder/sJhwWDCD#lexrCDof_XA0HaiRlVXVSA</raw>
   </episode>
 </episodeList>
