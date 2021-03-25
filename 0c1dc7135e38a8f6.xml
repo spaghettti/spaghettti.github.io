@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-25T01:05:03.511Z</lastUpdated>
+  <lastUpdated>2021-03-25T01:55:03.259Z</lastUpdated>
   <seriesId>0c1dc7135e38a8f6</seriesId>
   <title>Maiko-san Chi no Makanai-san - Kiyo in Kyoto: From the Maiko House</title>
   <episode>
@@ -19,5 +19,20 @@
     <title>Maiko-san Chi no Makanai-san - Kiyo in Kyoto: From the Maiko House -</title>
     <uploadedDate>2021-02-25T00:45:23.743Z</uploadedDate>
     <raw>https://mega.nz/folder/dBkCHapT#sxELVk5JLS3ilBGvudw3CA</raw>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content> </content>
+    <description>Sumire struggles to fall asleep on an unfamiliar pillow after having her hair styled for the first time in a traditional maiko bun. Sleepless, she finds Kiyo waiting for her in the kitchen.</description>
+    <endDate>2021-03-24T23:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/KhoBmKYS#lpicpKvwrujBRnJvQEpfmA</link>
+    <recordDateEnd>2021-03-24T23:55:33.328Z</recordDateEnd>
+    <recordDateStart>2021-03-24T23:29:20.100Z</recordDateStart>
+    <seriesId>2094</seriesId>
+    <sha256>7ed52353e83445bf610a6cde36f9c4c8d5dc717792af9b7e2a647a374ce14b28</sha256>
+    <startDate>2021-03-24T23:30:00.000Z</startDate>
+    <subtitle>Chapter 4: For Sleepless Nights</subtitle>
+    <title>Maiko-san Chi no Makanai-san - Kiyo in Kyoto: From the Maiko House</title>
+    <uploadedDate>2021-03-25T01:51:30.662Z</uploadedDate>
   </episode>
 </episodeList>
