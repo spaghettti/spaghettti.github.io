@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-24T23:15:04.230Z",
+  "lastUpdated": "2021-03-25T01:05:03.363Z",
   "seriesId": "2019",
   "title": "Dining with the Chef",
   "episodes": [
@@ -561,6 +561,21 @@
       "title": "Dining with the Chef",
       "uploadedDate": "2021-03-12T17:08:23.474Z",
       "raw": "https://mega.nz/folder/44xigazI#cM9_p1-QwtuoteAatyf90w"
+    },
+    {
+      "airingId": "287",
+      "content": "Let's travel Japan by cooking at home with chef Rika and chef Saito. Featured recipes: (1) Rika's Napolitan (2) Tamagoyaki Sandwich (3) Ginger Fried Pork (4) Shiratama Dumplings with Sweet Bean Paste.",
+      "description": "Featured recipes: (1) Rika's Napolitan (2) Tamagoyaki Sandwich (3) Ginger Fried Pork (4) Shiratama Dumplings with Sweet Bean Paste. Let's travel Japan by cooking at home with chef Rika and chef Saito.",
+      "endDate": "2021-03-19T15:00:00.000Z",
+      "link": "https://mega.nz/folder/M1Ii3DTL#mfHsh9fvuGlYHwsPsD5KNQ",
+      "recordDateEnd": "2021-03-19T15:00:28.149Z",
+      "recordDateStart": "2021-03-19T14:29:20.100Z",
+      "seriesId": "2019",
+      "sha256": "2542568cb0d80d4b333cc64b2c979aa4b08c78bf4343a61de1018160ec17590a",
+      "startDate": "2021-03-19T14:30:00.000Z",
+      "subtitle": "Delicious Japan at Home: Kissaten - Coffee Shop Food",
+      "title": "Dining with the Chef",
+      "uploadedDate": "2021-03-25T01:02:14.361Z"
     }
   ]
 }

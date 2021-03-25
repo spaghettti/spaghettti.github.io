@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T23:15:04.215Z</lastUpdated>
+  <lastUpdated>2021-03-25T01:05:03.348Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -562,5 +562,20 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2021-03-12T17:08:23.474Z</uploadedDate>
     <raw>https://mega.nz/folder/44xigazI#cM9_p1-QwtuoteAatyf90w</raw>
+  </episode>
+  <episode>
+    <airingId>287</airingId>
+    <content>Let's travel Japan by cooking at home with chef Rika and chef Saito. Featured recipes: (1) Rika's Napolitan (2) Tamagoyaki Sandwich (3) Ginger Fried Pork (4) Shiratama Dumplings with Sweet Bean Paste.</content>
+    <description>Featured recipes: (1) Rika's Napolitan (2) Tamagoyaki Sandwich (3) Ginger Fried Pork (4) Shiratama Dumplings with Sweet Bean Paste. Let's travel Japan by cooking at home with chef Rika and chef Saito.</description>
+    <endDate>2021-03-19T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/M1Ii3DTL#mfHsh9fvuGlYHwsPsD5KNQ</link>
+    <recordDateEnd>2021-03-19T15:00:28.149Z</recordDateEnd>
+    <recordDateStart>2021-03-19T14:29:20.100Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>2542568cb0d80d4b333cc64b2c979aa4b08c78bf4343a61de1018160ec17590a</sha256>
+    <startDate>2021-03-19T14:30:00.000Z</startDate>
+    <subtitle>Delicious Japan at Home: Kissaten - Coffee Shop Food</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-03-25T01:02:14.361Z</uploadedDate>
   </episode>
 </episodeList>
