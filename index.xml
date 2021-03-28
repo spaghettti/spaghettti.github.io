@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-28T08:05:03.676Z</lastUpdated>
+  <lastUpdated>2021-03-28T08:10:03.538Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -35,10 +35,10 @@
     <title>ABU TV SONG FESTIVAL</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>0a89b8b38d2ec643</uniqueId>
     <lastAiring>2021-03-28T00:40:00.000Z</lastAiring>
-    <lastUpload>2021-03-28T02:02:08.457Z</lastUpload>
+    <lastUpload>2021-03-28T08:07:31.310Z</lastUpload>
     <seriesId>6040</seriesId>
     <title>Aitai!</title>
   </series>

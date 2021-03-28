@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T08:05:03.632Z</lastUpdated>
+  <lastUpdated>2021-03-28T08:10:03.495Z</lastUpdated>
   <seriesId>0a89b8b38d2ec643</seriesId>
   <title>Aitai!</title>
+  <episode>
+    <airingId>001</airingId>
+    <content/>
+    <description>Aitai! was written to express the emotions of people missing their loved ones during the coronavirus pandemic. Enjoy performances from South Africa and India.</description>
+    <endDate>2021-03-27T04:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/H8onTKBK#vMhCPOzhr6e6YbjQJ1yg9A</link>
+    <recordDateEnd>2021-03-27T04:00:27.115Z</recordDateEnd>
+    <recordDateStart>2021-03-27T03:54:20.069Z</recordDateStart>
+    <seriesId>6040</seriesId>
+    <sha256>d25d1cd861471b2fd77d1d8a7a0a7cb40a2536908303c09cf3691d366ec39d0a</sha256>
+    <startDate>2021-03-27T03:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Aitai!</title>
+    <uploadedDate>2021-03-28T08:07:31.310Z</uploadedDate>
+    <raw>https://mega.nz/folder/LBsAibBQ#AuPzI5T7xPBoBMs5v4XHow</raw>
+  </episode>
   <episode>
     <airingId>002</airingId>
     <content/>
