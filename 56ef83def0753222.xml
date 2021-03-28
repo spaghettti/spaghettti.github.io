@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T04:10:04.285Z</lastUpdated>
+  <lastUpdated>2021-03-28T04:35:03.482Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -84,6 +84,21 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <title>NHK Documentary</title>
     <uploadedDate>2021-02-20T18:16:28.784Z</uploadedDate>
     <raw>https://mega.nz/folder/4D4VQK4B#6fl6tJBWBJoEU3LuxSok8A</raw>
+  </episode>
+  <episode>
+    <airingId>343</airingId>
+    <content>Many Japanese businesses are experiencing "lonely deaths," closing their doors with little fanfare or preparation. Over 300,000 businesses could shut down this coming year, leaving behind mountains of debt and further weakening regional economies already affected by dwindling populations. Now a new breed of management consultants is using big data to analyze what's behind this rash of business closures, and to reduce their impact.</content>
+    <description>Many companies in Japan experience "lonely deaths," closing down and weakening regions already affected by shrinking populations. Now such companies are getting help from a new breed of consultants.</description>
+    <endDate>2021-03-27T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/1pZzxaoK#PGAjp78_lFm5rP4aKTQXyw</link>
+    <recordDateEnd>2021-03-27T16:00:22.507Z</recordDateEnd>
+    <recordDateStart>2021-03-27T15:09:20.122Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>855adfd39b1d6a17feea8f05bc1fc0fbbe2c5e7e457c1ba83915e923e565d319</sha256>
+    <startDate>2021-03-27T15:10:00.000Z</startDate>
+    <subtitle>"Death Doulas" for Businesses: End-of-Life Care for Dying Companies</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2021-03-28T04:30:44.839Z</uploadedDate>
   </episode>
   <episode>
     <airingId>352</airingId>

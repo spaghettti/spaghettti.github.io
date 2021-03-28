@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-28T04:10:04.287Z",
+  "lastUpdated": "2021-03-28T04:35:03.484Z",
   "seriesId": "3016,4001",
   "title": "NHK Documentary",
   "episodes": [
@@ -82,6 +82,21 @@
       "title": "NHK Documentary",
       "uploadedDate": "2021-02-20T18:16:28.784Z",
       "raw": "https://mega.nz/folder/4D4VQK4B#6fl6tJBWBJoEU3LuxSok8A"
+    },
+    {
+      "airingId": "343",
+      "content": "Many Japanese businesses are experiencing \"lonely deaths,\" closing their doors with little fanfare or preparation. Over 300,000 businesses could shut down this coming year, leaving behind mountains of debt and further weakening regional economies already affected by dwindling populations. Now a new breed of management consultants is using big data to analyze what's behind this rash of business closures, and to reduce their impact.",
+      "description": "Many companies in Japan experience \"lonely deaths,\" closing down and weakening regions already affected by shrinking populations. Now such companies are getting help from a new breed of consultants.",
+      "endDate": "2021-03-27T16:00:00.000Z",
+      "link": "https://mega.nz/folder/1pZzxaoK#PGAjp78_lFm5rP4aKTQXyw",
+      "recordDateEnd": "2021-03-27T16:00:22.507Z",
+      "recordDateStart": "2021-03-27T15:09:20.122Z",
+      "seriesId": "4001",
+      "sha256": "855adfd39b1d6a17feea8f05bc1fc0fbbe2c5e7e457c1ba83915e923e565d319",
+      "startDate": "2021-03-27T15:10:00.000Z",
+      "subtitle": "\"Death Doulas\" for Businesses: End-of-Life Care for Dying Companies",
+      "title": "NHK Documentary",
+      "uploadedDate": "2021-03-28T04:30:44.839Z"
     },
     {
       "airingId": "352",
