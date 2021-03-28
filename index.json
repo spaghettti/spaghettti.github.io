@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-28T14:35:03.699Z",
+  "lastUpdated": "2021-03-28T16:20:03.915Z",
   "series": [
     {
       "count": 24,
@@ -560,6 +560,14 @@
       "lastUpload": "2021-03-19T08:42:07.967Z",
       "seriesId": "2004",
       "title": "J-MELO"
+    },
+    {
+      "count": 1,
+      "uniqueId": "a7038a669ca356e1",
+      "lastAiring": "2021-03-26T23:10:00.000Z",
+      "lastUpload": "2021-03-28T16:20:00.459Z",
+      "seriesId": "3004",
+      "title": "JAPAN FROM ABOVE: Gifts from the Mountains"
     },
     {
       "count": 30,

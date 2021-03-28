@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-28T14:35:03.691Z</lastUpdated>
+  <lastUpdated>2021-03-28T16:20:03.908Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -561,6 +561,14 @@
     <lastUpload>2021-03-19T08:42:07.967Z</lastUpload>
     <seriesId>2004</seriesId>
     <title>J-MELO</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>a7038a669ca356e1</uniqueId>
+    <lastAiring>2021-03-26T23:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-28T16:20:00.459Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>JAPAN FROM ABOVE: Gifts from the Mountains</title>
   </series>
   <series>
     <count>30</count>
