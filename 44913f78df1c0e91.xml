@@ -1,9 +1,26 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T08:25:03.478Z</lastUpdated>
+  <lastUpdated>2021-03-28T08:40:03.461Z</lastUpdated>
   <seriesId>44913f78df1c0e91</seriesId>
   <title>The Signs</title>
+  <episode>
+    <airingId>001</airingId>
+    <content>The worldwide pandemic is changing everything. While the world eagerly awaits breakthroughs, people are searching for different ways to lead fulfilling lifestyles. This new series, The Signs, takes a deep dive into the new normal unfolding in Japan. The trends we spot could be part of your tomorrow.
+As real-world contact is limited, technology is helping people to build and maintain relationships. New VR worlds are opening up for avatars. In this episode of The Signs, we take a closer look.</content>
+    <description>This new series will focus on the latest movements in the age of New Normal. In this first episode, we'll visit the virtual world where people start connecting to each other by using their "avatars."</description>
+    <endDate>2021-03-27T03:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/fJ1FlKTC#GI_08cm46_gytbfSUlf1Cg</link>
+    <recordDateEnd>2021-03-27T03:55:26.748Z</recordDateEnd>
+    <recordDateStart>2021-03-27T03:39:20.134Z</recordDateStart>
+    <seriesId>2089</seriesId>
+    <sha256>d506f70890ecab92976cd09ca02d947db61829ff3e7de0620ff575a0260a9231</sha256>
+    <startDate>2021-03-27T03:40:00.000Z</startDate>
+    <subtitle>Avatars</subtitle>
+    <title>The Signs</title>
+    <uploadedDate>2021-03-28T08:36:22.916Z</uploadedDate>
+    <raw>https://mega.nz/folder/osogAJBb#pkF-GllE1YUBUccOyCeIzg</raw>
+  </episode>
   <episode>
     <airingId>002</airingId>
     <content>COVID-19 is still plaguing people around the world. The medical field in Japan is also suffering from this new infectious disease. It's been a long battle. Amid fears of the third wave of outbreak, the challenge for society as a whole is how to balance normal medical practice with the need to deal with COVID-19 without disrupting the medical system. Now, efforts are beginning to cross medical and industrial boundaries under the outbreak. This episode focuses on fully automated PCR testing machine, VR training for medical workers, and infection-free clothing that allows for hospital visits.</content>
