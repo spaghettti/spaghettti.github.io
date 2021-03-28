@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T04:40:03.938Z</lastUpdated>
+  <lastUpdated>2021-03-28T05:00:04.028Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>#2 I'm Tam. I'm a student. / Introducing yourself is easy. Put "desu" after your name or occupation to explain who you are and what you do.</description>
+    <endDate>2021-03-27T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/CYNWiJAD#A5V75UsbSoZ97nPOIIeJ8A</link>
+    <recordDateEnd>2021-03-27T04:30:29.281Z</recordDateEnd>
+    <recordDateStart>2021-03-27T04:24:20.089Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>5946219ed7ab8802db93071556ec279a745d40f3d5f384257ee8e7fa13120754</sha256>
+    <startDate>2021-03-27T04:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-03-28T04:58:32.234Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>014</airingId>
     <content/>
