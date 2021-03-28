@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T02:45:04.263Z</lastUpdated>
+  <lastUpdated>2021-03-28T02:55:03.587Z</lastUpdated>
   <seriesId>c2cfe904ce7ecfa5</seriesId>
   <title>Face To Face</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>Face To Face</title>
     <uploadedDate>2021-03-24T03:20:32.139Z</uploadedDate>
     <raw>https://mega.nz/folder/rgIBlSgK#T1oa-Jmb3RnwTHoGQQOO5w</raw>
+  </episode>
+  <episode>
+    <airingId>040</airingId>
+    <content>Eiichi Saitoh is a pioneering figure in rehabilitation medicine and man behind the development of cutting-edge braces and robots. Stricken by polio as a child, his right leg is paralyzed. But he turns this into an advantage to develop and test his inventions on himself. His aim is to help people remember and relearn how to walk. To this end, his robots cause the wearer to stumble without falling, if he or she loses balance. The key to recovery, he says, is to promote resilience and self-help.</content>
+    <description>Eiichi Saitoh is a pioneer in rehabilitation medicine. His cutting-edge robots are designed to support and motivate patients, which, he says, is the key to promoting resilience and self-help.</description>
+    <endDate>2021-03-28T01:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/0l4QkJSK#pynE92r30wonaqAPVAfPeA</link>
+    <recordDateEnd>2021-03-28T01:40:28.188Z</recordDateEnd>
+    <recordDateStart>2021-03-28T01:09:22.517Z</recordDateStart>
+    <seriesId>2043</seriesId>
+    <sha256>e37bbb34933f5787495cf329bc6f8dc2725e0718198cc4625693082ad6e2cfec</sha256>
+    <startDate>2021-03-28T01:10:00.000Z</startDate>
+    <subtitle>Eiichi Saitoh: Resilience and Recovery Come in Pairs</subtitle>
+    <title>Face To Face</title>
+    <uploadedDate>2021-03-28T02:52:23.825Z</uploadedDate>
   </episode>
   <episode>
     <airingId>055</airingId>
