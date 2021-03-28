@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-28T05:15:04.424Z</lastUpdated>
+  <lastUpdated>2021-03-28T06:15:04.484Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -225,6 +225,14 @@
     <lastUpload>2021-03-19T04:10:31.132Z</lastUpload>
     <seriesId>2070</seriesId>
     <title>CYCLE AROUND JAPAN  Highlights</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>1bde44319eaa1daa</uniqueId>
+    <lastAiring>2021-03-27T02:40:00.000Z</lastAiring>
+    <lastUpload>2021-03-28T06:14:50.468Z</lastUpload>
+    <seriesId>6039</seriesId>
+    <title>Danko&amp;Danta, Cardboard Craft Creations!</title>
   </series>
   <series>
     <count>9</count>
