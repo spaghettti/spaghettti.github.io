@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T02:20:03.937Z</lastUpdated>
+  <lastUpdated>2021-03-28T02:45:04.340Z</lastUpdated>
   <seriesId>29c1799bc492d0cf</seriesId>
   <title>Spiritual Explorers</title>
   <episode>
@@ -67,5 +67,21 @@
     <title>Spiritual Explorers</title>
     <uploadedDate>2021-01-31T06:36:34.687Z</uploadedDate>
     <raw>https://mega.nz/folder/wUIDiCoB#7A6IAq5iNElOy7SaRqFw9Q</raw>
+  </episode>
+  <episode>
+    <airingId>007</airingId>
+    <content/>
+    <description>Since ancient times, people around Japan have held festivals to pray for protection against disasters and epidemics. Explore the spiritual significance of Japan's festivals in the age of COVID-19.</description>
+    <endDate>2021-03-28T00:35:00.000Z</endDate>
+    <link>https://mega.nz/folder/npgEULTI#AI3BGk4DuJAL6ON3Bm8ARA</link>
+    <recordDateEnd>2021-03-28T00:35:28.455Z</recordDateEnd>
+    <recordDateStart>2021-03-28T00:09:20.098Z</recordDateStart>
+    <seriesId>2088</seriesId>
+    <sha256>7dec412b1e17bb271f12c0b05ef6be3dbc9947b4c9528957527c4d868526eed1</sha256>
+    <startDate>2021-03-28T00:10:00.000Z</startDate>
+    <subtitle>Calamity and Ceremony</subtitle>
+    <title>Spiritual Explorers</title>
+    <uploadedDate>2021-03-28T02:43:53.490Z</uploadedDate>
+    <raw>https://mega.nz/folder/iM0w3DKI#ma0ZO1SuJRB904UTgB7KtQ</raw>
   </episode>
 </episodeList>
