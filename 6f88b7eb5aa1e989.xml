@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T02:05:03.716Z</lastUpdated>
+  <lastUpdated>2021-03-28T02:10:03.541Z</lastUpdated>
   <seriesId>6f88b7eb5aa1e989</seriesId>
   <title>Dig More Japan</title>
   <episode>
@@ -115,5 +115,20 @@
     <title>Dig More Japan</title>
     <uploadedDate>2021-03-24T01:22:48.543Z</uploadedDate>
     <raw>https://mega.nz/folder/mxhkhYjC#zSp-eNNT2DGAvKlnbm63Cw</raw>
+  </episode>
+  <episode>
+    <airingId>024</airingId>
+    <content/>
+    <description>Mild weather and a carpet of cherry blossoms make spring a special season for the people of Japan. In this episode, we will dig deep and greet the coming spring with highlights from NHK World Japan.</description>
+    <endDate>2021-03-28T01:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/x4I1XQKZ#YQCttwF95DNfMtBeB6kTpg</link>
+    <recordDateEnd>2021-03-28T01:50:26.622Z</recordDateEnd>
+    <recordDateStart>2021-03-28T01:39:20.055Z</recordDateStart>
+    <seriesId>6122</seriesId>
+    <sha256>42193b1cc796d88b4fe386255782736af3c3ac1d432418ff91c78d7c9b9c5bf6</sha256>
+    <startDate>2021-03-28T01:40:00.000Z</startDate>
+    <subtitle>Spring Awakens</subtitle>
+    <title>Dig More Japan</title>
+    <uploadedDate>2021-03-28T02:08:50.768Z</uploadedDate>
   </episode>
 </episodeList>
