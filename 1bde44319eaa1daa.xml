@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T14:20:03.660Z</lastUpdated>
+  <lastUpdated>2021-03-28T14:25:04.234Z</lastUpdated>
   <seriesId>1bde44319eaa1daa</seriesId>
   <title>Danko&amp;Danta, Cardboard Craft Creations!</title>
   <episode>
@@ -19,5 +19,20 @@
     <title>Danko&amp;Danta, Cardboard Craft Creations!</title>
     <uploadedDate>2021-03-28T06:14:50.468Z</uploadedDate>
     <raw>https://mega.nz/folder/O0RRwKpI#PSL7htgXA-msH2GQ-SlcfQ</raw>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content>The cardboard girl, Danko, the cardboard dog, Danta, and the almighty craft master, Mr. Snips, together will make familiar toys and furniture for kids. Be it a funny shape or something cool, what pops up in head is the beginning of craftsmanship. This program promotes kids to think, experiment, create and nurture their imagination in the most enjoyable way. In this episode, we will make a dynamic dinosaur that comes with a fun surprise!</content>
+    <description>The cardboard girl, Danko, her friend, Danta, and the craft master Mr.Snips, together will make familiar toys for kids. In this episode, we will make a dinosaur that comes with a fun surprise!</description>
+    <endDate>2021-03-28T11:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/gxYlXIxb#CuAZTugOUCMl1X-Jb_TDVg</link>
+    <recordDateEnd>2021-03-28T11:45:28.587Z</recordDateEnd>
+    <recordDateStart>2021-03-28T11:39:20.077Z</recordDateStart>
+    <seriesId>6039</seriesId>
+    <sha256>bb2d66d1a5c1e351810132b2ce4f8aa67c776d1ef397e09ab74f7ed00a00236d</sha256>
+    <startDate>2021-03-28T11:40:00.000Z</startDate>
+    <subtitle>Dinosaur</subtitle>
+    <title>Danko&amp;Danta, Cardboard Craft Creations!</title>
+    <uploadedDate>2021-03-28T14:22:59.819Z</uploadedDate>
   </episode>
 </episodeList>

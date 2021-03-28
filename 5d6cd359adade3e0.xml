@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T14:20:03.544Z</lastUpdated>
+  <lastUpdated>2021-03-28T14:25:04.118Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
   <episode>
@@ -291,5 +291,21 @@
     <title>Doki Doki! NHK WORLD-JAPAN</title>
     <uploadedDate>2021-03-19T14:32:47.610Z</uploadedDate>
     <raw>https://mega.nz/folder/RBp0DT7Z#B-kwRoa6iL6Gn4VKtKGatw</raw>
+  </episode>
+  <episode>
+    <airingId>083</airingId>
+    <content/>
+    <description>This time we introduce "CYCLE AROUND JAPAN," which shows the reality of "Shinjuku Tiger." Cyclist Paul visited him at Kabuki-cho in Shinjuku and reveals why a man become "Shinjuku Tiger."</description>
+    <endDate>2021-03-28T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/XwJhGCoC#fnWFunwMIv6xe-CGPACIrA</link>
+    <recordDateEnd>2021-03-28T11:55:28.871Z</recordDateEnd>
+    <recordDateStart>2021-03-28T11:49:20.102Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>95ad013e1ff8e247b79161f6c708e5bc3a2298fc7839d11f2c491d35d277ae9b</sha256>
+    <startDate>2021-03-28T11:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2021-03-28T14:21:37.175Z</uploadedDate>
+    <raw>https://mega.nz/folder/60Uhgaib#ClUO4xgEAEEIPy0x-LYdzw</raw>
   </episode>
 </episodeList>

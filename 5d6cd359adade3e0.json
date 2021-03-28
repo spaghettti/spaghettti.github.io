@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-28T14:20:03.545Z",
+  "lastUpdated": "2021-03-28T14:25:04.119Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
@@ -290,6 +290,22 @@
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2021-03-19T14:32:47.610Z",
       "raw": "https://mega.nz/folder/RBp0DT7Z#B-kwRoa6iL6Gn4VKtKGatw"
+    },
+    {
+      "airingId": "083",
+      "content": "",
+      "description": "This time we introduce \"CYCLE AROUND JAPAN,\" which shows the reality of \"Shinjuku Tiger.\" Cyclist Paul visited him at Kabuki-cho in Shinjuku and reveals why a man become \"Shinjuku Tiger.\"",
+      "endDate": "2021-03-28T11:55:00.000Z",
+      "link": "https://mega.nz/folder/XwJhGCoC#fnWFunwMIv6xe-CGPACIrA",
+      "recordDateEnd": "2021-03-28T11:55:28.871Z",
+      "recordDateStart": "2021-03-28T11:49:20.102Z",
+      "seriesId": "2075",
+      "sha256": "95ad013e1ff8e247b79161f6c708e5bc3a2298fc7839d11f2c491d35d277ae9b",
+      "startDate": "2021-03-28T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2021-03-28T14:21:37.175Z",
+      "raw": "https://mega.nz/folder/60Uhgaib#ClUO4xgEAEEIPy0x-LYdzw"
     }
   ]
 }
