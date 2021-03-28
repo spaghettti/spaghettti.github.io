@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-28T16:20:03.730Z",
+  "lastUpdated": "2021-03-28T19:25:03.429Z",
   "seriesId": "2062",
   "title": "Sumopedia",
   "episodes": [
@@ -387,6 +387,21 @@
       "raw": "https://mega.nz/folder/21s0mAYK#5Vlm70LgeOXDmntRFCSQuA"
     },
     {
+      "airingId": "034",
+      "content": "",
+      "description": "Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.",
+      "endDate": "2021-03-26T17:00:00.000Z",
+      "link": "https://mega.nz/folder/7492xSBZ#UqOwaunYQDDoKnrr2a2AUg",
+      "recordDateEnd": "2021-03-26T17:00:23.286Z",
+      "recordDateStart": "2021-03-26T16:56:22.522Z",
+      "seriesId": "2062",
+      "sha256": "bf4197af5ae7119a8af25d737a6eaa9bce0fea894f1b0f493617a0e40b99ce76",
+      "startDate": "2021-03-26T16:57:00.000Z",
+      "subtitle": "",
+      "title": "Sumopedia",
+      "uploadedDate": "2021-03-28T19:22:10.768Z"
+    },
+    {
       "airingId": "035",
       "content": "",
       "description": "Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.",
@@ -401,6 +416,21 @@
       "title": "Sumopedia",
       "uploadedDate": "2021-03-28T02:59:35.121Z",
       "raw": "https://mega.nz/folder/zlBknDyS#kJFxjRVwsJdHJ20OjPXFQQ"
+    },
+    {
+      "airingId": "036",
+      "content": "",
+      "description": "Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.",
+      "endDate": "2021-03-28T17:00:00.000Z",
+      "link": "https://mega.nz/folder/K1IHUQ5A#cTvqaOlyPsFh7ClopYY6mA",
+      "recordDateEnd": "2021-03-28T17:00:27.523Z",
+      "recordDateStart": "2021-03-28T16:56:20.059Z",
+      "seriesId": "2062",
+      "sha256": "614d6f416fef122945c4d14b19fc3f5d579980af393924ebbfb0f77644a4dc8b",
+      "startDate": "2021-03-28T16:57:00.000Z",
+      "subtitle": "",
+      "title": "Sumopedia",
+      "uploadedDate": "2021-03-28T19:23:45.598Z"
     },
     {
       "airingId": "056",

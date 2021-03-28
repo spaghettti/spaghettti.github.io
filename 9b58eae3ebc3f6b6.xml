@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T16:20:03.729Z</lastUpdated>
+  <lastUpdated>2021-03-28T19:25:03.428Z</lastUpdated>
   <seriesId>9b58eae3ebc3f6b6</seriesId>
   <title>Sumopedia</title>
   <episode>
@@ -388,6 +388,21 @@
     <raw>https://mega.nz/folder/21s0mAYK#5Vlm70LgeOXDmntRFCSQuA</raw>
   </episode>
   <episode>
+    <airingId>034</airingId>
+    <content/>
+    <description>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</description>
+    <endDate>2021-03-26T17:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/7492xSBZ#UqOwaunYQDDoKnrr2a2AUg</link>
+    <recordDateEnd>2021-03-26T17:00:23.286Z</recordDateEnd>
+    <recordDateStart>2021-03-26T16:56:22.522Z</recordDateStart>
+    <seriesId>2062</seriesId>
+    <sha256>bf4197af5ae7119a8af25d737a6eaa9bce0fea894f1b0f493617a0e40b99ce76</sha256>
+    <startDate>2021-03-26T16:57:00.000Z</startDate>
+    <subtitle/>
+    <title>Sumopedia</title>
+    <uploadedDate>2021-03-28T19:22:10.768Z</uploadedDate>
+  </episode>
+  <episode>
     <airingId>035</airingId>
     <content/>
     <description>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</description>
@@ -402,6 +417,21 @@
     <title>Sumopedia</title>
     <uploadedDate>2021-03-28T02:59:35.121Z</uploadedDate>
     <raw>https://mega.nz/folder/zlBknDyS#kJFxjRVwsJdHJ20OjPXFQQ</raw>
+  </episode>
+  <episode>
+    <airingId>036</airingId>
+    <content/>
+    <description>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</description>
+    <endDate>2021-03-28T17:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/K1IHUQ5A#cTvqaOlyPsFh7ClopYY6mA</link>
+    <recordDateEnd>2021-03-28T17:00:27.523Z</recordDateEnd>
+    <recordDateStart>2021-03-28T16:56:20.059Z</recordDateStart>
+    <seriesId>2062</seriesId>
+    <sha256>614d6f416fef122945c4d14b19fc3f5d579980af393924ebbfb0f77644a4dc8b</sha256>
+    <startDate>2021-03-28T16:57:00.000Z</startDate>
+    <subtitle/>
+    <title>Sumopedia</title>
+    <uploadedDate>2021-03-28T19:23:45.598Z</uploadedDate>
   </episode>
   <episode>
     <airingId>056</airingId>
