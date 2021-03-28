@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2021-03-28T10:35:03.886Z",
+  "lastUpdated": "2021-03-28T11:00:03.811Z",
   "seriesId": "2065",
   "title": "Anime Supernova",
   "episodes": [
+    {
+      "airingId": "014",
+      "content": "Kouhei Nakama is a computer animator who is in high demand around the world. From ultra-realistic abstract objects to beautiful depictions of the human body, Nakama focuses on imagery that catches the eye, as well as on a sense of liveliness -- every detail is given its own set of movements.",
+      "description": "Kouhei Nakama is a computer animator who is in high demand around the world. He focuses on imagery that catches the eye, as well as on a sense of liveliness--every detail has its own set of movements.",
+      "endDate": "2021-03-27T00:25:00.000Z",
+      "link": "https://mega.nz/folder/P45STILQ#JbLAVC2CcX9jDaiFhdVpUQ",
+      "recordDateEnd": "2021-03-27T00:25:31.085Z",
+      "recordDateStart": "2021-03-27T00:09:26.761Z",
+      "seriesId": "2065",
+      "sha256": "32179f6f321efe77c2cbfc692063936eabba376082ce5e3a419e8398338a6fd6",
+      "startDate": "2021-03-27T00:10:00.000Z",
+      "subtitle": "Creating Graceful Motion with CGI",
+      "title": "Anime Supernova",
+      "uploadedDate": "2021-03-28T10:58:44.312Z"
+    },
     {
       "airingId": "019",
       "content": "Tomoki Misato is a young up-and-coming animator who has already won numerous awards at festivals around the world. He creates stop-motion animations featuring colorfully designed puppets and stories with plenty of twists and turns.",
