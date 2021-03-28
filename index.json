@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-28T08:40:03.612Z",
+  "lastUpdated": "2021-03-28T08:45:04.546Z",
   "series": [
     {
       "count": 24,
@@ -688,6 +688,14 @@
       "lastUpload": "2021-03-11T05:53:46.424Z",
       "seriesId": "4023",
       "title": "Lunch ON!"
+    },
+    {
+      "count": 1,
+      "uniqueId": "76457393824f6c38",
+      "lastAiring": "2021-03-28T07:20:00.000Z",
+      "lastUpload": "2021-03-28T08:42:50.536Z",
+      "seriesId": "2092",
+      "title": "Magical Japanese"
     },
     {
       "count": 1,
