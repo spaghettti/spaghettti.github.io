@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-28T14:10:04.060Z</lastUpdated>
+  <lastUpdated>2021-03-28T14:20:03.708Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -411,10 +411,10 @@
     <title>Four Seasons in Japan</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>b573cea2c8a15eee</uniqueId>
-    <lastAiring>2021-03-28T06:35:00.000Z</lastAiring>
-    <lastUpload>2021-03-28T08:23:46.212Z</lastUpload>
+    <lastAiring>2021-03-28T12:35:00.000Z</lastAiring>
+    <lastUpload>2021-03-28T14:16:59.223Z</lastUpload>
     <seriesId>6041</seriesId>
     <title>Framing Everyday Moments</title>
   </series>
