@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T14:25:04.273Z</lastUpdated>
+  <lastUpdated>2021-03-28T14:35:03.679Z</lastUpdated>
   <seriesId>d44004cd2f812344</seriesId>
   <title>JAPAN SPORTSCOPE</title>
   <episode>
@@ -67,6 +67,22 @@
     <title>JAPAN SPORTSCOPE</title>
     <uploadedDate>2021-01-01T03:58:35.657Z</uploadedDate>
     <raw>https://mega.nz/folder/V0txCQLS#tV7sGMMWF2nIEtXRihfGeQ</raw>
+  </episode>
+  <episode>
+    <airingId>645</airingId>
+    <content/>
+    <description>This program introduces Japanese sports facilities for visitors from abroad. Our reporter visits spots you can get to and back from Tokyo in a day. This time we show an Air-Board facility in Gunma.</description>
+    <endDate>2021-03-28T11:35:00.000Z</endDate>
+    <link>https://mega.nz/folder/IlhXmIBC#77IyuzRts_NldGwUvJ23SQ</link>
+    <recordDateEnd>2021-03-28T11:35:30.370Z</recordDateEnd>
+    <recordDateStart>2021-03-28T11:24:22.785Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>2ae32f081932fceb1383edcc360ff9c4cbf938a5c356df5dfaa8c868395c4b4d</sha256>
+    <startDate>2021-03-28T11:25:00.000Z</startDate>
+    <subtitle/>
+    <title>JAPAN SPORTSCOPE</title>
+    <uploadedDate>2021-03-28T14:31:10.695Z</uploadedDate>
+    <raw>https://mega.nz/folder/w8hVBIxY#oEmTL84JJjZWvgdus-k9Lg</raw>
   </episode>
   <episode>
     <airingId>646</airingId>
