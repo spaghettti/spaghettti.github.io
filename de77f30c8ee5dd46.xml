@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T08:45:04.438Z</lastUpdated>
+  <lastUpdated>2021-03-28T08:55:03.378Z</lastUpdated>
   <seriesId>de77f30c8ee5dd46</seriesId>
   <title>Darwin's Amazing Animals</title>
   <episode>
@@ -51,6 +51,21 @@
     <title>Darwin's Amazing Animals</title>
     <uploadedDate>2021-02-27T01:49:11.630Z</uploadedDate>
     <raw>https://mega.nz/folder/KsBhXQ7a#sOiRJIk7LyHUhJebU9um8Q</raw>
+  </episode>
+  <episode>
+    <airingId>033</airingId>
+    <content>Wildlife cinematographer Nobuaki Hirano is on a one-year quest documenting the four seasons in Okutama on the outskirts of Tokyo. In spring, he heads into the mountains to track down a mysterious haunting "call" that permeates the nighttime air. Meanwhile, he hears that local villagers have identified a possible culprit raiding old hornets' nests. All of this takes place against the backdrop of spring, the season of new life. What Hirano's lens captures will certainly warm your heart!</content>
+    <description>A strange call permeates the spring nighttime air in Okutama's forests. We head into the mountains to find the source, after discovering the culprit raiding old hornets' nests!</description>
+    <endDate>2021-03-27T00:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/WgwQhSQQ#2oYy2pEpb-bSN3OkrCFidA</link>
+    <recordDateEnd>2021-03-27T00:50:32.728Z</recordDateEnd>
+    <recordDateStart>2021-03-27T00:24:20.100Z</recordDateStart>
+    <seriesId>4030</seriesId>
+    <sha256>d40d14363f8cb7ffe606bdf57d3a3c5aecec42c5cc719e9870871f77ff93231a</sha256>
+    <startDate>2021-03-27T00:25:00.000Z</startDate>
+    <subtitle>Tokyo's Spring Wildlife Kingdom -- Okutama, Japan</subtitle>
+    <title>Darwin's Amazing Animals</title>
+    <uploadedDate>2021-03-28T08:54:22.029Z</uploadedDate>
   </episode>
   <episode>
     <airingId>047</airingId>
