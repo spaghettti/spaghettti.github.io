@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T08:10:03.496Z</lastUpdated>
+  <lastUpdated>2021-03-28T08:25:03.581Z</lastUpdated>
   <seriesId>b573cea2c8a15eee</seriesId>
   <title>Framing Everyday Moments</title>
+  <episode>
+    <airingId>001</airingId>
+    <content/>
+    <description>A unique time-lapse photography project. Shot by pros and non-pros from around the world, on the transience of nature, celestial phenomena, cityscapes and each single moment of everyday life.</description>
+    <endDate>2021-03-27T02:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/rFsCUKqT#Z83PU_A-8w_LieRHAfhHRg</link>
+    <recordDateEnd>2021-03-27T02:50:27.864Z</recordDateEnd>
+    <recordDateStart>2021-03-27T02:44:20.077Z</recordDateStart>
+    <seriesId>6041</seriesId>
+    <sha256>727ce7b30a20cba4b72a21fd101fdfb295d16d236e4ba617b870d7ae100d8693</sha256>
+    <startDate>2021-03-27T02:45:00.000Z</startDate>
+    <subtitle/>
+    <title>Framing Everyday Moments</title>
+    <uploadedDate>2021-03-28T08:23:46.212Z</uploadedDate>
+    <raw>https://mega.nz/folder/OdkFjSpK#3H_i5O3iUqwx9OZk9AVtYg</raw>
+  </episode>
   <episode>
     <airingId>002</airingId>
     <content/>
