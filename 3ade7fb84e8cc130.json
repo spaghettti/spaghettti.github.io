@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-28T05:05:04.269Z",
+  "lastUpdated": "2021-03-28T05:10:03.843Z",
   "seriesId": "6101",
   "title": "Four Seasons in Japan",
   "episodes": [
@@ -210,6 +210,21 @@
       "title": "Four Seasons in Japan",
       "uploadedDate": "2021-03-24T14:06:29.531Z",
       "raw": "https://mega.nz/folder/W8kTRYqY#u7tas3L-7ebxPMzGt-IUuw"
+    },
+    {
+      "airingId": "056",
+      "content": "",
+      "description": "This episode of Four Seasons in Japan introduces Koshima, Kochi. The sea around the small, uninhabited island is rich in fish. Sea birds come in the spring to breed, including the endangered murrelet.",
+      "endDate": "2021-03-27T04:20:00.000Z",
+      "link": "https://mega.nz/folder/CYtSjaQb#hf0iBI4BHqIq8CB1QmXq6Q",
+      "recordDateEnd": "2021-03-27T04:20:29.857Z",
+      "recordDateStart": "2021-03-27T04:09:20.155Z",
+      "seriesId": "6101",
+      "sha256": "ba1e93781ebf319d5a632091cd3a0de913834146a5948f342d78336a93d8f8de",
+      "startDate": "2021-03-27T04:10:00.000Z",
+      "subtitle": "",
+      "title": "Four Seasons in Japan",
+      "uploadedDate": "2021-03-28T05:09:06.435Z"
     },
     {
       "airingId": "061",
