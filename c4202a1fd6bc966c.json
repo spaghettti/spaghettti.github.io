@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-28T11:30:04.465Z",
+  "lastUpdated": "2021-03-28T14:10:03.906Z",
   "seriesId": "2081",
   "title": "GRAND SUMO LIVE",
   "episodes": [
@@ -82,6 +82,21 @@
       "title": "GRAND SUMO LIVE",
       "uploadedDate": "2021-03-19T06:06:40.081Z",
       "raw": "https://mega.nz/folder/7wgFXAyb#J90JeyXpXB9Zuxyv9NUj_A"
+    },
+    {
+      "airingId": "036",
+      "content": "",
+      "description": "NHK WORLD-JAPAN broadcasts GRAND SUMO March Tournament final day action live from the Kokugikan in Tokyo, as the tournament champion and special prize winners are decided on Mar. 28.",
+      "endDate": "2021-03-28T09:00:00.000Z",
+      "link": "https://mega.nz/folder/ux4GTARC#nBdl94QAjaBV4Q6t_e41VA",
+      "recordDateEnd": "2021-03-28T09:00:24.818Z",
+      "recordDateStart": "2021-03-28T07:29:20.044Z",
+      "seriesId": "2081",
+      "sha256": "702db7793748933fa25352b989b9bd8336203283cf582619f5b88c001b3b1be0",
+      "startDate": "2021-03-28T07:30:00.000Z",
+      "subtitle": "March Tournament Day 15 (Final Day)",
+      "title": "GRAND SUMO LIVE",
+      "uploadedDate": "2021-03-28T14:07:25.052Z"
     }
   ]
 }
