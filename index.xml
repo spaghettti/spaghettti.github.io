@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-28T07:50:03.426Z</lastUpdated>
+  <lastUpdated>2021-03-28T08:05:03.676Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -411,10 +411,10 @@
     <title>Four Seasons in Japan</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>b573cea2c8a15eee</uniqueId>
-    <lastAiring>2021-03-28T00:35:00.000Z</lastAiring>
-    <lastUpload>2021-03-28T02:01:54.665Z</lastUpload>
+    <lastAiring>2021-03-28T06:35:00.000Z</lastAiring>
+    <lastUpload>2021-03-28T08:03:46.547Z</lastUpload>
     <seriesId>6041</seriesId>
     <title>Framing Everyday Moments</title>
   </series>
@@ -1043,10 +1043,10 @@
     <title>TAKADA KENZO Poet of Cotton</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>01d91b585f12a25a</uniqueId>
-    <lastAiring>2021-03-27T08:25:00.000Z</lastAiring>
-    <lastUpload>2021-03-28T05:01:42.318Z</lastUpload>
+    <lastAiring>2021-03-28T07:10:00.000Z</lastAiring>
+    <lastUpload>2021-03-28T08:00:26.323Z</lastUpload>
     <seriesId>4032</seriesId>
     <title>The Flame Across Japan</title>
   </series>
