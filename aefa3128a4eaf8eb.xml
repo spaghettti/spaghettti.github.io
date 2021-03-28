@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T19:55:03.288Z</lastUpdated>
+  <lastUpdated>2021-03-28T22:40:03.270Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -226,6 +226,21 @@
     <title>Somewhere Street</title>
     <uploadedDate>2021-03-24T17:49:32.359Z</uploadedDate>
     <raw>https://mega.nz/folder/Ls4yCYLA#buQRtPqPANb3fa3ByyBTKw</raw>
+  </episode>
+  <episode>
+    <airingId>096</airingId>
+    <content>Samarkand, the capital of the Republic of Uzbekistan in Central Asia, is known as the "blue city" due to its many beautiful blue buildings. Positioned at a center point of the Silk Road, the oasis city of Samarkand prospered as a crossroads for Eastern and Western cultures. In 1220 Genghis Khan and his armies conquered the area, killing three-fourths of the city's residents and reducing much of its historic architecture to ruins. In the 14th century, Amir Timur established the Timurid Empire. He designated the city as the empire's capital, populating it with great craftsmen and artists to rebuild the city.</content>
+    <description>Samarkand, an oasis city on the Silk Road, is the capital of the Republic of Uzbekistan in Central Asia. It is known as the "blue City", because there are so many beautiful blue buildings in the city.</description>
+    <endDate>2021-03-28T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/K50n3Q5D#2faz_ZKrdv3zFqFYfLvINw</link>
+    <recordDateEnd>2021-03-28T15:00:22.463Z</recordDateEnd>
+    <recordDateStart>2021-03-28T14:09:20.126Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>c8b7dc26dbfd6c4b33866c5208c03e3af723828d611e1c04708002280b1c0592</sha256>
+    <startDate>2021-03-28T14:10:00.000Z</startDate>
+    <subtitle>Samarkand, The Republic of Uzbekistan</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-03-28T22:39:25.159Z</uploadedDate>
   </episode>
   <episode>
     <airingId>107</airingId>
