@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T11:00:03.805Z</lastUpdated>
+  <lastUpdated>2021-03-28T11:30:04.440Z</lastUpdated>
   <seriesId>b2f243cf934b4de8</seriesId>
   <title>GRAND SUMO Highlights</title>
   <episode>
@@ -481,6 +481,21 @@
     <title>GRAND SUMO Highlights</title>
     <uploadedDate>2021-03-24T20:39:34.411Z</uploadedDate>
     <raw>https://mega.nz/folder/O113TCjJ#iyPh2Tr9u-fNn_G9vZ7eiQ</raw>
+  </episode>
+  <episode>
+    <airingId>418</airingId>
+    <content>The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!</content>
+    <description>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from March 26, Day 13 of the Grand Sumo Tournament in Tokyo.</description>
+    <endDate>2021-03-26T16:57:00.000Z</endDate>
+    <link>https://mega.nz/folder/y05m0YTI#7V523ubEnJgHcyqDEjrUFQ</link>
+    <recordDateEnd>2021-03-26T16:57:28.952Z</recordDateEnd>
+    <recordDateStart>2021-03-26T16:29:20.134Z</recordDateStart>
+    <seriesId>2061</seriesId>
+    <sha256>bacf425e410642599496e0964944c67504a91cc43d3c13b5a52179968f4ef758</sha256>
+    <startDate>2021-03-26T16:30:00.000Z</startDate>
+    <subtitle>March Tournament Day 13</subtitle>
+    <title>GRAND SUMO Highlights</title>
+    <uploadedDate>2021-03-28T11:25:41.294Z</uploadedDate>
   </episode>
   <episode>
     <airingId>419</airingId>
