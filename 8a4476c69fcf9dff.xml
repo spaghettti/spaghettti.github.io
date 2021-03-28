@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T05:10:03.856Z</lastUpdated>
+  <lastUpdated>2021-03-28T05:15:04.398Z</lastUpdated>
   <seriesId>8a4476c69fcf9dff</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -99,6 +99,21 @@
     <title>Somewhere Street mini</title>
     <uploadedDate>2021-01-24T05:01:32.035Z</uploadedDate>
     <raw>https://mega.nz/folder/omZnmKiR#-SSDmlAVViJzBCLDa1Zpbw</raw>
+  </episode>
+  <episode>
+    <airingId>012</airingId>
+    <content/>
+    <description>Athens, the capital of Greece, once ruled over the Aegean Sea and prospered with trade. The city surrounds the area around the Parthenon and is cherished by its citizens for its history and culture.</description>
+    <endDate>2021-03-28T04:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/wggwTabQ#LnPQfI1pwPgNRUHPzyjN7g</link>
+    <recordDateEnd>2021-03-28T04:25:24.170Z</recordDateEnd>
+    <recordDateStart>2021-03-28T04:09:20.100Z</recordDateStart>
+    <seriesId>6209</seriesId>
+    <sha256>9f1adfaa636509b9a4ce1e518dde569db51217528369c1453c8b08f0950acbb7</sha256>
+    <startDate>2021-03-28T04:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Somewhere Street mini</title>
+    <uploadedDate>2021-03-28T05:12:10.319Z</uploadedDate>
   </episode>
   <episode>
     <airingId>015</airingId>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-28T05:10:03.857Z",
+  "lastUpdated": "2021-03-28T05:15:04.399Z",
   "seriesId": "6209",
   "title": "Somewhere Street",
   "episodes": [
@@ -98,6 +98,21 @@
       "title": "Somewhere Street mini",
       "uploadedDate": "2021-01-24T05:01:32.035Z",
       "raw": "https://mega.nz/folder/omZnmKiR#-SSDmlAVViJzBCLDa1Zpbw"
+    },
+    {
+      "airingId": "012",
+      "content": "",
+      "description": "Athens, the capital of Greece, once ruled over the Aegean Sea and prospered with trade. The city surrounds the area around the Parthenon and is cherished by its citizens for its history and culture.",
+      "endDate": "2021-03-28T04:25:00.000Z",
+      "link": "https://mega.nz/folder/wggwTabQ#LnPQfI1pwPgNRUHPzyjN7g",
+      "recordDateEnd": "2021-03-28T04:25:24.170Z",
+      "recordDateStart": "2021-03-28T04:09:20.100Z",
+      "seriesId": "6209",
+      "sha256": "9f1adfaa636509b9a4ce1e518dde569db51217528369c1453c8b08f0950acbb7",
+      "startDate": "2021-03-28T04:10:00.000Z",
+      "subtitle": "",
+      "title": "Somewhere Street mini",
+      "uploadedDate": "2021-03-28T05:12:10.319Z"
     },
     {
       "airingId": "015",
