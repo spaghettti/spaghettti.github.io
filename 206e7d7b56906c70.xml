@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T12:00:03.778Z</lastUpdated>
+  <lastUpdated>2021-03-29T13:00:04.015Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -179,6 +179,22 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2020-12-29T04:29:14.630Z</uploadedDate>
     <raw>https://mega.nz/folder/OksVQaQZ#TSqV-1QAAoTJ4F51gRpAaw</raw>
+  </episode>
+  <episode>
+    <airingId>097</airingId>
+    <content>The town of Miharu in Fukushima Prefecture, eastern Japan, is renowned for its cherry blossoms. Once the long winter has passed and the cherry blossoms bloom, many tourists come to visit the usually quiet countryside. The main tourist attraction is a tree designated as a national natural monument, the Takizakura, meaning Waterfall Cherry Tree. There are more than 10,000 cherry trees all around the town.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history. Today, Cherry Blossoms will Bloom: Miharu, Fukushima.</description>
+    <endDate>2021-03-29T08:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/h8wiXCLA#DuYc3VyZfNfqScrLTIUNqw</link>
+    <recordDateEnd>2021-03-29T08:00:28.969Z</recordDateEnd>
+    <recordDateStart>2021-03-29T07:29:23.004Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>7c347213d5a82b2007045db481162c8de5493f4b89bcd362c1620004cc4a5224</sha256>
+    <startDate>2021-03-29T07:30:00.000Z</startDate>
+    <subtitle>Cherry Blossoms will Bloom: Miharu, Fukushima</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-03-29T12:57:44.688Z</uploadedDate>
+    <raw>https://mega.nz/folder/s1hmERJI#7HCDIazpQK__yeFm5Kbqkg</raw>
   </episode>
   <episode>
     <airingId>106</airingId>
