@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T01:50:03.350Z",
+  "lastUpdated": "2021-03-29T02:20:04.008Z",
   "series": [
     {
       "count": 24,
@@ -146,10 +146,10 @@
       "title": "Broadcasters' Eye"
     },
     {
-      "count": 5,
+      "count": 6,
       "uniqueId": "67100a925b586aba",
-      "lastAiring": "2021-02-25T23:30:00.000Z",
-      "lastUpload": "2021-02-26T00:59:28.607Z",
+      "lastAiring": "2021-03-25T23:30:00.000Z",
+      "lastUpload": "2021-03-29T02:17:33.901Z",
       "seriesId": "7000",
       "title": "CATCH JAPAN"
     },
