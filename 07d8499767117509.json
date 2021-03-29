@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T07:05:03.873Z",
+  "lastUpdated": "2021-03-29T08:20:03.818Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2544,6 +2544,21 @@
       "subtitle": "Flourishing Past Seventy: Maye Musk / Dietitian and Fashion Model",
       "title": "Direct Talk",
       "uploadedDate": "2021-03-29T01:06:57.918Z"
+    },
+    {
+      "airingId": "758",
+      "content": "Tsuda Yuichi leads a project at the Japan Aerospace Exploration Agency that recently completed a mission to return subsurface samples of an asteroid to Earth. He reflects on the scientific milestone.",
+      "description": "Tsuda Yuichi leads a project at the Japan Aerospace Exploration Agency that recently completed a mission to return subsurface samples of an asteroid to Earth. He reflects on the scientific milestone.",
+      "endDate": "2021-03-29T07:30:00.000Z",
+      "link": "https://mega.nz/folder/k5AgnRDQ#aLCsxLCi7Ama3ssfc6vNCQ",
+      "recordDateEnd": "2021-03-29T07:30:29.602Z",
+      "recordDateStart": "2021-03-29T07:14:20.012Z",
+      "seriesId": "2058",
+      "sha256": "01af073d6c51b6cbb87dad2a24322428dec94c37d77fef2be992625dcdb27685",
+      "startDate": "2021-03-29T07:15:00.000Z",
+      "subtitle": "Exploring the Origins of Life: Tsuda Yuichi / Hayabusa2 Project Manager",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-03-29T08:15:24.483Z"
     }
   ]
 }
