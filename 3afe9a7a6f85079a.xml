@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T14:30:04.249Z</lastUpdated>
+  <lastUpdated>2021-03-29T14:45:04.171Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -418,6 +418,22 @@
     <title>Ukiyoe EDO-LIFE: A Kitty's Dreams</title>
     <uploadedDate>2021-03-24T21:20:04.763Z</uploadedDate>
     <raw>https://mega.nz/folder/zs4kFJ6L#cbM15qNShHbefnBJiSNNLQ</raw>
+  </episode>
+  <episode>
+    <airingId>027</airingId>
+    <content/>
+    <description>A dapper young man sits in a teahouse with his older companion when a young woman catches his eye. From the way they're looking at each other, it's clear that there's something going on between them.</description>
+    <endDate>2021-03-25T06:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/GF12xASB#_ZP5hw2VUPK-p-WPDczV8Q</link>
+    <recordDateEnd>2021-03-25T06:30:28.859Z</recordDateEnd>
+    <recordDateStart>2021-03-25T06:22:20.099Z</recordDateStart>
+    <seriesId>6030</seriesId>
+    <sha256>0dbd9380bd596a1adca353d8accdbbaa07d9458f40bb2ae7b7088de389c263ed</sha256>
+    <startDate>2021-03-25T06:23:00.000Z</startDate>
+    <subtitle/>
+    <title>Ukiyoe EDO-LIFE: Will Sparks Fly?</title>
+    <uploadedDate>2021-03-29T14:40:39.635Z</uploadedDate>
+    <raw>https://mega.nz/folder/stJgEBTS#lmpSyfxwyouhMwT1un9w1g</raw>
   </episode>
   <episode>
     <airingId>028</airingId>

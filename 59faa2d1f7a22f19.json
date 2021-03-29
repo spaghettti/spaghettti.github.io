@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T14:30:04.254Z",
+  "lastUpdated": "2021-03-29T14:45:04.176Z",
   "seriesId": "6032",
   "title": "Japanology Plus mini",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "Japanology Plus mini",
       "uploadedDate": "2021-02-28T00:45:37.390Z",
       "raw": "https://mega.nz/folder/V8YyCL5S#v_tUfxPFxhnOb2YnMiAnJw"
+    },
+    {
+      "airingId": "004",
+      "content": "",
+      "description": "We bring you a five-minute digest of \"Japanology Plus,\" a show that explores Japanese culture. This time we focus on banknotes and learn about Japan's state-of-the-art paper currency.",
+      "endDate": "2021-03-25T01:30:00.000Z",
+      "link": "https://mega.nz/folder/W18iiawJ#J8Vg27qKCMyb4dRbUARP7Q",
+      "recordDateEnd": "2021-03-25T01:30:29.365Z",
+      "recordDateStart": "2021-03-25T01:24:20.003Z",
+      "seriesId": "6032",
+      "sha256": "c6b981d08cac6e7c25cebc885b340d4057652234d81916b5c4ef61aa5ecbdc8d",
+      "startDate": "2021-03-25T01:25:00.000Z",
+      "subtitle": "",
+      "title": "Japanology Plus mini",
+      "uploadedDate": "2021-03-29T14:41:27.043Z"
     },
     {
       "airingId": "005",
