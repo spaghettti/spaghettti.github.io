@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T02:20:04.008Z",
+  "lastUpdated": "2021-03-29T02:50:04.272Z",
   "series": [
     {
       "count": 24,
@@ -672,6 +672,14 @@
       "lastUpload": "2021-03-12T02:49:34.180Z",
       "seriesId": "2025",
       "title": "Kawaii International"
+    },
+    {
+      "count": 1,
+      "uniqueId": "f24ba3141f336276",
+      "lastAiring": "2021-03-29T01:30:00.000Z",
+      "lastUpload": "2021-03-29T02:45:35.665Z",
+      "seriesId": "3004",
+      "title": "Kintsugi Wellness"
     },
     {
       "count": 1,
