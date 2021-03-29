@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-29T19:25:03.699Z</lastUpdated>
+  <lastUpdated>2021-03-29T20:40:03.879Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -467,10 +467,10 @@
     <title>GRAND SUMO</title>
   </series>
   <series>
-    <count>34</count>
+    <count>35</count>
     <uniqueId>b2f243cf934b4de8</uniqueId>
     <lastAiring>2021-03-28T16:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-29T15:46:28.498Z</lastUpload>
+    <lastUpload>2021-03-29T20:39:07.164Z</lastUpload>
     <seriesId>2061</seriesId>
     <title>GRAND SUMO Highlights</title>
   </series>
@@ -675,10 +675,10 @@
     <title>Kawaii International</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>f24ba3141f336276</uniqueId>
-    <lastAiring>2021-03-29T12:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-29T13:41:58.030Z</lastUpload>
+    <lastAiring>2021-03-29T17:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-29T20:38:29.371Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>Kintsugi Wellness</title>
   </series>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T19:25:03.708Z",
+  "lastUpdated": "2021-03-29T20:40:03.887Z",
   "series": [
     {
       "count": 24,
@@ -466,10 +466,10 @@
       "title": "GRAND SUMO"
     },
     {
-      "count": 34,
+      "count": 35,
       "uniqueId": "b2f243cf934b4de8",
       "lastAiring": "2021-03-28T16:30:00.000Z",
-      "lastUpload": "2021-03-29T15:46:28.498Z",
+      "lastUpload": "2021-03-29T20:39:07.164Z",
       "seriesId": "2061",
       "title": "GRAND SUMO Highlights"
     },
@@ -674,10 +674,10 @@
       "title": "Kawaii International"
     },
     {
-      "count": 3,
+      "count": 4,
       "uniqueId": "f24ba3141f336276",
-      "lastAiring": "2021-03-29T12:30:00.000Z",
-      "lastUpload": "2021-03-29T13:41:58.030Z",
+      "lastAiring": "2021-03-29T17:30:00.000Z",
+      "lastUpload": "2021-03-29T20:38:29.371Z",
       "seriesId": "3004",
       "title": "Kintsugi Wellness"
     },

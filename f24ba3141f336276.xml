@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T19:25:03.564Z</lastUpdated>
+  <lastUpdated>2021-03-29T20:40:03.725Z</lastUpdated>
   <seriesId>f24ba3141f336276</seriesId>
   <title>Kintsugi Wellness</title>
   <episode>
@@ -51,5 +51,20 @@
     <title>Kintsugi Wellness</title>
     <uploadedDate>2021-03-29T13:41:58.030Z</uploadedDate>
     <raw>https://mega.nz/folder/1lgAUTTD#qUlsGp706C5ptsKKm6pKnA</raw>
+  </episode>
+  <episode>
+    <airingId>728</airingId>
+    <content/>
+    <description>Repairing and maintaining the mindset requires practice. Candice Kumai experiences various practices and healing methods in Japan old and new, and catches a glimpse of Japanese style of well-being.</description>
+    <endDate>2021-03-29T17:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/l4Q12YjZ#_-p2DT79I-4uhKx3624Pdg</link>
+    <recordDateEnd>2021-03-29T17:50:22.825Z</recordDateEnd>
+    <recordDateStart>2021-03-29T17:29:22.677Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>a91367e8517495c723cb3ee654f87588bf3e551085f1a2e63a53bb5608266b79</sha256>
+    <startDate>2021-03-29T17:30:00.000Z</startDate>
+    <subtitle>Ep 4 "practice"</subtitle>
+    <title>Kintsugi Wellness</title>
+    <uploadedDate>2021-03-29T20:38:29.371Z</uploadedDate>
   </episode>
 </episodeList>

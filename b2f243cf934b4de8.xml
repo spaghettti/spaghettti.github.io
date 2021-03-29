@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T19:25:03.499Z</lastUpdated>
+  <lastUpdated>2021-03-29T20:40:03.661Z</lastUpdated>
   <seriesId>b2f243cf934b4de8</seriesId>
   <title>GRAND SUMO Highlights</title>
   <episode>
@@ -449,6 +449,22 @@
     <title>GRAND SUMO Highlights</title>
     <uploadedDate>2021-03-19T18:17:25.181Z</uploadedDate>
     <raw>https://mega.nz/folder/a08jDAJL#8_3FxOzAZlcHHPnv-e6eWA</raw>
+  </episode>
+  <episode>
+    <airingId>413</airingId>
+    <content>The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!</content>
+    <description>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from March 21, Day 8 of the Grand Sumo Tournament in Tokyo.</description>
+    <endDate>2021-03-21T16:57:00.000Z</endDate>
+    <link>https://mega.nz/folder/OIdX3Qja#2ngI1ozjz6kMTORuqsv9dg</link>
+    <recordDateEnd>2021-03-21T16:57:27.866Z</recordDateEnd>
+    <recordDateStart>2021-03-21T16:29:20.141Z</recordDateStart>
+    <seriesId>2061</seriesId>
+    <sha256>5e2dd39f7ea8440288834b038773eb04591b180aaa8a12d895d381ca1d1c2bf9</sha256>
+    <startDate>2021-03-21T16:30:00.000Z</startDate>
+    <subtitle>March Tournament Day 8 (Halfway Point)</subtitle>
+    <title>GRAND SUMO Highlights</title>
+    <uploadedDate>2021-03-29T20:39:07.164Z</uploadedDate>
+    <raw>https://mega.nz/folder/KkdnwShb#d2eWkYYVPwoMveK_LkV1QA</raw>
   </episode>
   <episode>
     <airingId>415</airingId>
