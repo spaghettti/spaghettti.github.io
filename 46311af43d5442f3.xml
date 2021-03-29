@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-24T19:55:03.446Z</lastUpdated>
+  <lastUpdated>2021-03-29T23:40:04.788Z</lastUpdated>
   <seriesId>46311af43d5442f3</seriesId>
   <title>Culture Crossroads</title>
   <episode>
@@ -150,6 +150,21 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <raw>https://mega.nz/folder/1PwWHZqZ#ABvYEvLR72hvn2yEpmQyzg</raw>
   </episode>
   <episode>
+    <airingId>007</airingId>
+    <content>What did people do in pre-modern times before vaccines were developed? In Japan, notices were displayed. Dr. ISO shows unique examples such as "Jo-zake ari," meaning "We have high-quality sake."</content>
+    <description>How can we associate better with COVID-19? Let's find the key by learning about the history of the infectious diseases Japan has experienced. This time: Notices Instead of Vaccine.</description>
+    <endDate>2021-03-21T15:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/CYEjmQLR#kLwe7P6zdzUjLorQSgq0VA</link>
+    <recordDateEnd>2021-03-21T15:50:30.174Z</recordDateEnd>
+    <recordDateStart>2021-03-21T15:44:20.036Z</recordDateStart>
+    <seriesId>6036</seriesId>
+    <sha256>b645cf4e763a32fb26744e57ac53e89c965e26f9b093fd50cbe9ff1426773221</sha256>
+    <startDate>2021-03-21T15:45:00.000Z</startDate>
+    <subtitle>Dr. ISO's Pandemic History, Info &amp; Tips: Notices Instead of Vaccine</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-03-29T23:38:24.698Z</uploadedDate>
+  </episode>
+  <episode>
     <airingId>008</airingId>
     <content>When disaster strikes, finding accurate information can be difficult. We'll show you how foreign residents of Japan can swiftly and easily access vital information avoiding rumor and inaccuracy.</content>
     <description>As a series in Culture Crossroads, BOSAI: BE PREPARED provides practical knowledge to save yourself from natural disaster. In this episode, we learn how to get an accurate and reliable information.</description>
@@ -291,6 +306,22 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2021-02-10T19:37:00.023Z</uploadedDate>
     <raw>https://mega.nz/folder/iJk2RBxa#hxrRZfdz7rqa8_RsPb_I7w</raw>
+  </episode>
+  <episode>
+    <airingId>018</airingId>
+    <content>Ten years after the Great East Japan Earthquake, NHK's song for recovery "Flowers Will Bloom" is reborn in 11 languages, thanks to artists from around the world. Following "Flowers Will Bloom Beyond Borders," aired in February, this program offers insight on the performers' memories of the disaster, their feelings about the song, as well as the unexpected positive impact it had on people in Syria.</content>
+    <description>An inside look at the 11 artists who performed the multilingual versions of "Flowers Will Bloom," and the unexpected positive impact the song has had on people in Syria.</description>
+    <endDate>2021-03-24T15:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/vpxm0TQR#yIOpyGxBH8Y8w7zxMXk8iw</link>
+    <recordDateEnd>2021-03-24T15:45:26.812Z</recordDateEnd>
+    <recordDateStart>2021-03-24T15:29:20.083Z</recordDateStart>
+    <seriesId>2083</seriesId>
+    <sha256>29f9834421ceffc8bdc85ecd21f5d94385added09a59ac381d6c98da3f48b597</sha256>
+    <startDate>2021-03-24T15:30:00.000Z</startDate>
+    <subtitle>Flowers Will Bloom: The Stories Behind the Song</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-03-24T19:58:16.083Z</uploadedDate>
+    <raw>https://mega.nz/folder/u052SKrZ#RNlQOH6lt9zs8jgLGVuFyA</raw>
   </episode>
   <episode>
     <airingId>023</airingId>

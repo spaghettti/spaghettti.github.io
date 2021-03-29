@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-24T19:55:03.447Z",
+  "lastUpdated": "2021-03-29T23:40:04.789Z",
   "seriesId": "2076,2083,2084,6036",
   "title": "Culture Crossroads",
   "episodes": [
@@ -148,6 +148,21 @@
       "raw": "https://mega.nz/folder/1PwWHZqZ#ABvYEvLR72hvn2yEpmQyzg"
     },
     {
+      "airingId": "007",
+      "content": "What did people do in pre-modern times before vaccines were developed? In Japan, notices were displayed. Dr. ISO shows unique examples such as \"Jo-zake ari,\" meaning \"We have high-quality sake.\"",
+      "description": "How can we associate better with COVID-19? Let's find the key by learning about the history of the infectious diseases Japan has experienced. This time: Notices Instead of Vaccine.",
+      "endDate": "2021-03-21T15:50:00.000Z",
+      "link": "https://mega.nz/folder/CYEjmQLR#kLwe7P6zdzUjLorQSgq0VA",
+      "recordDateEnd": "2021-03-21T15:50:30.174Z",
+      "recordDateStart": "2021-03-21T15:44:20.036Z",
+      "seriesId": "6036",
+      "sha256": "b645cf4e763a32fb26744e57ac53e89c965e26f9b093fd50cbe9ff1426773221",
+      "startDate": "2021-03-21T15:45:00.000Z",
+      "subtitle": "Dr. ISO's Pandemic History, Info & Tips: Notices Instead of Vaccine",
+      "title": "Culture Crossroads",
+      "uploadedDate": "2021-03-29T23:38:24.698Z"
+    },
+    {
       "airingId": "008",
       "content": "When disaster strikes, finding accurate information can be difficult. We'll show you how foreign residents of Japan can swiftly and easily access vital information avoiding rumor and inaccuracy.",
       "description": "As a series in Culture Crossroads, BOSAI: BE PREPARED provides practical knowledge to save yourself from natural disaster. In this episode, we learn how to get an accurate and reliable information.",
@@ -289,6 +304,22 @@
       "title": "Culture Crossroads",
       "uploadedDate": "2021-02-10T19:37:00.023Z",
       "raw": "https://mega.nz/folder/iJk2RBxa#hxrRZfdz7rqa8_RsPb_I7w"
+    },
+    {
+      "airingId": "018",
+      "content": "Ten years after the Great East Japan Earthquake, NHK's song for recovery \"Flowers Will Bloom\" is reborn in 11 languages, thanks to artists from around the world. Following \"Flowers Will Bloom Beyond Borders,\" aired in February, this program offers insight on the performers' memories of the disaster, their feelings about the song, as well as the unexpected positive impact it had on people in Syria.",
+      "description": "An inside look at the 11 artists who performed the multilingual versions of \"Flowers Will Bloom,\" and the unexpected positive impact the song has had on people in Syria.",
+      "endDate": "2021-03-24T15:45:00.000Z",
+      "link": "https://mega.nz/folder/vpxm0TQR#yIOpyGxBH8Y8w7zxMXk8iw",
+      "recordDateEnd": "2021-03-24T15:45:26.812Z",
+      "recordDateStart": "2021-03-24T15:29:20.083Z",
+      "seriesId": "2083",
+      "sha256": "29f9834421ceffc8bdc85ecd21f5d94385added09a59ac381d6c98da3f48b597",
+      "startDate": "2021-03-24T15:30:00.000Z",
+      "subtitle": "Flowers Will Bloom: The Stories Behind the Song",
+      "title": "Culture Crossroads",
+      "uploadedDate": "2021-03-24T19:58:16.083Z",
+      "raw": "https://mega.nz/folder/u052SKrZ#RNlQOH6lt9zs8jgLGVuFyA"
     },
     {
       "airingId": "023",
