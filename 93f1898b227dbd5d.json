@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T05:50:03.587Z",
+  "lastUpdated": "2021-03-29T06:50:03.447Z",
   "seriesId": "2046",
   "title": "DESIGN TALKS plus",
   "episodes": [
@@ -226,6 +226,21 @@
       "title": "DESIGN TALKS plus",
       "uploadedDate": "2021-03-19T04:37:49.947Z",
       "raw": "https://mega.nz/folder/z5gmXJwS#_96R-x0Ij44t0MO6PnrDqA"
+    },
+    {
+      "airingId": "145",
+      "content": "Our topic this time is Part of the Whole. Our guests are up-and-coming architectural duo Masuda Shingo and Otsubo Katsuhisa. By focusing on which elements really need to change, they examine windows, walls and foundations. Their work creates new relationships between architecture and the surrounding environment. As we stand at a turning point for new lifestyles, explore potential futures.",
+      "description": "Today's theme: Part of the Whole. Architects Masuda Shingo and Otsubo Katsuhisa focus on windows, walls, and other structural parts to change the whole. Explore how their ideas might shape our future.",
+      "endDate": "2021-03-25T01:00:00.000Z",
+      "link": "https://mega.nz/folder/2xgn0KLJ#Ex4LkU5s9jlBXyxmgvSTEQ",
+      "recordDateEnd": "2021-03-25T01:00:29.055Z",
+      "recordDateStart": "2021-03-25T00:29:20.099Z",
+      "seriesId": "2046",
+      "sha256": "74ab682e81feef101b952a489356fc8330031e44d9c542d1c2caa3795055d5e2",
+      "startDate": "2021-03-25T00:30:00.000Z",
+      "subtitle": "Part of the Whole",
+      "title": "DESIGN TALKS plus",
+      "uploadedDate": "2021-03-29T06:49:26.203Z"
     }
   ]
 }

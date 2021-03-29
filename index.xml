@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-29T05:50:03.814Z</lastUpdated>
+  <lastUpdated>2021-03-29T06:50:03.668Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -251,10 +251,10 @@
     <title>DEEPER LOOK from New York</title>
   </series>
   <series>
-    <count>14</count>
+    <count>15</count>
     <uniqueId>93f1898b227dbd5d</uniqueId>
-    <lastAiring>2021-03-18T00:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-19T04:37:49.947Z</lastUpload>
+    <lastAiring>2021-03-25T00:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-29T06:49:26.203Z</lastUpload>
     <seriesId>2046</seriesId>
     <title>DESIGN TALKS plus</title>
   </series>
