@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T11:30:04.946Z</lastUpdated>
+  <lastUpdated>2021-03-29T11:50:03.140Z</lastUpdated>
   <seriesId>509fab78036b7f12</seriesId>
   <title>RISING</title>
   <episode>
@@ -291,5 +291,21 @@
     <title>RISING</title>
     <uploadedDate>2021-03-19T01:25:22.087Z</uploadedDate>
     <raw>https://mega.nz/folder/DglBxAjI#Q3t4LhYWonTrKU_kx7V3Zg</raw>
+  </episode>
+  <episode>
+    <airingId>111</airingId>
+    <content>Kuji Kosuke heads an Iwate Prefecture's sake brewery with 119 years of history. Through an approach that melds tradition with the French "terroir" philosophy, using mountain spring water and rice varieties suited to the local environment, his beverages have won prizes in Japan and overseas. But with demand for sake falling due to the pandemic, he responded with "Japanese spirit," turning his surplus rice crop to more storable gin made with local botanicals, and vodka filtered with Iwate charcoal.</content>
+    <description>Follow an historic sake brewery tackling the pandemic with "Japanese spirit," turning surplus rice crop to gin made with local botanicals, and vodka filtered with Iwate charcoal.</description>
+    <endDate>2021-03-25T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/7xg0iaqD#qtdrKm0QW_n9mhwztSJUBA</link>
+    <recordDateEnd>2021-03-25T02:00:27.140Z</recordDateEnd>
+    <recordDateStart>2021-03-25T01:29:23.004Z</recordDateStart>
+    <seriesId>2042</seriesId>
+    <sha256>564561f22ef315564cf851dd12bda6575ff3e8ab5a267192d3d6bc507174e13f</sha256>
+    <startDate>2021-03-25T01:30:00.000Z</startDate>
+    <subtitle>Tackling the Pandemic with "Japanese Spirit": Sake Modernizer - Kuji Kosuke</subtitle>
+    <title>RISING</title>
+    <uploadedDate>2021-03-29T11:48:29.807Z</uploadedDate>
+    <raw>https://mega.nz/folder/GhAQwD7K#OcOZC57CI6HnQ5r4KHJCEw</raw>
   </episode>
 </episodeList>
