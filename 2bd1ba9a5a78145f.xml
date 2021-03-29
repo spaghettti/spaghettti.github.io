@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T17:45:04.024Z</lastUpdated>
+  <lastUpdated>2021-03-29T18:00:04.461Z</lastUpdated>
   <seriesId>2bd1ba9a5a78145f</seriesId>
   <title>Dining with the Chef mini</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>Dining with the Chef mini</title>
     <uploadedDate>2021-03-11T05:19:31.088Z</uploadedDate>
     <raw>https://mega.nz/folder/4ToCiKaa#Pda_xh8kby9vDhQ72hkWDQ</raw>
+  </episode>
+  <episode>
+    <airingId>003</airingId>
+    <content/>
+    <description>Learn about easy, delicious and healthy cooking with Chef Rika! Featured recipe: Udon Noodles with Vegetables and Wasabi.</description>
+    <endDate>2021-03-21T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/fgcQjZCa#2PhtE2DqjofpMn_OoId5dg</link>
+    <recordDateEnd>2021-03-21T01:55:27.263Z</recordDateEnd>
+    <recordDateStart>2021-03-21T01:49:20.021Z</recordDateStart>
+    <seriesId>6031</seriesId>
+    <sha256>ce37b5d5cf8d72a373fb4124a1f2ca596a93d10b32d835cfcceb7203b1a23555</sha256>
+    <startDate>2021-03-21T01:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Dining with the Chef mini</title>
+    <uploadedDate>2021-03-29T17:57:24.453Z</uploadedDate>
+    <raw>https://mega.nz/folder/J4Iz0Qgb#UWHY64K3yJavOGyZ2VHcKQ</raw>
   </episode>
   <episode>
     <airingId>004</airingId>
