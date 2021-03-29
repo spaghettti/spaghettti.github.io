@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T14:45:04.197Z</lastUpdated>
+  <lastUpdated>2021-03-29T15:20:04.150Z</lastUpdated>
   <seriesId>30aa2c9c765292e1</seriesId>
   <title>Inspiring Landscapes</title>
   <episode>
@@ -211,6 +211,22 @@
     <title>Inspiring Landscapes</title>
     <uploadedDate>2021-01-06T08:01:24.955Z</uploadedDate>
     <raw>https://mega.nz/folder/Icp0zYaY#XQKjydAeLvnpehtqlPjNYw</raw>
+  </episode>
+  <episode>
+    <airingId>057</airingId>
+    <content/>
+    <description>This program portrays the natural beauty still to be found all over Japan by following the scenery and wildlife through the seasons.</description>
+    <endDate>2021-03-28T20:47:00.000Z</endDate>
+    <link>https://mega.nz/folder/FwxFSQLZ#UUq98oZvHd1ZFXGxnjRThw</link>
+    <recordDateEnd>2021-03-28T20:47:28.657Z</recordDateEnd>
+    <recordDateStart>2021-03-28T20:29:22.645Z</recordDateStart>
+    <seriesId>6206</seriesId>
+    <sha256>4cc5505377eb264b5bef98ceba747f4301a05fbc1edde54054f79d8bec7b53ce</sha256>
+    <startDate>2021-03-28T20:30:00.000Z</startDate>
+    <subtitle/>
+    <title>Inspiring Landscapes</title>
+    <uploadedDate>2021-03-29T15:15:29.862Z</uploadedDate>
+    <raw>https://mega.nz/folder/eoAhlCrL#gQJMVduRz62z1NXpo1DGdw</raw>
   </episode>
   <episode>
     <airingId>063</airingId>
