@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T13:05:03.467Z</lastUpdated>
+  <lastUpdated>2021-03-29T13:10:03.869Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -448,5 +448,20 @@
     <subtitle/>
     <title>Ukiyoe EDO-LIFE: Two Scenic Views</title>
     <uploadedDate>2021-03-29T13:04:47.770Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>030</airingId>
+    <content/>
+    <description>Japan is a seismically active land; the Edo period was no exception. In the aftermath of a major 1855 earthquake, an angry guardian deity set off on a quest to capture those considered responsible.</description>
+    <endDate>2021-03-25T23:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/ihEnFAjI#BAZEqPTk1TDT9WD7YmvDlg</link>
+    <recordDateEnd>2021-03-25T23:20:30.154Z</recordDateEnd>
+    <recordDateStart>2021-03-25T23:14:20.115Z</recordDateStart>
+    <seriesId>6030</seriesId>
+    <sha256>70fee4a081ef11d36e24b7ac54d6f158d64b8d227c201f04e8583258f497b789</sha256>
+    <startDate>2021-03-25T23:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Ukiyoe EDO-LIFE: Unruly Catfish</title>
+    <uploadedDate>2021-03-29T13:07:09.016Z</uploadedDate>
   </episode>
 </episodeList>

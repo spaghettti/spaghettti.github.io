@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T13:05:03.469Z",
+  "lastUpdated": "2021-03-29T13:10:03.871Z",
   "seriesId": "6030",
   "title": "Ukiyoe EDO-LIFE",
   "episodes": [
@@ -447,6 +447,21 @@
       "subtitle": "",
       "title": "Ukiyoe EDO-LIFE: Two Scenic Views",
       "uploadedDate": "2021-03-29T13:04:47.770Z"
+    },
+    {
+      "airingId": "030",
+      "content": "",
+      "description": "Japan is a seismically active land; the Edo period was no exception. In the aftermath of a major 1855 earthquake, an angry guardian deity set off on a quest to capture those considered responsible.",
+      "endDate": "2021-03-25T23:20:00.000Z",
+      "link": "https://mega.nz/folder/ihEnFAjI#BAZEqPTk1TDT9WD7YmvDlg",
+      "recordDateEnd": "2021-03-25T23:20:30.154Z",
+      "recordDateStart": "2021-03-25T23:14:20.115Z",
+      "seriesId": "6030",
+      "sha256": "70fee4a081ef11d36e24b7ac54d6f158d64b8d227c201f04e8583258f497b789",
+      "startDate": "2021-03-25T23:15:00.000Z",
+      "subtitle": "",
+      "title": "Ukiyoe EDO-LIFE: Unruly Catfish",
+      "uploadedDate": "2021-03-29T13:07:09.016Z"
     }
   ]
 }
