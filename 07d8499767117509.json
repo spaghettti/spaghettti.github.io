@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T11:10:03.064Z",
+  "lastUpdated": "2021-03-29T11:30:04.992Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1909,18 +1909,18 @@
     },
     {
       "airingId": "716",
-      "content": "In 2017, Fujiki Daichi became the first Asian countertenor to debut at the Vienna State Opera. What does he wish to convey to audiences through his dazzling performances?",
+      "content": "",
       "description": "In 2017, Fujiki Daichi became the first Asian countertenor to debut at the Vienna State Opera. What does he wish to convey to audiences through his dazzling performances?",
-      "endDate": "2020-12-14T07:30:00.000Z",
-      "link": "https://mega.nz/folder/ggsjzSCK#9RAWd18LiUhbahM86jPVZg",
-      "recordDateEnd": "2020-12-14T07:30:30.537Z",
-      "recordDateStart": "2020-12-14T07:14:20.014Z",
+      "endDate": "2021-03-29T09:30:00.000Z",
+      "link": "https://mega.nz/folder/ORtGFCJB#IlfNYLLm1LkyPy9awgYf7g",
+      "recordDateEnd": "2021-03-29T09:30:27.026Z",
+      "recordDateStart": "2021-03-29T09:14:20.039Z",
       "seriesId": "2058",
-      "sha256": "3ded0365a09bf3e5ba0089b45bf0ff7be9429f9177835914903e99be546fd5ea",
-      "startDate": "2020-12-14T07:15:00.000Z",
-      "subtitle": "Reaching Operatic Heights: Fujiki Daichi / Countertenor",
+      "sha256": "a6970528d2816b1c84ed4922359657674fed8f34e618b8f453727b2328d72c67",
+      "startDate": "2021-03-29T09:15:00.000Z",
+      "subtitle": "",
       "title": "Direct Talk",
-      "uploadedDate": "2020-12-25T20:15:07.099Z",
+      "uploadedDate": "2021-03-29T11:28:39.454Z",
       "raw": "https://mega.nz/folder/ZwFBWYTC#uA4oTB1kjZpbQsjrjMSawA"
     },
     {
@@ -2558,7 +2558,8 @@
       "startDate": "2021-03-29T07:15:00.000Z",
       "subtitle": "Exploring the Origins of Life: Tsuda Yuichi / Hayabusa2 Project Manager",
       "title": "Direct Talk",
-      "uploadedDate": "2021-03-29T08:15:24.483Z"
+      "uploadedDate": "2021-03-29T08:15:24.483Z",
+      "raw": "https://mega.nz/folder/i4h00SqT#6hfyN4PDxnA0U6e5EXGGDg"
     }
   ]
 }

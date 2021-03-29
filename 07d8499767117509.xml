@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T11:10:03.050Z</lastUpdated>
+  <lastUpdated>2021-03-29T11:30:04.977Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1910,18 +1910,18 @@
   </episode>
   <episode>
     <airingId>716</airingId>
-    <content>In 2017, Fujiki Daichi became the first Asian countertenor to debut at the Vienna State Opera. What does he wish to convey to audiences through his dazzling performances?</content>
+    <content/>
     <description>In 2017, Fujiki Daichi became the first Asian countertenor to debut at the Vienna State Opera. What does he wish to convey to audiences through his dazzling performances?</description>
-    <endDate>2020-12-14T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/ggsjzSCK#9RAWd18LiUhbahM86jPVZg</link>
-    <recordDateEnd>2020-12-14T07:30:30.537Z</recordDateEnd>
-    <recordDateStart>2020-12-14T07:14:20.014Z</recordDateStart>
+    <endDate>2021-03-29T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/ORtGFCJB#IlfNYLLm1LkyPy9awgYf7g</link>
+    <recordDateEnd>2021-03-29T09:30:27.026Z</recordDateEnd>
+    <recordDateStart>2021-03-29T09:14:20.039Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>3ded0365a09bf3e5ba0089b45bf0ff7be9429f9177835914903e99be546fd5ea</sha256>
-    <startDate>2020-12-14T07:15:00.000Z</startDate>
-    <subtitle>Reaching Operatic Heights: Fujiki Daichi / Countertenor</subtitle>
+    <sha256>a6970528d2816b1c84ed4922359657674fed8f34e618b8f453727b2328d72c67</sha256>
+    <startDate>2021-03-29T09:15:00.000Z</startDate>
+    <subtitle/>
     <title>Direct Talk</title>
-    <uploadedDate>2020-12-25T20:15:07.099Z</uploadedDate>
+    <uploadedDate>2021-03-29T11:28:39.454Z</uploadedDate>
     <raw>https://mega.nz/folder/ZwFBWYTC#uA4oTB1kjZpbQsjrjMSawA</raw>
   </episode>
   <episode>
@@ -2560,5 +2560,6 @@
     <subtitle>Exploring the Origins of Life: Tsuda Yuichi / Hayabusa2 Project Manager</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2021-03-29T08:15:24.483Z</uploadedDate>
+    <raw>https://mega.nz/folder/i4h00SqT#6hfyN4PDxnA0U6e5EXGGDg</raw>
   </episode>
 </episodeList>
