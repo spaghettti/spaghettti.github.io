@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T00:55:03.543Z",
+  "lastUpdated": "2021-03-29T01:10:03.762Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2513,6 +2513,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-03-24T11:00:56.890Z",
       "raw": "https://mega.nz/folder/K9AEGb6D#DiKQZ6-TsJm1qEm_fzJbRw"
+    },
+    {
+      "airingId": "757",
+      "content": "Maye Musk, dietitian, fashion model and mother of Elon, shares the secrets to flourishing in her 70s. Her independent spirit took her from struggling single motherhood to iconic status on billboards.",
+      "description": "Maye Musk, dietitian, fashion model, and mother of Elon, shares the secrets to flourishing in her 70s. Her independent spirit took her from struggling single motherhood to iconic status on billboards.",
+      "endDate": "2021-03-26T07:30:00.000Z",
+      "link": "https://mega.nz/folder/ut5kHBBD#Eo5ALKC50oGuu__BeUj_nw",
+      "recordDateEnd": "2021-03-26T07:30:30.956Z",
+      "recordDateStart": "2021-03-26T07:14:20.050Z",
+      "seriesId": "2058",
+      "sha256": "d8fa0414b9805e8c668fd44e6fbe94c32f436f3feb3c5f4ed48a29e8288d3dc8",
+      "startDate": "2021-03-26T07:15:00.000Z",
+      "subtitle": "Flourishing Past Seventy: Maye Musk / Dietitian and Fashion Model",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-03-29T01:06:57.918Z"
     }
   ]
 }
