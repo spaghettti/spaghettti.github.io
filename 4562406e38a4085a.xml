@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T15:20:03.905Z</lastUpdated>
+  <lastUpdated>2021-03-29T15:45:04.443Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -577,5 +577,20 @@
     <subtitle>Delicious Japan at Home: Kissaten - Coffee Shop Food</subtitle>
     <title>Dining with the Chef</title>
     <uploadedDate>2021-03-25T01:02:14.361Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>288</airingId>
+    <content>Let's travel Japan by cooking at home with our chef Rika and master chef Saito. Featured recipes: (1) Chakin Sushi (2) Oshizushi with Crab Meat (3) Deep-fried Shrimp (4) Daikon Radish and Carrot Salad.</content>
+    <description>Featured recipes: (1) Chakin Sushi (2) Oshizushi with Crab Meat (3) Deep-fried Shrimp (4) Daikon Radish and Carrot Salad.Let's travel Japan by cooking at home with our chef Rika and master chef Saito.</description>
+    <endDate>2021-03-26T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/TkkBlApY#kKQ-j17qOQiFZAy51BjfiQ</link>
+    <recordDateEnd>2021-03-26T15:00:28.040Z</recordDateEnd>
+    <recordDateStart>2021-03-26T14:29:20.124Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>ce333189644dba1dc8bbae55eba68f00a304d62727831907b0f99951b5bdd489</sha256>
+    <startDate>2021-03-26T14:30:00.000Z</startDate>
+    <subtitle>Delicious Japan at Home: Hanami - Spring Picnic Bentos</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-03-29T15:43:08.069Z</uploadedDate>
   </episode>
 </episodeList>
