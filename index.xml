@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-29T13:45:04.357Z</lastUpdated>
+  <lastUpdated>2021-03-29T14:10:03.734Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -467,10 +467,10 @@
     <title>GRAND SUMO</title>
   </series>
   <series>
-    <count>32</count>
+    <count>33</count>
     <uniqueId>b2f243cf934b4de8</uniqueId>
     <lastAiring>2021-03-27T16:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-28T11:25:41.294Z</lastUpload>
+    <lastUpload>2021-03-29T14:05:09.416Z</lastUpload>
     <seriesId>2061</seriesId>
     <title>GRAND SUMO Highlights</title>
   </series>
