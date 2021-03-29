@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T05:40:04.041Z</lastUpdated>
+  <lastUpdated>2021-03-29T05:50:03.769Z</lastUpdated>
   <seriesId>67c4534cd38c5484</seriesId>
   <title>Kiyo in Kyoto: 3min</title>
   <episode>
@@ -19,5 +19,21 @@
     <title>Kiyo in Kyoto: 3min.</title>
     <uploadedDate>2021-02-25T00:54:41.949Z</uploadedDate>
     <raw>https://mega.nz/folder/BkZkFBRS#RwWFT4MoZVK9hBJ98vcsIg</raw>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>A maiko's appearance is completely transformed as she develops over time. We will focus on the things that makeover maiko, from their makeup to costume, accessories and footwear.</description>
+    <endDate>2021-03-25T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/E14iFbBJ#e_D-Ia1n8Ugy-bTx07GVvw</link>
+    <recordDateEnd>2021-03-25T00:00:23.938Z</recordDateEnd>
+    <recordDateStart>2021-03-24T23:54:22.507Z</recordDateStart>
+    <seriesId>6037</seriesId>
+    <sha256>dfae3b8ce9633bed80190f1600b5ad3a93c474b0cb036b7557b0744c5e474a18</sha256>
+    <startDate>2021-03-24T23:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Kiyo in Kyoto: 3min.</title>
+    <uploadedDate>2021-03-29T05:45:43.279Z</uploadedDate>
+    <raw>https://mega.nz/folder/IgQUzbDS#tRFK__MZVTJVOieoCEnK0Q</raw>
   </episode>
 </episodeList>
