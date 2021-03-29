@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-28T22:40:03.312Z</lastUpdated>
+  <lastUpdated>2021-03-29T00:55:03.664Z</lastUpdated>
   <seriesId>811a68ab0166cacc</seriesId>
   <title>ANIMATION X PARALYMPIC</title>
+  <episode>
+    <airingId>007</airingId>
+    <content/>
+    <description>The popular cycling manga and anime series "Yowamushi Pedal" introduces real-life para athlete Shota Kawamoto who pedals with a single leg. He competes in a road race with Sakamichi Onoda.</description>
+    <endDate>2021-03-25T01:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/88I2lDJQ#V8d0mVNluqZkb34bMMh2CA</link>
+    <recordDateEnd>2021-03-25T01:25:26.560Z</recordDateEnd>
+    <recordDateStart>2021-03-25T01:19:20.099Z</recordDateStart>
+    <seriesId>6027</seriesId>
+    <sha256>bb5e529cba41c9e6cdb478482c85a4e229ec87b96a69ecc47a7f82c26d7f03dd</sha256>
+    <startDate>2021-03-25T01:20:00.000Z</startDate>
+    <subtitle/>
+    <title>ANIMATION X PARALYMPIC</title>
+    <uploadedDate>2021-03-29T00:53:06.891Z</uploadedDate>
+    <raw>https://mega.nz/folder/ZsAGGD5I#TOsOMRG3Swss8rYYmfMwkA</raw>
+  </episode>
   <episode>
     <airingId>008</airingId>
     <content/>
