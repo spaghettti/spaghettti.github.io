@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T20:55:03.808Z</lastUpdated>
+  <lastUpdated>2021-03-29T21:15:04.191Z</lastUpdated>
   <seriesId>8a4476c69fcf9dff</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -99,6 +99,22 @@
     <title>Somewhere Street mini</title>
     <uploadedDate>2021-01-24T05:01:32.035Z</uploadedDate>
     <raw>https://mega.nz/folder/omZnmKiR#-SSDmlAVViJzBCLDa1Zpbw</raw>
+  </episode>
+  <episode>
+    <airingId>011</airingId>
+    <content/>
+    <description>With over 10 million residents, Brazil's megalopolis of Sao Paulo is the largest city in the Southern Hemisphere. It prospered due to the coffee industry, attracting immigrants from around the world.</description>
+    <endDate>2021-03-21T04:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/WA9D1KqZ#ugNXuekf-EE7K65v9JZXIQ</link>
+    <recordDateEnd>2021-03-21T04:25:31.357Z</recordDateEnd>
+    <recordDateStart>2021-03-21T04:09:20.037Z</recordDateStart>
+    <seriesId>6209</seriesId>
+    <sha256>f0806acbe8416d00621efb9b40de28253dde6b1bbfff25121f979434c54dbf30</sha256>
+    <startDate>2021-03-21T04:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Somewhere Street mini</title>
+    <uploadedDate>2021-03-29T21:13:03.812Z</uploadedDate>
+    <raw>https://mega.nz/folder/Hd1xxSyD#CoBjdhjRwUv03rICWJJRAA</raw>
   </episode>
   <episode>
     <airingId>012</airingId>
