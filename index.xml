@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-29T13:10:03.923Z</lastUpdated>
+  <lastUpdated>2021-03-29T13:45:04.357Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -675,10 +675,10 @@
     <title>Kawaii International</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>f24ba3141f336276</uniqueId>
-    <lastAiring>2021-03-29T06:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-29T08:55:33.144Z</lastUpload>
+    <lastAiring>2021-03-29T12:30:00.000Z</lastAiring>
+    <lastUpload>2021-03-29T13:41:58.030Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>Kintsugi Wellness</title>
   </series>

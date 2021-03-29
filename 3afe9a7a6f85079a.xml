@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T13:10:03.869Z</lastUpdated>
+  <lastUpdated>2021-03-29T13:45:04.303Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -448,6 +448,7 @@
     <subtitle/>
     <title>Ukiyoe EDO-LIFE: Two Scenic Views</title>
     <uploadedDate>2021-03-29T13:04:47.770Z</uploadedDate>
+    <raw>https://mega.nz/folder/zxJXRQ7J#LOYYN1vxAqgA3g_j7Ndytw</raw>
   </episode>
   <episode>
     <airingId>030</airingId>
@@ -463,5 +464,6 @@
     <subtitle/>
     <title>Ukiyoe EDO-LIFE: Unruly Catfish</title>
     <uploadedDate>2021-03-29T13:07:09.016Z</uploadedDate>
+    <raw>https://mega.nz/folder/L8BRwa7C#WwU-fKT_fcb7pbfJaOyFVA</raw>
   </episode>
 </episodeList>

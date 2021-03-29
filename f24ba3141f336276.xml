@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T13:10:03.801Z</lastUpdated>
+  <lastUpdated>2021-03-29T13:45:04.235Z</lastUpdated>
   <seriesId>f24ba3141f336276</seriesId>
   <title>Kintsugi Wellness</title>
   <episode>
@@ -35,5 +35,20 @@
     <title>Kintsugi Wellness</title>
     <uploadedDate>2021-03-29T08:55:33.144Z</uploadedDate>
     <raw>https://mega.nz/folder/DgZTwCpC#J6wBa4eEoHA51cIIMbvYtQ</raw>
+  </episode>
+  <episode>
+    <airingId>727</airingId>
+    <content/>
+    <description>Visiting Nagasaki to talk to a-bomb survivors has been Candice Kumai's life work. Reaffirming her wishes for peace, she regains confidence in her mission as an evangelist of wellness in body and soul.</description>
+    <endDate>2021-03-29T12:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/341AxCxD#G-jHkTN8WeXSp-D-xopIMA</link>
+    <recordDateEnd>2021-03-29T12:50:27.391Z</recordDateEnd>
+    <recordDateStart>2021-03-29T12:29:20.127Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>c696fe3f48c115ec6fa38062854f70bb9cdeb252153399c92a35e5e9f56a01e9</sha256>
+    <startDate>2021-03-29T12:30:00.000Z</startDate>
+    <subtitle>Ep 3 "nagasaki"</subtitle>
+    <title>Kintsugi Wellness</title>
+    <uploadedDate>2021-03-29T13:41:58.030Z</uploadedDate>
   </episode>
 </episodeList>
