@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T21:15:04.058Z</lastUpdated>
+  <lastUpdated>2021-03-29T21:25:03.142Z</lastUpdated>
   <seriesId>ae19acce46550858</seriesId>
   <title>Easy Japanese for Work</title>
   <episode>
@@ -163,5 +163,21 @@
     <title>Easy Japanese for Work</title>
     <uploadedDate>2021-03-19T15:36:00.949Z</uploadedDate>
     <raw>https://mega.nz/folder/es4HnQRC#HaDlh6u0oxaPzwXkUUV3cw</raw>
+  </episode>
+  <episode>
+    <airingId>032</airingId>
+    <content>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</content>
+    <description>Students in past editions of Easy Japanese for Work return for a quiz-style business Japanese lesson. This time, the students are Nu Nu Aung (from Myanmar) and Raphael Marso (from Germany).</description>
+    <endDate>2021-03-22T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/T9IilTwD#iA_4twSivkyvLNXWQn8TJA</link>
+    <recordDateEnd>2021-03-22T01:00:30.624Z</recordDateEnd>
+    <recordDateStart>2021-03-22T00:44:20.061Z</recordDateStart>
+    <seriesId>2078</seriesId>
+    <sha256>4258bbfc52da5fc6f1a30d4c4c30db56570be77e29512015608858a8029e9a2f</sha256>
+    <startDate>2021-03-22T00:45:00.000Z</startDate>
+    <subtitle>#32 Business Japanese Quiz Part 2</subtitle>
+    <title>Easy Japanese for Work</title>
+    <uploadedDate>2021-03-29T21:24:55.062Z</uploadedDate>
+    <raw>https://mega.nz/folder/HsczRKJZ#P3Ohe3sdjx3Fhr3ZIjksaQ</raw>
   </episode>
 </episodeList>
