@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T22:25:03.649Z</lastUpdated>
+  <lastUpdated>2021-03-29T22:40:03.817Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -758,18 +758,18 @@
   </episode>
   <episode>
     <airingId>619</airingId>
-    <content/>
+    <content>Koichiro Kobayashi has won gold at the Paraclimbing World Championships 4 times in a row. He works to help people who are visually impaired take up climbing. What does the sport mean to him?</content>
     <description>Koichiro Kobayashi has won gold at the Paraclimbing World Championships four times in a row. He works to help people who are visually impaired take up climbing. What does the sport mean to him?</description>
-    <endDate>2020-11-17T09:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/1AoDxALZ#pm_Y2nAVaP0EseKh5-fI1g</link>
-    <recordDateEnd>2020-11-17T09:30:28.707Z</recordDateEnd>
-    <recordDateStart>2020-11-17T09:14:20.018Z</recordDateStart>
+    <endDate>2021-03-22T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/j1YFXQqY#hXKqbRvZYJXjsEdZvcDnuQ</link>
+    <recordDateEnd>2021-03-22T07:30:29.728Z</recordDateEnd>
+    <recordDateStart>2021-03-22T07:14:20.040Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>a5ff656931beb2dc2f65d8a81592a952891b088445c64ce111facd8f47983464</sha256>
-    <startDate>2020-11-17T09:15:00.000Z</startDate>
-    <subtitle/>
+    <sha256>31e9fe6231217866baf7c5af309572bd25bbd1cebecbf6d35a9317554af4d640</sha256>
+    <startDate>2021-03-22T07:15:00.000Z</startDate>
+    <subtitle>Climbing for Diversity: Koichiro Kobayashi / Blind Free Climber</subtitle>
     <title>Direct Talk</title>
-    <uploadedDate>2020-12-26T00:16:23.049Z</uploadedDate>
+    <uploadedDate>2021-03-29T22:38:38.647Z</uploadedDate>
     <raw>https://mega.nz/folder/6oUDhAQA#f3hjnQ_yMpvffu0dZaUv5Q</raw>
   </episode>
   <episode>
