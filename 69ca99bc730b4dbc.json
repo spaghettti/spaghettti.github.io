@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2021-03-29T23:05:03.993Z",
+  "lastUpdated": "2021-03-29T23:20:04.310Z",
   "seriesId": "7000",
   "title": "ESPRIT JAPON",
   "episodes": [
+    {
+      "airingId": "481",
+      "content": "",
+      "description": "Promoting Japanese Tea and Fishery Products to the World: This program features two projects that have been launched to deliver high quality Japanese food products to the US and Latvia.",
+      "endDate": "2021-03-19T06:00:00.000Z",
+      "link": "https://mega.nz/folder/woI3ia5B#n02xLG25xZkQBZPyLMmBlw",
+      "recordDateEnd": "2021-03-19T06:00:29.625Z",
+      "recordDateStart": "2021-03-19T05:29:20.099Z",
+      "seriesId": "7000",
+      "sha256": "c896197c618161ce6ee5ffc88be6e9c2f93166b6bded4997cd2cf3b4582c9ede",
+      "startDate": "2021-03-19T05:30:00.000Z",
+      "subtitle": "Promoting Japanese Tea and Fishery Products to the World",
+      "title": "ESPRIT JAPON",
+      "uploadedDate": "2021-03-29T23:16:01.041Z",
+      "raw": "https://mega.nz/folder/hBYBTCgS#DY6teshuGRCzz5yS2ydtRw"
+    },
     {
       "airingId": "483",
       "content": "",
