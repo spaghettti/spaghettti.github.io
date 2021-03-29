@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-29T20:40:03.879Z</lastUpdated>
+  <lastUpdated>2021-03-29T20:55:03.835Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -851,10 +851,10 @@
     <title>no art, no life plus</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>c620a7ec2f9adde9</uniqueId>
     <lastAiring>2021-03-21T21:50:00.000Z</lastAiring>
-    <lastUpload>2021-03-24T08:53:38.182Z</lastUpload>
+    <lastUpload>2021-03-29T20:54:13.463Z</lastUpload>
     <seriesId>6038</seriesId>
     <title>Origami Magic</title>
   </series>
