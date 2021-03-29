@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T09:00:03.986Z",
+  "lastUpdated": "2021-03-29T11:10:03.202Z",
   "seriesId": "6030",
   "title": "Ukiyoe EDO-LIFE",
   "episodes": [
@@ -417,6 +417,21 @@
       "title": "Ukiyoe EDO-LIFE: A Kitty's Dreams",
       "uploadedDate": "2021-03-24T21:20:04.763Z",
       "raw": "https://mega.nz/folder/zs4kFJ6L#cbM15qNShHbefnBJiSNNLQ"
+    },
+    {
+      "airingId": "028",
+      "content": "",
+      "description": "For the annual Tanabata Star Festival, families across Edo flew bamboo stalks adorned with strips of paper and ornaments representing wishes. We examine what their wishes tell us about their lives.",
+      "endDate": "2021-03-25T12:00:00.000Z",
+      "link": "https://mega.nz/folder/fsEUFZaB#kTkRWtnDtTIbbuGsTj_XbQ",
+      "recordDateEnd": "2021-03-25T12:00:27.554Z",
+      "recordDateStart": "2021-03-25T11:54:20.128Z",
+      "seriesId": "6030",
+      "sha256": "866a46c567c5e560f50ffdee62143c1a7013c2dd8b40e4f6e364ad2ccdf3225e",
+      "startDate": "2021-03-25T11:55:00.000Z",
+      "subtitle": "",
+      "title": "Ukiyoe EDO-LIFE: The Star Festival",
+      "uploadedDate": "2021-03-29T11:06:21.562Z"
     }
   ]
 }
