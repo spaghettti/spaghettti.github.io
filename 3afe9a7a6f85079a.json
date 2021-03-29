@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T13:00:04.209Z",
+  "lastUpdated": "2021-03-29T13:05:03.469Z",
   "seriesId": "6030",
   "title": "Ukiyoe EDO-LIFE",
   "episodes": [
@@ -432,6 +432,21 @@
       "subtitle": "",
       "title": "Ukiyoe EDO-LIFE: The Star Festival",
       "uploadedDate": "2021-03-29T11:06:21.562Z"
+    },
+    {
+      "airingId": "029",
+      "content": "",
+      "description": "We break down a print that warps space to allow the viewer to be in two places at once: Shinobazu Pond, known for its lotus flowers, and the Sumida River, one of Edo's busiest waterways.",
+      "endDate": "2021-03-25T19:00:00.000Z",
+      "link": "https://mega.nz/folder/F1JX3SxQ#Isl53am3RdJo26MzWGT7iw",
+      "recordDateEnd": "2021-03-25T19:00:32.118Z",
+      "recordDateStart": "2021-03-25T18:54:20.133Z",
+      "seriesId": "6030",
+      "sha256": "ff6963388662cd9543c828b332b07babcd814d428dd625c9b85cc67ad1ecebd8",
+      "startDate": "2021-03-25T18:55:00.000Z",
+      "subtitle": "",
+      "title": "Ukiyoe EDO-LIFE: Two Scenic Views",
+      "uploadedDate": "2021-03-29T13:04:47.770Z"
     }
   ]
 }

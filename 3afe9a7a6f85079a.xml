@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T13:00:04.207Z</lastUpdated>
+  <lastUpdated>2021-03-29T13:05:03.467Z</lastUpdated>
   <seriesId>3afe9a7a6f85079a</seriesId>
   <title>Ukiyoe EDO-LIFE</title>
   <episode>
@@ -433,5 +433,20 @@
     <subtitle/>
     <title>Ukiyoe EDO-LIFE: The Star Festival</title>
     <uploadedDate>2021-03-29T11:06:21.562Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>029</airingId>
+    <content/>
+    <description>We break down a print that warps space to allow the viewer to be in two places at once: Shinobazu Pond, known for its lotus flowers, and the Sumida River, one of Edo's busiest waterways.</description>
+    <endDate>2021-03-25T19:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/F1JX3SxQ#Isl53am3RdJo26MzWGT7iw</link>
+    <recordDateEnd>2021-03-25T19:00:32.118Z</recordDateEnd>
+    <recordDateStart>2021-03-25T18:54:20.133Z</recordDateStart>
+    <seriesId>6030</seriesId>
+    <sha256>ff6963388662cd9543c828b332b07babcd814d428dd625c9b85cc67ad1ecebd8</sha256>
+    <startDate>2021-03-25T18:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Ukiyoe EDO-LIFE: Two Scenic Views</title>
+    <uploadedDate>2021-03-29T13:04:47.770Z</uploadedDate>
   </episode>
 </episodeList>
