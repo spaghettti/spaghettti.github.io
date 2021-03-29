@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T14:10:03.509Z</lastUpdated>
+  <lastUpdated>2021-03-29T14:30:04.090Z</lastUpdated>
   <seriesId>3ff887cb76b1a490</seriesId>
   <title>Japan Railway Journal</title>
   <episode>
@@ -195,6 +195,22 @@
     <title>Japan Railway Journal</title>
     <uploadedDate>2021-03-11T20:23:02.777Z</uploadedDate>
     <raw>https://mega.nz/folder/Lgg01SKB#tP_XHJcdB_cvhEBc8vpwWQ</raw>
+  </episode>
+  <episode>
+    <airingId>088</airingId>
+    <content>JR East's cycle train, which stopped running due to the coronavirus pandemic, resumed operation from July. B.B.BASE (Boso Bicycle Base) began service in 2018. Noticing an increase in cyclists, JR East's Chiba branch decided to develop a "wheel-on wheel-off" cyclist-friendly train, with the goal of becoming the base for cyclists around the Boso Peninsula. Join us as we take a closer look at Japan's first dedicated cycle train, as well as the history of bicycles and trains in Japan with special guest Michael Rice from "CYCLE AROUND JAPAN."</content>
+    <description>Running along the Boso Peninsula in Chiba Prefecture, JR East's cycle train has been gaining attention. Join us as we take a closer look at this cyclist-friendly train.</description>
+    <endDate>2021-03-25T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/zxcjSAKL#hyNvM-p2HNEtpypX5npS7w</link>
+    <recordDateEnd>2021-03-25T16:00:31.681Z</recordDateEnd>
+    <recordDateStart>2021-03-25T15:29:20.098Z</recordDateStart>
+    <seriesId>2049</seriesId>
+    <sha256>3b2c1bf47abf0b715dc48d4a1569cfbf841d8739e8e56dc5a04f177efd1a07fc</sha256>
+    <startDate>2021-03-25T15:30:00.000Z</startDate>
+    <subtitle>Bicycle Onboard: Cycling with JR East</subtitle>
+    <title>Japan Railway Journal</title>
+    <uploadedDate>2021-03-29T14:27:33.809Z</uploadedDate>
+    <raw>https://mega.nz/folder/HwgQzAwB#V7q5ePhoVAGq-iiJ1Fn7_A</raw>
   </episode>
   <episode>
     <airingId>090</airingId>
