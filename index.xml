@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-29T23:40:04.802Z</lastUpdated>
+  <lastUpdated>2021-03-29T23:45:04.401Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -929,6 +929,14 @@
     <lastUpload>2020-12-31T03:06:49.112Z</lastUpload>
     <seriesId>5001</seriesId>
     <title>SAKE R-Evolution</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>7bd33bc2c9cbd03e</uniqueId>
+    <lastAiring>2021-03-21T11:35:00.000Z</lastAiring>
+    <lastUpload>2021-03-29T23:43:19.572Z</lastUpload>
+    <seriesId>6006</seriesId>
+    <title>SAKURA - Cherry Blossom in Japan</title>
   </series>
   <series>
     <count>1</count>

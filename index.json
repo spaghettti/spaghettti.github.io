@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T23:40:04.815Z",
+  "lastUpdated": "2021-03-29T23:45:04.409Z",
   "series": [
     {
       "count": 24,
@@ -928,6 +928,14 @@
       "lastUpload": "2020-12-31T03:06:49.112Z",
       "seriesId": "5001",
       "title": "SAKE R-Evolution"
+    },
+    {
+      "count": 1,
+      "uniqueId": "7bd33bc2c9cbd03e",
+      "lastAiring": "2021-03-21T11:35:00.000Z",
+      "lastUpload": "2021-03-29T23:43:19.572Z",
+      "seriesId": "6006",
+      "title": "SAKURA - Cherry Blossom in Japan"
     },
     {
       "count": 1,
