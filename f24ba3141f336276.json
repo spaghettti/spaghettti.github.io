@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T08:20:03.892Z",
+  "lastUpdated": "2021-03-29T09:00:03.893Z",
   "seriesId": "3004",
   "title": "Kintsugi Wellness",
   "episodes": [
@@ -18,6 +18,22 @@
       "title": "Kintsugi Wellness",
       "uploadedDate": "2021-03-29T02:45:35.665Z",
       "raw": "https://mega.nz/folder/9gpCVZRZ#mDKKOhGXGIw78h8eazzyBQ"
+    },
+    {
+      "airingId": "726",
+      "content": "",
+      "description": "Candice Kumai AKA \"the golden girl of wellness\" has been striving to live up to her expectations in Kyoto, she discovers the beauty of kintsugi and learns that it's okay to be broken and mended.",
+      "endDate": "2021-03-29T06:50:00.000Z",
+      "link": "https://mega.nz/folder/Ptx0WIRD#3HPLpFQFP-sWMilMTA36Ug",
+      "recordDateEnd": "2021-03-29T06:50:26.313Z",
+      "recordDateStart": "2021-03-29T06:29:20.002Z",
+      "seriesId": "3004",
+      "sha256": "b4e7d00cc9de964c8577b48cbca27254d140b11803a1a3d7f3aad21392182465",
+      "startDate": "2021-03-29T06:30:00.000Z",
+      "subtitle": "Ep 2 \"broken\"",
+      "title": "Kintsugi Wellness",
+      "uploadedDate": "2021-03-29T08:55:33.144Z",
+      "raw": "https://mega.nz/folder/DgZTwCpC#J6wBa4eEoHA51cIIMbvYtQ"
     }
   ]
 }
