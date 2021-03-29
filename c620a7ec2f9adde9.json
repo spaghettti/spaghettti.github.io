@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T21:25:03.258Z",
+  "lastUpdated": "2021-03-29T22:25:03.877Z",
   "seriesId": "6038",
   "title": "Origami Magic",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "Origami Magic #1",
       "uploadedDate": "2021-03-29T20:54:13.463Z",
       "raw": "https://mega.nz/folder/wJIRAQgT#kWIRT14flcD3FGEwJm02yQ"
+    },
+    {
+      "airingId": "002",
+      "content": "",
+      "description": "Do you know \"origami\"? It's magic made from a sheet of paper. It is a traditionalJapanese culture which can be enjoyed anytime, anywhere, with anyone! Take a look at this amazing magic!",
+      "endDate": "2021-03-21T15:55:00.000Z",
+      "link": "https://mega.nz/folder/TlhSHSTa#mvKbS9KGr8DriDrERwEq1A",
+      "recordDateEnd": "2021-03-21T15:55:23.342Z",
+      "recordDateStart": "2021-03-21T15:49:20.029Z",
+      "seriesId": "6038",
+      "sha256": "724ee741fb5ed77d04214a1dc3f36810d8a054d0b494c5ef5a127dca2c6cc7bb",
+      "startDate": "2021-03-21T15:50:00.000Z",
+      "subtitle": "",
+      "title": "Origami Magic #2",
+      "uploadedDate": "2021-03-29T22:23:46.566Z"
     },
     {
       "airingId": "003",
