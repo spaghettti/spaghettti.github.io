@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-29T22:40:03.938Z",
+  "lastUpdated": "2021-03-29T23:05:03.921Z",
   "seriesId": "5003",
   "title": "Hometown Stories",
   "episodes": [
@@ -210,6 +210,22 @@
       "title": "Hometown Stories",
       "uploadedDate": "2021-03-07T01:36:55.199Z",
       "raw": "https://mega.nz/folder/ZbpUEI4Z#NJMPD4h9Wgc5ZqbBTgqZ2Q"
+    },
+    {
+      "airingId": "162",
+      "content": "Yasui Hiroyuki is a junior-high school teacher and rugby coach in western Japan. With his motto \"One Team,\" he encourages students to unite to cope with the coronavirus pandemic. His school was closed the day after the entrance ceremony. Forced to stay at home, new first-year students couldn't get to know each other. When the school reopens in May, Hiroyuki suggests an interclass competition as a way for students to bond, getting them to suggest events and ways to practice. Here is a selfie-style video diary of a passionate teacher and his students.",
+      "description": "Amid the coronavirus pandemic, a passionate junior-high teacher keeps a selfie diary as he and his 1st-year students try to live up to his motto, \"One Team,\" to overcome difficulties in school life.",
+      "endDate": "2021-03-21T00:37:00.000Z",
+      "link": "https://mega.nz/folder/6V9lxKKZ#ybgLvF3gLEc4i8-8V_RUgA",
+      "recordDateEnd": "2021-03-21T00:37:29.751Z",
+      "recordDateStart": "2021-03-21T00:09:20.065Z",
+      "seriesId": "5003",
+      "sha256": "a8ea8cb3bc97f6a0f678d0cbd3e127e70177ac5346c0c960ea0e80cf7520460c",
+      "startDate": "2021-03-21T00:10:00.000Z",
+      "subtitle": "Selfie Diary of Mr. \"One Team\"",
+      "title": "Hometown Stories",
+      "uploadedDate": "2021-03-29T23:02:36.616Z",
+      "raw": "https://mega.nz/folder/5hgAAQyR#Hc0a2mfF5OhT2HkGMCv-Sw"
     }
   ]
 }
