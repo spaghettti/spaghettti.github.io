@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T01:10:03.746Z</lastUpdated>
+  <lastUpdated>2021-03-29T01:50:03.133Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2514,6 +2514,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-03-24T11:00:56.890Z</uploadedDate>
     <raw>https://mega.nz/folder/K9AEGb6D#DiKQZ6-TsJm1qEm_fzJbRw</raw>
+  </episode>
+  <episode>
+    <airingId>756</airingId>
+    <content>Anand Menon is Professor of European Politics and Foreign Affairs at King's College London. He also directs the UK in a Changing Europe project which studies the effects of Brexit and its implications for the UK.</content>
+    <description>Anand Menon is Professor of European Politics at King's College London. He also directs the UK in a Changing Europe project which studies the effects of Brexit and its implications for the UK.</description>
+    <endDate>2021-03-25T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/A4wyySJR#aCOxWxS6WifVt6kZw2Dv_w</link>
+    <recordDateEnd>2021-03-25T07:30:31.406Z</recordDateEnd>
+    <recordDateStart>2021-03-25T07:14:20.036Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>cad1adcce6023caebb7473845bbdee5afc83c520fa46748499fc264b9bffcda2</sha256>
+    <startDate>2021-03-25T07:15:00.000Z</startDate>
+    <subtitle>Brexit and Beyond: Anand Menon / Professor of European Politics and Foreign Affairs</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-03-29T01:46:53.842Z</uploadedDate>
+    <raw>https://mega.nz/folder/y9hQCBga#LyllcTG-HzYnY7FISXr7kg</raw>
   </episode>
   <episode>
     <airingId>757</airingId>
