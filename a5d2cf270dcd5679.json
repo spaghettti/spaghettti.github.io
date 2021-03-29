@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2021-03-29T16:25:03.213Z",
+  "lastUpdated": "2021-03-29T17:25:03.446Z",
   "seriesId": "2050",
   "title": "Medical Frontiers",
   "episodes": [
+    {
+      "airingId": "092",
+      "content": "What are viruses? How big are they and how do they infect us and cause disease? What are the characteristics of pneumonia caused by the novel coronavirus? What has humanity's long battle with viruses taught us? We answer these questions as we look into the mechanism of infection, the characteristics of the new coronavirus and the history of infectious diseases. They provide us with a new perspective on the pandemic and the relationship between viruses and humanity.",
+      "description": "The novel coronavirus continues to spread around the world. We attempt to unlock its secrets with experts in virology, the history of medicine and COVID-19 treatment.",
+      "endDate": "2021-03-29T15:00:00.000Z",
+      "link": "https://mega.nz/folder/bIdgBZaB#3qO0zs_Bb5K5vyyxPREkRA",
+      "recordDateEnd": "2021-03-29T15:00:30.099Z",
+      "recordDateStart": "2021-03-29T14:29:20.098Z",
+      "seriesId": "2050",
+      "sha256": "c5bc0cc6e3fa7dc81f31e7dc027e3bbd0fde848c96a70c329f765fb0e14e6e37",
+      "startDate": "2021-03-29T14:30:00.000Z",
+      "subtitle": "Unmasking the Virus",
+      "title": "Medical Frontiers",
+      "uploadedDate": "2021-03-29T17:22:52.230Z"
+    },
     {
       "airingId": "095",
       "content": "One of the immune system's important roles is to produce antibodies to neutralize pathogens. Japanese researchers found that the activity of immune cells called lymphocytes, which produce antibodies, is closely linked to the autonomic nervous system. A division of the ANS switches on and off, sending signals for the production of antibodies and their circulation around the body. We also focus on how to balance the ANS so that your immunity functions properly.",

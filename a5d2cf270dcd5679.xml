@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T16:25:03.211Z</lastUpdated>
+  <lastUpdated>2021-03-29T17:25:03.444Z</lastUpdated>
   <seriesId>a5d2cf270dcd5679</seriesId>
   <title>Medical Frontiers</title>
+  <episode>
+    <airingId>092</airingId>
+    <content>What are viruses? How big are they and how do they infect us and cause disease? What are the characteristics of pneumonia caused by the novel coronavirus? What has humanity's long battle with viruses taught us? We answer these questions as we look into the mechanism of infection, the characteristics of the new coronavirus and the history of infectious diseases. They provide us with a new perspective on the pandemic and the relationship between viruses and humanity.</content>
+    <description>The novel coronavirus continues to spread around the world. We attempt to unlock its secrets with experts in virology, the history of medicine and COVID-19 treatment.</description>
+    <endDate>2021-03-29T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/bIdgBZaB#3qO0zs_Bb5K5vyyxPREkRA</link>
+    <recordDateEnd>2021-03-29T15:00:30.099Z</recordDateEnd>
+    <recordDateStart>2021-03-29T14:29:20.098Z</recordDateStart>
+    <seriesId>2050</seriesId>
+    <sha256>c5bc0cc6e3fa7dc81f31e7dc027e3bbd0fde848c96a70c329f765fb0e14e6e37</sha256>
+    <startDate>2021-03-29T14:30:00.000Z</startDate>
+    <subtitle>Unmasking the Virus</subtitle>
+    <title>Medical Frontiers</title>
+    <uploadedDate>2021-03-29T17:22:52.230Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>095</airingId>
     <content>One of the immune system's important roles is to produce antibodies to neutralize pathogens. Japanese researchers found that the activity of immune cells called lymphocytes, which produce antibodies, is closely linked to the autonomic nervous system. A division of the ANS switches on and off, sending signals for the production of antibodies and their circulation around the body. We also focus on how to balance the ANS so that your immunity functions properly.</content>
