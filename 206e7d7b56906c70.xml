@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-30T13:40:03.098Z</lastUpdated>
+  <lastUpdated>2021-03-30T13:55:03.714Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -227,6 +227,22 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2021-02-09T11:13:30.391Z</uploadedDate>
     <raw>https://mega.nz/folder/zI0ADLhC#qnA1e2XcYKLDIv--5u8Tkw</raw>
+  </episode>
+  <episode>
+    <airingId>111</airingId>
+    <content>The Tsugaru Strait is a rough sea between the Japanese island of Honshu and Hokkaido to the north. At its narrowest point, it is just 18.7km across. The other side is far yet near, near yet far. For many years, people have traveled across the waters. This is the story of people who live life to the full either side of the Tsugaru Strait.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</description>
+    <endDate>2021-03-22T00:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/HhJEGDzZ#gQU-O4LE1gHqHGHgWi5aFA</link>
+    <recordDateEnd>2021-03-22T00:00:30.541Z</recordDateEnd>
+    <recordDateStart>2021-03-21T23:29:20.130Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>0c286f5c47bdb4b0b76cd12048a88cfd5a4768f72a3ddc451fe1453f4cba9780</sha256>
+    <startDate>2021-03-21T23:30:00.000Z</startDate>
+    <subtitle>Tsugaru Strait: Life Stories of Crossing the Rough Seas</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-03-30T13:52:50.420Z</uploadedDate>
+    <raw>https://mega.nz/folder/7hoEQbBI#qp7sj7mpFV4YfJ8BOsyJlQ</raw>
   </episode>
   <episode>
     <airingId>116</airingId>
