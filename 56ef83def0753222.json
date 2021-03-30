@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-30T06:35:03.784Z",
+  "lastUpdated": "2021-03-30T07:10:03.902Z",
   "seriesId": "3016,4001",
   "title": "NHK Documentary",
   "episodes": [
@@ -322,6 +322,22 @@
       "title": "NHK Documentary",
       "uploadedDate": "2021-02-27T18:17:38.237Z",
       "raw": "https://mega.nz/folder/3whxTCxB#NdTrQ75bv69Jt_AhKgixwg"
+    },
+    {
+      "airingId": "388",
+      "content": "In the series \"2030\" we tackle the challenges facing humanity over the next decade. We start with the pivotal issue of climate change, exploring what it will take to rein in our current trajectory as we hurtle toward a point of no return. Today we're seeing historic storms, floods and wildfires of increasing frequency and intensity. Climate change has entered a new phase, calling into question the very long-term survival of the human race. Drawing on the latest in climate modeling, we confront the bleak future that could be awaiting us and set out humankind's stark choice of paths to 2030.",
+      "description": "In the series \"2030\" we tackle the challenges facing humanity over the next decade. We start with the pivotal issue of climate change, exploring what it might take to avoid a disastrous tipping point.",
+      "endDate": "2021-03-20T16:00:00.000Z",
+      "link": "https://mega.nz/folder/0oozECyT#pJwx0puLclGyX5bin2KW5Q",
+      "recordDateEnd": "2021-03-20T16:00:27.062Z",
+      "recordDateStart": "2021-03-20T15:09:20.108Z",
+      "seriesId": "4001",
+      "sha256": "eaacfd814daf0a725f71aa0be9236399c1308acf196b8446a0d9e0ad47d2da67",
+      "startDate": "2021-03-20T15:10:00.000Z",
+      "subtitle": "2030 At a Crossroads to the Future: Climate in Crisis - Realizing a Net Zero World",
+      "title": "NHK Documentary",
+      "uploadedDate": "2021-03-30T07:07:16.815Z",
+      "raw": "https://mega.nz/folder/3pNjxKJC#TGKF2FNLSwfCdBRCiqY7jg"
     }
   ]
 }
