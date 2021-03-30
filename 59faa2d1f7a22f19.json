@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-30T10:20:04.242Z",
+  "lastUpdated": "2021-03-30T10:40:03.609Z",
   "seriesId": "6032",
   "title": "Japanology Plus mini",
   "episodes": [
@@ -290,6 +290,22 @@
       "title": "Japanology Plus mini",
       "uploadedDate": "2021-03-23T21:22:12.528Z",
       "raw": "https://mega.nz/folder/Hskz0Q7I#ZFagA1jWQ6juJt3zR4B9gQ"
+    },
+    {
+      "airingId": "020",
+      "content": "",
+      "description": "Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at urban workshops: expert craftsmanship on a small scale.",
+      "endDate": "2021-03-21T20:00:00.000Z",
+      "link": "https://mega.nz/folder/3oQBQKxS#mNAYgxdvas51EAZyG9C5kQ",
+      "recordDateEnd": "2021-03-21T20:00:27.163Z",
+      "recordDateStart": "2021-03-21T19:54:20.162Z",
+      "seriesId": "6032",
+      "sha256": "986157e11122701e0727a8dfebf6e54555ce780881f909bced10c3d7662a5121",
+      "startDate": "2021-03-21T19:55:00.000Z",
+      "subtitle": "",
+      "title": "Japanology Plus mini",
+      "uploadedDate": "2021-03-30T10:38:23.101Z",
+      "raw": "https://mega.nz/folder/itJkVLQA#dd9tLTNlgYJJ9VCDdqMyTA"
     }
   ]
 }
