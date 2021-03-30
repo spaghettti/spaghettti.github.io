@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-30T04:25:03.647Z</lastUpdated>
+  <lastUpdated>2021-03-30T04:50:03.884Z</lastUpdated>
   <seriesId>46311af43d5442f3</seriesId>
   <title>Culture Crossroads</title>
   <episode>
@@ -132,6 +132,22 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2021-01-13T18:05:38.555Z</uploadedDate>
     <raw>https://mega.nz/folder/T08RxC5L#JPEgLxurtWRjhqrAa7PNaQ</raw>
+  </episode>
+  <episode>
+    <airingId>006</airingId>
+    <content>There was business self-restraint in the Edo period as well, especially with restaurants, inns and teahouses. Dr. ISO also refers to the episode of self-restraint when the shogun became ill.</content>
+    <description>How can we associate better with COVID-19? Let's find the key by learning about the history of the infectious diseases. This time: Business Self-restraint in the Edo Period.</description>
+    <endDate>2021-03-21T11:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/yUUDAaSR#wzx59j5Tt0y3AXTCoeHV-A</link>
+    <recordDateEnd>2021-03-21T11:30:26.940Z</recordDateEnd>
+    <recordDateStart>2021-03-21T11:24:22.683Z</recordDateStart>
+    <seriesId>6036</seriesId>
+    <sha256>16da1aeb739e77904f66a2f17afdc9f0abf94cb7706f6770c23baae22f043298</sha256>
+    <startDate>2021-03-21T11:25:00.000Z</startDate>
+    <subtitle>Dr. ISO's Pandemic History, Info &amp; Tips: Business Self-restraint in the Edo Period</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-03-30T04:45:47.529Z</uploadedDate>
+    <raw>https://mega.nz/folder/3kUCVDST#JVSnBi2MTmfkRSDQegL9JA</raw>
   </episode>
   <episode>
     <airingId>007</airingId>

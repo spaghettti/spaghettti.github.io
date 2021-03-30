@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2021-03-30T04:25:03.581Z",
+  "lastUpdated": "2021-03-30T04:50:03.820Z",
   "seriesId": "6022",
   "title": "Easy Japanese",
   "episodes": [
+    {
+      "airingId": "001",
+      "content": "",
+      "description": "#1 Where is Haru-san House? / Learn how to ask about locations. If you want to know where something is, simply put \"wa doko desu ka\" after its name.",
+      "endDate": "2021-03-20T04:30:00.000Z",
+      "link": "https://mega.nz/folder/PsY1AYTA#6zHRaG9o017WS8iKCKLwjw",
+      "recordDateEnd": "2021-03-20T04:30:28.579Z",
+      "recordDateStart": "2021-03-20T04:24:20.102Z",
+      "seriesId": "6022",
+      "sha256": "82a06b315b4d9819a4f99b7423190b9aec36e60fcee492bf18fbc35904af6141",
+      "startDate": "2021-03-20T04:25:00.000Z",
+      "subtitle": "",
+      "title": "Easy Japanese",
+      "uploadedDate": "2021-03-30T04:47:35.584Z",
+      "raw": "https://mega.nz/folder/OsQy1Jzb#Wq4CdrifuPJpH0qLmalx4w"
+    },
     {
       "airingId": "002",
       "content": "",
