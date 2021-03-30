@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-30T13:55:03.755Z",
+  "lastUpdated": "2021-03-30T15:00:04.569Z",
   "seriesId": "2047",
   "title": "GLOBAL AGENDA",
   "episodes": [
@@ -34,6 +34,22 @@
       "title": "GLOBAL AGENDA",
       "uploadedDate": "2021-01-30T10:18:53.328Z",
       "raw": "https://mega.nz/folder/SRFwRR6T#RMaeBCh3R4uQukp_20AJyA"
+    },
+    {
+      "airingId": "060",
+      "content": "Digital technology, particularly AI, has played a key role in the fight against COVID. What are the new possibilities? How do we prevent it from going out of control? Experts debate what's to come.",
+      "description": "Digital technology, particularly AI, has played a key role in the fight against COVID. What are the new possibilities? How do we prevent it from going out of control? Experts debate what's to come.",
+      "endDate": "2021-03-20T02:00:00.000Z",
+      "link": "https://mega.nz/folder/O0hGxBwR#iTq0BVw669r953tG9wSvtw",
+      "recordDateEnd": "2021-03-20T02:00:26.636Z",
+      "recordDateStart": "2021-03-20T01:09:20.034Z",
+      "seriesId": "2047",
+      "sha256": "259ac3c8bf3186ec10bbc9121f53942dc642c39ab167f6414dd066e4fa7cb6e0",
+      "startDate": "2021-03-20T01:10:00.000Z",
+      "subtitle": "AI and Digital Transformation in the COVID Age",
+      "title": "GLOBAL AGENDA",
+      "uploadedDate": "2021-03-30T14:58:48.663Z",
+      "raw": "https://mega.nz/folder/X41y3JBR#q6iGcpZdD8HHprfTa3ERwA"
     }
   ]
 }
