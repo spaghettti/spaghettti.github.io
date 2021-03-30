@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-30T00:15:03.760Z</lastUpdated>
+  <lastUpdated>2021-03-30T00:35:03.727Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -227,6 +227,22 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2020-12-26T12:46:18.354Z</uploadedDate>
     <raw>https://mega.nz/folder/tAo0EKya#7CIe4wwtKOXuU4A9_UpTKQ</raw>
+  </episode>
+  <episode>
+    <airingId>224</airingId>
+    <content>In this two-week special, Chef Rika is visiting the cities of Nobeoka and Miyazaki, in Miyazaki Prefecture, to explore the delicious foods that Miyazaki Prefecture has to offer. In this first episode, we'll be visiting Nobeoka, which has been compared to Spain's Basque Country for the broad variety of delicious ingredients available there, from the sea, mountains and rivers. Nobeoka is also home to a chef who strives to develop a unique new style of Japanese cuisine that can be found nowhere else in the country: Zenbei Yoshida. Chef Rika will be visiting his restaurant to see how he works with his ingredients, carefully ensuring that their natural flavors fully shine through. Come join us, along with Chef Yoshida and the people in the area who provide his ingredients, who all work to show their love for Nobeoka through incredible food.</content>
+    <description>Today's recipe: (1) Squid Sashimi (2) Squid and Rice (3) Miso Soup. Rika Yukimasa meets Chef Zenbei Yoshida who cooks ultimate Japanese cuisine with organic ingredients from his home town, Nobeoka.</description>
+    <endDate>2021-03-23T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/QoJnDYxS#K53583brnZG8MoVF9rErXQ</link>
+    <recordDateEnd>2021-03-23T01:00:29.769Z</recordDateEnd>
+    <recordDateStart>2021-03-23T00:29:22.838Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>5ba165938b950b0ae59efac3265cf0780a1f4910e462bff2b7772d923634516e</sha256>
+    <startDate>2021-03-23T00:30:00.000Z</startDate>
+    <subtitle>Cook Around Japan "Miyazaki": Nobeoka's Culinary Revolution</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-03-30T00:33:08.536Z</uploadedDate>
+    <raw>https://mega.nz/folder/a90ylIQR#l4bd8Z5lnAtgHUUVrmx45Q</raw>
   </episode>
   <episode>
     <airingId>228</airingId>
