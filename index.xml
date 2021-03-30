@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-30T18:10:03.450Z</lastUpdated>
+  <lastUpdated>2021-03-30T20:45:04.414Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -209,6 +209,14 @@
     <lastUpload>2021-02-15T12:31:13.391Z</lastUpload>
     <seriesId>6034</seriesId>
     <title>Covid-19: Medical Frontiers</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>a798427c54d10fec</uniqueId>
+    <lastAiring>2021-03-30T19:00:00.000Z</lastAiring>
+    <lastUpload>2021-03-30T20:43:10.316Z</lastUpload>
+    <seriesId>7000</seriesId>
+    <title>Creative Edo</title>
   </series>
   <series>
     <count>22</count>
