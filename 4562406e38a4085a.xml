@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-30T03:55:03.946Z</lastUpdated>
+  <lastUpdated>2021-03-30T04:15:04.119Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -243,6 +243,21 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2021-03-30T00:33:08.536Z</uploadedDate>
     <raw>https://mega.nz/folder/a90ylIQR#l4bd8Z5lnAtgHUUVrmx45Q</raw>
+  </episode>
+  <episode>
+    <airingId>227</airingId>
+    <content>In this episode, we'll be making a Teishoku meal: a traditional style of Japanese meal featuring rice, miso soup, and main and side dishes that are collectively known as Okazu, all served together as a single course. These meals can be beautiful to look at, and feature well-balanced nutrition. For our main Okazu, we'll be preparing pork spare ribs: with this easy recipe, anyone can make deliciously tender spare ribs at home. Our side dish will be refreshing marinated turnip, and we'll be adding cabbage and egg to our miso soup to make it particularly hearty and satisfying. Join us, and learn some of Chef Rika's great easy recipes!</content>
+    <description>Today's recipe: (1) Sweet and Sour Pork Spare Ribs (2) Quick Marinated Turnips (3) Miso Soup with Spring Cabbage and Eggs. You can cook modern Japanese home meals by yourself with Rika's fun lesson!</description>
+    <endDate>2021-03-30T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/j55VRSQS#7JNSQ8spkSsTq4BFshrxZw</link>
+    <recordDateEnd>2021-03-30T02:00:26.924Z</recordDateEnd>
+    <recordDateStart>2021-03-30T01:29:20.098Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>88858c716885810f35c5b5189547d742bc0217f6f391c9cd288739a64b2d5a86</sha256>
+    <startDate>2021-03-30T01:30:00.000Z</startDate>
+    <subtitle>Rika's TOKYO CUISINE: Teishoku Meal Set with Pork Spare Ribs</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-03-30T04:11:32.979Z</uploadedDate>
   </episode>
   <episode>
     <airingId>228</airingId>
