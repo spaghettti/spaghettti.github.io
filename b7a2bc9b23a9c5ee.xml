@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-30T00:35:03.705Z</lastUpdated>
+  <lastUpdated>2021-03-30T03:10:03.259Z</lastUpdated>
   <seriesId>b7a2bc9b23a9c5ee</seriesId>
   <title>Journeys in Japan</title>
   <episode>
@@ -243,5 +243,20 @@
     <title>Journeys in Japan</title>
     <uploadedDate>2021-03-02T01:15:52.353Z</uploadedDate>
     <raw>https://mega.nz/folder/cAMTXSwa#Ej8o98hrhehFT44Tf2_mEg</raw>
+  </episode>
+  <episode>
+    <airingId>435</airingId>
+    <content>Winter in Hokkaido Prefecture... It's a fascinating time to visit for the stunning snowscapes and natural phenomena caused by the severe cold. Kussharo, located in a huge caldera, is part of the Akan-Mashu National Park. Cradled by the outer rim of the crater, heavy, cold air accumulates and the temperature plummets below minus 20 degrees Celsius on windless days. Lake Kussharo is the largest lake in Japan that completely freezes over. Hot springs gush out from many spots, releasing steam. Snow, ice and the steam interact in the ultra-low temperatures to create mysterious and stunning natural works of art.</content>
+    <description>Masha Simonov visits Hokkaido's Lake Kussharo in deep winter to take in the spectacular landscapes and soundscapes of a frozen world, from frost flowers and diamond dust to cracking ice ridges.</description>
+    <endDate>2021-03-30T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/a8wkybqQ#dwcSZKtRKcEWLxt3n-5H6g</link>
+    <recordDateEnd>2021-03-30T01:00:27.454Z</recordDateEnd>
+    <recordDateStart>2021-03-30T00:29:23.246Z</recordDateStart>
+    <seriesId>2007</seriesId>
+    <sha256>69f5ab84671b5dc81aac548d2f265839e1429e1e0d300cd5df13fbad764ed0a1</sha256>
+    <startDate>2021-03-30T00:30:00.000Z</startDate>
+    <subtitle>Poetic Beauty of Wintry Kussharo</subtitle>
+    <title>Journeys in Japan</title>
+    <uploadedDate>2021-03-30T03:06:38.803Z</uploadedDate>
   </episode>
 </episodeList>
