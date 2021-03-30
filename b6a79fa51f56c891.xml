@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-30T08:35:03.697Z</lastUpdated>
+  <lastUpdated>2021-03-30T09:55:03.983Z</lastUpdated>
   <seriesId>b6a79fa51f56c891</seriesId>
   <title>3-minute Maiko</title>
   <episode>
@@ -19,5 +19,20 @@
     <title>3-minute Maiko</title>
     <uploadedDate>2021-03-30T03:54:08.691Z</uploadedDate>
     <raw>https://mega.nz/folder/PQVQkJpA#5LEWPtg-ngyTjrd_93SPZA</raw>
+  </episode>
+  <episode>
+    <airingId>004</airingId>
+    <content/>
+    <description>We follow a day a maiko makes her debut. Everything for her debut, from hairstyling to kimono dressing, is special. The debut of a maiko does not mean that it is the goal but the start of her career.</description>
+    <endDate>2021-03-30T08:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/W54ASQ4I#6lYdYzgjydiGflYTMrUlPg</link>
+    <recordDateEnd>2021-03-30T08:00:25.946Z</recordDateEnd>
+    <recordDateStart>2021-03-30T07:54:20.099Z</recordDateStart>
+    <seriesId>6037</seriesId>
+    <sha256>5d62d52ddc35ae8a9ec4dfa2f4e63f0bd273e1379da89d7fd41608a031a1ffd1</sha256>
+    <startDate>2021-03-30T07:55:00.000Z</startDate>
+    <subtitle/>
+    <title>3-minute Maiko</title>
+    <uploadedDate>2021-03-30T09:53:52.420Z</uploadedDate>
   </episode>
 </episodeList>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-30T08:35:03.697Z",
+  "lastUpdated": "2021-03-30T09:55:03.984Z",
   "seriesId": "6037",
   "title": "3-minute Maiko",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "3-minute Maiko",
       "uploadedDate": "2021-03-30T03:54:08.691Z",
       "raw": "https://mega.nz/folder/PQVQkJpA#5LEWPtg-ngyTjrd_93SPZA"
+    },
+    {
+      "airingId": "004",
+      "content": "",
+      "description": "We follow a day a maiko makes her debut. Everything for her debut, from hairstyling to kimono dressing, is special. The debut of a maiko does not mean that it is the goal but the start of her career.",
+      "endDate": "2021-03-30T08:00:00.000Z",
+      "link": "https://mega.nz/folder/W54ASQ4I#6lYdYzgjydiGflYTMrUlPg",
+      "recordDateEnd": "2021-03-30T08:00:25.946Z",
+      "recordDateStart": "2021-03-30T07:54:20.099Z",
+      "seriesId": "6037",
+      "sha256": "5d62d52ddc35ae8a9ec4dfa2f4e63f0bd273e1379da89d7fd41608a031a1ffd1",
+      "startDate": "2021-03-30T07:55:00.000Z",
+      "subtitle": "",
+      "title": "3-minute Maiko",
+      "uploadedDate": "2021-03-30T09:53:52.420Z"
     }
   ]
 }
