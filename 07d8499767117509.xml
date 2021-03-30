@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-29T23:45:04.180Z</lastUpdated>
+  <lastUpdated>2021-03-30T00:00:04.285Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -822,19 +822,19 @@
   </episode>
   <episode>
     <airingId>625</airingId>
-    <content/>
+    <content>Terumo is a Japanese manufacturer of medical devices such as catheter-based solutions for the treatment of coronary arteries. Company CEO Sato Shinjiro talks about reducing the burden on patients.</content>
     <description>Terumo is a Japanese manufacturer of medical devices such as catheter-based solutions for the treatment of coronary arteries. Company CEO Sato Shinjiro talks about reducing the burden on patients.</description>
-    <endDate>2020-11-23T09:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/9EsR2Y6a#9TDdJRQWaq2aXA6Wd2PVLQ</link>
-    <recordDateEnd>2020-11-23T09:30:25.322Z</recordDateEnd>
-    <recordDateStart>2020-11-23T09:14:20.102Z</recordDateStart>
+    <endDate>2021-03-23T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/3ocjDa6a#yYL1kHz5lCC3f4_1Lt98Fg</link>
+    <recordDateEnd>2021-03-23T07:30:24.410Z</recordDateEnd>
+    <recordDateStart>2021-03-23T07:14:20.102Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>cd37ee572b3ae4dfa285afa5dd1d983c45a330926f0b597047a629b9f343ab44</sha256>
-    <startDate>2020-11-23T09:15:00.000Z</startDate>
-    <subtitle/>
+    <sha256>aec4e2e6321d668985893871ef55b2e5ca17dea170c820956825a08071f2f7c5</sha256>
+    <startDate>2021-03-23T07:15:00.000Z</startDate>
+    <subtitle>Putting Patients First: Sato Shinjiro / President &amp; CEO, Terumo</subtitle>
     <title>Direct Talk</title>
-    <uploadedDate>2020-12-26T00:21:23.224Z</uploadedDate>
-    <raw>https://mega.nz/folder/JAYlUYgD#kXP3t7uixnsQwyNkl45rmg</raw>
+    <uploadedDate>2021-03-29T23:57:19.668Z</uploadedDate>
+    <raw>https://mega.nz/folder/modxlI5K#D7c81bEel7r4McTQAJetyw</raw>
   </episode>
   <episode>
     <airingId>626</airingId>
