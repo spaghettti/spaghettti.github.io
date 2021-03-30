@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-03-30T03:40:03.408Z</lastUpdated>
+  <lastUpdated>2021-03-30T03:55:04.226Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -17,6 +17,14 @@
     <lastUpload>2021-02-03T03:34:23.570Z</lastUpload>
     <seriesId>3019</seriesId>
     <title>3-Day Dare*Devils</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>b6a79fa51f56c891</uniqueId>
+    <lastAiring>2021-03-30T02:55:00.000Z</lastAiring>
+    <lastUpload>2021-03-30T03:54:08.691Z</lastUpload>
+    <seriesId>6037</seriesId>
+    <title>3-minute Maiko</title>
   </series>
   <series>
     <count>4</count>
@@ -684,7 +692,7 @@
   </series>
   <series>
     <count>2</count>
-    <uniqueId>67c4534cd38c5484</uniqueId>
+    <uniqueId>f4a0e60ae1381f70</uniqueId>
     <lastAiring>2021-03-24T23:55:00.000Z</lastAiring>
     <lastUpload>2021-03-29T05:45:43.279Z</lastUpload>
     <seriesId>6037</seriesId>
