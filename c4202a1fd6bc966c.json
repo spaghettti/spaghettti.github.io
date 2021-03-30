@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-30T11:40:03.539Z",
+  "lastUpdated": "2021-03-30T13:05:03.581Z",
   "seriesId": "2081",
   "title": "GRAND SUMO LIVE",
   "episodes": [
@@ -82,6 +82,22 @@
       "title": "GRAND SUMO LIVE",
       "uploadedDate": "2021-03-19T06:06:40.081Z",
       "raw": "https://mega.nz/folder/7wgFXAyb#J90JeyXpXB9Zuxyv9NUj_A"
+    },
+    {
+      "airingId": "035",
+      "content": "",
+      "description": "NHK WORLD-JAPAN broadcasts GRAND SUMO March Tournament Day 8 action live from the Kokugikan in Tokyo, as top wrestlers reach the halfway point of the 15-day contest on Mar. 21.",
+      "endDate": "2021-03-21T09:00:00.000Z",
+      "link": "https://mega.nz/folder/v1sFRAaB#PEmVmAcKWtnxUwOEEBmcVA",
+      "recordDateEnd": "2021-03-21T09:00:22.948Z",
+      "recordDateStart": "2021-03-21T08:09:20.129Z",
+      "seriesId": "2081",
+      "sha256": "47e08a108a8a32be7a15487ec1481c24cb92bc01e9e9dc8b3b6cd5b2d87d2a01",
+      "startDate": "2021-03-21T08:10:00.000Z",
+      "subtitle": "March Tournament Day 8 (Halfway Point)",
+      "title": "GRAND SUMO LIVE",
+      "uploadedDate": "2021-03-30T13:02:10.674Z",
+      "raw": "https://mega.nz/folder/NB4QBB5J#n5ielrt4_MeBocCfsTphdA"
     },
     {
       "airingId": "036",
