@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-30T04:55:03.801Z",
+  "lastUpdated": "2021-03-30T06:00:04.285Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
@@ -290,6 +290,22 @@
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2021-03-19T14:32:47.610Z",
       "raw": "https://mega.nz/folder/RBp0DT7Z#B-kwRoa6iL6Gn4VKtKGatw"
+    },
+    {
+      "airingId": "082",
+      "content": "",
+      "description": "This time we introduce \"Japan Railway Journal\" which reveals the attractiveness of some cars debuted in 2020. There're Japanese-style wooden-furnitured cars and viewing cars with wide windows.",
+      "endDate": "2021-03-21T11:55:00.000Z",
+      "link": "https://mega.nz/folder/z5dCmb5T#M1ste4kCGw-LVg5bj6ttJQ",
+      "recordDateEnd": "2021-03-21T11:55:32.618Z",
+      "recordDateStart": "2021-03-21T11:49:20.134Z",
+      "seriesId": "2075",
+      "sha256": "45e3745feaceafa3a7f1a2290d6c5ecbcb9797fc114dfb983091afe086dad558",
+      "startDate": "2021-03-21T11:50:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2021-03-30T05:59:33.921Z",
+      "raw": "https://mega.nz/folder/ldRUVTAZ#CJP7-2dgZYgd5lkWGYpSpQ"
     },
     {
       "airingId": "083",

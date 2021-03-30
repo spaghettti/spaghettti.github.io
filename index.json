@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-30T04:55:03.972Z",
+  "lastUpdated": "2021-03-30T06:00:04.464Z",
   "series": [
     {
       "count": 24,
@@ -314,10 +314,10 @@
       "title": "Document 72 Hours"
     },
     {
-      "count": 19,
+      "count": 20,
       "uniqueId": "5d6cd359adade3e0",
       "lastAiring": "2021-03-28T11:50:00.000Z",
-      "lastUpload": "2021-03-28T14:21:37.175Z",
+      "lastUpload": "2021-03-30T05:59:33.921Z",
       "seriesId": "2075",
       "title": "Doki Doki! NHK WORLD-JAPAN"
     },
@@ -938,10 +938,10 @@
       "title": "SAKE R-Evolution"
     },
     {
-      "count": 2,
+      "count": 3,
       "uniqueId": "7bd33bc2c9cbd03e",
-      "lastAiring": "2021-03-21T15:55:00.000Z",
-      "lastUpload": "2021-03-30T04:52:58.212Z",
+      "lastAiring": "2021-03-21T21:55:00.000Z",
+      "lastUpload": "2021-03-30T06:00:00.450Z",
       "seriesId": "6006",
       "title": "SAKURA - Cherry Blossom in Japan"
     },

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-30T04:55:03.880Z",
+  "lastUpdated": "2021-03-30T06:00:04.365Z",
   "seriesId": "6006",
   "title": "SAKURA - Cherry Blossom in Japan",
   "episodes": [
@@ -34,6 +34,22 @@
       "title": "SAKURA - Cherry Blossom in Japan",
       "uploadedDate": "2021-03-30T04:52:58.212Z",
       "raw": "https://mega.nz/folder/RhZi3Lqb#fFM5ozmOCdn1xejeRk36ZQ"
+    },
+    {
+      "airingId": "003",
+      "content": "",
+      "description": "The cherry blossom is the symbol of the Japanese spring. The flowers so resplendently and scatter so forlornly. We introduce famous blossom viewing spots around the country.",
+      "endDate": "2021-03-21T22:00:00.000Z",
+      "link": "https://mega.nz/folder/rFEijZ5Q#q7ZNVFRuBmQosT-ujnyFkw",
+      "recordDateEnd": "2021-03-21T22:00:27.447Z",
+      "recordDateStart": "2021-03-21T21:54:20.055Z",
+      "seriesId": "6006",
+      "sha256": "a93d03b8727d3593a1184b4c8f15849aff09bedaf59fe5ff6db68ec49b12b2b8",
+      "startDate": "2021-03-21T21:55:00.000Z",
+      "subtitle": "",
+      "title": "SAKURA - Cherry Blossom in Japan",
+      "uploadedDate": "2021-03-30T06:00:00.450Z",
+      "raw": "https://mega.nz/folder/vw9GCT7L#90JUD5nlYFvM4_H6uUUubg"
     }
   ]
 }
