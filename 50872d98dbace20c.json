@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-03-30T20:45:04.169Z",
+  "lastUpdated": "2021-03-31T02:05:04.074Z",
   "seriesId": "2053",
   "title": "TOKYO EYE",
   "episodes": [
@@ -226,6 +226,21 @@
       "title": "TOKYO EYE 2020",
       "uploadedDate": "2021-03-24T01:56:07.918Z",
       "raw": "https://mega.nz/folder/VMgQXCIL#eDw6bKQUXKQXj_atfEEWcA"
+    },
+    {
+      "airingId": "202",
+      "content": "Tokyo is one of the culinary capitals of the world. However, the pandemic has made it hard for Tokyoites to visit their favorite restaurants. This time, we'll look at how staying home is changing the face of Tokyo's culinary culture.",
+      "description": "The pandemic has made it hard for Tokyoites to visit their favorite restaurants. This time, we'll look at how staying home is changing the face of Tokyo's culinary culture.",
+      "endDate": "2021-03-31T01:00:00.000Z",
+      "link": "https://mega.nz/folder/1xpEjJpB#Ek6Fc1i0V95Qt2YMU-pGqQ",
+      "recordDateEnd": "2021-03-31T01:00:25.998Z",
+      "recordDateStart": "2021-03-31T00:29:23.087Z",
+      "seriesId": "2053",
+      "sha256": "2839fddb75cc909d2089ac63399e1f9b7ae25c1089d06dc4a479d90a4af9d0c1",
+      "startDate": "2021-03-31T00:30:00.000Z",
+      "subtitle": "Tokyo and the Coronavirus: Stay Home Culinary Culture",
+      "title": "TOKYO EYE 2020",
+      "uploadedDate": "2021-03-31T02:03:39.767Z"
     }
   ]
 }
