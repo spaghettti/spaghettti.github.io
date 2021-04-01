@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-03-31T02:05:04.077Z</lastUpdated>
+  <lastUpdated>2021-04-01T04:20:03.648Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1382,18 +1382,18 @@
   </episode>
   <episode>
     <airingId>676</airingId>
-    <content/>
+    <content>Author of How Contagion Works, an essay on the science of infectious disease, physics PhD Paolo Giordano clarifies the issues we face and speaks on how to live in a post-pandemic world.</content>
     <description>Author of How Contagion Works, an essay on the science of infectious disease, physics PhD Paolo Giordano clarifies the issues we face and speaks on how to live in a post-pandemic world.</description>
-    <endDate>2021-01-28T04:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/m2oTiCyR#RfqyuNn9Fp0mThNyPNTglQ</link>
-    <recordDateEnd>2021-01-28T04:30:32.919Z</recordDateEnd>
-    <recordDateStart>2021-01-28T04:14:20.099Z</recordDateStart>
+    <endDate>2021-03-31T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/a4px0YTY#KI2lye9MOUcSAX5MvOZKvg</link>
+    <recordDateEnd>2021-03-31T07:30:30.460Z</recordDateEnd>
+    <recordDateStart>2021-03-31T07:14:20.013Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>88bea8fc291c40ef5890998f924581aa733cb16f807351e68c80774feafe6de7</sha256>
-    <startDate>2021-01-28T04:15:00.000Z</startDate>
-    <subtitle/>
+    <sha256>56678734ee996656fdc28f1e3e84e942130976c7f9c3bef234284db8ff8b9305</sha256>
+    <startDate>2021-03-31T07:15:00.000Z</startDate>
+    <subtitle>United for Change: Paolo Giordano / Writer</subtitle>
     <title>Direct Talk</title>
-    <uploadedDate>2021-01-28T04:48:28.290Z</uploadedDate>
+    <uploadedDate>2021-04-01T04:18:58.620Z</uploadedDate>
     <raw>https://mega.nz/folder/hvoziCLS#mONKNbq4dbb_fMVMmcw_gw</raw>
   </episode>
   <episode>
