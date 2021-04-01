@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-01T05:40:03.886Z</lastUpdated>
+  <lastUpdated>2021-04-01T06:20:04.038Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -156,6 +156,23 @@ Over the centuries, Japan has suffered from repeated outbreaks of diseases like 
     <title>Japanology Plus</title>
     <uploadedDate>2021-02-16T16:01:50.523Z</uploadedDate>
     <raw>https://mega.nz/folder/dY5AnDDK#bRPzpCm3UwgbNGYQxdyXGw</raw>
+  </episode>
+  <episode>
+    <airingId>213</airingId>
+    <content>*First broadcast on September 1, 2020.
+Wasabi is a plant that grows natively in Japan's mountain valleys. It's used to make a condiment with a distinctive green color and an eye-watering impact. Most commonly served with sushi and soba, it is a pillar of Japanese cuisine. Our theme this time on Japanology Plus is wasabi. Our main guest is Mukasa Chieko, a food journalist. She talks about the plant's many surprising uses. We also meet Mita Shinichi, a farmer who explains the intricacies of wasabi cultivation.</content>
+    <description>Wasabi. An eye-watering condiment with many surprising uses. Each time, Peter Barakan visits the key locations, and meets experts with fascinating cultural insights.</description>
+    <endDate>2021-04-01T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/7wpwECqB#rR6uNBuPd9hIXtZmbIgzTQ</link>
+    <recordDateEnd>2021-04-01T03:00:24.060Z</recordDateEnd>
+    <recordDateStart>2021-04-01T02:29:23.011Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>cbb59942fcedfc2631ca38fbd5bd58b2d4f14bfd97b5c047ba4af77eb05a54ca</sha256>
+    <startDate>2021-04-01T02:30:00.000Z</startDate>
+    <subtitle>Wasabi</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-04-01T06:19:34.039Z</uploadedDate>
+    <raw>https://mega.nz/folder/OJQwTJII#CqDxeTGhuSLiUqlsFSE4gw</raw>
   </episode>
   <episode>
     <airingId>222</airingId>
