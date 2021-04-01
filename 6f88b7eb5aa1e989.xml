@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-01T04:30:04.191Z</lastUpdated>
+  <lastUpdated>2021-04-01T05:10:03.491Z</lastUpdated>
   <seriesId>6f88b7eb5aa1e989</seriesId>
   <title>Dig More Japan</title>
   <episode>
@@ -131,5 +131,21 @@
     <title>Dig More Japan</title>
     <uploadedDate>2021-03-28T02:08:50.768Z</uploadedDate>
     <raw>https://mega.nz/folder/MghgmJ5T#nBSjUCh2Ooq1kNJmXhI0rg</raw>
+  </episode>
+  <episode>
+    <airingId>025</airingId>
+    <content>Tokyo is an internationally recognizable mega-city. 14 million people call the densely packed city of Tokyo home. But behind all the bright lights there is another city that's not so familiar. Please join this episode as we explore the unknown side of Tokyo.</content>
+    <description>This is a program that introduces NHK WORLD's many attractive programs in fun short videos. The clips will also be introduced on social media to meet the needs of people who are interested in Japan.</description>
+    <endDate>2021-03-31T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/OkAUFLKC#kMWQL-xHBUipL4wvHF73Xg</link>
+    <recordDateEnd>2021-03-31T01:55:24.779Z</recordDateEnd>
+    <recordDateStart>2021-03-31T01:44:23.751Z</recordDateStart>
+    <seriesId>6122</seriesId>
+    <sha256>66b8c4c980fdfc59396c8df54c8d8aa862f192b54a21e5ab3095f73ac030660b</sha256>
+    <startDate>2021-03-31T01:45:00.000Z</startDate>
+    <subtitle>Unknown Tokyo</subtitle>
+    <title>Dig More Japan</title>
+    <uploadedDate>2021-04-01T05:05:14.236Z</uploadedDate>
+    <raw>https://mega.nz/folder/qchASb6A#YkXAl0r4DXjH1b2FvX0fHw</raw>
   </episode>
 </episodeList>

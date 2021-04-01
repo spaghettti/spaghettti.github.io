@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-01T04:30:04.192Z",
+  "lastUpdated": "2021-04-01T05:10:03.492Z",
   "seriesId": "6122",
   "title": "Dig More Japan",
   "episodes": [
@@ -130,6 +130,22 @@
       "title": "Dig More Japan",
       "uploadedDate": "2021-03-28T02:08:50.768Z",
       "raw": "https://mega.nz/folder/MghgmJ5T#nBSjUCh2Ooq1kNJmXhI0rg"
+    },
+    {
+      "airingId": "025",
+      "content": "Tokyo is an internationally recognizable mega-city. 14 million people call the densely packed city of Tokyo home. But behind all the bright lights there is another city that's not so familiar. Please join this episode as we explore the unknown side of Tokyo.",
+      "description": "This is a program that introduces NHK WORLD's many attractive programs in fun short videos. The clips will also be introduced on social media to meet the needs of people who are interested in Japan.",
+      "endDate": "2021-03-31T01:55:00.000Z",
+      "link": "https://mega.nz/folder/OkAUFLKC#kMWQL-xHBUipL4wvHF73Xg",
+      "recordDateEnd": "2021-03-31T01:55:24.779Z",
+      "recordDateStart": "2021-03-31T01:44:23.751Z",
+      "seriesId": "6122",
+      "sha256": "66b8c4c980fdfc59396c8df54c8d8aa862f192b54a21e5ab3095f73ac030660b",
+      "startDate": "2021-03-31T01:45:00.000Z",
+      "subtitle": "Unknown Tokyo",
+      "title": "Dig More Japan",
+      "uploadedDate": "2021-04-01T05:05:14.236Z",
+      "raw": "https://mega.nz/folder/qchASb6A#YkXAl0r4DXjH1b2FvX0fHw"
     }
   ]
 }
