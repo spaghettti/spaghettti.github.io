@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-02T23:25:03.389Z</lastUpdated>
+  <lastUpdated>2021-04-02T23:30:04.012Z</lastUpdated>
   <seriesId>0d8539ab8172c64c</seriesId>
   <title>Selfie Japan!</title>
   <episode>
@@ -115,5 +115,21 @@
     <title>Selfie Japan!</title>
     <uploadedDate>2021-03-19T10:13:18.241Z</uploadedDate>
     <raw>https://mega.nz/folder/CkxjHCDK#0jb-YLFyJKkIbhV6N1zAqg</raw>
+  </episode>
+  <episode>
+    <airingId>013</airingId>
+    <content/>
+    <description>We visit Tokyo's Ota Ward, home to the Haneda International Airport. We go to a park featuring objects made from 3,000 tires, and a screws shop full of unique craftsmanship.</description>
+    <endDate>2021-04-02T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/uc0UmCpC#Vw8l6E4BuBZf9fN7YGXYGQ</link>
+    <recordDateEnd>2021-04-02T01:45:30.053Z</recordDateEnd>
+    <recordDateStart>2021-04-02T01:39:20.047Z</recordDateStart>
+    <seriesId>6028</seriesId>
+    <sha256>a526cecfb4a36f332dbc0bdc6c944ad1c704b86980be19ed84120cb746139478</sha256>
+    <startDate>2021-04-02T01:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Selfie Japan!</title>
+    <uploadedDate>2021-04-02T23:28:28.044Z</uploadedDate>
+    <raw>https://mega.nz/folder/UM0UkQiJ#Cf9NNRTCkFBGQTHK1k6szg</raw>
   </episode>
 </episodeList>

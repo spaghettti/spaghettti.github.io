@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-02T23:25:03.390Z",
+  "lastUpdated": "2021-04-02T23:30:04.013Z",
   "seriesId": "6028",
   "title": "Selfie Japan!",
   "episodes": [
@@ -114,6 +114,22 @@
       "title": "Selfie Japan!",
       "uploadedDate": "2021-03-19T10:13:18.241Z",
       "raw": "https://mega.nz/folder/CkxjHCDK#0jb-YLFyJKkIbhV6N1zAqg"
+    },
+    {
+      "airingId": "013",
+      "content": "",
+      "description": "We visit Tokyo's Ota Ward, home to the Haneda International Airport. We go to a park featuring objects made from 3,000 tires, and a screws shop full of unique craftsmanship.",
+      "endDate": "2021-04-02T01:45:00.000Z",
+      "link": "https://mega.nz/folder/uc0UmCpC#Vw8l6E4BuBZf9fN7YGXYGQ",
+      "recordDateEnd": "2021-04-02T01:45:30.053Z",
+      "recordDateStart": "2021-04-02T01:39:20.047Z",
+      "seriesId": "6028",
+      "sha256": "a526cecfb4a36f332dbc0bdc6c944ad1c704b86980be19ed84120cb746139478",
+      "startDate": "2021-04-02T01:40:00.000Z",
+      "subtitle": "",
+      "title": "Selfie Japan!",
+      "uploadedDate": "2021-04-02T23:28:28.044Z",
+      "raw": "https://mega.nz/folder/UM0UkQiJ#Cf9NNRTCkFBGQTHK1k6szg"
     }
   ]
 }
