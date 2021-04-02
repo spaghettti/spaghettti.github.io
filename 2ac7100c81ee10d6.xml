@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-02T19:30:04.289Z</lastUpdated>
+  <lastUpdated>2021-04-02T20:40:04.071Z</lastUpdated>
   <seriesId>2ac7100c81ee10d6</seriesId>
   <title>Lunch ON!</title>
   <episode>
@@ -228,5 +228,21 @@ In another segment, we visit the southernmost prefecture of Okinawa to meet a pu
     <title>Lunch ON!</title>
     <uploadedDate>2021-02-04T23:29:17.623Z</uploadedDate>
     <raw>https://mega.nz/folder/lax12KaC#qgmOC-eeMSdvaTJ0gj8O1Q</raw>
+  </episode>
+  <episode>
+    <airingId>161</airingId>
+    <content>The pandemic has been keeping our crew from filming, so we've been asking people to send in lunch reports they've filmed themselves instead. The thing is, we realized that there is an entire group of people in Japan who would be perfect for such reports: former TV directors. In this episode, we feature an excellent report by former TV director Ms. Yasuda, who now runs a company with her father that produces spicy cod roe. For lunch, Ms. Yasuda's father cooks up a wonderful meal for the staff.</content>
+    <description>This edition features a great report by a former TV director who now runs a company in Japan with her father that produces spicy cod roe. For lunch, her father cooks up a tasty meal for the staff.</description>
+    <endDate>2021-04-01T23:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/QMs0QICA#YxtAqIQHQs5YqBf9HZHQJQ</link>
+    <recordDateEnd>2021-04-01T23:55:31.744Z</recordDateEnd>
+    <recordDateStart>2021-04-01T23:29:20.125Z</recordDateStart>
+    <seriesId>4023</seriesId>
+    <sha256>27fb59a0a8abf7fe56d0f054158898ef7075b1d3cd401e2493989ea4326d9020</sha256>
+    <startDate>2021-04-01T23:30:00.000Z</startDate>
+    <subtitle>Lunch Report by the Former TV Director</subtitle>
+    <title>Lunch ON!</title>
+    <uploadedDate>2021-04-02T20:36:29.511Z</uploadedDate>
+    <raw>https://mega.nz/folder/nFg0gCYB#mE8Wa7FxtCWpPAFL56VFsQ</raw>
   </episode>
 </episodeList>
