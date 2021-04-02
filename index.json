@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-02T21:50:04.275Z",
+  "lastUpdated": "2021-04-02T22:55:03.729Z",
   "series": [
     {
       "count": 24,
@@ -1184,6 +1184,14 @@
       "lastUpload": "2020-12-24T07:45:29.392Z",
       "seriesId": "5001",
       "title": "The Sounds of Okinawa: Joy and Prayers for Shuri Castle"
+    },
+    {
+      "count": 1,
+      "uniqueId": "b4e9aadcd6bb6ecc",
+      "lastAiring": "2021-04-02T14:30:00.000Z",
+      "lastUpload": "2021-04-02T22:51:52.657Z",
+      "seriesId": "3004",
+      "title": "Time to Shine: Vietnamese Technical Interns in Hokkaido"
     },
     {
       "count": 16,
