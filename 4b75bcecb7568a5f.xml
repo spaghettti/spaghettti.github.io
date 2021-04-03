@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-03T00:30:03.775Z</lastUpdated>
+  <lastUpdated>2021-04-03T00:45:04.475Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -163,5 +163,21 @@
     <title>J-Arena</title>
     <uploadedDate>2021-03-05T05:51:56.851Z</uploadedDate>
     <raw>https://mega.nz/folder/1aoHgIAL#DuB8kh5rFO7wOw3skoQh9A</raw>
+  </episode>
+  <episode>
+    <airingId>083</airingId>
+    <content>With growing international success and a new domestic pro league, table tennis enjoys a huge fan base in Japan. The continually improving standard of play, combined with a supportive environment for raising young players, has allowed Japan to edge closer to posing a realistic threat to traditional titans of the sport, China. But in the past, table tennis wasn't always so popular in Japan. It was actually the pioneering efforts of certain star female players and their coverage in the media that helped take the sport to new levels and inspire a new generation of athletes.</content>
+    <description>With continued international success and a new domestic pro league, table tennis enjoys a huge fan base in Japan. We examine the role female stars of the sport have played in growing its popularity.</description>
+    <endDate>2021-04-02T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/BIkGTSxA#iySseavaO0982OBliGzM0Q</link>
+    <recordDateEnd>2021-04-02T05:00:27.975Z</recordDateEnd>
+    <recordDateStart>2021-04-02T04:29:20.099Z</recordDateStart>
+    <seriesId>2073</seriesId>
+    <sha256>d5e1f624797de6481d33ec48b81757ada04d008c0256a5a9d131f70626f73b97</sha256>
+    <startDate>2021-04-02T04:30:00.000Z</startDate>
+    <subtitle>Table Tennis</subtitle>
+    <title>J-Arena</title>
+    <uploadedDate>2021-04-03T00:41:22.835Z</uploadedDate>
+    <raw>https://mega.nz/folder/K0xECS4Z#WHirNJJyVN8rY5Buh-3mDg</raw>
   </episode>
 </episodeList>
