@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-03T07:05:03.741Z</lastUpdated>
+  <lastUpdated>2021-04-03T07:25:03.424Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -243,6 +243,21 @@
     <title>Japan's Top Inventions</title>
     <uploadedDate>2021-03-24T18:38:23.544Z</uploadedDate>
     <raw>https://mega.nz/folder/HssxgKpS#qeBm7bp07DqJNtq17WunUQ</raw>
+  </episode>
+  <episode>
+    <airingId>030</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, we look at miniature video cameras, used worldwide. In 1989, a Japanese firm created the smallest, lightest video camera in the world, which was the length of a Japanese passport. It helped people all over capture precious memories, like their children's growth and important vacations. We look into the little-known story behind the creation of these video cameras.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, miniature video cameras, and the Japanese firm that helped shrink them down to size.</description>
+    <endDate>2021-04-03T05:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/PMVGlb7D#X-3KjjHXCCPWEKiZoDzFdg</link>
+    <recordDateEnd>2021-04-03T05:40:26.048Z</recordDateEnd>
+    <recordDateStart>2021-04-03T05:24:20.004Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>daed266f8c2b818b9264b66e559e4e974fb1be6e5c9dff0e15dda7c40549ab20</sha256>
+    <startDate>2021-04-03T05:25:00.000Z</startDate>
+    <subtitle>Miniature Video Cameras</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2021-04-03T07:24:40.593Z</uploadedDate>
   </episode>
   <episode>
     <airingId>041</airingId>
