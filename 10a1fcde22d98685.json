@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-03T00:45:04.633Z",
+  "lastUpdated": "2021-04-03T03:10:03.407Z",
   "seriesId": "7000",
   "title": "SPIRIT OF JAPAN",
   "episodes": [
@@ -18,6 +18,22 @@
       "title": "SPIRIT OF JAPAN",
       "uploadedDate": "2021-02-19T01:56:17.864Z",
       "raw": "https://mega.nz/folder/VZwnAArJ#spWW_mFWBuCGJ5Yo8JxxkQ"
+    },
+    {
+      "airingId": "485",
+      "content": "",
+      "description": "Bell Peppers that Pack a Punch: Features one young couple living in Okinawa Prefecture, growing a distinctive kind of bell pepper that's larger and sweeter than other varieties.",
+      "endDate": "2021-03-31T05:00:00.000Z",
+      "link": "https://mega.nz/folder/RNcUjZxb#GLbneW3hR-qwkQDv6rdkFw",
+      "recordDateEnd": "2021-03-31T05:00:27.228Z",
+      "recordDateStart": "2021-03-31T04:29:22.359Z",
+      "seriesId": "7000",
+      "sha256": "fc72f01c9aef5dfa8ba91d03ad66d4d8c8d9ccae6cf590bb61850cac22584298",
+      "startDate": "2021-03-31T04:30:00.000Z",
+      "subtitle": "Bell Peppers that Pack a Punch",
+      "title": "SPIRIT OF JAPAN",
+      "uploadedDate": "2021-04-03T03:05:36.720Z",
+      "raw": "https://mega.nz/folder/jxYgXBoa#3ch9IGXEoYmXM0f5KVSXLg"
     }
   ]
 }

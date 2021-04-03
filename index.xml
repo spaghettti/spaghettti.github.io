@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-03T00:45:04.653Z</lastUpdated>
+  <lastUpdated>2021-04-03T03:10:03.425Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -1051,10 +1051,10 @@
     <title>SONGS OF TOKYO</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>10a1fcde22d98685</uniqueId>
-    <lastAiring>2021-02-18T23:30:00.000Z</lastAiring>
-    <lastUpload>2021-02-19T01:56:17.864Z</lastUpload>
+    <lastAiring>2021-03-31T04:30:00.000Z</lastAiring>
+    <lastUpload>2021-04-03T03:05:36.720Z</lastUpload>
     <seriesId>7000</seriesId>
     <title>SPIRIT OF JAPAN</title>
   </series>
