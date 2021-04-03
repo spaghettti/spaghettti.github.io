@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-03T16:50:03.323Z</lastUpdated>
+  <lastUpdated>2021-04-03T19:20:03.799Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -84,6 +84,22 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <title>NHK Documentary</title>
     <uploadedDate>2021-02-20T18:16:28.784Z</uploadedDate>
     <raw>https://mega.nz/folder/4D4VQK4B#6fl6tJBWBJoEU3LuxSok8A</raw>
+  </episode>
+  <episode>
+    <airingId>342</airingId>
+    <content>In September 2018, an unprecedented large-scale blackout wreaked havoc on Japan's northern island of Hokkaido Prefecture following an earthquake. Over the 45 hours it took to resolve, its impact was felt right across society in ways previously assumed unimaginable. A similar prolonged blackout in the Greater Tokyo metropolitan area could have even more devastating effects. We investigate what might happen if Japan's capital were ever struck by such a crisis and reveal the preparations now being made.</content>
+    <description>In 2018 an extended blackout wreaked havoc on Japan's northern island of Hokkaido. We investigate what might happen if Tokyo were ever hit by such a crisis and look at the preparations now being made.</description>
+    <endDate>2021-04-03T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/7pxEVYhY#hXjlW13ByWnPPKyrF2vPEw</link>
+    <recordDateEnd>2021-04-03T16:00:27.585Z</recordDateEnd>
+    <recordDateStart>2021-04-03T15:09:20.080Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>39ca7f2d274ac63a3f7bf2a7001158c847c8a55bf762e5ed06361c8a3b48c082</sha256>
+    <startDate>2021-04-03T15:10:00.000Z</startDate>
+    <subtitle>The Great Metropolitan Blackout: Preparing for Crisis</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2021-04-03T19:18:01.942Z</uploadedDate>
+    <raw>https://mega.nz/folder/eNp0yBDL#ndBDcvgWHkg8W-BFAOPDxw</raw>
   </episode>
   <episode>
     <airingId>343</airingId>
