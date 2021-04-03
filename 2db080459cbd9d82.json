@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-03T13:45:04.066Z",
+  "lastUpdated": "2021-04-03T15:10:04.356Z",
   "seriesId": "4031",
   "title": "GATTEN!",
   "episodes": [
@@ -34,6 +34,22 @@
       "title": "GATTEN!",
       "uploadedDate": "2021-02-15T21:45:01.544Z",
       "raw": "https://mega.nz/folder/poVnQAYK#DrToGTKV7Qt-s5kfDDp7uQ"
+    },
+    {
+      "airingId": "007",
+      "content": "It is estimated that 1 in 6 people in Japan suffer from dry eye. Your eyes become uncomfortable, itchy and painful, making it hard to concentrate on your work ... or do to work at all for very long. Typically, tears cover and protect the cornea, the important surface layer of the eye that sits over the iris and pupil. But if your eyes are dry, your corneas can end up exposed, and ultimately damaged. And although dry eye often stems from a lack of tears, there is another possible cause! We cover the latest dry eye research, and offer techniques to remedy dry eye that you can try at home!",
+      "description": "Uncomfortable, painful, dry eyes can make work and day-to-day life more difficult. We investigate the causes of dry eye. For some people it is a lack of tears but for some people it's something else.",
+      "endDate": "2021-04-03T11:55:00.000Z",
+      "link": "https://mega.nz/folder/rRoQjDLB#FYhGdBFgKxHKsg4V2ilCcA",
+      "recordDateEnd": "2021-04-03T11:55:25.507Z",
+      "recordDateStart": "2021-04-03T11:09:20.101Z",
+      "seriesId": "4031",
+      "sha256": "c53c6af93f027443e3aa6361d54c163f365f53a35316f715bcb6e423928ea728",
+      "startDate": "2021-04-03T11:10:00.000Z",
+      "subtitle": "A Remedy for Dry Eye",
+      "title": "GATTEN!",
+      "uploadedDate": "2021-04-03T15:06:14.967Z",
+      "raw": "https://mega.nz/folder/PZZXzCrB#V4gMYtXKwxUw2YHpoFSAgA"
     }
   ]
 }
