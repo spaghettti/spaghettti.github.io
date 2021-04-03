@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-03T07:25:03.592Z</lastUpdated>
+  <lastUpdated>2021-04-03T09:05:04.065Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -827,10 +827,10 @@
     <title>NHK Documentary</title>
   </series>
   <series>
-    <count>19</count>
+    <count>20</count>
     <uniqueId>156d54897e343840</uniqueId>
-    <lastAiring>2021-03-27T01:10:00.000Z</lastAiring>
-    <lastUpload>2021-03-28T10:31:53.863Z</lastUpload>
+    <lastAiring>2021-04-03T01:10:00.000Z</lastAiring>
+    <lastUpload>2021-04-03T09:03:14.180Z</lastUpload>
     <seriesId>3016</seriesId>
     <title>NHK WORLD PRIME</title>
   </series>
