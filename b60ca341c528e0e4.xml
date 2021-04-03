@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-03T11:20:04.152Z</lastUpdated>
+  <lastUpdated>2021-04-03T13:45:04.090Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-03-28T04:58:32.234Z</uploadedDate>
     <raw>https://mega.nz/folder/ihYQjT5Y#I2Ef0HhVLduQMOKfT__izA</raw>
+  </episode>
+  <episode>
+    <airingId>003</airingId>
+    <content/>
+    <description>#3 I'm from Vietnam. / Learn how to say where you're from. The formula is the name of the place, followed by "kara kimashita".</description>
+    <endDate>2021-04-03T12:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/GkQwCZpD#BCdzDcc45H5VVXIwQ1Fkfg</link>
+    <recordDateEnd>2021-04-03T12:00:28.207Z</recordDateEnd>
+    <recordDateStart>2021-04-03T11:54:22.570Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>bda75e60d20a44aff799a6f1af2dea7f7220d10931feec5f0231bc8e464873b7</sha256>
+    <startDate>2021-04-03T11:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-04-03T13:41:58.846Z</uploadedDate>
+    <raw>https://mega.nz/folder/XkZAzBhK#_UngPek1w0EGIHqlNZOn1g</raw>
   </episode>
   <episode>
     <airingId>014</airingId>
