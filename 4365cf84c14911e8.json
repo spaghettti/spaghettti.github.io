@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-03T15:10:04.460Z",
+  "lastUpdated": "2021-04-03T16:50:03.320Z",
   "seriesId": "2074,3004",
   "title": "BIZ STREAM",
   "episodes": [
@@ -210,6 +210,22 @@
       "title": "BIZ STREAM",
       "uploadedDate": "2021-03-30T03:35:11.979Z",
       "raw": "https://mega.nz/folder/b0wkgCAZ#dF5ZnfJtN5ihlD0mboquLQ"
+    },
+    {
+      "airingId": "098",
+      "content": "[On-Site Report]\nThis episode examines how AI technology is being used by some Japanese companies to deal with human resource issues that have only worsened during the pandemic. By introducing an AI-based system that can judge the quality of a fish even faster than the trained eyes of professional buyers, a major sushi chain has come up with a way to continue purchasing high-quality tuna abroad despite strict international travel restrictions. While a shortage of instructors prompted a driving school to develop an AI-based teaching system, the move has proven to be even more valuable to the school during the pandemic as it lets the students focus on driving without worrying about social distancing issues.",
+      "description": "From fish markets to driving schools, this episode shows how some Japanese companies are using AI technology to deal with human resources issues that have only worsened during the pandemic.",
+      "endDate": "2021-04-03T14:40:00.000Z",
+      "link": "https://mega.nz/folder/28hwlSBR#Xtnp9ytJgueymXtgAGs-CA",
+      "recordDateEnd": "2021-04-03T14:40:28.896Z",
+      "recordDateStart": "2021-04-03T14:09:22.779Z",
+      "seriesId": "2074",
+      "sha256": "9cefc853b36a19cfa362306ff418d42fd33ecb0896959bbe43acec963a8a2cd1",
+      "startDate": "2021-04-03T14:10:00.000Z",
+      "subtitle": "Japanese Companies Get Creative with AI",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2021-04-03T16:48:55.510Z",
+      "raw": "https://mega.nz/folder/TVBkDRID#ranOd4Jt-Q-DikJDtZSFbg"
     },
     {
       "airingId": "704",

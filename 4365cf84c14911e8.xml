@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-03T15:10:04.458Z</lastUpdated>
+  <lastUpdated>2021-04-03T16:50:03.318Z</lastUpdated>
   <seriesId>4365cf84c14911e8</seriesId>
   <title>BIZ STREAM</title>
   <episode>
@@ -268,6 +268,23 @@ The era of work from home has made a move to suburbs a more attractive option fo
     <title>BIZ STREAM</title>
     <uploadedDate>2021-03-30T03:35:11.979Z</uploadedDate>
     <raw>https://mega.nz/folder/b0wkgCAZ#dF5ZnfJtN5ihlD0mboquLQ</raw>
+  </episode>
+  <episode>
+    <airingId>098</airingId>
+    <content>[On-Site Report]
+This episode examines how AI technology is being used by some Japanese companies to deal with human resource issues that have only worsened during the pandemic. By introducing an AI-based system that can judge the quality of a fish even faster than the trained eyes of professional buyers, a major sushi chain has come up with a way to continue purchasing high-quality tuna abroad despite strict international travel restrictions. While a shortage of instructors prompted a driving school to develop an AI-based teaching system, the move has proven to be even more valuable to the school during the pandemic as it lets the students focus on driving without worrying about social distancing issues.</content>
+    <description>From fish markets to driving schools, this episode shows how some Japanese companies are using AI technology to deal with human resources issues that have only worsened during the pandemic.</description>
+    <endDate>2021-04-03T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/28hwlSBR#Xtnp9ytJgueymXtgAGs-CA</link>
+    <recordDateEnd>2021-04-03T14:40:28.896Z</recordDateEnd>
+    <recordDateStart>2021-04-03T14:09:22.779Z</recordDateStart>
+    <seriesId>2074</seriesId>
+    <sha256>9cefc853b36a19cfa362306ff418d42fd33ecb0896959bbe43acec963a8a2cd1</sha256>
+    <startDate>2021-04-03T14:10:00.000Z</startDate>
+    <subtitle>Japanese Companies Get Creative with AI</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2021-04-03T16:48:55.510Z</uploadedDate>
+    <raw>https://mega.nz/folder/TVBkDRID#ranOd4Jt-Q-DikJDtZSFbg</raw>
   </episode>
   <episode>
     <airingId>704</airingId>
