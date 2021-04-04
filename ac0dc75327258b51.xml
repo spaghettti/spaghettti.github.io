@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-04T09:20:03.253Z</lastUpdated>
+  <lastUpdated>2021-04-04T13:30:05.057Z</lastUpdated>
   <seriesId>ac0dc75327258b51</seriesId>
   <title>The Professionals</title>
   <episode>
@@ -147,5 +147,21 @@
     <title>The Professionals</title>
     <uploadedDate>2021-03-07T03:11:26.106Z</uploadedDate>
     <raw>https://mega.nz/folder/ZTgwWBhJ#pukgQJElHHKGh9BjLcHoHw</raw>
+  </episode>
+  <episode>
+    <airingId>151</airingId>
+    <content>We follow Kawada Tomoya (37), an up-and-coming Chinese cuisine chef with rave reviews by 3-star chefs! Blending traditional Chinese cooking with Japanese techniques, he's gaining fame worldwide with a new Chinese cuisine that epitomizes "Japanese spirit, Chinese learning." In order to serve customers dishes at the best possible moment, the staff rush about the kitchen, never wasting even a single minute or second. What inspired this was a meal by a master chef that changed Kawada's life. We follow this passionate man for a summer as he takes on a challenge, tirelessly trying new experiments and pursuing cuisine with wholehearted honesty.</content>
+    <description>3-star chefs approve! This up-and-coming chef is gaining fame worldwide by blending Chinese cuisine with Japanese techniques. What beliefs inspire his honest approach to cooking and drive to improve?</description>
+    <endDate>2021-04-04T09:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/Kd9ygZ4R#giSGlq6FkLpRQ8OCnGyR4Q</link>
+    <recordDateEnd>2021-04-04T09:55:30.607Z</recordDateEnd>
+    <recordDateStart>2021-04-04T09:09:20.099Z</recordDateStart>
+    <seriesId>4003</seriesId>
+    <sha256>936dd9018534b841c7691ab03368bf4a9e363a202840e90adc082b2c5cae96e8</sha256>
+    <startDate>2021-04-04T09:10:00.000Z</startDate>
+    <subtitle>For a Dish That Will Fill Hearts with Wonder: Kawada Tomoya, Chinese Cuisine Chef</subtitle>
+    <title>The Professionals</title>
+    <uploadedDate>2021-04-04T13:29:19.316Z</uploadedDate>
+    <raw>https://mega.nz/folder/49YB1AYK#BqpZ7ONc0OuroeBTfpeJ5w</raw>
   </episode>
 </episodeList>
