@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-04T13:30:04.769Z",
+  "lastUpdated": "2021-04-04T17:05:03.473Z",
   "seriesId": "2004",
   "title": "J-MELO",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "J-MELO",
       "uploadedDate": "2021-03-19T08:42:07.967Z",
       "raw": "https://mega.nz/folder/h9ggiLZJ#kpxG8iKHoRP42swX41sEvA"
+    },
+    {
+      "airingId": "370",
+      "content": "Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news!",
+      "description": "Join May J. for great Japanese music! This week, seven-member all-male group JOHNNY'S WEST are coming to chat and perform. They'll be performing four songs in the J-MELO studio.",
+      "endDate": "2021-04-04T15:40:00.000Z",
+      "link": "https://mega.nz/folder/hlpTVCIB#of6vNEU9NWaxbH_cLlpsPA",
+      "recordDateEnd": "2021-04-04T15:40:28.017Z",
+      "recordDateStart": "2021-04-04T15:09:20.008Z",
+      "seriesId": "2004",
+      "sha256": "763743307995b26d16c5dc64ae319a204f75ced9a055cf08d259a13b6c70ccb0",
+      "startDate": "2021-04-04T15:10:00.000Z",
+      "subtitle": "JOHNNY'S WEST",
+      "title": "J-MELO",
+      "uploadedDate": "2021-04-04T17:04:58.135Z"
     }
   ]
 }
