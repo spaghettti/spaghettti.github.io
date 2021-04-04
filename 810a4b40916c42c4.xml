@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-04T03:40:03.911Z</lastUpdated>
+  <lastUpdated>2021-04-04T03:45:03.703Z</lastUpdated>
   <seriesId>810a4b40916c42c4</seriesId>
   <title>Hometown Stories</title>
   <episode>
@@ -227,5 +227,20 @@
     <title>Hometown Stories</title>
     <uploadedDate>2021-03-29T23:02:36.616Z</uploadedDate>
     <raw>https://mega.nz/folder/5hgAAQyR#Hc0a2mfF5OhT2HkGMCv-Sw</raw>
+  </episode>
+  <episode>
+    <airingId>163</airingId>
+    <content>Throughout his long career in business - and now as the head of a Japanese university - Deguchi Haruaki has faced setbacks and challenges. As a result, he's developed a unique perspective on dealing with adversity and focusing on the here and now. Many younger people turn to him for advice, which he offers through books and magazine articles as well as social media. Now, a young director is also seeking help with her own questions about handling life's uncertainties.</content>
+    <description>Former businessman, present-day influencer and President of Ritsumeikan Asia Pacific University, Deguchi Haruaki shares his wisdom about dealing with life and uncertainty in a pandemic.</description>
+    <endDate>2021-04-04T01:37:00.000Z</endDate>
+    <link>https://mega.nz/folder/u8RASL7b#nyk1uQPiAlZu8IJmUxrcWw</link>
+    <recordDateEnd>2021-04-04T01:37:35.229Z</recordDateEnd>
+    <recordDateStart>2021-04-04T01:09:20.063Z</recordDateStart>
+    <seriesId>5003</seriesId>
+    <sha256>b769efec27f5cb3bff2e7a1575f630b4dabd87a42e5053b7a063f60f806ef196</sha256>
+    <startDate>2021-04-04T01:10:00.000Z</startDate>
+    <subtitle>The Power of Giving Up</subtitle>
+    <title>Hometown Stories</title>
+    <uploadedDate>2021-04-04T03:44:42.178Z</uploadedDate>
   </episode>
 </episodeList>
