@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-04T17:05:03.770Z</lastUpdated>
+  <lastUpdated>2021-04-04T17:35:03.570Z</lastUpdated>
   <seriesId>a8827721852d236d</seriesId>
   <title>Japan-easy</title>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>Today: Learn about "mo," which is used when something is repeated. Explore the wonders of Japan and the Japanese language! Through basic conversations, viewers will see that "Japanese is Easy!"</description>
+    <endDate>2021-04-04T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/eVMDQYKC#ldyL9t6JCidY0CckDR4Sxg</link>
+    <recordDateEnd>2021-04-04T16:00:28.294Z</recordDateEnd>
+    <recordDateStart>2021-04-04T15:44:22.385Z</recordDateStart>
+    <seriesId>6210</seriesId>
+    <sha256>53f493f71d7abdd397fe26aca8ea8be0f5d2f6ae4c015ec7aeea13d494e71913</sha256>
+    <startDate>2021-04-04T15:45:00.000Z</startDate>
+    <subtitle/>
+    <title>Japan-easy</title>
+    <uploadedDate>2021-04-04T17:33:48.311Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>109</airingId>
     <content/>
