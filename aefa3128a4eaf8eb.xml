@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-04T06:15:03.717Z</lastUpdated>
+  <lastUpdated>2021-04-04T07:55:03.904Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>Somewhere Street</title>
     <uploadedDate>2021-01-24T18:57:04.678Z</uploadedDate>
     <raw>https://mega.nz/folder/KJ0iURgB#tZvaQE4cVrnsf3xgD4hcag</raw>
+  </episode>
+  <episode>
+    <airingId>056</airingId>
+    <content>Canterbury, a World Heritage Site, is situated in the southeast corner in England and it's a major tourist destination that receives 1 million visitors every year. It's just an hour's ride from London with high speed trains which have been running here since 2009. Let's have a stroll around Canterbury streets!</content>
+    <description>Canterbury, a World Heritage Site, is situated in the southeast corner in England and it's just an hour's ride from London with high speed trains. Let's have a stroll around Canterbury streets!</description>
+    <endDate>2021-04-04T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ScogjIJZ#e3rWOzFWiR9qTJQGe1BJ3Q</link>
+    <recordDateEnd>2021-04-04T05:00:31.037Z</recordDateEnd>
+    <recordDateStart>2021-04-04T04:09:22.622Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>e6d5a6effb65124f4f164ee5a42ecce79db94be1bbb0834fe6ccad781e59f191</sha256>
+    <startDate>2021-04-04T04:10:00.000Z</startDate>
+    <subtitle>Canterbury, England</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-04-04T07:50:19.877Z</uploadedDate>
+    <raw>https://mega.nz/folder/TQ0XzKjB#tTiFAzimL8owbckgY4Kg3g</raw>
   </episode>
   <episode>
     <airingId>057</airingId>

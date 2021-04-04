@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-04T06:15:03.718Z",
+  "lastUpdated": "2021-04-04T07:55:03.906Z",
   "seriesId": "4017",
   "title": "Somewhere Street",
   "episodes": [
@@ -50,6 +50,22 @@
       "title": "Somewhere Street",
       "uploadedDate": "2021-01-24T18:57:04.678Z",
       "raw": "https://mega.nz/folder/KJ0iURgB#tZvaQE4cVrnsf3xgD4hcag"
+    },
+    {
+      "airingId": "056",
+      "content": "Canterbury, a World Heritage Site, is situated in the southeast corner in England and it's a major tourist destination that receives 1 million visitors every year. It's just an hour's ride from London with high speed trains which have been running here since 2009. Let's have a stroll around Canterbury streets!",
+      "description": "Canterbury, a World Heritage Site, is situated in the southeast corner in England and it's just an hour's ride from London with high speed trains. Let's have a stroll around Canterbury streets!",
+      "endDate": "2021-04-04T05:00:00.000Z",
+      "link": "https://mega.nz/folder/ScogjIJZ#e3rWOzFWiR9qTJQGe1BJ3Q",
+      "recordDateEnd": "2021-04-04T05:00:31.037Z",
+      "recordDateStart": "2021-04-04T04:09:22.622Z",
+      "seriesId": "4017",
+      "sha256": "e6d5a6effb65124f4f164ee5a42ecce79db94be1bbb0834fe6ccad781e59f191",
+      "startDate": "2021-04-04T04:10:00.000Z",
+      "subtitle": "Canterbury, England",
+      "title": "Somewhere Street",
+      "uploadedDate": "2021-04-04T07:50:19.877Z",
+      "raw": "https://mega.nz/folder/TQ0XzKjB#tTiFAzimL8owbckgY4Kg3g"
     },
     {
       "airingId": "057",
