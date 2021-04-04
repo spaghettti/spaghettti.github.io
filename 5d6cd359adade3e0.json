@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-04T07:55:03.847Z",
+  "lastUpdated": "2021-04-04T09:20:03.189Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
@@ -322,6 +322,22 @@
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2021-03-28T14:21:37.175Z",
       "raw": "https://mega.nz/folder/60Uhgaib#ClUO4xgEAEEIPy0x-LYdzw"
+    },
+    {
+      "airingId": "084",
+      "content": "",
+      "description": "This time we introduce \"J-Arena,\" which reals the unknown effect of Tai Chi, a Chinese martial art widely practiced as a health exercise in Japan. The show tells its effect not known generally.",
+      "endDate": "2021-04-04T09:00:00.000Z",
+      "link": "https://mega.nz/folder/0B0gkALa#89EnvQrwtI-svmdZgP3hMw",
+      "recordDateEnd": "2021-04-04T09:00:31.486Z",
+      "recordDateStart": "2021-04-04T08:54:20.104Z",
+      "seriesId": "2075",
+      "sha256": "c5dcb996cbe696b7af56999a472a01c37f51101f0ac668253978a4099b3db703",
+      "startDate": "2021-04-04T08:55:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2021-04-04T09:18:28.203Z",
+      "raw": "https://mega.nz/folder/xwgyTQaD#V8uMzmRgEhG4cbaJoP8fOg"
     }
   ]
 }
