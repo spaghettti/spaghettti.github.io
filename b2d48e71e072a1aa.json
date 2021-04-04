@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-04T02:45:04.566Z",
+  "lastUpdated": "2021-04-04T03:40:03.829Z",
   "seriesId": "2069",
   "title": "Wild Hokkaido!",
   "episodes": [
@@ -322,6 +322,22 @@
       "title": "Wild Hokkaido!",
       "uploadedDate": "2021-03-19T08:57:11.245Z",
       "raw": "https://mega.nz/folder/71p2GarL#LBgCD5KLvi2jVnA6BlWoEw"
+    },
+    {
+      "airingId": "085",
+      "content": "Our stage this time is Kitataisetsu, located near the center of Hokkaido Prefecture. The program's participant will try dogsledding in the snowfields here. A dogsled expert for this episode has learned in Alaska, the home of dogsledding, and has been running dog sledding tours here for the past 8 years. By becoming one with the dogs that he has raised with loving care, he can run through the undulating snowfields like the wind. Will the participant be able to get through to the dogs? Later, we show you the footage that captured the breathtaking natural phenomena in Kitataisetsu.",
+      "description": "The program's host will try dogsledding in the snowfields in Kitataisetsu area. By becoming one with the dogs, he can run through the undulating snowfields like the wind.",
+      "endDate": "2021-04-04T02:00:00.000Z",
+      "link": "https://mega.nz/folder/gMU2zJyZ#PdFL34D_XS7DNMb91fYwSQ",
+      "recordDateEnd": "2021-04-04T02:00:32.475Z",
+      "recordDateStart": "2021-04-04T01:44:20.069Z",
+      "seriesId": "2069",
+      "sha256": "572321aa52f6352a21153d8e622fba9f8633274423514074b4c824cae6a2a678",
+      "startDate": "2021-04-04T01:45:00.000Z",
+      "subtitle": "Dogsledding in Kitataisetsu",
+      "title": "Wild Hokkaido!",
+      "uploadedDate": "2021-04-04T03:38:02.109Z",
+      "raw": "https://mega.nz/folder/J8YS2TbQ#aq4shvJVrealYUdggv7QjA"
     }
   ]
 }
