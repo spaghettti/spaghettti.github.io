@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-04T17:35:03.332Z</lastUpdated>
+  <lastUpdated>2021-04-05T04:15:04.132Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2020-12-24T23:03:36.647Z</uploadedDate>
     <raw>https://mega.nz/folder/SxEBDIZK#3ZwGbzblXHhkSIvKOQC0rQ</raw>
+  </episode>
+  <episode>
+    <airingId>050</airingId>
+    <content>The people of Tohoku have carved out their livelihoods, quietly enduring frigid, harsh winters. This is doubtlessly because the promise of spring awaits. The winter is the time spent waiting patiently for spring. They wait for the blocked roads to reappear. They wait for the melted snow to glisten. They wait for the flowers to go into full bloom and for the birds and insects to come dancing out for nectar. With these signals, the people begin their daily routines to live. We give thanks for the long-awaited season of warm water, are gladdened by the blooming flowers, and tour spring in Tohoku.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history. Today: Spring in Tohoku.</description>
+    <endDate>2021-04-05T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/2oRC0BqK#IlpWs8gyjCmOs49FxVQVBw</link>
+    <recordDateEnd>2021-04-05T03:00:26.797Z</recordDateEnd>
+    <recordDateStart>2021-04-05T02:29:22.635Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>700197e2742e45374db599a77dee26cf6218e0d70a1c265a560fd81f0b185a89</sha256>
+    <startDate>2021-04-05T02:30:00.000Z</startDate>
+    <subtitle>Spring in Tohoku</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-04-05T04:12:58.470Z</uploadedDate>
+    <raw>https://mega.nz/folder/TlYEATzS#8R4kcMx39greWQePFYZVEQ</raw>
   </episode>
   <episode>
     <airingId>054</airingId>
