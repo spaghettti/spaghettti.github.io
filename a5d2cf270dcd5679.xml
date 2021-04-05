@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-05T10:10:03.999Z</lastUpdated>
+  <lastUpdated>2021-04-05T15:55:03.455Z</lastUpdated>
   <seriesId>a5d2cf270dcd5679</seriesId>
   <title>Medical Frontiers</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Medical Frontiers</title>
     <uploadedDate>2021-03-29T17:22:52.230Z</uploadedDate>
     <raw>https://mega.nz/folder/b1ZDEYzb#QgyrRkTWnEc456I8f1rbVA</raw>
+  </episode>
+  <episode>
+    <airingId>093</airingId>
+    <content>The body's immune system defends against infection, but many people are unaware of how it functions. All its cells are white blood cells, and their tasks include attacking pathogens, activating other immune cells or sending them information about the enemy and building weapons against infection. They all work together to protect the body. But when the immune system is overactivated, a cytokine storm occurs, triggering a more severe form of COVID-19. We look at the mysterious world of immunity.</content>
+    <description>Until a safe and effective vaccine becomes available for COVID-19, a strong immune system is the only way to avoid infection. We uncover the mechanisms behind the body's immune response.</description>
+    <endDate>2021-04-05T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/mYcGFbAY#ZK92JwUM-WAT7qZjcaDG7Q</link>
+    <recordDateEnd>2021-04-05T15:00:33.482Z</recordDateEnd>
+    <recordDateStart>2021-04-05T14:29:20.100Z</recordDateStart>
+    <seriesId>2050</seriesId>
+    <sha256>663ec1b7c150a759a277377df52ee1713979dceb0f1eb4dcc779dea2fd7cda35</sha256>
+    <startDate>2021-04-05T14:30:00.000Z</startDate>
+    <subtitle>Fighting COVID-19: The Role of Immune Cells</subtitle>
+    <title>Medical Frontiers</title>
+    <uploadedDate>2021-04-05T15:51:26.517Z</uploadedDate>
   </episode>
   <episode>
     <airingId>095</airingId>
