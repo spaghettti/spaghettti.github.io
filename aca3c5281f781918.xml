@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-05T04:15:04.300Z</lastUpdated>
+  <lastUpdated>2021-04-05T06:15:04.325Z</lastUpdated>
   <seriesId>aca3c5281f781918</seriesId>
   <title>The Mark of Beauty</title>
   <episode>
@@ -163,6 +163,22 @@
     <title>The Mark of Beauty</title>
     <uploadedDate>2020-12-24T07:49:16.266Z</uploadedDate>
     <raw>https://mega.nz/folder/wVkXVYDK#WpGJH_nzVPvOhpNLPJx69Q</raw>
+  </episode>
+  <episode>
+    <airingId>118</airingId>
+    <content>This episode features Wasarasa, or Japanese-style chintz. These printed fabrics originated in India, and subsequently evolved into unique styles in Japan. We take part in a tea ceremony performed by the Issa-an school of sencha tea ceremony that makes lavish use of chintz. And we look at the pattern sheets (more than 200 of them!) and the brushwork required for a premium-quality chintz kimono. We meet an up-and-coming artisan who is reviving 1,400-year-old designs. Also featured is the chintz supplied to the Nabeshima clan, which ruled over what is now Saga Prefecture. The techniques were kept secret and were only rediscovered again when certain texts came to light in the Showa period (1926-1989). We admire some woodblock-printed examples of the Nabeshima-style chintz produced by an artisan designated as a National Living Treasure.</content>
+    <description>Wasarasa is Japanese dyed fabric inspired by Indian chintz, and often necessitates the use of many stencils. With its exotic look, it continues to charm, especially sencha tea ceremony practitioners.</description>
+    <endDate>2021-04-05T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/0UEHCaKa#txeybItFAApSppMN-aa0fA</link>
+    <recordDateEnd>2021-04-05T05:00:27.931Z</recordDateEnd>
+    <recordDateStart>2021-04-05T04:29:20.102Z</recordDateStart>
+    <seriesId>4018</seriesId>
+    <sha256>b61f2a5d1a385fb79bb491f679f97a4c3a1bb1e86b7911098ee57f459b00c2af</sha256>
+    <startDate>2021-04-05T04:30:00.000Z</startDate>
+    <subtitle>Wasarasa</subtitle>
+    <title>The Mark of Beauty</title>
+    <uploadedDate>2021-04-05T06:12:19.758Z</uploadedDate>
+    <raw>https://mega.nz/folder/YME3HY4b#SxWEMGmRmhiuamR5e6_HUA</raw>
   </episode>
   <episode>
     <airingId>120</airingId>
