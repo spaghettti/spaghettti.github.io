@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-06T07:50:03.679Z</lastUpdated>
+  <lastUpdated>2021-04-06T10:05:03.830Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -898,7 +898,7 @@
     <subtitle>Culture Comms: Choi Sungja / Advisor, Comm Cafe</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2021-04-06T07:49:26.351Z</uploadedDate>
-    <raw>https://mega.nz/folder/L1dmUBjL#z6yrdPGLhr24WvrykQFO0w</raw>
+    <raw>https://mega.nz/folder/rApyhRgJ#es0LVSITMjp8vE6i-Rur5w</raw>
   </episode>
   <episode>
     <airingId>630</airingId>
@@ -2022,19 +2022,19 @@
   </episode>
   <episode>
     <airingId>723</airingId>
-    <content>Nishimura Satoshi is developing an original electric car concept, as well as a microscope that can perform high-res imaging of living organisms. He talks about the philosophy of making things.</content>
+    <content/>
     <description>Nishimura Satoshi is developing an original electric car concept, as well as a microscope that can perform high-res imaging of living organisms. He talks about the philosophy of making things.</description>
-    <endDate>2020-12-29T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/ocUzzYzJ#VHblOOrDx4mLrINBQrotNA</link>
-    <recordDateEnd>2020-12-29T07:30:26.166Z</recordDateEnd>
-    <recordDateStart>2020-12-29T07:14:20.033Z</recordDateStart>
+    <endDate>2021-04-06T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/HIoDWCQJ#M5BK9xmW-e0IpD0if08D3g</link>
+    <recordDateEnd>2021-04-06T09:30:27.861Z</recordDateEnd>
+    <recordDateStart>2021-04-06T09:14:22.650Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>38315161f8a654606645cc4faa1ad4c07b3499c3b7ebf649882911103b542df4</sha256>
-    <startDate>2020-12-29T07:15:00.000Z</startDate>
-    <subtitle>Making Things That Enrich Lives: Nishimura Satoshi / Professor, Jichi Medical University</subtitle>
+    <sha256>f06e51d3c9605679be3b6fd3e55282ff36b7ab6ba62bf597211c57af4df329e7</sha256>
+    <startDate>2021-04-06T09:15:00.000Z</startDate>
+    <subtitle/>
     <title>Direct Talk</title>
-    <uploadedDate>2020-12-29T08:04:28.069Z</uploadedDate>
-    <raw>https://mega.nz/folder/uMEjDCiT#dctPugIMmhw6O_VGZIqgOA</raw>
+    <uploadedDate>2021-04-06T10:01:33.350Z</uploadedDate>
+    <raw>https://mega.nz/folder/Kp4ThABY#mLd3nOY0GyhpSruT0yw2Ww</raw>
   </episode>
   <episode>
     <airingId>724</airingId>
