@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-05T15:55:03.361Z</lastUpdated>
+  <lastUpdated>2021-04-06T03:00:03.316Z</lastUpdated>
   <seriesId>b7a2bc9b23a9c5ee</seriesId>
   <title>Journeys in Japan</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>Journeys in Japan</title>
     <uploadedDate>2021-02-02T01:00:27.385Z</uploadedDate>
     <raw>https://mega.nz/folder/aM9D1KgI#uSnAZ6f7jVK-uETKDeg8rw</raw>
+  </episode>
+  <episode>
+    <airingId>412</airingId>
+    <content>The Hakkoda mountain range soars in central Aomori Prefecture. It's famous for its heavy snowfall, massive "snow monster" or frost-covered trees and its backcountry skiing. These days more overseas visitors are coming to enjoy the deep powder and local culture. International mountain guide Cveto Podlogar from Slovenia drops down the stunning slopes of Hakkoda with a local guide.</content>
+    <description>Cveto Podlogar heads to ski paradise, Hakkoda, where he glides backcountry through dense forest and towering snow monsters, before dropping down a famed bowl.</description>
+    <endDate>2021-04-06T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/NgR1FSAL#H1Jv0asNtRvfqMw24PIxkQ</link>
+    <recordDateEnd>2021-04-06T01:00:29.172Z</recordDateEnd>
+    <recordDateStart>2021-04-06T00:29:20.099Z</recordDateStart>
+    <seriesId>2007</seriesId>
+    <sha256>d1159e98a3f3b1bfd55caa19a9be5d976d34b341dcdd6be10d4c0a61eb397db3</sha256>
+    <startDate>2021-04-06T00:30:00.000Z</startDate>
+    <subtitle>Hakkoda's Backcountry Magic</subtitle>
+    <title>Journeys in Japan</title>
+    <uploadedDate>2021-04-06T02:58:45.574Z</uploadedDate>
+    <raw>https://mega.nz/folder/m0JHUIII#mItElGacRYjON_S63QYFaQ</raw>
   </episode>
   <episode>
     <airingId>423</airingId>
