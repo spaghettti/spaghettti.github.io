@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-06T03:00:03.360Z",
+  "lastUpdated": "2021-04-06T03:40:03.671Z",
   "seriesId": "2019",
   "title": "Dining with the Chef",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Dining with the Chef",
       "uploadedDate": "2021-01-06T07:30:20.229Z",
       "raw": "https://mega.nz/folder/7tl1FSSR#QlUdm3Q3YpgB2gkw5n4sfQ"
+    },
+    {
+      "airingId": "196",
+      "content": "Our theme for this episode is marinating. Saikyo-zuke is a marinating technique that uses a base of white miso from Kyoto Prefecture, to slowly marinate meat or fish before grilling it. We'll be sharing some tips on how to make this fragrant and delicious dish at home. We'll be marinating Spanish mackerel, a fish that comes into season in spring, to make a dish with the sort of flavor you'll usually only find at a high-end Japanese restaurant. For our side dish, we'll be making sake-steamed clams and spring cabbage. Enjoy the tender, juicy spring cabbage, cooked with soup full of the rich flavor of Asari clams.",
+      "description": "Today's recipe: (1) Saikyo-zuke with Spanish Mackerel (2) Yakitori-don Grilled Chicken Rice Bowl. Why not learn Japanese food culture and try real Japanese dishes at your home!",
+      "endDate": "2021-04-06T02:00:00.000Z",
+      "link": "https://mega.nz/folder/Q5Yn3CSR#kbUSViktQUtyGf6I0RxmIQ",
+      "recordDateEnd": "2021-04-06T02:00:27.780Z",
+      "recordDateStart": "2021-04-06T01:29:20.003Z",
+      "seriesId": "2019",
+      "sha256": "6190d85f63b185fd19fc60c95514c570727d37e0c780c1545315f40b2c8f6d16",
+      "startDate": "2021-04-06T01:30:00.000Z",
+      "subtitle": "Authentic Japanese Cooking: Saikyo-zuke with Spanish Mackerel",
+      "title": "Dining with the Chef",
+      "uploadedDate": "2021-04-06T03:37:09.862Z"
     },
     {
       "airingId": "200",
