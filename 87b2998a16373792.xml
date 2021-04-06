@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-06T10:05:03.735Z</lastUpdated>
+  <lastUpdated>2021-04-06T16:00:05.181Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -329,5 +329,22 @@ Quake-resistant Pipe Retrofittings</content>
     <title>Science View</title>
     <uploadedDate>2021-03-09T17:22:01.112Z</uploadedDate>
     <raw>https://mega.nz/folder/Xw9wFKDZ#hT4J03UfuFZohzphPNKtag</raw>
+  </episode>
+  <episode>
+    <airingId>255</airingId>
+    <content>Japanese indigo is famous for producing a traditional dye known as "Japan blue." Now, more and more hidden powers of the indigo plant are being discovered for applications in medicine and agriculture. The plant's antibacterial properties are well known, but research has now revealed that a substance called "tryptanthrin" is the reason. Tryptanthrin may also inhibit the growth of viruses as well. Moreover, a strawberry farm in Aomori Prefecture discovered that strawberries grew bigger when strawberry plants were given a liquid extracted from indigo. Analysis showed that indigo extract helped plant roots grow faster than usual, and researchers suspect it may even increase the yield of other agricultural products too. In this episode, we will examine how indigo today is being used for more than just a pretty dye!
+Guest:
+Professor Kenro Sasaki of Tohoku Medical and Pharmaceutical University</content>
+    <description>Japanese indigo is famous for producing a traditional dye known as "Japan blue." Now, hidden powers of the indigo plant are being discovered for applications in medicine and agriculture.</description>
+    <endDate>2021-04-06T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/kBEA2LDC#puCJTQN7RodV-nBP2pNdNA</link>
+    <recordDateEnd>2021-04-06T15:00:28.557Z</recordDateEnd>
+    <recordDateStart>2021-04-06T14:29:20.103Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>ea71380ae0cf544c1d9f24fd0ecdf28d2a8b259f3ebc87a46d5920daf6397716</sha256>
+    <startDate>2021-04-06T14:30:00.000Z</startDate>
+    <subtitle>Japanese Indigo - More than a Pretty Dye!</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-04-06T15:56:54.823Z</uploadedDate>
   </episode>
 </episodeList>

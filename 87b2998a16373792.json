@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-06T10:05:03.745Z",
+  "lastUpdated": "2021-04-06T16:00:05.190Z",
   "seriesId": "2015",
   "title": "Science View",
   "episodes": [
@@ -306,6 +306,21 @@
       "title": "Science View",
       "uploadedDate": "2021-03-09T17:22:01.112Z",
       "raw": "https://mega.nz/folder/Xw9wFKDZ#hT4J03UfuFZohzphPNKtag"
+    },
+    {
+      "airingId": "255",
+      "content": "Japanese indigo is famous for producing a traditional dye known as \"Japan blue.\" Now, more and more hidden powers of the indigo plant are being discovered for applications in medicine and agriculture. The plant's antibacterial properties are well known, but research has now revealed that a substance called \"tryptanthrin\" is the reason. Tryptanthrin may also inhibit the growth of viruses as well. Moreover, a strawberry farm in Aomori Prefecture discovered that strawberries grew bigger when strawberry plants were given a liquid extracted from indigo. Analysis showed that indigo extract helped plant roots grow faster than usual, and researchers suspect it may even increase the yield of other agricultural products too. In this episode, we will examine how indigo today is being used for more than just a pretty dye!\nGuest:\nProfessor Kenro Sasaki of Tohoku Medical and Pharmaceutical University",
+      "description": "Japanese indigo is famous for producing a traditional dye known as \"Japan blue.\" Now, hidden powers of the indigo plant are being discovered for applications in medicine and agriculture.",
+      "endDate": "2021-04-06T15:00:00.000Z",
+      "link": "https://mega.nz/folder/kBEA2LDC#puCJTQN7RodV-nBP2pNdNA",
+      "recordDateEnd": "2021-04-06T15:00:28.557Z",
+      "recordDateStart": "2021-04-06T14:29:20.103Z",
+      "seriesId": "2015",
+      "sha256": "ea71380ae0cf544c1d9f24fd0ecdf28d2a8b259f3ebc87a46d5920daf6397716",
+      "startDate": "2021-04-06T14:30:00.000Z",
+      "subtitle": "Japanese Indigo - More than a Pretty Dye!",
+      "title": "Science View",
+      "uploadedDate": "2021-04-06T15:56:54.823Z"
     }
   ]
 }
