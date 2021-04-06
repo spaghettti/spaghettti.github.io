@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-06T03:40:03.827Z</lastUpdated>
+  <lastUpdated>2021-04-06T04:55:04.114Z</lastUpdated>
   <seriesId>3181d5ae26726a28</seriesId>
   <title>Document 72 Hours</title>
   <episode>
@@ -307,5 +307,21 @@
     <title>Document 72 Hours</title>
     <uploadedDate>2021-03-09T03:32:56.879Z</uploadedDate>
     <raw>https://mega.nz/folder/H4BnlILY#DNo2d3wQnAgAXZkyK_TCOg</raw>
+  </episode>
+  <episode>
+    <airingId>152</airingId>
+    <content>A major furniture outlet store in Chiba Prefecture boasts a stock of roughly 1,400 items from beds, sofas to tables. Customers are increasing since the outbreak of the coronavirus pandemic as people are staying in more and seeking to make their homes more comfortable. Among the customers we met were a man searching for a dining table hoping to spend quality time with his family, and a woman who is replacing all her furniture to surround herself with only the things she loves. The choices they make tell us something about who they are, and the changes and challenges they face in life. How do they picture their future? For 3 days, we listened to their stories.</content>
+    <description>Customers are increasing at this major furniture outlet store, as more people seek to improve their homes during the coronavirus pandemic. For 3 days, we asked customers about their ideal lifestyle.</description>
+    <endDate>2021-04-06T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/7kgU2IoI#F67tLiDNpM6HMDJcLitaFA</link>
+    <recordDateEnd>2021-04-06T03:00:29.324Z</recordDateEnd>
+    <recordDateStart>2021-04-06T02:29:22.495Z</recordDateStart>
+    <seriesId>4026</seriesId>
+    <sha256>061e4d94d92a57835e6f0efba76cf08203e75bdd783cfb731921015bf9aec862</sha256>
+    <startDate>2021-04-06T02:30:00.000Z</startDate>
+    <subtitle>Opening New Doors at a Furniture Outlet Store</subtitle>
+    <title>Document 72 Hours</title>
+    <uploadedDate>2021-04-06T04:52:00.252Z</uploadedDate>
+    <raw>https://mega.nz/folder/VYlwAChS#3bycR4LsW3VqEjKhM1VL8g</raw>
   </episode>
 </episodeList>
