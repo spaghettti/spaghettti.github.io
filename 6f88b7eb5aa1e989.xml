@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-07T01:50:03.251Z</lastUpdated>
+  <lastUpdated>2021-04-07T02:20:04.302Z</lastUpdated>
   <seriesId>6f88b7eb5aa1e989</seriesId>
   <title>Dig More Japan</title>
   <episode>
@@ -147,5 +147,21 @@
     <title>Dig More Japan</title>
     <uploadedDate>2021-04-01T05:05:14.236Z</uploadedDate>
     <raw>https://mega.nz/folder/qchASb6A#YkXAl0r4DXjH1b2FvX0fHw</raw>
+  </episode>
+  <episode>
+    <airingId>026</airingId>
+    <content>From capsule toys to bonsai, in Japan miniaturization is no small matter. Even fishing rods could be minimized for tiny fish. In this episode, we will focus on the Japanese passion for all things miniscule, micro and mini.</content>
+    <description>From capsule toys to Bonsai, in Japan miniaturization is no small matter. Even fishing rods could be minimized. We will focus on the Japanese passion for all things miniscule, micro and mini.</description>
+    <endDate>2021-04-07T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/rQogzJxI#p9WdB-DRtYR8zCAbhG_vgA</link>
+    <recordDateEnd>2021-04-07T01:55:29.707Z</recordDateEnd>
+    <recordDateStart>2021-04-07T01:44:22.468Z</recordDateStart>
+    <seriesId>6122</seriesId>
+    <sha256>939b8f1afe158f7af979d53af6cada54516c0500942be3b2a155e251113e0328</sha256>
+    <startDate>2021-04-07T01:45:00.000Z</startDate>
+    <subtitle>Japan in Miniature</subtitle>
+    <title>Dig More Japan</title>
+    <uploadedDate>2021-04-07T02:16:26.888Z</uploadedDate>
+    <raw>https://mega.nz/folder/s1pyFZKZ#TwAqkpQvIZpqdp47KUYGSw</raw>
   </episode>
 </episodeList>
