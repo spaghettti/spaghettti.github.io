@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-06T16:00:05.269Z",
+  "lastUpdated": "2021-04-07T01:50:03.083Z",
   "seriesId": "2053",
   "title": "TOKYO EYE",
   "episodes": [
@@ -242,6 +242,21 @@
       "title": "TOKYO EYE 2020",
       "uploadedDate": "2021-03-31T02:03:39.767Z",
       "raw": "https://mega.nz/folder/XUZ3UQ7D#jOzIYO85LFRa4jKIgKtg6Q"
+    },
+    {
+      "airingId": "203",
+      "content": "The pandemic caused a sudden stop to concerts, festivals and music events of all kinds. Many musicians are now facing an uncertain future. But the beat goes on. In these tough times, music is taking on new forms and helping give courage to those affected by the pandemic.",
+      "description": "Many musicians are now facing an uncertain future. But the beat goes on. In these tough times, music is taking on new forms and helping give courage to those affected by the pandemic.",
+      "endDate": "2021-04-07T01:00:00.000Z",
+      "link": "https://mega.nz/folder/fAZ20Z6Y#iUQ-YwIenkciIMCwIj5Zaw",
+      "recordDateEnd": "2021-04-07T01:00:29.299Z",
+      "recordDateStart": "2021-04-07T00:29:24.511Z",
+      "seriesId": "2053",
+      "sha256": "d2f9fce97eee588f6c5e5bab641bb1447c40017b76ed42759708f95d09671cdc",
+      "startDate": "2021-04-07T00:30:00.000Z",
+      "subtitle": "Tokyo and the Coronavirus: Can't Stop the Music",
+      "title": "TOKYO EYE 2020",
+      "uploadedDate": "2021-04-07T01:45:05.300Z"
     }
   ]
 }
