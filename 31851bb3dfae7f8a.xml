@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-07T06:45:04.524Z</lastUpdated>
+  <lastUpdated>2021-04-07T16:15:04.246Z</lastUpdated>
   <seriesId>31851bb3dfae7f8a</seriesId>
   <title>Trails to Oishii Tokyo</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Trails to Oishii Tokyo</title>
     <uploadedDate>2021-04-01T05:28:57.566Z</uploadedDate>
     <raw>https://mega.nz/folder/ngJC2B5C#DyXILt9yBSia8KSECsxr3A</raw>
+  </episode>
+  <episode>
+    <airingId>090</airingId>
+    <content>Our focus today is hijiki, a variety of seaweed that has been consumed in Japan for over 1,000 years. Much like tea leaves, this nutritious, low-calorie food is often dried, and soaked in water before use. Hijiki grow quickly at the start of spring on rocky coastlines, and are only available for harvest for a few days. Dive in to find out more about what ancient Japanese considered to be a gift from the sea.</content>
+    <description>Our focus today is nutritious, low-calorie HIJIKI seaweed. Their harvest symbolizes the start of spring, and lasts for only a few days. Dive in to find out more about this gift from the sea.</description>
+    <endDate>2021-04-07T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/b9Bw2bjL#V4xqB1agLR9lGEsAf6t1Ug</link>
+    <recordDateEnd>2021-04-07T15:00:32.945Z</recordDateEnd>
+    <recordDateStart>2021-04-07T14:29:20.051Z</recordDateStart>
+    <seriesId>2054</seriesId>
+    <sha256>cd9db1a852ad599178e85d0e497738693a9467d3a19e3531f5f2dfb94f695ab0</sha256>
+    <startDate>2021-04-07T14:30:00.000Z</startDate>
+    <subtitle>HIJIKI</subtitle>
+    <title>Trails to Oishii Tokyo</title>
+    <uploadedDate>2021-04-07T16:11:23.171Z</uploadedDate>
   </episode>
   <episode>
     <airingId>114</airingId>
