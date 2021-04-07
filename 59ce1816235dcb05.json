@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-07T02:20:04.055Z",
+  "lastUpdated": "2021-04-07T05:50:04.079Z",
   "seriesId": "2035",
   "title": "KABUKI KOOL",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "KABUKI KOOL",
       "uploadedDate": "2021-03-03T05:46:58.602Z",
       "raw": "https://mega.nz/folder/UANhCKjI#IelnDjlH5ILuVyhs673D5g"
+    },
+    {
+      "airingId": "072",
+      "content": "Kabuki often depicts traditional Japanese dishes. Actor Kataoka Ainosuke introduces scenes with several examples, and teaches us about what foods were popular in the Edo period. In \"Hokaibo,\" a disreputable begging priest takes time off from abducting a beautiful girl for a bowl of soba noodles from a roadside stall.",
+      "description": "Kabuki often depicts traditional Japanese dishes. Actor Kataoka Ainosuke introduces scenes with several examples, and teaches us about what foods were popular in the Edo period.",
+      "endDate": "2021-04-07T05:00:00.000Z",
+      "link": "https://mega.nz/folder/WRohBYAS#YEqFSu09OVm078rQHeP7WA",
+      "recordDateEnd": "2021-04-07T05:00:22.928Z",
+      "recordDateStart": "2021-04-07T04:29:22.310Z",
+      "seriesId": "2035",
+      "sha256": "faf182733076728587ce03e65c16c2ee0e2ff60ce85304923ce50b61c5ad773e",
+      "startDate": "2021-04-07T04:30:00.000Z",
+      "subtitle": "Edo Food in Kabuki",
+      "title": "KABUKI KOOL",
+      "uploadedDate": "2021-04-07T05:47:59.590Z"
     }
   ]
 }
