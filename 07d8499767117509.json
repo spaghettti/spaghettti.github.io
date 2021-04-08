@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-08T07:05:03.801Z",
+  "lastUpdated": "2021-04-08T08:05:04.191Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1586,6 +1586,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-02-22T06:07:33.723Z",
       "raw": "https://mega.nz/folder/EsAimZgS#QNBDtiegAWOYu5s4GQLaRQ"
+    },
+    {
+      "airingId": "689",
+      "content": "Jordi Faulí is the 9th head architect of the Sagrada Familia. He attempts to complete the building by 2026, 100 years after Gaudi's death. We look at the outlook during the COVID-19 pandemic.",
+      "description": "Jordi Fauli is the 9th head architect of the Sagrada Familia. He attempts to complete the building by 2026, 100 years after Gaudi's death.  We look at the outlook during the COVID-19 pandemic.",
+      "endDate": "2021-04-08T07:30:00.000Z",
+      "link": "https://mega.nz/folder/XE8iXZaJ#sIsHV9JKR_k5PUgWijiYeQ",
+      "recordDateEnd": "2021-04-08T07:30:30.147Z",
+      "recordDateStart": "2021-04-08T07:14:20.016Z",
+      "seriesId": "2058",
+      "sha256": "cad16bb3c3b13a79f743fcd72d5e5633f77793ea4bb9745047fcc625b2111319",
+      "startDate": "2021-04-08T07:15:00.000Z",
+      "subtitle": "Road to Completion - Sagrada Familia: Jordi Faulí / Head Architect of the Sagrada Familia",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-04-08T08:01:26.960Z"
     },
     {
       "airingId": "691",
