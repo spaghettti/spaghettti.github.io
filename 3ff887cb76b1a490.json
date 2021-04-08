@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-08T08:05:04.168Z",
+  "lastUpdated": "2021-04-08T16:05:03.786Z",
   "seriesId": "2049",
   "title": "Japan Railway Journal",
   "episodes": [
@@ -242,6 +242,21 @@
       "title": "Japan Railway Journal",
       "uploadedDate": "2021-03-19T11:29:30.984Z",
       "raw": "https://mega.nz/folder/j1wEhZ4L#H0mzwwv3w-xGvrhJ1oeEZQ"
+    },
+    {
+      "airingId": "091",
+      "content": "In March 2020, JR Freight opened a large-scale distribution center, \"Tokyo Rail Gate West.\" This center was set up as an all-in-one facility to store and transport goods easily and efficiently in response to a nationwide shortage of long-haul truck drivers. Compared to road freight, rail freight has less impact on the environment and requires fewer workers to operate (a boon in the time of COVID-19). See JR Freight's plans to become a total-service distributor after the coronavirus pandemic.",
+      "description": "In response to the decreasing number of truck drivers, JR Freight is making a change to improve their services. See how they plan to become a total-service distributor after the pandemic.",
+      "endDate": "2021-04-08T15:00:00.000Z",
+      "link": "https://mega.nz/folder/S5oCGLSS#sSP3UMaLDgVkiFWJYUvFmg",
+      "recordDateEnd": "2021-04-08T15:00:27.590Z",
+      "recordDateStart": "2021-04-08T14:29:20.100Z",
+      "seriesId": "2049",
+      "sha256": "664eb7c83679af7a40779b71e076c2e79bc96664d036c974bd4b353c93bb3c52",
+      "startDate": "2021-04-08T14:30:00.000Z",
+      "subtitle": "JR Freight: In Business for the Long Haul",
+      "title": "Japan Railway Journal",
+      "uploadedDate": "2021-04-08T16:00:28.416Z"
     },
     {
       "airingId": "093",
