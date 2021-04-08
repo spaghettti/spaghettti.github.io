@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-07T16:15:04.205Z</lastUpdated>
+  <lastUpdated>2021-04-08T03:55:03.182Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -343,5 +343,22 @@ On March 11, 2011, a magnitude 9 earthquake off the coast of northeast Japan cau
     <title>Japanology Plus</title>
     <uploadedDate>2021-03-19T05:47:52.819Z</uploadedDate>
     <raw>https://mega.nz/folder/q8JlTSrD#J-XMGkTk8EahMNaNX3p7_w</raw>
+  </episode>
+  <episode>
+    <airingId>235</airingId>
+    <content>*First broadcast on April 8, 2021.
+Japanese use a wide range of cleaning implements, from old-fashioned brooms to modern carpet rollers. There's always a dedicated tool for the job. Sometimes, those tools have a deeper meaning. Our main guest, museum researcher Watanabe Yumiko, explains their special significance, and talks about the evolution of Japanese cleaning tools over time. We also meet broom-maker Kanbara Ryosuke, who shows us how traditional handmade brooms are put together.</content>
+    <description>Cleaning Tools. Specialized devices and deeper meanings. Each time, Peter Barakan visits the key locations, and meets experts with fascinating cultural insights.</description>
+    <endDate>2021-04-08T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ydxSWApb#MZ5icL6qa9om3nLb6zh07A</link>
+    <recordDateEnd>2021-04-08T03:00:24.857Z</recordDateEnd>
+    <recordDateStart>2021-04-08T02:29:22.867Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>7ac14e6971fee42b696a1b4713616336e33f797a2dff3225184deb3e5e6b7854</sha256>
+    <startDate>2021-04-08T02:30:00.000Z</startDate>
+    <subtitle>Cleaning Tools</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-04-08T03:52:54.420Z</uploadedDate>
+    <raw>https://mega.nz/folder/DZki2KzC#b21Tn1IqN7gjAlMxRt4FfQ</raw>
   </episode>
 </episodeList>
