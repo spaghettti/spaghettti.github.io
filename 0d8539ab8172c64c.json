@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-09T01:50:03.392Z",
+  "lastUpdated": "2021-04-09T02:15:04.365Z",
   "seriesId": "6028",
   "title": "Selfie Japan!",
   "episodes": [
@@ -130,6 +130,22 @@
       "title": "Selfie Japan!",
       "uploadedDate": "2021-04-02T23:28:28.044Z",
       "raw": "https://mega.nz/folder/UM0UkQiJ#Cf9NNRTCkFBGQTHK1k6szg"
+    },
+    {
+      "airingId": "014",
+      "content": "",
+      "description": "We visit Tachikawa City in Tokyo. The central district is decorated with public art by artists from around world. At warehouse-turned studios, artists are working with the support from locals.",
+      "endDate": "2021-04-09T01:45:00.000Z",
+      "link": "https://mega.nz/folder/ectjVIJT#Stnw6tDdh5rZCxPPtieyXA",
+      "recordDateEnd": "2021-04-09T01:45:25.772Z",
+      "recordDateStart": "2021-04-09T01:39:22.676Z",
+      "seriesId": "6028",
+      "sha256": "3f0f9824dfd022da6b6b5c2c29347efa68a1ccd8e22cff00c62ad57fe54ede26",
+      "startDate": "2021-04-09T01:40:00.000Z",
+      "subtitle": "",
+      "title": "Selfie Japan!",
+      "uploadedDate": "2021-04-09T02:13:14.640Z",
+      "raw": "https://mega.nz/folder/tl4FxAbY#JiCc1JtbrtdDjTv7vCNyoQ"
     }
   ]
 }

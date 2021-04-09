@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-09T01:50:03.391Z</lastUpdated>
+  <lastUpdated>2021-04-09T02:15:04.365Z</lastUpdated>
   <seriesId>0d8539ab8172c64c</seriesId>
   <title>Selfie Japan!</title>
   <episode>
@@ -131,5 +131,21 @@
     <title>Selfie Japan!</title>
     <uploadedDate>2021-04-02T23:28:28.044Z</uploadedDate>
     <raw>https://mega.nz/folder/UM0UkQiJ#Cf9NNRTCkFBGQTHK1k6szg</raw>
+  </episode>
+  <episode>
+    <airingId>014</airingId>
+    <content/>
+    <description>We visit Tachikawa City in Tokyo. The central district is decorated with public art by artists from around world. At warehouse-turned studios, artists are working with the support from locals.</description>
+    <endDate>2021-04-09T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/ectjVIJT#Stnw6tDdh5rZCxPPtieyXA</link>
+    <recordDateEnd>2021-04-09T01:45:25.772Z</recordDateEnd>
+    <recordDateStart>2021-04-09T01:39:22.676Z</recordDateStart>
+    <seriesId>6028</seriesId>
+    <sha256>3f0f9824dfd022da6b6b5c2c29347efa68a1ccd8e22cff00c62ad57fe54ede26</sha256>
+    <startDate>2021-04-09T01:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Selfie Japan!</title>
+    <uploadedDate>2021-04-09T02:13:14.640Z</uploadedDate>
+    <raw>https://mega.nz/folder/tl4FxAbY#JiCc1JtbrtdDjTv7vCNyoQ</raw>
   </episode>
 </episodeList>
