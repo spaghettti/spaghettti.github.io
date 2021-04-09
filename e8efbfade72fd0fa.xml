@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-09T02:20:03.639Z</lastUpdated>
+  <lastUpdated>2021-04-09T02:30:04.128Z</lastUpdated>
   <seriesId>e8efbfade72fd0fa</seriesId>
   <title>no art, no life plus</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>no art, no life plus</title>
     <uploadedDate>2021-04-02T21:47:45.538Z</uploadedDate>
     <raw>https://mega.nz/folder/AZ903DxS#deMqugxxIB7xBzftse9SLA</raw>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>Outsider artists like Usui Norikazu are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.</description>
+    <endDate>2021-04-09T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/8INDXAIL#XgoMHJt3dgMWtnptUomuRQ</link>
+    <recordDateEnd>2021-04-09T01:55:25.869Z</recordDateEnd>
+    <recordDateStart>2021-04-09T01:44:20.002Z</recordDateStart>
+    <seriesId>6123</seriesId>
+    <sha256>c1e9e7de8bfe3420faf3b522c8e15771fbd4e0d1c0f152c7ef30462d7aee914f</sha256>
+    <startDate>2021-04-09T01:45:00.000Z</startDate>
+    <subtitle/>
+    <title>no art, no life plus</title>
+    <uploadedDate>2021-04-09T02:26:12.270Z</uploadedDate>
+    <raw>https://mega.nz/folder/uMdTyK5B#eUoJQIFHKfsGJPPJltWH2g</raw>
   </episode>
   <episode>
     <airingId>008</airingId>
