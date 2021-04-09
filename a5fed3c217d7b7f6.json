@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-09T14:25:03.445Z",
+  "lastUpdated": "2021-04-09T16:25:03.432Z",
   "seriesId": "4002",
   "title": "Today's Close-Up",
   "episodes": [
@@ -226,6 +226,21 @@
       "title": "Today's Close-Up",
       "uploadedDate": "2021-03-23T22:18:52.056Z",
       "raw": "https://mega.nz/folder/7sJgyBBA#8Pq0KKVzZjf_cwa57B5prQ"
+    },
+    {
+      "airingId": "822",
+      "content": "Live commerce, combining online shopping with live-streamed sales pitches, is rapidly expanding its reach around the world. Expensive items are selling like hot cakes despite the pandemic. The tide is rising fastest in China, which already has some 400-million live commerce shoppers. Retailers from major department stores to big home appliance shops are now getting in on the act. We take a look at the trend and the value the new shopping style provides to consumers.\nGuests:\nTakata Akira (Founder, Japanet Takata)\nMaeda Yuji (CEO, SHOWROOM)",
+      "description": "Live streaming e-commerce has been booming during the pandemic, forging into new markets around the world. Why is this way of selling proving so popular? We take a look at how the trend is developing.",
+      "endDate": "2021-04-09T15:00:00.000Z",
+      "link": "https://mega.nz/folder/t5ZTmIRD#YBMQF7Cp9RP4TnalvuXQFA",
+      "recordDateEnd": "2021-04-09T15:00:30.056Z",
+      "recordDateStart": "2021-04-09T14:29:20.099Z",
+      "seriesId": "4002",
+      "sha256": "585959eb0b5997e0355adb08f1adf2fa7b9438af1f7c12d7bca78fe8f590b09a",
+      "startDate": "2021-04-09T14:30:00.000Z",
+      "subtitle": "Live Streaming E-commerce: Sales Booming During the Pandemic",
+      "title": "Today's Close-Up",
+      "uploadedDate": "2021-04-09T16:23:29.488Z"
     }
   ]
 }
