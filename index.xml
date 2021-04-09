@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-09T10:15:03.905Z</lastUpdated>
+  <lastUpdated>2021-04-09T14:25:03.583Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -213,8 +213,8 @@
   <series>
     <count>1</count>
     <uniqueId>a798427c54d10fec</uniqueId>
-    <lastAiring>2021-03-30T19:00:00.000Z</lastAiring>
-    <lastUpload>2021-03-30T20:43:10.316Z</lastUpload>
+    <lastAiring>2021-04-09T02:30:00.000Z</lastAiring>
+    <lastUpload>2021-04-09T14:21:54.263Z</lastUpload>
     <seriesId>7000</seriesId>
     <title>Creative Edo</title>
   </series>
