@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-09T16:25:03.491Z</lastUpdated>
+  <lastUpdated>2021-04-09T23:35:03.450Z</lastUpdated>
   <seriesId>59faa2d1f7a22f19</seriesId>
   <title>Japanology Plus mini</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>Japanology Plus mini</title>
     <uploadedDate>2021-02-28T00:45:37.390Z</uploadedDate>
     <raw>https://mega.nz/folder/V8YyCL5S#v_tUfxPFxhnOb2YnMiAnJw</raw>
+  </episode>
+  <episode>
+    <airingId>003</airingId>
+    <content/>
+    <description>We bring you a five-minute digest of "Japanology Plus," a show that explores Japanese culture from various angles.This time we focus on the relationship between Japanese people and monkeys.</description>
+    <endDate>2021-04-09T23:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/SdV0RRCC#0W4sYRp2ZtlJEZHHxi8QkA</link>
+    <recordDateEnd>2021-04-09T23:20:28.789Z</recordDateEnd>
+    <recordDateStart>2021-04-09T23:14:20.099Z</recordDateStart>
+    <seriesId>6032</seriesId>
+    <sha256>d69017a1b1643702c1f94b929b9ed8e63c1e7a437e70e4bc62740dd3b71532db</sha256>
+    <startDate>2021-04-09T23:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Japanology Plus mini</title>
+    <uploadedDate>2021-04-09T23:34:25.691Z</uploadedDate>
   </episode>
   <episode>
     <airingId>004</airingId>
