@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-09T02:30:03.975Z",
+  "lastUpdated": "2021-04-09T06:10:03.719Z",
   "seriesId": "2073",
   "title": "J-Arena",
   "episodes": [
@@ -178,6 +178,21 @@
       "title": "J-Arena",
       "uploadedDate": "2021-04-03T00:41:22.835Z",
       "raw": "https://mega.nz/folder/K0xECS4Z#WHirNJJyVN8rY5Buh-3mDg"
+    },
+    {
+      "airingId": "084",
+      "content": "Moguls is a freestyle skiing event where competitors negotiate a steep slope covered in bumps of compacted snow known as moguls. Events are contested not simply on speed, but also on the technical mastery of turns and acrobatic aerial maneuvers. Veteran mogul skier Uemura Aiko is renowned for the elegance of her carved turns, a core skill employing the very edge of the skis, bending them into an arc. Together with rising star of the sport Kawamura Anri, Uemura reveals the secrets to the perfect carved turn.",
+      "description": "Moguls is a freestyle skiing event contested on technical turns, acrobatic airs and speed. Veteran mogul skier Uemura Aiko and rising star Kawamura Anri reveal the secrets to the perfect carved turn.",
+      "endDate": "2021-04-09T05:00:00.000Z",
+      "link": "https://mega.nz/folder/C5JmABDY#uzCwtel9i0xj72wxhY-WXw",
+      "recordDateEnd": "2021-04-09T05:00:23.249Z",
+      "recordDateStart": "2021-04-09T04:29:22.505Z",
+      "seriesId": "2073",
+      "sha256": "609ab31e90c8b9f23f4c4620e19e364d84b6d748c645431710bae29173fe467b",
+      "startDate": "2021-04-09T04:30:00.000Z",
+      "subtitle": "Freestyle Skiing - Moguls",
+      "title": "J-Arena",
+      "uploadedDate": "2021-04-09T06:05:59.128Z"
     }
   ]
 }
