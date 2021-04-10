@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-10T10:55:03.808Z</lastUpdated>
+  <lastUpdated>2021-04-10T12:30:03.884Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
   <episode>
@@ -323,5 +323,20 @@
     <title>NHK WORLD PRIME</title>
     <uploadedDate>2021-04-03T09:03:14.180Z</uploadedDate>
     <raw>https://mega.nz/folder/tcMg2BQa#OqyTwzkc2wqLAcPuN3OidQ</raw>
+  </episode>
+  <episode>
+    <airingId>095</airingId>
+    <content>The itinerant monk Enku traversed Japan in the 17th century, carving religious sculptures along the way. More than 5,300 distinct statues have been accredited to him to date. Enku is an enigma, but successive findings in recent years have added pieces to the puzzle. One discovery provides more perspective on his elusive early life. What is the significance of the mirror and paper fragments secreted within a wooden statue he carved? New research sheds light on Enku's life and inner workings.</content>
+    <description>17th-century itinerant monk Enku carved multitudinous statues around Japan during his travels. New research and discoveries help scholars shed light on his elusive early life and inner workings.</description>
+    <endDate>2021-04-10T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/6t5gEYwa#jH8c8LODllMokY4xx4jr7Q</link>
+    <recordDateEnd>2021-04-10T02:00:31.216Z</recordDateEnd>
+    <recordDateStart>2021-04-10T01:09:22.597Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>299ae50e999841dc4eddff6dfd77c9018e1c30fba4e163992b34ac868b482888</sha256>
+    <startDate>2021-04-10T01:10:00.000Z</startDate>
+    <subtitle>Enku: The Enigma of a Wandering Sculptor Monk</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2021-04-10T12:25:31.213Z</uploadedDate>
   </episode>
 </episodeList>
