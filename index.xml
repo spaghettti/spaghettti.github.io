@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-09T23:35:03.506Z</lastUpdated>
+  <lastUpdated>2021-04-10T03:25:04.247Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -563,10 +563,10 @@
     <title>J-Arena</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>bb37f38613051f9c</uniqueId>
-    <lastAiring>2021-02-12T23:10:00.000Z</lastAiring>
-    <lastUpload>2021-02-15T11:42:35.568Z</lastUpload>
+    <lastAiring>2021-04-10T00:10:00.000Z</lastAiring>
+    <lastUpload>2021-04-10T03:22:46.058Z</lastUpload>
     <seriesId>2036</seriesId>
     <title>J-FLICKS</title>
   </series>

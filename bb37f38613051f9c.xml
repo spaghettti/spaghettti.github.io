@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-09T23:35:03.268Z</lastUpdated>
+  <lastUpdated>2021-04-10T03:25:03.987Z</lastUpdated>
   <seriesId>bb37f38613051f9c</seriesId>
   <title>J-FLICKS</title>
   <episode>
@@ -35,5 +35,20 @@
     <title>J-FLICKS</title>
     <uploadedDate>2021-02-15T11:42:35.568Z</uploadedDate>
     <raw>https://mega.nz/folder/MAIHnaAJ#eJlzHRfO8Fh8FoY3S9FZoQ</raw>
+  </episode>
+  <episode>
+    <airingId>068</airingId>
+    <content/>
+    <description>The Berlin International Film Festival held its online portion this March. In competition, Hamaguchi Ryusuke's omnibus film "Wheel of Fortune and Fantasy" won the Silver Bear Award.</description>
+    <endDate>2021-04-10T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/XU8GxSaD#TavUYoCBOgo0tdeHPyGFkw</link>
+    <recordDateEnd>2021-04-10T01:00:26.672Z</recordDateEnd>
+    <recordDateStart>2021-04-10T00:09:20.100Z</recordDateStart>
+    <seriesId>2036</seriesId>
+    <sha256>d592441fc4a3b73cdb6b0308686dabaff0a62d6b8f3159d95063096da48df7a8</sha256>
+    <startDate>2021-04-10T00:10:00.000Z</startDate>
+    <subtitle>Close-up on Berlin International Film Festival</subtitle>
+    <title>J-FLICKS</title>
+    <uploadedDate>2021-04-10T03:22:46.058Z</uploadedDate>
   </episode>
 </episodeList>

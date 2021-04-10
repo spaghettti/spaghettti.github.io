@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-09T23:35:03.269Z",
+  "lastUpdated": "2021-04-10T03:25:03.989Z",
   "seriesId": "2036",
   "title": "J-FLICKS",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "J-FLICKS",
       "uploadedDate": "2021-02-15T11:42:35.568Z",
       "raw": "https://mega.nz/folder/MAIHnaAJ#eJlzHRfO8Fh8FoY3S9FZoQ"
+    },
+    {
+      "airingId": "068",
+      "content": "",
+      "description": "The Berlin International Film Festival held its online portion this March. In competition, Hamaguchi Ryusuke's omnibus film \"Wheel of Fortune and Fantasy\" won the Silver Bear Award.",
+      "endDate": "2021-04-10T01:00:00.000Z",
+      "link": "https://mega.nz/folder/XU8GxSaD#TavUYoCBOgo0tdeHPyGFkw",
+      "recordDateEnd": "2021-04-10T01:00:26.672Z",
+      "recordDateStart": "2021-04-10T00:09:20.100Z",
+      "seriesId": "2036",
+      "sha256": "d592441fc4a3b73cdb6b0308686dabaff0a62d6b8f3159d95063096da48df7a8",
+      "startDate": "2021-04-10T00:10:00.000Z",
+      "subtitle": "Close-up on Berlin International Film Festival",
+      "title": "J-FLICKS",
+      "uploadedDate": "2021-04-10T03:22:46.058Z"
     }
   ]
 }
