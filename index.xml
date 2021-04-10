@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-10T03:25:04.247Z</lastUpdated>
+  <lastUpdated>2021-04-10T06:00:03.534Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -227,10 +227,10 @@
     <title>Culture Crossroads</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>1315496c5871b57d</uniqueId>
-    <lastAiring>2021-03-13T00:10:00.000Z</lastAiring>
-    <lastUpload>2021-03-19T20:17:53.562Z</lastUpload>
+    <lastAiring>2021-04-10T02:10:00.000Z</lastAiring>
+    <lastUpload>2021-04-10T05:55:12.101Z</lastUpload>
     <seriesId>2066</seriesId>
     <title>CYCLE AROUND JAPAN</title>
   </series>
