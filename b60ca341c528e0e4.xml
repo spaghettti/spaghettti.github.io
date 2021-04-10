@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-10T06:35:04.144Z</lastUpdated>
+  <lastUpdated>2021-04-10T08:05:03.994Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -51,6 +51,21 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-04-03T13:41:58.846Z</uploadedDate>
     <raw>https://mega.nz/folder/XkZAzBhK#_UngPek1w0EGIHqlNZOn1g</raw>
+  </episode>
+  <episode>
+    <airingId>004</airingId>
+    <content/>
+    <description>#4 I'm going to study Japanese at a university. / Talk about your plans. Put "shimasu" after the plan to explain what you are going to do.</description>
+    <endDate>2021-04-10T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/pUtQhRBC#VA3zIfjzCkQe5ptdscHw8w</link>
+    <recordDateEnd>2021-04-10T05:00:24.105Z</recordDateEnd>
+    <recordDateStart>2021-04-10T04:54:20.030Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>47f56f450599d00d64fd80602591346e2290ee44b5f12d43f95521f74740acf7</sha256>
+    <startDate>2021-04-10T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-04-10T08:05:00.501Z</uploadedDate>
   </episode>
   <episode>
     <airingId>014</airingId>
