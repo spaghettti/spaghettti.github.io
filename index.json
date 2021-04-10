@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-10T12:30:04.026Z",
+  "lastUpdated": "2021-04-10T16:30:04.269Z",
   "series": [
     {
       "count": 24,
@@ -130,10 +130,10 @@
       "title": "BENTO EXPO"
     },
     {
-      "count": 24,
+      "count": 25,
       "uniqueId": "4365cf84c14911e8",
-      "lastAiring": "2021-04-03T14:10:00.000Z",
-      "lastUpload": "2021-04-03T16:48:55.510Z",
+      "lastAiring": "2021-04-10T14:10:00.000Z",
+      "lastUpload": "2021-04-10T16:26:04.069Z",
       "seriesId": "2074,3004",
       "title": "BIZ STREAM"
     },

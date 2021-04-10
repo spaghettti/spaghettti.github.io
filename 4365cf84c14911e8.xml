@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-10T12:30:04.011Z</lastUpdated>
+  <lastUpdated>2021-04-10T16:30:04.249Z</lastUpdated>
   <seriesId>4365cf84c14911e8</seriesId>
   <title>BIZ STREAM</title>
   <episode>
@@ -285,6 +285,26 @@ This episode examines how AI technology is being used by some Japanese companies
     <title>BIZ STREAM</title>
     <uploadedDate>2021-04-03T16:48:55.510Z</uploadedDate>
     <raw>https://mega.nz/folder/TVBkDRID#ranOd4Jt-Q-DikJDtZSFbg</raw>
+  </episode>
+  <episode>
+    <airingId>099</airingId>
+    <content>[On-Site Report]
+More and more people are heading outdoors as a safe way to spend their free time during the pandemic. This episode features a prefectural government's efforts to draw in tourism business by attracting campers and introduces a real estate company that is finding a new market for remote plots of land located across Japan's mountains and forests.
+[In Depth: "Shadow Hedge Fund" Behind Losses at Major Banks]
+Major financial institutions are facing huge losses after the failure of a relatively unknown fund. The US firm took on a massive bet under the radar that went bad. We explore what happened and the hidden risks that have been revealed.
+[Global Trends: Airline Soars Despite Turbulent Times]
+Airlines around the world are reeling as travelers stay home amid the pandemic. But one carrier in Africa has been a standout success, raking in profits while most other firms in the industry struggle. How has it managed to pull it off? We take a look.</content>
+    <description>This episode focuses on a surge in camping and outdoor related businesses as people in Japan look for safe ways to enjoy themselves during the pandemic.</description>
+    <endDate>2021-04-10T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/yVoE1JhJ#k4vdDRQS2d-ER4L1B3mTDw</link>
+    <recordDateEnd>2021-04-10T14:40:24.244Z</recordDateEnd>
+    <recordDateStart>2021-04-10T14:09:22.608Z</recordDateStart>
+    <seriesId>2074</seriesId>
+    <sha256>393828f61d60af27b02b9c8d55c9ee1b59fdb975e4d0b9a1c7fe6c3f6b4e3e8d</sha256>
+    <startDate>2021-04-10T14:10:00.000Z</startDate>
+    <subtitle>Pandemic Leads to Camping Boom</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2021-04-10T16:26:04.069Z</uploadedDate>
   </episode>
   <episode>
     <airingId>704</airingId>

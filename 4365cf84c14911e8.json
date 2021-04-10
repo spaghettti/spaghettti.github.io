@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-10T12:30:04.013Z",
+  "lastUpdated": "2021-04-10T16:30:04.251Z",
   "seriesId": "2074,3004",
   "title": "BIZ STREAM",
   "episodes": [
@@ -226,6 +226,21 @@
       "title": "BIZ STREAM",
       "uploadedDate": "2021-04-03T16:48:55.510Z",
       "raw": "https://mega.nz/folder/TVBkDRID#ranOd4Jt-Q-DikJDtZSFbg"
+    },
+    {
+      "airingId": "099",
+      "content": "[On-Site Report]\nMore and more people are heading outdoors as a safe way to spend their free time during the pandemic. This episode features a prefectural government's efforts to draw in tourism business by attracting campers and introduces a real estate company that is finding a new market for remote plots of land located across Japan's mountains and forests.\n[In Depth: \"Shadow Hedge Fund\" Behind Losses at Major Banks]\nMajor financial institutions are facing huge losses after the failure of a relatively unknown fund. The US firm took on a massive bet under the radar that went bad. We explore what happened and the hidden risks that have been revealed.\n[Global Trends: Airline Soars Despite Turbulent Times]\nAirlines around the world are reeling as travelers stay home amid the pandemic. But one carrier in Africa has been a standout success, raking in profits while most other firms in the industry struggle. How has it managed to pull it off? We take a look.",
+      "description": "This episode focuses on a surge in camping and outdoor related businesses as people in Japan look for safe ways to enjoy themselves during the pandemic.",
+      "endDate": "2021-04-10T14:40:00.000Z",
+      "link": "https://mega.nz/folder/yVoE1JhJ#k4vdDRQS2d-ER4L1B3mTDw",
+      "recordDateEnd": "2021-04-10T14:40:24.244Z",
+      "recordDateStart": "2021-04-10T14:09:22.608Z",
+      "seriesId": "2074",
+      "sha256": "393828f61d60af27b02b9c8d55c9ee1b59fdb975e4d0b9a1c7fe6c3f6b4e3e8d",
+      "startDate": "2021-04-10T14:10:00.000Z",
+      "subtitle": "Pandemic Leads to Camping Boom",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2021-04-10T16:26:04.069Z"
     },
     {
       "airingId": "704",
