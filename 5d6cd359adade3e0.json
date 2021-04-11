@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-11T03:35:03.792Z",
+  "lastUpdated": "2021-04-11T04:20:03.556Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
@@ -338,6 +338,21 @@
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2021-04-04T09:18:28.203Z",
       "raw": "https://mega.nz/folder/xwgyTQaD#V8uMzmRgEhG4cbaJoP8fOg"
+    },
+    {
+      "airingId": "085",
+      "content": "",
+      "description": "This time we introduce \"3-Day Dare*Devils,\" which shows the challenge of Ayatar, Thai influencer trying to master the technique of Japanese falconer. Will he master the technique in just 3 days?",
+      "endDate": "2021-04-11T03:00:00.000Z",
+      "link": "https://mega.nz/folder/4g42GKgL#2N6pwVwFzheS9XYNEt4OMA",
+      "recordDateEnd": "2021-04-11T03:00:28.120Z",
+      "recordDateStart": "2021-04-11T02:54:23.033Z",
+      "seriesId": "2075",
+      "sha256": "76c52bc4079141f16158373fa805dfe422b1463adefd7ec1ecd794d9d6c384ad",
+      "startDate": "2021-04-11T02:55:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2021-04-11T04:19:34.858Z"
     }
   ]
 }
