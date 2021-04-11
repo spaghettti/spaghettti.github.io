@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-11T04:35:03.681Z",
+  "lastUpdated": "2021-04-11T05:05:03.879Z",
   "seriesId": "2069",
   "title": "Wild Hokkaido!",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "Wild Hokkaido!",
       "uploadedDate": "2021-03-28T02:16:34.842Z",
       "raw": "https://mega.nz/folder/m0Q1UQzK#v_tN7xdkuSmHsvvK3LbHqQ"
+    },
+    {
+      "airingId": "053",
+      "content": "Our stage this time is Tokachi Millennium Forest in Shimizu at the foot of the Hidaka Mountains, about an hour's drive from Tokachi-Obihiro Airport. Our program navigator explores the forest with the help of an electric-powered vehicle, and enjoys viewing a variety of beautiful wildflowers in the spring forest. At the end of the tour, he encounters a magnificent view only found here in Tokachi. Later, we show you footage of life found stirring in the Tokachi Plain at the beginning of spring.",
+      "description": "Our program navigator explores the Tokachi Millennium Forest, with the help of an electric-powered vehicle, and enjoys viewing a variety of beautiful wildflowers in the spring forest.",
+      "endDate": "2021-04-11T02:00:00.000Z",
+      "link": "https://mega.nz/folder/WNFzlKJY#ch3t5p1EYavSo07X5PYukw",
+      "recordDateEnd": "2021-04-11T02:00:28.811Z",
+      "recordDateStart": "2021-04-11T01:44:20.112Z",
+      "seriesId": "2069",
+      "sha256": "9c564ea550425abdf8858c699bf6dc10bcb0366e513803fedf3640af56fc8f6a",
+      "startDate": "2021-04-11T01:45:00.000Z",
+      "subtitle": "Tokachi's Forest in Spring",
+      "title": "Wild Hokkaido!",
+      "uploadedDate": "2021-04-11T05:00:52.476Z"
     },
     {
       "airingId": "060",
