@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-11T06:25:03.787Z</lastUpdated>
+  <lastUpdated>2021-04-11T08:10:04.274Z</lastUpdated>
   <seriesId>ac0dc75327258b51</seriesId>
   <title>The Professionals</title>
   <episode>
@@ -163,5 +163,21 @@
     <title>The Professionals</title>
     <uploadedDate>2021-04-04T13:29:19.316Z</uploadedDate>
     <raw>https://mega.nz/folder/49YB1AYK#BqpZ7ONc0OuroeBTfpeJ5w</raw>
+  </episode>
+  <episode>
+    <airingId>152</airingId>
+    <content>Yokohama produces 1.22 million tons of garbage a year, the most of any municipality in Japan. Collection expert Take Yusuke is the ace of the city's biggest waste collection firm. He spends hours every day picking up over 3 tons of garbage a day from businesses like restaurants and hospitals. He has various tricks to prioritize efficiency, but that's not all that matters to him. Discover his essential work behind the scenes of our daily lives.</content>
+    <description>Yokohama produces 1.22 million tons of garbage a year. Take Yusuke is a garbage collector who picks up over 3 tons a day on his own. Discover his work behind the scenes of our daily lives.</description>
+    <endDate>2021-04-11T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/nAwV3SAS#Z292m_m6ji38HulBA_vZVw</link>
+    <recordDateEnd>2021-04-11T02:55:29.636Z</recordDateEnd>
+    <recordDateStart>2021-04-11T02:09:22.553Z</recordDateStart>
+    <seriesId>4003</seriesId>
+    <sha256>19f78be3752761c340cb3249f2c909e6f8d673ce8e3041650575fd20f6445eb3</sha256>
+    <startDate>2021-04-11T02:10:00.000Z</startDate>
+    <subtitle>Picking Yourself Up to Carry Dreams: Garbage Collector, Take Yusuke</subtitle>
+    <title>The Professionals</title>
+    <uploadedDate>2021-04-11T08:08:57.770Z</uploadedDate>
+    <raw>https://mega.nz/folder/jVBn2CTR#wOz6rW3eYjX2d1sIergTqw</raw>
   </episode>
 </episodeList>
