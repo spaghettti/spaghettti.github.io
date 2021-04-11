@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-11T05:05:03.906Z</lastUpdated>
+  <lastUpdated>2021-04-11T06:25:03.754Z</lastUpdated>
   <seriesId>8bc137fd12f759b5</seriesId>
   <title>Easy Travel Japanese</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>Easy Travel Japanese</title>
     <uploadedDate>2021-04-04T02:42:38.089Z</uploadedDate>
     <raw>https://mega.nz/folder/qtgASZiL#kJp7kVFvYkdcDtCoqSOybA</raw>
+  </episode>
+  <episode>
+    <airingId>399</airingId>
+    <content/>
+    <description>#3 Doko desu ka? Where is it?/ When traveling in Japan for the first time, what phrases do you need? 4 episodes (3 minutes each) provide simple expressions you can put to use as soon as you land.</description>
+    <endDate>2021-04-11T01:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/tMETzSpR#ErNX6wkW_DMiL1h9-Pi9ng</link>
+    <recordDateEnd>2021-04-11T01:40:27.825Z</recordDateEnd>
+    <recordDateStart>2021-04-11T01:36:20.102Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>41cab210959964c91a0c58789638478c8753946c59822389cc4ebf5b930e8177</sha256>
+    <startDate>2021-04-11T01:37:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Travel Japanese</title>
+    <uploadedDate>2021-04-11T06:20:11.815Z</uploadedDate>
+    <raw>https://mega.nz/folder/mFFTDarJ#g6Fd6w4hKa6E4VX-6EJXmA</raw>
   </episode>
   <episode>
     <airingId>400</airingId>
