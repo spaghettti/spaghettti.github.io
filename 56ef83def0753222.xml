@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-10T16:30:04.254Z</lastUpdated>
+  <lastUpdated>2021-04-11T01:25:03.539Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -356,5 +356,21 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <title>NHK Documentary</title>
     <uploadedDate>2021-03-30T07:07:16.815Z</uploadedDate>
     <raw>https://mega.nz/folder/3pNjxKJC#TGKF2FNLSwfCdBRCiqY7jg</raw>
+  </episode>
+  <episode>
+    <airingId>389</airingId>
+    <content>In this two-part investigative report, NHK delves into scientific data and social media posts in search of clues to the origins of the new coronavirus. Part 1 looks at when and where the virus began spreading. Our team explores the possibility that human-to-human transmission started much earlier than believed.</content>
+    <description>In this two-part investigative report, NHK delves into scientific data and social media posts in search of clues to the origins of the new coronavirus.</description>
+    <endDate>2021-04-10T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/vJQgQDCR#QACMkEXPvfB4pDqvFOH3BA</link>
+    <recordDateEnd>2021-04-10T16:00:27.570Z</recordDateEnd>
+    <recordDateStart>2021-04-10T15:09:20.113Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>5681c77682fcdcf48d9a7b86322843be179084a7375b7ca2c15724ab4ff29d54</sha256>
+    <startDate>2021-04-10T15:10:00.000Z</startDate>
+    <subtitle>Origins of the Pandemic: Part 1 The Beginning</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2021-04-11T01:23:46.697Z</uploadedDate>
+    <raw>https://mega.nz/folder/8toRwSZQ#GpsODMtxX4IQGvinQwGc_Q</raw>
   </episode>
 </episodeList>
