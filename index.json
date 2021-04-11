@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-11T01:25:03.568Z",
+  "lastUpdated": "2021-04-11T03:35:03.963Z",
   "series": [
     {
       "count": 24,
@@ -1247,6 +1247,14 @@
       "lastAiring": "2021-04-07T14:30:00.000Z",
       "lastUpload": "2021-04-07T16:11:23.171Z",
       "seriesId": "2054",
+      "title": "Trails to Oishii Tokyo"
+    },
+    {
+      "count": 1,
+      "uniqueId": "2b4ae213197f92e8",
+      "lastAiring": "2021-04-11T00:10:00.000Z",
+      "lastUpload": "2021-04-11T03:32:58.902Z",
+      "seriesId": "3004",
       "title": "Trails to Oishii Tokyo"
     },
     {
