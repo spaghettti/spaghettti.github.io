@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-11T08:15:06.305Z</lastUpdated>
+  <lastUpdated>2021-04-11T17:25:03.653Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -571,10 +571,10 @@
     <title>J-FLICKS</title>
   </series>
   <series>
-    <count>10</count>
+    <count>11</count>
     <uniqueId>f03694b92087f911</uniqueId>
-    <lastAiring>2021-04-04T15:10:00.000Z</lastAiring>
-    <lastUpload>2021-04-04T17:04:58.135Z</lastUpload>
+    <lastAiring>2021-04-11T15:10:00.000Z</lastAiring>
+    <lastUpload>2021-04-11T17:21:44.272Z</lastUpload>
     <seriesId>2004</seriesId>
     <title>J-MELO</title>
   </series>

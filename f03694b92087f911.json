@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-11T08:15:05.818Z",
+  "lastUpdated": "2021-04-11T17:25:03.294Z",
   "seriesId": "2004",
   "title": "J-MELO",
   "episodes": [
@@ -162,6 +162,22 @@
       "title": "J-MELO",
       "uploadedDate": "2021-04-04T17:04:58.135Z",
       "raw": "https://mega.nz/folder/49pXmaYa#8Ur2efrU9vurK33ZAOdOaw"
+    },
+    {
+      "airingId": "371",
+      "content": "Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news!",
+      "description": "Join May J. for great Japanese music! In the spotlight this week are Crystal Kay and singer-songwriter Yoshizawa Kayoko. They'll both be in the J-MELO studio to chat and perform.",
+      "endDate": "2021-04-11T15:40:00.000Z",
+      "link": "https://mega.nz/folder/iFxlUCxD#bliEB-y2v2WUWZKJr63l7Q",
+      "recordDateEnd": "2021-04-11T15:40:31.200Z",
+      "recordDateStart": "2021-04-11T15:09:20.099Z",
+      "seriesId": "2004",
+      "sha256": "07636b3550774fb4691c75a089b2d5b06afea1bf66f834f4ee35446782be3869",
+      "startDate": "2021-04-11T15:10:00.000Z",
+      "subtitle": "Crystal Kay and Yoshizawa Kayoko",
+      "title": "J-MELO",
+      "uploadedDate": "2021-04-11T17:21:44.272Z",
+      "raw": "https://mega.nz/folder/qcky3aRT#60DwQ13pfj2r0ACzUusoCQ"
     }
   ]
 }

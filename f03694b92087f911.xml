@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-11T08:15:05.804Z</lastUpdated>
+  <lastUpdated>2021-04-11T17:25:03.279Z</lastUpdated>
   <seriesId>f03694b92087f911</seriesId>
   <title>J-MELO</title>
   <episode>
@@ -163,5 +163,21 @@
     <title>J-MELO</title>
     <uploadedDate>2021-04-04T17:04:58.135Z</uploadedDate>
     <raw>https://mega.nz/folder/49pXmaYa#8Ur2efrU9vurK33ZAOdOaw</raw>
+  </episode>
+  <episode>
+    <airingId>371</airingId>
+    <content>Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news!</content>
+    <description>Join May J. for great Japanese music! In the spotlight this week are Crystal Kay and singer-songwriter Yoshizawa Kayoko. They'll both be in the J-MELO studio to chat and perform.</description>
+    <endDate>2021-04-11T15:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/iFxlUCxD#bliEB-y2v2WUWZKJr63l7Q</link>
+    <recordDateEnd>2021-04-11T15:40:31.200Z</recordDateEnd>
+    <recordDateStart>2021-04-11T15:09:20.099Z</recordDateStart>
+    <seriesId>2004</seriesId>
+    <sha256>07636b3550774fb4691c75a089b2d5b06afea1bf66f834f4ee35446782be3869</sha256>
+    <startDate>2021-04-11T15:10:00.000Z</startDate>
+    <subtitle>Crystal Kay and Yoshizawa Kayoko</subtitle>
+    <title>J-MELO</title>
+    <uploadedDate>2021-04-11T17:21:44.272Z</uploadedDate>
+    <raw>https://mega.nz/folder/qcky3aRT#60DwQ13pfj2r0ACzUusoCQ</raw>
   </episode>
 </episodeList>

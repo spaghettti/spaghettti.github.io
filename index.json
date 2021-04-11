@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-11T08:15:06.313Z",
+  "lastUpdated": "2021-04-11T17:25:03.661Z",
   "series": [
     {
       "count": 24,
@@ -570,10 +570,10 @@
       "title": "J-FLICKS"
     },
     {
-      "count": 10,
+      "count": 11,
       "uniqueId": "f03694b92087f911",
-      "lastAiring": "2021-04-04T15:10:00.000Z",
-      "lastUpload": "2021-04-04T17:04:58.135Z",
+      "lastAiring": "2021-04-11T15:10:00.000Z",
+      "lastUpload": "2021-04-11T17:21:44.272Z",
       "seriesId": "2004",
       "title": "J-MELO"
     },
