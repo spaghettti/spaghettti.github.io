@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-11T17:25:03.621Z</lastUpdated>
+  <lastUpdated>2021-04-11T18:10:04.010Z</lastUpdated>
   <seriesId>a8827721852d236d</seriesId>
   <title>Japan-easy</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>Japan-easy</title>
     <uploadedDate>2021-04-04T17:33:48.311Z</uploadedDate>
     <raw>https://mega.nz/folder/0c0mUL4D#gLmRS-VbR_BTcmFJLM9xsA</raw>
+  </episode>
+  <episode>
+    <airingId>003</airingId>
+    <content/>
+    <description>Today: We will learn about "no", which connects two nouns. Explore the wonders of Japan and the Japanese language! Through basic conversations, viewers will see that "Japanese is Easy!"</description>
+    <endDate>2021-04-11T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/nZQSFRDI#UwpztlRim7Y-jBFBJneWfg</link>
+    <recordDateEnd>2021-04-11T16:00:26.321Z</recordDateEnd>
+    <recordDateStart>2021-04-11T15:44:22.290Z</recordDateStart>
+    <seriesId>6210</seriesId>
+    <sha256>8083f79b8435629900d4c5ec774d09d95dd169bc3ef2751671eb652373a2769d</sha256>
+    <startDate>2021-04-11T15:45:00.000Z</startDate>
+    <subtitle/>
+    <title>Japan-easy</title>
+    <uploadedDate>2021-04-11T18:08:46.998Z</uploadedDate>
+    <raw>https://mega.nz/folder/1tJgSR7D#HqZekR5zKh9rM8Fxfdnpzg</raw>
   </episode>
   <episode>
     <airingId>109</airingId>
