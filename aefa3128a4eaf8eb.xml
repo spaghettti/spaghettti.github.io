@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-11T08:10:04.280Z</lastUpdated>
+  <lastUpdated>2021-04-11T08:15:06.100Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -83,6 +83,22 @@
     <title>Somewhere Street</title>
     <uploadedDate>2021-02-15T06:25:48.762Z</uploadedDate>
     <raw>https://mega.nz/folder/GI0wlYzS#rSLMEjS054jOx_1Xg3Pydg</raw>
+  </episode>
+  <episode>
+    <airingId>058</airingId>
+    <content>Cape Town is a popular tourist spot in South Africa. Many people come from around the world to see the Cape of Good Hope and enjoy the wine. It is home to people of all different races, cultures and religious beliefs. In this episode, we stroll around the beautiful city streets.</content>
+    <description>Cape Town is a popular tourist spot in South Africa. Many people come from around the world to see the Cape of Good Hope and enjoy the wine.In this episode we stroll around the beautiful city streets.</description>
+    <endDate>2021-04-11T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/8E0zCSDT#9WfK8ggJMpYaudvwgO4_wQ</link>
+    <recordDateEnd>2021-04-11T05:00:21.967Z</recordDateEnd>
+    <recordDateStart>2021-04-11T04:09:20.099Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>5b4850baad2921a486136a0368792e3e6b42c7e310fd9ba0ece8c683a96f68a8</sha256>
+    <startDate>2021-04-11T04:10:00.000Z</startDate>
+    <subtitle>Cape Town, South Africa</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-04-11T08:15:01.945Z</uploadedDate>
+    <raw>https://mega.nz/folder/jJwn3KiL#mvD1GODbaH8iv84JUT_ZpA</raw>
   </episode>
   <episode>
     <airingId>061</airingId>
