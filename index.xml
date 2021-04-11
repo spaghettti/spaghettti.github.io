@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-11T04:25:03.569Z</lastUpdated>
+  <lastUpdated>2021-04-11T04:35:03.855Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -707,10 +707,10 @@
     <title>Kiyo in Kyoto: 3min</title>
   </series>
   <series>
-    <count>19</count>
+    <count>20</count>
     <uniqueId>0fb6afa0f420e9e6</uniqueId>
-    <lastAiring>2021-04-04T03:40:00.000Z</lastAiring>
-    <lastUpload>2021-04-04T04:55:42.889Z</lastUpload>
+    <lastAiring>2021-04-11T03:40:00.000Z</lastAiring>
+    <lastUpload>2021-04-11T04:34:59.058Z</lastUpload>
     <seriesId>6116</seriesId>
     <title>Little Charo</title>
   </series>
