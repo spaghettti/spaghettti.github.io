@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-12T09:55:03.197Z</lastUpdated>
+  <lastUpdated>2021-04-12T16:00:04.278Z</lastUpdated>
   <seriesId>a5d2cf270dcd5679</seriesId>
   <title>Medical Frontiers</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>Medical Frontiers</title>
     <uploadedDate>2021-04-05T15:51:26.517Z</uploadedDate>
     <raw>https://mega.nz/folder/G5xQWbyA#aTB3rbFLsxGkWwLfvstGtw</raw>
+  </episode>
+  <episode>
+    <airingId>094</airingId>
+    <content>To protect the body from disease, the immune system's cells must be activated. We focus on 3 ways to do this. One is to consume lactic acid bacteria. These microbes work in the small intestine, where over half the body's immune cells are. Activating these cells helps them attack pathogens and create antibodies to fight viruses. Exercise also activates immune cells, but it can reduce immunity if not done correctly. The third way is through laughter, which is said to boost immune function.</content>
+    <description>The immune system is extremely delicate. It can be affected by diet, exercise, and stress. We show what can be done to keep the immune system functioning optimally.</description>
+    <endDate>2021-04-12T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/fBoGVAoD#gdGkl-pTcxI1y-5FlbaRIg</link>
+    <recordDateEnd>2021-04-12T15:00:30.567Z</recordDateEnd>
+    <recordDateStart>2021-04-12T14:29:20.005Z</recordDateStart>
+    <seriesId>2050</seriesId>
+    <sha256>0784a31c0419e47f294197a1fa3ed4d600cd263e63efd19ba0d799ca9933a366</sha256>
+    <startDate>2021-04-12T14:30:00.000Z</startDate>
+    <subtitle>Strengthening Immunity Against COVID-19</subtitle>
+    <title>Medical Frontiers</title>
+    <uploadedDate>2021-04-12T15:59:06.903Z</uploadedDate>
   </episode>
   <episode>
     <airingId>095</airingId>
