@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-13T01:50:03.850Z</lastUpdated>
+  <lastUpdated>2021-04-13T03:15:04.196Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -307,6 +307,21 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2021-03-05T16:15:35.167Z</uploadedDate>
     <raw>https://mega.nz/folder/atxGjQZJ#PmRkWzTq9kqA1DE3PpMgMQ</raw>
+  </episode>
+  <episode>
+    <airingId>230</airingId>
+    <content>In this episode, Chef Rika will be preparing her special dry curry rice, made by stir-frying curry and rice together in a frying pan. Alongside the spices, she'll also be adding her secret ingredients: sushi vinegar and soy sauce. The dry curry rice is served topped with an omelet, for a wonderfully mild flavor when eaten together. Chef Rika will also be making 2 side dishes: pickled cauliflower, and spinach and tomato soup. Both of these are simple to make, for an easy way to add more healthy vegetables to any meal.</content>
+    <description>Today's recipe: (1) Dry Curry Rice with Omelet (2) Pickled Cauliflower Salad (3) Spinach and Tomato Soup. You can cook modern Japanese home meals by yourself with Rika's fun lesson!</description>
+    <endDate>2021-04-13T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ABUC2T7a#FGiMvy_riKbDz6o9pgk0HQ</link>
+    <recordDateEnd>2021-04-13T02:00:31.200Z</recordDateEnd>
+    <recordDateStart>2021-04-13T01:29:20.099Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>b002cc86a1ab93efdeb3c3c6dfe1ddd79b29aae435fe6fd77722f34ba9ac537d</sha256>
+    <startDate>2021-04-13T01:30:00.000Z</startDate>
+    <subtitle>Rika's TOKYO CUISINE: Dry Curry Rice with Omelet</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-04-13T03:12:53.377Z</uploadedDate>
   </episode>
   <episode>
     <airingId>246</airingId>
