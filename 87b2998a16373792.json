@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-13T10:10:03.621Z",
+  "lastUpdated": "2021-04-13T16:20:03.553Z",
   "seriesId": "2015",
   "title": "Science View",
   "episodes": [
@@ -162,6 +162,21 @@
       "title": "Science View",
       "uploadedDate": "2021-03-23T20:43:30.768Z",
       "raw": "https://mega.nz/folder/yhpkRDrb#50u4ZcDYRuYDxG5i86CDtg"
+    },
+    {
+      "airingId": "233",
+      "content": "Predicted by Albert Einstein about 100 years ago, gravitational waves are ripples in space-time caused by the movement of a celestial body with huge mass. The ripples disrupt space-time and create waves that travel at the speed of light. On February 25, 2020, Japan's first gravitational wave detector KAGRA began full-scale operation. Detectors like KAGRA enable conventional telescopes that observe visible, infrared and electromagnetic waves to be used much more effectively, and they are bringing about a new era in astronomy. An NHK film crew had a chance to take a special tour of KAGRA before operation began, and in this episode, we'll take a sneak peek at its sapphire mirrors and other high-tech equipment that give it the world's best performance.\n[Science News Watch]\nJAXA to Explore Mars' Moon \"Phobos\"\n[J-Innovators]\nImproving Japan's Traditional Tatami Mats",
+      "description": "Japan's new gravitational wave detector KAGRA began full-scale operation in February 2020. Designed to offer the world's best performance, KAGRA is heralding a new era in astronomy.",
+      "endDate": "2021-04-13T15:00:00.000Z",
+      "link": "https://mega.nz/folder/WloCTRLK#yHYd9ieFXUWmQzCzZMKObg",
+      "recordDateEnd": "2021-04-13T15:00:33.518Z",
+      "recordDateStart": "2021-04-13T14:29:20.101Z",
+      "seriesId": "2015",
+      "sha256": "a57cca524689551231860ad721295467dddb1e030bea748341ff71c671160494",
+      "startDate": "2021-04-13T14:30:00.000Z",
+      "subtitle": "KAGRA - Heralding a New Era in Astronomy!",
+      "title": "Science View",
+      "uploadedDate": "2021-04-13T16:18:46.666Z"
     },
     {
       "airingId": "246",

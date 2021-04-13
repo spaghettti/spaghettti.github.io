@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-13T10:10:03.611Z</lastUpdated>
+  <lastUpdated>2021-04-13T16:20:03.543Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -179,6 +179,25 @@ An Innovative Reheating Cart for Hospital Meals</content>
     <title>Science View</title>
     <uploadedDate>2021-03-23T20:43:30.768Z</uploadedDate>
     <raw>https://mega.nz/folder/yhpkRDrb#50u4ZcDYRuYDxG5i86CDtg</raw>
+  </episode>
+  <episode>
+    <airingId>233</airingId>
+    <content>Predicted by Albert Einstein about 100 years ago, gravitational waves are ripples in space-time caused by the movement of a celestial body with huge mass. The ripples disrupt space-time and create waves that travel at the speed of light. On February 25, 2020, Japan's first gravitational wave detector KAGRA began full-scale operation. Detectors like KAGRA enable conventional telescopes that observe visible, infrared and electromagnetic waves to be used much more effectively, and they are bringing about a new era in astronomy. An NHK film crew had a chance to take a special tour of KAGRA before operation began, and in this episode, we'll take a sneak peek at its sapphire mirrors and other high-tech equipment that give it the world's best performance.
+[Science News Watch]
+JAXA to Explore Mars' Moon "Phobos"
+[J-Innovators]
+Improving Japan's Traditional Tatami Mats</content>
+    <description>Japan's new gravitational wave detector KAGRA began full-scale operation in February 2020. Designed to offer the world's best performance, KAGRA is heralding a new era in astronomy.</description>
+    <endDate>2021-04-13T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/WloCTRLK#yHYd9ieFXUWmQzCzZMKObg</link>
+    <recordDateEnd>2021-04-13T15:00:33.518Z</recordDateEnd>
+    <recordDateStart>2021-04-13T14:29:20.101Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>a57cca524689551231860ad721295467dddb1e030bea748341ff71c671160494</sha256>
+    <startDate>2021-04-13T14:30:00.000Z</startDate>
+    <subtitle>KAGRA - Heralding a New Era in Astronomy!</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-04-13T16:18:46.666Z</uploadedDate>
   </episode>
   <episode>
     <airingId>246</airingId>

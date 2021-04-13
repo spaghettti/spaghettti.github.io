@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-13T10:10:03.941Z</lastUpdated>
+  <lastUpdated>2021-04-13T16:20:03.842Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -979,10 +979,10 @@
     <title>Saving Pristine Shores for Future Generations</title>
   </series>
   <series>
-    <count>20</count>
+    <count>21</count>
     <uniqueId>87b2998a16373792</uniqueId>
-    <lastAiring>2021-04-06T14:30:00.000Z</lastAiring>
-    <lastUpload>2021-04-06T15:56:54.823Z</lastUpload>
+    <lastAiring>2021-04-13T14:30:00.000Z</lastAiring>
+    <lastUpload>2021-04-13T16:18:46.666Z</lastUpload>
     <seriesId>2015</seriesId>
     <title>Science View</title>
   </series>
