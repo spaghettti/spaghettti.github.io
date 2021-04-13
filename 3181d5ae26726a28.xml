@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-13T03:15:04.419Z</lastUpdated>
+  <lastUpdated>2021-04-13T04:10:03.924Z</lastUpdated>
   <seriesId>3181d5ae26726a28</seriesId>
   <title>Document 72 Hours</title>
   <episode>
@@ -179,6 +179,21 @@
     <title>Document 72 Hours</title>
     <uploadedDate>2021-02-09T05:39:16.813Z</uploadedDate>
     <raw>https://mega.nz/folder/49QTwIqB#7ePusmeLHxIVuSbu2J6BxQ</raw>
+  </episode>
+  <episode>
+    <airingId>135</airingId>
+    <content>For junior high or high school graduates, or drop-outs struggling to find their place in society, landing a well-paid, steady job can be almost impossible. But one training center in Tokyo teaches these disaffected youngsters practical skills during a six-month internship and transforms them into workers that companies need. About 400 people have completed this program at the center, and many of them have found excellent jobs at major IT firms and other companies. For 3 days, we closely watched the youngsters determined to turn their lives around and start climbing the career ladder.</content>
+    <description>A training center in Tokyo helps teens who once went off the rails acquire the skills -and attitude - needed to find steady jobs. For 3 days, we followed the youngsters turning their lives around.</description>
+    <endDate>2021-04-13T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/nZwQBRAb#sH9qcci2L9Z_3mIgnXT7iw</link>
+    <recordDateEnd>2021-04-13T03:00:29.618Z</recordDateEnd>
+    <recordDateStart>2021-04-13T02:29:22.511Z</recordDateStart>
+    <seriesId>4026</seriesId>
+    <sha256>ef734816a38893ad44f1adee6fd51916618a4b0d300e9b9a82113cf1cc3d1cb3</sha256>
+    <startDate>2021-04-13T02:30:00.000Z</startDate>
+    <subtitle>From Gang Ties to Business Suits</subtitle>
+    <title>Document 72 Hours</title>
+    <uploadedDate>2021-04-13T04:06:48.072Z</uploadedDate>
   </episode>
   <episode>
     <airingId>137</airingId>
