@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-13T04:10:03.869Z</lastUpdated>
+  <lastUpdated>2021-04-13T05:20:03.221Z</lastUpdated>
   <seriesId>f85084a2d40d190a</seriesId>
   <title>DEEPER LOOK from New York</title>
   <episode>
@@ -211,5 +211,20 @@
     <title>DEEPER LOOK from New York</title>
     <uploadedDate>2021-02-16T05:50:25.847Z</uploadedDate>
     <raw>https://mega.nz/folder/g48UlJpJ#fzlcCalX0_rcnq2cmUMtMQ</raw>
+  </episode>
+  <episode>
+    <airingId>027</airingId>
+    <content>President Biden will host 40 global leaders at the Leaders Summit on Climate. Environmental experts stress the urgency to limit earth's warming to 1.5 degrees Celsius to mitigate the most pressing impacts of climate change. What does that number mean? What will happen if we can't reach this goal? After abandoning the Kyoto Protocol and Paris Agreement, can the U.S. reclaim its leadership role? We asked Professor Mark Jacobson how things will differ this time when significant measures have still not been taken.</content>
+    <description>An exprerienced anchor Del Irani has a cutting-edge dialogue. Today, Mark Jacobson, professor of environmental engineering at Stanford Univ. will talk about global summit of climate change.</description>
+    <endDate>2021-04-13T04:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/lZUEXZyI#_go2BoqGy9worWGfQFWukg</link>
+    <recordDateEnd>2021-04-13T04:45:28.837Z</recordDateEnd>
+    <recordDateStart>2021-04-13T04:29:20.043Z</recordDateStart>
+    <seriesId>2085</seriesId>
+    <sha256>2cf260aacf3d69c5fdea019ca4092595d2fa904e0ae1f3c6dc6180c8ef6d7ee8</sha256>
+    <startDate>2021-04-13T04:30:00.000Z</startDate>
+    <subtitle>Challenges of the Leaders Summit on Climate: Mark Jacobson / Professor of Civil and Environmental Engineering, Stanford University</subtitle>
+    <title>DEEPER LOOK from New York</title>
+    <uploadedDate>2021-04-13T05:18:33.117Z</uploadedDate>
   </episode>
 </episodeList>

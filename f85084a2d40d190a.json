@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-13T04:10:03.871Z",
+  "lastUpdated": "2021-04-13T05:20:03.223Z",
   "seriesId": "2085",
   "title": "DEEPER LOOK from New York",
   "episodes": [
@@ -210,6 +210,21 @@
       "title": "DEEPER LOOK from New York",
       "uploadedDate": "2021-02-16T05:50:25.847Z",
       "raw": "https://mega.nz/folder/g48UlJpJ#fzlcCalX0_rcnq2cmUMtMQ"
+    },
+    {
+      "airingId": "027",
+      "content": "President Biden will host 40 global leaders at the Leaders Summit on Climate. Environmental experts stress the urgency to limit earth's warming to 1.5 degrees Celsius to mitigate the most pressing impacts of climate change. What does that number mean? What will happen if we can't reach this goal? After abandoning the Kyoto Protocol and Paris Agreement, can the U.S. reclaim its leadership role? We asked Professor Mark Jacobson how things will differ this time when significant measures have still not been taken.",
+      "description": "An exprerienced anchor Del Irani has a cutting-edge dialogue. Today, Mark Jacobson, professor of environmental engineering at Stanford Univ. will talk about global summit of climate change.",
+      "endDate": "2021-04-13T04:45:00.000Z",
+      "link": "https://mega.nz/folder/lZUEXZyI#_go2BoqGy9worWGfQFWukg",
+      "recordDateEnd": "2021-04-13T04:45:28.837Z",
+      "recordDateStart": "2021-04-13T04:29:20.043Z",
+      "seriesId": "2085",
+      "sha256": "2cf260aacf3d69c5fdea019ca4092595d2fa904e0ae1f3c6dc6180c8ef6d7ee8",
+      "startDate": "2021-04-13T04:30:00.000Z",
+      "subtitle": "Challenges of the Leaders Summit on Climate: Mark Jacobson / Professor of Civil and Environmental Engineering, Stanford University",
+      "title": "DEEPER LOOK from New York",
+      "uploadedDate": "2021-04-13T05:18:33.117Z"
     }
   ]
 }
