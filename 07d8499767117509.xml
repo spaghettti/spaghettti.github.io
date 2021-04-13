@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-13T07:55:03.716Z</lastUpdated>
+  <lastUpdated>2021-04-13T10:10:03.713Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -946,7 +946,7 @@
     <subtitle>Inspiration from Everyday Life: Yoshitake Shinsuke / Children's Book Author</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2021-04-13T07:51:43.704Z</uploadedDate>
-    <raw>https://mega.nz/folder/C5MURRrQ#YBd4KFDiQt2nKT4UasK7nQ</raw>
+    <raw>https://mega.nz/folder/YwgQ3JKT#OB1AXWzx8Gce6TmPQk2sMQ</raw>
   </episode>
   <episode>
     <airingId>636</airingId>
@@ -2182,19 +2182,19 @@
   </episode>
   <episode>
     <airingId>733</airingId>
-    <content>Iida Masashige creates immersive video presentations for dome-shaped projection screens that hang overhead in planetariums and other theaters. He talks about his vision, themes and methods.</content>
+    <content/>
     <description>Iida Masashige creates immersive video presentations for dome-shaped projection screens that hang overhead in planetariums and other theaters. He talks about his vision, themes, and methods.</description>
-    <endDate>2021-02-01T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/8JZjkYyD#w-dGzXTbAFMHURyPaRMg8g</link>
-    <recordDateEnd>2021-02-01T07:30:30.005Z</recordDateEnd>
-    <recordDateStart>2021-02-01T07:14:22.593Z</recordDateStart>
+    <endDate>2021-04-13T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/VoQD1aLB#F_rnQArZ5g79zjhE2lFEXA</link>
+    <recordDateEnd>2021-04-13T09:30:27.133Z</recordDateEnd>
+    <recordDateStart>2021-04-13T09:14:22.380Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>cd285ef36be7c8ea95eb59209bba3d7db5d64e1862ec537debb092073353f6cb</sha256>
-    <startDate>2021-02-01T07:15:00.000Z</startDate>
-    <subtitle>Pushing the Boundaries: Iida Masashige / Visual Artist</subtitle>
+    <sha256>28194c7a246d8581096f01fd0ea14ad553adf92db6e219446b5306620740d7c9</sha256>
+    <startDate>2021-04-13T09:15:00.000Z</startDate>
+    <subtitle/>
     <title>Direct Talk</title>
-    <uploadedDate>2021-02-01T07:57:34.712Z</uploadedDate>
-    <raw>https://mega.nz/folder/jjplzArI#wK1cBHhHuRwfR6XzgSTd1Q</raw>
+    <uploadedDate>2021-04-13T10:06:38.427Z</uploadedDate>
+    <raw>https://mega.nz/folder/adZhwCYC#Z0os2f71x62YPPGQiEs1DA</raw>
   </episode>
   <episode>
     <airingId>734</airingId>
