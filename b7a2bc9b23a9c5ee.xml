@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-12T16:00:04.181Z</lastUpdated>
+  <lastUpdated>2021-04-13T01:50:03.827Z</lastUpdated>
   <seriesId>b7a2bc9b23a9c5ee</seriesId>
   <title>Journeys in Japan</title>
   <episode>
@@ -67,6 +67,21 @@
     <title>Journeys in Japan</title>
     <uploadedDate>2021-04-06T02:58:45.574Z</uploadedDate>
     <raw>https://mega.nz/folder/m0JHUIII#mItElGacRYjON_S63QYFaQ</raw>
+  </episode>
+  <episode>
+    <airingId>414</airingId>
+    <content>Located in central Japan, Kaizu City in Gifu Prefecture and Kuwana City in Mie Prefecture are just downstream of the Kiso Three Rivers -- the Kiso, Nagara and Ibi. They caused major flooding in the past, but also provided people with sustenance. Rakugo performer Cyril Coppini from France explores the area and discovers how people have long coexisted with these water forces.</content>
+    <description>Cyril Copponi meets the resilient people of Kaizu and Kuwana, in central Japan, who long ago learned to coexist with the three major rivers that bring sustenance but also flooding.</description>
+    <endDate>2021-04-13T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/pR1EAb7a#f_phAssc3ZgdDIOpcsMhkA</link>
+    <recordDateEnd>2021-04-13T01:00:30.224Z</recordDateEnd>
+    <recordDateStart>2021-04-13T00:29:20.101Z</recordDateStart>
+    <seriesId>2007</seriesId>
+    <sha256>d3f5fd67d517a77214faef8062162752c2d62e19188dc20a91eeaa83614dae56</sha256>
+    <startDate>2021-04-13T00:30:00.000Z</startDate>
+    <subtitle>Rivers of Life: Kaizu and Kuwana</subtitle>
+    <title>Journeys in Japan</title>
+    <uploadedDate>2021-04-13T01:45:53.721Z</uploadedDate>
   </episode>
   <episode>
     <airingId>423</airingId>
