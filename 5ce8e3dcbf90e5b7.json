@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-14T02:30:04.614Z",
+  "lastUpdated": "2021-04-14T04:00:03.498Z",
   "seriesId": "2037",
   "title": "Side by Side",
   "episodes": [
@@ -114,6 +114,21 @@
       "title": "Side by Side",
       "uploadedDate": "2021-03-03T02:56:20.448Z",
       "raw": "https://mega.nz/folder/wF801JYA#VEF1LZp_TFuHQAM-P4tMQw"
+    },
+    {
+      "airingId": "075",
+      "content": "Matsuoka Shuji developed original materials so children in rural Cambodia can learn by playing board games. As some struggle with literacy, he used QR codes and images, as well as a game for teaching Khmer. Cambodia's schools closed in 2021, switching to online classes due to the pandemic. But poor internet access means many remain excluded. Matsuoka's new materials could help them learn at home. Meet Matsuoka and the Cambodian teachers ensuring the next generation have the opportunity to learn.",
+      "description": "Matsuoka Shuji developed original materials so students in rural Cambodia can learn by playing games, including one to help with Khmer literacy. Meet the team ensuring children have a chance to learn.",
+      "endDate": "2021-04-14T03:00:00.000Z",
+      "link": "https://mega.nz/folder/8wwQSB7Y#WvMvCnqWE30st-Luqw7zAw",
+      "recordDateEnd": "2021-04-14T03:00:18.222Z",
+      "recordDateStart": "2021-04-14T02:29:20.082Z",
+      "seriesId": "2037",
+      "sha256": "0d4c28d315075666bce78dab4e825735b6e1b17882b21134be64e4a1f546e700",
+      "startDate": "2021-04-14T02:30:00.000Z",
+      "subtitle": "Closing the Education Gap: Cambodia",
+      "title": "Side by Side",
+      "uploadedDate": "2021-04-14T03:58:18.712Z"
     }
   ]
 }
