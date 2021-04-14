@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-13T16:20:03.805Z</lastUpdated>
+  <lastUpdated>2021-04-14T02:30:04.843Z</lastUpdated>
   <seriesId>6f88b7eb5aa1e989</seriesId>
   <title>Dig More Japan</title>
   <episode>
@@ -163,5 +163,21 @@
     <title>Dig More Japan</title>
     <uploadedDate>2021-04-07T02:16:26.888Z</uploadedDate>
     <raw>https://mega.nz/folder/s1pyFZKZ#TwAqkpQvIZpqdp47KUYGSw</raw>
+  </episode>
+  <episode>
+    <airingId>027</airingId>
+    <content>Seasonal colors born of nature, or colors created by traditional craftsmen, Japan is full of colors. Let's explore through the world of unique colors in the country of the rising sun.</content>
+    <description>Whether it be seasonal colors of nature, or those created by traditional craftsmen, Japan is full of hues. Please join us to explore the world of unique colors in the country of the rising sun.</description>
+    <endDate>2021-04-14T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/bR8SiTiS#sPvu6Rj7928nBNtXEMM28Q</link>
+    <recordDateEnd>2021-04-14T01:55:20.390Z</recordDateEnd>
+    <recordDateStart>2021-04-14T01:44:22.687Z</recordDateStart>
+    <seriesId>6122</seriesId>
+    <sha256>35baf3afe584275aa864c8c0e27e38ee239631d2ddc46827223bf94213e71821</sha256>
+    <startDate>2021-04-14T01:45:00.000Z</startDate>
+    <subtitle>Colorful Japan</subtitle>
+    <title>Dig More Japan</title>
+    <uploadedDate>2021-04-14T02:29:02.379Z</uploadedDate>
+    <raw>https://mega.nz/folder/WVsgWSyT#3CQfFZlDSVeohIkhE8KBYw</raw>
   </episode>
 </episodeList>
