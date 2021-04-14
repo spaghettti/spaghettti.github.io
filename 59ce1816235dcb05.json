@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-14T04:00:03.493Z",
+  "lastUpdated": "2021-04-14T06:00:04.095Z",
   "seriesId": "2035",
   "title": "KABUKI KOOL",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "KABUKI KOOL",
       "uploadedDate": "2020-12-24T23:46:33.189Z",
       "raw": "https://mega.nz/folder/FYoGWTJK#D-JWoDSih252oMUCbt-ITw"
+    },
+    {
+      "airingId": "056",
+      "content": "Ishikawa Goemon is a legendary thief from the late 16th century who appears in several kabuki plays. Actor Kataoka Ainosuke explores what makes this figure so popular.",
+      "description": "Ishikawa Goemon is a legendary thief from the late 16th century who appears in several kabuki plays. Actor Kataoka Ainosuke explores what makes this figure so popular.",
+      "endDate": "2021-04-14T05:00:00.000Z",
+      "link": "https://mega.nz/folder/pdk0lbyS#3SZgf5EyuFCw0Ammh4oJRw",
+      "recordDateEnd": "2021-04-14T05:00:28.164Z",
+      "recordDateStart": "2021-04-14T04:29:22.919Z",
+      "seriesId": "2035",
+      "sha256": "7a751611afb7150bfb9aed87c550ec649fd9450ff345003f10f769a8185a05e1",
+      "startDate": "2021-04-14T04:30:00.000Z",
+      "subtitle": "The Super Thief Ishikawa Goemon",
+      "title": "KABUKI KOOL",
+      "uploadedDate": "2021-04-14T05:58:18.850Z"
     },
     {
       "airingId": "061",
