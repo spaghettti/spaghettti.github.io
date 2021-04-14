@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-14T07:00:04.368Z</lastUpdated>
+  <lastUpdated>2021-04-14T08:05:03.789Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1699,6 +1699,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-03-19T09:19:11.155Z</uploadedDate>
     <raw>https://mega.nz/folder/3AhgkYbS#oYXdomMZ1vBJ4S5TJthLLg</raw>
+  </episode>
+  <episode>
+    <airingId>698</airingId>
+    <content>Dr. Anthony Back created a medical communication guide called Vital Talk. It helps practitioners better understand the emotions of patients and family, a matter of great importance in the COVID-19 era.</content>
+    <description>Dr.Anthony Back created a medical communication guide called Vital Talk. It helps practitioners better understand the emotions of patients and family, a matter of great importance in the COVID-19 era.</description>
+    <endDate>2021-04-14T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/DYgAASAI#hIA8rK83o2DJJ1ISyORMSw</link>
+    <recordDateEnd>2021-04-14T07:30:28.968Z</recordDateEnd>
+    <recordDateStart>2021-04-14T07:14:20.012Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>727cb566065890d6e4ca61ad92e50881e5f71ddee5387f3be0b7f70b62f9804b</sha256>
+    <startDate>2021-04-14T07:15:00.000Z</startDate>
+    <subtitle>Fighting COVID-19 With Medicine and Emotion: Anthony Back / Palliative Care Doctor</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-04-14T08:02:35.099Z</uploadedDate>
   </episode>
   <episode>
     <airingId>699</airingId>
