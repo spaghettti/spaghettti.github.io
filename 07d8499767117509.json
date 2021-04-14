@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-14T08:05:03.800Z",
+  "lastUpdated": "2021-04-14T10:05:03.887Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -82,6 +82,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2020-12-26T03:10:30.321Z",
       "raw": "https://mega.nz/folder/ShlhxI7K#CpQ2pkA9BKkOBnz2tsSDIg"
+    },
+    {
+      "airingId": "502",
+      "content": "",
+      "description": "By examining a company's environmental, social, and governance when analyzing potential stocks, financial advisor Lauren Compere is helping investors make socially responsible investing decisions.",
+      "endDate": "2021-04-14T09:30:00.000Z",
+      "link": "https://mega.nz/folder/BFt22SyA#8_fQ7C_j-dIsgLMwQDXpPA",
+      "recordDateEnd": "2021-04-14T09:30:28.193Z",
+      "recordDateStart": "2021-04-14T09:14:20.017Z",
+      "seriesId": "2058",
+      "sha256": "3d731c97e96b84c128216d490d811919a4e27bc2ad7e672cf2ae8066e3f4e08e",
+      "startDate": "2021-04-14T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-04-14T10:03:29.133Z",
+      "raw": "https://mega.nz/folder/oR0iUJZQ#pnuKF6-7gw249LkH6poZQQ"
     },
     {
       "airingId": "503",
@@ -1712,7 +1728,8 @@
       "startDate": "2021-04-14T07:15:00.000Z",
       "subtitle": "Fighting COVID-19 With Medicine and Emotion: Anthony Back / Palliative Care Doctor",
       "title": "Direct Talk",
-      "uploadedDate": "2021-04-14T08:02:35.099Z"
+      "uploadedDate": "2021-04-14T08:02:35.099Z",
+      "raw": "https://mega.nz/folder/9M1S2CCD#xerAbBH8o6dWASGRucn-kQ"
     },
     {
       "airingId": "699",
