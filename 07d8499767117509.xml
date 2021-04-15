@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-15T08:00:03.942Z</lastUpdated>
+  <lastUpdated>2021-04-15T10:15:03.695Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -179,6 +179,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-14T04:54:14.981Z</uploadedDate>
     <raw>https://mega.nz/folder/PkV2nBzB#svkhA2hhrIq3lq533nJ_mg</raw>
+  </episode>
+  <episode>
+    <airingId>547</airingId>
+    <content/>
+    <description>A young engineer tackling the serious issue of landmine clearance in Cambodia has developed an unattended robot to replace dangerous manual demining.</description>
+    <endDate>2021-04-15T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/1JlAiKha#6NLWvxsngaiJTmNlQ_mvvQ</link>
+    <recordDateEnd>2021-04-15T09:30:31.459Z</recordDateEnd>
+    <recordDateStart>2021-04-15T09:14:20.015Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>dc55810522152a560b312a0f973cb06c6824b74c4504bbac245159cb5184fde5</sha256>
+    <startDate>2021-04-15T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-04-15T10:12:23.971Z</uploadedDate>
+    <raw>https://mega.nz/folder/Ul50gIBQ#WHkWeHwnaZ77pLyFUmSHwA</raw>
   </episode>
   <episode>
     <airingId>548</airingId>
@@ -1314,7 +1330,7 @@
     <subtitle>Hope Through Education: Siti Rahayu / Co-founder of Buku Jalanan Chow Kit</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2021-04-15T07:58:54.199Z</uploadedDate>
-    <raw>https://mega.nz/folder/H5Mj0ajR#MvbKBrdp4UTtfYUdZ71H9Q</raw>
+    <raw>https://mega.nz/folder/Qd8gwIpI#nn2BNSwhmrDLDu6o53r1QQ</raw>
   </episode>
   <episode>
     <airingId>670</airingId>
