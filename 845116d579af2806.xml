@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-14T16:15:04.634Z</lastUpdated>
+  <lastUpdated>2021-04-15T03:55:03.509Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -173,6 +173,22 @@ Wasabi is a plant that grows natively in Japan's mountain valleys. It's used to 
     <title>Japanology Plus</title>
     <uploadedDate>2021-04-01T06:19:34.039Z</uploadedDate>
     <raw>https://mega.nz/folder/OJQwTJII#CqDxeTGhuSLiUqlsFSE4gw</raw>
+  </episode>
+  <episode>
+    <airingId>216</airingId>
+    <content>*First broadcast on Sep. 29, 2020.
+South Korean film, TV drama and music have been popular in Japan for some time, but more recently there's been a growing appreciation for Korean literature. One of the major contributors to that trend is Kim Seungbok, from South Korea, who set up a publishing company and bookshop in Tokyo. In a Japanophiles interview, she tells Peter Barakan about her love of books, and about her efforts to introduce the literature of her home country to a Japanese audience.</content>
+    <description>Kim Seungbok: A South Korean publisher and bookshop owner. In a Japanophiles interview, Kim tells Peter Barakan about her contribution to the booming popularity of Korean literature.</description>
+    <endDate>2021-04-15T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/eYkGTKRA#M8jGDCoFxYdfB1ZdD5xMIg</link>
+    <recordDateEnd>2021-04-15T03:00:28.694Z</recordDateEnd>
+    <recordDateStart>2021-04-15T02:29:22.583Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>f71aacd6da93af3317dcbd1d3a9246e488bb3065619408909f9e248cfd7863fd</sha256>
+    <startDate>2021-04-15T02:30:00.000Z</startDate>
+    <subtitle>Japanophiles: Kim Seungbok</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-04-15T03:54:37.423Z</uploadedDate>
   </episode>
   <episode>
     <airingId>222</airingId>
