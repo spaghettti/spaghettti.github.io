@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-16T06:45:04.271Z</lastUpdated>
+  <lastUpdated>2021-04-16T08:10:03.858Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2627,5 +2627,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-03-29T08:15:24.483Z</uploadedDate>
     <raw>https://mega.nz/folder/i4h00SqT#6hfyN4PDxnA0U6e5EXGGDg</raw>
+  </episode>
+  <episode>
+    <airingId>759</airingId>
+    <content>Pietro Bartolo is a doctor. For 30 years he treated refugees from Africa on the Italian island of Lampedusa. Now, as a Member of the European Parliament, he defends the rights of immigrants.</content>
+    <description>Pietro Bartolo is a doctor. For 30 years he treated refugees from Africa on the Italian island of Lampedusa. Now, as a Member of the European Parliament, he defends the rights of immigrants.</description>
+    <endDate>2021-04-16T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/BENAHbRa#w4NA0rfdaeG8erZ57_3oVA</link>
+    <recordDateEnd>2021-04-16T07:30:29.156Z</recordDateEnd>
+    <recordDateStart>2021-04-16T07:14:23.282Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>9d5dd668b2c83bf19e1b626ce7cf4889134faab95850a083a1d32cd9f1651b58</sha256>
+    <startDate>2021-04-16T07:15:00.000Z</startDate>
+    <subtitle>Saving Lives in the Mediterranean: Pietro Bartolo / Doctor and MEP</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-04-16T08:08:49.120Z</uploadedDate>
   </episode>
 </episodeList>
