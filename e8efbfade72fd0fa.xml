@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-16T01:55:03.704Z</lastUpdated>
+  <lastUpdated>2021-04-16T02:35:03.715Z</lastUpdated>
   <seriesId>e8efbfade72fd0fa</seriesId>
   <title>no art, no life plus</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>no art, no life plus</title>
     <uploadedDate>2021-04-09T02:26:12.270Z</uploadedDate>
     <raw>https://mega.nz/folder/uMdTyK5B#eUoJQIFHKfsGJPPJltWH2g</raw>
+  </episode>
+  <episode>
+    <airingId>003</airingId>
+    <content/>
+    <description>Outsider artists like Katsuyama Naoto are gaining recognition around the world. Although he creates mainly for himself, others have taken notice. See how these artists live and work.</description>
+    <endDate>2021-04-16T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/5FVHXQ7Y#ncCu3p1YFALMlSrAwJN1vQ</link>
+    <recordDateEnd>2021-04-16T01:55:27.816Z</recordDateEnd>
+    <recordDateStart>2021-04-16T01:44:20.099Z</recordDateStart>
+    <seriesId>6123</seriesId>
+    <sha256>3dffa9f48ba078dd6b6c25337e0534993c4622119287bf59ce2f271c7633ff64</sha256>
+    <startDate>2021-04-16T01:45:00.000Z</startDate>
+    <subtitle/>
+    <title>no art, no life plus</title>
+    <uploadedDate>2021-04-16T02:31:31.297Z</uploadedDate>
+    <raw>https://mega.nz/folder/5E1SkQAK#Y_VlXONYR-jJSUR0eGKeUg</raw>
   </episode>
   <episode>
     <airingId>008</airingId>
