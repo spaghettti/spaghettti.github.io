@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-16T02:35:03.775Z",
+  "lastUpdated": "2021-04-16T05:35:04.332Z",
   "series": [
     {
       "count": 24,
@@ -378,10 +378,10 @@
       "title": "ESPRIT JAPON"
     },
     {
-      "count": 1,
+      "count": 2,
       "uniqueId": "36ed2478bfbb56ea",
-      "lastAiring": "2020-12-17T23:30:00.000Z",
-      "lastUpload": "2020-12-25T05:36:46.693Z",
+      "lastAiring": "2021-04-16T02:30:00.000Z",
+      "lastUpload": "2021-04-16T05:33:17.378Z",
       "seriesId": "7000",
       "title": "Explore Japan"
     },

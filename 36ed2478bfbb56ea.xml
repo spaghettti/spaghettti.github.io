@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-16T02:35:03.733Z</lastUpdated>
+  <lastUpdated>2021-04-16T05:35:04.293Z</lastUpdated>
   <seriesId>36ed2478bfbb56ea</seriesId>
   <title>Explore Japan</title>
   <episode>
@@ -19,5 +19,21 @@
     <title>Explore Japan</title>
     <uploadedDate>2020-12-25T05:36:46.693Z</uploadedDate>
     <raw>https://mega.nz/folder/L9liWYpa#BDteN2KPKmGmAdwOk_9OvQ</raw>
+  </episode>
+  <episode>
+    <airingId>487</airingId>
+    <content/>
+    <description>The Manufacturing Spirit and Sustainability: Featuring artisans who are working to preserve time-honored crafts and clues into how a sustainable society can be achieved.</description>
+    <endDate>2021-04-16T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/wclUzJoY#_q2kt16bvD6u4nZuNM07dw</link>
+    <recordDateEnd>2021-04-16T03:00:29.347Z</recordDateEnd>
+    <recordDateStart>2021-04-16T02:29:20.068Z</recordDateStart>
+    <seriesId>7000</seriesId>
+    <sha256>0a45dd6f2cc1fa5f42ccc906b7e04f1ce18529cb5986569f42b2ff1a81084954</sha256>
+    <startDate>2021-04-16T02:30:00.000Z</startDate>
+    <subtitle>The Manufacturing Spirit and Sustainability</subtitle>
+    <title>Explore Japan</title>
+    <uploadedDate>2021-04-16T05:33:17.378Z</uploadedDate>
+    <raw>https://mega.nz/folder/xVMiCRgT#TEn86OYcKqKFT8EAS47h6w</raw>
   </episode>
 </episodeList>
