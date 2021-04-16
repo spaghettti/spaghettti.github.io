@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-16T08:10:03.945Z",
+  "lastUpdated": "2021-04-16T17:00:04.542Z",
   "seriesId": "4002",
   "title": "Today's Close-Up",
   "episodes": [
@@ -242,6 +242,22 @@
       "title": "Today's Close-Up",
       "uploadedDate": "2021-04-09T16:23:29.488Z",
       "raw": "https://mega.nz/folder/aBZnxIYZ#e4SAQ8kq44DhfXpmB10h0A"
+    },
+    {
+      "airingId": "823",
+      "content": "It's been more than a year since the start of the coronavirus pandemic. An NHK survey has found that thousands of children in Japan have missed school due to virus-related health concerns. At the same time, major cities and municipalities have been slow to roll out online learning programs. As a result, many of these \"voluntarily absent\" students are falling behind their peers. We asked them to describe their experiences of the past year, and how they feel about spending so much time away from the classroom.\nGuest:\nSuetomi Kaori (Professor, Nihon University)",
+      "description": "More than 7,000 students in Japan have missed time from school due to coronavirus-related health concerns. We take a look at the challenges they face as they try to keep up with their classmates.",
+      "endDate": "2021-04-16T15:00:00.000Z",
+      "link": "https://mega.nz/folder/qFlECbjA#yMqKvQ2dgk5Zj1hSEHcAZw",
+      "recordDateEnd": "2021-04-16T15:00:29.571Z",
+      "recordDateStart": "2021-04-16T14:29:20.099Z",
+      "seriesId": "4002",
+      "sha256": "e3f3066497f982cd740e2c3b52bf3f1493564518ea89ebda8803abdfc953aef7",
+      "startDate": "2021-04-16T14:30:00.000Z",
+      "subtitle": "Lost Education: \"Voluntarily Absent\" During the Pandemic",
+      "title": "Today's Close-Up",
+      "uploadedDate": "2021-04-16T16:56:44.834Z",
+      "raw": "https://mega.nz/folder/uEliQbCB#zs26D0f7E4KSFx1PazkQFQ"
     }
   ]
 }

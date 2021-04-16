@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-16T08:10:03.944Z</lastUpdated>
+  <lastUpdated>2021-04-16T17:00:04.540Z</lastUpdated>
   <seriesId>a5fed3c217d7b7f6</seriesId>
   <title>Today's Close-Up</title>
   <episode>
@@ -281,5 +281,23 @@ Maeda Yuji (CEO, SHOWROOM)</content>
     <title>Today's Close-Up</title>
     <uploadedDate>2021-04-09T16:23:29.488Z</uploadedDate>
     <raw>https://mega.nz/folder/aBZnxIYZ#e4SAQ8kq44DhfXpmB10h0A</raw>
+  </episode>
+  <episode>
+    <airingId>823</airingId>
+    <content>It's been more than a year since the start of the coronavirus pandemic. An NHK survey has found that thousands of children in Japan have missed school due to virus-related health concerns. At the same time, major cities and municipalities have been slow to roll out online learning programs. As a result, many of these "voluntarily absent" students are falling behind their peers. We asked them to describe their experiences of the past year, and how they feel about spending so much time away from the classroom.
+Guest:
+Suetomi Kaori (Professor, Nihon University)</content>
+    <description>More than 7,000 students in Japan have missed time from school due to coronavirus-related health concerns. We take a look at the challenges they face as they try to keep up with their classmates.</description>
+    <endDate>2021-04-16T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/qFlECbjA#yMqKvQ2dgk5Zj1hSEHcAZw</link>
+    <recordDateEnd>2021-04-16T15:00:29.571Z</recordDateEnd>
+    <recordDateStart>2021-04-16T14:29:20.099Z</recordDateStart>
+    <seriesId>4002</seriesId>
+    <sha256>e3f3066497f982cd740e2c3b52bf3f1493564518ea89ebda8803abdfc953aef7</sha256>
+    <startDate>2021-04-16T14:30:00.000Z</startDate>
+    <subtitle>Lost Education: "Voluntarily Absent" During the Pandemic</subtitle>
+    <title>Today's Close-Up</title>
+    <uploadedDate>2021-04-16T16:56:44.834Z</uploadedDate>
+    <raw>https://mega.nz/folder/uEliQbCB#zs26D0f7E4KSFx1PazkQFQ</raw>
   </episode>
 </episodeList>
