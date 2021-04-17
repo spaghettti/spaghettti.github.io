@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-17T12:30:04.304Z</lastUpdated>
+  <lastUpdated>2021-04-17T12:55:03.811Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -67,6 +67,21 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-04-10T08:05:00.501Z</uploadedDate>
     <raw>https://mega.nz/folder/WZFE2ThB#AAzCoPC6Z38MP8YrtAkEcw</raw>
+  </episode>
+  <episode>
+    <airingId>005</airingId>
+    <content/>
+    <description>#5 I studied by listening to the radio. / Explain how you learned Japanese by putting "de" after the method you used. For example, "rajio de", meaning "by listening to the radio".</description>
+    <endDate>2021-04-17T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/2A1FDCJK#JKA9O54BwQw8zDvzVdOOIA</link>
+    <recordDateEnd>2021-04-17T05:00:22.455Z</recordDateEnd>
+    <recordDateStart>2021-04-17T04:54:22.684Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>13d4597de0c07420eb5c7b3541c0824271767e326151532551d5ee7cf658adef</sha256>
+    <startDate>2021-04-17T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-04-17T12:52:33.580Z</uploadedDate>
   </episode>
   <episode>
     <airingId>014</airingId>
