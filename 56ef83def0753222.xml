@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-17T16:20:03.609Z</lastUpdated>
+  <lastUpdated>2021-04-17T18:40:03.446Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -372,5 +372,20 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <title>NHK Documentary</title>
     <uploadedDate>2021-04-11T01:23:46.697Z</uploadedDate>
     <raw>https://mega.nz/folder/8toRwSZQ#GpsODMtxX4IQGvinQwGc_Q</raw>
+  </episode>
+  <episode>
+    <airingId>390</airingId>
+    <content>In this two-part investigative report, NHK delves into scientific data and social media posts in search of clues to the origins of the new coronavirus. Part 2 looks into early transmission: how was the virus able to spread across the world so quickly? We examine the 3 weeks after authorities in Wuhan announced an outbreak in late December 2019.</content>
+    <description>In this two-part investigative report, NHK delves into scientific data and social media posts in search of clues to the origins of the new coronavirus.</description>
+    <endDate>2021-04-17T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/GIlGGS5I#fJjYcaKExyAMcjEYYEr1WA</link>
+    <recordDateEnd>2021-04-17T16:00:24.247Z</recordDateEnd>
+    <recordDateStart>2021-04-17T15:09:20.083Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>af5f97e109f626adc47f15135ee1aa7af0a0e1f8bdb70776a8e487330d26ef11</sha256>
+    <startDate>2021-04-17T15:10:00.000Z</startDate>
+    <subtitle>Origins of the Pandemic: Part 2 Uncontrolled Spread</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2021-04-17T18:39:33.401Z</uploadedDate>
   </episode>
 </episodeList>

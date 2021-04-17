@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-17T16:20:03.611Z",
+  "lastUpdated": "2021-04-17T18:40:03.447Z",
   "seriesId": "3016,4001",
   "title": "NHK Documentary",
   "episodes": [
@@ -370,6 +370,21 @@
       "title": "NHK Documentary",
       "uploadedDate": "2021-04-11T01:23:46.697Z",
       "raw": "https://mega.nz/folder/8toRwSZQ#GpsODMtxX4IQGvinQwGc_Q"
+    },
+    {
+      "airingId": "390",
+      "content": "In this two-part investigative report, NHK delves into scientific data and social media posts in search of clues to the origins of the new coronavirus. Part 2 looks into early transmission: how was the virus able to spread across the world so quickly? We examine the 3 weeks after authorities in Wuhan announced an outbreak in late December 2019.",
+      "description": "In this two-part investigative report, NHK delves into scientific data and social media posts in search of clues to the origins of the new coronavirus.",
+      "endDate": "2021-04-17T16:00:00.000Z",
+      "link": "https://mega.nz/folder/GIlGGS5I#fJjYcaKExyAMcjEYYEr1WA",
+      "recordDateEnd": "2021-04-17T16:00:24.247Z",
+      "recordDateStart": "2021-04-17T15:09:20.083Z",
+      "seriesId": "4001",
+      "sha256": "af5f97e109f626adc47f15135ee1aa7af0a0e1f8bdb70776a8e487330d26ef11",
+      "startDate": "2021-04-17T15:10:00.000Z",
+      "subtitle": "Origins of the Pandemic: Part 2 Uncontrolled Spread",
+      "title": "NHK Documentary",
+      "uploadedDate": "2021-04-17T18:39:33.401Z"
     }
   ]
 }
