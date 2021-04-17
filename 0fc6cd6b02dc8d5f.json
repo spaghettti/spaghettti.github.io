@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-16T17:00:04.470Z",
+  "lastUpdated": "2021-04-17T03:10:04.117Z",
   "seriesId": "2065",
   "title": "Anime Supernova",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "Anime Supernova",
       "uploadedDate": "2021-03-28T10:58:44.312Z",
       "raw": "https://mega.nz/folder/q0YClRRI#PIDO2XvG5kldbglN4oIhUg"
+    },
+    {
+      "airingId": "015",
+      "content": "Keisuke Matsumoto has a passionate online fan base thanks to his 2 ongoing web animated series. His works are known for their cute characters and comic dialogue, which is inspired by a Japanese two-person comedy routine known as Manzai.",
+      "description": "Keisuke Matsumoto has taken Japan by storm with his 2 ongoing web animated series, which feature cute characters and comic dialogue inspired by a Japanese two-person comedy routine known as Manzai.",
+      "endDate": "2021-04-17T02:25:00.000Z",
+      "link": "https://mega.nz/folder/RI9hlaQK#zEDK_fLDS4dJiXfVhmM2vA",
+      "recordDateEnd": "2021-04-17T02:25:34.682Z",
+      "recordDateStart": "2021-04-17T02:09:20.022Z",
+      "seriesId": "2065",
+      "sha256": "3eda7a2dc59d44423d0fd91f4c8e8f7a5af00a64de8705059060d09675d2dfda",
+      "startDate": "2021-04-17T02:10:00.000Z",
+      "subtitle": "Comical Shenanigans on the Web",
+      "title": "Anime Supernova",
+      "uploadedDate": "2021-04-17T03:08:41.530Z"
     },
     {
       "airingId": "019",
