@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-17T12:55:03.809Z</lastUpdated>
+  <lastUpdated>2021-04-17T13:00:04.168Z</lastUpdated>
   <seriesId>3bee8422e8005b98</seriesId>
   <title>PythagoraSwitch mini</title>
   <episode>
@@ -339,5 +339,21 @@
     <title>PythagoraSwitch mini</title>
     <uploadedDate>2021-04-10T06:31:07.063Z</uploadedDate>
     <raw>https://mega.nz/folder/PI9Q2JDC#KZJGaB6iho5QkGlQDKcpBg</raw>
+  </episode>
+  <episode>
+    <airingId>038</airingId>
+    <content/>
+    <description>There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time "A New Creature"...</description>
+    <endDate>2021-04-17T06:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ipoyCQaa#yvU6EVSa8AQxuScF31V4qA</link>
+    <recordDateEnd>2021-04-17T06:00:29.113Z</recordDateEnd>
+    <recordDateStart>2021-04-17T05:54:20.138Z</recordDateStart>
+    <seriesId>6021</seriesId>
+    <sha256>8d77383ab9848d3d718056957d0c803c1ddea3085c801e535a03287b68ac0767</sha256>
+    <startDate>2021-04-17T05:55:00.000Z</startDate>
+    <subtitle/>
+    <title>PythagoraSwitch mini</title>
+    <uploadedDate>2021-04-17T12:59:59.076Z</uploadedDate>
+    <raw>https://mega.nz/folder/mQwwRLJZ#0h3UzCCVdJS92U2RA4evcw</raw>
   </episode>
 </episodeList>
