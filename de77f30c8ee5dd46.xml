@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-17T03:10:04.195Z</lastUpdated>
+  <lastUpdated>2021-04-17T04:20:04.140Z</lastUpdated>
   <seriesId>de77f30c8ee5dd46</seriesId>
   <title>Darwin's Amazing Animals</title>
   <episode>
@@ -163,5 +163,20 @@
     <title>Darwin's Amazing Animals</title>
     <uploadedDate>2021-03-23T22:10:17.735Z</uploadedDate>
     <raw>https://mega.nz/folder/rhxgSbAI#HVqgm6ra9wt84DeXodA9wg</raw>
+  </episode>
+  <episode>
+    <airingId>053</airingId>
+    <content>The Darwin team has been closely following a large pride of lions over the years. The juveniles, so carefree in their youth, now find themselves in school, just like children. They attend a range of classes to learn hunting, parenting and dealing with rivals. Female students show initiative, while the boys mostly lie around. In response, some of the instructors dole out a range of punishments including scoldings ... and expulsions! Find out what it means to "get schooled" in the "mane" subject!</content>
+    <description>Lion school? The Darwin team found just that in the African savanna. Juveniles learn hunting, parenting and dealing with rivals. Be warned: lion around can get you schooled in the mane subject.</description>
+    <endDate>2021-04-17T02:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/gIcCnBrA#6wr10536mrJfGZs76QuqOg</link>
+    <recordDateEnd>2021-04-17T02:50:28.361Z</recordDateEnd>
+    <recordDateStart>2021-04-17T02:24:22.676Z</recordDateStart>
+    <seriesId>4030</seriesId>
+    <sha256>0903ceae754862b20294c7b9f5ce74b3d435f87837be94e916050555be5f3cfb</sha256>
+    <startDate>2021-04-17T02:25:00.000Z</startDate>
+    <subtitle>School Pride -- Lion, Tanzania</subtitle>
+    <title>Darwin's Amazing Animals</title>
+    <uploadedDate>2021-04-17T04:16:16.339Z</uploadedDate>
   </episode>
 </episodeList>
