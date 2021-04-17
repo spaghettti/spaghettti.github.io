@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-17T04:20:04.117Z</lastUpdated>
+  <lastUpdated>2021-04-17T09:45:04.032Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
   <episode>
@@ -323,6 +323,23 @@
     <title>NHK WORLD PRIME</title>
     <uploadedDate>2021-04-03T09:03:14.180Z</uploadedDate>
     <raw>https://mega.nz/folder/tcMg2BQa#OqyTwzkc2wqLAcPuN3OidQ</raw>
+  </episode>
+  <episode>
+    <airingId>094</airingId>
+    <content>It's said that victims of war die a second time if their remains aren't returned to their families. This is the case for over one million Japanese nationals who were killed during World War II. And recent reporting has revealed serious flaws in the government's repatriation efforts.
+The award-winning 2019 program and related reporting by NHK triggered a change in government policy. The English version is edited to reflect this development.</content>
+    <description>The remains of over a million people killed in World War Two have not been returned to their families in Japan. Recent reporting reveals serious flaws in government efforts to repatriate war remains.</description>
+    <endDate>2021-04-17T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/j4wzkSYZ#MWwjejpfGDEH7UnmOddRLA</link>
+    <recordDateEnd>2021-04-17T02:00:29.966Z</recordDateEnd>
+    <recordDateStart>2021-04-17T01:09:23.580Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>3a3e9dc84f9b385c53e5c8a5e05debb5d95571194cd1e1957a269b0cc5d25a47</sha256>
+    <startDate>2021-04-17T01:10:00.000Z</startDate>
+    <subtitle>"War Victims Die Twice"</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2021-04-17T09:40:54.277Z</uploadedDate>
+    <raw>https://mega.nz/folder/nQwjhCzT#k-fFqMTPVWsc5Jys4C9a_w</raw>
   </episode>
   <episode>
     <airingId>095</airingId>
