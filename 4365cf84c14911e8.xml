@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-17T13:10:04.178Z</lastUpdated>
+  <lastUpdated>2021-04-17T16:20:03.606Z</lastUpdated>
   <seriesId>4365cf84c14911e8</seriesId>
   <title>BIZ STREAM</title>
   <episode>
@@ -306,6 +306,22 @@ Airlines around the world are reeling as travelers stay home amid the pandemic. 
     <title>BIZ STREAM</title>
     <uploadedDate>2021-04-10T16:26:04.069Z</uploadedDate>
     <raw>https://mega.nz/folder/3RRSlZzb#DzTjoimbHNyYFdWoD130BQ</raw>
+  </episode>
+  <episode>
+    <airingId>100</airingId>
+    <content>[On-Site Report]
+This episode highlights efforts to reduce food loss and food waste by implementing clever ideas and new technologies. A startup has developed a way to turn vegetables with cosmetic imperfections that would normally be thrown away into a new type of dry food product. Another business is teaching restaurants and other clients special freezing and unthawing techniques that can preserve the texture and flavor of almost any food.</content>
+    <description>This episode features companies looking to reduce food loss and waste. One has discovered innovative freezing and unthawing methods and another is turning unwanted produce into a new dry food item.</description>
+    <endDate>2021-04-17T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/CN9GgDaZ#CvQrpx355zrKZIHsAfq9QQ</link>
+    <recordDateEnd>2021-04-17T14:40:27.208Z</recordDateEnd>
+    <recordDateStart>2021-04-17T14:09:20.099Z</recordDateStart>
+    <seriesId>2074</seriesId>
+    <sha256>5449ebdd8fd1ec06c8b1c130286fd8fe73335ebe749b373e8bc206f7de3587f4</sha256>
+    <startDate>2021-04-17T14:10:00.000Z</startDate>
+    <subtitle>Saving Good Food from a Bad Ending</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2021-04-17T16:16:31.840Z</uploadedDate>
   </episode>
   <episode>
     <airingId>704</airingId>
