@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-17T10:20:03.334Z</lastUpdated>
+  <lastUpdated>2021-04-17T11:55:03.793Z</lastUpdated>
   <seriesId>be55ba93c748813c</seriesId>
   <title>COOL JAPAN</title>
   <episode>
@@ -227,5 +227,21 @@
     <title>COOL JAPAN</title>
     <uploadedDate>2021-03-13T07:37:50.102Z</uploadedDate>
     <raw>https://mega.nz/folder/SkAH1apQ#ithZoDebxHokVSfssTJPsQ</raw>
+  </episode>
+  <episode>
+    <airingId>251</airingId>
+    <content>Various Japanese foods such as sushi and ramen have become popular around the world, and the category of Japanese food that the world is currently focused on is Teishoku. In just 10 years, a Japanese Teishoku chain restaurant has opened 110 restaurants in 8 countries around the world. They are always fully occupied in New York, and you'll be waiting for a few hours if you don't have a reservation. The secret to Teishoku's popularity is their cheapness and nutritional balance. In comparison to foreign cuisine, which has many single dish items and course meals on the menu, Teishoku are popular for allowing you to eat many dishes at the same time and being healthy due to there being many vegetables. We investigate the appeals hidden in Japan's Teishoku.</content>
+    <description>Teishoku, the standard set meals served in Japan, are starting to gain popularity overseas. The panelists visit various places serving teishoku and discuss what makes the format unique and attractive.</description>
+    <endDate>2021-04-17T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/f4A1WYpS#cPYJA8sBKnctd1FRu6mHbg</link>
+    <recordDateEnd>2021-04-17T04:55:28.705Z</recordDateEnd>
+    <recordDateStart>2021-04-17T04:09:20.129Z</recordDateStart>
+    <seriesId>4008</seriesId>
+    <sha256>b0ffdf6e1111059c1c37bb30ebd319232a70116d7da04a77e5aa29d177687073</sha256>
+    <startDate>2021-04-17T04:10:00.000Z</startDate>
+    <subtitle>Teishoku</subtitle>
+    <title>COOL JAPAN</title>
+    <uploadedDate>2021-04-17T11:50:09.916Z</uploadedDate>
+    <raw>https://mega.nz/folder/09RFmI6B#-FhqyDAF-2jmsPv2ktn4Xg</raw>
   </episode>
 </episodeList>
