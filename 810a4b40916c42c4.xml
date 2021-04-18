@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-18T05:05:04.042Z</lastUpdated>
+  <lastUpdated>2021-04-18T05:50:03.519Z</lastUpdated>
   <seriesId>810a4b40916c42c4</seriesId>
   <title>Hometown Stories</title>
   <episode>
@@ -243,5 +243,21 @@
     <title>Hometown Stories</title>
     <uploadedDate>2021-04-04T03:44:42.178Z</uploadedDate>
     <raw>https://mega.nz/folder/2ZFlDYgS#h1E44SGCmTpO5JyQK57wGw</raw>
+  </episode>
+  <episode>
+    <airingId>164</airingId>
+    <content>Hirosaki Park in northern Japan is one of the country's finest cherry blossom sites. Nowhere in the world do cherry trees bloom so fully and close together. The overwhelming density of the striking pink flowers is a result of the region's distinctive pruning techniques. Showers of petals in the wind and the blanket of fallen blossoms that covers the park's moats, are astonishing to see. Using drones as well as high-speed and time-lapse filming techniques, the program is shot with high-definition cameras capturing the beautiful, shifting life cycle of the flowers.</content>
+    <description>Hirosaki Park in Northern Japan is one of the country's best-known cherry blossom sites. Our cameras capture the life of the blossoms, from their densely packed peak to the beauty of their falling.</description>
+    <endDate>2021-04-18T01:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/gElmySpB#GeGBQhp_qAqSg5mF2MDgBA</link>
+    <recordDateEnd>2021-04-18T01:40:33.332Z</recordDateEnd>
+    <recordDateStart>2021-04-18T01:09:20.040Z</recordDateStart>
+    <seriesId>5003</seriesId>
+    <sha256>5861e7fba5b256dadb46b64a32e4487df10a0c8e82ff1c32abbf4b605ac829c0</sha256>
+    <startDate>2021-04-18T01:10:00.000Z</startDate>
+    <subtitle>Spring Splendor in Hirosaki</subtitle>
+    <title>Hometown Stories</title>
+    <uploadedDate>2021-04-18T05:47:39.337Z</uploadedDate>
+    <raw>https://mega.nz/folder/6Jh0zRRT#6UC4d_ytF80FfjR-Ca25tA</raw>
   </episode>
 </episodeList>

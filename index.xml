@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-18T05:05:04.163Z</lastUpdated>
+  <lastUpdated>2021-04-18T05:50:03.628Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -531,10 +531,10 @@
     <title>Home Sweet Tokyo</title>
   </series>
   <series>
-    <count>15</count>
+    <count>16</count>
     <uniqueId>810a4b40916c42c4</uniqueId>
-    <lastAiring>2021-04-04T01:10:00.000Z</lastAiring>
-    <lastUpload>2021-04-04T03:44:42.178Z</lastUpload>
+    <lastAiring>2021-04-18T01:10:00.000Z</lastAiring>
+    <lastUpload>2021-04-18T05:47:39.337Z</lastUpload>
     <seriesId>5003</seriesId>
     <title>Hometown Stories</title>
   </series>
