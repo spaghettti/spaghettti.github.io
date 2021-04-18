@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-18T02:55:03.794Z</lastUpdated>
+  <lastUpdated>2021-04-18T03:10:03.318Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
   <episode>
@@ -355,5 +355,20 @@
     <title>Doki Doki! NHK WORLD-JAPAN</title>
     <uploadedDate>2021-04-11T04:19:34.858Z</uploadedDate>
     <raw>https://mega.nz/folder/jI1wQKhJ#VqcG8VIvjwaipBm0dF2LTQ</raw>
+  </episode>
+  <episode>
+    <airingId>086</airingId>
+    <content/>
+    <description>This time we introduce "Japanology Plus," which guides the world of Ukiyo-e. Peter Barakan, MC of the show, learns reading a story from a paint and experiences drawing an Ukiyo-e.</description>
+    <endDate>2021-04-18T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/PUww1KaB#p3mw_E0LLP30sccXQeXq-w</link>
+    <recordDateEnd>2021-04-18T03:00:31.887Z</recordDateEnd>
+    <recordDateStart>2021-04-18T02:54:20.005Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>732e8682aff9de705cc8ba11e614cc9ec94a3e8b188f031bd7f116c7b9cfb798</sha256>
+    <startDate>2021-04-18T02:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2021-04-18T03:09:14.729Z</uploadedDate>
   </episode>
 </episodeList>
