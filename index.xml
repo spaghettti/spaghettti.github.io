@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-18T03:30:04.600Z</lastUpdated>
+  <lastUpdated>2021-04-18T04:00:05.159Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -395,10 +395,10 @@
     <title>EXTREME JAPAN</title>
   </series>
   <series>
-    <count>8</count>
+    <count>9</count>
     <uniqueId>c2cfe904ce7ecfa5</uniqueId>
-    <lastAiring>2021-03-28T01:10:00.000Z</lastAiring>
-    <lastUpload>2021-03-28T02:52:23.825Z</lastUpload>
+    <lastAiring>2021-04-18T02:10:00.000Z</lastAiring>
+    <lastUpload>2021-04-18T03:58:42.926Z</lastUpload>
     <seriesId>2043</seriesId>
     <title>Face To Face</title>
   </series>

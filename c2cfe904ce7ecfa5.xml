@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-18T03:30:04.370Z</lastUpdated>
+  <lastUpdated>2021-04-18T04:00:04.896Z</lastUpdated>
   <seriesId>c2cfe904ce7ecfa5</seriesId>
   <title>Face To Face</title>
   <episode>
@@ -83,6 +83,21 @@
     <title>Face To Face</title>
     <uploadedDate>2021-02-22T00:54:08.544Z</uploadedDate>
     <raw>https://mega.nz/folder/bIlRHYbT#8OCnE-CF6lLjMlW9xVOD9A</raw>
+  </episode>
+  <episode>
+    <airingId>057</airingId>
+    <content>Symbolic of Japanese tradition and culture and imbued with the spirit of the samurai, the Japanese sword is both a deadly weapon and a work of art. Yoshihara Yoshindo is considered to be the greatest swordsmith alive. His works are displayed at New York's Metropolitan Museum of Art and Boston's Museum of Fine Arts. Using techniques developed 1,000 years ago, he continues to forge swords at his small workshop in Tokyo. Why? Find out the answer to this and more on Face To Face.</content>
+    <description>Yoshihara Yoshindo is considered to be the greatest swordsmith alive. He forges masterpieces using techniques developed 1,000 years ago. He shares his thoughts on the art of the Japanese sword.</description>
+    <endDate>2021-04-18T02:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/7FkGFAjb#liFOEF2IxHRj2gBLZ74JNw</link>
+    <recordDateEnd>2021-04-18T02:40:27.726Z</recordDateEnd>
+    <recordDateStart>2021-04-18T02:09:20.102Z</recordDateStart>
+    <seriesId>2043</seriesId>
+    <sha256>91eb232b6e215b2b2229ec1c6aaec7103806960072187c604e7fecbe492ff957</sha256>
+    <startDate>2021-04-18T02:10:00.000Z</startDate>
+    <subtitle>Yoshihara Yoshindo: The Art of the Japanese Sword</subtitle>
+    <title>Face To Face</title>
+    <uploadedDate>2021-04-18T03:58:42.926Z</uploadedDate>
   </episode>
   <episode>
     <airingId>063</airingId>
