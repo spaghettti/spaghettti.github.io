@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-18T09:00:04.440Z",
+  "lastUpdated": "2021-04-18T16:40:03.389Z",
   "seriesId": "2080",
   "title": "SONGS OF TOKYO",
   "episodes": [
@@ -98,6 +98,21 @@
       "title": "SONGS OF TOKYO",
       "uploadedDate": "2021-03-24T08:21:16.796Z",
       "raw": "https://mega.nz/folder/q1swSZLT#M3e3YjNBPKiVnAgJDRRlyQ"
+    },
+    {
+      "airingId": "022",
+      "content": "Showcasing Japanese music to the world. Featuring live performances by some of Japan's leading J-POP singers and musicians.",
+      "description": "Sakurazaka 46 performs three of their latest singles, each with a different member taking the center position. Tune in to see for yourself how they have evolved five years since formation.",
+      "endDate": "2021-04-18T15:40:00.000Z",
+      "link": "https://mega.nz/folder/BpwTwQAQ#XguIB6dc1NFPRGblr5uCbg",
+      "recordDateEnd": "2021-04-18T15:40:27.055Z",
+      "recordDateStart": "2021-04-18T15:09:20.099Z",
+      "seriesId": "2080",
+      "sha256": "e02ed7809a1715a3c3c927b572e983f77eab7f036499b80aa3bd60a8ee0a2fdb",
+      "startDate": "2021-04-18T15:10:00.000Z",
+      "subtitle": "#21 Sakurazaka46",
+      "title": "SONGS OF TOKYO",
+      "uploadedDate": "2021-04-18T16:37:42.399Z"
     }
   ]
 }
