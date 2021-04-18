@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-18T16:40:03.562Z</lastUpdated>
+  <lastUpdated>2021-04-18T17:50:04.041Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -627,10 +627,10 @@
     <title>Japan's Top Inventions</title>
   </series>
   <series>
-    <count>18</count>
+    <count>19</count>
     <uniqueId>a8827721852d236d</uniqueId>
-    <lastAiring>2021-04-11T15:45:00.000Z</lastAiring>
-    <lastUpload>2021-04-11T18:08:46.998Z</lastUpload>
+    <lastAiring>2021-04-18T15:45:00.000Z</lastAiring>
+    <lastUpload>2021-04-18T17:46:16.649Z</lastUpload>
     <seriesId>6210</seriesId>
     <title>Japan-easy</title>
   </series>
