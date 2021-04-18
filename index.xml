@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-18T03:25:03.565Z</lastUpdated>
+  <lastUpdated>2021-04-18T03:30:04.600Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -419,10 +419,10 @@
     <title>Flowers Will Bloom in Tohoku</title>
   </series>
   <series>
-    <count>18</count>
+    <count>19</count>
     <uniqueId>3ade7fb84e8cc130</uniqueId>
-    <lastAiring>2021-03-27T04:10:00.000Z</lastAiring>
-    <lastUpload>2021-03-28T05:09:06.435Z</lastUpload>
+    <lastAiring>2021-04-18T02:40:00.000Z</lastAiring>
+    <lastUpload>2021-04-18T03:26:41.870Z</lastUpload>
     <seriesId>6101</seriesId>
     <title>Four Seasons in Japan</title>
   </series>

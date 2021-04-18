@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-18T03:25:03.522Z",
+  "lastUpdated": "2021-04-18T03:30:04.558Z",
   "seriesId": "6101",
   "title": "Four Seasons in Japan",
   "episodes": [
@@ -226,6 +226,21 @@
       "title": "Four Seasons in Japan",
       "uploadedDate": "2021-03-28T05:09:06.435Z",
       "raw": "https://mega.nz/folder/6ZMA0LaI#fcRrnsK0PMfapFYdIHbLRg"
+    },
+    {
+      "airingId": "058",
+      "content": "",
+      "description": "This program takes you to the island of Tokunoshima, home to ancient species of flora and fauna found nowhere else in the world, including the Amami rabbit, crocodile newt, and poisonous habu.",
+      "endDate": "2021-04-18T02:50:00.000Z",
+      "link": "https://mega.nz/folder/7MAmzZYR#Pu4XocIlg0H206JMoivOrg",
+      "recordDateEnd": "2021-04-18T02:50:29.008Z",
+      "recordDateStart": "2021-04-18T02:39:20.003Z",
+      "seriesId": "6101",
+      "sha256": "505907f7b169741b73c79a0d3d38b32a7ccc4ccf6bdb90cda80ee5eb1063d424",
+      "startDate": "2021-04-18T02:40:00.000Z",
+      "subtitle": "",
+      "title": "Four Seasons in Japan",
+      "uploadedDate": "2021-04-18T03:26:41.870Z"
     },
     {
       "airingId": "061",
