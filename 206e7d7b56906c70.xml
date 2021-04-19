@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-19T02:10:03.548Z</lastUpdated>
+  <lastUpdated>2021-04-19T03:55:03.897Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -355,5 +355,21 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2021-03-01T01:04:46.244Z</uploadedDate>
     <raw>https://mega.nz/folder/yxsBySJB#61nwBAw-MzDWqvHbQCGD6Q</raw>
+  </episode>
+  <episode>
+    <airingId>135</airingId>
+    <content>The annual prayers at Shinto shrines in Japan at New Year's in 2021 were different than usual. It was a new year that started with anxiety and wishes. In the tourist town of Asakusa, which is centered around Sensoji Temple, foreign tourists have disappeared. To revive the town, people join hands. Kanda Shrine has accepted worshippers by keeping social distance. Prayers are offered to Jesus Christ too. In this episode, we look at people who started the year 2021 with prayers.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</description>
+    <endDate>2021-04-19T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/yU8lUIJR#dnN36LbKcViZ41gcfmKRyw</link>
+    <recordDateEnd>2021-04-19T03:00:25.594Z</recordDateEnd>
+    <recordDateStart>2021-04-19T02:29:22.745Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>bdcbc9da07ca7b9acf1fa70644aa5e7f256a7cbfc373914eb682b3da8972ba5c</sha256>
+    <startDate>2021-04-19T02:30:00.000Z</startDate>
+    <subtitle>Tokyo 2021: A Year of Prayers</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-04-19T03:53:31.348Z</uploadedDate>
+    <raw>https://mega.nz/folder/3QpiUSqJ#ZeKMqHPYNOxXYuLUQxErnA</raw>
   </episode>
 </episodeList>
