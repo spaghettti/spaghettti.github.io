@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-19T06:45:04.360Z</lastUpdated>
+  <lastUpdated>2021-04-19T08:00:05.231Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -979,6 +979,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-04-13T07:51:43.704Z</uploadedDate>
     <raw>https://mega.nz/folder/YwgQ3JKT#OB1AXWzx8Gce6TmPQk2sMQ</raw>
+  </episode>
+  <episode>
+    <airingId>633</airingId>
+    <content>Ceramic artist Kuwata Takuro is known for using experimental procedures to produce startling, one-of-a-kind work. He has exhibited all over the world. He talks about his creative process.</content>
+    <description>Ceramic Artist Kuwata Takuro is known for using experimental procedures to produce startling, one-of-a-kind work. He has exhibited all over the world. He talks about his creative process.</description>
+    <endDate>2021-04-19T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/jItWiJRa#JXLSSfQsy0pX1kiNaTPcMg</link>
+    <recordDateEnd>2021-04-19T07:30:28.651Z</recordDateEnd>
+    <recordDateStart>2021-04-19T07:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>c1962ccf32b26585fc719fdc1e3fcc67d97f63e65adbf90636ad8bb42e47c3fe</sha256>
+    <startDate>2021-04-19T07:15:00.000Z</startDate>
+    <subtitle>Ceramic Marvels: Kuwata Takuro / Ceramic Artist</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-04-19T07:59:56.553Z</uploadedDate>
+    <raw>https://mega.nz/folder/6N8SAD5Z#Tdf8hFqQI0Mb1n9U5lMMZQ</raw>
   </episode>
   <episode>
     <airingId>636</airingId>
