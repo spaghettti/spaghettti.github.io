@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-19T01:50:04.456Z</lastUpdated>
+  <lastUpdated>2021-04-19T02:10:03.824Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -115,10 +115,10 @@
     <title>BEGIN Japanology mini</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>e5a5b6a12ffc2a6e</uniqueId>
-    <lastAiring>2021-03-08T00:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-08T01:54:34.981Z</lastUpload>
+    <lastAiring>2021-04-19T01:30:00.000Z</lastAiring>
+    <lastUpload>2021-04-19T02:07:19.657Z</lastUpload>
     <seriesId>2077</seriesId>
     <title>BENTO EXPO</title>
   </series>

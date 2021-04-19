@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-19T01:50:04.245Z</lastUpdated>
+  <lastUpdated>2021-04-19T02:10:03.652Z</lastUpdated>
   <seriesId>e5a5b6a12ffc2a6e</seriesId>
   <title>BENTO EXPO</title>
   <episode>
@@ -179,5 +179,20 @@
     <title>BENTO EXPO</title>
     <uploadedDate>2021-03-08T01:54:34.981Z</uploadedDate>
     <raw>https://mega.nz/folder/9OwiiKJD#Z906d1nKKdjheMgM3U9nlg</raw>
+  </episode>
+  <episode>
+    <airingId>031</airingId>
+    <content>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</content>
+    <description>From Marc, a crispy chicken cutlet with creamy egg sauce. Meanwhile, Maki makes a finger food version of Omurice. Bento Topics features the food culture of Japan's popular island resort, Okinawa.</description>
+    <endDate>2021-04-19T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/iYRFjC5K#fuYQAj4nPScHGD7Fz3Ii5w</link>
+    <recordDateEnd>2021-04-19T01:45:28.776Z</recordDateEnd>
+    <recordDateStart>2021-04-19T01:29:20.106Z</recordDateStart>
+    <seriesId>2077</seriesId>
+    <sha256>4dd3d296052b394ba161e24a403e347b6644bf77895382c1396d7e901cff61c7</sha256>
+    <startDate>2021-04-19T01:30:00.000Z</startDate>
+    <subtitle>Season 6-1 Chicken Katsudon Bento &amp; Maki-maki Omurice Bento</subtitle>
+    <title>BENTO EXPO</title>
+    <uploadedDate>2021-04-19T02:07:19.657Z</uploadedDate>
   </episode>
 </episodeList>
