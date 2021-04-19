@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-18T17:50:03.831Z",
+  "lastUpdated": "2021-04-19T01:50:04.256Z",
   "seriesId": "2087",
   "title": "Where We Call Home",
   "episodes": [
@@ -274,6 +274,22 @@
       "title": "Where We Call Home",
       "uploadedDate": "2021-03-24T17:24:01.041Z",
       "raw": "https://mega.nz/folder/mkoQWSrS#siVgGhywallzeXdQCxlXlw"
+    },
+    {
+      "airingId": "032",
+      "content": "This episode takes us to Kyoto to meet Togo-native Kabressa Deabalo. A master tailor in his home country, he specializes in bespoke, vibrantly colored clothing. He partners with Kyoto local Nakasu Toshiharu to produce garments, each one-of-a-kind, under the brand AFURIKA DOGS. Their latest project: to create tailor-made clothes African-style using traditional handmade Kyoto fabric. We also drop by the workplace of Chinese-born Yu Mei, a popular hairstylist living as a single mother in Tokyo.",
+      "description": "We visit a Togo-born tailor in Kyoto working with a local man to create African-style one-of-a-kind garments with traditional Japanese fabrics. We also meet a Chinese hairdresser based in Tokyo.",
+      "endDate": "2021-04-19T01:00:00.000Z",
+      "link": "https://mega.nz/folder/7JYG2Tga#uJKtPJBAbZpyYCSejhyCUA",
+      "recordDateEnd": "2021-04-19T01:00:29.553Z",
+      "recordDateStart": "2021-04-19T00:29:20.099Z",
+      "seriesId": "2087",
+      "sha256": "e24e896d60c5348b84a97a7b84871990ed754eda6a449b5c3fe40483651491bc",
+      "startDate": "2021-04-19T00:30:00.000Z",
+      "subtitle": "Togo Tailored Kyoto Tradition",
+      "title": "Where We Call Home",
+      "uploadedDate": "2021-04-19T01:48:14.340Z",
+      "raw": "https://mega.nz/folder/TsYwTbjA#eRYi0gJBimdbAj0I2KMELg"
     }
   ]
 }
