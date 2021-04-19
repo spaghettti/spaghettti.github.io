@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-19T03:55:03.995Z</lastUpdated>
+  <lastUpdated>2021-04-19T05:50:04.160Z</lastUpdated>
   <seriesId>054ab52e36a50c36</seriesId>
   <title>CYCLE AROUND JAPAN  Highlights</title>
   <episode>
@@ -195,6 +195,21 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
     <uploadedDate>2021-03-04T15:52:33.424Z</uploadedDate>
     <raw>https://mega.nz/folder/W1d0iLQI#VbZvCdhdIeAp2vopNrT7MA</raw>
+  </episode>
+  <episode>
+    <airingId>026</airingId>
+    <content>Oita Prefecture has been known since ancient times as the "Land of Plenty." But why? Cyclist James Hobbs looks for answers on a 3 day, 350km ride through this southern region. His route through Oita's majestic mountains brings him in touch with a doctor carefully looking after the region's aged residents. He also visits an island of just 18 inhabitants and learns how those inhabitants are working to keep their traditions alive for the future. All that and more on this ride through the Land of Plenty!</content>
+    <description>Since ancient times, this region has always been known to the Japanese as the Land of Plenty. We discover why on a 350km cycle ride exploring Oita, its mountains, sea and islands.</description>
+    <endDate>2021-04-19T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/PVdAQTKa#HVFRjh5UEThZ6bahQd1AOQ</link>
+    <recordDateEnd>2021-04-19T05:00:25.928Z</recordDateEnd>
+    <recordDateStart>2021-04-19T04:29:20.099Z</recordDateStart>
+    <seriesId>2070</seriesId>
+    <sha256>e4379efb3b591ecb8bcb3862ecd7becdaa53e53c9c48f4a7f95a9ab2d9d62d41</sha256>
+    <startDate>2021-04-19T04:30:00.000Z</startDate>
+    <subtitle>Oita - Land of Plenty</subtitle>
+    <title>CYCLE AROUND JAPAN  Highlights</title>
+    <uploadedDate>2021-04-19T05:48:37.351Z</uploadedDate>
   </episode>
   <episode>
     <airingId>027</airingId>
