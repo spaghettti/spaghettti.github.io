@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-19T23:35:03.724Z",
+  "lastUpdated": "2021-04-19T23:40:03.747Z",
   "seriesId": "6025",
   "title": "TIME-LAPSE",
   "episodes": [
@@ -258,6 +258,21 @@
       "title": "TIME-LAPSE JAPAN TOHOKU",
       "uploadedDate": "2020-12-24T06:31:03.524Z",
       "raw": "https://mega.nz/folder/tQB0yTIT#TY0LLgry1DfxN8I6qS7v0g"
+    },
+    {
+      "airingId": "017",
+      "content": "",
+      "description": "10 years on from the 2011 tsunami and nuclear disaster, time-lapse creator Shimizu Daisuke seeks out the undiminished beauty of Fukushima. This time we focus on mountains.",
+      "endDate": "2021-04-19T23:25:00.000Z",
+      "link": "https://mega.nz/folder/NBUjDQ7Y#N-8si_Wrv69_pY1cWK_xOA",
+      "recordDateEnd": "2021-04-19T23:25:28.822Z",
+      "recordDateStart": "2021-04-19T23:19:20.102Z",
+      "seriesId": "6025",
+      "sha256": "defc07e342e74336ab405bba5878042f440edc8ae60505f59fa0c2119a2ded78",
+      "startDate": "2021-04-19T23:20:00.000Z",
+      "subtitle": "",
+      "title": "Fukushima Time-Lapse 5min.",
+      "uploadedDate": "2021-04-19T23:37:22.095Z"
     }
   ]
 }

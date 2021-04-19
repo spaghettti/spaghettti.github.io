@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-19T10:00:03.939Z</lastUpdated>
+  <lastUpdated>2021-04-19T23:40:03.832Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -1211,10 +1211,10 @@
     <title>Time to Shine: Vietnamese Technical Interns in Hokkaido</title>
   </series>
   <series>
-    <count>16</count>
-    <uniqueId>20f91db4b1d2406e</uniqueId>
-    <lastAiring>2020-12-21T23:20:00.000Z</lastAiring>
-    <lastUpload>2020-12-24T06:49:53.530Z</lastUpload>
+    <count>17</count>
+    <uniqueId>bfb245a84cea0362</uniqueId>
+    <lastAiring>2021-04-19T23:20:00.000Z</lastAiring>
+    <lastUpload>2021-04-19T23:37:22.095Z</lastUpload>
     <seriesId>6025</seriesId>
     <title>TIME-LAPSE</title>
   </series>
