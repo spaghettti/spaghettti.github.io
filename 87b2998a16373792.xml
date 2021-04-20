@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-20T10:05:03.885Z</lastUpdated>
+  <lastUpdated>2021-04-20T16:50:04.012Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -367,5 +367,22 @@ Professor Kenro Sasaki of Tohoku Medical and Pharmaceutical University</content>
     <title>Science View</title>
     <uploadedDate>2021-04-06T15:56:54.823Z</uploadedDate>
     <raw>https://mega.nz/folder/TkJDBYQK#OZ1T7FyjTijJW6nwz3I4fA</raw>
+  </episode>
+  <episode>
+    <airingId>256</airingId>
+    <content>Crows are often thought of as pests, getting into garbage and even attacking people at times. Yet crows are some of the most intelligent birds, and researchers around the world have been trying to understand them better. Recent studies have revealed amazing abilities such as comprehending the concept of quantity and making tools. Why are crows so smart? In this episode, we'll be joined by Tohto University professor and Utsunomiya University emeritus professor Shoei Sugita. Nicknamed "Dr. Crow," Sugita has been studying these birds for more than 20 years, and will share some fascinating insight into their incredible intelligence.
+Guest: Dr. Shoei Sugita, professor at Tohto University, emeritus professor at Utsunomiya University</content>
+    <description>Crows are often regarded as troublesome pests that get into garbage. Yet some of the latest research on crows may come as a surprise - they're far more intelligent than we thought!</description>
+    <endDate>2021-04-20T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ah5EDbjK#hWVzzJmbwlZGta319Dch8Q</link>
+    <recordDateEnd>2021-04-20T15:00:26.711Z</recordDateEnd>
+    <recordDateStart>2021-04-20T14:29:20.099Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>63b397a8596cb43813242d600ad08fe5b71ded981c7124653b88ba41da9a73d4</sha256>
+    <startDate>2021-04-20T14:30:00.000Z</startDate>
+    <subtitle>The Incredible Intelligence of Crows</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-04-20T16:45:05.759Z</uploadedDate>
+    <raw>https://mega.nz/folder/KMFm0ToR#H6wttsNJIN2kYrUmEW8Tpw</raw>
   </episode>
 </episodeList>
