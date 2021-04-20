@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-20T03:25:03.975Z</lastUpdated>
+  <lastUpdated>2021-04-20T04:15:04.541Z</lastUpdated>
   <seriesId>3181d5ae26726a28</seriesId>
   <title>Document 72 Hours</title>
   <episode>
@@ -339,5 +339,20 @@
     <title>Document 72 Hours</title>
     <uploadedDate>2021-04-06T04:52:00.252Z</uploadedDate>
     <raw>https://mega.nz/folder/VYlwAChS#3bycR4LsW3VqEjKhM1VL8g</raw>
+  </episode>
+  <episode>
+    <airingId>153</airingId>
+    <content>The 70-kilometer Shimanami Kaido cycling route, which links Honshu and Shikoku via a chain of bridges and islands, is a magnet for cyclists from across Japan - and even further afield. Among the people we met pedaling along this route were a father and son who come every year; a farmer reliving his youthful days on 2 wheels; and a middle-aged couple now able to spend more time together. Why is this route so special to them? For 3 days, we spoke to cyclists riding the Shimanami Kaido, come rain or shine.</content>
+    <description>Shimanami Kaido is considered a "sacred" cycling route by riders in Japan. Why is this 70-kilometer route so special to them? For 3 days, we pedaled along with cyclists of all abilities to find out.</description>
+    <endDate>2021-04-20T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/lBFWmLIC#MhQoO7KJmZ4qDPMyhkbywA</link>
+    <recordDateEnd>2021-04-20T03:00:28.596Z</recordDateEnd>
+    <recordDateStart>2021-04-20T02:29:23.139Z</recordDateStart>
+    <seriesId>4026</seriesId>
+    <sha256>e394600630ebf76de5b974eadd05a5030424b6f02190b86e79cd78c424b46ade</sha256>
+    <startDate>2021-04-20T02:30:00.000Z</startDate>
+    <subtitle>Shimanami Kaido: A Ride Along Life's Cycle</subtitle>
+    <title>Document 72 Hours</title>
+    <uploadedDate>2021-04-20T04:11:23.377Z</uploadedDate>
   </episode>
 </episodeList>
