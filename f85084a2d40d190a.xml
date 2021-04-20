@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-20T04:15:04.486Z</lastUpdated>
+  <lastUpdated>2021-04-20T05:10:04.422Z</lastUpdated>
   <seriesId>f85084a2d40d190a</seriesId>
   <title>DEEPER LOOK from New York</title>
   <episode>
@@ -227,5 +227,21 @@
     <title>DEEPER LOOK from New York</title>
     <uploadedDate>2021-04-13T05:18:33.117Z</uploadedDate>
     <raw>https://mega.nz/folder/ZgoAGaQZ#FcEQdIgqQ3QVIjxTVwxofg</raw>
+  </episode>
+  <episode>
+    <airingId>028</airingId>
+    <content>Scientists began warning us about climate change a long time ago. International discussions about reducing greenhouse gas emissions have been ongoing, but no significant steps have been taken. In the interim, temperatures keep rising in many places, and extreme weather events are more frequent. Some say it is impossible to completely withdraw from carbon energies. But Mark Jacobson has a plan to replace them with 100% clean renewables. We asked Prof. Jacobson how we can tackle this issue.</content>
+    <description>An experienced anchor has a cutting-edge dialogue on the hot issue: from politics, economy, international situation or cultural topics. A few specialists invited to NHK World JAPAN's NYC studio.</description>
+    <endDate>2021-04-20T04:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/RZND1I6K#iPRP9fvyldbQddZpGJhSAQ</link>
+    <recordDateEnd>2021-04-20T04:45:31.027Z</recordDateEnd>
+    <recordDateStart>2021-04-20T04:29:20.099Z</recordDateStart>
+    <seriesId>2085</seriesId>
+    <sha256>c0f3beda22d4c641ae4b67ca34feb055238035b74a4fe6269974051cdb99b3f5</sha256>
+    <startDate>2021-04-20T04:30:00.000Z</startDate>
+    <subtitle>Tackling Climate Change: Mark Jacobson / Professor of Civil and Environmental Engineering, Stanford University</subtitle>
+    <title>DEEPER LOOK from New York</title>
+    <uploadedDate>2021-04-20T05:09:22.233Z</uploadedDate>
+    <raw>https://mega.nz/folder/k4QxXIyK#B68JdaJUmsXvwXLtnk5-Ew</raw>
   </episode>
 </episodeList>
