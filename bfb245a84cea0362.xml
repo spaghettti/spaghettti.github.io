@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-20T16:50:04.274Z</lastUpdated>
+  <lastUpdated>2021-04-20T23:40:04.262Z</lastUpdated>
   <seriesId>bfb245a84cea0362</seriesId>
   <title>TIME-LAPSE</title>
   <episode>
@@ -275,5 +275,21 @@
     <title>Fukushima Time-Lapse 5min.</title>
     <uploadedDate>2021-04-19T23:37:22.095Z</uploadedDate>
     <raw>https://mega.nz/folder/ARVGSB6J#RIaEgfldiYwVjKyLEvSw2Q</raw>
+  </episode>
+  <episode>
+    <airingId>018</airingId>
+    <content/>
+    <description>10 years on from the 2011 tsunami and nuclear disaster, time-lapse creator Shimizu Daisuke seeks out the undiminished beauty of Fukushima. This time we focus on the coast.</description>
+    <endDate>2021-04-20T23:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/E1xS1YwT#7mdhEvByvX9H9xHWqHW9mg</link>
+    <recordDateEnd>2021-04-20T23:25:28.208Z</recordDateEnd>
+    <recordDateStart>2021-04-20T23:19:23.008Z</recordDateStart>
+    <seriesId>6025</seriesId>
+    <sha256>381ac5617138f6e5351da791a73339b87ba99f912d3d1acb19ceda42b5bbbf6e</sha256>
+    <startDate>2021-04-20T23:20:00.000Z</startDate>
+    <subtitle/>
+    <title>Fukushima Time-Lapse 5min.</title>
+    <uploadedDate>2021-04-20T23:35:12.493Z</uploadedDate>
+    <raw>https://mega.nz/folder/PBg03YAS#5C6OCEAHk5wzPEd917Hr5Q</raw>
   </episode>
 </episodeList>
