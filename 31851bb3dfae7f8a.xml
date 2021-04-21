@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-21T06:45:04.518Z</lastUpdated>
+  <lastUpdated>2021-04-21T17:10:04.159Z</lastUpdated>
   <seriesId>31851bb3dfae7f8a</seriesId>
   <title>Trails to Oishii Tokyo</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>Trails to Oishii Tokyo</title>
     <uploadedDate>2021-04-14T16:11:27.014Z</uploadedDate>
     <raw>https://mega.nz/folder/bQwSxToJ#ucHt6vrAGmRbRlEzwkSkAQ</raw>
+  </episode>
+  <episode>
+    <airingId>094</airingId>
+    <content>Today we focus on Aji, or horse mackerel, one of Japan's most popular types of fish due to it being both delicious and economical. Seki-aji is a rare fish caught in the tides of the narrow straits of Kyushu known for its outstanding umami. Experienced fishermen must read the tide and rely on their intuition. Our reporter goes out to fish with one such expert, and also visits a high-class sushi restaurant to learn about Aji sushi preparation methods that vary according to fish size.</content>
+    <description>Today we focus on AJI, or horse mackerel, one of Japan's most popular types of fish. Take a look at some umami-packed, high-grade AJI caught by line fishing.</description>
+    <endDate>2021-04-21T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/djpAWIoD#2kGZAOy_S86fxFdaz-tymg</link>
+    <recordDateEnd>2021-04-21T15:00:29.251Z</recordDateEnd>
+    <recordDateStart>2021-04-21T14:29:20.083Z</recordDateStart>
+    <seriesId>2054</seriesId>
+    <sha256>91431cc58690a7293031e023b7ea76d6566f4fc0e895bfd3911bef412432da38</sha256>
+    <startDate>2021-04-21T14:30:00.000Z</startDate>
+    <subtitle>AJI</subtitle>
+    <title>Trails to Oishii Tokyo</title>
+    <uploadedDate>2021-04-21T17:09:50.583Z</uploadedDate>
+    <raw>https://mega.nz/folder/Q3pSlJAT#uC8mYJdpWAGsuM9bWUPXgQ</raw>
   </episode>
   <episode>
     <airingId>114</airingId>
