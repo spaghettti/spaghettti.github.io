@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-21T05:50:03.679Z</lastUpdated>
+  <lastUpdated>2021-04-21T06:45:04.764Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -1099,10 +1099,10 @@
     <title>TAKADA KENZO Poet of Cotton</title>
   </series>
   <series>
-    <count>26</count>
+    <count>27</count>
     <uniqueId>01d91b585f12a25a</uniqueId>
-    <lastAiring>2021-04-20T06:23:00.000Z</lastAiring>
-    <lastUpload>2021-04-20T06:38:58.374Z</lastUpload>
+    <lastAiring>2021-04-21T06:23:00.000Z</lastAiring>
+    <lastUpload>2021-04-21T06:40:13.821Z</lastUpload>
     <seriesId>4032</seriesId>
     <title>The Flame Across Japan</title>
   </series>
