@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-20T23:40:04.064Z</lastUpdated>
+  <lastUpdated>2021-04-21T05:50:03.392Z</lastUpdated>
   <seriesId>59ce1816235dcb05</seriesId>
   <title>KABUKI KOOL</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>KABUKI KOOL</title>
     <uploadedDate>2020-12-24T23:46:33.189Z</uploadedDate>
     <raw>https://mega.nz/folder/FYoGWTJK#D-JWoDSih252oMUCbt-ITw</raw>
+  </episode>
+  <episode>
+    <airingId>054</airingId>
+    <content>Eirakukan is a historic theater in Hyogo Prefecture. Actor Kataoka Ainosuke explains how traditional seating and a small capacity create an extraordinary and intimate atmosphere.</content>
+    <description>Eirakukan is a historic theater in Hyogo Prefecture. Actor Kataoka Ainosuke explains how traditional seating and a small capacity create an extraordinary and intimate atmosphere.</description>
+    <endDate>2021-04-21T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/OZwAFCwB#th2Ct5K-tbKa0LPnNAsQUg</link>
+    <recordDateEnd>2021-04-21T05:00:30.931Z</recordDateEnd>
+    <recordDateStart>2021-04-21T04:29:23.025Z</recordDateStart>
+    <seriesId>2035</seriesId>
+    <sha256>826d53e968a2ca339dabec03b41362f90b1ba358e6dd6c25d0fc1bec14508b66</sha256>
+    <startDate>2021-04-21T04:30:00.000Z</startDate>
+    <subtitle>Kabuki at Eirakukan</subtitle>
+    <title>KABUKI KOOL</title>
+    <uploadedDate>2021-04-21T05:48:59.602Z</uploadedDate>
+    <raw>https://mega.nz/folder/9J8GjaLb#KnuUBs1PETEzy4c3fFfPoA</raw>
   </episode>
   <episode>
     <airingId>056</airingId>
