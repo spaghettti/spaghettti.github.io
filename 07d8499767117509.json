@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-22T06:45:04.670Z",
+  "lastUpdated": "2021-04-22T08:15:03.788Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2658,6 +2658,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-04-16T08:08:49.120Z",
       "raw": "https://mega.nz/folder/xEVE2L5R#HbO7krLqjuHpkxeFSKImrA"
+    },
+    {
+      "airingId": "760",
+      "content": "As a refugee, Omar Ahmad realized how the media portrayed the refugees differed from reality. Now as a citizen journalist, he hopes to deliver narratives, told from the refugee's perspective.",
+      "description": "As a refugee, Omar Ahmad realized how the media portrayed the refugees differed from reality. Now as a citizen journalist, he hopes to deliver narratives, told from the refugee's perspective.",
+      "endDate": "2021-04-22T07:30:00.000Z",
+      "link": "https://mega.nz/folder/FghGCQTb#CbsYs8a5THqF0Pwpg5SrFA",
+      "recordDateEnd": "2021-04-22T07:47:56.636Z",
+      "recordDateStart": "2021-04-22T07:14:20.015Z",
+      "seriesId": "2058",
+      "sha256": "caf84698e67bc8eaae35b40056db83f5ac1371632377c2231a3359ae4f7e39b7",
+      "startDate": "2021-04-22T07:15:00.000Z",
+      "subtitle": "Sharing Voices from Our Refugee Camp: Omar Ahmad / Citizen Journalist, Campji",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-04-22T08:14:18.806Z"
     }
   ]
 }
