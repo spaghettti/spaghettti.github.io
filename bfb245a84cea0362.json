@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-22T16:15:04.558Z",
+  "lastUpdated": "2021-04-22T23:40:03.786Z",
   "seriesId": "6025",
   "title": "TIME-LAPSE",
   "episodes": [
@@ -306,6 +306,22 @@
       "title": "Fukushima Time-Lapse 5min.",
       "uploadedDate": "2021-04-21T23:44:15.340Z",
       "raw": "https://mega.nz/folder/E9BUAbLB#qlwQHZprgF6ipl7OMFVwfg"
+    },
+    {
+      "airingId": "020",
+      "content": "",
+      "description": "10 years on from the 2011 tsunami and nuclear disaster, time-lapse creator Shimizu Daisuke seeks out the undiminished beauty of Fukushima. This time we focus on the star-filled night sky.",
+      "endDate": "2021-04-22T23:25:00.000Z",
+      "link": "https://mega.nz/folder/4jQRnaoR#yzTdxTfBKDadldhXi5blmw",
+      "recordDateEnd": "2021-04-22T23:25:29.924Z",
+      "recordDateStart": "2021-04-22T23:19:20.099Z",
+      "seriesId": "6025",
+      "sha256": "335aecf7c1f4017b99a51c059b74da35fe9c0378a98be5dd90f4154ae1da4f3a",
+      "startDate": "2021-04-22T23:20:00.000Z",
+      "subtitle": "",
+      "title": "Fukushima Time-Lapse 5min.",
+      "uploadedDate": "2021-04-22T23:35:03.509Z",
+      "raw": "https://mega.nz/folder/bF4gxaBL#1uXo1Ob4_pj52CJtKYUchQ"
     }
   ]
 }
