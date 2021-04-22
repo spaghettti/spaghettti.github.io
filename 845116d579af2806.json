@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-22T01:50:03.698Z",
+  "lastUpdated": "2021-04-22T03:45:03.751Z",
   "seriesId": "2032",
   "title": "Japanology Plus",
   "episodes": [
@@ -354,6 +354,21 @@
       "title": "Japanology Plus",
       "uploadedDate": "2021-04-08T03:52:54.420Z",
       "raw": "https://mega.nz/folder/DZki2KzC#b21Tn1IqN7gjAlMxRt4FfQ"
+    },
+    {
+      "airingId": "236",
+      "content": "*First broadcast on April 22, 2021.\nLacquerware is made by coating objects with the sap of the lacquer tree. It's a traditional craft that dates back thousands of years. Lacquer offers incredible durability, as well as a distinctive luster that develops over time. Our main guest, Professor Hidaka Kaori, explains how production techniques are evolving to meet the needs of the modern world. We also see David Morrison Pike, an American potter, demonstrating Kintsugi, a technique that uses lacquer to repair broken ceramics.",
+      "description": "Lacquerware. Durable objects with a distinctive luster. Each time, Peter Barakan visits key locations and meets experts with fascinating cultural insights.",
+      "endDate": "2021-04-22T03:00:00.000Z",
+      "link": "https://mega.nz/folder/kvoDkKDY#Z00Dzo0nCJvB5a506W2iRQ",
+      "recordDateEnd": "2021-04-22T03:00:29.209Z",
+      "recordDateStart": "2021-04-22T02:29:23.277Z",
+      "seriesId": "2032",
+      "sha256": "1662471c6b6f883b08d22aadf17202406ac7c64bab45852db643506f5ca3f64e",
+      "startDate": "2021-04-22T02:30:00.000Z",
+      "subtitle": "Lacquerware",
+      "title": "Japanology Plus",
+      "uploadedDate": "2021-04-22T03:41:37.479Z"
     }
   ]
 }
