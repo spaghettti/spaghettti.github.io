@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-22T08:15:03.761Z</lastUpdated>
+  <lastUpdated>2021-04-22T16:15:04.411Z</lastUpdated>
   <seriesId>3ff887cb76b1a490</seriesId>
   <title>Japan Railway Journal</title>
   <episode>
@@ -259,6 +259,21 @@
     <title>Japan Railway Journal</title>
     <uploadedDate>2021-04-08T16:00:28.416Z</uploadedDate>
     <raw>https://mega.nz/folder/yUowHb4Q#F_C0eZVxA05h9SflGjaxKQ</raw>
+  </episode>
+  <episode>
+    <airingId>092</airingId>
+    <content>Internationally acclaimed industrial designer Mitooka Eiji is Japan's leading designer of railway vehicles. He has worked on more than 40 trains across Japan, including the luxury cruise train "Seven Stars in Kyushu" and JR Kyushu's Series 800 Shinkansen, as well as local railway trains such as Shinano Railway's "Rokumon" and Wakayama Electric Railway's "Tama Train." His latest work, "36+3," makes its debut in October. In this program, Mr. Mitooka shares his thoughts on how the railway will change after the coronavirus pandemic.</content>
+    <description>Industrial designer Mitooka Eiji, one of Japan's most famous railway vehicle designers, shares his thoughts about the role and future of the railway after the coronavirus.</description>
+    <endDate>2021-04-22T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/LMYDgI7L#__4qF2teitRoVweMULOEcw</link>
+    <recordDateEnd>2021-04-22T15:00:27.960Z</recordDateEnd>
+    <recordDateStart>2021-04-22T14:29:20.089Z</recordDateStart>
+    <seriesId>2049</seriesId>
+    <sha256>75a7262e3b0ef1cf91b7e2149cf37ae6c547719558af1bd02f5d356afe217d53</sha256>
+    <startDate>2021-04-22T14:30:00.000Z</startDate>
+    <subtitle>Beyond the Pandemic: Discussing the Railway with Industrial Designer Mitooka Eiji</subtitle>
+    <title>Japan Railway Journal</title>
+    <uploadedDate>2021-04-22T16:11:10.737Z</uploadedDate>
   </episode>
   <episode>
     <airingId>093</airingId>
