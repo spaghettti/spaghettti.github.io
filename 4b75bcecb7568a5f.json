@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-23T03:50:03.406Z",
+  "lastUpdated": "2021-04-23T07:00:04.348Z",
   "seriesId": "2073",
   "title": "J-Arena",
   "episodes": [
@@ -194,6 +194,22 @@
       "title": "J-Arena",
       "uploadedDate": "2021-04-09T06:05:59.128Z",
       "raw": "https://mega.nz/folder/q5xy2ZLC#592RmziLYTVswh6XDXWEoQ"
+    },
+    {
+      "airingId": "085",
+      "content": "In ski jumping, competitors charge down a nail-bitingly steep ramp as they launch themselves to soar eagle-like through the air. Japan has a strong tradition in this truly unique winter sport, with past Olympic successes in both individual and team events including a podium sweep at the 1972 Sapporo Games. Changes to the sport in the 1990s gave Japan's squadron of ski jumpers new technical challenges to contend with, but by the time the Winter Olympics returned to Japan in 1998, they were ready to shine once again. We uncover the dramatic story of their 1998 team gold in Nagano Prefecture.",
+      "description": "Japan has a strong ski jumping tradition with past Olympic successes in both individual and team events. We uncover the dramatic story of Japan's team gold at the 1998 Winter Olympics in Nagano.",
+      "endDate": "2021-04-23T05:00:00.000Z",
+      "link": "https://mega.nz/folder/Ukg3nSCL#0cmL89sp5YEsonljhv1lvQ",
+      "recordDateEnd": "2021-04-23T05:00:23.625Z",
+      "recordDateStart": "2021-04-23T04:29:22.902Z",
+      "seriesId": "2073",
+      "sha256": "421e972425141be108dff801e2be246faf6e354594451f12e2f7c7b535256d08",
+      "startDate": "2021-04-23T04:30:00.000Z",
+      "subtitle": "Ski Jumping",
+      "title": "J-Arena",
+      "uploadedDate": "2021-04-23T06:55:46.539Z",
+      "raw": "https://mega.nz/folder/FrpUwLbD#vvqtg7FdwyyJGikhuuFufA"
     }
   ]
 }
