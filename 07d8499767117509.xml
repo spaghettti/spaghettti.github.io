@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-23T08:00:04.190Z</lastUpdated>
+  <lastUpdated>2021-04-23T09:55:03.453Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -211,6 +211,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2020-12-26T00:52:44.667Z</uploadedDate>
     <raw>https://mega.nz/folder/ooFREKRY#UUCsVBGGOlz8Uh8JQoeh7A</raw>
+  </episode>
+  <episode>
+    <airingId>551</airingId>
+    <content/>
+    <description>Hiroto Kawasaki moved to China at age 66 and succeeded in organic farming using cattle dung. Supported by young Chinese, he is working to change local customs long dependent on chemical fertilizer.</description>
+    <endDate>2021-04-23T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/acg0UQxb#tWMdYm7Bm5qd3-S2K2IiPQ</link>
+    <recordDateEnd>2021-04-23T09:30:27.082Z</recordDateEnd>
+    <recordDateStart>2021-04-23T09:14:20.015Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>14a4687df4f2d3bcc92809b00cc95489b6390942d726a8454e5340cc6a01f440</sha256>
+    <startDate>2021-04-23T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-04-23T09:50:37.603Z</uploadedDate>
   </episode>
   <episode>
     <airingId>554</airingId>
@@ -1714,6 +1729,7 @@
     <subtitle>Defender of Indigenous Peoples: Rukka Sombolinggi / Secretary General of AMAN, Indigenous Peoples Alliance of the Archipelago</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2021-04-23T07:57:12.271Z</uploadedDate>
+    <raw>https://mega.nz/folder/7tZgxJRY#fUdRhL3pUYQv0EtzcvoIsQ</raw>
   </episode>
   <episode>
     <airingId>695</airingId>
