@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-22T23:40:03.546Z</lastUpdated>
+  <lastUpdated>2021-04-23T01:55:03.669Z</lastUpdated>
   <seriesId>b6a4aecdfcf53169</seriesId>
   <title>Asia Insight</title>
   <episode>
@@ -163,6 +163,22 @@
     <title>Asia Insight</title>
     <uploadedDate>2021-04-09T01:48:43.658Z</uploadedDate>
     <raw>https://mega.nz/folder/CZlw2LIA#wTwyKfk7DyPvbFjMjvazbA</raw>
+  </episode>
+  <episode>
+    <airingId>288</airingId>
+    <content>In May 2019, the Taiwanese government became the first in Asia to legalize same-sex marriage. Some 2,500 couples have officially tied the knot in the 6 months following. Chi Chia-wei (61) has spent over 30 years campaigning for marriage equality. In 1986, Chi became the first person in Taiwan to come out publicly. He pushed the government to legalize same-sex marriage, fighting and winning a case in 2017 claiming that the current situation was unconstitutional. The government was forced to legalize same-sex marriage, but organized opposition from Christians and social conservatives resulted in a law under which same-sex married couples still do not have the same rights as heterosexual couples. We explore the history of marriage equality in Taiwan, and the issues it still faces.</content>
+    <description>Dynamic Asia. Stories behind the world's largest continent as it faces political, economic, cultural and technological change. Today: Fighting for Marriage Equality - Taiwan</description>
+    <endDate>2021-04-23T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/h2ZwBbIa#W0L5pFPWtNXYRRmN04f1Qw</link>
+    <recordDateEnd>2021-04-23T01:00:26.918Z</recordDateEnd>
+    <recordDateStart>2021-04-23T00:29:23.057Z</recordDateStart>
+    <seriesId>2022</seriesId>
+    <sha256>48c677e53075727f199406a7aca031d46e3638891549d96dc1a77dcaac3aef50</sha256>
+    <startDate>2021-04-23T00:30:00.000Z</startDate>
+    <subtitle>Fighting for Marriage Equality: Taiwan</subtitle>
+    <title>Asia Insight</title>
+    <uploadedDate>2021-04-23T01:52:04.820Z</uploadedDate>
+    <raw>https://mega.nz/folder/rlISGL6L#D6kfs8HdCyXVQ65gm8CE0w</raw>
   </episode>
   <episode>
     <airingId>317</airingId>
