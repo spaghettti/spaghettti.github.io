@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-18T03:10:03.439Z</lastUpdated>
+  <lastUpdated>2021-04-23T02:20:03.861Z</lastUpdated>
   <seriesId>2bd1ba9a5a78145f</seriesId>
   <title>Dining with the Chef mini</title>
+  <episode>
+    <airingId>001</airingId>
+    <content/>
+    <description>Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques! Featured recipe: Hambaagu with Grated Daikon.</description>
+    <endDate>2021-04-23T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/jlgWiJCI#V3dpO8kYs_sdDUXclIrlow</link>
+    <recordDateEnd>2021-04-23T02:00:26.820Z</recordDateEnd>
+    <recordDateStart>2021-04-23T01:54:20.065Z</recordDateStart>
+    <seriesId>6031</seriesId>
+    <sha256>a3577182694e35620b2a8ab9f66bc597b13f4d062bcaa0f4aa651e05cde14e1f</sha256>
+    <startDate>2021-04-23T01:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Dining with the Chef mini</title>
+    <uploadedDate>2021-04-23T02:18:02.347Z</uploadedDate>
+    <raw>https://mega.nz/folder/I3hkjZQR#rYR352d6hTKqqqLqO9NfzA</raw>
+  </episode>
   <episode>
     <airingId>002</airingId>
     <content/>
@@ -51,6 +67,22 @@
     <title>Dining with the Chef mini</title>
     <uploadedDate>2021-03-28T03:05:28.383Z</uploadedDate>
     <raw>https://mega.nz/folder/nZMg1JwR#voQ6_I6Rh0plc8q3XpPK-A</raw>
+  </episode>
+  <episode>
+    <airingId>007</airingId>
+    <content/>
+    <description>Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes! Featured recipe: Lamb Niku-jaga.</description>
+    <endDate>2021-04-18T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/HsgGgCLI#xALAmDHCAq0LKzBVJr0CmQ</link>
+    <recordDateEnd>2021-04-18T02:55:25.905Z</recordDateEnd>
+    <recordDateStart>2021-04-18T02:49:23.040Z</recordDateStart>
+    <seriesId>6031</seriesId>
+    <sha256>305b16ba24bbefe0d4051e070c0e427dd8d68146fc57b855ebfc3517730e3879</sha256>
+    <startDate>2021-04-18T02:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Dining with the Chef Mini</title>
+    <uploadedDate>2021-04-18T03:12:34.586Z</uploadedDate>
+    <raw>https://mega.nz/folder/PhgCRIAS#LY9Z_dXfhG5s4FPnXYcARw</raw>
   </episode>
   <episode>
     <airingId>009</airingId>
