@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-23T09:55:03.663Z",
+  "lastUpdated": "2021-04-23T16:10:03.600Z",
   "series": [
     {
       "count": 24,
@@ -1226,10 +1226,10 @@
       "title": "TIME-LAPSE"
     },
     {
-      "count": 16,
+      "count": 17,
       "uniqueId": "a5fed3c217d7b7f6",
-      "lastAiring": "2021-04-16T14:30:00.000Z",
-      "lastUpload": "2021-04-16T16:56:44.834Z",
+      "lastAiring": "2021-04-23T14:30:00.000Z",
+      "lastUpload": "2021-04-23T16:08:36.461Z",
       "seriesId": "4002",
       "title": "Today's Close-Up"
     },

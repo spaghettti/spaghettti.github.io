@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-23T09:55:03.536Z</lastUpdated>
+  <lastUpdated>2021-04-23T16:10:03.459Z</lastUpdated>
   <seriesId>a5fed3c217d7b7f6</seriesId>
   <title>Today's Close-Up</title>
   <episode>
@@ -299,5 +299,23 @@ Suetomi Kaori (Professor, Nihon University)</content>
     <title>Today's Close-Up</title>
     <uploadedDate>2021-04-16T16:56:44.834Z</uploadedDate>
     <raw>https://mega.nz/folder/uEliQbCB#zs26D0f7E4KSFx1PazkQFQ</raw>
+  </episode>
+  <episode>
+    <airingId>824</airingId>
+    <content>How is it possible that people who share homes with members of their own family can die lonely deaths and go undiscovered for days or even longer? To find out, NHK looked at a series of such tragic cases across Japan. We delved deeply into one, involving a man who initially failed to notice his father's death, then lived with the body for months. Our conversations with him uncovered a story of broken ties and work-related stress, which ended with the man and his father leading completely separate lives while sharing the same roof.
+Guest:
+Shigematsu Kiyoshi (Author)</content>
+    <description>Cases where the deaths of people go unnoticed by cohabiting family members are raising troubling questions. To find out more, NHK spoke with a man who lived with the body of his father for months.</description>
+    <endDate>2021-04-23T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Y0Qj1a6Y#tt-fjkpdZJ5Jdlpfo9AWnw</link>
+    <recordDateEnd>2021-04-23T15:00:28.243Z</recordDateEnd>
+    <recordDateStart>2021-04-23T14:29:20.084Z</recordDateStart>
+    <seriesId>4002</seriesId>
+    <sha256>4230183455dc30d57e2436a74f7ed169abc1f5d02eea9750091f41ab53d10b77</sha256>
+    <startDate>2021-04-23T14:30:00.000Z</startDate>
+    <subtitle>Living with Family, but All Alone: Solitary Deaths in Japan</subtitle>
+    <title>Today's Close-Up</title>
+    <uploadedDate>2021-04-23T16:08:36.461Z</uploadedDate>
+    <raw>https://mega.nz/folder/B1BjDYrR#TOf0K0wWkeMyB1hqTiQI5A</raw>
   </episode>
 </episodeList>
