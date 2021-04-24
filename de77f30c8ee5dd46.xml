@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-24T03:30:04.331Z</lastUpdated>
+  <lastUpdated>2021-04-24T04:05:04.132Z</lastUpdated>
   <seriesId>de77f30c8ee5dd46</seriesId>
   <title>Darwin's Amazing Animals</title>
   <episode>
@@ -67,6 +67,21 @@
     <title>Darwin's Amazing Animals</title>
     <uploadedDate>2021-03-28T08:54:22.029Z</uploadedDate>
     <raw>https://mega.nz/folder/2goA2YrK#wM96eTYkuLhryzFAYV1MtQ</raw>
+  </episode>
+  <episode>
+    <airingId>034</airingId>
+    <content>Wildlife cinematographer Nobuaki Hirano is on a one-year quest documenting the four seasons in Tokyo's Okutama. In summer, he guides us through the mountains in search of a mysterious tree that "glitters" during the day. On the way, we witness an astonishing scene: the young of an endangered species of bird getting down like a professional dancer, but for reasons that leave us chuckling! From the clear running streams to the hillsides, Hirano's lens captures nature in all its glory.</content>
+    <description>In the summer of the Okutama mountains, we search for a mysterious tree that 'glitters' during the day. We also get captivated by the 'dance moves' of an endangered species of bird.</description>
+    <endDate>2021-04-24T02:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/E7RUwDpa#UBVEDTL4tyiiAKIXe7-6sQ</link>
+    <recordDateEnd>2021-04-24T02:50:24.519Z</recordDateEnd>
+    <recordDateStart>2021-04-24T02:24:26.803Z</recordDateStart>
+    <seriesId>4030</seriesId>
+    <sha256>2eef2680a2c8563ca5af8d647f83a87f6b91056da7ba8e787be21166e7787a0f</sha256>
+    <startDate>2021-04-24T02:25:00.000Z</startDate>
+    <subtitle>Tokyo's Summer Wildlife Kingdom -- Okutama, Japan</subtitle>
+    <title>Darwin's Amazing Animals</title>
+    <uploadedDate>2021-04-24T04:04:01.516Z</uploadedDate>
   </episode>
   <episode>
     <airingId>047</airingId>

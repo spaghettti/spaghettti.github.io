@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-24T03:30:04.447Z</lastUpdated>
+  <lastUpdated>2021-04-24T04:05:04.243Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -251,10 +251,10 @@
     <title>Danko&amp;Danta, Cardboard Craft Creations!</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>de77f30c8ee5dd46</uniqueId>
-    <lastAiring>2021-04-17T02:25:00.000Z</lastAiring>
-    <lastUpload>2021-04-17T04:16:16.339Z</lastUpload>
+    <lastAiring>2021-04-24T02:25:00.000Z</lastAiring>
+    <lastUpload>2021-04-24T04:04:01.516Z</lastUpload>
     <seriesId>4030</seriesId>
     <title>Darwin's Amazing Animals</title>
   </series>
