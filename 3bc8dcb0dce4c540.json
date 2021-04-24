@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-23T16:10:03.336Z",
+  "lastUpdated": "2021-04-24T03:30:04.213Z",
   "seriesId": "2047",
   "title": "GLOBAL AGENDA",
   "episodes": [
@@ -50,6 +50,21 @@
       "title": "GLOBAL AGENDA",
       "uploadedDate": "2021-03-30T14:58:48.663Z",
       "raw": "https://mega.nz/folder/X41y3JBR#q6iGcpZdD8HHprfTa3ERwA"
+    },
+    {
+      "airingId": "061",
+      "content": "Despite sanctions and global condemnation, Myanmar's military has killed over 700 people in just 10 weeks. How should the world respond to prevent further bloodshed? Top experts discuss the issues.",
+      "description": "Despite sanctions and global grave cencern, over 700 people were killed in the recent Myanmar military Coup. How should the world respond to prevent further bloodshed? Top experts discuss the issues.",
+      "endDate": "2021-04-24T02:00:00.000Z",
+      "link": "https://mega.nz/folder/5thzCQyA#Uk0N9V5GQRrDIKEnlMB7SA",
+      "recordDateEnd": "2021-04-24T02:00:29.840Z",
+      "recordDateStart": "2021-04-24T01:09:23.061Z",
+      "seriesId": "2047",
+      "sha256": "47e2f0bd8cd9ae0790944e78297fc5e8d56e542532d9861b8a91d113187b990d",
+      "startDate": "2021-04-24T01:10:00.000Z",
+      "subtitle": "Myanmar in Crisis: Call for Global Action",
+      "title": "GLOBAL AGENDA",
+      "uploadedDate": "2021-04-24T03:25:08.305Z"
     }
   ]
 }
