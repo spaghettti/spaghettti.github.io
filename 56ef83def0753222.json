@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-24T07:20:03.861Z",
+  "lastUpdated": "2021-04-24T18:00:04.121Z",
   "seriesId": "3016,4001",
   "title": "NHK Documentary",
   "episodes": [
@@ -386,6 +386,22 @@
       "title": "NHK Documentary",
       "uploadedDate": "2021-04-17T18:39:33.401Z",
       "raw": "https://mega.nz/folder/BAkEnKzT#9WJlKya2AO84rtNURw9xPg"
+    },
+    {
+      "airingId": "391",
+      "content": "On February 1, Myanmar's military seized power in a coup, bringing the country's decade-long process of democratization to an abrupt end. It is now using force to stamp out opposition and the civilian death toll is climbing by the day. But the country remains defiant and protesters are putting their lives on the line to rescue the fledgling democracy. Meanwhile, young people both in Myanmar and around the world are harnessing the power of the internet to fight back.",
+      "description": "The death toll in Myanmar is rising as the military uses force to stamp out opposition. But the country remains defiant, and young people are harnessing the power of the internet to fight back.",
+      "endDate": "2021-04-24T15:55:00.000Z",
+      "link": "https://mega.nz/folder/4nQTGQTb#7-61_15u9dt7IOLDx0ZJpg",
+      "recordDateEnd": "2021-04-24T15:55:21.291Z",
+      "recordDateStart": "2021-04-24T14:59:20.099Z",
+      "seriesId": "4001",
+      "sha256": "ae853f21c0a41d5ffbbfbc7ba4dc0e7b1abd76cc1d95f4b6a647ad15932ba9a3",
+      "startDate": "2021-04-24T15:00:00.000Z",
+      "subtitle": "Myanmar Coup: Digital Resistance",
+      "title": "NHK Documentary",
+      "uploadedDate": "2021-04-24T17:59:56.095Z",
+      "raw": "https://mega.nz/folder/EBNmABwb#t-B-xQNH_9qVqvNIdwl2fw"
     }
   ]
 }
