@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-24T05:10:03.901Z</lastUpdated>
+  <lastUpdated>2021-04-24T06:15:04.352Z</lastUpdated>
   <seriesId>be55ba93c748813c</seriesId>
   <title>COOL JAPAN</title>
   <episode>
@@ -147,6 +147,21 @@
     <title>COOL JAPAN</title>
     <uploadedDate>2021-04-10T09:54:19.511Z</uploadedDate>
     <raw>https://mega.nz/folder/zIwRzAiB#gLwaiHj6VC2i2rNgB5ittA</raw>
+  </episode>
+  <episode>
+    <airingId>234</airingId>
+    <content>In recent years, the number of vegetarians has been growing around the world. Healthy meals in which vegetables are central are popular in the West, where lifestyle related diseases are becoming more serious. What's receiving attention amidst such circumstances is Buddhist cuisine. Buddhist cuisine exists in Asian countries such as China and Korea as well, but Japan's Buddhist cuisine is attracting attention coupled with the Japanese food boom and the popularity of tourism in Japan. There are casual Buddhist cuisine restaurants, and new styles for foods such as sweets and ramen are appearing one after another. We uncover the appeals of Japan's Buddhist cuisine from the perspective of foreigners.</content>
+    <description>As vegans and vegetarians increase globally, Japan's shojin ryori cuisine based on Buddhist discipline is gaining worldwide attention. The panelists discuss what attributes of it appeal to foreigners.</description>
+    <endDate>2021-04-24T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/YsZhRICB#ojXT_9FzhUyGaYGeDWppxw</link>
+    <recordDateEnd>2021-04-24T04:55:27.271Z</recordDateEnd>
+    <recordDateStart>2021-04-24T04:09:20.100Z</recordDateStart>
+    <seriesId>4008</seriesId>
+    <sha256>f178fbc58283cff5ca100e90a0aae8a7912b81f410a1a7ea10fd135b4a6673e7</sha256>
+    <startDate>2021-04-24T04:10:00.000Z</startDate>
+    <subtitle>Shojin Ryori (Buddhist Cuisine)</subtitle>
+    <title>COOL JAPAN</title>
+    <uploadedDate>2021-04-24T06:12:12.100Z</uploadedDate>
   </episode>
   <episode>
     <airingId>246</airingId>

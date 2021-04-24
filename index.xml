@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-24T05:10:04.032Z</lastUpdated>
+  <lastUpdated>2021-04-24T06:15:04.472Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -179,10 +179,10 @@
     <title>CHAYA: Ailey's Keeper of the Flame</title>
   </series>
   <series>
-    <count>15</count>
+    <count>16</count>
     <uniqueId>be55ba93c748813c</uniqueId>
-    <lastAiring>2021-04-17T04:10:00.000Z</lastAiring>
-    <lastUpload>2021-04-17T11:50:09.916Z</lastUpload>
+    <lastAiring>2021-04-24T04:10:00.000Z</lastAiring>
+    <lastUpload>2021-04-24T06:12:12.100Z</lastUpload>
     <seriesId>4008</seriesId>
     <title>COOL JAPAN</title>
   </series>
