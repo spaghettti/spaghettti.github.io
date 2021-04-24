@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-24T04:10:03.775Z",
+  "lastUpdated": "2021-04-24T04:35:06.367Z",
   "seriesId": "4032",
   "title": "The Flame Across Japan",
   "episodes": [
@@ -466,6 +466,22 @@
       "title": "The Flame Across Japan",
       "uploadedDate": "2021-04-23T07:03:12.971Z",
       "raw": "https://mega.nz/folder/xnZySZQa#9cg3os2Un_C-nRdPHCQ30Q"
+    },
+    {
+      "airingId": "130",
+      "content": "",
+      "description": "Heading to the Tokyo Olympic and Paralympic Games, the torch makes its way across the country from March to August. This time, we highlight the flame's first day in Oita Prefecture.",
+      "endDate": "2021-04-24T04:00:00.000Z",
+      "link": "https://mega.nz/folder/0rYTQKzL#EH9Sn7-IjL2_YLktRtW5_g",
+      "recordDateEnd": "2021-04-24T04:00:30.954Z",
+      "recordDateStart": "2021-04-24T03:54:20.099Z",
+      "seriesId": "4032",
+      "sha256": "c33d6fa5fe74e99b3fc9f5a665e863c35f8c108e96b02df94b4a4793ed7969c8",
+      "startDate": "2021-04-24T03:55:00.000Z",
+      "subtitle": "",
+      "title": "The Flame Across Japan",
+      "uploadedDate": "2021-04-24T04:31:42.084Z",
+      "raw": "https://mega.nz/folder/g8pHyQDY#ZCUE3an7SlYPM7H4OioL4g"
     }
   ]
 }
