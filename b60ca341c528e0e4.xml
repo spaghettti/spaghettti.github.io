@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-24T04:35:06.390Z</lastUpdated>
+  <lastUpdated>2021-04-24T05:10:03.939Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -83,6 +83,21 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-04-17T12:52:33.580Z</uploadedDate>
     <raw>https://mega.nz/folder/Q44UCK5B#lEB_vsap55RB3KhfsttAWQ</raw>
+  </episode>
+  <episode>
+    <airingId>006</airingId>
+    <content/>
+    <description>#6 Does this train go to Ikebukuro? / Find out how to ask if public transportation goes to your destination. Use the name of the place plus "ni ikimasu ka".</description>
+    <endDate>2021-04-24T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/QjIGhDDJ#Gj3-xMamk9iiGdZYMgRUEg</link>
+    <recordDateEnd>2021-04-24T05:00:22.676Z</recordDateEnd>
+    <recordDateStart>2021-04-24T04:54:22.663Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>017952f42ae070e76ae4f98bd9565170898c67698ef1b90368715dba26736106</sha256>
+    <startDate>2021-04-24T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-04-24T05:07:08.483Z</uploadedDate>
   </episode>
   <episode>
     <airingId>014</airingId>
