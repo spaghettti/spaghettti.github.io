@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-25T07:15:03.853Z</lastUpdated>
+  <lastUpdated>2021-04-25T08:25:03.988Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -115,6 +115,22 @@
     <title>Somewhere Street</title>
     <uploadedDate>2021-04-18T08:59:31.336Z</uploadedDate>
     <raw>https://mega.nz/folder/nN5A2SZB#6hXlPowi01wFrpIqvkKCIw</raw>
+  </episode>
+  <episode>
+    <airingId>060</airingId>
+    <content>Jerez de la Frontera is in Andalusia, southern Spain, famous for flamenco and sherry. It has been a center of trade since Roman times. And it was once under Islamic rule, so traces of that heritage can still be found. In this episode, we stroll around the streets of Jerez de la Frontera.</content>
+    <description>Jerez is in Andalusia, southern Spain, famous for flamenco and sherry. In this episode, we stroll around the streets of Jerez.</description>
+    <endDate>2021-04-25T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Qj5imYzI#Tb6ZRgBMb8p7TcejCW1KXg</link>
+    <recordDateEnd>2021-04-25T05:00:26.367Z</recordDateEnd>
+    <recordDateStart>2021-04-25T04:09:20.100Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>4b62d5ed2c3a6944bf2e3d76e8c067ce6283f93a527fc10c94d48bb87f3284b3</sha256>
+    <startDate>2021-04-25T04:10:00.000Z</startDate>
+    <subtitle>Jerez de la Frontera, Spain</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-04-25T08:21:03.715Z</uploadedDate>
+    <raw>https://mega.nz/folder/mdIGQTSQ#XdABQLNOu8zFnORTKWNSsQ</raw>
   </episode>
   <episode>
     <airingId>061</airingId>
