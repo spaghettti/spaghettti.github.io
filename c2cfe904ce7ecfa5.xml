@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-25T08:25:03.861Z</lastUpdated>
+  <lastUpdated>2021-04-25T09:20:03.580Z</lastUpdated>
   <seriesId>c2cfe904ce7ecfa5</seriesId>
   <title>Face To Face</title>
   <episode>
@@ -147,5 +147,21 @@
     <title>Face To Face</title>
     <uploadedDate>2021-02-28T03:09:35.989Z</uploadedDate>
     <raw>https://mega.nz/folder/Et4iwBzL#j8eNpqH49vPG4YvFq0mEVQ</raw>
+  </episode>
+  <episode>
+    <airingId>066</airingId>
+    <content>Photographer Asada Masashi, who inspired the award-winning film, "The Asada Family, " is famous for taking unconventional family photos. One photo featuring his own family shows them dressed up as firefighters. Rather than traditional family portraits, Asada had his family take on fictional roles, such as that of a team of firefighters. Through his work and his experience of cleaning and returning family photos to the victims of a disaster, he's come to realize the power of photos that capture moments in everyday life, which he shares with us on Face To Face.</content>
+    <description>Photographer Asada Masashi is famous for his unique family photos and receives requests from all over Japan. The subject of a hit movie, he talks about the possibilities presented by family photos.</description>
+    <endDate>2021-04-25T02:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/CghAXJBD#IQaecCJYPceAiNAWtNpMWg</link>
+    <recordDateEnd>2021-04-25T02:40:32.011Z</recordDateEnd>
+    <recordDateStart>2021-04-25T02:09:20.103Z</recordDateStart>
+    <seriesId>2043</seriesId>
+    <sha256>c55e68312d40d4f2d3bb4ae00058bb1fc79197202ad8e11d7dfb63502a24c7c2</sha256>
+    <startDate>2021-04-25T02:10:00.000Z</startDate>
+    <subtitle>Photographing Family Bonds</subtitle>
+    <title>Face To Face</title>
+    <uploadedDate>2021-04-25T09:19:41.163Z</uploadedDate>
+    <raw>https://mega.nz/folder/JuB0zR4a#rhFDhHGajvLh0rwMnI7fBg</raw>
   </episode>
 </episodeList>
