@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-24T18:00:04.140Z",
+  "lastUpdated": "2021-04-25T02:45:04.435Z",
   "series": [
     {
       "count": 24,
@@ -1136,6 +1136,14 @@
       "lastUpload": "2021-03-19T17:14:50.320Z",
       "seriesId": "6113",
       "title": "The Great Summits"
+    },
+    {
+      "count": 1,
+      "uniqueId": "9fece1e3d26244c9",
+      "lastAiring": "2021-04-25T00:10:00.000Z",
+      "lastUpload": "2021-04-25T02:41:55.624Z",
+      "seriesId": "5001",
+      "title": "The Guardian of Cherry Trees"
     },
     {
       "count": 1,

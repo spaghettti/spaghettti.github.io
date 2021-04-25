@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-24T18:00:04.133Z</lastUpdated>
+  <lastUpdated>2021-04-25T02:45:04.428Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -1137,6 +1137,14 @@
     <lastUpload>2021-03-19T17:14:50.320Z</lastUpload>
     <seriesId>6113</seriesId>
     <title>The Great Summits</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>9fece1e3d26244c9</uniqueId>
+    <lastAiring>2021-04-25T00:10:00.000Z</lastAiring>
+    <lastUpload>2021-04-25T02:41:55.624Z</lastUpload>
+    <seriesId>5001</seriesId>
+    <title>The Guardian of Cherry Trees</title>
   </series>
   <series>
     <count>1</count>
