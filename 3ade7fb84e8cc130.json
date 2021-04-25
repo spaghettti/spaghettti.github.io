@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-25T03:30:04.080Z",
+  "lastUpdated": "2021-04-25T03:50:03.899Z",
   "seriesId": "6101",
   "title": "Four Seasons in Japan",
   "episodes": [
@@ -242,6 +242,21 @@
       "title": "Four Seasons in Japan",
       "uploadedDate": "2021-04-18T03:26:41.870Z",
       "raw": "https://mega.nz/folder/Ld4w1bhD#2c5jJ57SytIhU3miV-MZDA"
+    },
+    {
+      "airingId": "059",
+      "content": "",
+      "description": "This program features Miyakojima Island in Okinawa prefecture. This lush island is home to many birds, and also to many crabs and hermit crabs that live off the island's abundant fresh water.",
+      "endDate": "2021-04-25T02:50:00.000Z",
+      "link": "https://mega.nz/folder/BccnVSBD#CjMBYd60dWIx5Fd9TD8PoQ",
+      "recordDateEnd": "2021-04-25T02:50:24.382Z",
+      "recordDateStart": "2021-04-25T02:39:22.689Z",
+      "seriesId": "6101",
+      "sha256": "1bf1a94d59e36e13a259711ca90defde00f5924ef492416f4c142272d749c464",
+      "startDate": "2021-04-25T02:40:00.000Z",
+      "subtitle": "",
+      "title": "Four Seasons in Japan",
+      "uploadedDate": "2021-04-25T03:49:18.498Z"
     },
     {
       "airingId": "061",
