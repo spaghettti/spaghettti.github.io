@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-23T02:15:03.720Z</lastUpdated>
+  <lastUpdated>2021-04-25T05:05:04.337Z</lastUpdated>
   <seriesId>596e06bead9b95b4</seriesId>
   <title>Dining with the Chef mini</title>
+  <episode>
+    <airingId>001</airingId>
+    <content/>
+    <description>Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques! Featured recipe: Hambaagu with Grated Daikon.</description>
+    <endDate>2021-04-23T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/jlgWiJCI#V3dpO8kYs_sdDUXclIrlow</link>
+    <recordDateEnd>2021-04-23T02:00:26.820Z</recordDateEnd>
+    <recordDateStart>2021-04-23T01:54:20.065Z</recordDateStart>
+    <seriesId>6031</seriesId>
+    <sha256>a3577182694e35620b2a8ab9f66bc597b13f4d062bcaa0f4aa651e05cde14e1f</sha256>
+    <startDate>2021-04-23T01:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Dining with the Chef mini</title>
+    <uploadedDate>2021-04-23T02:18:02.347Z</uploadedDate>
+    <raw>https://mega.nz/folder/I3hkjZQR#rYR352d6hTKqqqLqO9NfzA</raw>
+  </episode>
   <episode>
     <airingId>002</airingId>
     <content/>
@@ -67,6 +83,21 @@
     <title>Dining with the Chef Mini</title>
     <uploadedDate>2021-04-18T03:12:34.586Z</uploadedDate>
     <raw>https://mega.nz/folder/PhgCRIAS#LY9Z_dXfhG5s4FPnXYcARw</raw>
+  </episode>
+  <episode>
+    <airingId>008</airingId>
+    <content/>
+    <description>Learn about easy, delicious, and healthy cooking with Chef Rika in five minutes! Featured recipe: Soba with Spicy Meat.</description>
+    <endDate>2021-04-25T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/aYBBVSoA#YoIFI_BrLAJCNyVFsPU1EA</link>
+    <recordDateEnd>2021-04-25T02:55:27.286Z</recordDateEnd>
+    <recordDateStart>2021-04-25T02:49:23.006Z</recordDateStart>
+    <seriesId>6031</seriesId>
+    <sha256>965d4ccae88272df196cfd790ace57e2fda011eb068fea18417f75e3e77d4604</sha256>
+    <startDate>2021-04-25T02:50:00.000Z</startDate>
+    <subtitle/>
+    <title>Dining with the Chef Mini</title>
+    <uploadedDate>2021-04-25T05:04:42.655Z</uploadedDate>
   </episode>
   <episode>
     <airingId>009</airingId>
