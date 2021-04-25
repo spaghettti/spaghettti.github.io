@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-25T09:20:03.845Z</lastUpdated>
+  <lastUpdated>2021-04-25T16:35:03.718Z</lastUpdated>
   <seriesId>a8827721852d236d</seriesId>
   <title>Japan-easy</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>Japan-easy</title>
     <uploadedDate>2021-04-18T17:46:16.649Z</uploadedDate>
     <raw>https://mega.nz/folder/ooQHHK5I#tLn-D7Sk6yiOIG29Sbppxg</raw>
+  </episode>
+  <episode>
+    <airingId>005</airingId>
+    <content/>
+    <description>Today: "Ko-, so-, and a-" to show position, and "do-" for asking questions. Through basic conversations, viewers will see that "Japanese is Easy!"</description>
+    <endDate>2021-04-25T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/4rhiyKiY#o6XlDz_t93x3TTRwPo82ag</link>
+    <recordDateEnd>2021-04-25T16:00:23.737Z</recordDateEnd>
+    <recordDateStart>2021-04-25T15:44:22.881Z</recordDateStart>
+    <seriesId>6210</seriesId>
+    <sha256>cfbc320748214cb7c728092dd4d246254ba1ace5f69711f77f8175d7af872523</sha256>
+    <startDate>2021-04-25T15:45:00.000Z</startDate>
+    <subtitle/>
+    <title>Japan-easy</title>
+    <uploadedDate>2021-04-25T16:30:14.966Z</uploadedDate>
+    <raw>https://mega.nz/folder/qdZxVaYY#XkVYiqbggZpn1ku05VWp0w</raw>
   </episode>
   <episode>
     <airingId>109</airingId>
