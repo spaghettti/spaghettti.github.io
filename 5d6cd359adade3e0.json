@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-25T02:45:04.175Z",
+  "lastUpdated": "2021-04-25T03:30:03.950Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
@@ -370,6 +370,21 @@
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2021-04-18T03:09:14.729Z",
       "raw": "https://mega.nz/folder/tc0CCIxT#v8mOGkueipsMcojaVIEZ9Q"
+    },
+    {
+      "airingId": "087",
+      "content": "",
+      "description": "This time we introduce \"TOKYO EYE 2020,\" which shows various types of robots adopted in our life. One patrolls in a building and one is warm and has some weight to be loved as a pet.",
+      "endDate": "2021-04-25T03:00:00.000Z",
+      "link": "https://mega.nz/folder/Zxg2nBDR#zFZeaMNXJ9S_FcPEb_Cx_Q",
+      "recordDateEnd": "2021-04-25T03:00:30.246Z",
+      "recordDateStart": "2021-04-25T02:54:20.006Z",
+      "seriesId": "2075",
+      "sha256": "bf5ad02b018cd6738b962d4161c7dae431312d43d2ff5d236b1fdb578fdc07ef",
+      "startDate": "2021-04-25T02:55:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2021-04-25T03:25:19.582Z"
     }
   ]
 }

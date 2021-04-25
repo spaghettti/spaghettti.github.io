@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-25T02:45:04.171Z</lastUpdated>
+  <lastUpdated>2021-04-25T03:30:03.949Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
   <episode>
@@ -371,5 +371,20 @@
     <title>Doki Doki! NHK WORLD-JAPAN</title>
     <uploadedDate>2021-04-18T03:09:14.729Z</uploadedDate>
     <raw>https://mega.nz/folder/tc0CCIxT#v8mOGkueipsMcojaVIEZ9Q</raw>
+  </episode>
+  <episode>
+    <airingId>087</airingId>
+    <content/>
+    <description>This time we introduce "TOKYO EYE 2020," which shows various types of robots adopted in our life. One patrolls in a building and one is warm and has some weight to be loved as a pet.</description>
+    <endDate>2021-04-25T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Zxg2nBDR#zFZeaMNXJ9S_FcPEb_Cx_Q</link>
+    <recordDateEnd>2021-04-25T03:00:30.246Z</recordDateEnd>
+    <recordDateStart>2021-04-25T02:54:20.006Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>bf5ad02b018cd6738b962d4161c7dae431312d43d2ff5d236b1fdb578fdc07ef</sha256>
+    <startDate>2021-04-25T02:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2021-04-25T03:25:19.582Z</uploadedDate>
   </episode>
 </episodeList>
