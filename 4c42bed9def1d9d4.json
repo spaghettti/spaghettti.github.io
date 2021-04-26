@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-25T16:35:03.546Z",
+  "lastUpdated": "2021-04-26T02:00:04.361Z",
   "seriesId": "2087",
   "title": "Where We Call Home",
   "episodes": [
@@ -290,6 +290,21 @@
       "title": "Where We Call Home",
       "uploadedDate": "2021-04-19T01:48:14.340Z",
       "raw": "https://mega.nz/folder/TsYwTbjA#eRYi0gJBimdbAj0I2KMELg"
+    },
+    {
+      "airingId": "033",
+      "content": "On this episode, we travel to Urakawa Town in Hokkaido Prefecture where Nguyen Van Bao and Nguyen Van Hieu, 2 veterinarians from Vietnam, work as grooms at a racehorse breeding farm. Not accustomed to taking care of horses at first, they're now in charge of 20 animals each. We follow them as they tackle the busiest time of the year for horse breeders: spring, when mothers give birth. We also meet French-born Jeremy Escudero, who sells kitchen knives at a Tokyo store with more than a hundred years of history.",
+      "description": "We meet Bao and Hieu, two veterinarians from Vietnam who work as grooms at a racehorse breeding farm in Hokkaido, and also visit French-born Jeremy, who sells kitchen knives at a store in Tokyo.",
+      "endDate": "2021-04-26T01:00:00.000Z",
+      "link": "https://mega.nz/folder/2Z5DEIgJ#6w1VNsqiFEoEJx5pC8V9qQ",
+      "recordDateEnd": "2021-04-26T01:00:30.028Z",
+      "recordDateStart": "2021-04-26T00:29:20.103Z",
+      "seriesId": "2087",
+      "sha256": "4baefcc14399413eaeffb4e4cbeec5ac40765d9e85af26f76b14b72fc892be96",
+      "startDate": "2021-04-26T00:30:00.000Z",
+      "subtitle": "Vietnamese Vets and Hokkaido Horses",
+      "title": "Where We Call Home",
+      "uploadedDate": "2021-04-26T01:57:10.586Z"
     }
   ]
 }
