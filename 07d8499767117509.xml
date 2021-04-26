@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-26T06:05:03.621Z</lastUpdated>
+  <lastUpdated>2021-04-26T06:30:04.138Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2662,18 +2662,18 @@
   </episode>
   <episode>
     <airingId>758</airingId>
-    <content>Tsuda Yuichi leads a project at the Japan Aerospace Exploration Agency that recently completed a mission to return subsurface samples of an asteroid to Earth. He reflects on the scientific milestone.</content>
+    <content/>
     <description>Tsuda Yuichi leads a project at the Japan Aerospace Exploration Agency that recently completed a mission to return subsurface samples of an asteroid to Earth. He reflects on the scientific milestone.</description>
-    <endDate>2021-03-29T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/k5AgnRDQ#aLCsxLCi7Ama3ssfc6vNCQ</link>
-    <recordDateEnd>2021-03-29T07:30:29.602Z</recordDateEnd>
-    <recordDateStart>2021-03-29T07:14:20.012Z</recordDateStart>
+    <endDate>2021-04-26T05:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/Z7oC0DJT#NB91fiHyWbYNCYPkY0JXnQ</link>
+    <recordDateEnd>2021-04-26T05:30:24.400Z</recordDateEnd>
+    <recordDateStart>2021-04-26T05:14:24.036Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>01af073d6c51b6cbb87dad2a24322428dec94c37d77fef2be992625dcdb27685</sha256>
-    <startDate>2021-03-29T07:15:00.000Z</startDate>
-    <subtitle>Exploring the Origins of Life: Tsuda Yuichi / Hayabusa2 Project Manager</subtitle>
+    <sha256>c8c4a3b884b6bb34c8094ec476cc8a406d5662578d5e6a891d758dec72bcd76c</sha256>
+    <startDate>2021-04-26T05:15:00.000Z</startDate>
+    <subtitle/>
     <title>Direct Talk</title>
-    <uploadedDate>2021-03-29T08:15:24.483Z</uploadedDate>
+    <uploadedDate>2021-04-26T06:26:00.359Z</uploadedDate>
     <raw>https://mega.nz/folder/i4h00SqT#6hfyN4PDxnA0U6e5EXGGDg</raw>
   </episode>
   <episode>
