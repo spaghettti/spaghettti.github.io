@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-26T04:00:04.167Z</lastUpdated>
+  <lastUpdated>2021-04-26T06:05:03.662Z</lastUpdated>
   <seriesId>054ab52e36a50c36</seriesId>
   <title>CYCLE AROUND JAPAN  Highlights</title>
   <episode>
@@ -323,5 +323,20 @@
     <title>CYCLE AROUND JAPAN  Highlights</title>
     <uploadedDate>2021-03-29T11:55:59.209Z</uploadedDate>
     <raw>https://mega.nz/folder/n9hkFCYZ#LZ6XQQmhXiSkYB8hFW3nHQ</raw>
+  </episode>
+  <episode>
+    <airingId>034</airingId>
+    <content>This 400km winter cycle trip takes us through Ibaraki Prefecture. At Lake Kasumigaura, our cyclist plunges into freezing water to help a husband and wife harvest lotus roots. After hill climbing on Mt. Tsukuba, he visits a historic kendo hall, and a workshop where 2 brothers make fine armor the traditional way. Then he meets hotel brothers experimenting with fishermen's cuisine. Ibaraki families know the value of working together.</content>
+    <description>On a winter ride through Ibaraki, we explore a famous lake, go hill climbing, feel the samurai spirit in a kendo hall, and enjoy the fishermen's cuisine hotel brothers are keeping alive.</description>
+    <endDate>2021-04-26T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/0yJgmR6B#R8tlLCn8-2FlLGj_I-8yOA</link>
+    <recordDateEnd>2021-04-26T05:00:28.858Z</recordDateEnd>
+    <recordDateStart>2021-04-26T04:29:20.088Z</recordDateStart>
+    <seriesId>2070</seriesId>
+    <sha256>ed306cfdc2507c0dbabe8534020265fb632355ab0a7b1938f99dd72bcb0b2f27</sha256>
+    <startDate>2021-04-26T04:30:00.000Z</startDate>
+    <subtitle>Ibaraki - Where Family Matters</subtitle>
+    <title>CYCLE AROUND JAPAN  Highlights</title>
+    <uploadedDate>2021-04-26T06:01:16.359Z</uploadedDate>
   </episode>
 </episodeList>
