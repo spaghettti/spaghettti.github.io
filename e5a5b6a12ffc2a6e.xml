@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-26T02:00:04.350Z</lastUpdated>
+  <lastUpdated>2021-04-26T02:30:04.126Z</lastUpdated>
   <seriesId>e5a5b6a12ffc2a6e</seriesId>
   <title>BENTO EXPO</title>
   <episode>
@@ -195,5 +195,21 @@
     <title>BENTO EXPO</title>
     <uploadedDate>2021-04-19T02:07:19.657Z</uploadedDate>
     <raw>https://mega.nz/folder/j1ImHT5B#b0gC7btUw7BpNxnW29cH8Q</raw>
+  </episode>
+  <episode>
+    <airingId>032</airingId>
+    <content>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</content>
+    <description>From Marc, toasted shiitake stuffed with rice and glazed with miso butter. Maki uses crab sticks to make quick and easy cream croquettes. Bento Topics showcases a yummy bento from the Philippines.</description>
+    <endDate>2021-04-26T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/PYQ3WY6T#MAMB7ybwnX8a_qGBoucU3A</link>
+    <recordDateEnd>2021-04-26T01:45:33.817Z</recordDateEnd>
+    <recordDateStart>2021-04-26T01:29:20.098Z</recordDateStart>
+    <seriesId>2077</seriesId>
+    <sha256>58a84b6635cebb0a00975823dc272a8fdbbefbe206ad960b46438fd4a7836fc9</sha256>
+    <startDate>2021-04-26T01:30:00.000Z</startDate>
+    <subtitle>Season 6-2 Shiitake Yaki-onigiri Bento &amp; Kani Cream Korokke Bento</subtitle>
+    <title>BENTO EXPO</title>
+    <uploadedDate>2021-04-26T02:28:35.064Z</uploadedDate>
+    <raw>https://mega.nz/folder/1ANRAART#RSB7DXcd4uOUK6_6sVFe3g</raw>
   </episode>
 </episodeList>

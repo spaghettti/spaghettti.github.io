@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-26T02:00:04.351Z",
+  "lastUpdated": "2021-04-26T02:30:04.127Z",
   "seriesId": "2077",
   "title": "BENTO EXPO",
   "episodes": [
@@ -194,6 +194,22 @@
       "title": "BENTO EXPO",
       "uploadedDate": "2021-04-19T02:07:19.657Z",
       "raw": "https://mega.nz/folder/j1ImHT5B#b0gC7btUw7BpNxnW29cH8Q"
+    },
+    {
+      "airingId": "032",
+      "content": "Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!",
+      "description": "From Marc, toasted shiitake stuffed with rice and glazed with miso butter. Maki uses crab sticks to make quick and easy cream croquettes. Bento Topics showcases a yummy bento from the Philippines.",
+      "endDate": "2021-04-26T01:45:00.000Z",
+      "link": "https://mega.nz/folder/PYQ3WY6T#MAMB7ybwnX8a_qGBoucU3A",
+      "recordDateEnd": "2021-04-26T01:45:33.817Z",
+      "recordDateStart": "2021-04-26T01:29:20.098Z",
+      "seriesId": "2077",
+      "sha256": "58a84b6635cebb0a00975823dc272a8fdbbefbe206ad960b46438fd4a7836fc9",
+      "startDate": "2021-04-26T01:30:00.000Z",
+      "subtitle": "Season 6-2 Shiitake Yaki-onigiri Bento & Kani Cream Korokke Bento",
+      "title": "BENTO EXPO",
+      "uploadedDate": "2021-04-26T02:28:35.064Z",
+      "raw": "https://mega.nz/folder/1ANRAART#RSB7DXcd4uOUK6_6sVFe3g"
     }
   ]
 }
