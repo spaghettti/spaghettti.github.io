@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-26T07:20:03.488Z",
+  "lastUpdated": "2021-04-26T08:00:03.761Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2706,6 +2706,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-04-22T08:14:18.806Z",
       "raw": "https://mega.nz/folder/DthjzYaT#hnbNrRgbemVYVx2juPNTAQ"
+    },
+    {
+      "airingId": "761",
+      "content": "Kagii Yasuaki talks about photographing underwater worlds in oceans across the globe, including his periodic trips to document submarine environments in the disaster-stricken Tohoku region of Japan.",
+      "description": "Kagii Yasuaki talks about photographing underwater worlds in oceans across the globe, including his periodic trips to document submarine environments in the disaster-stricken Tohoku region of Japan.",
+      "endDate": "2021-04-26T07:30:00.000Z",
+      "link": "https://mega.nz/folder/g2pCzCyI#gZqKy60P17aP9cGtdI8bxQ",
+      "recordDateEnd": "2021-04-26T07:30:26.806Z",
+      "recordDateStart": "2021-04-26T07:14:20.016Z",
+      "seriesId": "2058",
+      "sha256": "6bd14ba05b9328c4e21b7c885e209f240e30abf440a219fe5efab1d0161d57da",
+      "startDate": "2021-04-26T07:15:00.000Z",
+      "subtitle": "The World Beneath the Waves: Kagii Yasuaki / Underwater Photographer",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-04-26T07:56:31.271Z"
     }
   ]
 }

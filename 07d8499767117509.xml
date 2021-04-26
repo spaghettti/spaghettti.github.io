@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-26T07:20:03.477Z</lastUpdated>
+  <lastUpdated>2021-04-26T08:00:03.749Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2707,5 +2707,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-04-22T08:14:18.806Z</uploadedDate>
     <raw>https://mega.nz/folder/DthjzYaT#hnbNrRgbemVYVx2juPNTAQ</raw>
+  </episode>
+  <episode>
+    <airingId>761</airingId>
+    <content>Kagii Yasuaki talks about photographing underwater worlds in oceans across the globe, including his periodic trips to document submarine environments in the disaster-stricken Tohoku region of Japan.</content>
+    <description>Kagii Yasuaki talks about photographing underwater worlds in oceans across the globe, including his periodic trips to document submarine environments in the disaster-stricken Tohoku region of Japan.</description>
+    <endDate>2021-04-26T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/g2pCzCyI#gZqKy60P17aP9cGtdI8bxQ</link>
+    <recordDateEnd>2021-04-26T07:30:26.806Z</recordDateEnd>
+    <recordDateStart>2021-04-26T07:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>6bd14ba05b9328c4e21b7c885e209f240e30abf440a219fe5efab1d0161d57da</sha256>
+    <startDate>2021-04-26T07:15:00.000Z</startDate>
+    <subtitle>The World Beneath the Waves: Kagii Yasuaki / Underwater Photographer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-04-26T07:56:31.271Z</uploadedDate>
   </episode>
 </episodeList>
