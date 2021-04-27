@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-27T05:55:04.056Z</lastUpdated>
+  <lastUpdated>2021-04-27T06:15:03.648Z</lastUpdated>
   <seriesId>f85084a2d40d190a</seriesId>
   <title>DEEPER LOOK from New York</title>
   <episode>
@@ -243,5 +243,20 @@
     <title>DEEPER LOOK from New York</title>
     <uploadedDate>2021-04-20T05:09:22.233Z</uploadedDate>
     <raw>https://mega.nz/folder/k4QxXIyK#B68JdaJUmsXvwXLtnk5-Ew</raw>
+  </episode>
+  <episode>
+    <airingId>029</airingId>
+    <content>In late 2019, Akiko Iwasaki was alarmed about a new virus coming out of China. Reports revealed a possible respiratory infection which meant rapid transmission rates, and as she predicted, the virus soon spread worldwide. While vaccinations are now underway in the U.S. and other countries, variants have emerged, and cases are rising in some regions. So, are vaccines the light at the end of a long tunnel? Professor Iwasaki shares insights on vaccination, variants and the long-term effects of COVID-19.</content>
+    <description>An exprerienced anchor Del Irani has a cutting-ege dialogue. Today, Akiko Iwasaki, Professor of Immunobiology, Yale University /HHMI, will talk about the latest situation of vaccination of COVID-19.</description>
+    <endDate>2021-04-27T04:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/5AkWSIjI#AtTK_7rqJKLwntYoBFXZ8A</link>
+    <recordDateEnd>2021-04-27T04:45:31.099Z</recordDateEnd>
+    <recordDateStart>2021-04-27T04:29:20.067Z</recordDateStart>
+    <seriesId>2085</seriesId>
+    <sha256>6e8283e9ee510decd61b5cbb9eb3e71e926ea37d1423fe3dd6ec0aeebca1b6e2</sha256>
+    <startDate>2021-04-27T04:30:00.000Z</startDate>
+    <subtitle>Vaccinations - The Global Response to COVID-19 a Year On: Akiko Iwasaki / Professor of Immunobiology, Yale University / Howard Hughes Medical Institute</subtitle>
+    <title>DEEPER LOOK from New York</title>
+    <uploadedDate>2021-04-27T06:13:18.674Z</uploadedDate>
   </episode>
 </episodeList>
