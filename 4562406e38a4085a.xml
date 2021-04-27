@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-27T03:55:03.211Z</lastUpdated>
+  <lastUpdated>2021-04-27T05:35:04.116Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -675,5 +675,21 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2021-03-29T15:43:08.069Z</uploadedDate>
     <raw>https://mega.nz/folder/B1Q00TDS#9vQGo83yl5ENsDg_A7z7CA</raw>
+  </episode>
+  <episode>
+    <airingId>289</airingId>
+    <content>Learn about easy, delicious and healthy cooking with Chef Rika! Featured recipes: (1) Easy California Rolls (2) Simple Hosomaki Rolls.</content>
+    <description>Featured recipes: (1) Easy California Rolls (2) Simple Hosomaki Rolls / Learn about easy, delicious, and healthy cooking with Chef Rika!</description>
+    <endDate>2021-04-27T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/jIo3GAgL#3MhnfrVOpdw3WUmupNRq3Q</link>
+    <recordDateEnd>2021-04-27T02:00:28.772Z</recordDateEnd>
+    <recordDateStart>2021-04-27T01:29:20.100Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>7b79e802f11ca370b70d0d30c6b96747db6ff825aae34c43bb7945842e9d2ba9</sha256>
+    <startDate>2021-04-27T01:30:00.000Z</startDate>
+    <subtitle>Rika's TOKYO CUISINE: Rika's Sushi Rolls</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-04-27T05:30:15.520Z</uploadedDate>
+    <raw>https://mega.nz/folder/eIowwTTA#pnu7LvS0Lz_wzQ8mPO3iyg</raw>
   </episode>
 </episodeList>
