@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-27T06:40:03.696Z</lastUpdated>
+  <lastUpdated>2021-04-27T07:55:03.287Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1046,18 +1046,18 @@
   </episode>
   <episode>
     <airingId>642</airingId>
-    <content/>
+    <content>Extreme weather around the world is causing an increase in major natural disasters. We ask Ishii Mieko, a nurse who has worked in several disaster zones, about how to save lives.</content>
     <description>Extreme weather around the world is causing an increase in major natural disasters. We ask Ishii Mieko, a nurse who has worked in several disaster zones, about how to save lives.</description>
-    <endDate>2020-12-21T09:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/ZUt02apS#NWlIchuW7rAlFFq0eldY3A</link>
-    <recordDateEnd>2020-12-21T09:31:00.794Z</recordDateEnd>
-    <recordDateStart>2020-12-21T09:14:20.098Z</recordDateStart>
+    <endDate>2021-04-27T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/kR8igQ6Q#Kt9f6KrXBDptqBA4S3iOoQ</link>
+    <recordDateEnd>2021-04-27T07:30:27.258Z</recordDateEnd>
+    <recordDateStart>2021-04-27T07:14:20.016Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>c8df8ca37bc538e4c79d0ad7c2eba454bf0809abe4eb5a1d1b397312a4c80d57</sha256>
-    <startDate>2020-12-21T09:15:00.000Z</startDate>
-    <subtitle/>
+    <sha256>0f3d0b2d18fc2402e176c172606319a1742731afb7d4c1e8dafae178dd45daa5</sha256>
+    <startDate>2021-04-27T07:15:00.000Z</startDate>
+    <subtitle>Preventing Disaster-related Deaths: Ishii Mieko / Professor, International University of Health and Welfare Graduate School</subtitle>
     <title>Direct Talk</title>
-    <uploadedDate>2020-12-25T23:00:55.120Z</uploadedDate>
+    <uploadedDate>2021-04-27T07:53:08.596Z</uploadedDate>
     <raw>https://mega.nz/folder/110jRIwS#cG73zpvAVGfdOsEE3i8Xzw</raw>
   </episode>
   <episode>
