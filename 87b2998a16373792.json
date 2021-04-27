@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-27T07:55:03.197Z",
+  "lastUpdated": "2021-04-27T15:50:03.420Z",
   "seriesId": "2015",
   "title": "Science View",
   "episodes": [
@@ -178,6 +178,21 @@
       "title": "Science View",
       "uploadedDate": "2021-04-13T16:18:46.666Z",
       "raw": "https://mega.nz/folder/lN0yiRQB#9zj32yYiuY3vQMB_hVzwvw"
+    },
+    {
+      "airingId": "234",
+      "content": "The aurora is a beautiful display of light in the night sky. There are even places near the North and South Poles where the aurora continues to appear for 24 hours. One such place is the Svalbard Islands in the Arctic Circle, where it's dark all day during the winter months, making the archipelago an aurora hotspot. Using a special all-sky camera array, NHK videographers recorded the aurora there for nearly an entire day. Their footage clearly showed a beautiful green aurora, but also managed to capture the mysterious red aurora as well. In this episode, we'll learn what causes the aurora and why it's sometimes red.\n[Science News Watch]\nCreating New Building Materials from Concrete and Wood Waste\n[J-Innovators]\nA New Filtration Device to Address the World's Water Issues",
+      "description": "The aurora is a beautiful display of light in the night sky. Using a special camera array, NHK recorded a beautiful green aurora, and also managed to capture the mysterious red aurora as well.",
+      "endDate": "2021-04-27T15:00:00.000Z",
+      "link": "https://mega.nz/folder/CExgGI6D#BFNAxg9kdwQ7OqGmuovrkQ",
+      "recordDateEnd": "2021-04-27T15:00:28.927Z",
+      "recordDateStart": "2021-04-27T14:29:20.073Z",
+      "seriesId": "2015",
+      "sha256": "139eab8852b0d62f68aaaf472c59d431fd8f0764e2a14e92f37341d71aca4f45",
+      "startDate": "2021-04-27T14:30:00.000Z",
+      "subtitle": "Aurora: The Interaction Between Earth and Space",
+      "title": "Science View",
+      "uploadedDate": "2021-04-27T15:49:31.578Z"
     },
     {
       "airingId": "246",
