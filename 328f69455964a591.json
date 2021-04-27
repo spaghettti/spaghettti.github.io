@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-27T05:35:04.254Z",
+  "lastUpdated": "2021-04-27T05:55:04.062Z",
   "seriesId": "2086",
   "title": "Doctor's Insight",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "Doctor's Insight",
       "uploadedDate": "2020-12-29T05:23:02.857Z",
       "raw": "https://mega.nz/folder/SgtlXKgI#NLRzzfsGOnlNLSjfc9mTfw"
+    },
+    {
+      "airingId": "011",
+      "content": "Older adults and people with underlying conditions are at higher risk for serious illness from COVID-19. It's more important than ever for people in high-risk groups to maintain good health and avoid getting infected. They should also take steps to protect themselves by getting vaccinated for other diseases. We will look at the various types of underlying conditions and find out what we can do to keep the number of severe cases and fatalities from rising. Learn about the impact this crisis has had on the healthcare system and the lessons we have learned so far.",
+      "description": "Older adults and people with underlying conditions are at higher risk for serious illness from COVID-19. Find out what you can do to keep the number of severe cases and fatalities from rising.",
+      "endDate": "2021-04-27T04:55:00.000Z",
+      "link": "https://mega.nz/folder/4wg03CyD#N8iu6ABPtEPvwW7ZBP5bIg",
+      "recordDateEnd": "2021-04-27T04:55:24.698Z",
+      "recordDateStart": "2021-04-27T04:44:23.018Z",
+      "seriesId": "2086",
+      "sha256": "d22250be977eab5f6fe8ec80dda64e9107df3bae4de54e13b77e02f97d6e21e1",
+      "startDate": "2021-04-27T04:45:00.000Z",
+      "subtitle": "COVID-19: Reducing Your Risk of Serious Illness #5: What You Can Do Now",
+      "title": "Doctor's Insight",
+      "uploadedDate": "2021-04-27T05:53:13.432Z"
     },
     {
       "airingId": "012",
