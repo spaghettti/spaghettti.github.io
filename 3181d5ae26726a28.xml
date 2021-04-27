@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-27T02:00:04.003Z</lastUpdated>
+  <lastUpdated>2021-04-27T03:55:03.393Z</lastUpdated>
   <seriesId>3181d5ae26726a28</seriesId>
   <title>Document 72 Hours</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>Document 72 Hours</title>
     <uploadedDate>2021-03-02T02:55:56.941Z</uploadedDate>
     <raw>https://mega.nz/folder/ZIMG2TjJ#pkOcudzOwVtJF_nKZPBttw</raw>
+  </episode>
+  <episode>
+    <airingId>095</airingId>
+    <content>Located near Narita International Airport, Sakuranoyama Park offers visitors close-up views of planes arriving at and taking off from this major gateway to Japan. At times, several hundred people visit the park each day to catch awe-inspiring glimpses of huge aircraft flying overhead. Among the visitors were avid photographers, an elderly man who has never been on a plane, and a man fondly recalling the days when he flew all over the country on business trips. People at the park superimpose their own lives and dreams on the planes flying to distant corners of the world. For 3 days in early spring, a season for new beginnings, we listened to the stories of park visitors gazing at the planes up in the sky.</content>
+    <description>As aircraft arrive at and depart Narita Airport in Japan, visitors to a nearby park watch on and long to be onboard. For 3 days, we spoke to people enchanted by the thrill of seeing planes up close.</description>
+    <endDate>2021-04-27T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/VctUFDJB#zsGzrbzP_h4JkikXjHfRCg</link>
+    <recordDateEnd>2021-04-27T02:55:34.683Z</recordDateEnd>
+    <recordDateStart>2021-04-27T02:29:20.101Z</recordDateStart>
+    <seriesId>4026</seriesId>
+    <sha256>109ec5bc9785d718282cc563ab77853ce8191d0e0a836b2e9690a9edf7bc55fa</sha256>
+    <startDate>2021-04-27T02:30:00.000Z</startDate>
+    <subtitle>A Park Where Dreams Take Wing</subtitle>
+    <title>Document 72 Hours</title>
+    <uploadedDate>2021-04-27T03:50:37.215Z</uploadedDate>
+    <raw>https://mega.nz/folder/PY4GgRbZ#HCScR--qDJoSfbNWxH_MAQ</raw>
   </episode>
   <episode>
     <airingId>104</airingId>
