@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-28T06:45:04.260Z</lastUpdated>
+  <lastUpdated>2021-04-28T17:20:03.416Z</lastUpdated>
   <seriesId>31851bb3dfae7f8a</seriesId>
   <title>Trails to Oishii Tokyo</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>Trails to Oishii Tokyo</title>
     <uploadedDate>2021-04-14T16:11:27.014Z</uploadedDate>
     <raw>https://mega.nz/folder/bQwSxToJ#ucHt6vrAGmRbRlEzwkSkAQ</raw>
+  </episode>
+  <episode>
+    <airingId>092</airingId>
+    <content>This time, tofu. These popular white blocks, sometimes called the "meat of the fields," are high in protein and low in calories, making them a popular diet food. We visit a tofu maker in Tokyo, where tofu competition is fierce, to see how he carefully selects his soybeans, and even take a ride in his tofu-selling truck! We also discover unique tofu dishes, including some from a famed French chef who uses tofu in brand new ways. Join us and learn what makes tofu so great.</content>
+    <description>This time, TOFU. These popular white blocks made of soybeans are popular for diets. We visit TOFU makers, chefs and more in Tokyo, and learn what makes it so great.</description>
+    <endDate>2021-04-28T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/S34AjLqD#XWfW6wkIT9kcmFmU451png</link>
+    <recordDateEnd>2021-04-28T15:00:32.331Z</recordDateEnd>
+    <recordDateStart>2021-04-28T14:29:20.101Z</recordDateStart>
+    <seriesId>2054</seriesId>
+    <sha256>565663ae94a0f215b96a68a4eb9d170c70af0c6d73b746c33eb8aafd04ce64f5</sha256>
+    <startDate>2021-04-28T14:30:00.000Z</startDate>
+    <subtitle>TOFU</subtitle>
+    <title>Trails to Oishii Tokyo</title>
+    <uploadedDate>2021-04-28T17:15:56.059Z</uploadedDate>
+    <raw>https://mega.nz/folder/Tq5EBKJa#BpISugMmBrkKGlSIVtYrrQ</raw>
   </episode>
   <episode>
     <airingId>094</airingId>
