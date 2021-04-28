@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-27T15:50:03.502Z",
+  "lastUpdated": "2021-04-28T01:55:03.386Z",
   "seriesId": "2053",
   "title": "TOKYO EYE",
   "episodes": [
@@ -258,6 +258,21 @@
       "title": "TOKYO EYE 2020",
       "uploadedDate": "2021-04-07T01:45:05.300Z",
       "raw": "https://mega.nz/folder/FxwGAIRI#vu8jzsGf-hGsCpdjueOToA"
+    },
+    {
+      "airingId": "204",
+      "content": "Cherry blossoms - sakura - are one of the highlights of spring in Tokyo. But this year, normal cherry blossom viewing parties were off limits. That brought attention to new styles of sakura viewing, and to the people helping preserve the blossoms behind the scenes.",
+      "description": "Normal cherry blossom viewing parties were off limits. That brought attention to new styles of sakura viewing, and to the people helping preserve the blossoms behind the scenes.",
+      "endDate": "2021-04-28T01:00:00.000Z",
+      "link": "https://mega.nz/folder/KJoUHSzR#RWA7cIAb24CDBSE5ybijbg",
+      "recordDateEnd": "2021-04-28T01:00:28.677Z",
+      "recordDateStart": "2021-04-28T00:29:23.205Z",
+      "seriesId": "2053",
+      "sha256": "46ecb3bf6fbd625d04238840c910d5e3732fb16e3f916a951da45147be83d0bf",
+      "startDate": "2021-04-28T00:30:00.000Z",
+      "subtitle": "Sakura Sakura: Tokyo Cherry Blossoms 2021",
+      "title": "TOKYO EYE 2020",
+      "uploadedDate": "2021-04-28T01:54:07.599Z"
     }
   ]
 }
