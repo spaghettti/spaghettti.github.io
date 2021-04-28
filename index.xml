@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-28T01:55:03.627Z</lastUpdated>
+  <lastUpdated>2021-04-28T02:20:04.111Z</lastUpdated>
   <series>
     <count>24</count>
     <uniqueId>c656328a0f33bc89</uniqueId>
@@ -731,10 +731,10 @@
     <title>Lunch ON!</title>
   </series>
   <series>
-    <count>1</count>
+    <count>2</count>
     <uniqueId>76457393824f6c38</uniqueId>
-    <lastAiring>2021-03-28T07:20:00.000Z</lastAiring>
-    <lastUpload>2021-03-28T08:42:50.536Z</lastUpload>
+    <lastAiring>2021-04-28T01:45:00.000Z</lastAiring>
+    <lastUpload>2021-04-28T02:16:57.845Z</lastUpload>
     <seriesId>2092</seriesId>
     <title>Magical Japanese</title>
   </series>
