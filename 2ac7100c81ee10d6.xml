@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-29T05:05:03.855Z</lastUpdated>
+  <lastUpdated>2021-04-29T05:50:04.185Z</lastUpdated>
   <seriesId>2ac7100c81ee10d6</seriesId>
   <title>Lunch ON!</title>
   <episode>
@@ -293,5 +293,21 @@ In another segment, we visit an inn with over a hundred years of history to hear
     <title>Lunch ON!</title>
     <uploadedDate>2021-04-08T06:51:47.760Z</uploadedDate>
     <raw>https://mega.nz/folder/3Y9GGSxR#tvP8wb4bS4hBJt84l4W_qQ</raw>
+  </episode>
+  <episode>
+    <airingId>163</airingId>
+    <content>The city of Amagasaki in Hyogo Prefecture, western Japan is home to the leading wrapped sake barrel manufacturer in Japan. The traditional barrel they make is called Komodaru, and it is often used for celebratory occasions. Each barrel is handcrafted carefully with rice straw. Due to the COVID-19 pandemic, demand for the barrel has plummeted, but even in such a difficult situation, the crafters are able to work hard, thanks in no small part to the delicious bentos they have for lunch.</content>
+    <description>Amagasaki in western Japan is home to the leading wrapped sake barrel manufacturer in Japan. Despite the lack of demand due to COVID-19, the crafters work hard, filling up on their hearty bentos.</description>
+    <endDate>2021-04-29T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/0TBGXBRJ#EfQFjWmiK7V4d8pG0OceAw</link>
+    <recordDateEnd>2021-04-29T04:55:25.201Z</recordDateEnd>
+    <recordDateStart>2021-04-29T04:29:22.749Z</recordDateStart>
+    <seriesId>4023</seriesId>
+    <sha256>9470c2badd3fc0bf8491b66beefde54a1f3a3deb53b39ea6745f06d31feaad9e</sha256>
+    <startDate>2021-04-29T04:30:00.000Z</startDate>
+    <subtitle>Lunchtime for the Wrapped Sake Barrel Crafters</subtitle>
+    <title>Lunch ON!</title>
+    <uploadedDate>2021-04-29T05:47:23.139Z</uploadedDate>
+    <raw>https://mega.nz/folder/sWQw3ZRI#_9aNkdEVhEk4raZXF1-pSg</raw>
   </episode>
 </episodeList>
