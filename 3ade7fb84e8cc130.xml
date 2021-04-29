@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-29T07:55:03.496Z</lastUpdated>
+  <lastUpdated>2021-04-29T12:10:04.184Z</lastUpdated>
   <seriesId>3ade7fb84e8cc130</seriesId>
   <title>Four Seasons in Japan</title>
   <episode>
@@ -259,6 +259,21 @@
     <title>Four Seasons in Japan</title>
     <uploadedDate>2021-04-25T03:49:18.498Z</uploadedDate>
     <raw>https://mega.nz/folder/hgx20aTL#F7UOVbefU7XyuoUaHE081w</raw>
+  </episode>
+  <episode>
+    <airingId>060</airingId>
+    <content/>
+    <description>The program features Nagura Anparu of Ishigakijima Island. This wetland is a haven for soldier crabs and fiddler crabs, and beyond lies an expanse of mangrove forest teeming with small creatures.</description>
+    <endDate>2021-04-29T11:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/uplmlYTA#IkOwMWcDJ2To7Fg5doOzrA</link>
+    <recordDateEnd>2021-04-29T11:40:31.390Z</recordDateEnd>
+    <recordDateStart>2021-04-29T11:29:20.101Z</recordDateStart>
+    <seriesId>6101</seriesId>
+    <sha256>7c29a00ee3b2e39e5dcc1f73bb0057cfe5a1fc4016bbc90b8b0e95836c7675e7</sha256>
+    <startDate>2021-04-29T11:30:00.000Z</startDate>
+    <subtitle/>
+    <title>Four Seasons in Japan</title>
+    <uploadedDate>2021-04-29T12:06:13.477Z</uploadedDate>
   </episode>
   <episode>
     <airingId>061</airingId>
