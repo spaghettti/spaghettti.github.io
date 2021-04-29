@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2021-04-28T17:20:03.479Z",
+  "lastUpdated": "2021-04-29T01:00:05.768Z",
   "seriesId": "3004",
   "title": "The Sea of Japan",
   "episodes": [
+    {
+      "airingId": "523",
+      "content": "",
+      "description": "When spring comes, the Sea of Japan flourishes as plankton reach peak levels. Firefly squid spawn along the shoreline, emitting magical blue light in the surf on nights of the new moon.",
+      "endDate": "2021-04-29T00:30:00.000Z",
+      "link": "https://mega.nz/folder/a4VBTaJZ#jX4Fj8jpyNOpHxY-upJahw",
+      "recordDateEnd": "2021-04-29T00:30:30.715Z",
+      "recordDateStart": "2021-04-29T00:14:20.100Z",
+      "seriesId": "3004",
+      "sha256": "47a7193c1b2a37bbe3071054bd66f31115b384e40678463792dbb3f9f120afe1",
+      "startDate": "2021-04-29T00:15:00.000Z",
+      "subtitle": "Firefly Squid Sparkle in Spring",
+      "title": "The Sea of Japan",
+      "uploadedDate": "2021-04-29T00:58:56.302Z"
+    },
     {
       "airingId": "525",
       "content": "",

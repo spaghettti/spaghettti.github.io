@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-28T17:20:03.479Z</lastUpdated>
+  <lastUpdated>2021-04-29T01:00:05.768Z</lastUpdated>
   <seriesId>e40f4e27ade45a14</seriesId>
   <title>The Sea of Japan</title>
+  <episode>
+    <airingId>523</airingId>
+    <content/>
+    <description>When spring comes, the Sea of Japan flourishes as plankton reach peak levels. Firefly squid spawn along the shoreline, emitting magical blue light in the surf on nights of the new moon.</description>
+    <endDate>2021-04-29T00:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/a4VBTaJZ#jX4Fj8jpyNOpHxY-upJahw</link>
+    <recordDateEnd>2021-04-29T00:30:30.715Z</recordDateEnd>
+    <recordDateStart>2021-04-29T00:14:20.100Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>47a7193c1b2a37bbe3071054bd66f31115b384e40678463792dbb3f9f120afe1</sha256>
+    <startDate>2021-04-29T00:15:00.000Z</startDate>
+    <subtitle>Firefly Squid Sparkle in Spring</subtitle>
+    <title>The Sea of Japan</title>
+    <uploadedDate>2021-04-29T00:58:56.302Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>525</airingId>
     <content/>
