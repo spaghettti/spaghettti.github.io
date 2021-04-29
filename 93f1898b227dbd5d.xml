@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-29T01:45:03.751Z</lastUpdated>
+  <lastUpdated>2021-04-29T03:15:03.937Z</lastUpdated>
   <seriesId>93f1898b227dbd5d</seriesId>
   <title>DESIGN TALKS plus</title>
   <episode>
@@ -243,5 +243,21 @@
     <title>DESIGN TALKS plus</title>
     <uploadedDate>2021-03-29T06:49:26.203Z</uploadedDate>
     <raw>https://mega.nz/folder/PwBThIbJ#g258Ny1N6oKqke5VzNRqDA</raw>
+  </episode>
+  <episode>
+    <airingId>146</airingId>
+    <content>Today's theme is Visualize. Japan's top creative director Kashiwa Sato guides our presenters around his exhibition at The National Art Center. From the design of corporate logos we see every day to kindergartens, hospitals and regional industries - Sato has won acclaim for his work on brand strategy in a truly diverse array of fields. Explore the exhibition and the role design can play in the future.</content>
+    <description>Today's theme: Visualize. Japan's top creative director Kashiwa Sato has an exhibition at The National Art Center. Sato himself guides us round and explores the future role of design.</description>
+    <endDate>2021-04-29T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/zsVXSACZ#WyqjSXbObSjKfZqeRvYQuw</link>
+    <recordDateEnd>2021-04-29T02:00:32.724Z</recordDateEnd>
+    <recordDateStart>2021-04-29T01:29:20.101Z</recordDateStart>
+    <seriesId>2046</seriesId>
+    <sha256>3c6dce3192ec63740350b7746496cea7d28e507451574187bfca230af540fd61</sha256>
+    <startDate>2021-04-29T01:30:00.000Z</startDate>
+    <subtitle>Visualize</subtitle>
+    <title>DESIGN TALKS plus</title>
+    <uploadedDate>2021-04-29T03:10:35.212Z</uploadedDate>
+    <raw>https://mega.nz/folder/NwISFRxA#orKk-6h_9wyfKSkS7Hl3uw</raw>
   </episode>
 </episodeList>
