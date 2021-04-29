@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-29T12:10:04.009Z",
+  "lastUpdated": "2021-04-29T16:20:04.001Z",
   "seriesId": "2049",
   "title": "Japan Railway Journal",
   "episodes": [
@@ -338,6 +338,22 @@
       "title": "Japan Railway Journal",
       "uploadedDate": "2021-01-28T17:32:08.796Z",
       "raw": "https://mega.nz/folder/aMM01bSa#a2jxmnC5VVi9NdczUFEgaw"
+    },
+    {
+      "airingId": "097",
+      "content": "Moka Railway, which runs between Shimodate Station in Ibaraki Prefecture and Motegi Station in Tochigi Prefecture, began operating their tourist train, a Class C12 steam locomotive, in 1994, and opened the museum for retired steam engines in 2013. However, the cost to inspect and maintain the loco and facilities is expensive. Join us as we take a closer look at Moka Railway. See what they are doing to survive these difficult times and the challenges of preserving steam locomotives.",
+      "description": "Moka Railway north of Tokyo is famous for its steam locomotive. However, inspection and maintenance are very costly. See how the railway keeps its loco running despite these difficult times.",
+      "endDate": "2021-04-29T15:00:00.000Z",
+      "link": "https://mega.nz/folder/xaRUgbrR#sJHSuFp2jdmoBjSnQK2asw",
+      "recordDateEnd": "2021-04-29T15:00:35.897Z",
+      "recordDateStart": "2021-04-29T14:29:20.078Z",
+      "seriesId": "2049",
+      "sha256": "7afb2168c33ecc9280e58cb8e9cf0535548af8859ec6055cc9518482de61e378",
+      "startDate": "2021-04-29T14:30:00.000Z",
+      "subtitle": "Moka Railway: Pushing Forward with Steam",
+      "title": "Japan Railway Journal",
+      "uploadedDate": "2021-04-29T16:18:31.442Z",
+      "raw": "https://mega.nz/folder/rcZmxLLY#w5ePowzgUulG47q37uyILw"
     }
   ]
 }
