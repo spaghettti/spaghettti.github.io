@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-29T06:25:03.373Z",
+  "lastUpdated": "2021-04-29T07:10:03.674Z",
   "seriesId": "3004",
   "title": "Reading Japan",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "Reading Japan",
       "uploadedDate": "2021-04-29T06:22:03.335Z",
       "raw": "https://mega.nz/folder/ha42UTyD#G9rP9zBW57_cYBvzTzJNIg"
+    },
+    {
+      "airingId": "724",
+      "content": "",
+      "description": "Short stories by Japan's leading writers, read in English. The illustrations draw you deeper into the world of Japanese life and culture. In this episode,\"Changing to Short Sleeves\" by Yamamoto Fumio.",
+      "endDate": "2021-04-29T06:30:00.000Z",
+      "link": "https://mega.nz/folder/4PAVkYxJ#oI-s62FBZ_8eAePFN3NZkQ",
+      "recordDateEnd": "2021-04-29T06:30:26.127Z",
+      "recordDateStart": "2021-04-29T06:09:20.102Z",
+      "seriesId": "3004",
+      "sha256": "217decf00a79f5f63c0e9a27908b029b189fa8489a7b7c22bf0c1d16822bc971",
+      "startDate": "2021-04-29T06:10:00.000Z",
+      "subtitle": "Changing to Short Sleeves: Part 2",
+      "title": "Reading Japan",
+      "uploadedDate": "2021-04-29T07:05:26.364Z"
     }
   ]
 }
