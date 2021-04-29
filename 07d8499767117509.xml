@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-29T07:25:03.203Z</lastUpdated>
+  <lastUpdated>2021-04-29T07:55:03.303Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1859,6 +1859,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-02-18T05:04:57.309Z</uploadedDate>
     <raw>https://mega.nz/folder/L48kQCoI#LaYC5MjmEXuLGdt4mbQT0A</raw>
+  </episode>
+  <episode>
+    <airingId>705</airingId>
+    <content>Emmai Alaquiva discovers BLM also to the deaf and hard of hearing. He shows us this through his 59-second video "Unspeakable." He also talks about discrimination and the challenges ahead.</content>
+    <description>Emmai Alaquiva discovers BLM also to the deaf and hard of hearing.  He shows us this through his 59-second video "Unspeakable." He also talks about discrimination and the challenges ahead.</description>
+    <endDate>2021-04-29T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/FGpy3axI#-dyD8KmWZLDkuyWZl_Iptw</link>
+    <recordDateEnd>2021-04-29T07:30:34.641Z</recordDateEnd>
+    <recordDateStart>2021-04-29T07:14:20.042Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>6869fdc221b67db6fd5f877ffd5449c17a77b8f9267616524262dc7a28f00363</sha256>
+    <startDate>2021-04-29T07:15:00.000Z</startDate>
+    <subtitle>Black Lives Matter to the Deaf and Hard of Hearing: Emmai Alaquiva / Film Director, Composer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-04-29T07:51:32.520Z</uploadedDate>
+    <raw>https://mega.nz/folder/UWoG3YhC#4eF3q6KtfN2Utky689bhJA</raw>
   </episode>
   <episode>
     <airingId>706</airingId>
