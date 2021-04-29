@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-29T03:15:03.919Z</lastUpdated>
+  <lastUpdated>2021-04-29T03:45:04.049Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -190,6 +190,22 @@ South Korean film, TV drama and music have been popular in Japan for some time, 
     <title>Japanology Plus</title>
     <uploadedDate>2021-04-15T03:54:37.423Z</uploadedDate>
     <raw>https://mega.nz/folder/C0xCnQgJ#4cfeao45dloPy_ZYCzAOQQ</raw>
+  </episode>
+  <episode>
+    <airingId>218</airingId>
+    <content>*First broadcast on October 13, 2020.
+Kohfukuji, a World Heritage Site, is a prominent Buddhist temple in Nara, western Japan. One of its priests is Gyoei Saile, from Germany. In a Japanophiles interview, he tells Peter Barakan how his interest in Buddhism developed, and we learn about the extremely difficult exam he had to pass in order to become eligible to assume the abbacy of Kohfukuji. Saile also takes us through his daily routine, and offers thoughts on the role that Buddhism can play in contemporary Japan.</content>
+    <description>Gyoei Saile: A German who became a Buddhist priest in Japan. In a Japanophiles interview, Saile tells Peter Barakan about how he came to be a priest at one of Japan's best-known temples.</description>
+    <endDate>2021-04-29T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/n1VT1IDS#yZexGQ4TYb118jstY2_PbA</link>
+    <recordDateEnd>2021-04-29T03:00:30.116Z</recordDateEnd>
+    <recordDateStart>2021-04-29T02:29:20.077Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>0ceb2ce8ea68d10392c371a4eac2a195f4156848dd96433f67cc6245f89d920c</sha256>
+    <startDate>2021-04-29T02:30:00.000Z</startDate>
+    <subtitle>Japanophiles: Gyoei Saile</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-04-29T03:40:04.084Z</uploadedDate>
   </episode>
   <episode>
     <airingId>222</airingId>
