@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-29T01:00:05.658Z",
+  "lastUpdated": "2021-04-29T01:45:03.733Z",
   "seriesId": "2029",
   "title": "Core Kyoto",
   "episodes": [
@@ -546,6 +546,21 @@
       "title": "Core Kyoto",
       "uploadedDate": "2021-03-19T01:19:26.498Z",
       "raw": "https://mega.nz/folder/B0wiDC4I#w7j30q_leT8rZFA4CexYBw"
+    },
+    {
+      "airingId": "151",
+      "content": "The Tango district in northern Kyoto Pref. is Japan's largest producer of a supple fabric, supplying 60% of the kimono industry. The elegantly crimped texture makes it easy to dye. But with the proliferation of Western clothing, production has dropped to as far as 3% of the industry's heyday. The pandemic was an additional blow. Young artisans are exploring new materials to capture the world. Discover how this 300-year-old textile evolved and its ties with the ancient capital.",
+      "description": "Tango, in north Kyoto Pref., is Japan's largest producer of silk fabric. Tango Chirimen with a history dating back 300 years evolved together with the ancient capital's textile and kimono industries.",
+      "endDate": "2021-04-29T01:00:00.000Z",
+      "link": "https://mega.nz/folder/Th1AzAqZ#Qmp3t1zNoP2MBRbQbjeIgQ",
+      "recordDateEnd": "2021-04-29T01:00:24.367Z",
+      "recordDateStart": "2021-04-29T00:29:20.003Z",
+      "seriesId": "2029",
+      "sha256": "5fb0b90a734edc6cb0a9361da44bd261079c829a64de4a0c88617ffad59b26f7",
+      "startDate": "2021-04-29T00:30:00.000Z",
+      "subtitle": "Tango Chirimen: The Finest Texture in Silk Crepe",
+      "title": "Core Kyoto",
+      "uploadedDate": "2021-04-29T01:42:43.243Z"
     }
   ]
 }
