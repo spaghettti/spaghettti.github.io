@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-04-29T04:20:03.403Z</lastUpdated>
+  <lastUpdated>2021-04-29T05:05:03.973Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1201,6 +1201,14 @@
     <lastUpload>2021-04-11T08:08:57.770Z</lastUpload>
     <seriesId>4003</seriesId>
     <title>The Professionals</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>9b5f26f1d20c5457</uniqueId>
+    <lastAiring>2021-04-29T04:15:00.000Z</lastAiring>
+    <lastUpload>2021-04-29T05:05:02.917Z</lastUpload>
+    <seriesId>3004</seriesId>
+    <title>THE QUEST FOR ANCIENT COLOR</title>
   </series>
   <series>
     <count>2</count>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-29T04:20:03.409Z",
+  "lastUpdated": "2021-04-29T05:05:03.980Z",
   "series": [
     {
       "count": 1,
@@ -1200,6 +1200,14 @@
       "lastUpload": "2021-04-11T08:08:57.770Z",
       "seriesId": "4003",
       "title": "The Professionals"
+    },
+    {
+      "count": 1,
+      "uniqueId": "9b5f26f1d20c5457",
+      "lastAiring": "2021-04-29T04:15:00.000Z",
+      "lastUpload": "2021-04-29T05:05:02.917Z",
+      "seriesId": "3004",
+      "title": "THE QUEST FOR ANCIENT COLOR"
     },
     {
       "count": 2,
