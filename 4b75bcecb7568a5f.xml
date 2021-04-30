@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-30T07:05:03.520Z</lastUpdated>
+  <lastUpdated>2021-04-30T07:40:03.450Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -226,5 +226,6 @@
     <subtitle>Freestyle Football</subtitle>
     <title>J-Arena</title>
     <uploadedDate>2021-04-30T06:21:06.563Z</uploadedDate>
+    <raw>https://mega.nz/folder/dX5FhSSJ#jVk-H20FO1pCf6JwHwa5nQ</raw>
   </episode>
 </episodeList>

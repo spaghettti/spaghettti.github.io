@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-30T07:05:03.636Z</lastUpdated>
+  <lastUpdated>2021-04-30T07:40:03.560Z</lastUpdated>
   <seriesId>811a68ab0166cacc</seriesId>
   <title>ANIMATION X PARALYMPIC</title>
+  <episode>
+    <airingId>001</airingId>
+    <content/>
+    <description>Para-sport meets anime ahead of Tokyo 2020. The 5-a-side football episode which story was directed by Yoichi Takahashi, the creator of the popular manga and animation series "Captain Tsubasa."</description>
+    <endDate>2021-04-30T07:15:00.000Z</endDate>
+    <link>https://mega.nz/folder/dSYQARrQ#cCAPum2QehI0ybMh_owfmw</link>
+    <recordDateEnd>2021-04-30T07:15:26.984Z</recordDateEnd>
+    <recordDateStart>2021-04-30T07:09:20.102Z</recordDateStart>
+    <seriesId>6027</seriesId>
+    <sha256>648b80bf7ee98c750fb8a706aec92ef441a71a97f96edbd4a534d6fc7591de85</sha256>
+    <startDate>2021-04-30T07:10:00.000Z</startDate>
+    <subtitle/>
+    <title>ANIMATION X PARALYMPIC</title>
+    <uploadedDate>2021-04-30T07:39:23.398Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>007</airingId>
     <content/>
