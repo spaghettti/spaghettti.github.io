@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-30T10:05:03.663Z</lastUpdated>
+  <lastUpdated>2021-04-30T11:55:04.015Z</lastUpdated>
   <seriesId>3ade7fb84e8cc130</seriesId>
   <title>Four Seasons in Japan</title>
   <episode>
@@ -211,6 +211,22 @@
     <title>Four Seasons in Japan</title>
     <uploadedDate>2021-03-24T14:06:29.531Z</uploadedDate>
     <raw>https://mega.nz/folder/W8kTRYqY#u7tas3L-7ebxPMzGt-IUuw</raw>
+  </episode>
+  <episode>
+    <airingId>055</airingId>
+    <content/>
+    <description>This program features Chomonkyo Gorge in Yamaguchi Prefecture. Here, in autumn, macaques seek fruit in the colorful forest, and ducks and grebes gather in the calm of the river for the winter.</description>
+    <endDate>2021-04-30T11:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/lswi3KZR#U8qmM6KK3OSMN5YsV8uqWg</link>
+    <recordDateEnd>2021-04-30T11:40:32.446Z</recordDateEnd>
+    <recordDateStart>2021-04-30T11:29:20.100Z</recordDateStart>
+    <seriesId>6101</seriesId>
+    <sha256>552db1135e978b22345a27ed4ebf2f82809e49c1693336a76d13d5f72fa940b8</sha256>
+    <startDate>2021-04-30T11:30:00.000Z</startDate>
+    <subtitle/>
+    <title>Four Seasons in Japan</title>
+    <uploadedDate>2021-04-30T11:51:46.111Z</uploadedDate>
+    <raw>https://mega.nz/folder/Dx10SADZ#bvX2fpeyIXK6PjzxnH3ypA</raw>
   </episode>
   <episode>
     <airingId>056</airingId>
