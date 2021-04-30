@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-30T02:00:04.896Z</lastUpdated>
+  <lastUpdated>2021-04-30T02:15:04.093Z</lastUpdated>
   <seriesId>0d8539ab8172c64c</seriesId>
   <title>Selfie Japan!</title>
   <episode>
@@ -147,5 +147,20 @@
     <title>Selfie Japan!</title>
     <uploadedDate>2021-04-09T02:13:14.640Z</uploadedDate>
     <raw>https://mega.nz/folder/tl4FxAbY#JiCc1JtbrtdDjTv7vCNyoQ</raw>
+  </episode>
+  <episode>
+    <airingId>017</airingId>
+    <content/>
+    <description>Duan visits Kyonan in Chiba Prefecture to check out a huge Buddhist sculpture and an observation point on a cliff. She then goes to a shopping center to hear how people have overcome typhoon damage.</description>
+    <endDate>2021-04-30T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/ZHQnRQbR#6EFuJlTA63paAZO66j8PEQ</link>
+    <recordDateEnd>2021-04-30T01:45:30.360Z</recordDateEnd>
+    <recordDateStart>2021-04-30T01:39:20.103Z</recordDateStart>
+    <seriesId>6028</seriesId>
+    <sha256>945f4e8a9b720e2360f3153a3a0cb100f2db4c0d6963063cf0a800dd69dd336a</sha256>
+    <startDate>2021-04-30T01:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Selfie Japan!</title>
+    <uploadedDate>2021-04-30T02:11:31.325Z</uploadedDate>
   </episode>
 </episodeList>

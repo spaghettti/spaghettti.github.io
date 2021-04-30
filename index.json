@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-30T02:00:05.002Z",
+  "lastUpdated": "2021-04-30T02:15:04.168Z",
   "series": [
     {
       "count": 1,
@@ -978,10 +978,10 @@
       "title": "SAKE R-Evolution"
     },
     {
-      "count": 3,
+      "count": 4,
       "uniqueId": "7bd33bc2c9cbd03e",
-      "lastAiring": "2021-03-21T21:55:00.000Z",
-      "lastUpload": "2021-03-30T06:00:00.450Z",
+      "lastAiring": "2021-04-30T01:10:00.000Z",
+      "lastUpload": "2021-04-30T02:10:42.254Z",
       "seriesId": "6006",
       "title": "SAKURA - Cherry Blossom in Japan"
     },
@@ -1034,10 +1034,10 @@
       "title": "Seasoning the Seasons"
     },
     {
-      "count": 9,
+      "count": 10,
       "uniqueId": "0d8539ab8172c64c",
-      "lastAiring": "2021-04-09T01:40:00.000Z",
-      "lastUpload": "2021-04-09T02:13:14.640Z",
+      "lastAiring": "2021-04-30T01:40:00.000Z",
+      "lastUpload": "2021-04-30T02:11:31.325Z",
       "seriesId": "6028",
       "title": "Selfie Japan!"
     },
