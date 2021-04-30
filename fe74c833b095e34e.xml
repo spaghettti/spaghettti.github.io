@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-30T03:55:03.987Z</lastUpdated>
+  <lastUpdated>2021-04-30T04:15:04.531Z</lastUpdated>
   <seriesId>fe74c833b095e34e</seriesId>
   <title>The New Coronavirus in 3DCG</title>
   <episode>
@@ -19,5 +19,21 @@
     <title>The New Coronavirus in 3DCG (1)</title>
     <uploadedDate>2021-02-23T06:42:07.423Z</uploadedDate>
     <raw>https://mega.nz/folder/NA1nhADK#27ywzpZ59rOaGw-SEQtoZA</raw>
+  </episode>
+  <episode>
+    <airingId>004</airingId>
+    <content/>
+    <description>How can mankind cope with this new enemy? How are experts on the frontlines of medicine approaching this virus? By exploring the mechanisms of the virus, strategies to fight it become clear.</description>
+    <endDate>2021-04-30T03:15:00.000Z</endDate>
+    <link>https://mega.nz/folder/rMJ1nCgR#2X9z_odtwx1xtFePzLZ_5g</link>
+    <recordDateEnd>2021-04-30T03:15:33.875Z</recordDateEnd>
+    <recordDateStart>2021-04-30T03:09:20.102Z</recordDateStart>
+    <seriesId>6035</seriesId>
+    <sha256>24a5818503f04e5ada47befa51e03ca7d77f2f2257d5dd45bec31de49ad0dfe4</sha256>
+    <startDate>2021-04-30T03:10:00.000Z</startDate>
+    <subtitle/>
+    <title>The New Coronavirus in 3DCG (4)</title>
+    <uploadedDate>2021-04-30T04:14:58.702Z</uploadedDate>
+    <raw>https://mega.nz/folder/bsUTWS6Q#8kz_6l32klTEqWHi3GgPwA</raw>
   </episode>
 </episodeList>

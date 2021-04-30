@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-30T03:55:03.987Z",
+  "lastUpdated": "2021-04-30T04:15:04.532Z",
   "seriesId": "6035",
   "title": "The New Coronavirus in 3DCG",
   "episodes": [
@@ -18,6 +18,22 @@
       "title": "The New Coronavirus in 3DCG (1)",
       "uploadedDate": "2021-02-23T06:42:07.423Z",
       "raw": "https://mega.nz/folder/NA1nhADK#27ywzpZ59rOaGw-SEQtoZA"
+    },
+    {
+      "airingId": "004",
+      "content": "",
+      "description": "How can mankind cope with this new enemy? How are experts on the frontlines of medicine approaching this virus? By exploring the mechanisms of the virus, strategies to fight it become clear.",
+      "endDate": "2021-04-30T03:15:00.000Z",
+      "link": "https://mega.nz/folder/rMJ1nCgR#2X9z_odtwx1xtFePzLZ_5g",
+      "recordDateEnd": "2021-04-30T03:15:33.875Z",
+      "recordDateStart": "2021-04-30T03:09:20.102Z",
+      "seriesId": "6035",
+      "sha256": "24a5818503f04e5ada47befa51e03ca7d77f2f2257d5dd45bec31de49ad0dfe4",
+      "startDate": "2021-04-30T03:10:00.000Z",
+      "subtitle": "",
+      "title": "The New Coronavirus in 3DCG (4)",
+      "uploadedDate": "2021-04-30T04:14:58.702Z",
+      "raw": "https://mega.nz/folder/bsUTWS6Q#8kz_6l32klTEqWHi3GgPwA"
     }
   ]
 }
