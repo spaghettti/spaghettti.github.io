@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-30T06:25:04.146Z</lastUpdated>
+  <lastUpdated>2021-04-30T07:05:03.545Z</lastUpdated>
   <seriesId>9b5f26f1d20c5457</seriesId>
   <title>THE QUEST FOR ANCIENT COLOR</title>
+  <episode>
+    <airingId>482</airingId>
+    <content/>
+    <description>Japan's Classical period featured stunning natural colors and dyeing techniques. A fifth-generation Kyoto dye craftsman is rediscovering this tradition, resulting in a rich expression of hues.</description>
+    <endDate>2021-04-30T05:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/gGQCGZhK#NQ6oOFcPbq37HSD1Q20Kdw</link>
+    <recordDateEnd>2021-04-30T05:30:31.007Z</recordDateEnd>
+    <recordDateStart>2021-04-30T05:14:20.100Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>0e65d26e7764a04360320169dab52006704a6cdb1d969f740d3ec5e619d27603</sha256>
+    <startDate>2021-04-30T05:15:00.000Z</startDate>
+    <subtitle>A Tale of Japanese Crimson</subtitle>
+    <title>THE QUEST FOR ANCIENT COLOR</title>
+    <uploadedDate>2021-04-30T07:02:09.186Z</uploadedDate>
+    <raw>https://mega.nz/folder/8LpwSI5a#b7l42eZ_OEMdglDxx-9qHA</raw>
+  </episode>
   <episode>
     <airingId>483</airingId>
     <content/>
