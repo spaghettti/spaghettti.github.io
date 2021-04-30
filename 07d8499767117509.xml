@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-30T07:40:03.419Z</lastUpdated>
+  <lastUpdated>2021-04-30T10:05:03.453Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -502,19 +502,19 @@
   </episode>
   <episode>
     <airingId>589</airingId>
-    <content>Air pollution is causing health problems in Ulaanbaatar, the Mongolian capital. We speak with former Mongolian Minister of the Environment, Oyun Sanjaasuren, on its causes and solutions.</content>
+    <content/>
     <description>Air pollution is causing health problems in Ulaanbaatar, the Mongolian capital. We speak with former Mongolian Minister of the Environment, Oyun Sanjaasuren, on its causes and solutions.</description>
-    <endDate>2020-11-18T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/9IpkASSR#UnHiMZgOaQcHh7YHT3N3WA</link>
-    <recordDateEnd>2020-11-18T07:30:28.897Z</recordDateEnd>
-    <recordDateStart>2020-11-18T07:14:20.014Z</recordDateStart>
+    <endDate>2021-04-30T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/dXY2WbJY#ZgShD2qYOn3IGbv74_9zhA</link>
+    <recordDateEnd>2021-04-30T09:30:27.313Z</recordDateEnd>
+    <recordDateStart>2021-04-30T09:14:20.100Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>0313839073baf1e59eff052a8756239cdb0b6fd5d6d24aff510d012de78327a2</sha256>
-    <startDate>2020-11-18T07:15:00.000Z</startDate>
-    <subtitle>Tackling Air Pollution in Mongolia: Oyun Sanjaasuren / Director of Green Climate Fund</subtitle>
+    <sha256>a00f8886916742dc7aede26c3a12a71e970f29b232ffc974aa11ae9201f1b168</sha256>
+    <startDate>2021-04-30T09:15:00.000Z</startDate>
+    <subtitle/>
     <title>Direct Talk</title>
-    <uploadedDate>2020-12-25T23:56:51.961Z</uploadedDate>
-    <raw>https://mega.nz/folder/EQQ11QYb#U-Rq6LUI_ImUwjUzKbViYA</raw>
+    <uploadedDate>2021-04-30T10:04:02.008Z</uploadedDate>
+    <raw>https://mega.nz/folder/BsIGEBpb#WAMvK1lsZkfekHj5xejjiA</raw>
   </episode>
   <episode>
     <airingId>591</airingId>
