@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-30T04:15:04.405Z",
+  "lastUpdated": "2021-04-30T06:25:04.120Z",
   "seriesId": "2073",
   "title": "J-Arena",
   "episodes": [
@@ -210,6 +210,21 @@
       "title": "J-Arena",
       "uploadedDate": "2021-04-23T06:55:46.539Z",
       "raw": "https://mega.nz/folder/FrpUwLbD#vvqtg7FdwyyJGikhuuFufA"
+    },
+    {
+      "airingId": "086",
+      "content": "Freestyle Football, the expressive sport of performing tricks with a football, has exploded over the past 2 decades, with video uploads of \"ballers\" from around the world showing off their skills clocking millions of views. The one-on-one battles at big global tournaments really get the crowd fired up, as competitors seek to outdo each other on technique, creativity and style. We meet 2 internationally renowned rivals from Japan as they polish their dynamic, contrasting styles and gear up for the fight to become Japan's latest number one.",
+      "description": "Freestyle Football is an energetic young sport that's experiencing phenomenal growth in popularity. Two talented rivals from Japan are getting ready to battle it out for the national title.",
+      "endDate": "2021-04-30T05:00:00.000Z",
+      "link": "https://mega.nz/folder/tW4jjKJR#GAIdLmMM6F4SaN5_SandNg",
+      "recordDateEnd": "2021-04-30T05:00:30.651Z",
+      "recordDateStart": "2021-04-30T04:29:20.100Z",
+      "seriesId": "2073",
+      "sha256": "2477f7674609ce8508bd92724f44d6e90048e8d02d44d7d7d37088cf8c7aa211",
+      "startDate": "2021-04-30T04:30:00.000Z",
+      "subtitle": "Freestyle Football",
+      "title": "J-Arena",
+      "uploadedDate": "2021-04-30T06:21:06.563Z"
     }
   ]
 }
