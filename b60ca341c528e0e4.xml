@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-01T04:45:04.653Z</lastUpdated>
+  <lastUpdated>2021-05-01T05:10:04.438Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -99,6 +99,21 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-04-24T05:07:08.483Z</uploadedDate>
     <raw>https://mega.nz/folder/IJlnUASS#vJzJY_FkDlG2R0JYxfxMMw</raw>
+  </episode>
+  <episode>
+    <airingId>007</airingId>
+    <content/>
+    <description>#7 Please speak slowly. / To ask someone to speak slowly, say "yukkuri hanashite kudasai".</description>
+    <endDate>2021-05-01T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/d1BkQBIS#thXZJWh1Wq2u5MuqWNbnZw</link>
+    <recordDateEnd>2021-05-01T05:00:26.151Z</recordDateEnd>
+    <recordDateStart>2021-05-01T04:54:22.691Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>e8cc79c5f3ef2be2cfa540a25b36c2d90a6d681f08661228d91529bbb0506d77</sha256>
+    <startDate>2021-05-01T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-05-01T05:09:50.096Z</uploadedDate>
   </episode>
   <episode>
     <airingId>014</airingId>

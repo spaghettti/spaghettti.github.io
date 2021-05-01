@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-01T04:45:04.655Z",
+  "lastUpdated": "2021-05-01T05:10:04.440Z",
   "seriesId": "6022",
   "title": "Easy Japanese",
   "episodes": [
@@ -98,6 +98,21 @@
       "title": "Easy Japanese",
       "uploadedDate": "2021-04-24T05:07:08.483Z",
       "raw": "https://mega.nz/folder/IJlnUASS#vJzJY_FkDlG2R0JYxfxMMw"
+    },
+    {
+      "airingId": "007",
+      "content": "",
+      "description": "#7 Please speak slowly. / To ask someone to speak slowly, say \"yukkuri hanashite kudasai\".",
+      "endDate": "2021-05-01T05:00:00.000Z",
+      "link": "https://mega.nz/folder/d1BkQBIS#thXZJWh1Wq2u5MuqWNbnZw",
+      "recordDateEnd": "2021-05-01T05:00:26.151Z",
+      "recordDateStart": "2021-05-01T04:54:22.691Z",
+      "seriesId": "6022",
+      "sha256": "e8cc79c5f3ef2be2cfa540a25b36c2d90a6d681f08661228d91529bbb0506d77",
+      "startDate": "2021-05-01T04:55:00.000Z",
+      "subtitle": "",
+      "title": "Easy Japanese",
+      "uploadedDate": "2021-05-01T05:09:50.096Z"
     },
     {
       "airingId": "014",
