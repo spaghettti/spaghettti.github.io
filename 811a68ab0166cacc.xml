@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-01T04:10:03.607Z</lastUpdated>
+  <lastUpdated>2021-05-01T04:30:04.469Z</lastUpdated>
   <seriesId>811a68ab0166cacc</seriesId>
   <title>ANIMATION X PARALYMPIC</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>ANIMATION X PARALYMPIC</title>
     <uploadedDate>2021-04-30T07:39:23.398Z</uploadedDate>
     <raw>https://mega.nz/folder/gXQHCKbZ#kRiah99L-SwwRCw_Tsm0mQ</raw>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>The special animation series, which depicts the world of para sports. This time, it is focused on Para Athletics, which original story was written by popular manga-comic artist, Eisaku Kubonouchi.</description>
+    <endDate>2021-05-01T04:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/s5AlxKBY#8BFpsj5qPIMajMMmi2tLyQ</link>
+    <recordDateEnd>2021-05-01T04:00:27.807Z</recordDateEnd>
+    <recordDateStart>2021-05-01T03:54:20.004Z</recordDateStart>
+    <seriesId>6027</seriesId>
+    <sha256>084b6a34348b1dfca161a2ad9cf5262741d88b70c2cc807d9088797e2b0ac088</sha256>
+    <startDate>2021-05-01T03:55:00.000Z</startDate>
+    <subtitle/>
+    <title>ANIMATION X PARALYMPIC</title>
+    <uploadedDate>2021-05-01T04:26:03.091Z</uploadedDate>
   </episode>
   <episode>
     <airingId>007</airingId>
