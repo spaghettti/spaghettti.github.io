@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-01T04:30:04.374Z</lastUpdated>
+  <lastUpdated>2021-05-01T04:45:04.570Z</lastUpdated>
   <seriesId>44913f78df1c0e91</seriesId>
   <title>The Signs</title>
   <episode>
@@ -164,5 +164,21 @@ As real-world contact is limited, technology is helping people to build and main
     <title>The Signs</title>
     <uploadedDate>2021-03-24T23:13:28.397Z</uploadedDate>
     <raw>https://mega.nz/folder/HpRXRYQB#ckSwg5wCE0Ld1VQb38ft0Q</raw>
+  </episode>
+  <episode>
+    <airingId>011</airingId>
+    <content>In 2020, as people hunkered down due to the pandemic, they started to take a fresh look at reading. Online events organized by bookstores and book clubs experienced unprecedented growth. There were even some who ventured to open real life, brick and mortar bookstores, in the hopes of nurturing connection. We take a look at how the pandemic has sparked a renewed relationship with books.</content>
+    <description>As online bookstore events and participation in book clubs experience a boom, real bookstores are also being seen in a new light. The pandemic has spawned a renewed relationship with books.</description>
+    <endDate>2021-05-01T03:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/e1dwAbgA#A8oZ2unE0ydH6EctRcf4rQ</link>
+    <recordDateEnd>2021-05-01T03:55:26.449Z</recordDateEnd>
+    <recordDateStart>2021-05-01T03:39:20.100Z</recordDateStart>
+    <seriesId>2089</seriesId>
+    <sha256>6244e213553e856a328599de8c37d82dca5d328e95f031b5b8f56b10b5f9d5aa</sha256>
+    <startDate>2021-05-01T03:40:00.000Z</startDate>
+    <subtitle>A New Look at Books</subtitle>
+    <title>The Signs</title>
+    <uploadedDate>2021-05-01T04:44:27.395Z</uploadedDate>
+    <raw>https://mega.nz/folder/gTAwlBAB#eyIcbfScY-kmcKFyUDzZ4w</raw>
   </episode>
 </episodeList>

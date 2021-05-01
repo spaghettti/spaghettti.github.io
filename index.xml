@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-01T04:30:04.549Z</lastUpdated>
+  <lastUpdated>2021-05-01T04:45:04.754Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1235,10 +1235,10 @@
     <title>The Secret Passion of Steve Jobs</title>
   </series>
   <series>
-    <count>10</count>
+    <count>11</count>
     <uniqueId>44913f78df1c0e91</uniqueId>
-    <lastAiring>2021-03-27T03:40:00.000Z</lastAiring>
-    <lastUpload>2021-03-28T08:36:22.916Z</lastUpload>
+    <lastAiring>2021-05-01T03:40:00.000Z</lastAiring>
+    <lastUpload>2021-05-01T04:44:27.395Z</lastUpload>
     <seriesId>2089</seriesId>
     <title>The Signs</title>
   </series>
