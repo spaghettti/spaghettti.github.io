@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-04-30T11:55:03.851Z",
+  "lastUpdated": "2021-05-01T04:10:03.495Z",
   "seriesId": "2068",
   "title": "Train Cruise",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "Train Cruise",
       "uploadedDate": "2021-02-16T01:12:15.543Z",
       "raw": "https://mega.nz/folder/Uh1mXZbZ#SiagSdwIL1BJARLKLaKD2Q"
+    },
+    {
+      "airingId": "023",
+      "content": "We start our journey at Fukuchiyama, a transport hub in central Kyoto Prefecture, and head north through valleys to the Sea of Japan and Toyooka, across the border in Hyogo Prefecture. The Kyoto Tango Railway boasts various carriages, with attractive interiors, operating on its 3 lines. We stop to admire the spectacular view of the sea, learn about the culture and history from local residents, and visit places that appear in legends.",
+      "description": "Journey through valleys in northern Kyoto Pref. and admire grand spectacular the Sea of Japan. We ride attractive trains, learn about the culture and history, and visit places that appear in legends.",
+      "endDate": "2021-05-01T02:55:00.000Z",
+      "link": "https://mega.nz/folder/b11C3DQR#joWdiGLmGrjtxtYQuF9TKQ",
+      "recordDateEnd": "2021-05-01T02:55:26.165Z",
+      "recordDateStart": "2021-05-01T02:09:20.100Z",
+      "seriesId": "2068",
+      "sha256": "28407d52201d0e3d4b533a7d195d53f0f3d2009458b26708972437225ffbebf1",
+      "startDate": "2021-05-01T02:10:00.000Z",
+      "subtitle": "Legends along the Kyoto Tango Railway",
+      "title": "Train Cruise",
+      "uploadedDate": "2021-05-01T04:08:39.118Z"
     }
   ]
 }
