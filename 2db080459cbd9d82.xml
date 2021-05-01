@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-01T05:10:04.411Z</lastUpdated>
+  <lastUpdated>2021-05-01T06:20:03.408Z</lastUpdated>
   <seriesId>2db080459cbd9d82</seriesId>
   <title>GATTEN!</title>
+  <episode>
+    <airingId>001</airingId>
+    <content>Eating, talking, laughing ... all actions made possible by your jaw. You simply can't live without it. But a surprising number of people have tightness or pain in their jaw -- 19 million in Japan alone. And if this issue gets worse, it can lead to depression, loss of appetite and more. In 2018, the 1st guidelines for this "tight jaw" condition were released in Japan, including some simple treatment methods you can do yourself. An expert shows us how to loosen our jaw muscles by stretching and massaging them. Do this once in the morning and once at night, and you could see amazing results!</content>
+    <description>Eating, talking, laughing...all made possible by your jaw. But 19 million people in Japan alone have tightness in their jaw that could lead to more serious issues. We learn how to combat "tight jaw."</description>
+    <endDate>2021-05-01T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/uIJGmDLA#DyCVPe7VoeYoV0A0Bq7Y8Q</link>
+    <recordDateEnd>2021-05-01T04:55:30.127Z</recordDateEnd>
+    <recordDateStart>2021-05-01T04:09:20.101Z</recordDateStart>
+    <seriesId>4031</seriesId>
+    <sha256>1a986c54208509f4f02045df34cf2cb75e267a89fc9b2144123df5a0c7f4277c</sha256>
+    <startDate>2021-05-01T04:10:00.000Z</startDate>
+    <subtitle>The Mystery of the Tight Jaw!</subtitle>
+    <title>GATTEN!</title>
+    <uploadedDate>2021-05-01T06:17:13.930Z</uploadedDate>
+    <raw>https://mega.nz/folder/RbBAiBLS#V6TMxfQMbBqGUD60BkhBJQ</raw>
+  </episode>
   <episode>
     <airingId>005</airingId>
     <content>The number one problem that seniors have with urination is nocturia --frequent nighttime urination. Getting up to use the toilet several times a night can disrupt your sleep and even lead to depression or serious injury. Many people think nocturia is an inevitable part of getting old, but we now know that most cases have a specific cause: the water you consume during the day is being stored up in a certain part of your body ... and it's not your bladder. However, with some easy methods anyone can do, you can reduce your nocturia!</content>
