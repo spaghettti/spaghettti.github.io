@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-01T07:20:03.602Z</lastUpdated>
+  <lastUpdated>2021-05-01T20:05:03.690Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -404,5 +404,21 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <title>NHK Documentary</title>
     <uploadedDate>2021-04-24T17:59:56.095Z</uploadedDate>
     <raw>https://mega.nz/folder/EBNmABwb#t-B-xQNH_9qVqvNIdwl2fw</raw>
+  </episode>
+  <episode>
+    <airingId>392</airingId>
+    <content>In the series "2030" we tackle the challenges facing humanity over the next decade. In this episode, we investigate the looming crisis threatening our planet's food and water supply. Despite falling for decades, the UN has warned that global hunger is now fast on the rise again. A key factor is the enormous volume of food wasted daily in wealthy countries. With the global population projected to push 10 billion by 2050, researchers warn deep disparities in access to food and water could trigger multiple global conflicts. We take stock of the tough choices needed to avert disaster.</content>
+    <description>In the series "2030" we tackle the challenges facing humanity over the next decade. In this episode, we investigate the looming crisis threatening the stability of our planet's food and water supply.</description>
+    <endDate>2021-05-01T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/llBAxBaS#5TunvF2Ku-s7iR8WhytfeQ</link>
+    <recordDateEnd>2021-05-01T16:00:30.205Z</recordDateEnd>
+    <recordDateStart>2021-05-01T15:09:22.637Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>cc8425054f8027d0cbe27cde3c6b439fe65da5940b073b6b597f090aac83db87</sha256>
+    <startDate>2021-05-01T15:10:00.000Z</startDate>
+    <subtitle>2030 At a Crossroads to the Future: Hunger Pandemic - The Catastrophic Cost of Excess</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2021-05-01T20:04:04.847Z</uploadedDate>
+    <raw>https://mega.nz/folder/S11TSQ5C#VF9-ZHTXfbgrRkK5FPChrw</raw>
   </episode>
 </episodeList>
