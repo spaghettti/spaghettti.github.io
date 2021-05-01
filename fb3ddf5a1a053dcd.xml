@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-01T06:50:04.151Z</lastUpdated>
+  <lastUpdated>2021-05-01T07:20:03.399Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -341,6 +341,22 @@
     <raw>https://mega.nz/folder/4tomCTgQ#m_Y3kqbz1Fb-iecYHTui5w</raw>
   </episode>
   <episode>
+    <airingId>035</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, robotic exoskeletons, machines that turn humans into cyborgs! They were invented by professor and business founder Sankai Yoshiyuki, who created them for people who have trouble walking, such as the elderly or those who have suffered strokes. We dive into the little-known story behind the development of the world's first robotic exoskeletons.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, robotic exoskeletons, machines that turn humans into cyborgs!</description>
+    <endDate>2021-05-01T05:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/Qb5Tiaaa#d80u6eotLU47yNvfRXz8tw</link>
+    <recordDateEnd>2021-05-01T05:25:29.131Z</recordDateEnd>
+    <recordDateStart>2021-05-01T05:09:20.100Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>ba1e2e36a0ea6507f7ea0306be29c7d977edb13f69b1d94d73eb198ff97dd2ea</sha256>
+    <startDate>2021-05-01T05:10:00.000Z</startDate>
+    <subtitle>Robotic Exoskeletons</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2021-05-01T07:16:51.187Z</uploadedDate>
+    <raw>https://mega.nz/folder/9lp3VALJ#z5O0wWD4oD3hCPyd8q1Q6Q</raw>
+  </episode>
+  <episode>
     <airingId>036</airingId>
     <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, a surgical microscope stand used in neurosurgery. Invented by an optics company in Tokyo, it features a unique piece of tech which keeps the microscope in focus even when it moves. Discover the little-known story behind this invention, partially inspired by equipment used to observe outer space!</content>
     <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, a stand used in neurosurgery that keeps the microscope in focus even when it moves!</description>
@@ -354,6 +370,7 @@
     <subtitle>Surgical Microscope Stand</subtitle>
     <title>Japan's Top Inventions</title>
     <uploadedDate>2021-05-01T06:47:01.230Z</uploadedDate>
+    <raw>https://mega.nz/folder/UTQU3BSY#rM2fBTDVgWKHoik_sxBxuw</raw>
   </episode>
   <episode>
     <airingId>041</airingId>
