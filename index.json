@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-01T20:05:03.726Z",
+  "lastUpdated": "2021-05-02T02:35:04.172Z",
   "series": [
     {
       "count": 1,
@@ -850,10 +850,10 @@
       "title": "NHK WORLD PRIME"
     },
     {
-      "count": 1,
+      "count": 2,
       "uniqueId": "db139dd04eec6893",
-      "lastAiring": "2021-03-06T01:10:00.000Z",
-      "lastUpload": "2021-03-06T05:45:29.126Z",
+      "lastAiring": "2021-05-02T00:10:00.000Z",
+      "lastUpload": "2021-05-02T02:34:22.497Z",
       "seriesId": "5001",
       "title": "NHK WORLD PRIME"
     },

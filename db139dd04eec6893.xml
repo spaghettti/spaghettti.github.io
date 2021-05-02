@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-01T20:05:03.583Z</lastUpdated>
+  <lastUpdated>2021-05-02T02:35:04.027Z</lastUpdated>
   <seriesId>db139dd04eec6893</seriesId>
   <title>NHK WORLD PRIME</title>
+  <episode>
+    <airingId>167</airingId>
+    <content>In 2007, an unknown Japanese youth with severe autism wrote a book of essays in Japanese titled "The Reason I Jump." Authored by Naoki Higashida, it reveals the inner heart of a person with autism and has become an international bestseller translated into over 20 languages. This success is due to author David Mitchell, who has an autistic son. Having had experience living in Japan, David could read the book in Japanese and felt that his own son was speaking to him through Naoki's words, providing insight into such behaviors as head banging and uncontrolled vocalization. He translated the essays into English to help other families around the world who grapple with autism. In March 2014, David visited Naoki in Japan, where they had a moving encounter. This is the story of international hope engendered by interaction between a Japanese youth with autism and a famous English author.</content>
+    <description>This program is about the heartfelt interaction between Naoki Higashida, the autistic author of "The Reason I Jump", and fellow author David Mitchell who translated the book and whose son is autistic.</description>
+    <endDate>2021-05-02T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/OQpBBYrC#iG7D_F7q1NDm47Ce2I2KaQ</link>
+    <recordDateEnd>2021-05-02T01:00:29.708Z</recordDateEnd>
+    <recordDateStart>2021-05-02T00:09:23.069Z</recordDateStart>
+    <seriesId>5001</seriesId>
+    <sha256>36ce23d3a95daa93f176df92a78b2951e7fc3d85acc17ee45df493800636c018</sha256>
+    <startDate>2021-05-02T00:10:00.000Z</startDate>
+    <subtitle>What You Taught Me About My Son</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2021-05-02T02:34:22.497Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>324</airingId>
     <content>On March 11, 2011, Japan was rocked by the Great East Japan Earthquake that tragically claimed the lives of more than 15,000 people. Since then, Actor Ken Watanabe has repeatedly visited the area, met more than 20,000 people, and heard their stories. Watanabe eventually opened a café in Kesennuma, a port city in Miyagi Prefecture, and has been working to help people connect and network throughout the disaster areas.
