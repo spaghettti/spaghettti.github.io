@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-02T06:35:03.762Z</lastUpdated>
+  <lastUpdated>2021-05-02T07:40:03.807Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -147,6 +147,21 @@
     <title>Somewhere Street</title>
     <uploadedDate>2021-01-06T11:01:27.980Z</uploadedDate>
     <raw>https://mega.nz/folder/hws3yayB#jD8CQ7mYuCEgmf3kMyGLAw</raw>
+  </episode>
+  <episode>
+    <airingId>062</airingId>
+    <content>Dunedin in New Zealand is the town where settlers from Scotland arrived with the intent of creating a new Edinburgh in a land of plenty and it retains much of its original flavor. In this episode, we stroll around the beautiful city streets.</content>
+    <description>Dunedin in New Zealand is the town where settlers from Scotland arrived with the intent of creating a new Edinburgh. In this episode, we stroll around the beautiful city streets.</description>
+    <endDate>2021-05-02T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/BHBEDDKI#IJOywHIORdUadSnqaG8DpA</link>
+    <recordDateEnd>2021-05-02T05:00:22.881Z</recordDateEnd>
+    <recordDateStart>2021-05-02T04:09:20.100Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>8f4a1fe864e9080a8df78e19b6b7d4b9c0505a1b89847d8ce9fd9c93878bea00</sha256>
+    <startDate>2021-05-02T04:10:00.000Z</startDate>
+    <subtitle>Dunedin, New Zealand</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-05-02T07:35:23.713Z</uploadedDate>
   </episode>
   <episode>
     <airingId>082</airingId>

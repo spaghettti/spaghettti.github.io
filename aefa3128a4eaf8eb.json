@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-02T06:35:03.765Z",
+  "lastUpdated": "2021-05-02T07:40:03.809Z",
   "seriesId": "4017",
   "title": "Somewhere Street",
   "episodes": [
@@ -146,6 +146,21 @@
       "title": "Somewhere Street",
       "uploadedDate": "2021-01-06T11:01:27.980Z",
       "raw": "https://mega.nz/folder/hws3yayB#jD8CQ7mYuCEgmf3kMyGLAw"
+    },
+    {
+      "airingId": "062",
+      "content": "Dunedin in New Zealand is the town where settlers from Scotland arrived with the intent of creating a new Edinburgh in a land of plenty and it retains much of its original flavor. In this episode, we stroll around the beautiful city streets.",
+      "description": "Dunedin in New Zealand is the town where settlers from Scotland arrived with the intent of creating a new Edinburgh. In this episode, we stroll around the beautiful city streets.",
+      "endDate": "2021-05-02T05:00:00.000Z",
+      "link": "https://mega.nz/folder/BHBEDDKI#IJOywHIORdUadSnqaG8DpA",
+      "recordDateEnd": "2021-05-02T05:00:22.881Z",
+      "recordDateStart": "2021-05-02T04:09:20.100Z",
+      "seriesId": "4017",
+      "sha256": "8f4a1fe864e9080a8df78e19b6b7d4b9c0505a1b89847d8ce9fd9c93878bea00",
+      "startDate": "2021-05-02T04:10:00.000Z",
+      "subtitle": "Dunedin, New Zealand",
+      "title": "Somewhere Street",
+      "uploadedDate": "2021-05-02T07:35:23.713Z"
     },
     {
       "airingId": "082",
