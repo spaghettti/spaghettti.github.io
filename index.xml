@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-02T07:40:03.925Z</lastUpdated>
+  <lastUpdated>2021-05-02T08:20:04.223Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1363,10 +1363,10 @@
     <title>Where We Call Home</title>
   </series>
   <series>
-    <count>24</count>
+    <count>25</count>
     <uniqueId>b2d48e71e072a1aa</uniqueId>
-    <lastAiring>2021-04-25T01:45:00.000Z</lastAiring>
-    <lastUpload>2021-04-25T07:13:44.548Z</lastUpload>
+    <lastAiring>2021-05-02T01:45:00.000Z</lastAiring>
+    <lastUpload>2021-05-02T08:17:01.576Z</lastUpload>
     <seriesId>2069</seriesId>
     <title>Wild Hokkaido!</title>
   </series>
