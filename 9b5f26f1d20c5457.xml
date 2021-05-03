@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-03T06:35:03.746Z</lastUpdated>
+  <lastUpdated>2021-05-03T06:55:04.291Z</lastUpdated>
   <seriesId>9b5f26f1d20c5457</seriesId>
   <title>THE QUEST FOR ANCIENT COLOR</title>
+  <episode>
+    <airingId>480</airingId>
+    <content/>
+    <description>Japan's Classical period featured stunning natural colors and dyeing techniques. A fifth-generation Kyoto dye craftsman is rediscovering this tradition, resulting in a rich expression of hues.</description>
+    <endDate>2021-05-03T06:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/avZFlCCQ#0ZXNBJIMhWTVSX_tXv3SDQ</link>
+    <recordDateEnd>2021-05-03T06:30:28.397Z</recordDateEnd>
+    <recordDateStart>2021-05-03T06:14:23.011Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>91a8643bb1950302ff24fb1c57228eb3c99bf948814e51259afd08e2a383f688</sha256>
+    <startDate>2021-05-03T06:15:00.000Z</startDate>
+    <subtitle>A Tale of Japanese Purple</subtitle>
+    <title>THE QUEST FOR ANCIENT COLOR</title>
+    <uploadedDate>2021-05-03T06:50:48.440Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>482</airingId>
     <content/>
