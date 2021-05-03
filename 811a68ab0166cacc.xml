@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-03T06:55:04.379Z</lastUpdated>
+  <lastUpdated>2021-05-03T07:30:04.735Z</lastUpdated>
   <seriesId>811a68ab0166cacc</seriesId>
   <title>ANIMATION X PARALYMPIC</title>
   <episode>
@@ -67,6 +67,21 @@
     <title>ANIMATION X PARALYMPIC</title>
     <uploadedDate>2020-12-27T22:49:55.651Z</uploadedDate>
     <raw>https://mega.nz/folder/60dhFIDJ#vM6jpB_6rdPk5iL1Nf5rRQ</raw>
+  </episode>
+  <episode>
+    <airingId>009</airingId>
+    <content/>
+    <description>A project that conveys the charm of the Para Sports with anime. Satoru Hiura portrays the fun of Boccia that can be played by a diversity of people. The title music is written by Mao Abe.</description>
+    <endDate>2021-05-03T07:15:00.000Z</endDate>
+    <link>https://mega.nz/folder/GugSCJBL#ADZ8l3hgo9czKuPvNXoHQw</link>
+    <recordDateEnd>2021-05-03T07:15:30.880Z</recordDateEnd>
+    <recordDateStart>2021-05-03T07:09:20.100Z</recordDateStart>
+    <seriesId>6027</seriesId>
+    <sha256>563edee769dadbf8d7b572f0dad3544b7fa31fa1ba732ca7c204d7fc89fdb804</sha256>
+    <startDate>2021-05-03T07:10:00.000Z</startDate>
+    <subtitle/>
+    <title>ANIMATION X PARALYMPIC</title>
+    <uploadedDate>2021-05-03T07:25:25.389Z</uploadedDate>
   </episode>
   <episode>
     <airingId>010</airingId>

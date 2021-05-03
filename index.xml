@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-03T06:55:04.453Z</lastUpdated>
+  <lastUpdated>2021-05-03T07:30:04.807Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -75,10 +75,10 @@
     <title>Alluring Okinawa</title>
   </series>
   <series>
-    <count>5</count>
+    <count>6</count>
     <uniqueId>811a68ab0166cacc</uniqueId>
-    <lastAiring>2021-05-01T03:55:00.000Z</lastAiring>
-    <lastUpload>2021-05-01T04:26:03.091Z</lastUpload>
+    <lastAiring>2021-05-03T07:10:00.000Z</lastAiring>
+    <lastUpload>2021-05-03T07:25:25.389Z</lastUpload>
     <seriesId>6027</seriesId>
     <title>ANIMATION X PARALYMPIC</title>
   </series>
