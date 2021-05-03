@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-03T07:55:04.084Z</lastUpdated>
+  <lastUpdated>2021-05-03T10:05:03.958Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -1813,6 +1813,22 @@
     <raw>https://mega.nz/folder/AkIAjJ6L#PPemjZnFUq5ASkaPhvU2Ag</raw>
   </episode>
   <episode>
+    <airingId>700</airingId>
+    <content/>
+    <description>In 2020, Hiraide Kazuya received the prestigious Piolet d'Or mountaineering award for the third time-the first such feat by a Japanese climber. What fuels his passion for ascending unclimbed routes?</description>
+    <endDate>2021-05-03T09:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/y2oABaqB#y97oQtzfgNgqqrgLeVX4gQ</link>
+    <recordDateEnd>2021-05-03T09:30:28.852Z</recordDateEnd>
+    <recordDateStart>2021-05-03T09:14:20.100Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>9fccede909e677406f0d16b384ea09b8360c07e77c01e70ee4612b1b88b41803</sha256>
+    <startDate>2021-05-03T09:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-05-03T10:01:51.804Z</uploadedDate>
+    <raw>https://mega.nz/folder/bmw2lKiI#o9tpO__mEqR4XqNZ8GVP1A</raw>
+  </episode>
+  <episode>
     <airingId>701</airingId>
     <content>Max Richter is one of the most successful composers in the contemporary music world. He has produced critically acclaimed albums of his own compositions, and also writes for films, ballet and opera.</content>
     <description>Max Richter is one of the most successful composers in the contemporary music world. He has produced critically acclaimed albums of his own compositions, and also writes for films, ballet, and opera.</description>
@@ -2754,5 +2770,6 @@
     <subtitle>The Positive Power of Comedy: Saku Yanagawa / Stand-Up Comedian</subtitle>
     <title>Direct Talk</title>
     <uploadedDate>2021-05-03T07:50:54.310Z</uploadedDate>
+    <raw>https://mega.nz/folder/iuISkbaK#nZxy2q-VbYyD-hNbz2rC8g</raw>
   </episode>
 </episodeList>

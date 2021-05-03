@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-03T07:55:04.095Z",
+  "lastUpdated": "2021-05-03T10:05:03.973Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -1812,6 +1812,22 @@
       "raw": "https://mega.nz/folder/AkIAjJ6L#PPemjZnFUq5ASkaPhvU2Ag"
     },
     {
+      "airingId": "700",
+      "content": "",
+      "description": "In 2020, Hiraide Kazuya received the prestigious Piolet d'Or mountaineering award for the third time-the first such feat by a Japanese climber. What fuels his passion for ascending unclimbed routes?",
+      "endDate": "2021-05-03T09:30:00.000Z",
+      "link": "https://mega.nz/folder/y2oABaqB#y97oQtzfgNgqqrgLeVX4gQ",
+      "recordDateEnd": "2021-05-03T09:30:28.852Z",
+      "recordDateStart": "2021-05-03T09:14:20.100Z",
+      "seriesId": "2058",
+      "sha256": "9fccede909e677406f0d16b384ea09b8360c07e77c01e70ee4612b1b88b41803",
+      "startDate": "2021-05-03T09:15:00.000Z",
+      "subtitle": "",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-05-03T10:01:51.804Z",
+      "raw": "https://mega.nz/folder/bmw2lKiI#o9tpO__mEqR4XqNZ8GVP1A"
+    },
+    {
       "airingId": "701",
       "content": "Max Richter is one of the most successful composers in the contemporary music world. He has produced critically acclaimed albums of his own compositions, and also writes for films, ballet and opera.",
       "description": "Max Richter is one of the most successful composers in the contemporary music world. He has produced critically acclaimed albums of his own compositions, and also writes for films, ballet, and opera.",
@@ -2752,7 +2768,8 @@
       "startDate": "2021-05-03T07:15:00.000Z",
       "subtitle": "The Positive Power of Comedy: Saku Yanagawa / Stand-Up Comedian",
       "title": "Direct Talk",
-      "uploadedDate": "2021-05-03T07:50:54.310Z"
+      "uploadedDate": "2021-05-03T07:50:54.310Z",
+      "raw": "https://mega.nz/folder/iuISkbaK#nZxy2q-VbYyD-hNbz2rC8g"
     }
   ]
 }
