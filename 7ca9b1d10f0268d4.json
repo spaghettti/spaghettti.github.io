@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2021-05-03T03:45:04.396Z",
+  "lastUpdated": "2021-05-03T04:55:03.526Z",
   "seriesId": "6211",
   "title": "Ceramic Treasures",
   "episodes": [
+    {
+      "airingId": "001",
+      "content": "",
+      "description": "Today: Hagi-yaki, Yamaguchi Prefecture. We will visit the potters from all over Japan and discover their ceramics heritage by introducing the culture and historical background.",
+      "endDate": "2021-05-03T04:25:00.000Z",
+      "link": "https://mega.nz/folder/HjRkSD5S#LAygVYfMtsC1kmjeHWHeqQ",
+      "recordDateEnd": "2021-05-03T04:25:27.728Z",
+      "recordDateStart": "2021-05-03T04:09:20.100Z",
+      "seriesId": "6211",
+      "sha256": "2abcba86880e4ad0399161f333e2d48c3655701536693fbe7c0bcec47ada3737",
+      "startDate": "2021-05-03T04:10:00.000Z",
+      "subtitle": "",
+      "title": "Ceramic Treasures",
+      "uploadedDate": "2021-05-03T04:51:12.078Z"
+    },
     {
       "airingId": "002",
       "content": "",
