@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-03T04:55:03.435Z</lastUpdated>
+  <lastUpdated>2021-05-03T06:20:03.475Z</lastUpdated>
   <seriesId>aca3c5281f781918</seriesId>
   <title>The Mark of Beauty</title>
   <episode>
@@ -259,5 +259,21 @@
     <title>The Mark of Beauty</title>
     <uploadedDate>2021-03-29T19:24:07.893Z</uploadedDate>
     <raw>https://mega.nz/folder/6YEBhKCL#9fE5QVBsnet5E7I1pi_wZg</raw>
+  </episode>
+  <episode>
+    <airingId>125</airingId>
+    <content>This episode provides a behind-the-scenes look at maiko or the apprentice geisha of Kyoto's Gion district. We look at various aspects of their attire. Why, for example, do they only apply rouge to their bottom lip? Unlike geisha, maiko do not wear wigs; their elaborate hairstyle is done with their own hair. We see maiko undergoing an arduous dance lesson presided over by Inoue Yachiyo V, a master of dance and designated National Treasure. In the last 10 days of their apprenticeship, the maiko wear particular kimono and hairstyles and do special dances. We look at why they blacken their teeth. And we follow maiko on the final day of their apprenticeship when they take part in a ceremony to mark their transition to geisha.</content>
+    <description>Maikos, or apprentice geishas, bestow elegance upon Kyoto. They wear traditional Japanese hairstyles and kimono as they train for years in performing arts to one day become professional entertainers.</description>
+    <endDate>2021-05-03T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/GrZGHTAB#2HV51EstFJDulTv5zm_G0Q</link>
+    <recordDateEnd>2021-05-03T05:00:33.662Z</recordDateEnd>
+    <recordDateStart>2021-05-03T04:29:20.042Z</recordDateStart>
+    <seriesId>4018</seriesId>
+    <sha256>9df39b533abcb0667cd6d45666bc85e2b318ece9e2a5055531937ccb373da1f2</sha256>
+    <startDate>2021-05-03T04:30:00.000Z</startDate>
+    <subtitle>Maiko</subtitle>
+    <title>The Mark of Beauty</title>
+    <uploadedDate>2021-05-03T06:15:48.035Z</uploadedDate>
+    <raw>https://mega.nz/folder/LmRSULRK#JmMXBJRCGZIqRu10wN_99A</raw>
   </episode>
 </episodeList>
