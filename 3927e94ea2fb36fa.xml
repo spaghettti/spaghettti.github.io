@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-03T01:45:04.590Z</lastUpdated>
+  <lastUpdated>2021-05-03T02:10:03.946Z</lastUpdated>
   <seriesId>3927e94ea2fb36fa</seriesId>
   <title>BENTO EXPO</title>
   <episode>
@@ -35,5 +35,20 @@
     <title>BENTO EXPO</title>
     <uploadedDate>2021-03-24T03:50:01.394Z</uploadedDate>
     <raw>https://mega.nz/folder/xkx2DT7A#gWFVNClwwgruijGJozPqvQ</raw>
+  </episode>
+  <episode>
+    <airingId>453</airingId>
+    <content/>
+    <description>On this episode, Marc and Maki introduce 2 popular teriyaki-style bento: a healthy teriyaki maitake mushroom bento and a delicious teriyaki chicken with teriyaki-style fried egg bento.</description>
+    <endDate>2021-05-03T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/X48i1AQT#xiA2aiUiAZso17IfJJxYAg</link>
+    <recordDateEnd>2021-05-03T01:45:28.060Z</recordDateEnd>
+    <recordDateStart>2021-05-03T01:29:20.007Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>b0add98504b12a33aae9754c7c02fc3872f9c2a301b4e20e7785dfd3d7bbc6fa</sha256>
+    <startDate>2021-05-03T01:30:00.000Z</startDate>
+    <subtitle>Season 2-1 Teriyaki Maitake &amp; "Oyako" Teriyaki</subtitle>
+    <title>BENTO EXPO</title>
+    <uploadedDate>2021-05-03T02:08:35.837Z</uploadedDate>
   </episode>
 </episodeList>
