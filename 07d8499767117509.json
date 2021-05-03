@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-03T07:30:04.606Z",
+  "lastUpdated": "2021-05-03T07:55:04.095Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2738,6 +2738,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-04-26T07:56:31.271Z",
       "raw": "https://mega.nz/folder/53o0QSZa#m0BOJ7O_SMksEOEAi4bfVA"
+    },
+    {
+      "airingId": "762",
+      "content": "Chicago-based stand-up comedian Saku Yanagawa talks about deconstructing American society from a uniquely Japanese perspective and honing his own comedic voice.",
+      "description": "Chicago-based stand-up comedian Saku Yanagawa talks about deconstructing American society from a uniquely Japanese perspective and honing his own comedic voice.",
+      "endDate": "2021-05-03T07:30:00.000Z",
+      "link": "https://mega.nz/folder/bz5j2S5C#SkZZRVJ8McSgglmjoqKDfg",
+      "recordDateEnd": "2021-05-03T07:30:26.837Z",
+      "recordDateStart": "2021-05-03T07:14:23.001Z",
+      "seriesId": "2058",
+      "sha256": "5af11e91cadcf27a01f80ad8f468b7d6df77113d082807cbdf51551ea261d23a",
+      "startDate": "2021-05-03T07:15:00.000Z",
+      "subtitle": "The Positive Power of Comedy: Saku Yanagawa / Stand-Up Comedian",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-05-03T07:50:54.310Z"
     }
   ]
 }

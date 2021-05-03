@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-03T07:30:04.588Z</lastUpdated>
+  <lastUpdated>2021-05-03T07:55:04.084Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2739,5 +2739,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-04-26T07:56:31.271Z</uploadedDate>
     <raw>https://mega.nz/folder/53o0QSZa#m0BOJ7O_SMksEOEAi4bfVA</raw>
+  </episode>
+  <episode>
+    <airingId>762</airingId>
+    <content>Chicago-based stand-up comedian Saku Yanagawa talks about deconstructing American society from a uniquely Japanese perspective and honing his own comedic voice.</content>
+    <description>Chicago-based stand-up comedian Saku Yanagawa talks about deconstructing American society from a uniquely Japanese perspective and honing his own comedic voice.</description>
+    <endDate>2021-05-03T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/bz5j2S5C#SkZZRVJ8McSgglmjoqKDfg</link>
+    <recordDateEnd>2021-05-03T07:30:26.837Z</recordDateEnd>
+    <recordDateStart>2021-05-03T07:14:23.001Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>5af11e91cadcf27a01f80ad8f468b7d6df77113d082807cbdf51551ea261d23a</sha256>
+    <startDate>2021-05-03T07:15:00.000Z</startDate>
+    <subtitle>The Positive Power of Comedy: Saku Yanagawa / Stand-Up Comedian</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-05-03T07:50:54.310Z</uploadedDate>
   </episode>
 </episodeList>
