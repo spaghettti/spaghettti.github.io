@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-04T12:15:03.453Z",
+  "lastUpdated": "2021-05-04T16:10:03.462Z",
   "seriesId": "2015",
   "title": "Science View",
   "episodes": [
@@ -370,6 +370,21 @@
       "title": "Science View",
       "uploadedDate": "2021-04-20T16:45:05.759Z",
       "raw": "https://mega.nz/folder/KMFm0ToR#H6wttsNJIN2kYrUmEW8Tpw"
+    },
+    {
+      "airingId": "257",
+      "content": "After the Hayabusa-2 mission successfully brought samples from the surface of an asteroid back to Earth, Japan next plans to apply this know-how to the moons of Mars. The Martian Moons eXploration mission will land on the moon Phobos, collect samples, and then return them to Earth. Team member Kiyoshi Kuramoto joins us to discuss the origins of these moons, the challenges of landing in ultra-low gravity, the possible connections to water and life on Earth, and more. We'll also look at a redesigned dental instrument for root canal procedures.",
+      "description": "Japan is planning a space mission to bring back samples from a Martian moon. Team member Kiyoshi Kuramoto joins us to discuss the challenges of ultra-low gravity, ties to life on Earth, and more.",
+      "endDate": "2021-05-04T15:00:00.000Z",
+      "link": "https://mega.nz/folder/yzg2AQwJ#od6GBqvsIqTUYTpBMIQvSw",
+      "recordDateEnd": "2021-05-04T15:00:35.984Z",
+      "recordDateStart": "2021-05-04T14:29:20.100Z",
+      "seriesId": "2015",
+      "sha256": "b3224b1f5bf02c1e5ed53fa4998d0efa46fd9c32391f8a7a62234aa47c478290",
+      "startDate": "2021-05-04T14:30:00.000Z",
+      "subtitle": "Bringing Back Samples from a Martian Moon",
+      "title": "Science View",
+      "uploadedDate": "2021-05-04T16:06:08.178Z"
     }
   ]
 }
