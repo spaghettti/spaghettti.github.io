@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-04T05:30:04.729Z</lastUpdated>
+  <lastUpdated>2021-05-04T06:30:04.012Z</lastUpdated>
   <seriesId>811a68ab0166cacc</seriesId>
   <title>ANIMATION X PARALYMPIC</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>ANIMATION X PARALYMPIC</title>
     <uploadedDate>2021-05-01T04:26:03.091Z</uploadedDate>
     <raw>https://mega.nz/folder/HQYUATKZ#yYvA5lTI8m00PSUCGC5Cxw</raw>
+  </episode>
+  <episode>
+    <airingId>003</airingId>
+    <content/>
+    <description>The special animation series which depicts the world of parasports. This time, it is focused on wheelchair tennis, and a special collaboration with "Baby Steps" and Japanese top player Shingo Kunieda.</description>
+    <endDate>2021-05-04T06:15:00.000Z</endDate>
+    <link>https://mega.nz/folder/HFwGASpA#cqXx8FaJUUl-7UgbkxnurQ</link>
+    <recordDateEnd>2021-05-04T06:15:32.197Z</recordDateEnd>
+    <recordDateStart>2021-05-04T06:09:20.101Z</recordDateStart>
+    <seriesId>6027</seriesId>
+    <sha256>fcf6c5e14f6743878ea9c167f60c20025ab23d32fa583047656d7b37e2e6b66b</sha256>
+    <startDate>2021-05-04T06:10:00.000Z</startDate>
+    <subtitle/>
+    <title>ANIMATION X PARALYMPIC</title>
+    <uploadedDate>2021-05-04T06:27:35.828Z</uploadedDate>
   </episode>
   <episode>
     <airingId>007</airingId>
