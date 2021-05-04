@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-04T02:30:03.786Z",
+  "lastUpdated": "2021-05-04T03:10:03.842Z",
   "seriesId": "2019",
   "title": "Dining with the Chef",
   "episodes": [
@@ -690,6 +690,22 @@
       "title": "Dining with the Chef",
       "uploadedDate": "2021-04-27T05:30:15.520Z",
       "raw": "https://mega.nz/folder/eIowwTTA#pnu7LvS0Lz_wzQ8mPO3iyg"
+    },
+    {
+      "airingId": "290",
+      "content": "Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques! Featured recipes: (1) Buttered Clams and Broccoli Rice (2) Strawberry Shira-ae.",
+      "description": "Featured recipes: (1) Buttered Clams and Broccoli Rice (2) Strawberry Shira-ae / Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques!",
+      "endDate": "2021-05-04T02:00:00.000Z",
+      "link": "https://mega.nz/folder/bqYjVaCZ#-k9SbNBqrONbXbTb3hd3SA",
+      "recordDateEnd": "2021-05-04T02:00:34.428Z",
+      "recordDateStart": "2021-05-04T01:29:20.006Z",
+      "seriesId": "2019",
+      "sha256": "81b8ada5a1d478fee821a95824cdc4e58924e63b47c0a12c9b59c963ec67bb3f",
+      "startDate": "2021-05-04T01:30:00.000Z",
+      "subtitle": "Authentic Japanese Cooking: Buttered Clams and Broccoli Rice",
+      "title": "Dining with the Chef",
+      "uploadedDate": "2021-05-04T03:06:48.451Z",
+      "raw": "https://mega.nz/folder/leAH2KjZ#tnncrRXE55qDyBsB20Ix2w"
     }
   ]
 }
