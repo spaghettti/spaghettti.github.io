@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-04T04:15:04.445Z</lastUpdated>
+  <lastUpdated>2021-05-04T05:10:03.664Z</lastUpdated>
   <seriesId>7ca9b1d10f0268d4</seriesId>
   <title>Ceramic Treasures</title>
   <episode>
@@ -35,6 +35,22 @@
     <title>Ceramic Treasures</title>
     <uploadedDate>2021-02-23T03:18:15.966Z</uploadedDate>
     <raw>https://mega.nz/folder/nx4xCKaA#RwRGSwwsDZwLNP9zORwxJw</raw>
+  </episode>
+  <episode>
+    <airingId>003</airingId>
+    <content/>
+    <description>Today: Mashiko-yaki, Tochigi Prefecture. We will visit the potters from all over Japan and discover their ceramics heritage by introducing the culture and historical background.</description>
+    <endDate>2021-05-04T04:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/mz4AiSAR#WXZXJHXNEN8TtzjLvyULyw</link>
+    <recordDateEnd>2021-05-04T04:25:32.365Z</recordDateEnd>
+    <recordDateStart>2021-05-04T04:09:20.021Z</recordDateStart>
+    <seriesId>6211</seriesId>
+    <sha256>231efad89d80178cd47debed21bd993fd73940f313375b22b732c2348079767f</sha256>
+    <startDate>2021-05-04T04:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Ceramic Treasures</title>
+    <uploadedDate>2021-05-04T05:08:19.720Z</uploadedDate>
+    <raw>https://mega.nz/folder/HJ5wHKpB#qRQeBW7JWugzc3mNglhdZg</raw>
   </episode>
   <episode>
     <airingId>005</airingId>
