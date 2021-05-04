@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-04T03:10:04.010Z",
+  "lastUpdated": "2021-05-04T04:15:04.359Z",
   "seriesId": "4026",
   "title": "Document 72 Hours",
   "episodes": [
@@ -370,6 +370,21 @@
       "title": "Document 72 Hours",
       "uploadedDate": "2021-04-20T04:11:23.377Z",
       "raw": "https://mega.nz/folder/0NFkHZhT#MgyK2lSPxEnvzoHT1u8Juw"
+    },
+    {
+      "airingId": "154",
+      "content": "Tanga Market, a century-old market of 120 shops in western Japan, is known as the \"kitchen of Kitakyushu.\" Although the market will soon be redeveloped, its old-fashioned charm keeps pulling in shoppers. Among the customers there were a man who feels at home at the market, even if he does not buy anything; an elderly woman grumbling about having to cook her son's meals; and a young couple bewitched by the variety of foods sold there. For 3 days in late December, we explored why this market remains so popular.",
+      "description": "The 120 shop owners at century-old Tanga Market in western Japan insist on service with a personal touch. For 3 days in December, we asked people at the \"kitchen of Kitakyushu\" what makes it special.",
+      "endDate": "2021-05-04T03:00:00.000Z",
+      "link": "https://mega.nz/folder/bNxCACga#plR8fSMe3KWPbfXgojKRxw",
+      "recordDateEnd": "2021-05-04T03:00:23.190Z",
+      "recordDateStart": "2021-05-04T02:29:20.100Z",
+      "seriesId": "4026",
+      "sha256": "b67bf9f740991cf497a4cebf710df6b9708710381dc1a181efe20b7e607ad86f",
+      "startDate": "2021-05-04T02:30:00.000Z",
+      "subtitle": "Tanga: The Market With a Big Heart",
+      "title": "Document 72 Hours",
+      "uploadedDate": "2021-05-04T04:10:21.244Z"
     }
   ]
 }
