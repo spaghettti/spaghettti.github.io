@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-04T06:30:03.927Z</lastUpdated>
+  <lastUpdated>2021-05-04T07:00:04.469Z</lastUpdated>
   <seriesId>9b5f26f1d20c5457</seriesId>
   <title>THE QUEST FOR ANCIENT COLOR</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>THE QUEST FOR ANCIENT COLOR</title>
     <uploadedDate>2021-05-03T06:50:48.440Z</uploadedDate>
     <raw>https://mega.nz/folder/6rhk3Jwb#zPIpNkdflX3nD1nkZtZi4w</raw>
+  </episode>
+  <episode>
+    <airingId>481</airingId>
+    <content/>
+    <description>Japan's Classical period featured stunning natural colors and dyeing techniques. A fifth-generation Kyoto dye craftsman is rediscovering this tradition, resulting in a rich expression of hues.</description>
+    <endDate>2021-05-04T06:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/6IBWwZKK#XLUqiqpGO3eiFvFxlOMcow</link>
+    <recordDateEnd>2021-05-04T06:30:25.501Z</recordDateEnd>
+    <recordDateStart>2021-05-04T06:14:20.007Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>573bf776dcfaa22b2569da1e092270375f42e6cacf014bf29e6fe7ab4267b5f8</sha256>
+    <startDate>2021-05-04T06:15:00.000Z</startDate>
+    <subtitle>A Tale of Japanese Red</subtitle>
+    <title>THE QUEST FOR ANCIENT COLOR</title>
+    <uploadedDate>2021-05-04T06:58:39.105Z</uploadedDate>
+    <raw>https://mega.nz/folder/0KRAyZYQ#dx_JzTeHMAL1V2_hSgSh_w</raw>
   </episode>
   <episode>
     <airingId>482</airingId>
