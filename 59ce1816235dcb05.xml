@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-05T05:00:04.307Z</lastUpdated>
+  <lastUpdated>2021-05-05T06:00:04.313Z</lastUpdated>
   <seriesId>59ce1816235dcb05</seriesId>
   <title>KABUKI KOOL</title>
   <episode>
@@ -195,5 +195,21 @@
     <title>KABUKI KOOL</title>
     <uploadedDate>2021-04-07T05:47:59.590Z</uploadedDate>
     <raw>https://mega.nz/folder/kU9gASaS#ckYBo7ORI09_M1ntL_Cu2g</raw>
+  </episode>
+  <episode>
+    <airingId>073</airingId>
+    <content>Actor Kataoka Ainosuke explores the enduring appeal of 2 outlaws. Despite their crimes, they protect the weak and can be tender lovers. The villainous tea priest, Kochiyama (left) and Naojiro (right), ex-samurai and thief, but also a gallant lover, are our attractive villains.</content>
+    <description>Actor Kataoka Ainosuke explores the enduring appeal of two outlaws. Despite their crimes, they protect the weak and can be tender lovers.</description>
+    <endDate>2021-05-05T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/UD4niCJL#cBeqXqEpsGPSxwnGJcHVuQ</link>
+    <recordDateEnd>2021-05-05T05:00:27.073Z</recordDateEnd>
+    <recordDateStart>2021-05-05T04:29:20.037Z</recordDateStart>
+    <seriesId>2035</seriesId>
+    <sha256>728ca0e7f03cf85bec90b4389f7308503db4576d6d47f110e44086c220f0c03d</sha256>
+    <startDate>2021-05-05T04:30:00.000Z</startDate>
+    <subtitle>Two Kabuki Flowers of Evil: Kochiyama and Naozamurai</subtitle>
+    <title>KABUKI KOOL</title>
+    <uploadedDate>2021-05-05T05:56:54.623Z</uploadedDate>
+    <raw>https://mega.nz/folder/SuwRxa7C#ynV4X1pvleEeYVAinAVRmA</raw>
   </episode>
 </episodeList>
