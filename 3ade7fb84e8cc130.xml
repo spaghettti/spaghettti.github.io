@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-05T06:30:04.497Z</lastUpdated>
+  <lastUpdated>2021-05-05T12:00:04.510Z</lastUpdated>
   <seriesId>3ade7fb84e8cc130</seriesId>
   <title>Four Seasons in Japan</title>
   <episode>
@@ -323,6 +323,22 @@
     <title>Four Seasons in Japan</title>
     <uploadedDate>2021-05-04T12:10:27.072Z</uploadedDate>
     <raw>https://mega.nz/folder/Cd4GWCiT#p_wtlqWVIV5Y1UQiJS-VxQ</raw>
+  </episode>
+  <episode>
+    <airingId>063</airingId>
+    <content/>
+    <description>Todoroki Valley is a natural haven in the center of the bustling metropolis of Tokyo. In autumn, the varied flora attracts many kinds of birds who thrive on the fruits and clear water found there.</description>
+    <endDate>2021-05-05T11:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/78EXmKLa#EP1d9hFpcdKv4Dz3qxheHg</link>
+    <recordDateEnd>2021-05-05T11:40:26.971Z</recordDateEnd>
+    <recordDateStart>2021-05-05T11:29:24.007Z</recordDateStart>
+    <seriesId>6101</seriesId>
+    <sha256>62ca05c69c333d8e68f51e5b4ad17ee532434f38f47f2caaf185495271011cf0</sha256>
+    <startDate>2021-05-05T11:30:00.000Z</startDate>
+    <subtitle/>
+    <title>Four Seasons in Japan</title>
+    <uploadedDate>2021-05-05T11:59:01.089Z</uploadedDate>
+    <raw>https://mega.nz/folder/76RjFITK#ws-enFjP-I_fdl--E7_GGg</raw>
   </episode>
   <episode>
     <airingId>068</airingId>
