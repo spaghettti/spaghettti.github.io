@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-05T12:00:04.322Z</lastUpdated>
+  <lastUpdated>2021-05-05T16:05:03.579Z</lastUpdated>
   <seriesId>31851bb3dfae7f8a</seriesId>
   <title>Trails to Oishii Tokyo</title>
   <episode>
@@ -83,6 +83,21 @@
     <title>Trails to Oishii Tokyo</title>
     <uploadedDate>2021-04-21T17:09:50.583Z</uploadedDate>
     <raw>https://mega.nz/folder/Q3pSlJAT#uC8mYJdpWAGsuM9bWUPXgQ</raw>
+  </episode>
+  <episode>
+    <airingId>095</airingId>
+    <content>Today, we focus on the king of fruit, mango. Though often thought of as a tropical fruit, they are also grown in Japan. Large, delicious, gorgeous Japanese mangos are traded at incredibly high prices, and are often given as gifts. Our reporter visits a mango grower in Kyushu to learn more about the secrets behind the production of this high-end fruit. Also enjoy unique seasonings made from mango.</content>
+    <description>This episode focuses on the king of fruit, MANGO. Though widely known as a tropical fruit, Japan produces high-end MANGOS often given as gifts. Find out more about Japan's special fruit.</description>
+    <endDate>2021-05-05T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/rpVhjSLB#6SIZRVLexI_U81No_F_L-g</link>
+    <recordDateEnd>2021-05-05T15:00:32.336Z</recordDateEnd>
+    <recordDateStart>2021-05-05T14:29:20.100Z</recordDateStart>
+    <seriesId>2054</seriesId>
+    <sha256>51b489ba409fb83e7fdc0aa2a3d94242a3ffcecb584eb46717e6f13917dca9d0</sha256>
+    <startDate>2021-05-05T14:30:00.000Z</startDate>
+    <subtitle>MANGO</subtitle>
+    <title>Trails to Oishii Tokyo</title>
+    <uploadedDate>2021-05-05T16:01:41.638Z</uploadedDate>
   </episode>
   <episode>
     <airingId>114</airingId>
