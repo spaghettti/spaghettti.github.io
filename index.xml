@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-04T16:10:03.766Z</lastUpdated>
+  <lastUpdated>2021-05-05T01:20:03.961Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -931,10 +931,10 @@
     <title>Question Time: Building Back Better</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>583b6cef5fd0ef5c</uniqueId>
-    <lastAiring>2021-05-04T00:10:00.000Z</lastAiring>
-    <lastUpload>2021-05-04T01:48:10.635Z</lastUpload>
+    <lastAiring>2021-05-05T00:10:00.000Z</lastAiring>
+    <lastUpload>2021-05-05T01:15:53.296Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>Reading Japan</title>
   </series>

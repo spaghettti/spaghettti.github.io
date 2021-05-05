@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-04T16:10:03.629Z</lastUpdated>
+  <lastUpdated>2021-05-05T01:20:03.824Z</lastUpdated>
   <seriesId>583b6cef5fd0ef5c</seriesId>
   <title>Reading Japan</title>
   <episode>
@@ -67,5 +67,20 @@
     <title>Reading Japan</title>
     <uploadedDate>2021-05-04T01:48:10.635Z</uploadedDate>
     <raw>https://mega.nz/folder/tWhT3CwC#3eyHgh60hjebNwm5ql2hQw</raw>
+  </episode>
+  <episode>
+    <airingId>734</airingId>
+    <content/>
+    <description>Short stories by Japan's leading writers, read in English. The illustrations draw you deeper into the world of Japan. The second episode is "Riding Piggyback to Watch Fireworks" by Mori Hiromi;Part-3.</description>
+    <endDate>2021-05-05T00:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/5xoRXQDb#HL5sb993HYrEW0-WKFut-A</link>
+    <recordDateEnd>2021-05-05T00:30:33.921Z</recordDateEnd>
+    <recordDateStart>2021-05-05T00:09:20.101Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>f7c334a9683874bafeecc54e7896ec0cb03e19ac8363d3e4c64fb92256813f5b</sha256>
+    <startDate>2021-05-05T00:10:00.000Z</startDate>
+    <subtitle>Riding Piggyback to Watch Fireworks: Part 3</subtitle>
+    <title>Reading Japan</title>
+    <uploadedDate>2021-05-05T01:15:53.296Z</uploadedDate>
   </episode>
 </episodeList>
