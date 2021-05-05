@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-05T02:50:03.720Z</lastUpdated>
+  <lastUpdated>2021-05-05T05:00:04.580Z</lastUpdated>
   <seriesId>7ca9b1d10f0268d4</seriesId>
   <title>Ceramic Treasures</title>
   <episode>
@@ -67,6 +67,22 @@
     <title>Ceramic Treasures</title>
     <uploadedDate>2021-01-24T01:45:33.953Z</uploadedDate>
     <raw>https://mega.nz/folder/lzQljYAT#Tn_XftKTzX9FuGl-ht9njw</raw>
+  </episode>
+  <episode>
+    <airingId>007</airingId>
+    <content/>
+    <description>Today: Mino-yaki, Gifu Prefecture. We will visit the potters from all over Japan and discover their ceramics heritage by introducing the culture and historical background.</description>
+    <endDate>2021-05-05T04:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/r25HASDb#a49gKIo7lt_U2n7R3dSYPQ</link>
+    <recordDateEnd>2021-05-05T04:25:29.572Z</recordDateEnd>
+    <recordDateStart>2021-05-05T04:09:23.709Z</recordDateStart>
+    <seriesId>6211</seriesId>
+    <sha256>694b40033fcf49c550af5c6cae4503826f1c4ac991b9df7540042226ef754128</sha256>
+    <startDate>2021-05-05T04:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Ceramic Treasures</title>
+    <uploadedDate>2021-05-05T04:57:41.050Z</uploadedDate>
+    <raw>https://mega.nz/folder/qI43mKBK#MvmHTCNC9IBzvXSuoqJmwQ</raw>
   </episode>
   <episode>
     <airingId>011</airingId>
