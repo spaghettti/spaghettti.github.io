@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-05T02:30:04.677Z</lastUpdated>
+  <lastUpdated>2021-05-05T02:50:03.709Z</lastUpdated>
   <seriesId>6f88b7eb5aa1e989</seriesId>
   <title>Dig More Japan</title>
   <episode>
@@ -179,5 +179,20 @@
     <title>Dig More Japan</title>
     <uploadedDate>2021-04-14T02:29:02.379Z</uploadedDate>
     <raw>https://mega.nz/folder/WVsgWSyT#3CQfFZlDSVeohIkhE8KBYw</raw>
+  </episode>
+  <episode>
+    <airingId>028</airingId>
+    <content>Such as miso, a Japanese traditional ingredient, moss gardens in Kyoto Prefecture, beauty and taste are both things that take time. Please join this new episode for a look at some of the time-honored creations, passed down in Japan since ancient times.</content>
+    <description>Like with miso or moss gardens, beauty and taste are both things that take time. Please join our new episode for a look at some of the time-honored creations, passed down in Japan since ancient times.</description>
+    <endDate>2021-05-05T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/eg8SBBKK#SRlCPzKdGl8R1i8ba6j2-A</link>
+    <recordDateEnd>2021-05-05T01:55:23.659Z</recordDateEnd>
+    <recordDateStart>2021-05-05T01:44:22.664Z</recordDateStart>
+    <seriesId>6122</seriesId>
+    <sha256>953203fb6beaaa9a2b3f8ac5472fe588cab780e144a38dc2243b44e97290aa91</sha256>
+    <startDate>2021-05-05T01:45:00.000Z</startDate>
+    <subtitle>Time-Tested Creations</subtitle>
+    <title>Dig More Japan</title>
+    <uploadedDate>2021-05-05T02:46:17.576Z</uploadedDate>
   </episode>
 </episodeList>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-05T02:30:04.678Z",
+  "lastUpdated": "2021-05-05T02:50:03.710Z",
   "seriesId": "6122",
   "title": "Dig More Japan",
   "episodes": [
@@ -178,6 +178,21 @@
       "title": "Dig More Japan",
       "uploadedDate": "2021-04-14T02:29:02.379Z",
       "raw": "https://mega.nz/folder/WVsgWSyT#3CQfFZlDSVeohIkhE8KBYw"
+    },
+    {
+      "airingId": "028",
+      "content": "Such as miso, a Japanese traditional ingredient, moss gardens in Kyoto Prefecture, beauty and taste are both things that take time. Please join this new episode for a look at some of the time-honored creations, passed down in Japan since ancient times.",
+      "description": "Like with miso or moss gardens, beauty and taste are both things that take time. Please join our new episode for a look at some of the time-honored creations, passed down in Japan since ancient times.",
+      "endDate": "2021-05-05T01:55:00.000Z",
+      "link": "https://mega.nz/folder/eg8SBBKK#SRlCPzKdGl8R1i8ba6j2-A",
+      "recordDateEnd": "2021-05-05T01:55:23.659Z",
+      "recordDateStart": "2021-05-05T01:44:22.664Z",
+      "seriesId": "6122",
+      "sha256": "953203fb6beaaa9a2b3f8ac5472fe588cab780e144a38dc2243b44e97290aa91",
+      "startDate": "2021-05-05T01:45:00.000Z",
+      "subtitle": "Time-Tested Creations",
+      "title": "Dig More Japan",
+      "uploadedDate": "2021-05-05T02:46:17.576Z"
     }
   ]
 }
