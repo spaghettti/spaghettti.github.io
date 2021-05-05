@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-05T01:45:03.492Z</lastUpdated>
+  <lastUpdated>2021-05-05T02:30:04.484Z</lastUpdated>
   <seriesId>50872d98dbace20c</seriesId>
   <title>TOKYO EYE</title>
   <episode>
@@ -275,5 +275,21 @@
     <title>TOKYO EYE 2020</title>
     <uploadedDate>2021-04-28T01:54:07.599Z</uploadedDate>
     <raw>https://mega.nz/folder/mopyTCRS#KZ2Y5rgXdT8KOepzLIyj-g</raw>
+  </episode>
+  <episode>
+    <airingId>205</airingId>
+    <content>The pandemic has created problems big and small. Those problems have inspired developers and inventors to create unique products to help give people a hand. This time, we explore the limitless possibilities of the imagination and its role in overcoming tough times.</content>
+    <description>The pandemic has created problems big and small, inspiring developers to create new products. We will explore the possibilities of the imagination and its role in overcoming tough times.</description>
+    <endDate>2021-05-05T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/SEQFUI5Z#CH1xozyXolzst3xddx2R_A</link>
+    <recordDateEnd>2021-05-05T01:00:27.332Z</recordDateEnd>
+    <recordDateStart>2021-05-05T00:29:22.935Z</recordDateStart>
+    <seriesId>2053</seriesId>
+    <sha256>3d12eefa76c62239ad8945b170e19fd09fa6c5b99cbf8c2371149b0d6fb85ee5</sha256>
+    <startDate>2021-05-05T00:30:00.000Z</startDate>
+    <subtitle>Pure Imagination in Pandemic Times</subtitle>
+    <title>TOKYO EYE 2020</title>
+    <uploadedDate>2021-05-05T02:25:24.461Z</uploadedDate>
+    <raw>https://mega.nz/folder/D0VXFShY#-zVAKuFt0traRaIH1dR3-Q</raw>
   </episode>
 </episodeList>

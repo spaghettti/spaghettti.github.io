@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-05T01:45:03.494Z",
+  "lastUpdated": "2021-05-05T02:30:04.486Z",
   "seriesId": "2053",
   "title": "TOKYO EYE",
   "episodes": [
@@ -274,6 +274,22 @@
       "title": "TOKYO EYE 2020",
       "uploadedDate": "2021-04-28T01:54:07.599Z",
       "raw": "https://mega.nz/folder/mopyTCRS#KZ2Y5rgXdT8KOepzLIyj-g"
+    },
+    {
+      "airingId": "205",
+      "content": "The pandemic has created problems big and small. Those problems have inspired developers and inventors to create unique products to help give people a hand. This time, we explore the limitless possibilities of the imagination and its role in overcoming tough times.",
+      "description": "The pandemic has created problems big and small, inspiring developers to create new products. We will explore the possibilities of the imagination and its role in overcoming tough times.",
+      "endDate": "2021-05-05T01:00:00.000Z",
+      "link": "https://mega.nz/folder/SEQFUI5Z#CH1xozyXolzst3xddx2R_A",
+      "recordDateEnd": "2021-05-05T01:00:27.332Z",
+      "recordDateStart": "2021-05-05T00:29:22.935Z",
+      "seriesId": "2053",
+      "sha256": "3d12eefa76c62239ad8945b170e19fd09fa6c5b99cbf8c2371149b0d6fb85ee5",
+      "startDate": "2021-05-05T00:30:00.000Z",
+      "subtitle": "Pure Imagination in Pandemic Times",
+      "title": "TOKYO EYE 2020",
+      "uploadedDate": "2021-05-05T02:25:24.461Z",
+      "raw": "https://mega.nz/folder/D0VXFShY#-zVAKuFt0traRaIH1dR3-Q"
     }
   ]
 }
