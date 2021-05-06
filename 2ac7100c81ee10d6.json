@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-06T03:55:03.993Z",
+  "lastUpdated": "2021-05-06T05:45:03.791Z",
   "seriesId": "4023",
   "title": "Lunch ON!",
   "episodes": [
@@ -306,6 +306,21 @@
       "title": "Lunch ON!",
       "uploadedDate": "2021-04-29T05:47:23.139Z",
       "raw": "https://mega.nz/folder/sWQw3ZRI#_9aNkdEVhEk4raZXF1-pSg"
+    },
+    {
+      "airingId": "164",
+      "content": "Mr. Takahashi is a salesman who works for an insurance company in Tokyo. After he appeared in an episode of Lunch ON!, his performance at work has skyrocketed, and now, he is the top earner at the branch office he works for. Hearing about this incredible case from the head of the branch office, we decide to go visit Mr. Takahashi at work to find out more! And of course, we get a peek of the delicious rice balls his wife makes for him.",
+      "description": "We hear that an insurance salesman in Tokyo dramatically improved his performance at work after appearing in an episode of Lunch ON. We visit him at work to find out what's going on.",
+      "endDate": "2021-05-06T04:55:00.000Z",
+      "link": "https://mega.nz/folder/AapDGSSY#qRJeCk9YRnhI48eFBqpITA",
+      "recordDateEnd": "2021-05-06T04:55:33.721Z",
+      "recordDateStart": "2021-05-06T04:29:20.100Z",
+      "seriesId": "4023",
+      "sha256": "0f11b042bf62c7755098500bd4401b34bd5334181e703079e2b625c338b5251c",
+      "startDate": "2021-05-06T04:30:00.000Z",
+      "subtitle": "Lunchtime for the Transformed Salesman",
+      "title": "Lunch ON!",
+      "uploadedDate": "2021-05-06T05:44:42.760Z"
     }
   ]
 }
