@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-05T16:05:03.538Z",
+  "lastUpdated": "2021-05-06T01:55:03.397Z",
   "seriesId": "2029",
   "title": "Core Kyoto",
   "episodes": [
@@ -562,6 +562,21 @@
       "title": "Core Kyoto",
       "uploadedDate": "2021-04-29T01:42:43.243Z",
       "raw": "https://mega.nz/folder/StUn2KDa#jLVz45AFk9kAS-NzPNGXmQ"
+    },
+    {
+      "airingId": "152",
+      "content": "Shigemori Chisao, grandson of landscape gardener Mirei, creates modern gardens in Japan and abroad, taking inspiration from dry-landscape Karesansui. This type of garden evolved in Zen temples in the 1400s and uses rocks to represent land and water. In his original glassworks artist Nishinaka Yukito recreates the \"imperfect beauty\" tea master Oda Urakusai advocated 400 years ago. Explore what it means to recompose beauty through 2 artists heavily influenced by the giants of the Kyoto artworld.",
+      "description": "Shigemori Chisao creates gardens, inspired by dry-landscape gardens. Nishinaka Yukito pursues the imperfect beauty valued 400 years ago is his glass art. They discuss what it means to recreate beauty.",
+      "endDate": "2021-05-06T01:00:00.000Z",
+      "link": "https://mega.nz/folder/27BnXKrT#4MYYrxF_8h2rvyJpS1bh_g",
+      "recordDateEnd": "2021-05-06T01:00:27.365Z",
+      "recordDateStart": "2021-05-06T00:29:20.101Z",
+      "seriesId": "2029",
+      "sha256": "dd779197a1d2f25d296085f49c42b3e7a5fe718a75b38923c8185678bc4339a1",
+      "startDate": "2021-05-06T00:30:00.000Z",
+      "subtitle": "Conversations: A Landscape Gardener and a Glass Artist",
+      "title": "Core Kyoto",
+      "uploadedDate": "2021-05-06T01:53:43.706Z"
     }
   ]
 }
