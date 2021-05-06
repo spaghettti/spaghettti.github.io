@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-06T03:05:03.677Z</lastUpdated>
+  <lastUpdated>2021-05-06T03:55:03.850Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -360,6 +360,22 @@ Ukiyo-e is a Japanese artform that emerged in the 17th century. Using woodblock 
     <title>Japanology Plus</title>
     <uploadedDate>2021-02-02T15:44:40.622Z</uploadedDate>
     <raw>https://mega.nz/folder/AQtDiAza#iAp0pJZDknRrWpDWihgkug</raw>
+  </episode>
+  <episode>
+    <airingId>233</airingId>
+    <content>*First broadcast on May 6, 2021.
+Japanese started wearing Western clothing around 150 years ago, and today, suits are standard business attire. Our main guest, fashion journalist Yamamoto Teruhiro, describes the history of men's suits, and talks about the unique culture that has evolved around them. We hear how modern suit makers are making improvements in cost and comfort. We also meet expert tailor Ueki Noriyuki, who talks about the functionality of his suits, and the meticulous techniques involved in making them.</content>
+    <description>Suits. Japan's unique approach to men's business wear. Each time, Peter Barakan visits the key locations, and meets experts with fascinating cultural insights.</description>
+    <endDate>2021-05-06T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/4hoGUAKS#807F3ATg7U6xyPUUJJbILw</link>
+    <recordDateEnd>2021-05-06T03:00:29.266Z</recordDateEnd>
+    <recordDateStart>2021-05-06T02:29:23.257Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>6523f4d12905a0c7e6c04db24219e969fd286aa06857c09ab2e49b8152c20f28</sha256>
+    <startDate>2021-05-06T02:30:00.000Z</startDate>
+    <subtitle>Suits</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-05-06T03:51:04.524Z</uploadedDate>
   </episode>
   <episode>
     <airingId>234</airingId>
