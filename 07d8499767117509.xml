@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-07T06:45:03.729Z</lastUpdated>
+  <lastUpdated>2021-05-07T08:05:04.005Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2803,5 +2803,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-05-03T07:50:54.310Z</uploadedDate>
     <raw>https://mega.nz/folder/iuISkbaK#nZxy2q-VbYyD-hNbz2rC8g</raw>
+  </episode>
+  <episode>
+    <airingId>763</airingId>
+    <content>Journalist Maria Ressa is found guilty in a case seen as a test of press freedom. In a country where journalists are under threat, Ressa's case became symbolic and followed internationally.</content>
+    <description>Journalist Maria Ressa is found guilty in a case seen as a test of press freedom. In a country where journalists are under threat, Ressa's case became symbolic and followed internationally.</description>
+    <endDate>2021-05-07T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/ZbgmxYSL#WN3khhOcWYIbY-1cWf2aOg</link>
+    <recordDateEnd>2021-05-07T07:30:30.888Z</recordDateEnd>
+    <recordDateStart>2021-05-07T07:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>4372894c1df15c48276db9de80b097aaad4e9415d0eff6829d9e378104c13e95</sha256>
+    <startDate>2021-05-07T07:15:00.000Z</startDate>
+    <subtitle>Braving Press Freedom: Maria Ressa / Journalist</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-05-07T08:01:14.271Z</uploadedDate>
   </episode>
 </episodeList>

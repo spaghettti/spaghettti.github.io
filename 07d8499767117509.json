@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-07T06:45:03.746Z",
+  "lastUpdated": "2021-05-07T08:05:04.020Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2802,6 +2802,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-05-03T07:50:54.310Z",
       "raw": "https://mega.nz/folder/iuISkbaK#nZxy2q-VbYyD-hNbz2rC8g"
+    },
+    {
+      "airingId": "763",
+      "content": "Journalist Maria Ressa is found guilty in a case seen as a test of press freedom. In a country where journalists are under threat, Ressa's case became symbolic and followed internationally.",
+      "description": "Journalist Maria Ressa is found guilty in a case seen as a test of press freedom. In a country where journalists are under threat, Ressa's case became symbolic and followed internationally.",
+      "endDate": "2021-05-07T07:30:00.000Z",
+      "link": "https://mega.nz/folder/ZbgmxYSL#WN3khhOcWYIbY-1cWf2aOg",
+      "recordDateEnd": "2021-05-07T07:30:30.888Z",
+      "recordDateStart": "2021-05-07T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "4372894c1df15c48276db9de80b097aaad4e9415d0eff6829d9e378104c13e95",
+      "startDate": "2021-05-07T07:15:00.000Z",
+      "subtitle": "Braving Press Freedom: Maria Ressa / Journalist",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-05-07T08:01:14.271Z"
     }
   ]
 }
