@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-07T02:55:03.669Z</lastUpdated>
+  <lastUpdated>2021-05-07T05:55:03.937Z</lastUpdated>
   <seriesId>997cdf9299ef0529</seriesId>
   <title>GRAND SUMO</title>
   <episode>
@@ -35,5 +35,20 @@
     <title>GRAND SUMO Preview</title>
     <uploadedDate>2021-03-12T06:13:17.025Z</uploadedDate>
     <raw>https://mega.nz/folder/HlgQwbpS#dRPL5LVRU5Fpg5q4IFffyg</raw>
+  </episode>
+  <episode>
+    <airingId>025</airingId>
+    <content>What's going to happen in the next sumo tournament? Go behind the scenes and hear expert analysis on the upcoming season.</content>
+    <description>NHK WORLD-JAPAN looks ahead to the Grand Sumo May Tournament starting on May 9. Our reporter visits an artist who makes unique banzuke, or official rankings, for each Grand Sumo tournament.</description>
+    <endDate>2021-05-07T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/SrJDyCLK#iEa3r798YTz0yvX2XRodpg</link>
+    <recordDateEnd>2021-05-07T05:00:35.403Z</recordDateEnd>
+    <recordDateStart>2021-05-07T04:29:20.104Z</recordDateStart>
+    <seriesId>2067</seriesId>
+    <sha256>58697d5657f390bc397ff522380c854651acbadf66fe3d46d5404ba96114a3e9</sha256>
+    <startDate>2021-05-07T04:30:00.000Z</startDate>
+    <subtitle>May Tournament</subtitle>
+    <title>GRAND SUMO Preview</title>
+    <uploadedDate>2021-05-07T05:51:18.127Z</uploadedDate>
   </episode>
 </episodeList>

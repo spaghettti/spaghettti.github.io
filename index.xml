@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-07T02:55:03.896Z</lastUpdated>
+  <lastUpdated>2021-05-07T05:55:04.139Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -491,10 +491,10 @@
     <title>GLOBAL AGENDA</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>997cdf9299ef0529</uniqueId>
-    <lastAiring>2021-03-12T04:30:00.000Z</lastAiring>
-    <lastUpload>2021-03-12T06:13:17.025Z</lastUpload>
+    <lastAiring>2021-05-07T04:30:00.000Z</lastAiring>
+    <lastUpload>2021-05-07T05:51:18.127Z</lastUpload>
     <seriesId>2067</seriesId>
     <title>GRAND SUMO</title>
   </series>
