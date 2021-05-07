@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-07T06:20:03.570Z</lastUpdated>
+  <lastUpdated>2021-05-07T06:45:03.842Z</lastUpdated>
   <seriesId>01d91b585f12a25a</seriesId>
   <title>The Flame Across Japan</title>
   <episode>
@@ -611,5 +611,20 @@
     <title>The Flame Across Japan</title>
     <uploadedDate>2021-05-06T08:11:53.580Z</uploadedDate>
     <raw>https://mega.nz/folder/PUpgyJzY#_vCWIwWj5TmbHgfCPeUXbA</raw>
+  </episode>
+  <episode>
+    <airingId>139</airingId>
+    <content/>
+    <description>Heading to the Tokyo Olympic and Paralympic Games, the torch makes its way across the country from March to August. This time, we highlight the flame's second day in Kumamoto Prefecture.</description>
+    <endDate>2021-05-07T06:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/MPRkSZhC#Za6QzCbDmWFS7t9jWdxyaQ</link>
+    <recordDateEnd>2021-05-07T06:30:24.790Z</recordDateEnd>
+    <recordDateStart>2021-05-07T06:22:20.102Z</recordDateStart>
+    <seriesId>4032</seriesId>
+    <sha256>6757526be1008a23fb6a9c7e226d41af4d42951b4caeb5c81ddba3c9c6a87a30</sha256>
+    <startDate>2021-05-07T06:23:00.000Z</startDate>
+    <subtitle/>
+    <title>The Flame Across Japan</title>
+    <uploadedDate>2021-05-07T06:40:17.016Z</uploadedDate>
   </episode>
 </episodeList>
