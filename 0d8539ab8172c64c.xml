@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-07T01:55:03.586Z</lastUpdated>
+  <lastUpdated>2021-05-07T02:15:04.443Z</lastUpdated>
   <seriesId>0d8539ab8172c64c</seriesId>
   <title>Selfie Japan!</title>
   <episode>
@@ -163,5 +163,20 @@
     <title>Selfie Japan!</title>
     <uploadedDate>2021-04-30T02:11:31.325Z</uploadedDate>
     <raw>https://mega.nz/folder/zZZWlZhT#bFKWiJnyuPLOZeQ-bjHvHg</raw>
+  </episode>
+  <episode>
+    <airingId>018</airingId>
+    <content/>
+    <description>Duan visits Ibaraki Prefecture to learn about traditional medicine. In the city of Mito she drops by an Edo-period school that preserves old medical books, and eats ramen with medicinal ingredients.</description>
+    <endDate>2021-05-07T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/uzJD1agQ#ywvkmPSJv9hD6VKosIxYHg</link>
+    <recordDateEnd>2021-05-07T01:45:19.626Z</recordDateEnd>
+    <recordDateStart>2021-05-07T01:39:22.763Z</recordDateStart>
+    <seriesId>6028</seriesId>
+    <sha256>6582c0ba4c969462f93f86d3f3d14c434744957bd7fad3c8311b5852504e183f</sha256>
+    <startDate>2021-05-07T01:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Selfie Japan!</title>
+    <uploadedDate>2021-05-07T02:12:48.136Z</uploadedDate>
   </episode>
 </episodeList>
