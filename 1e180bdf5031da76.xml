@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-04-09T02:15:04.429Z</lastUpdated>
+  <lastUpdated>2021-05-07T02:55:03.881Z</lastUpdated>
   <seriesId>1e180bdf5031da76</seriesId>
   <title>Culture Crossroads</title>
   <episode>
@@ -68,6 +68,22 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2021-02-16T04:36:52.574Z</uploadedDate>
     <raw>https://mega.nz/folder/9840DZZa#BeFyXpmYt4Ppx4UCsh78vQ</raw>
+  </episode>
+  <episode>
+    <airingId>003</airingId>
+    <content>When disaster strikes, you need to flee from danger, but where to, how, and what should you take? Walking around downtown Tokyo, learn about effective evacuation strategies.</content>
+    <description>As a series in Culture Crossroads, BOSAI: BE PREPARED provides practical knowledge to save yourself from natural disaster. In this episode, we learn how to evacuate in the midst of disaster.</description>
+    <endDate>2021-05-07T01:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/pkIzCSSb#CTXTRPJgTj26tTolRRwKsw</link>
+    <recordDateEnd>2021-05-07T01:40:29.554Z</recordDateEnd>
+    <recordDateStart>2021-05-07T01:29:20.101Z</recordDateStart>
+    <seriesId>2084</seriesId>
+    <sha256>beb2d61797262182eb35aabe592b9d209c455228d9e65883129ed6b474e0a4ac</sha256>
+    <startDate>2021-05-07T01:30:00.000Z</startDate>
+    <subtitle>BOSAI: Be Prepared - Evacuation</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-05-07T02:53:37.862Z</uploadedDate>
+    <raw>https://mega.nz/folder/7vJmxLJY#brQrmQ7veBzOvvTZG5Kotw</raw>
   </episode>
   <episode>
     <airingId>004</airingId>
@@ -308,6 +324,22 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2020-12-26T03:46:03.534Z</uploadedDate>
     <raw>https://mega.nz/folder/y8cVTayL#PZcsggvFdaWFdU6iFay9HA</raw>
+  </episode>
+  <episode>
+    <airingId>015</airingId>
+    <content>A listener from China inquired about keeping mosquitoes in check in Japan. Our reporter Ron Monroe visits a mosquito expert to find out what really works. She also visits a company that invented pyrethrum coils more than 100 years ago to learn the origins of the material, now used around the world.</content>
+    <description>A listener in China asked about keeping mosquitoes in check in Japan. To find out what works, our reporter visits a mosquito expert and a company that makes pyrethrum coils.</description>
+    <endDate>2021-04-09T01:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/1NVHASBZ#Ge45diME1_YX6zumsRv2ew</link>
+    <recordDateEnd>2021-04-09T01:40:33.684Z</recordDateEnd>
+    <recordDateStart>2021-04-09T01:29:20.101Z</recordDateStart>
+    <seriesId>2076</seriesId>
+    <sha256>717a212d2576a81acaf16a824582c09a00a0c924566c1d7206db1d4faa5ce74e</sha256>
+    <startDate>2021-04-09T01:30:00.000Z</startDate>
+    <subtitle>WHAT'S YOUR CONNECTION?: Keeping Mosquitoes Away</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-04-09T02:19:22.143Z</uploadedDate>
+    <raw>https://mega.nz/folder/C4IzwI6b#A7EpPxsu7LN_7k_eKhdyIg</raw>
   </episode>
   <episode>
     <airingId>016</airingId>
