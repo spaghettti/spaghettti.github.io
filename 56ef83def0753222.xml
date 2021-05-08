@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-08T07:45:04.372Z</lastUpdated>
+  <lastUpdated>2021-05-08T18:20:04.274Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -420,5 +420,20 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <title>NHK Documentary</title>
     <uploadedDate>2021-05-01T20:04:04.847Z</uploadedDate>
     <raw>https://mega.nz/folder/S11TSQ5C#VF9-ZHTXfbgrRkK5FPChrw</raw>
+  </episode>
+  <episode>
+    <airingId>393</airingId>
+    <content>In 2011, the lives of thousands of children were disrupted by the Great East Japan Earthquake disaster. Many lost parents and other loved ones. A decade later, some of them cannot share their feelings, even with their families. A young man whose mother and brother died deals differently with their loss than his father does. A teenaged girl is trying hard to build a real family with her new mother. Ten years after that fateful day, this is a record of the voices of these children.</content>
+    <description>Ten years after the 2011 earthquake and tsunami, many children who lost parents and other loved ones can't share their feelings with family. Listen to the voices of these young survivors.</description>
+    <endDate>2021-05-08T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/z5Bk1DAY#WguGuWEdN-3ywjI4g0m7gQ</link>
+    <recordDateEnd>2021-05-08T16:00:29.386Z</recordDateEnd>
+    <recordDateStart>2021-05-08T15:09:20.056Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>cb8de1a0ffc3f0c4edc18c25cfe0433f6c5692aa3eb8d7da01e675df013eaab3</sha256>
+    <startDate>2021-05-08T15:10:00.000Z</startDate>
+    <subtitle>Voices of the Children: 10 Years After the Disaster</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2021-05-08T18:19:48.546Z</uploadedDate>
   </episode>
 </episodeList>
