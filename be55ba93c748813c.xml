@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-08T05:55:03.625Z</lastUpdated>
+  <lastUpdated>2021-05-08T06:50:03.526Z</lastUpdated>
   <seriesId>be55ba93c748813c</seriesId>
   <title>COOL JAPAN</title>
   <episode>
@@ -259,5 +259,20 @@
     <title>COOL JAPAN</title>
     <uploadedDate>2021-04-17T11:50:09.916Z</uploadedDate>
     <raw>https://mega.nz/folder/09RFmI6B#-FhqyDAF-2jmsPv2ktn4Xg</raw>
+  </episode>
+  <episode>
+    <airingId>252</airingId>
+    <content>As foreigners become increasingly interested in Japan, Japanese characters continue to draw attention. There are foreigners in the city with T-shirts and tattoos that have kanji and katakana. What about Japanese characters do they think is cool? Japanese people are particular about beautiful handwriting and believe that written characters express personality, but foreigners feel that handwriting shows individuality even if it's messy. What differences are there in the way that they sense characters? As the eyes of the world turn to Japan, we investigate the appeals of Japan's characters.</content>
+    <description>Written Japanese is singularly complex, combining multiple systems of characters. The panelists learn about its historical development and discuss how its enigmatic qualities appeal to foreigners.</description>
+    <endDate>2021-05-08T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/v1RjQSoC#7kgb9snByGd4DNtfz-seiQ</link>
+    <recordDateEnd>2021-05-08T04:55:26.082Z</recordDateEnd>
+    <recordDateStart>2021-05-08T04:09:20.125Z</recordDateStart>
+    <seriesId>4008</seriesId>
+    <sha256>63c09ff4a9b6dd5b0bfe111917b7e6bc71f952234c5bf7e8384dd3d10ecf9b9a</sha256>
+    <startDate>2021-05-08T04:10:00.000Z</startDate>
+    <subtitle>Characters</subtitle>
+    <title>COOL JAPAN</title>
+    <uploadedDate>2021-05-08T06:46:31.413Z</uploadedDate>
   </episode>
 </episodeList>
