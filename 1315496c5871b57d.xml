@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-08T04:00:04.197Z</lastUpdated>
+  <lastUpdated>2021-05-08T05:30:04.728Z</lastUpdated>
   <seriesId>1315496c5871b57d</seriesId>
   <title>CYCLE AROUND JAPAN</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>CYCLE AROUND JAPAN</title>
     <uploadedDate>2021-04-10T05:55:12.101Z</uploadedDate>
     <raw>https://mega.nz/folder/VA0nEYBQ#1zTTOy0_cnd-74TUPhLY9Q</raw>
+  </episode>
+  <episode>
+    <airingId>031</airingId>
+    <content>Riding up Tanegashima's western coast with its sandy beaches, our cyclist visits a scissor craftsman, last of a 500-year old tradition. The east coast takes him past rocks carved by the ocean into fantastic shapes to Japan's biggest space center. Local schools here host children from all over the country for a year to learn about space and experience island life. Finally, he crosses to legendary Yakushima to explore its millennia-old forests and discover how nature inspires its islanders.</content>
+    <description>A ride round two of Japan's southern islands, Tanegashima, home to crafts and space rockets, and Yakushima with its ancient forests, discovering the island way of coexisting with nature.</description>
+    <endDate>2021-05-08T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/v8gnzYjC#wGLRXXmlE2G6hUFqi98FtQ</link>
+    <recordDateEnd>2021-05-08T03:00:22.181Z</recordDateEnd>
+    <recordDateStart>2021-05-08T02:09:20.038Z</recordDateStart>
+    <seriesId>2066</seriesId>
+    <sha256>ef3047b93855a5aed600b6453d750eeba36c29e07151712d51a71ae449d06f86</sha256>
+    <startDate>2021-05-08T02:10:00.000Z</startDate>
+    <subtitle>Tanegashima and Yakushima - Inspired by Nature</subtitle>
+    <title>CYCLE AROUND JAPAN</title>
+    <uploadedDate>2021-05-08T05:28:58.410Z</uploadedDate>
+    <raw>https://mega.nz/folder/z3ZXDY7L#SoWHheS8keQLsks9Kc5-lA</raw>
   </episode>
   <episode>
     <airingId>039</airingId>
