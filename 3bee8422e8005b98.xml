@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-08T06:50:03.564Z</lastUpdated>
+  <lastUpdated>2021-05-08T07:30:04.226Z</lastUpdated>
   <seriesId>3bee8422e8005b98</seriesId>
   <title>PythagoraSwitch mini</title>
   <episode>
@@ -387,5 +387,21 @@
     <title>PythagoraSwitch mini</title>
     <uploadedDate>2021-05-01T06:26:03.374Z</uploadedDate>
     <raw>https://mega.nz/folder/zAhQyawR#VUhUZVFuET8pxnbtvuJwPg</raw>
+  </episode>
+  <episode>
+    <airingId>041</airingId>
+    <content/>
+    <description>There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time "Today's Just Barely!"...</description>
+    <endDate>2021-05-08T06:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Kt4jSK6B#d7uYvlu_9THI3iqDqwQFbw</link>
+    <recordDateEnd>2021-05-08T06:00:30.214Z</recordDateEnd>
+    <recordDateStart>2021-05-08T05:54:20.118Z</recordDateStart>
+    <seriesId>6021</seriesId>
+    <sha256>394687d9b0efe5a37a9a34097cb0a0640137ad02f11e68c260d543c453cbcde5</sha256>
+    <startDate>2021-05-08T05:55:00.000Z</startDate>
+    <subtitle/>
+    <title>PythagoraSwitch mini</title>
+    <uploadedDate>2021-05-08T07:26:18.322Z</uploadedDate>
+    <raw>https://mega.nz/folder/3j5FUQ5T#pVPbP7gypip3PFJ0xwr4fQ</raw>
   </episode>
 </episodeList>
