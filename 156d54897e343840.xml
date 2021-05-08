@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-07T14:00:04.377Z</lastUpdated>
+  <lastUpdated>2021-05-08T04:00:04.261Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
   <episode>
@@ -356,5 +356,21 @@ The award-winning 2019 program and related reporting by NHK triggered a change i
     <title>NHK WORLD PRIME</title>
     <uploadedDate>2021-04-10T12:25:31.213Z</uploadedDate>
     <raw>https://mega.nz/folder/eFpiRQTY#aR46-CUd0RgxetZGDYy0nQ</raw>
+  </episode>
+  <episode>
+    <airingId>096</airingId>
+    <content>After the massive earthquake of March 11, 2011 struck his hometown Minamisanriku, photographer Sato Shinichi quickly evacuated to high ground with nothing but his camera. A tsunami of unprecedented scale would soon claim the lives of many of his fellow residents. In its aftermath he created a photographic record of what followed. Some 300,000 images in all. 10 years later, we peer through his lens to discover the despair and regret as well as the hope and will to recover of his fellow survivors.</content>
+    <description>10 years after March 11, 2011, the photographs of Sato Shinichi, 300,000 in all, express pain and regret, as well as hope and the will to recover of his fellow survivors in the town of Minamisanriku.</description>
+    <endDate>2021-05-08T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/HxhVwIza#N6zEHe635HsHdY9hIce5zg</link>
+    <recordDateEnd>2021-05-08T02:00:22.940Z</recordDateEnd>
+    <recordDateStart>2021-05-08T01:09:23.141Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>e00d7e62c1dde8e1fb0390c0dafcfc94294996cdfa4b84f586dd930edc527bc5</sha256>
+    <startDate>2021-05-08T01:10:00.000Z</startDate>
+    <subtitle>Recovery in 300,000 Pictures</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2021-05-08T03:55:12.338Z</uploadedDate>
+    <raw>https://mega.nz/folder/S2gQAZ6C#loSiOxjyGhFhSGd0xhVVcA</raw>
   </episode>
 </episodeList>
