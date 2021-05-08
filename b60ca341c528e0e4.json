@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-08T05:30:04.844Z",
+  "lastUpdated": "2021-05-08T05:35:03.940Z",
   "seriesId": "6022",
   "title": "Easy Japanese",
   "episodes": [
@@ -114,6 +114,21 @@
       "title": "Easy Japanese",
       "uploadedDate": "2021-05-01T05:09:50.096Z",
       "raw": "https://mega.nz/folder/LgVUgRaZ#wOAzvjJCLhjB3RXmpbI9Jg"
+    },
+    {
+      "airingId": "008",
+      "content": "",
+      "description": "#8 This is my friend, Ayaka-san. / To introduce someone to someone else, say a word to explain the relationship, followed by \"no\" and then the person's name and \"desu\".",
+      "endDate": "2021-05-08T05:00:00.000Z",
+      "link": "https://mega.nz/folder/mtgRlIhQ#2D_3xA0_JxXujwAjwz_0YQ",
+      "recordDateEnd": "2021-05-08T05:00:33.465Z",
+      "recordDateStart": "2021-05-08T04:54:20.040Z",
+      "seriesId": "6022",
+      "sha256": "9680d442a7f22a838b606268bf6bcceb6c650cd097525d1de103193642e737c9",
+      "startDate": "2021-05-08T04:55:00.000Z",
+      "subtitle": "",
+      "title": "Easy Japanese",
+      "uploadedDate": "2021-05-08T05:35:01.031Z"
     },
     {
       "airingId": "014",
