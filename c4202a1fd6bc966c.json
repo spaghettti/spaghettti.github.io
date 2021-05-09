@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-09T10:05:04.647Z",
+  "lastUpdated": "2021-05-09T12:05:04.142Z",
   "seriesId": "2081",
   "title": "GRAND SUMO LIVE",
   "episodes": [
@@ -114,6 +114,21 @@
       "title": "GRAND SUMO LIVE",
       "uploadedDate": "2021-03-28T14:07:25.052Z",
       "raw": "https://mega.nz/folder/CYEU0DCL#0enloYc-DuNElI6Oq7KP2Q"
+    },
+    {
+      "airingId": "037",
+      "content": "",
+      "description": "NHK WORLD-JAPAN broadcasts GRAND SUMO May Tournament opening day action live from the Kokugikan in Tokyo, as top wrestlers have their first bouts on May 9.",
+      "endDate": "2021-05-09T09:00:00.000Z",
+      "link": "https://mega.nz/folder/rtJGBD4I#2O7vbAlcy-R3yDCfsoSfBA",
+      "recordDateEnd": "2021-05-09T09:00:21.663Z",
+      "recordDateStart": "2021-05-09T08:09:20.135Z",
+      "seriesId": "2081",
+      "sha256": "358f80ea25d1e4cbfd331f97cfa1a375081d9930b1493e19d2b304b8e44c599e",
+      "startDate": "2021-05-09T08:10:00.000Z",
+      "subtitle": "May Tournament Day 1 (Opening Day)",
+      "title": "GRAND SUMO LIVE",
+      "uploadedDate": "2021-05-09T12:02:59.235Z"
     }
   ]
 }
