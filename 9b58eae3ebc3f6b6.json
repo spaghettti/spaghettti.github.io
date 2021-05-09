@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-09T17:15:04.762Z",
+  "lastUpdated": "2021-05-09T17:20:03.854Z",
   "seriesId": "2062",
   "title": "Sumopedia",
   "episodes": [
@@ -466,6 +466,21 @@
       "title": "Sumopedia",
       "uploadedDate": "2021-03-28T19:23:45.598Z",
       "raw": "https://mega.nz/folder/e9B1WagA#qE-gOroCqUxaqm0ZAEf3iA"
+    },
+    {
+      "airingId": "037",
+      "content": "",
+      "description": "Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.",
+      "endDate": "2021-05-09T17:00:00.000Z",
+      "link": "https://mega.nz/folder/unZGyBDD#-jwlGhY0804hUnRVh1WOjg",
+      "recordDateEnd": "2021-05-09T17:00:29.252Z",
+      "recordDateStart": "2021-05-09T16:56:22.992Z",
+      "seriesId": "2062",
+      "sha256": "211317c1c46d3218bc0287dd52ed2c22d62837652fc5898ff7f8b77711b3fa04",
+      "startDate": "2021-05-09T16:57:00.000Z",
+      "subtitle": "",
+      "title": "Sumopedia",
+      "uploadedDate": "2021-05-09T17:18:15.961Z"
     },
     {
       "airingId": "056",
