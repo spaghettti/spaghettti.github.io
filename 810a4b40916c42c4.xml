@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-09T04:05:03.839Z</lastUpdated>
+  <lastUpdated>2021-05-09T06:15:04.295Z</lastUpdated>
   <seriesId>810a4b40916c42c4</seriesId>
   <title>Hometown Stories</title>
   <episode>
@@ -83,6 +83,22 @@
     <title>Hometown Stories</title>
     <uploadedDate>2020-12-25T03:25:07.476Z</uploadedDate>
     <raw>https://mega.nz/folder/rlcAGLKT#9-F01RK_Acg80Atoaq5yTg</raw>
+  </episode>
+  <episode>
+    <airingId>139</airingId>
+    <content>At altitudes of more than 2,500 meters in the mountains of central Japan, a 72-year-old ornithologist, Nakamura Hiroshi, takes on the challenge of saving rock ptarmigans, known as "divine birds," from extinction. Frequent human incursions have depleted their numbers across Japan. Spending more than 100 days a year in the mountains, he works on an unprecedented breeding project to restore a ptarmigan population to one of its former habitats. We follow Hiroshi in his quest to bring back these birds while questioning how humans can best interact with nature.</content>
+    <description>At altitudes of more than 2,500 meters in the mountains of central Japan, a 72-year-old ornithologist works on an unprecedented breeding plan to save the area's rock ptarmigans from extinction.</description>
+    <endDate>2021-05-09T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/1exFxKZT#aFUey3skTRnRZV_V-U3e7A</link>
+    <recordDateEnd>2021-05-09T01:45:35.996Z</recordDateEnd>
+    <recordDateStart>2021-05-09T01:09:20.065Z</recordDateStart>
+    <seriesId>5003</seriesId>
+    <sha256>86f0075e08e11362b6dbe68042afedee0775a5524fed38398ecfeb5cd4e5160c</sha256>
+    <startDate>2021-05-09T01:10:00.000Z</startDate>
+    <subtitle>Rock Ptarmigans: Reviving the Divine Birds</subtitle>
+    <title>Hometown Stories</title>
+    <uploadedDate>2021-05-09T06:10:48.171Z</uploadedDate>
+    <raw>https://mega.nz/folder/TdIgjZIT#KEo8ZCqIz1hpdurY3tvfoA</raw>
   </episode>
   <episode>
     <airingId>154</airingId>
