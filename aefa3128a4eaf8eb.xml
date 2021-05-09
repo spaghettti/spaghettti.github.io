@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-09T06:55:04.241Z</lastUpdated>
+  <lastUpdated>2021-05-09T10:05:04.727Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -163,6 +163,22 @@
     <title>Somewhere Street</title>
     <uploadedDate>2021-05-02T07:35:23.713Z</uploadedDate>
     <raw>https://mega.nz/folder/X6QQQTRK#_K0tIiACHpIsupfG8dshdw</raw>
+  </episode>
+  <episode>
+    <airingId>063</airingId>
+    <content>Oslo, the capital of Norway, is a city founded by the Vikings in the 11th century, and tourists from all over the world come here attracted to its unique history and culture. In this episode, we stroll around such unique city streets.</content>
+    <description>Oslo, the capital of Norway, is a city founded by the Vikings in the 11th century and very popular because of its unique history and culture.In this episode, we stroll around such unique city streets.</description>
+    <endDate>2021-05-09T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/z24WgB6K#r4aEpn4kCbuM36QnMq_g2Q</link>
+    <recordDateEnd>2021-05-09T05:00:29.260Z</recordDateEnd>
+    <recordDateStart>2021-05-09T04:09:20.149Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>8a9996a134df7137c8c553c72b111a6911d35c7529a862049b264e9e1e48ed5d</sha256>
+    <startDate>2021-05-09T04:10:00.000Z</startDate>
+    <subtitle>Oslo, Norway</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-05-09T10:03:30.368Z</uploadedDate>
+    <raw>https://mega.nz/folder/zyZEFTIS#JpnbGdczCh8uX3nPfJX5Rg</raw>
   </episode>
   <episode>
     <airingId>082</airingId>
