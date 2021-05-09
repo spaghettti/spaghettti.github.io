@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-09T17:20:03.848Z</lastUpdated>
+  <lastUpdated>2021-05-09T18:10:03.885Z</lastUpdated>
   <seriesId>b2f243cf934b4de8</seriesId>
   <title>GRAND SUMO Highlights</title>
   <episode>
@@ -611,5 +611,20 @@
     <title>GRAND SUMO Highlights</title>
     <uploadedDate>2021-03-29T15:46:28.498Z</uploadedDate>
     <raw>https://mega.nz/folder/npcxTaxJ#v3Fs-2hZs6DJr0V86WqyFA</raw>
+  </episode>
+  <episode>
+    <airingId>421</airingId>
+    <content>The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!</content>
+    <description>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from May 9, Day 1 of the Grand Sumo Tournament in Tokyo.</description>
+    <endDate>2021-05-09T16:57:00.000Z</endDate>
+    <link>https://mega.nz/folder/rgp1lQBB#4KW2ZCWDzXSLIVsF2Cw-tQ</link>
+    <recordDateEnd>2021-05-09T16:57:27.528Z</recordDateEnd>
+    <recordDateStart>2021-05-09T16:29:20.101Z</recordDateStart>
+    <seriesId>2061</seriesId>
+    <sha256>651cc98b0d8eaa0a98c88e27c843d5a5275a88bed9b40436a7dcb833f1d8932e</sha256>
+    <startDate>2021-05-09T16:30:00.000Z</startDate>
+    <subtitle>May Tournament Day 1 (Opening Day)</subtitle>
+    <title>GRAND SUMO Highlights</title>
+    <uploadedDate>2021-05-09T18:10:01.802Z</uploadedDate>
   </episode>
 </episodeList>
