@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-09T12:05:03.916Z",
+  "lastUpdated": "2021-05-09T16:35:03.616Z",
   "seriesId": "2004",
   "title": "J-MELO",
   "episodes": [
@@ -178,6 +178,21 @@
       "title": "J-MELO",
       "uploadedDate": "2021-04-11T17:21:44.272Z",
       "raw": "https://mega.nz/folder/qcky3aRT#60DwQ13pfj2r0ACzUusoCQ"
+    },
+    {
+      "airingId": "372",
+      "content": "Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news!",
+      "description": "Join May J. for great Japanese music! This week, female idol group LAST IDOL and prolific anime singer Suzuki Konomi are coming to chat and perform.",
+      "endDate": "2021-05-09T15:40:00.000Z",
+      "link": "https://mega.nz/folder/sLwmlZbK#prlxujOQqHi_81Gmgx3oig",
+      "recordDateEnd": "2021-05-09T15:40:27.321Z",
+      "recordDateStart": "2021-05-09T15:09:20.100Z",
+      "seriesId": "2004",
+      "sha256": "e84d4e73d8629ca54b9cd9a201ebad20d6e5ebd3a21e6e1ce16ef3fc03b26eec",
+      "startDate": "2021-05-09T15:10:00.000Z",
+      "subtitle": "LAST IDOL and Suzuki Konomi",
+      "title": "J-MELO",
+      "uploadedDate": "2021-05-09T16:30:30.056Z"
     }
   ]
 }
