@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-09T03:00:05.517Z</lastUpdated>
+  <lastUpdated>2021-05-09T04:05:03.729Z</lastUpdated>
   <seriesId>b2d48e71e072a1aa</seriesId>
   <title>Wild Hokkaido!</title>
   <episode>
@@ -115,6 +115,22 @@
     <title>Wild Hokkaido!</title>
     <uploadedDate>2021-04-25T07:13:44.548Z</uploadedDate>
     <raw>https://mega.nz/folder/UJtwgKBC#dD0_QbeRUTf2AH6t96AeFg</raw>
+  </episode>
+  <episode>
+    <airingId>059</airingId>
+    <content>Our stage this time is Yufutsu Plain in the southwestern part of Hokkaido Prefecture, facing the Pacific Ocean. Our program host visits the Bibi River that runs near the international airport, and takes a guided canoe ride. There, he sees a blooming plant that grows only in pristine waters, then has a taste of a berry that grows in limited areas including the Yufutsu Plain. Later, we show you footage of the ecology of numerous wild birds that live here to breed.</content>
+    <description>Yufutsu Plain is in the southwestern part of Hokkaido Prefecture, facing the Pacific Ocean. Our program host visits the river that runs near the international airport, and takes a guided canoe ride.</description>
+    <endDate>2021-05-09T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/9soH1aJA#C_10gPJKZ5AtmG8RrdaZJQ</link>
+    <recordDateEnd>2021-05-09T02:00:25.958Z</recordDateEnd>
+    <recordDateStart>2021-05-09T01:44:23.006Z</recordDateStart>
+    <seriesId>2069</seriesId>
+    <sha256>8df8f0791fd03ee569b8ed4edc883ea822098718252b8e8b9b3b29bd77594e8d</sha256>
+    <startDate>2021-05-09T01:45:00.000Z</startDate>
+    <subtitle>Yufutsu Plain</subtitle>
+    <title>Wild Hokkaido!</title>
+    <uploadedDate>2021-05-09T04:02:39.355Z</uploadedDate>
+    <raw>https://mega.nz/folder/9gwyCDgT#LYCepMEV4nEIgt9atQTCMw</raw>
   </episode>
   <episode>
     <airingId>060</airingId>
