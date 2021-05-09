@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-09T06:15:04.266Z",
+  "lastUpdated": "2021-05-09T06:35:04.279Z",
   "seriesId": "4003",
   "title": "The Professionals",
   "episodes": [
@@ -194,6 +194,21 @@
       "title": "The Professionals",
       "uploadedDate": "2021-04-11T08:08:57.770Z",
       "raw": "https://mega.nz/folder/jVBn2CTR#wOz6rW3eYjX2d1sIergTqw"
+    },
+    {
+      "airingId": "153",
+      "content": "In the vast open plains of Hokkaido Prefecture lives shepherd Sakai Shingo (49). The meat from the lambs he raises is raved about by famous 3-star chefs, and was chosen for the main dish at the G8 Hokkaido Toyako Summit. Even the wool he produces is popular for its fine quality. As he raises such top-class sheep, Sakai often says the following: \"I'll consult the sheep.\" \"Listen to the sheep.\" \"The sheep will tell you.\" Dreaming of the self-sufficient lifestyle of nomads, he built his own farm from scratch on empty land 20 years ago. Now, we follow him for 10 months as he faces the lives before him throughout the beautiful Hokkaido seasons.",
+      "description": "This time, we focus on shepherd Sakai Shingo. The meat from his lambs is praised by famous chefs, and even the wool is popular for its fine quality. What is his secret to raising such top-class sheep?",
+      "endDate": "2021-05-09T02:55:00.000Z",
+      "link": "https://mega.nz/folder/WFBwQDQa#oNlsYMue9phvABDpKUm-Uw",
+      "recordDateEnd": "2021-05-09T02:55:29.473Z",
+      "recordDateStart": "2021-05-09T02:09:24.192Z",
+      "seriesId": "4003",
+      "sha256": "fa1e64297519dc65055bebe1872f91343f61cf37f50880073d1e8e935bb0c9d3",
+      "startDate": "2021-05-09T02:10:00.000Z",
+      "subtitle": "Alongside the Sky, Land, and Sheep: Sakai Shingo, Shepherd",
+      "title": "The Professionals",
+      "uploadedDate": "2021-05-09T06:34:12.906Z"
     }
   ]
 }
