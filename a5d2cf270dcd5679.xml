@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-10T08:05:03.842Z</lastUpdated>
+  <lastUpdated>2021-05-10T16:20:04.091Z</lastUpdated>
   <seriesId>a5d2cf270dcd5679</seriesId>
   <title>Medical Frontiers</title>
   <episode>
@@ -259,5 +259,20 @@
     <title>Medical Frontiers</title>
     <uploadedDate>2021-03-24T00:28:37.546Z</uploadedDate>
     <raw>https://mega.nz/folder/bcszBCiB#zbUdqJSaNjJiQ8NHGyi_2g</raw>
+  </episode>
+  <episode>
+    <airingId>108</airingId>
+    <content>A cancer treatment called photoimmunotherapy involves injecting patients with an agent, then exposing their tumors to near infrared light. It was developed by a Japanese researcher who works at the US National Institutes of Health. Japan became the first country to use it on a patient in 2021. The agent that's injected contains cancer-specific antibodies, to which special chemicals are attached. After the antibodies bind to cancer, near infrared light is applied, killing the cancer cells.</content>
+    <description>Immunotherapy is referred to as the fourth type of cancer treatment. A new immunotherapy uses light and antibodies to kill only cancer cells and leave healthy cells unharmed, is being used in Japan.</description>
+    <endDate>2021-05-10T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/r34kULDA#XwdEHe7-LOa0OfvsOoo8wA</link>
+    <recordDateEnd>2021-05-10T15:00:33.819Z</recordDateEnd>
+    <recordDateStart>2021-05-10T14:29:20.100Z</recordDateStart>
+    <seriesId>2050</seriesId>
+    <sha256>69efb6963675fb1c5d74c76c5263e8d96d69c257ff28ea784776185c78f6fc58</sha256>
+    <startDate>2021-05-10T14:30:00.000Z</startDate>
+    <subtitle>Cancer Immunotherapy: Targeting Tumors with Light and Antibodies</subtitle>
+    <title>Medical Frontiers</title>
+    <uploadedDate>2021-05-10T16:19:15.594Z</uploadedDate>
   </episode>
 </episodeList>
