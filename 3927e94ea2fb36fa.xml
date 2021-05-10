@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-10T01:55:04.251Z</lastUpdated>
+  <lastUpdated>2021-05-10T02:15:04.254Z</lastUpdated>
   <seriesId>3927e94ea2fb36fa</seriesId>
   <title>BENTO EXPO</title>
   <episode>
@@ -51,5 +51,20 @@
     <title>BENTO EXPO</title>
     <uploadedDate>2021-05-03T02:08:35.837Z</uploadedDate>
     <raw>https://mega.nz/folder/eV5i1AwZ#NUAoPHao2Txo50ibjEz6qA</raw>
+  </episode>
+  <episode>
+    <airingId>465</airingId>
+    <content/>
+    <description>Marc introduces a nutritious miso-flavored ground pork bento that goes along wonderfully with vegetables. Maki uses oily and delicious mackerel to make a grilled fish and rice bento.</description>
+    <endDate>2021-05-10T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/dHwAnToA#EllSx5eIfBU4LlIv8BMUzA</link>
+    <recordDateEnd>2021-05-10T01:45:28.300Z</recordDateEnd>
+    <recordDateStart>2021-05-10T01:29:20.098Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>b367a460224ad29ce8ac8df50d02e7081c53a7ba2362075df05221a6968bf9f1</sha256>
+    <startDate>2021-05-10T01:30:00.000Z</startDate>
+    <subtitle>Season 2-2 Vegetable Garden with Niku Miso &amp; Mixed Rice with Mackerel</subtitle>
+    <title>BENTO EXPO</title>
+    <uploadedDate>2021-05-10T02:10:29.752Z</uploadedDate>
   </episode>
 </episodeList>
