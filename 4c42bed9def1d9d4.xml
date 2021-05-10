@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-09T18:10:03.921Z</lastUpdated>
+  <lastUpdated>2021-05-10T01:55:04.242Z</lastUpdated>
   <seriesId>4c42bed9def1d9d4</seriesId>
   <title>Where We Call Home</title>
   <episode>
@@ -307,5 +307,20 @@
     <title>Where We Call Home</title>
     <uploadedDate>2021-04-26T01:57:10.586Z</uploadedDate>
     <raw>https://mega.nz/folder/0NsiUCrD#0HgF_XhpkLUzXrnNhMIz6Q</raw>
+  </episode>
+  <episode>
+    <airingId>034</airingId>
+    <content>In recent years, the Nepalese population has been growing in Naha, Okinawa Prefecture. Acting as a bridge between his fellow Nepalese and Okinawan society is Ojha Laxman, who came to Japan 10 years ago to learn karate. He now also teaches children at the dojo where he trains. We follow Ojha as he and the Nepalese community prepare to celebrate Nepal's New Year with the Okinawan locals. We also meet Vietnamese-born Pham Nhat Quan who works for a Tokyo firm specializing in foundation construction.</content>
+    <description>We meet Ojha, a Nepalese-born karateka in Okinawa acting as a bridge between his native culture and community of adoption, as well as Quan from Vietnam, a foundation construction worker in Tokyo.</description>
+    <endDate>2021-05-10T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/cPBXSIYA#u5GxxIy2NRWPoI5J7M6Jkg</link>
+    <recordDateEnd>2021-05-10T01:00:29.931Z</recordDateEnd>
+    <recordDateStart>2021-05-10T00:29:20.102Z</recordDateStart>
+    <seriesId>2087</seriesId>
+    <sha256>c9d7f94b73b4d8f39be401cc4b553303ec4f7d684b76fb322f2c5a1734196730</sha256>
+    <startDate>2021-05-10T00:30:00.000Z</startDate>
+    <subtitle>The Uniting Spirit of Karate</subtitle>
+    <title>Where We Call Home</title>
+    <uploadedDate>2021-05-10T01:52:16.149Z</uploadedDate>
   </episode>
 </episodeList>
