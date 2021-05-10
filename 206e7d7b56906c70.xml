@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-10T03:35:04.056Z</lastUpdated>
+  <lastUpdated>2021-05-10T04:35:03.443Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -83,6 +83,21 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2021-04-12T04:02:44.686Z</uploadedDate>
     <raw>https://mega.nz/folder/WZkDHICD#Mdlcj_Yd6ufbuclx4_TMaw</raw>
+  </episode>
+  <episode>
+    <airingId>053</airingId>
+    <content>Travelers to Japan's northernmost island of Hokkaido often first arrive in Hakodate, a port town that attracts 4 million visitors a year. The city is best known for its Million-Dollar Night View. The bright lights look beautiful surrounded by the jet black ocean. The view, very popular with couples, is a symbol of the city. Hakodate prospered as the first port in Japan fully open to the outside world and we explore the city's romance together with the people who call it home.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history. Today, Hakodate: The Storied History of a Port Town.</description>
+    <endDate>2021-05-10T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Pwo0XTZZ#3HFvQhdkuxQT2bW79EBFbA</link>
+    <recordDateEnd>2021-05-10T03:00:27.639Z</recordDateEnd>
+    <recordDateStart>2021-05-10T02:29:23.099Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>48dafa02c7a995db6a250eb99c661166bac45c5b9a8147f2bed537534176af3b</sha256>
+    <startDate>2021-05-10T02:30:00.000Z</startDate>
+    <subtitle>Hakodate: The Storied History of a Port Town</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-05-10T04:32:59.578Z</uploadedDate>
   </episode>
   <episode>
     <airingId>054</airingId>
