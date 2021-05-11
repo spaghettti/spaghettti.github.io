@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-11T08:10:03.728Z",
+  "lastUpdated": "2021-05-11T16:00:03.829Z",
   "seriesId": "2015",
   "title": "Science View",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "Science View",
       "uploadedDate": "2020-12-29T21:45:46.703Z",
       "raw": "https://mega.nz/folder/q41CHISL#ijJ_e84A9mOw4SnKdSs_NA"
+    },
+    {
+      "airingId": "208",
+      "content": "Polymers like polyethylene or plastic are essential in modern life, yet their molecular structure makes them brittle. However, researchers have recently improved that molecular structure to create new tough polymers, which can be 100 times stronger. Some are already on the verge of being used in practical applications, and are expected to be used in areas such as automobiles and their components. We'll look at the development of these new tough polymers.\n[Science News Watch]\nJapan's First Self-driving Public Bus Is Tested with Passengers\n[J-Innovators]\nAn HEV Motor Made with Heavy Rare Earth-Free Magnets",
+      "description": "Polymers like polyethylene or plastic are essential in modern life, yet their molecular structure makes them brittle. We'll look at the birth of new tough polymers, which can be 100 times stronger.",
+      "endDate": "2021-05-11T15:00:00.000Z",
+      "link": "https://mega.nz/folder/eNhwhI4I#XOu92DGjumjTkB-HdoDjuA",
+      "recordDateEnd": "2021-05-11T15:00:28.401Z",
+      "recordDateStart": "2021-05-11T14:29:20.097Z",
+      "seriesId": "2015",
+      "sha256": "d6463c57029b3bac795d2e94e5c7eb16c3d7d89b8fd0b913df04b76c9a5644c8",
+      "startDate": "2021-05-11T14:30:00.000Z",
+      "subtitle": "Tough Polymers - The Secrets Behind a Strong New Material",
+      "title": "Science View",
+      "uploadedDate": "2021-05-11T15:55:09.038Z"
     },
     {
       "airingId": "225",
