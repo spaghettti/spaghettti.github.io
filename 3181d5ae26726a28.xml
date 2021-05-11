@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-11T03:15:04.241Z</lastUpdated>
+  <lastUpdated>2021-05-11T04:30:04.606Z</lastUpdated>
   <seriesId>3181d5ae26726a28</seriesId>
   <title>Document 72 Hours</title>
   <episode>
@@ -227,6 +227,21 @@
     <title>Document 72 Hours</title>
     <uploadedDate>2021-03-19T02:36:48.704Z</uploadedDate>
     <raw>https://mega.nz/folder/i8tCTKzJ#uHlirMmFk2JU9sXQ9SAL1Q</raw>
+  </episode>
+  <episode>
+    <airingId>139</airingId>
+    <content>Tokyo Freight Terminal is Japan's largest distribution hub, with goods from across the nation arriving and being shipped out 24 hours a day. Train drivers, engineers, truck drivers and forklift operators are among the army of workers who keep this vital facility running smoothly. The volume of freight shipped by rail in Japan is growing annually due to the rise in online shopping and a shortage of truck drivers. For 3 days, we spoke to the men and women making sure these cargoes reach their destinations - safely and on time.</content>
+    <description>Trains and trucks stream through Tokyo Freight Terminal, Japan's largest distribution hub, around the clock. For 3 days, we spoke to the workers who keep this vital facility up and running.</description>
+    <endDate>2021-05-11T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/L1BA2biS#VM5X36isHQOvJNgNCQTydQ</link>
+    <recordDateEnd>2021-05-11T03:00:29.653Z</recordDateEnd>
+    <recordDateStart>2021-05-11T02:29:20.100Z</recordDateStart>
+    <seriesId>4026</seriesId>
+    <sha256>ae9c6b8af8d87cb5c2ccfa6370405f803e1f42ba57374204ba46b0bf25f46f6d</sha256>
+    <startDate>2021-05-11T02:30:00.000Z</startDate>
+    <subtitle>Inside Japan's Largest Freight Terminal</subtitle>
+    <title>Document 72 Hours</title>
+    <uploadedDate>2021-05-11T04:29:40.375Z</uploadedDate>
   </episode>
   <episode>
     <airingId>144</airingId>
