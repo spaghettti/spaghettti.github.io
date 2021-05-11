@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-11T02:55:03.754Z</lastUpdated>
+  <lastUpdated>2021-05-11T03:15:04.024Z</lastUpdated>
   <seriesId>b7a2bc9b23a9c5ee</seriesId>
   <title>Journeys in Japan</title>
   <episode>
@@ -339,5 +339,21 @@
     <title>Journeys in Japan</title>
     <uploadedDate>2021-05-04T02:18:02.703Z</uploadedDate>
     <raw>https://mega.nz/folder/ucYAxZ5R#bBsKiFguPtUDeFwQ-1ntew</raw>
+  </episode>
+  <episode>
+    <airingId>437</airingId>
+    <content>Nagoya is in Aichi Prefecture in central Japan. While it is sometimes compared unfavorably to Tokyo, Kyoto Prefecture and Osaka Prefecture, there is more to the city than meets the eye. It's a fascinating place steeped in history. From the ancient Atsuta Jingu, a shrine with deep ties to the Imperial Family, to contemporary buildings we explore renowned architecture old and new to reflect on the culture of Nagoya.</content>
+    <description>Architect James Lambiasi trains his eye on Nagoya, the old castle town that flourished as a modern industrial hub from the 19th century. He traces the city's history through its architecture.</description>
+    <endDate>2021-05-11T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/WshDCKCa#2fyQUkD4_gg-dc4S1EGadA</link>
+    <recordDateEnd>2021-05-11T01:00:28.542Z</recordDateEnd>
+    <recordDateStart>2021-05-11T00:29:23.605Z</recordDateStart>
+    <seriesId>2007</seriesId>
+    <sha256>d658e3df6ebe5a7ba2d748772f945420c2e22fd26b60db3a31d970aca98f4929</sha256>
+    <startDate>2021-05-11T00:30:00.000Z</startDate>
+    <subtitle>Eye on Nagoya: A City's Identity through Architecture</subtitle>
+    <title>Journeys in Japan</title>
+    <uploadedDate>2021-05-11T03:13:32.915Z</uploadedDate>
+    <raw>https://mega.nz/folder/fYhGjAzb#PSBK7FyedlBaN_CxpxQVJw</raw>
   </episode>
 </episodeList>

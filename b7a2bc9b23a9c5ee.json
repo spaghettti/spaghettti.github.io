@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-11T02:55:03.767Z",
+  "lastUpdated": "2021-05-11T03:15:04.038Z",
   "seriesId": "2007",
   "title": "Journeys in Japan",
   "episodes": [
@@ -338,6 +338,22 @@
       "title": "Journeys in Japan",
       "uploadedDate": "2021-05-04T02:18:02.703Z",
       "raw": "https://mega.nz/folder/ucYAxZ5R#bBsKiFguPtUDeFwQ-1ntew"
+    },
+    {
+      "airingId": "437",
+      "content": "Nagoya is in Aichi Prefecture in central Japan. While it is sometimes compared unfavorably to Tokyo, Kyoto Prefecture and Osaka Prefecture, there is more to the city than meets the eye. It's a fascinating place steeped in history. From the ancient Atsuta Jingu, a shrine with deep ties to the Imperial Family, to contemporary buildings we explore renowned architecture old and new to reflect on the culture of Nagoya.",
+      "description": "Architect James Lambiasi trains his eye on Nagoya, the old castle town that flourished as a modern industrial hub from the 19th century. He traces the city's history through its architecture.",
+      "endDate": "2021-05-11T01:00:00.000Z",
+      "link": "https://mega.nz/folder/WshDCKCa#2fyQUkD4_gg-dc4S1EGadA",
+      "recordDateEnd": "2021-05-11T01:00:28.542Z",
+      "recordDateStart": "2021-05-11T00:29:23.605Z",
+      "seriesId": "2007",
+      "sha256": "d658e3df6ebe5a7ba2d748772f945420c2e22fd26b60db3a31d970aca98f4929",
+      "startDate": "2021-05-11T00:30:00.000Z",
+      "subtitle": "Eye on Nagoya: A City's Identity through Architecture",
+      "title": "Journeys in Japan",
+      "uploadedDate": "2021-05-11T03:13:32.915Z",
+      "raw": "https://mega.nz/folder/fYhGjAzb#PSBK7FyedlBaN_CxpxQVJw"
     }
   ]
 }
