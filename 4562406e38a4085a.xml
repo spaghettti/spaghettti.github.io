@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-10T18:10:03.931Z</lastUpdated>
+  <lastUpdated>2021-05-11T02:55:03.780Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -707,5 +707,20 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2021-05-04T03:06:48.451Z</uploadedDate>
     <raw>https://mega.nz/folder/leAH2KjZ#tnncrRXE55qDyBsB20Ix2w</raw>
+  </episode>
+  <episode>
+    <airingId>291</airingId>
+    <content>Learn about easy, delicious and healthy cooking with Chef Rika! Featured recipes: (1) Rolled Pork Roast with Shiso (2) String Bean Salad.</content>
+    <description>Featured recipes: (1) Rolled Pork Roast with Shiso (2) String Bean Salad / Learn about easy, delicious, and healthy cooking with Chef Rika!</description>
+    <endDate>2021-05-11T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/HYgmkK5K#T9tCuqrbbTEUxmO1y_TduA</link>
+    <recordDateEnd>2021-05-11T02:00:28.740Z</recordDateEnd>
+    <recordDateStart>2021-05-11T01:29:20.100Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>2e9b814ddeaf96de94a713f613bfe06008554a1377ec4045066ef39a36d1c850</sha256>
+    <startDate>2021-05-11T01:30:00.000Z</startDate>
+    <subtitle>Rika's TOKYO CUISINE: Rolled Pork Roast with Shiso</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-05-11T02:52:04.690Z</uploadedDate>
   </episode>
 </episodeList>
