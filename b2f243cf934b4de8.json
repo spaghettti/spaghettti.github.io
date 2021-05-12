@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-12T17:10:05.261Z",
+  "lastUpdated": "2021-05-12T17:55:03.718Z",
   "seriesId": "2061",
   "title": "GRAND SUMO Highlights",
   "episodes": [
@@ -658,6 +658,21 @@
       "title": "GRAND SUMO Highlights",
       "uploadedDate": "2021-05-11T18:54:24.600Z",
       "raw": "https://mega.nz/folder/JCZTXCyb#B5mebyNYEeO0HWNGtnvegA"
+    },
+    {
+      "airingId": "424",
+      "content": "The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!",
+      "description": "NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from May 12, Day 4 of the Grand Sumo Tournament in Tokyo.",
+      "endDate": "2021-05-12T16:57:00.000Z",
+      "link": "https://mega.nz/folder/HMp1zKzC#rufJ-H9HKasTkUE0DLEqMQ",
+      "recordDateEnd": "2021-05-12T16:57:33.355Z",
+      "recordDateStart": "2021-05-12T16:29:20.100Z",
+      "seriesId": "2061",
+      "sha256": "444bb5a446a16fb9abae29c0f0f51d0527967ac07605b9ef77a904f4cdc672cb",
+      "startDate": "2021-05-12T16:30:00.000Z",
+      "subtitle": "May Tournament Day 4",
+      "title": "GRAND SUMO Highlights",
+      "uploadedDate": "2021-05-12T17:53:10.879Z"
     }
   ]
 }
