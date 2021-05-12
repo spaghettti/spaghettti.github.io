@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-11T18:55:04.412Z",
+  "lastUpdated": "2021-05-12T02:15:04.144Z",
   "seriesId": "6122",
   "title": "Dig More Japan",
   "episodes": [
@@ -194,6 +194,22 @@
       "title": "Dig More Japan",
       "uploadedDate": "2021-05-05T02:46:17.576Z",
       "raw": "https://mega.nz/folder/DZxlDIIL#ttu51d4sFUZpSr-5dqt7Iw"
+    },
+    {
+      "airingId": "029",
+      "content": "Japan is a nation of many islands. In this episode, we will visit some of them and dig deep into the unique culture and traditions inspired by nature's splendor and the history of the Japanese islands.",
+      "description": "Japan is a nation of many islands. In this episode, we'll visit some of them and dig deep in to the unique culture and traditions inspired by nature's splendor and history of the Japanese islands.",
+      "endDate": "2021-05-12T01:55:00.000Z",
+      "link": "https://mega.nz/folder/dWgQQbgZ#vt1Ate1AXh9uUXOe3m7DQQ",
+      "recordDateEnd": "2021-05-12T01:55:30.134Z",
+      "recordDateStart": "2021-05-12T01:44:20.100Z",
+      "seriesId": "6122",
+      "sha256": "a659854588a9be886a405c41d7074b1db20c39cd2db1cefed4d4d1822db56502",
+      "startDate": "2021-05-12T01:45:00.000Z",
+      "subtitle": "Island Living",
+      "title": "Dig More Japan",
+      "uploadedDate": "2021-05-12T02:14:10.984Z",
+      "raw": "https://mega.nz/folder/FPgASDBD#-OhFw3XY39KWmc7XaQ52Wg"
     }
   ]
 }

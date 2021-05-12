@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-11T18:55:04.411Z</lastUpdated>
+  <lastUpdated>2021-05-12T02:15:04.143Z</lastUpdated>
   <seriesId>6f88b7eb5aa1e989</seriesId>
   <title>Dig More Japan</title>
   <episode>
@@ -195,5 +195,21 @@
     <title>Dig More Japan</title>
     <uploadedDate>2021-05-05T02:46:17.576Z</uploadedDate>
     <raw>https://mega.nz/folder/DZxlDIIL#ttu51d4sFUZpSr-5dqt7Iw</raw>
+  </episode>
+  <episode>
+    <airingId>029</airingId>
+    <content>Japan is a nation of many islands. In this episode, we will visit some of them and dig deep into the unique culture and traditions inspired by nature's splendor and the history of the Japanese islands.</content>
+    <description>Japan is a nation of many islands. In this episode, we'll visit some of them and dig deep in to the unique culture and traditions inspired by nature's splendor and history of the Japanese islands.</description>
+    <endDate>2021-05-12T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/dWgQQbgZ#vt1Ate1AXh9uUXOe3m7DQQ</link>
+    <recordDateEnd>2021-05-12T01:55:30.134Z</recordDateEnd>
+    <recordDateStart>2021-05-12T01:44:20.100Z</recordDateStart>
+    <seriesId>6122</seriesId>
+    <sha256>a659854588a9be886a405c41d7074b1db20c39cd2db1cefed4d4d1822db56502</sha256>
+    <startDate>2021-05-12T01:45:00.000Z</startDate>
+    <subtitle>Island Living</subtitle>
+    <title>Dig More Japan</title>
+    <uploadedDate>2021-05-12T02:14:10.984Z</uploadedDate>
+    <raw>https://mega.nz/folder/FPgASDBD#-OhFw3XY39KWmc7XaQ52Wg</raw>
   </episode>
 </episodeList>
