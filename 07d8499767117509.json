@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-12T06:50:04.131Z",
+  "lastUpdated": "2021-05-12T07:55:03.561Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2818,6 +2818,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-05-07T08:01:14.271Z",
       "raw": "https://mega.nz/folder/2Jg2jQqL#JEtaxuNO_WQqnYjeYPsJVg"
+    },
+    {
+      "airingId": "764",
+      "content": "Lual Mayen fled South Sudan and grew up as a refugee. He created a video game on that experience. Players on the 2021 online version will fund refugee camps. He now supports youths to learn IT.",
+      "description": "Lual Mayen fled South Sudan and grew up as a refugee. He created a video game on that experience. Players on the 2021 online version will fund refugee camps. He now supports youths to learn IT.",
+      "endDate": "2021-05-12T07:30:00.000Z",
+      "link": "https://mega.nz/folder/ZtpyAKRS#_1F3Aa7Nx8qSEgFsCim5Bw",
+      "recordDateEnd": "2021-05-12T07:30:28.520Z",
+      "recordDateStart": "2021-05-12T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "48340c0338ac7c043157b74688308dfd7a14271b1decb6608a17cbedc82d286a",
+      "startDate": "2021-05-12T07:15:00.000Z",
+      "subtitle": "Reality of Refugees Through Video Games: Lual Mayen / Video Game Developer, Founder of Junub Games",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-05-12T07:50:30.797Z"
     }
   ]
 }
