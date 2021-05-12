@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-12T07:55:03.543Z</lastUpdated>
+  <lastUpdated>2021-05-12T15:55:03.361Z</lastUpdated>
   <seriesId>31851bb3dfae7f8a</seriesId>
   <title>Trails to Oishii Tokyo</title>
   <episode>
@@ -99,6 +99,21 @@
     <title>Trails to Oishii Tokyo</title>
     <uploadedDate>2021-05-05T16:01:41.638Z</uploadedDate>
     <raw>https://mega.nz/folder/PnYVnY6b#3YdcW4MHfMZyq21Lgm9xzA</raw>
+  </episode>
+  <episode>
+    <airingId>096</airingId>
+    <content>This time, we dip into Japanese vinegar. There are many kinds of vinegar worldwide, like balsamic, wine and malt. But in Japan, most vinegar is made from rice. Rice vinegar is a subtly sour ingredient that matches all kinds of Japanese cuisine and is vital in the making of sushi. We visit a Kyoto Prefecture vinegar maker that does everything in-house, even growing their own rice. We also sample a variety of dishes that incorporate vinegar, like sushi and other traditional Japanese cuisine.</content>
+    <description>In Japan, most VINEGAR is made from rice. Join us as we learn more about rice VINEGAR, a subtly sour ingredient that matches all kinds of Japanese cuisine and is vital in the making of sushi.</description>
+    <endDate>2021-05-12T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/lXQTDarL#xRFX87OMw7tQjCeRT4pxsQ</link>
+    <recordDateEnd>2021-05-12T15:00:27.925Z</recordDateEnd>
+    <recordDateStart>2021-05-12T14:29:20.100Z</recordDateStart>
+    <seriesId>2054</seriesId>
+    <sha256>4bc287be7bf4918447ab98fba2398bfda49fd98016f0f15bc97cbe82719365ee</sha256>
+    <startDate>2021-05-12T14:30:00.000Z</startDate>
+    <subtitle>VINEGAR</subtitle>
+    <title>Trails to Oishii Tokyo</title>
+    <uploadedDate>2021-05-12T15:53:43.952Z</uploadedDate>
   </episode>
   <episode>
     <airingId>114</airingId>
