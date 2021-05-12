@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-12T02:15:03.893Z",
+  "lastUpdated": "2021-05-12T03:50:04.027Z",
   "seriesId": "2037",
   "title": "Side by Side",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Side by Side",
       "uploadedDate": "2021-04-14T03:58:18.712Z",
       "raw": "https://mega.nz/folder/JE8gBBxJ#hPJRV2_W94UQ9aGYx7VzqQ"
+    },
+    {
+      "airingId": "076",
+      "content": "Japan International Cooperation Agency, JICA recalled its 2,000 international volunteers during the pandemic. Vietnam's early success against the virus meant 4 volunteers returned in November 2020, completing their two-year stint in April 2021. Follow occupational therapist Nishiyama Noriko who updates rehab techniques at a geriatric hospital, and special needs teacher Shimizu Sayuri who helps an underdeveloped educational field. After 8 months away they work alongside colleagues to tackle new challenges and find new solutions.",
+      "description": "2,000 JICA volunteers were sent back to Japan from abroad during the pandemic. Vietnam's early success meant volunteers could return and we follow an occupational therapist and special needs teacher.",
+      "endDate": "2021-05-12T03:00:00.000Z",
+      "link": "https://mega.nz/folder/oLwQiD7Y#Cy9Ab3eKhqPPJlbknwPixA",
+      "recordDateEnd": "2021-05-12T03:00:26.165Z",
+      "recordDateStart": "2021-05-12T02:29:20.101Z",
+      "seriesId": "2037",
+      "sha256": "67dbf9f62d8c651253f06041f2e23e9f7c2ee7b7dcce25d86c198a197b6c674b",
+      "startDate": "2021-05-12T02:30:00.000Z",
+      "subtitle": "Completing the Mission: Vietnam",
+      "title": "Side by Side",
+      "uploadedDate": "2021-05-12T03:48:04.121Z"
     }
   ]
 }
