@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-12T17:55:03.651Z",
+  "lastUpdated": "2021-05-13T01:55:03.594Z",
   "seriesId": "2029",
   "title": "Core Kyoto",
   "episodes": [
@@ -578,6 +578,21 @@
       "title": "Core Kyoto",
       "uploadedDate": "2021-05-06T01:53:43.706Z",
       "raw": "https://mega.nz/folder/18YVRKwD#l0Vk0QqLXQoHjFgtn8mwAg"
+    },
+    {
+      "airingId": "153",
+      "content": "In Kyoto, traditional cooking stoves affectionately called Okudo-san were once the heart of the household and the focus of belief in the deity of fire. With the proliferation of electric rice cookers, the stoves began to disappear from use. Recently more people are forgoing convenience and learning the benefits of cooking on an open flame. Some still use their ancestors' stoves in their businesses. Discover how people are reevaluating their lifestyles during the pandemic through their Okudo-san.",
+      "description": "During the pandemic, Kyotoites have found a new appreciation for traditional stoves, which they affectionately call okudo-san. A restaurant and a tofu shop ensure their stoves' fires are always lit.",
+      "endDate": "2021-05-13T01:00:00.000Z",
+      "link": "https://mega.nz/folder/bcxWkCRC#b8XVR5IaCawrLpG6NDM63Q",
+      "recordDateEnd": "2021-05-13T01:00:27.888Z",
+      "recordDateStart": "2021-05-13T00:29:20.083Z",
+      "seriesId": "2029",
+      "sha256": "038e13f6cea542df1855c17f89e3e88c9da785cb1a38d41c677e7485076528cb",
+      "startDate": "2021-05-13T00:30:00.000Z",
+      "subtitle": "Okudo-san: Traditional Cooking Stoves",
+      "title": "Core Kyoto",
+      "uploadedDate": "2021-05-13T01:53:28.890Z"
     }
   ]
 }
