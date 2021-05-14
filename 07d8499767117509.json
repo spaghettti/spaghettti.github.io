@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-14T06:55:03.371Z",
+  "lastUpdated": "2021-05-14T08:10:03.753Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2834,6 +2834,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-05-12T07:50:30.797Z",
       "raw": "https://mega.nz/folder/ktI0HbqD#5mZjNZHOVhjXrlcLVriaDA"
+    },
+    {
+      "airingId": "766",
+      "content": "British explorer Sir Ranulph Fiennes has spent his life in pursuit of extreme adventure, risked his life in some of the most ambitious expeditions ever undertaken and raised millions for charity.",
+      "description": "British explorer Sir Ranulph Fiennes has spent his life in pursuit of extreme adventure, risked his life in some of the most ambitious expeditions ever undertaken and raised millions for charity.",
+      "endDate": "2021-05-14T07:30:00.000Z",
+      "link": "https://mega.nz/folder/qFoC2Z7L#RpDL00IRQzZ37E2GC9xREw",
+      "recordDateEnd": "2021-05-14T07:30:26.992Z",
+      "recordDateStart": "2021-05-14T07:14:20.015Z",
+      "seriesId": "2058",
+      "sha256": "4548ccaae8e4410db886fa8a5c777e5a37873b23b86057190e9ce5091edd46d7",
+      "startDate": "2021-05-14T07:15:00.000Z",
+      "subtitle": "Never Giving Up: Ranulph Fiennes / Expedition Leader & Author",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-05-14T08:08:48.564Z"
     }
   ]
 }

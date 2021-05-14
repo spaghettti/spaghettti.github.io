@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-14T06:55:03.358Z</lastUpdated>
+  <lastUpdated>2021-05-14T08:10:03.739Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2835,5 +2835,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-05-12T07:50:30.797Z</uploadedDate>
     <raw>https://mega.nz/folder/ktI0HbqD#5mZjNZHOVhjXrlcLVriaDA</raw>
+  </episode>
+  <episode>
+    <airingId>766</airingId>
+    <content>British explorer Sir Ranulph Fiennes has spent his life in pursuit of extreme adventure, risked his life in some of the most ambitious expeditions ever undertaken and raised millions for charity.</content>
+    <description>British explorer Sir Ranulph Fiennes has spent his life in pursuit of extreme adventure, risked his life in some of the most ambitious expeditions ever undertaken and raised millions for charity.</description>
+    <endDate>2021-05-14T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/qFoC2Z7L#RpDL00IRQzZ37E2GC9xREw</link>
+    <recordDateEnd>2021-05-14T07:30:26.992Z</recordDateEnd>
+    <recordDateStart>2021-05-14T07:14:20.015Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>4548ccaae8e4410db886fa8a5c777e5a37873b23b86057190e9ce5091edd46d7</sha256>
+    <startDate>2021-05-14T07:15:00.000Z</startDate>
+    <subtitle>Never Giving Up: Ranulph Fiennes / Expedition Leader &amp; Author</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-05-14T08:08:48.564Z</uploadedDate>
   </episode>
 </episodeList>
