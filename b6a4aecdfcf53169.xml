@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-13T18:00:05.128Z</lastUpdated>
+  <lastUpdated>2021-05-14T02:40:03.259Z</lastUpdated>
   <seriesId>b6a4aecdfcf53169</seriesId>
   <title>Asia Insight</title>
   <episode>
@@ -403,5 +403,21 @@
     <title>Asia Insight</title>
     <uploadedDate>2021-04-16T01:52:44.651Z</uploadedDate>
     <raw>https://mega.nz/folder/6IBWyJKb#MukF-s5-EiWduHZOPWuqCA</raw>
+  </episode>
+  <episode>
+    <airingId>329</airingId>
+    <content>Once considered a niche sport in China, baseball has gained popularity in the nation ahead of the Tokyo Olympics. Former Chinese national team captain Sun Lingfeng sees this as a chance to help disadvantaged youth, recruiting children from impoverished regions to his team, the Angels, which also provides them with education and housing. Skilled sports players receive priority in university applications, so Sun hopes that baseball will bring new opportunities to the children's lives.</content>
+    <description>As baseball gains popularity in China, underprivileged kids are training hard to hit a homer in the stadium and in life. They're forging their own future despite the major income gap in the nation.</description>
+    <endDate>2021-05-14T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/iRgizTKT#AcD-ek-QaR0_gkVRuWr_aQ</link>
+    <recordDateEnd>2021-05-14T01:00:27.793Z</recordDateEnd>
+    <recordDateStart>2021-05-14T00:29:20.101Z</recordDateStart>
+    <seriesId>2022</seriesId>
+    <sha256>bb51350f9cde8e61e1e6654b41311319c029bd4b2a8bd64643907eebf89331c8</sha256>
+    <startDate>2021-05-14T00:30:00.000Z</startDate>
+    <subtitle>Children Forging their Futures with Baseball: China</subtitle>
+    <title>Asia Insight</title>
+    <uploadedDate>2021-05-14T02:37:46.305Z</uploadedDate>
+    <raw>https://mega.nz/folder/Xkh0QJ6K#qU1lmMavkBk5fmNfQZqCPg</raw>
   </episode>
 </episodeList>
