@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-14T08:10:03.834Z",
+  "lastUpdated": "2021-05-14T16:45:04.488Z",
   "seriesId": "4002",
   "title": "Today's Close-Up",
   "episodes": [
@@ -274,6 +274,22 @@
       "title": "Today's Close-Up",
       "uploadedDate": "2021-04-23T16:08:36.461Z",
       "raw": "https://mega.nz/folder/B1BjDYrR#TOf0K0wWkeMyB1hqTiQI5A"
+    },
+    {
+      "airingId": "825",
+      "content": "The variant with the N501Y mutation, first confirmed in the UK is now rampant in Japan. Unlike previous strains, younger people in their thirties to sixties have a higher risk of becoming gravely ill. In Osaka, one of Japan's largest cities, the medical system is overwhelmed and people are dying at home due to a lack of available beds. Meanwhile, the central government says vaccinating the elderly must be finished by the end of July, but will the municipalities responsible be able to meet the deadline? We take a look at the frontline in the battle with the changing coronavirus.\nGuest:\nKutsuna Satoshi (National Center for Global Health and Medicine)",
+      "description": "New research into coronavirus variants reveals that conventional measures may not work and many people are becoming sicker more quickly. We have a frontline report on a healthcare system in crisis.",
+      "endDate": "2021-05-14T14:57:00.000Z",
+      "link": "https://mega.nz/folder/mcBGFJKb#X8KxKswUEsMPhmtTL_cHXw",
+      "recordDateEnd": "2021-05-14T14:57:32.062Z",
+      "recordDateStart": "2021-05-14T14:29:20.100Z",
+      "seriesId": "4002",
+      "sha256": "a7a58a6bd306a1b34d51c884b84136d8d225ef20c7ad677bad6a2a5fd575c25a",
+      "startDate": "2021-05-14T14:30:00.000Z",
+      "subtitle": "Coronavirus Variants Changing the Stakes",
+      "title": "Today's Close-Up",
+      "uploadedDate": "2021-05-14T16:40:54.466Z",
+      "raw": "https://mega.nz/folder/qU5SkIqK#nIrJdOqEo6u16reroY0oUQ"
     }
   ]
 }
