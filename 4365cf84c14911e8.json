@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-15T14:45:04.562Z",
+  "lastUpdated": "2021-05-15T15:40:04.028Z",
   "seriesId": "2074,3004",
   "title": "BIZ STREAM",
   "episodes": [
@@ -258,6 +258,21 @@
       "title": "BIZ STREAM",
       "uploadedDate": "2021-04-17T16:16:31.840Z",
       "raw": "https://mega.nz/folder/jdUCUB4K#UTU_k8jns9P67NfRtABDYw"
+    },
+    {
+      "airingId": "101",
+      "content": "[On-Site Report]\nSmall and medium-sized businesses must rely on being able to quickly recognize and adapt to changes in the market in order to survive. This episode features a small company striving to become the world's top producer of artificial organs for use in surgical training and a family-owned business that decided to branch out from manufacturing cords and tubes to try something entirely different - caviar.\n[In Depth: Ransomware Attacks Put Business on Alert]\nA cyber-attack left the largest fuel pipeline in the US shut down for nearly a week. Security experts warn this could just be the tip of the iceberg ... as companies are more vulnerable to hackers after going digital during the coronavirus pandemic.\n[Global Trends: Tackling Increased Plastic Use in Pandemic]\nFood delivery services have seen a spike in business during the pandemic. Concerns about mountains of disposable containers have prompted France to start phasing them out. We look at eco-friendly and reusable options and a system to keep food containers out of the trash.",
+      "description": "This episode features small and medium-sized Japanese businesses that have made surprising moves into completely different markets in response to toughtimes and changes in demand.",
+      "endDate": "2021-05-15T14:40:00.000Z",
+      "link": "https://mega.nz/folder/btwxka4R#7UpOqLs8uG2PfL9WfqbeEw",
+      "recordDateEnd": "2021-05-15T14:40:28.826Z",
+      "recordDateStart": "2021-05-15T14:09:24.082Z",
+      "seriesId": "2074",
+      "sha256": "e8a9ed5220de95ce8ea08554212a66c5222907e4ff35c72ba450238ad9803374",
+      "startDate": "2021-05-15T14:10:00.000Z",
+      "subtitle": "Adapting for Survival",
+      "title": "BIZ STREAM",
+      "uploadedDate": "2021-05-15T15:39:09.940Z"
     },
     {
       "airingId": "704",

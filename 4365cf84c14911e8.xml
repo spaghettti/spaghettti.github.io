@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-15T14:45:04.559Z</lastUpdated>
+  <lastUpdated>2021-05-15T15:40:04.026Z</lastUpdated>
   <seriesId>4365cf84c14911e8</seriesId>
   <title>BIZ STREAM</title>
   <episode>
@@ -323,6 +323,26 @@ This episode highlights efforts to reduce food loss and food waste by implementi
     <title>BIZ STREAM</title>
     <uploadedDate>2021-04-17T16:16:31.840Z</uploadedDate>
     <raw>https://mega.nz/folder/jdUCUB4K#UTU_k8jns9P67NfRtABDYw</raw>
+  </episode>
+  <episode>
+    <airingId>101</airingId>
+    <content>[On-Site Report]
+Small and medium-sized businesses must rely on being able to quickly recognize and adapt to changes in the market in order to survive. This episode features a small company striving to become the world's top producer of artificial organs for use in surgical training and a family-owned business that decided to branch out from manufacturing cords and tubes to try something entirely different - caviar.
+[In Depth: Ransomware Attacks Put Business on Alert]
+A cyber-attack left the largest fuel pipeline in the US shut down for nearly a week. Security experts warn this could just be the tip of the iceberg ... as companies are more vulnerable to hackers after going digital during the coronavirus pandemic.
+[Global Trends: Tackling Increased Plastic Use in Pandemic]
+Food delivery services have seen a spike in business during the pandemic. Concerns about mountains of disposable containers have prompted France to start phasing them out. We look at eco-friendly and reusable options and a system to keep food containers out of the trash.</content>
+    <description>This episode features small and medium-sized Japanese businesses that have made surprising moves into completely different markets in response to toughtimes and changes in demand.</description>
+    <endDate>2021-05-15T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/btwxka4R#7UpOqLs8uG2PfL9WfqbeEw</link>
+    <recordDateEnd>2021-05-15T14:40:28.826Z</recordDateEnd>
+    <recordDateStart>2021-05-15T14:09:24.082Z</recordDateStart>
+    <seriesId>2074</seriesId>
+    <sha256>e8a9ed5220de95ce8ea08554212a66c5222907e4ff35c72ba450238ad9803374</sha256>
+    <startDate>2021-05-15T14:10:00.000Z</startDate>
+    <subtitle>Adapting for Survival</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2021-05-15T15:39:09.940Z</uploadedDate>
   </episode>
   <episode>
     <airingId>704</airingId>
