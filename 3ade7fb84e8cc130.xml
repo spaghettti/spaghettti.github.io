@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-15T05:30:04.666Z</lastUpdated>
+  <lastUpdated>2021-05-15T05:45:05.291Z</lastUpdated>
   <seriesId>3ade7fb84e8cc130</seriesId>
   <title>Four Seasons in Japan</title>
   <episode>
@@ -339,6 +339,22 @@
     <title>Four Seasons in Japan</title>
     <uploadedDate>2021-05-05T11:59:01.089Z</uploadedDate>
     <raw>https://mega.nz/folder/76RjFITK#ws-enFjP-I_fdl--E7_GGg</raw>
+  </episode>
+  <episode>
+    <airingId>064</airingId>
+    <content/>
+    <description>Mt. Ontake is a 3,067-meter active volcano covered in its lower reaches by broadleaf and coniferous forests. Pristine water running in deep mountainside valleys attract birds, char and other wildlife.</description>
+    <endDate>2021-05-15T04:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/ofolBSbT#a9IECEQMFT6Vo4sHD4HVNQ</link>
+    <recordDateEnd>2021-05-15T04:20:31.973Z</recordDateEnd>
+    <recordDateStart>2021-05-15T04:09:20.055Z</recordDateStart>
+    <seriesId>6101</seriesId>
+    <sha256>91fa6f82c832d574b57ecdef549b64a35d53c22408332b78cd9679581912cea8</sha256>
+    <startDate>2021-05-15T04:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Four Seasons in Japan</title>
+    <uploadedDate>2021-05-15T05:43:12.257Z</uploadedDate>
+    <raw>https://mega.nz/folder/HFgxlYTJ#aPMMRzHcFH7zYEAL7pphog</raw>
   </episode>
   <episode>
     <airingId>068</airingId>
