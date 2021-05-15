@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-15T05:25:03.737Z",
+  "lastUpdated": "2021-05-15T05:30:04.631Z",
   "seriesId": "6022",
   "title": "Easy Japanese",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Easy Japanese",
       "uploadedDate": "2021-05-08T05:35:01.031Z",
       "raw": "https://mega.nz/folder/i24AiYaT#EQDWlQd2aWf13vvZU2AF6A"
+    },
+    {
+      "airingId": "009",
+      "content": "",
+      "description": "#9 What is this? / When you see something for the first time and want to know what it is, just ask \"kore wa nan desu ka.\"",
+      "endDate": "2021-05-15T04:30:00.000Z",
+      "link": "https://mega.nz/folder/yIJwXR5K#TX5CZpkrCrO3h5swKGoJ-A",
+      "recordDateEnd": "2021-05-15T04:30:33.413Z",
+      "recordDateStart": "2021-05-15T04:24:20.100Z",
+      "seriesId": "6022",
+      "sha256": "46315c93037aea3f83f8003c8ab43d0be8ac82ebfe9df4c1fad9972b734f77b4",
+      "startDate": "2021-05-15T04:25:00.000Z",
+      "subtitle": "",
+      "title": "Easy Japanese",
+      "uploadedDate": "2021-05-15T05:29:50.745Z"
     },
     {
       "airingId": "014",

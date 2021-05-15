@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-15T05:25:03.735Z</lastUpdated>
+  <lastUpdated>2021-05-15T05:30:04.629Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -131,6 +131,21 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-05-08T05:35:01.031Z</uploadedDate>
     <raw>https://mega.nz/folder/i24AiYaT#EQDWlQd2aWf13vvZU2AF6A</raw>
+  </episode>
+  <episode>
+    <airingId>009</airingId>
+    <content/>
+    <description>#9 What is this? / When you see something for the first time and want to know what it is, just ask "kore wa nan desu ka."</description>
+    <endDate>2021-05-15T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/yIJwXR5K#TX5CZpkrCrO3h5swKGoJ-A</link>
+    <recordDateEnd>2021-05-15T04:30:33.413Z</recordDateEnd>
+    <recordDateStart>2021-05-15T04:24:20.100Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>46315c93037aea3f83f8003c8ab43d0be8ac82ebfe9df4c1fad9972b734f77b4</sha256>
+    <startDate>2021-05-15T04:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-05-15T05:29:50.745Z</uploadedDate>
   </episode>
   <episode>
     <airingId>014</airingId>
