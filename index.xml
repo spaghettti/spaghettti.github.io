@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-15T06:20:03.500Z</lastUpdated>
+  <lastUpdated>2021-05-15T07:00:04.210Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -640,6 +640,14 @@
     <lastAiring>2021-05-08T05:25:00.000Z</lastAiring>
     <lastUpload>2021-05-08T07:43:31.128Z</lastUpload>
     <seriesId>2072</seriesId>
+    <title>Japan's Top Inventions</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>d7af518fd009aeef</uniqueId>
+    <lastAiring>2021-05-15T05:10:00.000Z</lastAiring>
+    <lastUpload>2021-05-15T06:57:26.754Z</lastUpload>
+    <seriesId>2091</seriesId>
     <title>Japan's Top Inventions</title>
   </series>
   <series>
