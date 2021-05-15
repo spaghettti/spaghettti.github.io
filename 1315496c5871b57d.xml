@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-15T03:25:04.077Z</lastUpdated>
+  <lastUpdated>2021-05-15T05:25:03.623Z</lastUpdated>
   <seriesId>1315496c5871b57d</seriesId>
   <title>CYCLE AROUND JAPAN</title>
   <episode>
@@ -67,6 +67,22 @@
     <title>CYCLE AROUND JAPAN</title>
     <uploadedDate>2021-05-08T05:28:58.410Z</uploadedDate>
     <raw>https://mega.nz/folder/z3ZXDY7L#SoWHheS8keQLsks9Kc5-lA</raw>
+  </episode>
+  <episode>
+    <airingId>034</airingId>
+    <content>Facing the Seto Inland Sea, sunny Kagawa Prefecture historically overcame a lack of natural resources and water through skill and hard work. Despite having no local bamboo or paper, Kagawa artisans created paper fans famed for their quality. Bonsai grow well in this dry climate, and Kagawa's have won fans worldwide. After a taste of Wasanbon sweets, prized for centuries for their delicate sweetness, we cross to a small island to sample soy sauce made the traditional way. A trip of tough but rewarding climbs, reflecting the spirit of Kagawa.</content>
+    <description>A ride from one edge to the other of Japan's smallest prefecture, where a relative scarcity of natural resources has been historically offset by an unrelenting drive to create outstanding quality.</description>
+    <endDate>2021-05-15T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Pxg0HLqJ#vvTTqQFewBeh-wW03kJFmg</link>
+    <recordDateEnd>2021-05-15T03:00:30.702Z</recordDateEnd>
+    <recordDateStart>2021-05-15T02:09:22.929Z</recordDateStart>
+    <seriesId>2066</seriesId>
+    <sha256>ad99dc1987e9424b54e3a6824032fc9e506bd26657c66c3c757387dfd4a979fd</sha256>
+    <startDate>2021-05-15T02:10:00.000Z</startDate>
+    <subtitle>Kagawa - The Pursuit of Excellence</subtitle>
+    <title>CYCLE AROUND JAPAN</title>
+    <uploadedDate>2021-05-15T05:20:13.100Z</uploadedDate>
+    <raw>https://mega.nz/folder/9OZ2wTKJ#3cm4MseuefMxBsEBF5zM5g</raw>
   </episode>
   <episode>
     <airingId>039</airingId>
