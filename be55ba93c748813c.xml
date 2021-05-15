@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-15T07:00:04.084Z</lastUpdated>
+  <lastUpdated>2021-05-15T14:45:04.421Z</lastUpdated>
   <seriesId>be55ba93c748813c</seriesId>
   <title>COOL JAPAN</title>
   <episode>
@@ -99,6 +99,22 @@
     <title>COOL JAPAN</title>
     <uploadedDate>2021-03-28T07:49:11.872Z</uploadedDate>
     <raw>https://mega.nz/folder/OgURnYqZ#lkeFAq4XIygsEW7BjAHJ0g</raw>
+  </episode>
+  <episode>
+    <airingId>224</airingId>
+    <content>Currently, flour foods are captivating foreigners. In particular, takoyaki, which are grilled while being flipped, have become a representative dish that foreigners want to try. Dishes that you "cook yourself," which are rare overseas, such as Okonomiyaki and Monjayaki are also very popular. Supporting the popularity of flour foods is the sweet and spicy sauce that foreigners love. Is the specialized sauce that supports the taste of flour foods cool? Will Japanese flour foods be the next dish that spreads to the world?</content>
+    <description>Konamon are casual grilled flour batter dishes getting popular with foreigners as well. Panelists sample some representative varieties and learn about the development of the indispensable thick sauce.</description>
+    <endDate>2021-05-15T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/ioJQ1DKB#sQ2gdgBoROG6HBLRP67lYA</link>
+    <recordDateEnd>2021-05-15T11:55:27.923Z</recordDateEnd>
+    <recordDateStart>2021-05-15T11:09:22.968Z</recordDateStart>
+    <seriesId>4008</seriesId>
+    <sha256>1d7238e1472515f667ded94584701a36f17e2fde75b3a4086e3c1752e5f07343</sha256>
+    <startDate>2021-05-15T11:10:00.000Z</startDate>
+    <subtitle>Konamon (Flour Foods)</subtitle>
+    <title>COOL JAPAN</title>
+    <uploadedDate>2021-05-15T14:42:49.104Z</uploadedDate>
+    <raw>https://mega.nz/folder/64hiDRLZ#4oBXYJWEyvADM68fyL9tCQ</raw>
   </episode>
   <episode>
     <airingId>225</airingId>
