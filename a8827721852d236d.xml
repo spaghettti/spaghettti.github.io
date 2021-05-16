@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-16T16:55:04.042Z</lastUpdated>
+  <lastUpdated>2021-05-16T17:25:03.470Z</lastUpdated>
   <seriesId>a8827721852d236d</seriesId>
   <title>Japan-easy</title>
   <episode>
@@ -99,6 +99,22 @@
     <title>Japan-easy</title>
     <uploadedDate>2021-05-09T17:10:50.710Z</uploadedDate>
     <raw>https://mega.nz/folder/JX4HwYwT#WsRfAKaT7_tqBl2IJWKy5A</raw>
+  </episode>
+  <episode>
+    <airingId>008</airingId>
+    <content/>
+    <description>The negative form of i-adjectives and its past tense. Explore the wonders of Japan and the Japanese language! Through basic conversations, viewers will see that "Japanese is easy!"</description>
+    <endDate>2021-05-16T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/aiJhQQzD#p7iTupN_VWqINusAtwjBVg</link>
+    <recordDateEnd>2021-05-16T16:00:32.249Z</recordDateEnd>
+    <recordDateStart>2021-05-16T15:44:20.001Z</recordDateStart>
+    <seriesId>6210</seriesId>
+    <sha256>a993e2521fcb6f4bc8c074142507859f4ea8a94c998350e2841cb5f58baf5aa9</sha256>
+    <startDate>2021-05-16T15:45:00.000Z</startDate>
+    <subtitle/>
+    <title>Japan-easy</title>
+    <uploadedDate>2021-05-16T17:22:57.347Z</uploadedDate>
+    <raw>https://mega.nz/folder/0TIRjIrL#z9mG3ib6eyE2szeqwLQh-w</raw>
   </episode>
   <episode>
     <airingId>109</airingId>
