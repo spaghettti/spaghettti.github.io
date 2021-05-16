@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-16T04:45:04.597Z</lastUpdated>
+  <lastUpdated>2021-05-16T05:00:04.831Z</lastUpdated>
   <seriesId>8a4476c69fcf9dff</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -131,6 +131,22 @@
     <title>Somewhere Street mini</title>
     <uploadedDate>2021-03-28T05:12:10.319Z</uploadedDate>
     <raw>https://mega.nz/folder/A9w2HQQJ#b66a89bnGCuWB9V0qUKBCw</raw>
+  </episode>
+  <episode>
+    <airingId>013</airingId>
+    <content/>
+    <description>Vigan is on the western coast of the island of Luzon. In the 16th century Spain established it as a trading port and military base. Old colonial buildings are part of this UNESCO World Heritage Site.</description>
+    <endDate>2021-05-16T04:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/zUpQjDqR#NWIMrSbHFvB21fm8R5cAtA</link>
+    <recordDateEnd>2021-05-16T04:25:33.692Z</recordDateEnd>
+    <recordDateStart>2021-05-16T04:09:20.158Z</recordDateStart>
+    <seriesId>6209</seriesId>
+    <sha256>bdb2cb79249c01b9cdd9e399485ae62535f9132506a966b29a027dfaa06793d4</sha256>
+    <startDate>2021-05-16T04:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Somewhere Street mini</title>
+    <uploadedDate>2021-05-16T04:58:54.991Z</uploadedDate>
+    <raw>https://mega.nz/folder/3R4WlBpC#RM0Mu6oTrDgmv5qv50ocSw</raw>
   </episode>
   <episode>
     <airingId>015</airingId>
