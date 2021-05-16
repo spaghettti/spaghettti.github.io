@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-16T11:05:03.844Z</lastUpdated>
+  <lastUpdated>2021-05-16T14:10:04.187Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -179,6 +179,22 @@
     <title>Somewhere Street</title>
     <uploadedDate>2021-05-09T10:03:30.368Z</uploadedDate>
     <raw>https://mega.nz/folder/zyZEFTIS#JpnbGdczCh8uX3nPfJX5Rg</raw>
+  </episode>
+  <episode>
+    <airingId>064</airingId>
+    <content>Trinidad is located near the southern coast of central Cuba in the Caribbean and has been a designated UNESCO World Heritage Site since 1988. During the Spanish colonial period in the 18th and 19th centuries, the sugar trade brought enormous wealth to the area and the inhabitants spent extravagant sums of money on developing town. In this episode, we stroll around the perfectly preserved town.</content>
+    <description>Trinidad in Cuba was flourished by the sugar trade during the Spanish colonial period in the 18th and 19th centuries. In this episode, we stroll around the perfectly preserved town.</description>
+    <endDate>2021-05-16T12:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/q5J1TYBL#JZE-LfdE80GhrBbLBJ3WAA</link>
+    <recordDateEnd>2021-05-16T12:00:22.349Z</recordDateEnd>
+    <recordDateStart>2021-05-16T11:09:20.101Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>3d1a9f13b5e533e0a4fc31726ba32fc84336b40f208800c4657cba36547bc932</sha256>
+    <startDate>2021-05-16T11:10:00.000Z</startDate>
+    <subtitle>Trinidad, Cuba</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-05-16T14:06:06.866Z</uploadedDate>
+    <raw>https://mega.nz/folder/fvQnCQiQ#oK4LHoT0YgoG3bv71bcjtg</raw>
   </episode>
   <episode>
     <airingId>082</airingId>
