@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-16T03:15:03.935Z</lastUpdated>
+  <lastUpdated>2021-05-16T04:30:04.615Z</lastUpdated>
   <seriesId>ac0dc75327258b51</seriesId>
   <title>The Professionals</title>
   <episode>
@@ -211,5 +211,21 @@
     <title>The Professionals</title>
     <uploadedDate>2021-05-09T06:34:12.906Z</uploadedDate>
     <raw>https://mega.nz/folder/PdQi3RZD#DmnK69wj8R8cEV6LQpP75g</raw>
+  </episode>
+  <episode>
+    <airingId>154</airingId>
+    <content>Baba Ryoji (71) is a leading restorer of Japan's many cultural properties. He's worked on the Phoenix Hall of Byodoin Temple, as well as Sanzen-in Temple, and is recognized as a holder of Selected Conservation Techniques. His extraordinary skill and knowledge are coupled with the latest technology to faithfully recreate historical materials and techniques. He brings centuries-old art back to life, inhabiting the spirit which inspired the original artists. Baba's current project is a 400-year-old artwork on a sliding door. He spends a year working on this irreplaceable piece of cultural history.</content>
+    <description>Baba Ryoji (71) is a top restorer of Japan's cultural properties. His skill and knowledge are coupled with technology to return centuries-old art to vibrant life.</description>
+    <endDate>2021-05-16T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/qIQVmQyK#99Hs2fUsPttNEqiaJpctfA</link>
+    <recordDateEnd>2021-05-16T02:55:28.097Z</recordDateEnd>
+    <recordDateStart>2021-05-16T02:09:20.100Z</recordDateStart>
+    <seriesId>4003</seriesId>
+    <sha256>0aac27b3ab6d78d907dd606e96651d4576193e1f443e77b3e3eb35be559984f1</sha256>
+    <startDate>2021-05-16T02:10:00.000Z</startDate>
+    <subtitle>Uncovering the Past Through Boundless Curiosity: Baba Ryoji, Restorer of Cultural Properties</subtitle>
+    <title>The Professionals</title>
+    <uploadedDate>2021-05-16T04:26:18.539Z</uploadedDate>
+    <raw>https://mega.nz/folder/ShZUEbxZ#xmc8ucY7f12tZqdZsYfgRQ</raw>
   </episode>
 </episodeList>
