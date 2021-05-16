@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-15T19:15:04.157Z",
+  "lastUpdated": "2021-05-16T02:35:03.783Z",
   "seriesId": "5003",
   "title": "Hometown Stories",
   "episodes": [
@@ -290,6 +290,21 @@
       "title": "Hometown Stories",
       "uploadedDate": "2021-05-02T04:25:25.749Z",
       "raw": "https://mega.nz/folder/XZpWQBTZ#uNH4AHLlCuLgxakYMbQyQw"
+    },
+    {
+      "airingId": "166",
+      "content": "Ostomates are people who, owing to illness or disability, need a bag attached to their abdomen to collect bodily waste. Currently, there are around 210,000 ostomates in Japan, but not many people know about them. Emma Otsuji Pickles is determined to change that. She has posed for photos in a swimsuit and has negotiated an agreement with a pouch maker to be their ostomate model. This program follows her efforts to give ostomates encouragement and create a better environment for them by becoming an open \"cool\" figure herself.",
+      "description": "With a hard-to-cure illness, Emma Otsuji Pickles lives with a stoma bag attached to her abdomen. Yet, she wants to become a swimsuit model. We follow her daily life to find out what motivates her.",
+      "endDate": "2021-05-16T01:40:00.000Z",
+      "link": "https://mega.nz/folder/Ihx1HAoK#FJTToATrG9pWdEE2_naWaw",
+      "recordDateEnd": "2021-05-16T01:40:28.412Z",
+      "recordDateStart": "2021-05-16T01:09:20.102Z",
+      "seriesId": "5003",
+      "sha256": "d667203efa7529d3660cea279a8c4e4e316652a14ffb6821b266673521bbc3d4",
+      "startDate": "2021-05-16T01:10:00.000Z",
+      "subtitle": "Why Did She Pose in a Bikini?: Challenges of an \"Ostomate\" Doctor",
+      "title": "Hometown Stories",
+      "uploadedDate": "2021-05-16T02:32:21.969Z"
     }
   ]
 }
