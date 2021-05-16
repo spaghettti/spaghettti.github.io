@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-16T17:35:03.696Z",
+  "lastUpdated": "2021-05-16T18:20:04.087Z",
   "seriesId": "2061",
   "title": "GRAND SUMO Highlights",
   "episodes": [
@@ -722,6 +722,21 @@
       "title": "GRAND SUMO Highlights",
       "uploadedDate": "2021-05-15T19:12:27.470Z",
       "raw": "https://mega.nz/folder/in4kkZTT#y45y0ptlcXf0jCxlMvnpvQ"
+    },
+    {
+      "airingId": "428",
+      "content": "The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!",
+      "description": "NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from May 16, Day 8 of the Grand Sumo Tournament in Tokyo.",
+      "endDate": "2021-05-16T16:57:00.000Z",
+      "link": "https://mega.nz/folder/dHxhmAhR#fI4eIXZwCfRqTUFP1nsmQw",
+      "recordDateEnd": "2021-05-16T16:57:29.236Z",
+      "recordDateStart": "2021-05-16T16:29:20.136Z",
+      "seriesId": "2061",
+      "sha256": "c3dfe0473913a4a5e236154fd6d670b66da3a3bf002b3ab97f5bd2fa8a843b61",
+      "startDate": "2021-05-16T16:30:00.000Z",
+      "subtitle": "May Tournament Day 8 (Halfway Point)",
+      "title": "GRAND SUMO Highlights",
+      "uploadedDate": "2021-05-16T18:19:50.641Z"
     }
   ]
 }
