@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-16T14:10:03.904Z",
+  "lastUpdated": "2021-05-16T16:55:03.740Z",
   "seriesId": "2004",
   "title": "J-MELO",
   "episodes": [
@@ -194,6 +194,21 @@
       "title": "J-MELO",
       "uploadedDate": "2021-05-09T16:30:30.056Z",
       "raw": "https://mega.nz/folder/L0gQEQoD#aAWoA-GQ-yqxTp78IEm4Nw"
+    },
+    {
+      "airingId": "373",
+      "content": "Japan's exciting music scene! Pop, rock, traditional and more! Live performances, artist interviews, plus all the latest news!",
+      "description": "Join May J. for Japanese music! Two acts are coming to chat and perform. One is the idol group HKT48. The other is MARiA. She's the vocalist in the duo GARNiDELiA, who've sung lots of anime songs.",
+      "endDate": "2021-05-16T15:40:00.000Z",
+      "link": "https://mega.nz/folder/mrwAwaLJ#nM62-8dSvro61lDBlTBO5w",
+      "recordDateEnd": "2021-05-16T15:40:29.040Z",
+      "recordDateStart": "2021-05-16T15:09:20.100Z",
+      "seriesId": "2004",
+      "sha256": "2258d304e80bc6001d0e7d9baff265bd51fc2c9615b130e82ae62417ffa7aae3",
+      "startDate": "2021-05-16T15:10:00.000Z",
+      "subtitle": "HKT48 and MARiA",
+      "title": "J-MELO",
+      "uploadedDate": "2021-05-16T16:53:00.592Z"
     }
   ]
 }
