@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-16T02:35:03.881Z",
+  "lastUpdated": "2021-05-16T02:50:04.188Z",
   "series": [
     {
       "count": 1,
@@ -1232,6 +1232,14 @@
       "lastUpload": "2021-04-29T00:58:56.302Z",
       "seriesId": "3004",
       "title": "The Sea of Japan"
+    },
+    {
+      "count": 1,
+      "uniqueId": "49d6f4e33381059a",
+      "lastAiring": "2021-05-16T01:40:00.000Z",
+      "lastUpload": "2021-05-16T02:48:29.114Z",
+      "seriesId": "6042",
+      "title": "The Seasons of Yamato"
     },
     {
       "count": 1,

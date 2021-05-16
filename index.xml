@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-16T02:35:03.875Z</lastUpdated>
+  <lastUpdated>2021-05-16T02:50:04.181Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1233,6 +1233,14 @@
     <lastUpload>2021-04-29T00:58:56.302Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>The Sea of Japan</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>49d6f4e33381059a</uniqueId>
+    <lastAiring>2021-05-16T01:40:00.000Z</lastAiring>
+    <lastUpload>2021-05-16T02:48:29.114Z</lastUpload>
+    <seriesId>6042</seriesId>
+    <title>The Seasons of Yamato</title>
   </series>
   <series>
     <count>1</count>
