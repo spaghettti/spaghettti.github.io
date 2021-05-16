@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-16T04:30:04.753Z</lastUpdated>
+  <lastUpdated>2021-05-16T04:45:04.637Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -731,10 +731,10 @@
     <title>Kiyo in Kyoto: 3min</title>
   </series>
   <series>
-    <count>24</count>
+    <count>25</count>
     <uniqueId>0fb6afa0f420e9e6</uniqueId>
-    <lastAiring>2021-05-09T03:40:00.000Z</lastAiring>
-    <lastUpload>2021-05-09T06:53:26.920Z</lastUpload>
+    <lastAiring>2021-05-16T03:40:00.000Z</lastAiring>
+    <lastUpload>2021-05-16T04:44:04.906Z</lastUpload>
     <seriesId>6116</seriesId>
     <title>Little Charo</title>
   </series>
@@ -1139,10 +1139,10 @@
     <title>TAKADA KENZO Poet of Cotton</title>
   </series>
   <series>
-    <count>47</count>
+    <count>48</count>
     <uniqueId>01d91b585f12a25a</uniqueId>
-    <lastAiring>2021-05-15T03:55:00.000Z</lastAiring>
-    <lastUpload>2021-05-15T05:57:16.748Z</lastUpload>
+    <lastAiring>2021-05-16T03:55:00.000Z</lastAiring>
+    <lastUpload>2021-05-16T04:41:17.933Z</lastUpload>
     <seriesId>4032</seriesId>
     <title>The Flame Across Japan</title>
   </series>
