@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-16T02:50:03.963Z</lastUpdated>
+  <lastUpdated>2021-05-16T03:15:03.879Z</lastUpdated>
   <seriesId>5d6cd359adade3e0</seriesId>
   <title>Doki Doki! NHK WORLD-JAPAN</title>
   <episode>
@@ -387,5 +387,21 @@
     <title>Doki Doki! NHK WORLD-JAPAN</title>
     <uploadedDate>2021-04-25T03:25:19.582Z</uploadedDate>
     <raw>https://mega.nz/folder/jBhwCBiD#WOe6eosk4i0BgIoU-26ebQ</raw>
+  </episode>
+  <episode>
+    <airingId>088</airingId>
+    <content/>
+    <description>This time we introduce "no art, no life plus," which shows a barber in Oita prefecture carving masks from materials arrived the beach such as driftwoods or wasted fishing tools.</description>
+    <endDate>2021-05-16T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ZShkACqK#31v01mZtVvGKBYREoKH4Ow</link>
+    <recordDateEnd>2021-05-16T03:00:23.818Z</recordDateEnd>
+    <recordDateStart>2021-05-16T02:54:22.504Z</recordDateStart>
+    <seriesId>2075</seriesId>
+    <sha256>1f61cea2341d2e988eaa402ef40308d7d70084790020eb7129cbc6dc207b0da1</sha256>
+    <startDate>2021-05-16T02:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Doki Doki! NHK WORLD-JAPAN</title>
+    <uploadedDate>2021-05-16T03:12:31.810Z</uploadedDate>
+    <raw>https://mega.nz/folder/mZh0AQqK#GRiGkYiuph5bKeW3mRw3FA</raw>
   </episode>
 </episodeList>
