@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-17T02:25:03.899Z</lastUpdated>
+  <lastUpdated>2021-05-17T02:55:03.767Z</lastUpdated>
   <seriesId>ae19acce46550858</seriesId>
   <title>Easy Japanese for Work</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>Easy Japanese for Work</title>
     <uploadedDate>2021-05-10T03:30:59.743Z</uploadedDate>
     <raw>https://mega.nz/folder/5DohFSAZ#bbhDAWh0y-UOyOoZZMOJ8A</raw>
+  </episode>
+  <episode>
+    <airingId>020</airingId>
+    <content>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</content>
+    <description>Telling passengers in a hurry that they may be late. Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</description>
+    <endDate>2021-05-17T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/TjZD1AQQ#n1_yYvxzb5g03_IGvfbsMw</link>
+    <recordDateEnd>2021-05-17T02:00:26.991Z</recordDateEnd>
+    <recordDateStart>2021-05-17T01:44:22.733Z</recordDateStart>
+    <seriesId>2078</seriesId>
+    <sha256>e2c16c179f608aed1e6a4393d46375dec45b1fb807ea37372f7ea1cf6361580f</sha256>
+    <startDate>2021-05-17T01:45:00.000Z</startDate>
+    <subtitle>#20 Telling passengers in a hurry that they may be late</subtitle>
+    <title>Easy Japanese for Work</title>
+    <uploadedDate>2021-05-17T02:54:11.041Z</uploadedDate>
+    <raw>https://mega.nz/folder/BaQH1KCZ#YUASO43K_SGw89dvVLLk1A</raw>
   </episode>
   <episode>
     <airingId>022</airingId>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-17T02:25:04.089Z",
+  "lastUpdated": "2021-05-17T02:55:04.000Z",
   "series": [
     {
       "count": 1,
@@ -370,10 +370,10 @@
       "title": "Easy Japanese"
     },
     {
-      "count": 12,
+      "count": 13,
       "uniqueId": "ae19acce46550858",
-      "lastAiring": "2021-05-10T01:45:00.000Z",
-      "lastUpload": "2021-05-10T03:30:59.743Z",
+      "lastAiring": "2021-05-17T01:45:00.000Z",
+      "lastUpload": "2021-05-17T02:54:11.041Z",
       "seriesId": "2078",
       "title": "Easy Japanese for Work"
     },

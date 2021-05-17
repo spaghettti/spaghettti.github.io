@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-17T02:25:04.082Z</lastUpdated>
+  <lastUpdated>2021-05-17T02:55:03.992Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -371,10 +371,10 @@
     <title>Easy Japanese</title>
   </series>
   <series>
-    <count>12</count>
+    <count>13</count>
     <uniqueId>ae19acce46550858</uniqueId>
-    <lastAiring>2021-05-10T01:45:00.000Z</lastAiring>
-    <lastUpload>2021-05-10T03:30:59.743Z</lastUpload>
+    <lastAiring>2021-05-17T01:45:00.000Z</lastAiring>
+    <lastUpload>2021-05-17T02:54:11.041Z</lastUpload>
     <seriesId>2078</seriesId>
     <title>Easy Japanese for Work</title>
   </series>
