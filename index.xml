@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-17T02:00:04.685Z</lastUpdated>
+  <lastUpdated>2021-05-17T02:25:04.082Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -139,10 +139,10 @@
     <title>BENTO EXPO</title>
   </series>
   <series>
-    <count>4</count>
+    <count>5</count>
     <uniqueId>3927e94ea2fb36fa</uniqueId>
-    <lastAiring>2021-05-10T01:30:00.000Z</lastAiring>
-    <lastUpload>2021-05-10T02:10:29.752Z</lastUpload>
+    <lastAiring>2021-05-17T01:30:00.000Z</lastAiring>
+    <lastUpload>2021-05-17T02:24:57.702Z</lastUpload>
     <seriesId>3004</seriesId>
     <title>BENTO EXPO</title>
   </series>

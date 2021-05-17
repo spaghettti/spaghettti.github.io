@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-17T02:00:04.517Z",
+  "lastUpdated": "2021-05-17T02:25:03.914Z",
   "seriesId": "3004",
   "title": "BENTO EXPO",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "BENTO EXPO",
       "uploadedDate": "2021-05-10T02:10:29.752Z",
       "raw": "https://mega.nz/folder/vwhQ1Cia#WNROx7ZoTpWPao1DqsQTiA"
+    },
+    {
+      "airingId": "474",
+      "content": "",
+      "description": "Maki shows us how to make a bento using the ever-popular ginger pork. Marc demonstrates how to make a simple and healthy yakisoba bento. We head to Iwakuni, Yamaguchi Prefecture during Bento Trip.",
+      "endDate": "2021-05-17T01:45:00.000Z",
+      "link": "https://mega.nz/folder/n3QFFQjR#Gy-rrhNVpnkLED7PyhXnYw",
+      "recordDateEnd": "2021-05-17T01:45:33.647Z",
+      "recordDateStart": "2021-05-17T01:29:20.102Z",
+      "seriesId": "3004",
+      "sha256": "73eb41363ae1dde829547bd8e986a5faa2300366b541c49cf4f87a29828c0bb3",
+      "startDate": "2021-05-17T01:30:00.000Z",
+      "subtitle": "Season 2-3 Shirataki Yakisoba & Shogayaki",
+      "title": "BENTO EXPO",
+      "uploadedDate": "2021-05-17T02:24:57.702Z"
     }
   ]
 }
