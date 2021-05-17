@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-17T18:05:04.194Z</lastUpdated>
+  <lastUpdated>2021-05-17T18:10:03.679Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1123,10 +1123,10 @@
     <title>Spiritual Explorers</title>
   </series>
   <series>
-    <count>38</count>
+    <count>39</count>
     <uniqueId>9b58eae3ebc3f6b6</uniqueId>
-    <lastAiring>2021-05-16T16:57:00.000Z</lastAiring>
-    <lastUpload>2021-05-16T17:32:55.955Z</lastUpload>
+    <lastAiring>2021-05-17T16:57:00.000Z</lastAiring>
+    <lastUpload>2021-05-17T18:08:46.216Z</lastUpload>
     <seriesId>2062</seriesId>
     <title>Sumopedia</title>
   </series>
