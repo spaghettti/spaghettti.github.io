@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-17T09:05:03.585Z",
+  "lastUpdated": "2021-05-17T18:05:03.884Z",
   "seriesId": "2050",
   "title": "Medical Frontiers",
   "episodes": [
@@ -274,6 +274,22 @@
       "title": "Medical Frontiers",
       "uploadedDate": "2021-05-10T16:19:15.594Z",
       "raw": "https://mega.nz/folder/V0ZwBTRA#6oyg-gO5p1A8qxHdO1tXGQ"
+    },
+    {
+      "airingId": "109",
+      "content": "NKT cells serve as the queen bee of the immune system. The other immune cells are like worker bees, and can't function effectively without the NKT cells. Without NKT cells, humans would have been defenseless against infectious diseases, and could have become extinct. NKT cells were discovered in 1986 by a Japanese researcher. His former students have used regenerative medicine to create a new cancer therapy with NKT cells.",
+      "description": "The discovery of natural killer T cells, or NKT cells, is called one of the \"pillars of immunology.\" The historic finding led to the development of a new cancer therapy by Japanese researchers.",
+      "endDate": "2021-05-17T15:00:00.000Z",
+      "link": "https://mega.nz/folder/lChilTbS#Igu2U1T7Uwx4UnX07FPTEA",
+      "recordDateEnd": "2021-05-17T15:00:28.321Z",
+      "recordDateStart": "2021-05-17T14:29:20.100Z",
+      "seriesId": "2050",
+      "sha256": "36f8a5a2b85bd548e11034c84f4f8933be9a2fb0f0becd57435dd4faebe4b64a",
+      "startDate": "2021-05-17T14:30:00.000Z",
+      "subtitle": "Cancer Immunotherapy: NKT Cells, the Immune System's \"Queen Bee\"",
+      "title": "Medical Frontiers",
+      "uploadedDate": "2021-05-17T18:03:58.961Z",
+      "raw": "https://mega.nz/folder/TEQAwBqR#KJ_HqmumqBpOP126NRH2kg"
     }
   ]
 }
