@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-18T03:05:04.134Z</lastUpdated>
+  <lastUpdated>2021-05-18T03:40:03.503Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -723,5 +723,20 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2021-05-11T02:52:04.690Z</uploadedDate>
     <raw>https://mega.nz/folder/eVxlySRA#NMOU2CgMLl00DAaalxSpXw</raw>
+  </episode>
+  <episode>
+    <airingId>292</airingId>
+    <content>Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques! Featured recipes: (1) Tuna and Chives with Miso Mustard Sauce (2) Fluffy Fried Nori Rolls.</content>
+    <description>Featured recipes: (1) Tuna and Chives with Miso Mustard Sauce (2) Fluffy Fried Nori Rolls / Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques!!</description>
+    <endDate>2021-05-18T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/6o4kVLZR#OZdqyZqtToFjxF-_mW3YAQ</link>
+    <recordDateEnd>2021-05-18T02:00:30.880Z</recordDateEnd>
+    <recordDateStart>2021-05-18T01:29:20.015Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>eda35404a4f3f747b868ac5460327df64c5f87e8b40f33f52d472109b9b85fff</sha256>
+    <startDate>2021-05-18T01:30:00.000Z</startDate>
+    <subtitle>Authentic Japanese Cooking: Tuna and Chives with Miso Mustard Sauce</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-05-18T03:38:51.029Z</uploadedDate>
   </episode>
 </episodeList>
