@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-18T03:40:03.686Z</lastUpdated>
+  <lastUpdated>2021-05-18T03:50:03.798Z</lastUpdated>
   <seriesId>3181d5ae26726a28</seriesId>
   <title>Document 72 Hours</title>
   <episode>
@@ -83,6 +83,22 @@
     <title>Document 72 Hours</title>
     <uploadedDate>2021-01-19T02:56:30.135Z</uploadedDate>
     <raw>https://mega.nz/folder/hTAUCLKb#vIzvOOfkAKseWZpWJShKhg</raw>
+  </episode>
+  <episode>
+    <airingId>113</airingId>
+    <content>If you start with a charm that supposedly brings good luck and offer to barter it with passersby on a bridge in Osaka Prefecture's Dotonbori district, what sort of trades will happen and people will you meet? For 3 days, we put this question to the test. The people who swapped items with us included a Frenchman who fell in love with Osaka and decided to live there, a women's soccer team visiting the city on a university graduation trip, and an elementary school student traveling with his father after participating in a national karate tournament. Through a series of trades, a connection gradually forms among strangers who otherwise would have no link with each other. When 72 hours are up, what has the "bringer of good luck" turned into?</content>
+    <description>Starting with a charm that supposedly brings good luck, we make a series of successive trades with random passersby in Osaka Prefecture, Japan. Over 3 days, who will barter - and what will they offer?</description>
+    <endDate>2021-05-18T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/QwIkkDpa#d_bMIAcEgIwdSjD3ubthwA</link>
+    <recordDateEnd>2021-05-18T02:55:32.653Z</recordDateEnd>
+    <recordDateStart>2021-05-18T02:29:20.100Z</recordDateStart>
+    <seriesId>4026</seriesId>
+    <sha256>fc62948085015b0239ef9303b669720ae870e6fa5b0189855410ab628708370b</sha256>
+    <startDate>2021-05-18T02:30:00.000Z</startDate>
+    <subtitle>A Barter Chain in Osaka</subtitle>
+    <title>Document 72 Hours</title>
+    <uploadedDate>2021-05-18T03:46:15.037Z</uploadedDate>
+    <raw>https://mega.nz/folder/5fh03JYZ#JpirmPQtJ58V9A0-CAyVCQ</raw>
   </episode>
   <episode>
     <airingId>114</airingId>
