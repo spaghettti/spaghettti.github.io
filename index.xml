@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-22T17:00:04.589Z</lastUpdated>
+  <lastUpdated>2021-05-22T19:45:04.778Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -851,10 +851,10 @@
     <title>Myanmar: What Next?</title>
   </series>
   <series>
-    <count>27</count>
+    <count>28</count>
     <uniqueId>56ef83def0753222</uniqueId>
-    <lastAiring>2021-05-08T15:10:00.000Z</lastAiring>
-    <lastUpload>2021-05-08T18:19:48.546Z</lastUpload>
+    <lastAiring>2021-05-22T15:00:00.000Z</lastAiring>
+    <lastUpload>2021-05-22T19:40:05.409Z</lastUpload>
     <seriesId>3016,4001</seriesId>
     <title>NHK Documentary</title>
   </series>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-22T17:00:04.577Z",
+  "lastUpdated": "2021-05-22T19:45:04.765Z",
   "seriesId": "3016,4001",
   "title": "NHK Documentary",
   "episodes": [
@@ -434,6 +434,22 @@
       "title": "NHK Documentary",
       "uploadedDate": "2021-05-08T18:19:48.546Z",
       "raw": "https://mega.nz/folder/D9gzyYKI#6N1OIluy7m1OdaJQ1A0Liw"
+    },
+    {
+      "airingId": "394",
+      "content": "A 16-year record of the farming and fishing community of Arahama, located in Sendai City in Miyagi Prefecture. The documentary begins in 2005, years before the devastating 2011 tsunami. The southeasterly wind called the Inasa is the long-time companion of locals in their everyday endeavors, and is said to bring good catches and rich harvests. They reflect on what has been lost to the tsunami, what is unchanged, and what can be passed on to future generations. What do we cling to when faced with catastrophe? As a global pandemic continues, discover the quiet strength of the people who live and died in the small community of Arahama.",
+      "description": "A 16-year record that began before the tsunami of the farming and fishing community of Arahama, Sendai. The Inasa wind brings good catches and rich harvests and is the long-time companion of locals.",
+      "endDate": "2021-05-22T16:00:00.000Z",
+      "link": "https://mega.nz/folder/DAJEiBDC#o1sNLPJk8N5Zgp5rsZa9dA",
+      "recordDateEnd": "2021-05-22T16:00:28.762Z",
+      "recordDateStart": "2021-05-22T14:59:20.100Z",
+      "seriesId": "4001",
+      "sha256": "1fe044885901164352236b48ab0ef084b8eb9999aadf6aca948ef995856e4f7f",
+      "startDate": "2021-05-22T15:00:00.000Z",
+      "subtitle": "Inasa: Whispers on the Wind",
+      "title": "NHK Documentary",
+      "uploadedDate": "2021-05-22T19:40:05.409Z",
+      "raw": "https://mega.nz/folder/neYnFa7S#-NrFdD9HV0L1ZBNICk55dw"
     }
   ]
 }
