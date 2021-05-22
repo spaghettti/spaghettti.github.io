@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-22T16:35:03.807Z</lastUpdated>
+  <lastUpdated>2021-05-22T17:00:04.525Z</lastUpdated>
   <seriesId>3ade7fb84e8cc130</seriesId>
   <title>Four Seasons in Japan</title>
   <episode>
@@ -355,6 +355,22 @@
     <title>Four Seasons in Japan</title>
     <uploadedDate>2021-05-15T05:43:12.257Z</uploadedDate>
     <raw>https://mega.nz/folder/HFgxlYTJ#aPMMRzHcFH7zYEAL7pphog</raw>
+  </episode>
+  <episode>
+    <airingId>065</airingId>
+    <content/>
+    <description>The village of Shirakawago has over 100 old farmhouses featuring gassho-zukuri thatched roofs and is a UNESCO world heritage site. It is nestled in wooded mountains that are home to diverse wildlife.</description>
+    <endDate>2021-05-22T04:20:00.000Z</endDate>
+    <link>https://mega.nz/folder/lxIxzSaS#20NxiRva1VUvDIpAj6_5cg</link>
+    <recordDateEnd>2021-05-22T04:20:26.470Z</recordDateEnd>
+    <recordDateStart>2021-05-22T04:09:20.157Z</recordDateStart>
+    <seriesId>6101</seriesId>
+    <sha256>d99a583ca17e232432308bc807819191e521177b5dddf2c1d0962a591ad5ba9d</sha256>
+    <startDate>2021-05-22T04:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Four Seasons in Japan</title>
+    <uploadedDate>2021-05-22T16:57:57.412Z</uploadedDate>
+    <raw>https://mega.nz/folder/mkoU2Zaa#LqrQ4z8VeXXAC5GJJS5MOg</raw>
   </episode>
   <episode>
     <airingId>068</airingId>
