@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-22T15:50:04.417Z</lastUpdated>
+  <lastUpdated>2021-05-22T16:35:03.721Z</lastUpdated>
   <seriesId>be55ba93c748813c</seriesId>
   <title>COOL JAPAN</title>
   <episode>
@@ -131,6 +131,21 @@
     <title>COOL JAPAN</title>
     <uploadedDate>2021-02-20T06:45:43.515Z</uploadedDate>
     <raw>https://mega.nz/folder/uNFz2KSC#iKYza_UJWFCLHZG5kbJQlg</raw>
+  </episode>
+  <episode>
+    <airingId>227</airingId>
+    <content>Along with samurai and ninja, Japanese swords are very popular around the world. Even in Japan, sword fans mainly composed of young women are quickly increasing due to a game in which famous swords are personified. The female fans, who are called sword fan girls, visit museums and art museums, and sword exhibitions and events are packed full. Many foreigners visit Japan just to see swords. Why are people fascinated with swords? We investigate their appeals.</content>
+    <description>Recently young women are seen flocking to sword exhibitions, and more foreigners are visiting Japan for the purpose of seeing Japanese swords. The panelists discuss what drives the renewed popularity.</description>
+    <endDate>2021-05-22T11:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/rL4UBLJK#wcNiz_3LYdUwFijrhEBZ3g</link>
+    <recordDateEnd>2021-05-22T11:55:22.128Z</recordDateEnd>
+    <recordDateStart>2021-05-22T11:09:20.126Z</recordDateStart>
+    <seriesId>4008</seriesId>
+    <sha256>f403a388b5a4e3412ab428da08283db4bd79681db54305f46e0f84762dc92581</sha256>
+    <startDate>2021-05-22T11:10:00.000Z</startDate>
+    <subtitle>Japanese Swords</subtitle>
+    <title>COOL JAPAN</title>
+    <uploadedDate>2021-05-22T16:32:29.594Z</uploadedDate>
   </episode>
   <episode>
     <airingId>229</airingId>
