@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-22T14:05:03.733Z</lastUpdated>
+  <lastUpdated>2021-05-22T14:55:03.542Z</lastUpdated>
   <seriesId>3bee8422e8005b98</seriesId>
   <title>PythagoraSwitch mini</title>
   <episode>
@@ -419,5 +419,21 @@
     <title>PythagoraSwitch mini</title>
     <uploadedDate>2021-05-15T06:15:35.216Z</uploadedDate>
     <raw>https://mega.nz/folder/eN4DBIBD#2wE3BeAWqBa6uz8sy4zH0w</raw>
+  </episode>
+  <episode>
+    <airingId>043</airingId>
+    <content/>
+    <description>There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time "Then the Bridge Thought..." etc</description>
+    <endDate>2021-05-22T06:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/jChwkLCC#4wntqv044imGSzpfrS_4kQ</link>
+    <recordDateEnd>2021-05-22T06:00:26.373Z</recordDateEnd>
+    <recordDateStart>2021-05-22T05:54:20.034Z</recordDateStart>
+    <seriesId>6021</seriesId>
+    <sha256>de659dcb33f4e7faa18510cd5fd2c77b7351bd6dbecb08cc0a2428f0438bf571</sha256>
+    <startDate>2021-05-22T05:55:00.000Z</startDate>
+    <subtitle/>
+    <title>PythagoraSwitch mini</title>
+    <uploadedDate>2021-05-22T14:54:31.189Z</uploadedDate>
+    <raw>https://mega.nz/folder/PDR01LwK#jDN-KmWNI3K7iF8V-w4Smg</raw>
   </episode>
 </episodeList>
