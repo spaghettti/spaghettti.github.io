@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-22T13:55:03.957Z",
+  "lastUpdated": "2021-05-22T14:05:03.825Z",
   "series": [
     {
       "count": 1,
@@ -72,6 +72,14 @@
       "lastUpload": "2021-03-02T22:07:13.732Z",
       "seriesId": "7000",
       "title": "Alluring Okinawa"
+    },
+    {
+      "count": 1,
+      "uniqueId": "15dfe0068879106a",
+      "lastAiring": "2021-05-22T05:40:00.000Z",
+      "lastUpload": "2021-05-22T14:02:46.641Z",
+      "seriesId": "6213",
+      "title": "Ani x Para World"
     },
     {
       "count": 8,

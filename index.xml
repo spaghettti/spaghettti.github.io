@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-22T13:55:03.948Z</lastUpdated>
+  <lastUpdated>2021-05-22T14:05:03.817Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -73,6 +73,14 @@
     <lastUpload>2021-03-02T22:07:13.732Z</lastUpload>
     <seriesId>7000</seriesId>
     <title>Alluring Okinawa</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>15dfe0068879106a</uniqueId>
+    <lastAiring>2021-05-22T05:40:00.000Z</lastAiring>
+    <lastUpload>2021-05-22T14:02:46.641Z</lastUpload>
+    <seriesId>6213</seriesId>
+    <title>Ani x Para World</title>
   </series>
   <series>
     <count>8</count>
