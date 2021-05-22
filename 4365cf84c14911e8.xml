@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-22T14:55:03.615Z</lastUpdated>
+  <lastUpdated>2021-05-22T15:50:04.531Z</lastUpdated>
   <seriesId>4365cf84c14911e8</seriesId>
   <title>BIZ STREAM</title>
   <episode>
@@ -344,6 +344,27 @@ Food delivery services have seen a spike in business during the pandemic. Concer
     <title>BIZ STREAM</title>
     <uploadedDate>2021-05-15T15:39:09.940Z</uploadedDate>
     <raw>https://mega.nz/folder/nqwhlSyT#X8v9esk3eJM6hO9Wyvjslw</raw>
+  </episode>
+  <episode>
+    <airingId>102</airingId>
+    <content>[On-Site Report]
+Advances in technology are bringing a new wave of products to the eldercare industry. This episode features a wearable device that signals when users need to go to the restroom and a conversational robot designed to engage users in witty conversation.
+[In Depth: Japan Economy Shrinks While US, China Grow]
+The Japanese economy is in a slump, and the weakness is expected to continue as some coronavirus measures remain in place. In stark contrast, some other major economies are bouncing back as they accelerate reopening. We look at the factors behind this difference.
+[Global Trends: France Extends the Lifespan of Home Appliances]
+In France, one of the byproducts of the pandemic was the growing popularity of DIY repairs of home appliances. We have a report on how this innovation has become part of the country's drive to create a more sustainable society.</content>
+    <description>Technology continues to have a major impact on the eldercare industry. This episode examines how robots and wearable devices are improving quality of care for Japan's growing elderly population.</description>
+    <endDate>2021-05-22T14:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/1s4lwISB#cE5v8btm_XjCxbOLTPPRUQ</link>
+    <recordDateEnd>2021-05-22T14:40:32.984Z</recordDateEnd>
+    <recordDateStart>2021-05-22T14:09:20.046Z</recordDateStart>
+    <seriesId>2074</seriesId>
+    <sha256>f1170f7281271257afe97ddf04dd18798b3a6a03d23a13a049cde3a028203e58</sha256>
+    <startDate>2021-05-22T14:10:00.000Z</startDate>
+    <subtitle>New Advances in Eldercare</subtitle>
+    <title>BIZ STREAM</title>
+    <uploadedDate>2021-05-22T15:47:13.498Z</uploadedDate>
+    <raw>https://mega.nz/folder/CoJXiKBQ#3KkyLwHyaZ6bmFZechW_1w</raw>
   </episode>
   <episode>
     <airingId>704</airingId>
