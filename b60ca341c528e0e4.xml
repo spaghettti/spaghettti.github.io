@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-18T08:15:04.021Z</lastUpdated>
+  <lastUpdated>2021-05-22T13:55:03.851Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -147,6 +147,21 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-05-15T05:29:50.745Z</uploadedDate>
     <raw>https://mega.nz/folder/oaRE1LiR#9zb1s_KyjqU00RNkG0c61g</raw>
+  </episode>
+  <episode>
+    <airingId>010</airingId>
+    <content/>
+    <description>#10 How much is this hair dryer? / To ask the price of something in front of you, say "kono," meaning "this," followed by the item's name and "wa ikura desu ka."</description>
+    <endDate>2021-05-22T04:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/dhAjjKDb#7ZitdCAFKExt_Sdc7ijvTA</link>
+    <recordDateEnd>2021-05-22T04:30:29.659Z</recordDateEnd>
+    <recordDateStart>2021-05-22T04:24:20.142Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>01c9b2ef9f2008199d01664053e0801daf1b2f991fa21c1ff4a290ae57067fee</sha256>
+    <startDate>2021-05-22T04:25:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-05-22T13:51:51.017Z</uploadedDate>
   </episode>
   <episode>
     <airingId>014</airingId>
