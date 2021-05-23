@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-23T01:05:04.250Z",
+  "lastUpdated": "2021-05-23T01:40:04.340Z",
   "seriesId": "4030",
   "title": "Darwin's Amazing Animals",
   "episodes": [
@@ -194,6 +194,21 @@
       "title": "Darwin's Amazing Animals",
       "uploadedDate": "2021-04-17T04:16:16.339Z",
       "raw": "https://mega.nz/folder/cZkiwABL#dCNEa6deBmmnKJ9w57e3Qw"
+    },
+    {
+      "airingId": "054",
+      "content": "The Bay of Fundy features the world's largest tidal range of up to 16 meters. Huge mudflats lie exposed, attracting millions of semipalmated sandpipers during their summer migration that feast on the plentiful mud shrimps and worms. Their presence, in turn, attracts peregrine falcons looking for an easy meal. Cormorants dive amid the strong currents for small fish, only to find seagulls lurking on the surface, ready to steal their catch. These stomping and chomping grounds are a sight to behold.",
+      "description": "The Bay of Fundy's tidal range reaches up to 16 meters. The massive flow affects wildlife from the smallest plankton to hungry whales. Millions of migratory birds descend on the bountiful mudflats.",
+      "endDate": "2021-05-22T02:50:00.000Z",
+      "link": "https://mega.nz/folder/MtRXGaiB#sDu-wFI0f7D2i1upmYOtnQ",
+      "recordDateEnd": "2021-05-22T02:50:27.026Z",
+      "recordDateStart": "2021-05-22T02:24:20.042Z",
+      "seriesId": "4030",
+      "sha256": "65bc955e5009140d8f80f86b064d9331b1ad79ce51cea26e2be46e864964dce7",
+      "startDate": "2021-05-22T02:25:00.000Z",
+      "subtitle": "Lure of Extreme Tides -- The Bay of Fundy, Canada",
+      "title": "Darwin's Amazing Animals",
+      "uploadedDate": "2021-05-23T01:38:02.139Z"
     }
   ]
 }
