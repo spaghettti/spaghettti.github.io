@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-23T07:35:04.384Z</lastUpdated>
+  <lastUpdated>2021-05-23T08:05:04.233Z</lastUpdated>
   <seriesId>3ade7fb84e8cc130</seriesId>
   <title>Four Seasons in Japan</title>
   <episode>
@@ -371,6 +371,22 @@
     <title>Four Seasons in Japan</title>
     <uploadedDate>2021-05-22T16:57:57.412Z</uploadedDate>
     <raw>https://mega.nz/folder/mkoU2Zaa#LqrQ4z8VeXXAC5GJJS5MOg</raw>
+  </episode>
+  <episode>
+    <airingId>066</airingId>
+    <content/>
+    <description>The Heijokyu Remains in Nara mark the site of Japan's former capital dating 1300 years ago. Nearby grasslands, ponds and reed beds offer a paradise for starlings, ducks, mice and many other creatures.</description>
+    <endDate>2021-05-23T02:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/Aph2iIwB#RRL_UFPdiw08E0--A0tcHg</link>
+    <recordDateEnd>2021-05-23T02:50:28.697Z</recordDateEnd>
+    <recordDateStart>2021-05-23T02:39:20.004Z</recordDateStart>
+    <seriesId>6101</seriesId>
+    <sha256>e0effba6c81e8da935e6c657d63b57cefa2f4e1f9d3377f74892c59f3ae273d4</sha256>
+    <startDate>2021-05-23T02:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Four Seasons in Japan</title>
+    <uploadedDate>2021-05-23T08:02:32.667Z</uploadedDate>
+    <raw>https://mega.nz/folder/PNB1iACZ#TFlsF7Fr9czh-xHPamgKGw</raw>
   </episode>
   <episode>
     <airingId>068</airingId>
