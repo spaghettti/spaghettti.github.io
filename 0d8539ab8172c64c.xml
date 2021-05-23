@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-23T21:20:04.629Z</lastUpdated>
+  <lastUpdated>2021-05-23T21:35:04.622Z</lastUpdated>
   <seriesId>0d8539ab8172c64c</seriesId>
   <title>Selfie Japan!</title>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>Odawara City, Kanagawa Prefecture is a castle town facing the sea. Making "kamaboko" or fish paste as preserved food has developed. Duan will experience making kamaboko in Odawara.</description>
+    <endDate>2021-05-21T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/APA2TTwZ#IYjo304MxSKiD4wcnE1AMw</link>
+    <recordDateEnd>2021-05-21T01:45:29.730Z</recordDateEnd>
+    <recordDateStart>2021-05-21T01:39:20.056Z</recordDateStart>
+    <seriesId>6028</seriesId>
+    <sha256>524cbb6231becb25782b1a07b51adba708ab5d73c79cefcbf8fa1b122db5732a</sha256>
+    <startDate>2021-05-21T01:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Selfie Japan! Kanagawa</title>
+    <uploadedDate>2021-05-23T21:32:48.638Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>004</airingId>
     <content/>
