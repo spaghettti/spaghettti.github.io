@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-23T01:40:04.358Z</lastUpdated>
+  <lastUpdated>2021-05-23T02:35:03.678Z</lastUpdated>
   <seriesId>810a4b40916c42c4</seriesId>
   <title>Hometown Stories</title>
   <episode>
@@ -307,5 +307,21 @@
     <title>Hometown Stories</title>
     <uploadedDate>2021-05-16T02:32:21.969Z</uploadedDate>
     <raw>https://mega.nz/folder/KgoTGQaJ#sjM6rV9AsDEMh2Ohcaa-lw</raw>
+  </episode>
+  <episode>
+    <airingId>167</airingId>
+    <content>For 25 years, Murabayashi Shingo has been a legend in the kitchen of a high school cooking class. An outstanding teacher and harsh taskmaster, he's helped generations of young cooks gain the skills they need to thrive in the high-pressure kitchens of the finest restaurants. As he nears retirement, his students get one more chance to learn from him, creating perfect Osechi, the traditional New Year's feast. With blood, sweat and a few tears, his last class learns what it takes to succeed.</content>
+    <description>Murabayashi Shingo's strict teaching style has helped decades of high school students become chefs. Now they face one last challenge before he retires - creating a traditional New Year's feast.</description>
+    <endDate>2021-05-23T01:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/8oxWhBSR#bB3sPE2R_HDrig2OGM9WhA</link>
+    <recordDateEnd>2021-05-23T01:40:32.184Z</recordDateEnd>
+    <recordDateStart>2021-05-23T01:09:20.100Z</recordDateStart>
+    <seriesId>5003</seriesId>
+    <sha256>11beb7693f73025b393e010ad344ca269dbb0db5ee0a7ad4ca0c14c7da5894a0</sha256>
+    <startDate>2021-05-23T01:10:00.000Z</startDate>
+    <subtitle>A Legendary Chef's Last Lessons</subtitle>
+    <title>Hometown Stories</title>
+    <uploadedDate>2021-05-23T02:32:37.343Z</uploadedDate>
+    <raw>https://mega.nz/folder/p54QWDwB#Uhz3SJDYRXcj8f4q4PCO8Q</raw>
   </episode>
 </episodeList>
