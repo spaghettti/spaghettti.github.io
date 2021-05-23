@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-23T20:45:04.819Z",
+  "lastUpdated": "2021-05-23T21:20:04.681Z",
   "seriesId": "7000",
   "title": "Explore Japan",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "Explore Japan",
       "uploadedDate": "2021-04-16T05:33:17.378Z",
       "raw": "https://mega.nz/folder/xVMiCRgT#TEn86OYcKqKFT8EAS47h6w"
+    },
+    {
+      "airingId": "490",
+      "content": "",
+      "description": "Japanese Gardens, Aesthetic Encounters: Gardener, Murasame Tatsumasa visits four authentic Japanese gardens in Kyoto and explores their unique beauties with experts.",
+      "endDate": "2021-05-21T03:00:00.000Z",
+      "link": "https://mega.nz/folder/LMYGzDbC#5Hq5S4nPNuHKfvAo99M7GQ",
+      "recordDateEnd": "2021-05-21T03:00:31.067Z",
+      "recordDateStart": "2021-05-21T02:29:20.129Z",
+      "seriesId": "7000",
+      "sha256": "f00ba5a7bf6dbcea1810837ca10fdf1c5f0270ae40109a501bda495785e10e04",
+      "startDate": "2021-05-21T02:30:00.000Z",
+      "subtitle": "Japanese Gardens, Aesthetic Encounters",
+      "title": "Explore Japan",
+      "uploadedDate": "2021-05-23T21:18:35.097Z"
     }
   ]
 }
