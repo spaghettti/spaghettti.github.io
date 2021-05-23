@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-23T20:10:03.724Z",
+  "lastUpdated": "2021-05-23T20:15:04.625Z",
   "seriesId": "4002",
   "title": "Today's Close-Up",
   "episodes": [
@@ -290,6 +290,21 @@
       "title": "Today's Close-Up",
       "uploadedDate": "2021-05-14T16:40:54.466Z",
       "raw": "https://mega.nz/folder/qU5SkIqK#nIrJdOqEo6u16reroY0oUQ"
+    },
+    {
+      "airingId": "826",
+      "content": "According to a UN report released two years ago, the fashion industry emits more carbon annually than all international flights and maritime shipping combined. Many say sustainable fashion is the only way forward. Manufacturers are now producing clothes made with everything from old fishing nets to synthetic protein developed with the genetic information of spiders. In today's program, we look at how our wardrobe choices can help lead to a greener world.\nGuest: \nMiyata Hiroaki (Professor, Keio University)",
+      "description": "The fashion industry has long been a major polluter. But it is now taking steps toward sustainability. We take a look at the latest technology and how it affects the future of fashion.",
+      "endDate": "2021-05-21T15:00:00.000Z",
+      "link": "https://mega.nz/folder/GGATQC4Q#lg05Ijb42_YrxaM487uCYA",
+      "recordDateEnd": "2021-05-21T15:00:30.476Z",
+      "recordDateStart": "2021-05-21T14:29:20.154Z",
+      "seriesId": "4002",
+      "sha256": "522fa25186b6274ff7d3a3a7eea6a6b984b97fbe796ba8e93e04956ab6e4e71f",
+      "startDate": "2021-05-21T14:30:00.000Z",
+      "subtitle": "Sustainable Fashion: Clothes for a Better Future",
+      "title": "Today's Close-Up",
+      "uploadedDate": "2021-05-23T20:13:12.667Z"
     }
   ]
 }
