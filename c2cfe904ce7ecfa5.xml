@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-23T06:40:04.289Z</lastUpdated>
+  <lastUpdated>2021-05-23T07:25:03.584Z</lastUpdated>
   <seriesId>c2cfe904ce7ecfa5</seriesId>
   <title>Face To Face</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>Face To Face</title>
     <uploadedDate>2021-03-28T02:52:23.825Z</uploadedDate>
     <raw>https://mega.nz/folder/AoxSxSYQ#ZxYPne2NJw0NgVQXySmcJA</raw>
+  </episode>
+  <episode>
+    <airingId>047</airingId>
+    <content>The 2018 US National Book Award for Translated Literature went to Yoko Tawada's "The Emissary," a phantasmagoric description of the dystopian world after the Great East Japan Earthquake. Based in Germany, Tawada has won numerous awards for her output in both Japanese and German. Her works have been translated into various languages. She shares with us her thoughts on how writing in a different language and culture has shaped her perspective on Japan and made her aware of the importance of transcending the language barrier.</content>
+    <description>Our guest is Yoko Tawada, winner of the 2018 US National Book Award for Translated Literature. Based in Germany, she writes in Japanese and German, which she says is behind her unique take on Japan.</description>
+    <endDate>2021-05-23T02:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/KbpQwShC#tGssCWchH3IXAUljVPuyOw</link>
+    <recordDateEnd>2021-05-23T02:40:33.458Z</recordDateEnd>
+    <recordDateStart>2021-05-23T02:09:20.100Z</recordDateStart>
+    <seriesId>2043</seriesId>
+    <sha256>4e029cfb807370ecd6781794115a1118a1c6d429d607ae9ba390b8d6ccd5f41b</sha256>
+    <startDate>2021-05-23T02:10:00.000Z</startDate>
+    <subtitle>Yoko Tawada: The Fascination of Exophonic Literature</subtitle>
+    <title>Face To Face</title>
+    <uploadedDate>2021-05-23T07:21:20.376Z</uploadedDate>
+    <raw>https://mega.nz/folder/xaxRwAIY#t5v5OX2mdLBT12XGckhfKg</raw>
   </episode>
   <episode>
     <airingId>055</airingId>
