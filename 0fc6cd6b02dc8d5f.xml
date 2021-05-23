@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-23T00:35:04.193Z</lastUpdated>
+  <lastUpdated>2021-05-23T01:05:04.164Z</lastUpdated>
   <seriesId>0fc6cd6b02dc8d5f</seriesId>
   <title>Anime Supernova</title>
   <episode>
@@ -147,6 +147,21 @@
     <title>Anime Supernova</title>
     <uploadedDate>2021-04-24T04:07:15.242Z</uploadedDate>
     <raw>https://mega.nz/folder/v9B2SBCa#-zDUawLxTrlYiplXIl51YQ</raw>
+  </episode>
+  <episode>
+    <airingId>048</airingId>
+    <content>Kinoshita Gaku is a solo creator who has worked on numerous children's animations that implement his soft and unique animation style. He studied animation at an art college in the UK and creates works that children can get lost in, making full use of hand-drawn and dynamic 3DCG animation. Active across many fields, including commercials, music videos and original works, Kinoshita's goal is to continue creating pieces that bring smiles to children's faces.</content>
+    <description>Kinoshita Gaku is an independent creator who makes children's animations with a unique style that blends hand-drawn and dynamic 3DCG, and he plans to continue creating pieces that make children smile.</description>
+    <endDate>2021-05-22T02:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/IsYmFZBB#cJQB69eXRb3CASdXJi9VSA</link>
+    <recordDateEnd>2021-05-22T02:25:24.130Z</recordDateEnd>
+    <recordDateStart>2021-05-22T02:09:22.549Z</recordDateStart>
+    <seriesId>2065</seriesId>
+    <sha256>f45f9cff4fc97baf0333528c06077bf479c4c66347c2046ee97fdd8c00b71e83</sha256>
+    <startDate>2021-05-22T02:10:00.000Z</startDate>
+    <subtitle>An Expert of Heartwarming Children's Animation</subtitle>
+    <title>Anime Supernova</title>
+    <uploadedDate>2021-05-23T01:02:05.012Z</uploadedDate>
   </episode>
   <episode>
     <airingId>049</airingId>
