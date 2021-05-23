@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-22T22:50:04.151Z</lastUpdated>
+  <lastUpdated>2021-05-23T00:00:05.630Z</lastUpdated>
   <seriesId>08575bba6e407a35</seriesId>
   <title>A Century on Film</title>
   <episode>
@@ -19,5 +19,21 @@
     <title>A Century on Film</title>
     <uploadedDate>2021-04-24T07:18:49.860Z</uploadedDate>
     <raw>https://mega.nz/folder/IRtnGKSC#XKK83Dnzp-ZMwfBP6erJ1Q</raw>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content>A Century on Film looks back at a world-changing century of human drama and tragedy through rare and precious archival footage. In the second installment covering World War I, we feature German scientific genius, Fritz Haber, who developed the world's first chemical weapons. The story of his scientist wife's response reflects the differing views of scientific progress in a human drama that plays out with tragic consequences. Images of the destructiveness of war, the heroes it created, and the roots of our modern world are also explored in rich and moving detail.</content>
+    <description>World War I, Part 2 features German scientific genius, Fritz Haber, who developed the world's first chemical weapons. The heroes the war created and the roots of our modern world are also explored.</description>
+    <endDate>2021-05-22T05:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/HNglyaoa#Dg6eFHa1ioAfoLiHNdqg_w</link>
+    <recordDateEnd>2021-05-22T05:40:34.250Z</recordDateEnd>
+    <recordDateStart>2021-05-22T05:09:20.163Z</recordDateStart>
+    <seriesId>2055</seriesId>
+    <sha256>c522bbe545b8c9821ee8b5e4f95f3da705f978de2389a12c246d545d0a4a8f74</sha256>
+    <startDate>2021-05-22T05:10:00.000Z</startDate>
+    <subtitle>World War I Part 2: The Fate of Heroes</subtitle>
+    <title>A Century on Film</title>
+    <uploadedDate>2021-05-22T23:55:39.727Z</uploadedDate>
+    <raw>https://mega.nz/folder/vAZjVCwD#kg7V2g7N9p1tmDnejfUbnQ</raw>
   </episode>
 </episodeList>
