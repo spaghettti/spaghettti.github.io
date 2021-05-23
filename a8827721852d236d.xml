@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-23T18:20:03.766Z</lastUpdated>
+  <lastUpdated>2021-05-23T19:35:03.930Z</lastUpdated>
   <seriesId>a8827721852d236d</seriesId>
   <title>Japan-easy</title>
   <episode>
@@ -115,6 +115,22 @@
     <title>Japan-easy</title>
     <uploadedDate>2021-05-16T17:22:57.347Z</uploadedDate>
     <raw>https://mega.nz/folder/0TIRjIrL#z9mG3ib6eyE2szeqwLQh-w</raw>
+  </episode>
+  <episode>
+    <airingId>009</airingId>
+    <content/>
+    <description>Today: Politely express actions and their past tense forms using verbs. Explore the wonders of Japan and the Japanese language! Through basic conversations, viewers will see that "Japanese is easy!"</description>
+    <endDate>2021-05-23T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/TtRl0CAQ#tajaTKNJjyZuRbpdPp9szg</link>
+    <recordDateEnd>2021-05-23T16:00:31.103Z</recordDateEnd>
+    <recordDateStart>2021-05-23T15:44:22.543Z</recordDateStart>
+    <seriesId>6210</seriesId>
+    <sha256>32f0c2c89f9595440abc47332882fd642b7773c818e539216e86995cdaedea5f</sha256>
+    <startDate>2021-05-23T15:45:00.000Z</startDate>
+    <subtitle/>
+    <title>Japan-easy</title>
+    <uploadedDate>2021-05-23T19:30:59.188Z</uploadedDate>
+    <raw>https://mega.nz/folder/ZLwAgbQL#mc-DkBeX7wECwM6dWLAclg</raw>
   </episode>
   <episode>
     <airingId>109</airingId>
