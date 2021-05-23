@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-23T00:10:04.323Z",
+  "lastUpdated": "2021-05-23T00:35:04.226Z",
   "seriesId": "2089",
   "title": "The Signs",
   "episodes": [
@@ -178,6 +178,22 @@
       "title": "The Signs",
       "uploadedDate": "2021-05-01T04:44:27.395Z",
       "raw": "https://mega.nz/folder/gTAwlBAB#eyIcbfScY-kmcKFyUDzZ4w"
+    },
+    {
+      "airingId": "012",
+      "content": "Covid-19 has highlighted one of the challenges facing Japan: how to ensure a sustainable food supply. Nearly 2 million people found themselves out of work in Japan in 2020. With more people unable to earn a living, the impact is being felt by children across the country. At the same time, about 6 million tons of edible food is wasted annually in Japan. There are people working to solve this problem by linking this food loss to a food safety net. This episode follows their challenge.",
+      "description": "The pandemic has highlighted how ensuring sustainable food supply remains a challenge in Japan. Some people are working to link the 6 million tons of food wasted annually to a food safety net.",
+      "endDate": "2021-05-22T03:55:00.000Z",
+      "link": "https://mega.nz/folder/GM5lzSQZ#SkQ2KtAIcSpgAfrckHESCw",
+      "recordDateEnd": "2021-05-22T03:55:27.633Z",
+      "recordDateStart": "2021-05-22T03:39:22.980Z",
+      "seriesId": "2089",
+      "sha256": "bb9ed0210e98d4e0cc6d80785ac34fda47b1cf4dc638c6fd6b3db94c8a1d02d0",
+      "startDate": "2021-05-22T03:40:00.000Z",
+      "subtitle": "Building a Food Safety Net",
+      "title": "The Signs",
+      "uploadedDate": "2021-05-23T00:31:12.970Z",
+      "raw": "https://mega.nz/folder/w5wVXSTT#kHFx3C3TI8xAaZwedpTg7w"
     }
   ]
 }
