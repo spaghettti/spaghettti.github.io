@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-23T03:55:03.630Z",
+  "lastUpdated": "2021-05-23T06:35:04.552Z",
   "seriesId": "2075",
   "title": "Doki Doki! NHK WORLD-JAPAN",
   "episodes": [
@@ -402,6 +402,22 @@
       "title": "Doki Doki! NHK WORLD-JAPAN",
       "uploadedDate": "2021-05-16T03:12:31.810Z",
       "raw": "https://mega.nz/folder/mZh0AQqK#GRiGkYiuph5bKeW3mRw3FA"
+    },
+    {
+      "airingId": "089",
+      "content": "",
+      "description": "This time we introduce \"Core Kyoto,\" which shows the attraction of town-houses in Kyoto. Jeff Burglund, the presenter who lives in a town-house himself, visits houses and finds wisdom of Kyoto people.",
+      "endDate": "2021-05-23T03:00:00.000Z",
+      "link": "https://mega.nz/folder/wGpWwRYY#1aqVt5ux2qb5p_DF5GgdIg",
+      "recordDateEnd": "2021-05-23T03:00:27.946Z",
+      "recordDateStart": "2021-05-23T02:54:20.005Z",
+      "seriesId": "2075",
+      "sha256": "38314c8c5e569a2abdc01273b5411a46004ac8cf950987af62b954d78030a983",
+      "startDate": "2021-05-23T02:55:00.000Z",
+      "subtitle": "",
+      "title": "Doki Doki! NHK WORLD-JAPAN",
+      "uploadedDate": "2021-05-23T06:31:16.623Z",
+      "raw": "https://mega.nz/folder/leoyWTCL#qw3QTwmiKhE_RqDwy5eRaw"
     }
   ]
 }
