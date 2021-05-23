@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-23T08:05:04.284Z",
+  "lastUpdated": "2021-05-23T09:30:04.195Z",
   "series": [
     {
       "count": 1,
@@ -464,6 +464,14 @@
       "lastUpload": "2021-05-07T13:56:49.661Z",
       "seriesId": "2076",
       "title": "Fresh Eyes on Japan"
+    },
+    {
+      "count": 1,
+      "uniqueId": "2e29a3ada68b9192",
+      "lastAiring": "2021-05-22T00:10:00.000Z",
+      "lastUpload": "2021-05-23T09:25:39.062Z",
+      "seriesId": "5001",
+      "title": "Fukushima: The Worst-Case Scenario Part"
     },
     {
       "count": 1,
