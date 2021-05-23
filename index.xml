@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-23T13:25:04.193Z</lastUpdated>
+  <lastUpdated>2021-05-23T17:20:04.069Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1099,10 +1099,10 @@
     <title>Someone from This Area: The Future of Kyogen, Three Generations and Beyond</title>
   </series>
   <series>
-    <count>25</count>
+    <count>26</count>
     <uniqueId>aefa3128a4eaf8eb</uniqueId>
-    <lastAiring>2021-05-16T11:10:00.000Z</lastAiring>
-    <lastUpload>2021-05-16T14:06:06.866Z</lastUpload>
+    <lastAiring>2021-05-23T11:10:00.000Z</lastAiring>
+    <lastUpload>2021-05-23T17:18:33.773Z</lastUpload>
     <seriesId>4017</seriesId>
     <title>Somewhere Street</title>
   </series>

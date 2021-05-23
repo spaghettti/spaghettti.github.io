@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-23T13:25:04.043Z</lastUpdated>
+  <lastUpdated>2021-05-23T17:20:03.941Z</lastUpdated>
   <seriesId>aefa3128a4eaf8eb</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -195,6 +195,22 @@
     <title>Somewhere Street</title>
     <uploadedDate>2021-05-16T14:06:06.866Z</uploadedDate>
     <raw>https://mega.nz/folder/fvQnCQiQ#oK4LHoT0YgoG3bv71bcjtg</raw>
+  </episode>
+  <episode>
+    <airingId>065</airingId>
+    <content>Attracting over 6 million visitors from Japan as well as the rest of the world, Nagasaki Prefecture is a major tourist destination. Between the 17th and 19th centuries, Nagasaki was the only port in Japan where foreign trade was permitted. After Japan opened its doors to the West in the 19th century, Nagasaki's prosperous shipbuilding industry triggered the modernization of Japan. In this episode, we stroll around the beautiful city surrounding slopes and covered with houses known as the "city of hills."</content>
+    <description>Nagasaki is a major tourist destination attracting over 6 million visitors. In this episode, we stroll around the city surrounding slopes and covered with houses known as the "city of hills."</description>
+    <endDate>2021-05-23T12:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/m8wy2ZCQ#Hrxlkdpvafy8Vm_gpqE-mw</link>
+    <recordDateEnd>2021-05-23T12:00:24.721Z</recordDateEnd>
+    <recordDateStart>2021-05-23T11:09:20.101Z</recordDateStart>
+    <seriesId>4017</seriesId>
+    <sha256>fb5fa7fb5aeec7612e9a83f74aa15f9a68696855efdc19c2576ed1393e8e8d4a</sha256>
+    <startDate>2021-05-23T11:10:00.000Z</startDate>
+    <subtitle>Nagasaki, Japan</subtitle>
+    <title>Somewhere Street</title>
+    <uploadedDate>2021-05-23T17:18:33.773Z</uploadedDate>
+    <raw>https://mega.nz/folder/YGRniAQK#JQcdopMGG8WUCAj-8RcfNw</raw>
   </episode>
   <episode>
     <airingId>082</airingId>
