@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-23T06:35:04.702Z</lastUpdated>
+  <lastUpdated>2021-05-23T06:40:04.525Z</lastUpdated>
   <seriesId>8a4476c69fcf9dff</seriesId>
   <title>Somewhere Street</title>
   <episode>
@@ -147,6 +147,22 @@
     <title>Somewhere Street mini</title>
     <uploadedDate>2021-05-16T04:58:54.991Z</uploadedDate>
     <raw>https://mega.nz/folder/3R4WlBpC#RM0Mu6oTrDgmv5qv50ocSw</raw>
+  </episode>
+  <episode>
+    <airingId>014</airingId>
+    <content/>
+    <description>Mexico City lies in the center of Mexico in a valley over 2,000 meters above sea level. Originally built by the Aztecs centuries ago, the historic center of the city is an UNESCO World Heritage Site.</description>
+    <endDate>2021-05-23T04:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/QlgWXRia#e3fEdeJzFmejistusMFveg</link>
+    <recordDateEnd>2021-05-23T04:25:27.374Z</recordDateEnd>
+    <recordDateStart>2021-05-23T04:09:20.102Z</recordDateStart>
+    <seriesId>6209</seriesId>
+    <sha256>4b17e8912df2c1128694c178d851fe59d600bf3e7b07547300889acd8d7bc3a4</sha256>
+    <startDate>2021-05-23T04:10:00.000Z</startDate>
+    <subtitle/>
+    <title>Somewhere Street mini</title>
+    <uploadedDate>2021-05-23T06:39:53.932Z</uploadedDate>
+    <raw>https://mega.nz/folder/hfhARD6Z#W2UzcTobENAZA-GaYiaUKA</raw>
   </episode>
   <episode>
     <airingId>015</airingId>

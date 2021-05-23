@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-23T06:35:04.734Z</lastUpdated>
+  <lastUpdated>2021-05-23T06:40:04.573Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1099,10 +1099,10 @@
     <title>Somewhere Street</title>
   </series>
   <series>
-    <count>11</count>
+    <count>12</count>
     <uniqueId>8a4476c69fcf9dff</uniqueId>
-    <lastAiring>2021-05-16T04:10:00.000Z</lastAiring>
-    <lastUpload>2021-05-16T04:58:54.991Z</lastUpload>
+    <lastAiring>2021-05-23T04:10:00.000Z</lastAiring>
+    <lastUpload>2021-05-23T06:39:53.932Z</lastUpload>
     <seriesId>6209</seriesId>
     <title>Somewhere Street</title>
   </series>
