@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-23T02:35:03.784Z</lastUpdated>
+  <lastUpdated>2021-05-23T03:55:03.842Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -465,6 +465,14 @@
     <lastUpload>2021-05-07T13:56:49.661Z</lastUpload>
     <seriesId>2076</seriesId>
     <title>Fresh Eyes on Japan</title>
+  </series>
+  <series>
+    <count>1</count>
+    <uniqueId>223245268756691b</uniqueId>
+    <lastAiring>2021-05-22T01:10:00.000Z</lastAiring>
+    <lastUpload>2021-05-23T03:50:32.335Z</lastUpload>
+    <seriesId>5001</seriesId>
+    <title>Fukushima: The Worst-Case Scenario Part</title>
   </series>
   <series>
     <count>4</count>
