@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-23T19:50:04.364Z</lastUpdated>
+  <lastUpdated>2021-05-23T20:10:03.674Z</lastUpdated>
   <seriesId>ee84cdd8cbb8021b</seriesId>
   <title>SONGS OF TOKYO</title>
   <episode>
@@ -115,5 +115,21 @@
     <title>SONGS OF TOKYO</title>
     <uploadedDate>2021-04-18T16:37:42.399Z</uploadedDate>
     <raw>https://mega.nz/folder/h8gBRaoA#8gOhMRzGsHer9LSyDLq8VQ</raw>
+  </episode>
+  <episode>
+    <airingId>023</airingId>
+    <content>Showcasing Japanese music to the world. Featuring live performances by some of Japan's leading J-POP singers and musicians.</content>
+    <description>MORISAKI WIN shares his thoughts about the current turmoil in Myanmar and sings a piece dedicated to his country and WagakkiBand(WGB) will be performing their drama and anime theme songs.</description>
+    <endDate>2021-05-23T15:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/kthy3DiT#e2mKAmBv5kpURVj7zR23xg</link>
+    <recordDateEnd>2021-05-23T15:40:28.878Z</recordDateEnd>
+    <recordDateStart>2021-05-23T15:09:20.100Z</recordDateStart>
+    <seriesId>2080</seriesId>
+    <sha256>e56577bd55e0ce9ba1ce627772b35ba079603b7bdf524b73b841df0a0cb7a3b4</sha256>
+    <startDate>2021-05-23T15:10:00.000Z</startDate>
+    <subtitle>#22 MORISAKI WIN and WGB (WagakkiBand)</subtitle>
+    <title>SONGS OF TOKYO</title>
+    <uploadedDate>2021-05-23T20:08:11.894Z</uploadedDate>
+    <raw>https://mega.nz/folder/PwpWGBpT#LSKN5dz8sTTlzwNRaLMujQ</raw>
   </episode>
 </episodeList>
