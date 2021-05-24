@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-24T03:50:04.268Z",
+  "lastUpdated": "2021-05-24T04:05:03.869Z",
   "seriesId": "6042",
   "title": "The Seasons of Yamato",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "The Seasons of Yamato",
       "uploadedDate": "2021-05-16T02:48:29.114Z",
       "raw": "https://mega.nz/folder/oDZ1XSpK#3esJ3NpuCLZ65aE2Y5yuEA"
+    },
+    {
+      "airingId": "002",
+      "content": "",
+      "description": "A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with a pianist, Mine Kawakami, for which she plays exclusive pieces, makes you experience each season.",
+      "endDate": "2021-05-19T02:00:00.000Z",
+      "link": "https://mega.nz/folder/SL4iHQIB#dZhvEPk2hoOq1AV8T5OfIg",
+      "recordDateEnd": "2021-05-19T02:00:27.783Z",
+      "recordDateStart": "2021-05-19T01:54:20.102Z",
+      "seriesId": "6042",
+      "sha256": "91e5dd2977db65df802c23c3fc15ae150f85ad326adad47174352403b92904f0",
+      "startDate": "2021-05-19T01:55:00.000Z",
+      "subtitle": "",
+      "title": "The Seasons of Yamato",
+      "uploadedDate": "2021-05-24T04:02:26.564Z"
     }
   ]
 }
