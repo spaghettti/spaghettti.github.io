@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-24T03:05:03.484Z</lastUpdated>
+  <lastUpdated>2021-05-24T03:20:04.445Z</lastUpdated>
   <seriesId>ae19acce46550858</seriesId>
   <title>Easy Japanese for Work</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>Easy Japanese for Work</title>
     <uploadedDate>2021-05-17T02:54:11.041Z</uploadedDate>
     <raw>https://mega.nz/folder/BaQH1KCZ#YUASO43K_SGw89dvVLLk1A</raw>
+  </episode>
+  <episode>
+    <airingId>021</airingId>
+    <content>Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</content>
+    <description>Asking a shop manager to follow orders from head office. Accelerate your Japanese language skills! Learn practical, effective workplace expressions and understand business culture.</description>
+    <endDate>2021-05-24T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/A9xlQKbQ#dYFXUAGc4IJ4u7TvwM9-Uw</link>
+    <recordDateEnd>2021-05-24T02:00:26.441Z</recordDateEnd>
+    <recordDateStart>2021-05-24T01:44:20.021Z</recordDateStart>
+    <seriesId>2078</seriesId>
+    <sha256>59d851e9100bd81e38d9c1eb57b14e81dcff8ae32aff8bfdc6032d0793e82ed7</sha256>
+    <startDate>2021-05-24T01:45:00.000Z</startDate>
+    <subtitle>#21 Asking a shop manager to follow orders from head office</subtitle>
+    <title>Easy Japanese for Work</title>
+    <uploadedDate>2021-05-24T03:19:31.172Z</uploadedDate>
   </episode>
   <episode>
     <airingId>022</airingId>
