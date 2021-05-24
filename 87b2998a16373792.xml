@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-24T04:55:03.914Z</lastUpdated>
+  <lastUpdated>2021-05-24T05:30:04.319Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -440,5 +440,21 @@ Guest: Dr. Shoei Sugita, professor at Tohto University, emeritus professor at Ut
     <title>Science View</title>
     <uploadedDate>2021-05-04T16:06:08.178Z</uploadedDate>
     <raw>https://mega.nz/folder/m59RHChB#XvnL1pF6wnwwvKGdmg8llQ</raw>
+  </episode>
+  <episode>
+    <airingId>258</airingId>
+    <content>Did you hear that? No? Well, it might have been one of a growing number of applications for sounds outside the range of human hearing. In this episode, sound expert Shohei Yano joins us to discuss the many ways that inaudible sound is being used for everything from kabuki to farming to tornadoes. And he'll tell us how his own company is working on devices that use people's ear canal shapes for security that sometimes works even better than face recognition. We'll also see how a metalsmith overcame the challenges of titanium to produce light, durable and good-looking drinking tumblers.</content>
+    <description>Sound expert Shohei Yano joins us to discuss how inaudible sounds are being used for everything from kabuki, farming, and tornadoes, to a new security system based on people's ear canal shapes.</description>
+    <endDate>2021-05-18T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/B0QXWKLZ#9h89qgUN8hCOtSI2SogC8A</link>
+    <recordDateEnd>2021-05-18T15:00:31.204Z</recordDateEnd>
+    <recordDateStart>2021-05-18T14:29:20.089Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>6a5100fc8b40f2880b170cd71bbf1107abd3ed09fbc09f68c95b7b4abeb07b21</sha256>
+    <startDate>2021-05-18T14:30:00.000Z</startDate>
+    <subtitle>The Unheard Sounds around Us</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-05-24T05:29:16.791Z</uploadedDate>
+    <raw>https://mega.nz/folder/iJ5GgDrA#7D6ek0B2nZ_mOckBnDyLdA</raw>
   </episode>
 </episodeList>

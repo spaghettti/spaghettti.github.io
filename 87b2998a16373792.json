@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-24T04:55:03.926Z",
+  "lastUpdated": "2021-05-24T05:30:04.332Z",
   "seriesId": "2015",
   "title": "Science View",
   "episodes": [
@@ -402,6 +402,22 @@
       "title": "Science View",
       "uploadedDate": "2021-05-04T16:06:08.178Z",
       "raw": "https://mega.nz/folder/m59RHChB#XvnL1pF6wnwwvKGdmg8llQ"
+    },
+    {
+      "airingId": "258",
+      "content": "Did you hear that? No? Well, it might have been one of a growing number of applications for sounds outside the range of human hearing. In this episode, sound expert Shohei Yano joins us to discuss the many ways that inaudible sound is being used for everything from kabuki to farming to tornadoes. And he'll tell us how his own company is working on devices that use people's ear canal shapes for security that sometimes works even better than face recognition. We'll also see how a metalsmith overcame the challenges of titanium to produce light, durable and good-looking drinking tumblers.",
+      "description": "Sound expert Shohei Yano joins us to discuss how inaudible sounds are being used for everything from kabuki, farming, and tornadoes, to a new security system based on people's ear canal shapes.",
+      "endDate": "2021-05-18T15:00:00.000Z",
+      "link": "https://mega.nz/folder/B0QXWKLZ#9h89qgUN8hCOtSI2SogC8A",
+      "recordDateEnd": "2021-05-18T15:00:31.204Z",
+      "recordDateStart": "2021-05-18T14:29:20.089Z",
+      "seriesId": "2015",
+      "sha256": "6a5100fc8b40f2880b170cd71bbf1107abd3ed09fbc09f68c95b7b4abeb07b21",
+      "startDate": "2021-05-18T14:30:00.000Z",
+      "subtitle": "The Unheard Sounds around Us",
+      "title": "Science View",
+      "uploadedDate": "2021-05-24T05:29:16.791Z",
+      "raw": "https://mega.nz/folder/iJ5GgDrA#7D6ek0B2nZ_mOckBnDyLdA"
     }
   ]
 }
