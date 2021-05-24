@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-24T03:20:04.444Z</lastUpdated>
+  <lastUpdated>2021-05-24T03:25:04.275Z</lastUpdated>
   <seriesId>e5a5b6a12ffc2a6e</seriesId>
   <title>BENTO EXPO</title>
   <episode>
@@ -211,5 +211,20 @@
     <title>BENTO EXPO</title>
     <uploadedDate>2021-04-26T02:28:35.064Z</uploadedDate>
     <raw>https://mega.nz/folder/1ANRAART#RSB7DXcd4uOUK6_6sVFe3g</raw>
+  </episode>
+  <episode>
+    <airingId>033</airingId>
+    <content>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</content>
+    <description>Marc grills lamb and veggies in a fragrant curry sauce. Maki glazes chicken with a clear sweet and sour sauce. Bento Topics features Okayama's famous bara-zushi bento, eaten on festive occasions.</description>
+    <endDate>2021-05-24T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/7PwnTajJ#S4bne6jtZg-UhfK2thr7JQ</link>
+    <recordDateEnd>2021-05-24T01:45:26.904Z</recordDateEnd>
+    <recordDateStart>2021-05-24T01:29:20.100Z</recordDateStart>
+    <seriesId>2077</seriesId>
+    <sha256>a346347ab5092effe01281882a17fa69b99ca2e453009efad7e946a8d1bd481f</sha256>
+    <startDate>2021-05-24T01:30:00.000Z</startDate>
+    <subtitle>Season 6-3 Lamb chop Bento &amp; Tangy Chicken Bento</subtitle>
+    <title>BENTO EXPO</title>
+    <uploadedDate>2021-05-24T03:21:14.662Z</uploadedDate>
   </episode>
 </episodeList>
