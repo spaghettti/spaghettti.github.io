@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-24T01:05:04.100Z</lastUpdated>
+  <lastUpdated>2021-05-24T02:10:03.728Z</lastUpdated>
   <seriesId>93f1898b227dbd5d</seriesId>
   <title>DESIGN TALKS plus</title>
   <episode>
@@ -275,5 +275,20 @@
     <title>DESIGN TALKS plus</title>
     <uploadedDate>2021-05-06T03:00:25.670Z</uploadedDate>
     <raw>https://mega.nz/folder/lPwxlaJS#U_WoQCGlPsCVH-1QO4hPyQ</raw>
+  </episode>
+  <episode>
+    <airingId>148</airingId>
+    <content>Design is playing an increasingly important role in the way we pass on the culture, climate and memories of each region and city. It's an endeavor far larger than maintaining heritage sites. How do we ensure ordinary buildings survive? That memorials to past disasters do not vanish? And that the vitality and output of an artisans' quarter continues to breathe centuries into the future? Architect Masashi Sogabe explores designs that can capture the memories of cities.</content>
+    <description>Today's theme: Memories of Cities. Design plays a key role in passing on regional culture and memories. How do we ensure buildings, memorials, and crafts live on? Architect Sogabe Masashi explores.</description>
+    <endDate>2021-05-20T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/yfoxRIQZ#_kK4QX2F9BHhlaakQ_vGrQ</link>
+    <recordDateEnd>2021-05-20T02:00:33.788Z</recordDateEnd>
+    <recordDateStart>2021-05-20T01:29:20.079Z</recordDateStart>
+    <seriesId>2046</seriesId>
+    <sha256>7f2b0159518d763c4c72d570167a3caf07ae1bb0c339715d0c78adcb5cf6fdc4</sha256>
+    <startDate>2021-05-20T01:30:00.000Z</startDate>
+    <subtitle>Memories of Cities</subtitle>
+    <title>DESIGN TALKS plus</title>
+    <uploadedDate>2021-05-24T02:09:13.765Z</uploadedDate>
   </episode>
 </episodeList>

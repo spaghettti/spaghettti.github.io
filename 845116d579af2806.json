@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-24T01:05:04.085Z",
+  "lastUpdated": "2021-05-24T02:10:03.713Z",
   "seriesId": "2032",
   "title": "Japanology Plus",
   "episodes": [
@@ -194,6 +194,21 @@
       "title": "Japanology Plus",
       "uploadedDate": "2021-04-29T03:40:04.084Z",
       "raw": "https://mega.nz/folder/9b5iRD4I#WgGM-y91nazof9lEYwCaqA"
+    },
+    {
+      "airingId": "219",
+      "content": "*First broadcast on October 20, 2020.\nRice crackers and other rice-based snacks have been widely consumed in Japan for hundreds of years. Each region of the country has its own twist. Some places use seafood, while others use wheat flour. This time on Japanology Plus, our theme is rice snacks. Our main guest is Kodama Kyoko, an independent food journalist and an authority on rice crackers. She talks about their history, and explains how the rice snack industry is diversifying to fit modern needs.",
+      "description": "Rice snacks. Traditional food with surprising diversity. Each time, Peter Barakan visits the key locations, and meets experts with fascinating cultural insights.",
+      "endDate": "2021-05-20T03:00:00.000Z",
+      "link": "https://mega.nz/folder/nF4FjKAL#mV3gLcrWF2_YY-aXCdcnlA",
+      "recordDateEnd": "2021-05-20T03:00:26.353Z",
+      "recordDateStart": "2021-05-20T02:29:20.089Z",
+      "seriesId": "2032",
+      "sha256": "9ba9205b7418b140e3468905667d4d627382e9d009a84137c77028d9c774a103",
+      "startDate": "2021-05-20T02:30:00.000Z",
+      "subtitle": "Rice Snacks",
+      "title": "Japanology Plus",
+      "uploadedDate": "2021-05-24T02:08:26.315Z"
     },
     {
       "airingId": "222",

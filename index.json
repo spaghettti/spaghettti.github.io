@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-24T01:05:04.361Z",
+  "lastUpdated": "2021-05-24T02:10:04.010Z",
   "series": [
     {
       "count": 1,
@@ -290,10 +290,10 @@
       "title": "DEEPER LOOK from New York"
     },
     {
-      "count": 17,
+      "count": 18,
       "uniqueId": "93f1898b227dbd5d",
-      "lastAiring": "2021-05-06T01:30:00.000Z",
-      "lastUpload": "2021-05-06T03:00:25.670Z",
+      "lastAiring": "2021-05-20T01:30:00.000Z",
+      "lastUpload": "2021-05-24T02:09:13.765Z",
       "seriesId": "2046",
       "title": "DESIGN TALKS plus"
     },
@@ -690,10 +690,10 @@
       "title": "JAPANGLE"
     },
     {
-      "count": 26,
+      "count": 27,
       "uniqueId": "845116d579af2806",
-      "lastAiring": "2021-05-13T02:30:00.000Z",
-      "lastUpload": "2021-05-13T03:56:07.866Z",
+      "lastAiring": "2021-05-20T02:30:00.000Z",
+      "lastUpload": "2021-05-24T02:08:26.315Z",
       "seriesId": "2032",
       "title": "Japanology Plus"
     },
