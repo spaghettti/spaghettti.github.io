@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-24T00:50:04.327Z</lastUpdated>
+  <lastUpdated>2021-05-24T01:05:04.353Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1147,10 +1147,10 @@
     <title>Spiritual Explorers</title>
   </series>
   <series>
-    <count>42</count>
+    <count>43</count>
     <uniqueId>9b58eae3ebc3f6b6</uniqueId>
     <lastAiring>2021-05-23T16:57:00.000Z</lastAiring>
-    <lastUpload>2021-05-23T18:19:20.560Z</lastUpload>
+    <lastUpload>2021-05-24T01:00:11.744Z</lastUpload>
     <seriesId>2062</seriesId>
     <title>Sumopedia</title>
   </series>
@@ -1163,10 +1163,10 @@
     <title>TAKADA KENZO Poet of Cotton</title>
   </series>
   <series>
-    <count>53</count>
+    <count>54</count>
     <uniqueId>01d91b585f12a25a</uniqueId>
     <lastAiring>2021-05-23T03:55:00.000Z</lastAiring>
-    <lastUpload>2021-05-23T20:23:54.375Z</lastUpload>
+    <lastUpload>2021-05-24T01:02:24.853Z</lastUpload>
     <seriesId>4032</seriesId>
     <title>The Flame Across Japan</title>
   </series>
