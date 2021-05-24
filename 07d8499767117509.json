@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-24T06:45:04.303Z",
+  "lastUpdated": "2021-05-24T08:25:03.639Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2850,6 +2850,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-05-14T08:08:48.564Z",
       "raw": "https://mega.nz/folder/btg0wDhZ#g1_Ezb1Hqwv3eVoItJZOpw"
+    },
+    {
+      "airingId": "767",
+      "content": "In 2017, SIROCO became the first Japanese person to win a prestigious flamenco competition in Spain. What does flamenco mean to him, and how did he rise to the top of his profession?",
+      "description": "In 2017, SIROCO became the first Japanese person to win a prestigious flamenco competition in Spain. What does flamenco mean to him, and how did he rise to the top of his profession?",
+      "endDate": "2021-05-24T07:30:00.000Z",
+      "link": "https://mega.nz/folder/lKoURQSY#Q4a4NDV2OBj56hLx5XoGqg",
+      "recordDateEnd": "2021-05-24T07:30:34.000Z",
+      "recordDateStart": "2021-05-24T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "c8905bccc5a7f09ccd1856c385f5d1ba06471df1e9376a5a7b173adccf9430b2",
+      "startDate": "2021-05-24T07:15:00.000Z",
+      "subtitle": "Dancing Up a Storm: SIROCO / Flamenco Dancer",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-05-24T08:23:30.196Z",
+      "raw": "https://mega.nz/folder/6IpWwAID#7zjpN5BRGLHEzssXvwnfbQ"
     }
   ]
 }
