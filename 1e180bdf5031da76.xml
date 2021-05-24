@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-24T00:20:03.999Z</lastUpdated>
+  <lastUpdated>2021-05-24T00:25:04.030Z</lastUpdated>
   <seriesId>1e180bdf5031da76</seriesId>
   <title>Culture Crossroads</title>
   <episode>
@@ -260,6 +260,22 @@ Drawing Yokai, supernatural creatures like goblins, together to get rid of an ep
     <title>Culture Crossroads</title>
     <uploadedDate>2021-03-10T15:58:03.431Z</uploadedDate>
     <raw>https://mega.nz/folder/zwgi1Z5I#4F_WaSEy-2l8_vcgvpaTFQ</raw>
+  </episode>
+  <episode>
+    <airingId>010</airingId>
+    <content>This episode looks at the situation in Japan today as glimpsed through the activities of long-term resident Haroon Qureshi from Pakistan. As Secretary General of one of Tokyo's several mosques, he offers a helping hand to the homeless and poor regardless of race or creed, including those hit hard by the COVID-19 pandemic. His compassionate attitude has engaged the hearts of young Japanese.</content>
+    <description>A long-term Japan resident from Pakistan provides support to the needy, regardless of race or creed, including those hit hard by the COVID-19 pandemic. What is the source of his compassionate spirit?</description>
+    <endDate>2021-05-21T01:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/OdxQ3SjJ#8kLhKst3sY_OH3qQ-unjYw</link>
+    <recordDateEnd>2021-05-21T01:40:32.456Z</recordDateEnd>
+    <recordDateStart>2021-05-21T01:29:20.119Z</recordDateStart>
+    <seriesId>2084</seriesId>
+    <sha256>48883b84472a68bf83e15ff8c11e68af45ba76cec3dfa6e2a2bc9a7f6fecc4f9</sha256>
+    <startDate>2021-05-21T01:30:00.000Z</startDate>
+    <subtitle>My 'Jihad' - Helping People in Need</subtitle>
+    <title>Culture Crossroads</title>
+    <uploadedDate>2021-05-24T00:21:59.049Z</uploadedDate>
+    <raw>https://mega.nz/folder/sDxEgAyR#psftVivJE2WFOfW3xFY9kA</raw>
   </episode>
   <episode>
     <airingId>012</airingId>
