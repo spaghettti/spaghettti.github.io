@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-23T21:55:04.289Z</lastUpdated>
+  <lastUpdated>2021-05-24T00:00:04.024Z</lastUpdated>
   <seriesId>b6a4aecdfcf53169</seriesId>
   <title>Asia Insight</title>
   <episode>
@@ -211,6 +211,22 @@
     <title>Asia Insight</title>
     <uploadedDate>2021-05-07T01:52:03.049Z</uploadedDate>
     <raw>https://mega.nz/folder/Huo2lLQS#8pNdx3-z38TPOFDmr4YAxA</raw>
+  </episode>
+  <episode>
+    <airingId>291</airingId>
+    <content>In January of 2020, the Taiwanese presidential election was held for the first time in 4 years. With the constant media coverage of the event both on television and the internet, Taiwan faced a new threat not seen in years past: the misinformation known as "fake news." Due to the high use of social media in Taiwan, false information can spread before anyone has a chance to disprove it, influencing the opinions of voters. To counteract this effect, groups of checkers now work swiftly to verify information as it airs, utilizing technology to protect Taiwan's journalistic integrity and discredit fake news.</content>
+    <description>The Taiwanese presidential election is being put at risk by fake news created to influence voters. Groups of young activists work to evaluate the reliability of info before fake news can take root.</description>
+    <endDate>2021-05-21T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/LAxjHSob#yrU6Pz_zqLysRM44SwOEWQ</link>
+    <recordDateEnd>2021-05-21T01:00:28.419Z</recordDateEnd>
+    <recordDateStart>2021-05-21T00:29:20.135Z</recordDateStart>
+    <seriesId>2022</seriesId>
+    <sha256>e1c027e1f8b0f17f1481299a15c4a2f370b448df013f88e01bd2cf5d707f9cf1</sha256>
+    <startDate>2021-05-21T00:30:00.000Z</startDate>
+    <subtitle>Taiwan's Battle with Fake News</subtitle>
+    <title>Asia Insight</title>
+    <uploadedDate>2021-05-23T23:56:20.179Z</uploadedDate>
+    <raw>https://mega.nz/folder/GeoUAbQI#9shpJvWZmeQwf_VN0LuwBw</raw>
   </episode>
   <episode>
     <airingId>317</airingId>

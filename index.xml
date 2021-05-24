@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-23T21:55:04.619Z</lastUpdated>
+  <lastUpdated>2021-05-24T00:00:04.338Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -107,10 +107,10 @@
     <title>Art is trash without social impact</title>
   </series>
   <series>
-    <count>26</count>
+    <count>27</count>
     <uniqueId>b6a4aecdfcf53169</uniqueId>
-    <lastAiring>2021-05-14T00:30:00.000Z</lastAiring>
-    <lastUpload>2021-05-14T02:37:46.305Z</lastUpload>
+    <lastAiring>2021-05-21T00:30:00.000Z</lastAiring>
+    <lastUpload>2021-05-23T23:56:20.179Z</lastUpload>
     <seriesId>2022</seriesId>
     <title>Asia Insight</title>
   </series>
