@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-25T04:55:04.197Z</lastUpdated>
+  <lastUpdated>2021-05-25T05:25:04.797Z</lastUpdated>
   <seriesId>f85084a2d40d190a</seriesId>
   <title>DEEPER LOOK from New York</title>
   <episode>
@@ -275,5 +275,21 @@
     <title>DEEPER LOOK from New York</title>
     <uploadedDate>2021-05-04T05:27:25.175Z</uploadedDate>
     <raw>https://mega.nz/folder/uEAFACZC#PI3ndfGB_FqBkWJZ_3Vu6A</raw>
+  </episode>
+  <episode>
+    <airingId>031</airingId>
+    <content>President Biden announced that the exit of US troops from Afghanistan would be completed by Sept. 11, 2021, the 20th anniversary of the terrorist attacks on the U.S. But even after the US declaration, bombings have not ceased, and insurgencies cast a dark shadow on the country's future. What consequences will the withdrawal bring to the nation and to the U.S. itself? We asked Cheryl Benard, an expert on national security issues, post-conflict reconstruction, and author of books on Islamic countries.</content>
+    <description>An exprerienced anchor Del Irani has a cutting-ege dialogue. Today, Cheryl Benard, an expert on national security issues and a writer, talks about impacts of US withdrawal from Afghanistan.</description>
+    <endDate>2021-05-25T04:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/vIQTgKjY#m5oPhAaQ9VRzbXFWi_d01g</link>
+    <recordDateEnd>2021-05-25T04:45:30.715Z</recordDateEnd>
+    <recordDateStart>2021-05-25T04:29:20.100Z</recordDateStart>
+    <seriesId>2085</seriesId>
+    <sha256>0f7988e9fbfba5bae0d871d07c14102a8bf80c62887b6c194edf3cedb4015f36</sha256>
+    <startDate>2021-05-25T04:30:00.000Z</startDate>
+    <subtitle>Impacts of US Withdrawal from Afghanistan: Cheryl Benard / Political Analyst, President of Alliance for the Restoration of Cultural Heritage</subtitle>
+    <title>DEEPER LOOK from New York</title>
+    <uploadedDate>2021-05-25T05:21:50.554Z</uploadedDate>
+    <raw>https://mega.nz/folder/fCZnQS6T#rgu10PbFLuBPEQK2f9OiFg</raw>
   </episode>
 </episodeList>
