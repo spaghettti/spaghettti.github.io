@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-25T04:50:03.647Z",
+  "lastUpdated": "2021-05-25T04:55:04.264Z",
   "seriesId": "4026",
   "title": "Document 72 Hours",
   "episodes": [
@@ -418,6 +418,21 @@
       "title": "Document 72 Hours",
       "uploadedDate": "2021-05-04T04:10:21.244Z",
       "raw": "https://mega.nz/folder/yjwiza5C#tu3_y0tZzcPGLilFqlEfoA"
+    },
+    {
+      "airingId": "155",
+      "content": "The Umihotaru parking area in the heart of Tokyo Bay offers 360-degree views of the surrounding area. Among the visitors we met over 3 days at the end of 2020 were a married couple who dropped plans to visit their distant hometowns over the New Year; a man who listens to pilots flying overhead communicating with air traffic controllers; and a couple who have been dating for less than a week braving the gale. At the end of a year dominated by the coronavirus pandemic, we asked visitors what is on their minds as they take in the ocean scenery.",
+      "description": "The Umihotaru parking area in the middle of Tokyo Bay offers breathtaking views of the surrounding area. In the last 3 days of 2020, we asked visitors what is on their minds as they take in the view.",
+      "endDate": "2021-05-25T03:00:00.000Z",
+      "link": "https://mega.nz/folder/jAB0nDha#8Elk4a00Vg2kD3N2OuZo8w",
+      "recordDateEnd": "2021-05-25T03:00:27.941Z",
+      "recordDateStart": "2021-05-25T02:29:23.316Z",
+      "seriesId": "4026",
+      "sha256": "815ae96ee0353ddf61f90e38e291b474734a589219550f8afc4a384b79269007",
+      "startDate": "2021-05-25T02:30:00.000Z",
+      "subtitle": "Seeing Out 2020 in the Heart of Tokyo Bay",
+      "title": "Document 72 Hours",
+      "uploadedDate": "2021-05-25T04:50:38.008Z"
     }
   ]
 }
