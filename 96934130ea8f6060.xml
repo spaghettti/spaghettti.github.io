@@ -1,9 +1,25 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-25T06:00:04.656Z</lastUpdated>
+  <lastUpdated>2021-05-25T06:05:04.999Z</lastUpdated>
   <seriesId>96934130ea8f6060</seriesId>
   <title>We, in the Time of Corona</title>
+  <episode>
+    <airingId>011</airingId>
+    <content>Contemporary artist Kenji Yanobe creates sculptures on the theme of "revival." His "guardian beasts" in Kyoto Prefecture are a prayer for world peace. He believes art has the power to inspire a bright future.</content>
+    <description>Contemporary artist Kenji Yanobe creates sculptures on the theme of "revival" His "guardian beasts" in Kyoto are a prayer for world peace. He believes art has the power to inspire a bright future.</description>
+    <endDate>2021-05-25T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/XWJy1ZqI#6nBGHRq1x5qVuhmlqD0sbw</link>
+    <recordDateEnd>2021-05-25T05:00:32.992Z</recordDateEnd>
+    <recordDateStart>2021-05-25T04:54:20.003Z</recordDateStart>
+    <seriesId>6033</seriesId>
+    <sha256>a61e0826bed08ca5870b348893d8965d4dae2c1af2a517a052a2524c6f4df290</sha256>
+    <startDate>2021-05-25T04:55:00.000Z</startDate>
+    <subtitle>Kenji Yanobe, Contemporary Artist</subtitle>
+    <title>We, in the Time of Corona</title>
+    <uploadedDate>2021-05-25T06:02:47.650Z</uploadedDate>
+    <raw>https://mega.nz/folder/AWwi0RiZ#sbwOC2Ad217iCiIqVfmGTw</raw>
+  </episode>
   <episode>
     <airingId>014</airingId>
     <content>Takaharu and Yui Tezuka are architects who focus on human connection, sometimes literally removing walls between us in a bid to change lives and society itself. Explore new lifestyles for a new era.</content>
