@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-24T09:15:04.059Z</lastUpdated>
+  <lastUpdated>2021-05-25T01:55:03.518Z</lastUpdated>
   <seriesId>b7a2bc9b23a9c5ee</seriesId>
   <title>Journeys in Japan</title>
   <episode>
@@ -371,5 +371,20 @@
     <title>Journeys in Japan</title>
     <uploadedDate>2021-05-11T03:13:32.915Z</uploadedDate>
     <raw>https://mega.nz/folder/fYhGjAzb#PSBK7FyedlBaN_CxpxQVJw</raw>
+  </episode>
+  <episode>
+    <airingId>438</airingId>
+    <content>Elegant and charming, goldfish have captured the hearts of people in Japan for centuries. One of the main areas where they are produced is the historic city of Yamatokoriyama in Nara Prefecture. Although this region of Japan does not receive a lot of rainfall, there is abundant groundwater. There are many rivers running through the city, and reservoirs have been built to make use of their water. Over the centuries, the terrain was modified until it was perfect for goldfish breeding, and it took off in a big way. This time on Journeys in Japan, US photographer Seri Nieves visits Yamatokoriyama to explore the deep connection with water and goldfish in this ancient castle town.</content>
+    <description>In Yamatokoriyama (Nara Pref.), Seri Nieves explores the historic town's connection with water and goldfish. On this program, get to know the real Japan and discover useful travel tips.</description>
+    <endDate>2021-05-25T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/WhQFnKLb#WBlmhVrf1aCsujnzYA065w</link>
+    <recordDateEnd>2021-05-25T01:00:26.124Z</recordDateEnd>
+    <recordDateStart>2021-05-25T00:29:20.101Z</recordDateStart>
+    <seriesId>2007</seriesId>
+    <sha256>4e4cab3f96d79cf9703d58b25c94890d2202e7625af18156e3323e8ec7dc4840</sha256>
+    <startDate>2021-05-25T00:30:00.000Z</startDate>
+    <subtitle>Yamatokoriyama: Water Brimming with Goldfish</subtitle>
+    <title>Journeys in Japan</title>
+    <uploadedDate>2021-05-25T01:52:53.349Z</uploadedDate>
   </episode>
 </episodeList>
