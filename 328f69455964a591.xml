@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-25T05:25:04.799Z</lastUpdated>
+  <lastUpdated>2021-05-25T06:00:04.518Z</lastUpdated>
   <seriesId>328f69455964a591</seriesId>
   <title>Doctor's Insight</title>
   <episode>
@@ -195,5 +195,20 @@
     <title>Doctor's Insight</title>
     <uploadedDate>2021-01-06T12:58:21.674Z</uploadedDate>
     <raw>https://mega.nz/folder/w0lnhSiB#tzmqRue8kM26Nu_-wINlDQ</raw>
+  </episode>
+  <episode>
+    <airingId>019</airingId>
+    <content>Cancer - it is the 2nd leading cause of death. So what was the most commonly diagnosed cancer in 2020? Lung cancer? Colon cancer? The answer is breast cancer. For many years, lung cancer had been the most common form of cancer, but female breast cancer has taken over due to a rapid increase in the number of cases. 2.3 million breast cancer cases were diagnosed in 2020. Every woman is at some risk for breast cancer and it can even strike men. Find out ways to reduce your risk and learn the steps for early detection.</content>
+    <description>Cancer is the 2nd leading cause of death. And the most commonly diagnosed cancer in 2020 was breast cancer, surpassing lung cancer. Find out what you can do to reduce your risk of breast cancer.</description>
+    <endDate>2021-05-25T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/bbhWjaJQ#s8rAZZ1MiEcTXEYo7PZi0A</link>
+    <recordDateEnd>2021-05-25T04:55:23.118Z</recordDateEnd>
+    <recordDateStart>2021-05-25T04:44:23.030Z</recordDateStart>
+    <seriesId>2086</seriesId>
+    <sha256>5431d17c272eede34c46dced166cae5049148e4d33c3df30b348cc21f3be5b28</sha256>
+    <startDate>2021-05-25T04:45:00.000Z</startDate>
+    <subtitle>Breast Cancer #1: Know Your Risk</subtitle>
+    <title>Doctor's Insight</title>
+    <uploadedDate>2021-05-25T05:56:58.447Z</uploadedDate>
   </episode>
 </episodeList>
