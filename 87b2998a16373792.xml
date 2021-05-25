@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-25T08:20:04.443Z</lastUpdated>
+  <lastUpdated>2021-05-25T16:30:04.312Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -55,6 +55,26 @@ An HEV Motor Made with Heavy Rare Earth-Free Magnets</content>
     <title>Science View</title>
     <uploadedDate>2021-05-11T15:55:09.038Z</uploadedDate>
     <raw>https://mega.nz/folder/6yoynCiZ#iA-NXcYStBnSLwztjTxY4A</raw>
+  </episode>
+  <episode>
+    <airingId>209</airingId>
+    <content>Japan is a country known for its frequent volcanic eruptions. It's also experienced much larger "massive volcanic eruptions" thought to have struck at an average rate of once every 10,000 years. These eruptions were so powerful that they helped form the Japanese archipelago. The most recent massive volcanic eruption is to have occurred 7,300 years ago at the Kikai Caldera, which includes the island of Satsuma-Iojima in southern Kyushu. In this episode, we'll look at the latest research on massive volcanic eruptions and the insight gained from the Kikai Caldera.
+[Science News Watch]
+Over a Twofold Increase in Humpback Whales Near Hachijojima in the Izu Islands
+[J-Innovators]
+Development of a 4D CT Scanner for the Medical Field</content>
+    <description>Volcanic eruptions frequently occur in Japan. In this episode, we'll look at the latest research on much larger "massive volcanic eruptions" so powerful that they helped form the Japanese archipelago.</description>
+    <endDate>2021-05-25T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/wXZTiAjK#ZSi_Lv7u1eR5nVWVGCLvfQ</link>
+    <recordDateEnd>2021-05-25T15:00:35.144Z</recordDateEnd>
+    <recordDateStart>2021-05-25T14:29:20.100Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>2031094dce086bf245765e7c9af2e815109e1263393ef5f9c65a9b6839c97a03</sha256>
+    <startDate>2021-05-25T14:30:00.000Z</startDate>
+    <subtitle>Could a Massive Volcanic Eruption Strike Again?</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-05-25T16:27:48.666Z</uploadedDate>
+    <raw>https://mega.nz/folder/ES5GWQAb#kWxPolf2foE5BIMc0sXONA</raw>
   </episode>
   <episode>
     <airingId>225</airingId>
