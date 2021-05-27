@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-26T16:10:04.102Z</lastUpdated>
+  <lastUpdated>2021-05-27T01:45:04.677Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -803,10 +803,10 @@
     <title>Magical Journey TOHOKU</title>
   </series>
   <series>
-    <count>3</count>
+    <count>4</count>
     <uniqueId>0c1dc7135e38a8f6</uniqueId>
-    <lastAiring>2021-04-22T00:30:00.000Z</lastAiring>
-    <lastUpload>2021-04-22T01:49:17.322Z</lastUpload>
+    <lastAiring>2021-05-27T00:30:00.000Z</lastAiring>
+    <lastUpload>2021-05-27T01:42:51.790Z</lastUpload>
     <seriesId>2094</seriesId>
     <title>Maiko-san Chi no Makanai-san - Kiyo in Kyoto: From the Maiko House</title>
   </series>
