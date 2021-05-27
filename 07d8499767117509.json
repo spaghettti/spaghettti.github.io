@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-27T06:50:03.625Z",
+  "lastUpdated": "2021-05-27T08:10:03.814Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2882,6 +2882,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-05-24T08:23:30.196Z",
       "raw": "https://mega.nz/folder/6IpWwAID#7zjpN5BRGLHEzssXvwnfbQ"
+    },
+    {
+      "airingId": "768",
+      "content": "Sirachai Arunrugstichai is a photographer and marine biologist based in Bangkok, Thailand. His photos are a sharp reminder to the world that the oceans and sea life must be protected.",
+      "description": "Sirachai Arunrugstichai is a photographer and marine biologist based in Bangkok, Thailand. His photos are a sharp reminder to the world that the oceans and sea life must be protected.",
+      "endDate": "2021-05-27T07:30:00.000Z",
+      "link": "https://mega.nz/folder/OMJXFSaZ#5wHoB_CPYe9oU90gV4k3pg",
+      "recordDateEnd": "2021-05-27T07:30:29.320Z",
+      "recordDateStart": "2021-05-27T07:14:20.016Z",
+      "seriesId": "2058",
+      "sha256": "1c9d50967e62e028d48f26963034877400ef764baed86f2c64eb2887140fb418",
+      "startDate": "2021-05-27T07:15:00.000Z",
+      "subtitle": "Capturing the Truth Beneath the Waves: Sirachai Arunrugstichai / Conservation Photographer",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-05-27T08:08:22.968Z",
+      "raw": "https://mega.nz/folder/DVhVXQwA#2M4SUT6VN3PvNE7oBWUo6Q"
     }
   ]
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-27T06:50:03.608Z</lastUpdated>
+  <lastUpdated>2021-05-27T08:10:03.802Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2883,5 +2883,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-05-24T08:23:30.196Z</uploadedDate>
     <raw>https://mega.nz/folder/6IpWwAID#7zjpN5BRGLHEzssXvwnfbQ</raw>
+  </episode>
+  <episode>
+    <airingId>768</airingId>
+    <content>Sirachai Arunrugstichai is a photographer and marine biologist based in Bangkok, Thailand. His photos are a sharp reminder to the world that the oceans and sea life must be protected.</content>
+    <description>Sirachai Arunrugstichai is a photographer and marine biologist based in Bangkok, Thailand. His photos are a sharp reminder to the world that the oceans and sea life must be protected.</description>
+    <endDate>2021-05-27T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/OMJXFSaZ#5wHoB_CPYe9oU90gV4k3pg</link>
+    <recordDateEnd>2021-05-27T07:30:29.320Z</recordDateEnd>
+    <recordDateStart>2021-05-27T07:14:20.016Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>1c9d50967e62e028d48f26963034877400ef764baed86f2c64eb2887140fb418</sha256>
+    <startDate>2021-05-27T07:15:00.000Z</startDate>
+    <subtitle>Capturing the Truth Beneath the Waves: Sirachai Arunrugstichai / Conservation Photographer</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-05-27T08:08:22.968Z</uploadedDate>
+    <raw>https://mega.nz/folder/DVhVXQwA#2M4SUT6VN3PvNE7oBWUo6Q</raw>
   </episode>
 </episodeList>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-27T06:50:03.859Z</lastUpdated>
+  <lastUpdated>2021-05-27T08:10:04.104Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -323,10 +323,10 @@
     <title>Dining with the Chef mini</title>
   </series>
   <series>
-    <count>180</count>
+    <count>181</count>
     <uniqueId>07d8499767117509</uniqueId>
-    <lastAiring>2021-05-27T05:15:00.000Z</lastAiring>
-    <lastUpload>2021-05-27T06:01:36.328Z</lastUpload>
+    <lastAiring>2021-05-27T07:15:00.000Z</lastAiring>
+    <lastUpload>2021-05-27T08:08:22.968Z</lastUpload>
     <seriesId>2058</seriesId>
     <title>Direct Talk</title>
   </series>
