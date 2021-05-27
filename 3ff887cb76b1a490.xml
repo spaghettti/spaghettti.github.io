@@ -1,9 +1,24 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-27T08:10:03.785Z</lastUpdated>
+  <lastUpdated>2021-05-27T15:55:04.236Z</lastUpdated>
   <seriesId>3ff887cb76b1a490</seriesId>
   <title>Japan Railway Journal</title>
+  <episode>
+    <airingId>066</airingId>
+    <content>On April 1, 2019, the Yubari branch of JR Hokkaido's Sekisho Line is sadly coming to an end. Back in the days, Yubari was a prosperous mining town and the line was a major route for transporting coal. But from the 1970s the mines began to close and the city started to decline. In recent years, the line only operated 5 round trips per day. With news of the line's closing, many railfans came to ride the line and the locals showed their appreciation by gifting handcrafted souvenirs. See the last moments of this beloved line and the challenges local lines are facing in Japan.</content>
+    <description>On April 1st 2019, the Yubari branch of JR Hokkaido's Sekisho Line is sadly coming to end. See the line's last moments as well as what locals have been doing to show their appreciation.</description>
+    <endDate>2021-05-27T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/2goUEYpb#A7sYymd3ZwiuV8hggblKcg</link>
+    <recordDateEnd>2021-05-27T15:00:32.509Z</recordDateEnd>
+    <recordDateStart>2021-05-27T14:29:20.100Z</recordDateStart>
+    <seriesId>2049</seriesId>
+    <sha256>726672fb31851ef1c5d21f532c8a25affcc05f44897a086fceadefcd9235c766</sha256>
+    <startDate>2021-05-27T14:30:00.000Z</startDate>
+    <subtitle>JR Hokkaido's Yubari Line: A Beloved Local Line Comes to an End</subtitle>
+    <title>Japan Railway Journal</title>
+    <uploadedDate>2021-05-27T15:54:11.286Z</uploadedDate>
+  </episode>
   <episode>
     <airingId>074</airingId>
     <content>South Hokkaido Railway is home to a popular tourist train. A third sector company, South Hokkaido Railway began operation in 2016 with the opening of the Hokkaido Shinkansen. With limited resources, the railway asked a major tour company to help develop and operate a tourist train. See how the company worked with the community, and used their know-how to turn a "regular" train into a fun tourist train that has been gaining attention across Japan.</content>
