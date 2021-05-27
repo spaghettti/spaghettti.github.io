@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-27T02:55:03.779Z</lastUpdated>
+  <lastUpdated>2021-05-27T04:50:03.631Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -462,5 +462,22 @@ Lacquerware is made by coating objects with the sap of the lacquer tree. It's a 
     <title>Japanology Plus</title>
     <uploadedDate>2021-04-22T03:41:37.479Z</uploadedDate>
     <raw>https://mega.nz/folder/ZIk1waST#kotxt_88MVI3sNN2f93huw</raw>
+  </episode>
+  <episode>
+    <airingId>237</airingId>
+    <content>*First broadcast on May 27, 2021.
+In a Japanophiles interview, Peter Barakan meets Chad Mullane, a comedian from Perth, Australia. Chad talks about Japanese comedy, and explains how he fell in love with it. We see some of his routines, and learn just how much hard work it took to become a professional in the industry. We also meet Tea Kato, Chad's long-term comedy partner, and Bonchi Osamu, a veteran performer who took Chad under his wing.</content>
+    <description>Chad Mullane: An Australian comedian working in Japan. In a Japanophiles interview, Chad tells Peter Barakan about Japanese comedy, and explains how he became a professional in the industry.</description>
+    <endDate>2021-05-27T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/aMpFlQaD#0_w8EUq5VYr9usV9RFvuzw</link>
+    <recordDateEnd>2021-05-27T03:00:26.495Z</recordDateEnd>
+    <recordDateStart>2021-05-27T02:29:22.723Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>1f15d912c0cb56dab430c81380dfcbefd31293a7a777bd70e7e106979b440f53</sha256>
+    <startDate>2021-05-27T02:30:00.000Z</startDate>
+    <subtitle>Japanophiles: Chad Mullane</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-05-27T04:45:42.968Z</uploadedDate>
+    <raw>https://mega.nz/folder/expXjS5A#OOgo0v9jd-_gJmFIFx2QHA</raw>
   </episode>
 </episodeList>
