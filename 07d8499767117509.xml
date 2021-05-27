@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-27T05:30:03.849Z</lastUpdated>
+  <lastUpdated>2021-05-27T06:05:03.931Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -758,19 +758,19 @@
   </episode>
   <episode>
     <airingId>608</airingId>
-    <content>Renowned choreographer Twyla Tharp discusses her new book, which delves into her philosophy of aging and highlights the importance of moving our bodies to maximize our potential, whatever our age.</content>
+    <content/>
     <description>Renowned choreographer Twyla Tharp discusses her new book, which delves into her philosophy of aging and highlights the importance of moving our bodies to maximize our potential, whatever our age.</description>
-    <endDate>2021-02-04T07:30:00.000Z</endDate>
-    <link>https://mega.nz/folder/XB82CQQS#u3bhKiTJkFhpCxboRzWgEA</link>
-    <recordDateEnd>2021-02-04T07:30:28.106Z</recordDateEnd>
-    <recordDateStart>2021-02-04T07:14:20.025Z</recordDateStart>
+    <endDate>2021-05-27T05:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/GToyCDjL#9iRlyzIqhdMDMs6UQi8z4g</link>
+    <recordDateEnd>2021-05-27T05:30:29.257Z</recordDateEnd>
+    <recordDateStart>2021-05-27T05:14:22.723Z</recordDateStart>
     <seriesId>2058</seriesId>
-    <sha256>14e620ed93438cc24e0956a82c351c8ca9f5ff9c7bdb191e7173548928a8d412</sha256>
-    <startDate>2021-02-04T07:15:00.000Z</startDate>
-    <subtitle>A New Approach to Aging: Twyla Tharp / Choreographer and Author</subtitle>
+    <sha256>0bf82bb29e5d0eec1ebd1d3667951c13f1df6700748846df7f94311dceb5a3e8</sha256>
+    <startDate>2021-05-27T05:15:00.000Z</startDate>
+    <subtitle/>
     <title>Direct Talk</title>
-    <uploadedDate>2021-02-04T23:12:33.961Z</uploadedDate>
-    <raw>https://mega.nz/folder/EC4iwA5Y#t31AvlqQJ_HXtDaiIKOY7g</raw>
+    <uploadedDate>2021-05-27T06:01:36.328Z</uploadedDate>
+    <raw>https://mega.nz/folder/uY5yUDBD#2jXfmLkdJiJ1uBvzdjoPhw</raw>
   </episode>
   <episode>
     <airingId>609</airingId>
