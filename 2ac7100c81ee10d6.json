@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-27T04:50:03.806Z",
+  "lastUpdated": "2021-05-27T05:30:03.956Z",
   "seriesId": "4023",
   "title": "Lunch ON!",
   "episodes": [
@@ -322,6 +322,21 @@
       "title": "Lunch ON!",
       "uploadedDate": "2021-05-06T05:44:42.760Z",
       "raw": "https://mega.nz/folder/1KgSDJgY#IjqH5TH6xZ3y3sItNDyAzg"
+    },
+    {
+      "airingId": "165",
+      "content": "We visit a bus company that has been in business for over 100 years in the city of Ina, Nagano Prefecture, in central Japan. The company was hit hard in 2020 by the pandemic, and they were forced to cease all of their bus tours for several months. However, the bus guides didn't waste their time just sitting around in self-isolation. They instead got together to think of all-new, Covid-safe bus tours that would be appealing for local customers. Their hard work paid off, and after 6 months, the company was able to resume bus tours. We look at the hearty food served at their cafeteria.",
+      "description": "We visit a bus company in the city of Ina, in central Japan that has bounced back from the pandemic self-isolation period with some great bus tours that the bus guides thought of themselves.",
+      "endDate": "2021-05-27T04:55:00.000Z",
+      "link": "https://mega.nz/folder/TbpVzQZR#FwJ5ma2LO0S1RR0V9qS0Yw",
+      "recordDateEnd": "2021-05-27T04:55:30.154Z",
+      "recordDateStart": "2021-05-27T04:29:20.102Z",
+      "seriesId": "4023",
+      "sha256": "7da79588f627903ea19405c4b07d36615175335636b67f41176ed2bcdf593892",
+      "startDate": "2021-05-27T04:30:00.000Z",
+      "subtitle": "Lunchtime for the Bus Guides",
+      "title": "Lunch ON!",
+      "uploadedDate": "2021-05-27T05:28:52.102Z"
     }
   ]
 }

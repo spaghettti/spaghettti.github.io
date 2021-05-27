@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-27T04:50:03.805Z</lastUpdated>
+  <lastUpdated>2021-05-27T05:30:03.954Z</lastUpdated>
   <seriesId>2ac7100c81ee10d6</seriesId>
   <title>Lunch ON!</title>
   <episode>
@@ -325,5 +325,20 @@ In another segment, we visit an inn with over a hundred years of history to hear
     <title>Lunch ON!</title>
     <uploadedDate>2021-05-06T05:44:42.760Z</uploadedDate>
     <raw>https://mega.nz/folder/1KgSDJgY#IjqH5TH6xZ3y3sItNDyAzg</raw>
+  </episode>
+  <episode>
+    <airingId>165</airingId>
+    <content>We visit a bus company that has been in business for over 100 years in the city of Ina, Nagano Prefecture, in central Japan. The company was hit hard in 2020 by the pandemic, and they were forced to cease all of their bus tours for several months. However, the bus guides didn't waste their time just sitting around in self-isolation. They instead got together to think of all-new, Covid-safe bus tours that would be appealing for local customers. Their hard work paid off, and after 6 months, the company was able to resume bus tours. We look at the hearty food served at their cafeteria.</content>
+    <description>We visit a bus company in the city of Ina, in central Japan that has bounced back from the pandemic self-isolation period with some great bus tours that the bus guides thought of themselves.</description>
+    <endDate>2021-05-27T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/TbpVzQZR#FwJ5ma2LO0S1RR0V9qS0Yw</link>
+    <recordDateEnd>2021-05-27T04:55:30.154Z</recordDateEnd>
+    <recordDateStart>2021-05-27T04:29:20.102Z</recordDateStart>
+    <seriesId>4023</seriesId>
+    <sha256>7da79588f627903ea19405c4b07d36615175335636b67f41176ed2bcdf593892</sha256>
+    <startDate>2021-05-27T04:30:00.000Z</startDate>
+    <subtitle>Lunchtime for the Bus Guides</subtitle>
+    <title>Lunch ON!</title>
+    <uploadedDate>2021-05-27T05:28:52.102Z</uploadedDate>
   </episode>
 </episodeList>
