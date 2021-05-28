@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-28T07:20:03.711Z</lastUpdated>
+  <lastUpdated>2021-05-28T07:45:04.309Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -51,6 +51,22 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-01-15T08:04:05.979Z</uploadedDate>
     <raw>https://mega.nz/folder/HvgAEbKQ#O4VTGFyUxkcdx3pfhZSnFg</raw>
+  </episode>
+  <episode>
+    <airingId>455</airingId>
+    <content/>
+    <description>Taiwanese activist Lin Nien-tzu founded a workshop to spread important knowledge on menstruation to Nepalese women. She helps them produce eco-friendly sanitary products.</description>
+    <endDate>2021-05-28T05:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/7QgWBJYS#A-TDLRoJjhtjHf9DO8s9gw</link>
+    <recordDateEnd>2021-05-28T05:30:28.510Z</recordDateEnd>
+    <recordDateStart>2021-05-28T05:14:20.103Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>2d793210544e802c1dbdb4de44e702c984815624d3534f634ef73d2e958db3f0</sha256>
+    <startDate>2021-05-28T05:15:00.000Z</startDate>
+    <subtitle/>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-05-28T07:41:27.515Z</uploadedDate>
+    <raw>https://mega.nz/folder/N0olRCrQ#ZUUH1cTjiZgB0ZU6t5_KlQ</raw>
   </episode>
   <episode>
     <airingId>472</airingId>
