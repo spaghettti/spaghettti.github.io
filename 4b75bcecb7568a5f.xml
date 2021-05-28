@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-28T03:55:04.392Z</lastUpdated>
+  <lastUpdated>2021-05-28T05:50:04.317Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -227,5 +227,20 @@
     <title>J-Arena</title>
     <uploadedDate>2021-04-30T06:21:06.563Z</uploadedDate>
     <raw>https://mega.nz/folder/dX5FhSSJ#jVk-H20FO1pCf6JwHwa5nQ</raw>
+  </episode>
+  <episode>
+    <airingId>087</airingId>
+    <content>Two accomplished martial artists reveal the diverse ways ancient knowledge of the human body can be applied in today's world. Classical martial artist Kono Yoshinori helps actors harness martial arts principles to take their performances to the next level. The techniques can even be used to protect caregivers from work-related injury. Chinese martial arts specialist Ichikizaki Daisuke teaches Tai Chi to young football and basketball players. He explains how Tai Chi's relaxation techniques can allow athletes to use their bodies more efficiently.</content>
+    <description>Two accomplished martial artists reveal the diverse ways ancient knowledge of the human body can be applied in today's world, from boosting elite athletic performance to daily health and well being.</description>
+    <endDate>2021-05-28T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/zCYVAIKC#tzbOWeIq40e_Ceq5Pcb9oQ</link>
+    <recordDateEnd>2021-05-28T05:00:29.743Z</recordDateEnd>
+    <recordDateStart>2021-05-28T04:29:20.104Z</recordDateStart>
+    <seriesId>2073</seriesId>
+    <sha256>dcb9059e91880fcf361e35ffcf918f12fbfb05b2db4ed810cbc0daca029d328b</sha256>
+    <startDate>2021-05-28T04:30:00.000Z</startDate>
+    <subtitle>Traditional Martial Arts in Today's World</subtitle>
+    <title>J-Arena</title>
+    <uploadedDate>2021-05-28T05:48:43.550Z</uploadedDate>
   </episode>
 </episodeList>
