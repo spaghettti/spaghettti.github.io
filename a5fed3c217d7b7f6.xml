@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-28T08:35:04.134Z</lastUpdated>
+  <lastUpdated>2021-05-28T16:00:05.053Z</lastUpdated>
   <seriesId>a5fed3c217d7b7f6</seriesId>
   <title>Today's Close-Up</title>
   <episode>
@@ -353,5 +353,24 @@ Miyata Hiroaki (Professor, Keio University)</content>
     <title>Today's Close-Up</title>
     <uploadedDate>2021-05-23T20:13:12.667Z</uploadedDate>
     <raw>https://mega.nz/folder/YsI2TDBR#aRS9OJTcaMCj_gB9jdAmIA</raw>
+  </episode>
+  <episode>
+    <airingId>827</airingId>
+    <content>This spring, young nurses in Japan started their careers amid unprecedented circumstances. They entered the workforce without the usual hands-on training due to the pandemic, but were nonetheless forced to contend with a surge in cases stemming from a fourth wave of coronavirus infection. We highlight how these novice nurses have overcome their anxieties and provided the best care possible.
+Guest: 
+Nakamoto Risa (Nurse/Illustrator)
+*Today's Close-Up will continue to report on COVID-19.</content>
+    <description>For nurses just starting their careers, the pandemic has been a baptism of fire. But despite the harsh conditions, they have persevered. We asked nurses about what keeps them going.</description>
+    <endDate>2021-05-28T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/mtwk2ZaL#pAS4j152-r-6QNqAI0UOHg</link>
+    <recordDateEnd>2021-05-28T15:00:34.542Z</recordDateEnd>
+    <recordDateStart>2021-05-28T14:29:20.100Z</recordDateStart>
+    <seriesId>4002</seriesId>
+    <sha256>3747b750a0559a3c10b14bc3a206f7bcde115597e08079550455cd0e86f4363d</sha256>
+    <startDate>2021-05-28T14:30:00.000Z</startDate>
+    <subtitle>Braving the Storm: Novice Nurses During the Pandemic</subtitle>
+    <title>Today's Close-Up</title>
+    <uploadedDate>2021-05-28T15:59:20.420Z</uploadedDate>
+    <raw>https://mega.nz/folder/FSpGSZqb#3wAfYAbyMNHVG3d6VOFyzA</raw>
   </episode>
 </episodeList>
