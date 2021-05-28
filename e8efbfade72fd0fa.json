@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-28T02:00:04.631Z",
+  "lastUpdated": "2021-05-28T02:15:04.526Z",
   "seriesId": "6123",
   "title": "no art, no life plus",
   "episodes": [
@@ -210,6 +210,21 @@
       "title": "no art, no life plus",
       "uploadedDate": "2021-05-23T21:50:10.814Z",
       "raw": "https://mega.nz/folder/nHpAESII#MLMU-kYoyDpkXRyqKdqLqw"
+    },
+    {
+      "airingId": "014",
+      "content": "",
+      "description": "Outsider artists like Nouda Yuka are gaining recognition around the world. Although she creates mainly for herself, others have taken notice. See how these artists live and work.",
+      "endDate": "2021-05-28T01:55:00.000Z",
+      "link": "https://mega.nz/folder/1TZk0DrY#TVaYEyoPI7cM4CAyISaxeQ",
+      "recordDateEnd": "2021-05-28T01:55:31.042Z",
+      "recordDateStart": "2021-05-28T01:44:20.001Z",
+      "seriesId": "6123",
+      "sha256": "260139cb01a17a0c68ddd9c58163d5f8832255d4871633f1cca2597cb50e6a73",
+      "startDate": "2021-05-28T01:45:00.000Z",
+      "subtitle": "",
+      "title": "no art, no life plus",
+      "uploadedDate": "2021-05-28T02:11:27.447Z"
     }
   ]
 }

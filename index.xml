@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-28T02:00:04.667Z</lastUpdated>
+  <lastUpdated>2021-05-28T02:15:04.562Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -907,10 +907,10 @@
     <title>no art, no life</title>
   </series>
   <series>
-    <count>13</count>
+    <count>14</count>
     <uniqueId>e8efbfade72fd0fa</uniqueId>
-    <lastAiring>2021-05-21T01:45:00.000Z</lastAiring>
-    <lastUpload>2021-05-23T21:50:10.814Z</lastUpload>
+    <lastAiring>2021-05-28T01:45:00.000Z</lastAiring>
+    <lastUpload>2021-05-28T02:11:27.447Z</lastUpload>
     <seriesId>6123</seriesId>
     <title>no art, no life plus</title>
   </series>
