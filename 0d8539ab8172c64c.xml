@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-28T01:50:04.206Z</lastUpdated>
+  <lastUpdated>2021-05-28T02:00:04.594Z</lastUpdated>
   <seriesId>0d8539ab8172c64c</seriesId>
   <title>Selfie Japan!</title>
   <episode>
@@ -19,6 +19,21 @@
     <title>Selfie Japan! Kanagawa</title>
     <uploadedDate>2021-05-23T21:32:48.638Z</uploadedDate>
     <raw>https://mega.nz/folder/vHxnRYxD#wm1wiu28XIoL8wKYtgcxLA</raw>
+  </episode>
+  <episode>
+    <airingId>003</airingId>
+    <content/>
+    <description>There is an area called "Bonsai-cho" in Saitama City. Duan will encounter special trees that have survived for a very long time. She will enjoy the deep world of this living art.</description>
+    <endDate>2021-05-28T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/seZURRgJ#UXXYikI46mF6tKVEogP-0g</link>
+    <recordDateEnd>2021-05-28T01:45:26.835Z</recordDateEnd>
+    <recordDateStart>2021-05-28T01:39:20.100Z</recordDateStart>
+    <seriesId>6028</seriesId>
+    <sha256>c4309bbc7ac9963bf65fbe5d8e458c8a5e3b74f92ad066cfef4da9b2063b7661</sha256>
+    <startDate>2021-05-28T01:40:00.000Z</startDate>
+    <subtitle/>
+    <title>Selfie Japan! Saitama</title>
+    <uploadedDate>2021-05-28T01:59:21.204Z</uploadedDate>
   </episode>
   <episode>
     <airingId>004</airingId>
