@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-28T07:45:04.324Z",
+  "lastUpdated": "2021-05-28T08:35:04.043Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2914,6 +2914,22 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-05-27T08:08:22.968Z",
       "raw": "https://mega.nz/folder/DVhVXQwA#2M4SUT6VN3PvNE7oBWUo6Q"
+    },
+    {
+      "airingId": "769",
+      "content": "ERTH, a social enterprise in Malaysia is founded by Mohamed Tarek which aims to reduce the environmental hazard caused from end-of-life electronics, also known as \"E-waste.\"",
+      "description": "ERTH, a social enterprise in Malaysia is founded by Mohamed Tarek which aims to reduce the environmental hazard caused from end-of-life electronics, also known as \"E-waste.\"",
+      "endDate": "2021-05-28T07:30:00.000Z",
+      "link": "https://mega.nz/folder/KGIU1Bgb#kgEWnlE7c_gbjyKDJaNq-w",
+      "recordDateEnd": "2021-05-28T07:30:30.074Z",
+      "recordDateStart": "2021-05-28T07:14:20.014Z",
+      "seriesId": "2058",
+      "sha256": "497abf1054d7110415713c80395999ee62da0379d8cfba6d33e60a86e4dc2f50",
+      "startDate": "2021-05-28T07:15:00.000Z",
+      "subtitle": "E-waste to Treasure: Mohamed Tarek El-Fatatry / Social Entrepreneur",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-05-28T08:34:19.409Z",
+      "raw": "https://mega.nz/folder/GJJRXYZI#C_zO3Ev_61q6Y90BmH4Rxw"
     }
   ]
 }

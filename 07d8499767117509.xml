@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-28T07:45:04.309Z</lastUpdated>
+  <lastUpdated>2021-05-28T08:35:04.027Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2915,5 +2915,21 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-05-27T08:08:22.968Z</uploadedDate>
     <raw>https://mega.nz/folder/DVhVXQwA#2M4SUT6VN3PvNE7oBWUo6Q</raw>
+  </episode>
+  <episode>
+    <airingId>769</airingId>
+    <content>ERTH, a social enterprise in Malaysia is founded by Mohamed Tarek which aims to reduce the environmental hazard caused from end-of-life electronics, also known as "E-waste."</content>
+    <description>ERTH, a social enterprise in Malaysia is founded by Mohamed Tarek which aims to reduce the environmental hazard caused from end-of-life electronics, also known as "E-waste."</description>
+    <endDate>2021-05-28T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/KGIU1Bgb#kgEWnlE7c_gbjyKDJaNq-w</link>
+    <recordDateEnd>2021-05-28T07:30:30.074Z</recordDateEnd>
+    <recordDateStart>2021-05-28T07:14:20.014Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>497abf1054d7110415713c80395999ee62da0379d8cfba6d33e60a86e4dc2f50</sha256>
+    <startDate>2021-05-28T07:15:00.000Z</startDate>
+    <subtitle>E-waste to Treasure: Mohamed Tarek El-Fatatry / Social Entrepreneur</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-05-28T08:34:19.409Z</uploadedDate>
+    <raw>https://mega.nz/folder/GJJRXYZI#C_zO3Ev_61q6Y90BmH4Rxw</raw>
   </episode>
 </episodeList>
