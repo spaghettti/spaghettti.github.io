@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-05-28T16:00:05.021Z",
+  "lastUpdated": "2021-05-29T02:40:03.562Z",
   "seriesId": "3004",
   "title": "Trails to Oishii Tokyo",
   "episodes": [
@@ -34,6 +34,21 @@
       "title": "Trails to Oishii Tokyo",
       "uploadedDate": "2021-04-11T03:32:58.902Z",
       "raw": "https://mega.nz/folder/g4omjZCJ#-ak4sUnYqRNGUiF6tr0_4A"
+    },
+    {
+      "airingId": "729",
+      "content": "Hokkaido Prefecture, Japan's large northern island, is known for its rich nature and great, Oishii food. Its expansive farmlands, about a quarter of Japan's total, yield fresh produce, while its bountiful seas are home to some of Japan's best seafood, including fish, marine plants and more. And don't forget dairy: Hokkaido is Japan's largest producer! Today, we showcase the best of our Hokkaido trails so far.",
+      "description": "Hokkaido, Japan's large northern island, is known for nature and oishii food. It's home to fresh produce, bountiful seafood and delicious dairy. Today, we showcase the best of our Hokkaido trails!",
+      "endDate": "2021-05-29T01:00:00.000Z",
+      "link": "https://mega.nz/folder/60oinKDK#Cxh5YXPlNnqJc6tamBpD4Q",
+      "recordDateEnd": "2021-05-29T01:00:24.694Z",
+      "recordDateStart": "2021-05-29T00:09:20.098Z",
+      "seriesId": "3004",
+      "sha256": "cd25c23a519b1491deec43e17eac42d430b6821ca1cb470b50769268ceaeb2a4",
+      "startDate": "2021-05-29T00:10:00.000Z",
+      "subtitle": "Hokkaido Special",
+      "title": "Trails to Oishii Tokyo",
+      "uploadedDate": "2021-05-29T02:39:19.771Z"
     }
   ]
 }
