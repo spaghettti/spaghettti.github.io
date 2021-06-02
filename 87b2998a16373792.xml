@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-02T20:40:04.419Z</lastUpdated>
+  <lastUpdated>2021-06-02T23:05:04.694Z</lastUpdated>
   <seriesId>87b2998a16373792</seriesId>
   <title>Science View</title>
   <episode>
@@ -75,6 +75,25 @@ Development of a 4D CT Scanner for the Medical Field</content>
     <title>Science View</title>
     <uploadedDate>2021-05-25T16:27:48.666Z</uploadedDate>
     <raw>https://mega.nz/folder/ES5GWQAb#kWxPolf2foE5BIMc0sXONA</raw>
+  </episode>
+  <episode>
+    <airingId>211</airingId>
+    <content>All across the world, we are getting struck with extreme weather such as torrential rain and record heat. As we scramble to take action against these hard-to-predict weather, researchers in seemingly unrelated fields are gaining attention. What startling ideas came out of astrophysics and biology? We will focus on the frontline research. 
+[Science News Watch]
+AI-based Endoscopic Exams to Reduce Doctor Burden
+[J-Innovators]
+Realizing a Waste-free Society with Stone Paper</content>
+    <description>In the face of abnormal climate including torrential rain and extreme heat, we are looking to surprising fields for answers. Find out how astrophysics and biology is helping to predict the weather.</description>
+    <endDate>2021-06-01T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/mE4ADQqC#amyQcF4hh34EzzL4ZI68Ug</link>
+    <recordDateEnd>2021-06-01T15:00:29.955Z</recordDateEnd>
+    <recordDateStart>2021-06-01T14:29:20.088Z</recordDateStart>
+    <seriesId>2015</seriesId>
+    <sha256>758eb7f101603c2ae8f5628f2ced17d8626637b456427fcf4771012f76fbed00</sha256>
+    <startDate>2021-06-01T14:30:00.000Z</startDate>
+    <subtitle>Unexpected Fighters Against Extreme Weather!</subtitle>
+    <title>Science View</title>
+    <uploadedDate>2021-06-02T23:02:52.555Z</uploadedDate>
   </episode>
   <episode>
     <airingId>225</airingId>
