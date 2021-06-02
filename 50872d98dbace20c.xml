@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-02T20:00:04.677Z</lastUpdated>
+  <lastUpdated>2021-06-02T20:40:04.515Z</lastUpdated>
   <seriesId>50872d98dbace20c</seriesId>
   <title>TOKYO EYE</title>
   <episode>
@@ -291,5 +291,20 @@
     <title>TOKYO EYE 2020</title>
     <uploadedDate>2021-05-05T02:25:24.461Z</uploadedDate>
     <raw>https://mega.nz/folder/D0VXFShY#-zVAKuFt0traRaIH1dR3-Q</raw>
+  </episode>
+  <episode>
+    <airingId>206</airingId>
+    <content>With their lush greenery, Tokyo temples are an oasis of calm. That's become especially important during the pandemic. As it stretches on and impacts even more people, temples are trying new things to bring some relief to society.</content>
+    <description>With their lush greenery, Tokyo temples are an oasis of calm. That's become especially important during the pandemic. Now temples are trying new things to bring more relief to society.</description>
+    <endDate>2021-06-02T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/sGokEIpb#fd4LzB2Xg-b2v0b05EBHag</link>
+    <recordDateEnd>2021-06-02T01:00:23.997Z</recordDateEnd>
+    <recordDateStart>2021-06-02T00:29:23.054Z</recordDateStart>
+    <seriesId>2053</seriesId>
+    <sha256>2edf0115969702bcaf2b11f6ed3508c4c358bb5e86fe43656eafd64fa21da432</sha256>
+    <startDate>2021-06-02T00:30:00.000Z</startDate>
+    <subtitle>Pandemic Tokyo and the Temples of Calm</subtitle>
+    <title>TOKYO EYE 2020</title>
+    <uploadedDate>2021-06-02T20:38:52.492Z</uploadedDate>
   </episode>
 </episodeList>
