@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-02T19:55:04.711Z",
+  "lastUpdated": "2021-06-02T20:00:04.948Z",
   "seriesId": "6122",
   "title": "Dig More Japan",
   "episodes": [
@@ -210,6 +210,21 @@
       "title": "Dig More Japan",
       "uploadedDate": "2021-05-12T02:14:10.984Z",
       "raw": "https://mega.nz/folder/FPgASDBD#-OhFw3XY39KWmc7XaQ52Wg"
+    },
+    {
+      "airingId": "030",
+      "content": "Dyed textiles add a splash of color to everyday life in Japan. And the ways of making them are still evolving. Please join us, for a look at dyeing's indelible impact on the Japanese culture.",
+      "description": "Dyed textiles add a splash of color to everyday life in Japan. And the ways of making them are still evolving. Please join us, for a look at dyeing's indelible impact on the Japanese culture.",
+      "endDate": "2021-06-02T01:55:00.000Z",
+      "link": "https://mega.nz/folder/HdwClbYB#iGPo81LYPHC0FMvnwv2S8g",
+      "recordDateEnd": "2021-06-02T01:55:29.634Z",
+      "recordDateStart": "2021-06-02T01:44:23.051Z",
+      "seriesId": "6122",
+      "sha256": "c5d9da192c8822f313f99b8e4ad9ebb310b325544d9abc345b269b0012df4a87",
+      "startDate": "2021-06-02T01:45:00.000Z",
+      "subtitle": "The Art of Dyeing",
+      "title": "Dig More Japan",
+      "uploadedDate": "2021-06-02T19:57:53.738Z"
     }
   ]
 }

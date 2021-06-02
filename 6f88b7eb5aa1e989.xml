@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-02T19:55:04.710Z</lastUpdated>
+  <lastUpdated>2021-06-02T20:00:04.947Z</lastUpdated>
   <seriesId>6f88b7eb5aa1e989</seriesId>
   <title>Dig More Japan</title>
   <episode>
@@ -211,5 +211,20 @@
     <title>Dig More Japan</title>
     <uploadedDate>2021-05-12T02:14:10.984Z</uploadedDate>
     <raw>https://mega.nz/folder/FPgASDBD#-OhFw3XY39KWmc7XaQ52Wg</raw>
+  </episode>
+  <episode>
+    <airingId>030</airingId>
+    <content>Dyed textiles add a splash of color to everyday life in Japan. And the ways of making them are still evolving. Please join us, for a look at dyeing's indelible impact on the Japanese culture.</content>
+    <description>Dyed textiles add a splash of color to everyday life in Japan. And the ways of making them are still evolving. Please join us, for a look at dyeing's indelible impact on the Japanese culture.</description>
+    <endDate>2021-06-02T01:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/HdwClbYB#iGPo81LYPHC0FMvnwv2S8g</link>
+    <recordDateEnd>2021-06-02T01:55:29.634Z</recordDateEnd>
+    <recordDateStart>2021-06-02T01:44:23.051Z</recordDateStart>
+    <seriesId>6122</seriesId>
+    <sha256>c5d9da192c8822f313f99b8e4ad9ebb310b325544d9abc345b269b0012df4a87</sha256>
+    <startDate>2021-06-02T01:45:00.000Z</startDate>
+    <subtitle>The Art of Dyeing</subtitle>
+    <title>Dig More Japan</title>
+    <uploadedDate>2021-06-02T19:57:53.738Z</uploadedDate>
   </episode>
 </episodeList>
