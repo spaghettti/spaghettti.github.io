@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-05-29T02:40:03.756Z</lastUpdated>
+  <lastUpdated>2021-06-02T19:30:04.641Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -723,10 +723,10 @@
     <title>Journeys in Japan</title>
   </series>
   <series>
-    <count>13</count>
+    <count>14</count>
     <uniqueId>59ce1816235dcb05</uniqueId>
-    <lastAiring>2021-05-05T04:30:00.000Z</lastAiring>
-    <lastUpload>2021-05-05T05:56:54.623Z</lastUpload>
+    <lastAiring>2021-06-02T04:30:00.000Z</lastAiring>
+    <lastUpload>2021-06-02T19:29:26.602Z</lastUpload>
     <seriesId>2035</seriesId>
     <title>KABUKI KOOL</title>
   </series>

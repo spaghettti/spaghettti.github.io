@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-05-29T02:40:03.450Z</lastUpdated>
+  <lastUpdated>2021-06-02T19:30:04.373Z</lastUpdated>
   <seriesId>59ce1816235dcb05</seriesId>
   <title>KABUKI KOOL</title>
   <episode>
@@ -211,5 +211,20 @@
     <title>KABUKI KOOL</title>
     <uploadedDate>2021-05-05T05:56:54.623Z</uploadedDate>
     <raw>https://mega.nz/folder/SuwRxa7C#ynV4X1pvleEeYVAinAVRmA</raw>
+  </episode>
+  <episode>
+    <airingId>074</airingId>
+    <content>Actor Kataoka Ainosuke explores a kabuki dance in which 2 actors play a total of 8 different roles featuring Tokyo's famous Sanja Festival. The most famous part of the dance features the legendary fishermen who caught the Buddhist image in the temple at Asakusa in their net.</content>
+    <description>Dive into the world of Kabuki! Fascinating insights into this traditional Japanese theatre. Famous plays, ornate costumes, make-up, scenery and more!</description>
+    <endDate>2021-06-02T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/Ce5wkSJa#MpQjgOekbj_f4OnSjBbQ0A</link>
+    <recordDateEnd>2021-06-02T05:00:27.824Z</recordDateEnd>
+    <recordDateStart>2021-06-02T04:29:20.098Z</recordDateStart>
+    <seriesId>2035</seriesId>
+    <sha256>5436634d95d32f07f775b65ba97f4955120cc09d41523aca15b4ab4cf5647210</sha256>
+    <startDate>2021-06-02T04:30:00.000Z</startDate>
+    <subtitle>Spring Blossoms and the Festival in Asakusa</subtitle>
+    <title>KABUKI KOOL</title>
+    <uploadedDate>2021-06-02T19:29:26.602Z</uploadedDate>
   </episode>
 </episodeList>
