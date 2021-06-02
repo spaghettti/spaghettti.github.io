@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-06-02T19:30:04.641Z</lastUpdated>
+  <lastUpdated>2021-06-02T19:40:04.269Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1339,10 +1339,10 @@
     <title>Trails to Oishii Kyoto</title>
   </series>
   <series>
-    <count>21</count>
+    <count>22</count>
     <uniqueId>31851bb3dfae7f8a</uniqueId>
-    <lastAiring>2021-05-26T14:30:00.000Z</lastAiring>
-    <lastUpload>2021-05-26T16:07:16.601Z</lastUpload>
+    <lastAiring>2021-06-02T14:30:00.000Z</lastAiring>
+    <lastUpload>2021-06-02T19:35:15.813Z</lastUpload>
     <seriesId>2054</seriesId>
     <title>Trails to Oishii Tokyo</title>
   </series>

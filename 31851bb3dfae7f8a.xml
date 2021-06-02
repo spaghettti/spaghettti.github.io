@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-02T19:30:04.408Z</lastUpdated>
+  <lastUpdated>2021-06-02T19:40:04.001Z</lastUpdated>
   <seriesId>31851bb3dfae7f8a</seriesId>
   <title>Trails to Oishii Tokyo</title>
   <episode>
@@ -147,6 +147,22 @@
     <title>Trails to Oishii Tokyo</title>
     <uploadedDate>2021-05-26T16:07:16.601Z</uploadedDate>
     <raw>https://mega.nz/folder/jswRXSoY#T3dNQMF16yNvAOg52Z0pOA</raw>
+  </episode>
+  <episode>
+    <airingId>099</airingId>
+    <content>Over the years, Japanese cheese has evolved to win international prizes. It has a rich aftertaste and umami characteristic of all Japanese cuisine. Visit leading natural cheese factories in Hokkaido Prefecture, Japan's largest dairy producer, to discover the secrets behind enhancing quality and a process that involves burying cheese in the ground. Also, meet a young cheesemaker who strives to make his small town famous for blue cheese.</content>
+    <description>Japanese CHEESE has evolved to win international prizes. It has a rich aftertaste and umami characteristic of all Japanese cuisine. Discover cheese from Hokkaido, Japan's largest dairy producer.</description>
+    <endDate>2021-06-02T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/OU5yHILa#HfFrJfUo3F6n24ISvYNPww</link>
+    <recordDateEnd>2021-06-02T15:00:36.557Z</recordDateEnd>
+    <recordDateStart>2021-06-02T14:29:20.090Z</recordDateStart>
+    <seriesId>2054</seriesId>
+    <sha256>dcae6ef37128e9d97daf068880171e92b5fa96056901e221d0cf39ab343c8259</sha256>
+    <startDate>2021-06-02T14:30:00.000Z</startDate>
+    <subtitle>CHEESE</subtitle>
+    <title>Trails to Oishii Tokyo</title>
+    <uploadedDate>2021-06-02T19:35:15.813Z</uploadedDate>
+    <raw>https://mega.nz/folder/BaoETKqD#ZwcMyGOjhv2UfXhAnru7YQ</raw>
   </episode>
   <episode>
     <airingId>114</airingId>
