@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-06-02T23:05:05.064Z</lastUpdated>
+  <lastUpdated>2021-06-02T23:50:04.338Z</lastUpdated>
   <series>
     <count>1</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -325,8 +325,8 @@
   <series>
     <count>183</count>
     <uniqueId>07d8499767117509</uniqueId>
-    <lastAiring>2021-05-28T07:15:00.000Z</lastAiring>
-    <lastUpload>2021-05-28T08:34:19.409Z</lastUpload>
+    <lastAiring>2021-06-01T07:15:00.000Z</lastAiring>
+    <lastUpload>2021-06-02T23:45:30.136Z</lastUpload>
     <seriesId>2058</seriesId>
     <title>Direct Talk</title>
   </series>
