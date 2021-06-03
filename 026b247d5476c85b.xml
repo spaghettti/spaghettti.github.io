@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T12:00:04.458Z</lastUpdated>
+  <lastUpdated>2021-06-03T12:10:03.942Z</lastUpdated>
   <seriesId>026b247d5476c85b</seriesId>
   <title>100 Ideas to Save the World</title>
   <episode>
@@ -19,5 +19,20 @@
     <title>100 Ideas to Save the World</title>
     <uploadedDate>2021-04-29T04:18:26.762Z</uploadedDate>
     <raw>https://mega.nz/folder/tPIm2bDC#m_5dBkHVFCG6ZwThhAJ_YA</raw>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>Introducing an app for wheelchair users, a program for foreign trainees learning about business, turning adversity into opportunity in the restaurant industry, and a unique food education program.</description>
+    <endDate>2021-05-30T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/aAZhWQzb#l3CX52i2oTvT0lDiFsNsBg</link>
+    <recordDateEnd>2021-05-30T02:55:24.581Z</recordDateEnd>
+    <recordDateStart>2021-05-30T02:39:22.914Z</recordDateStart>
+    <seriesId>3020</seriesId>
+    <sha256>ee212a6fb49db03ee0d6d5cc61447a6210152d3b2c8c9234e9ce8778d9a8d373</sha256>
+    <startDate>2021-05-30T02:40:00.000Z</startDate>
+    <subtitle>Working Together</subtitle>
+    <title>100 Ideas to Save the World</title>
+    <uploadedDate>2021-06-03T12:06:28.399Z</uploadedDate>
   </episode>
 </episodeList>

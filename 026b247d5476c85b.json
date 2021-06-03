@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-03T12:00:04.458Z",
+  "lastUpdated": "2021-06-03T12:10:03.943Z",
   "seriesId": "3020",
   "title": "100 Ideas to Save the World",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "100 Ideas to Save the World",
       "uploadedDate": "2021-04-29T04:18:26.762Z",
       "raw": "https://mega.nz/folder/tPIm2bDC#m_5dBkHVFCG6ZwThhAJ_YA"
+    },
+    {
+      "airingId": "002",
+      "content": "",
+      "description": "Introducing an app for wheelchair users, a program for foreign trainees learning about business, turning adversity into opportunity in the restaurant industry, and a unique food education program.",
+      "endDate": "2021-05-30T02:55:00.000Z",
+      "link": "https://mega.nz/folder/aAZhWQzb#l3CX52i2oTvT0lDiFsNsBg",
+      "recordDateEnd": "2021-05-30T02:55:24.581Z",
+      "recordDateStart": "2021-05-30T02:39:22.914Z",
+      "seriesId": "3020",
+      "sha256": "ee212a6fb49db03ee0d6d5cc61447a6210152d3b2c8c9234e9ce8778d9a8d373",
+      "startDate": "2021-05-30T02:40:00.000Z",
+      "subtitle": "Working Together",
+      "title": "100 Ideas to Save the World",
+      "uploadedDate": "2021-06-03T12:06:28.399Z"
     }
   ]
 }
