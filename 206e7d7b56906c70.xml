@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T06:35:03.432Z</lastUpdated>
+  <lastUpdated>2021-06-03T07:00:03.830Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -147,6 +147,22 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2021-05-24T09:12:38.652Z</uploadedDate>
     <raw>https://mega.nz/folder/fVxSDJ4Z#Erb84EBvk80EQmVZK_mnFw</raw>
+  </episode>
+  <episode>
+    <airingId>057</airingId>
+    <content>When summer arrives, there is a fish that causes the hearts of fishermen to race with anticipation. It is the "Ayu," or "sweetfish" - little known outside Asia, but a key part of summer in Japan. Its scent has led people to call it "the fragrant fish," and the soft flavor of its meat holds a delicate sweetness. Japanese people have been captivated by Ayu. In the spring, the fish swims upstream from the ocean, and in the summer it stays near rocks, eating algae and growing larger. In the fall, it goes downstream to lay eggs, and its short life then comes to a close. Its birth and death both happen in the space of just four seasons. Ayu is in the hearts of the Japanese together with river memories. We travel Japan to learn more about it.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history. Today: Ayu - Treasures of the River.</description>
+    <endDate>2021-05-31T08:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/foQ1WITJ#BC5ErAEVM4hxo1LkPfKtgw</link>
+    <recordDateEnd>2021-05-31T08:00:30.807Z</recordDateEnd>
+    <recordDateStart>2021-05-31T07:29:22.618Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>2168f6dca91ceeea52f9f31733ca07da453c429203d9451bc366947f178f28e2</sha256>
+    <startDate>2021-05-31T07:30:00.000Z</startDate>
+    <subtitle>Ayu: Treasures of the River</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-06-03T06:55:34.231Z</uploadedDate>
+    <raw>https://mega.nz/folder/QLR3zSJI#3tH8gHroF18zDjNd0NXlNA</raw>
   </episode>
   <episode>
     <airingId>081</airingId>
