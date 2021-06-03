@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-06-03T19:30:04.283Z</lastUpdated>
+  <lastUpdated>2021-06-03T20:10:04.799Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -35,10 +35,10 @@
     <title>3-minute Maiko</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>08575bba6e407a35</uniqueId>
-    <lastAiring>2021-05-22T05:10:00.000Z</lastAiring>
-    <lastUpload>2021-05-22T23:55:39.727Z</lastUpload>
+    <lastAiring>2021-05-29T05:10:00.000Z</lastAiring>
+    <lastUpload>2021-06-03T20:06:31.704Z</lastUpload>
     <seriesId>2055</seriesId>
     <title>A Century on Film</title>
   </series>

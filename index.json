@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-03T19:30:04.291Z",
+  "lastUpdated": "2021-06-03T20:10:04.807Z",
   "series": [
     {
       "count": 2,
@@ -34,10 +34,10 @@
       "title": "3-minute Maiko"
     },
     {
-      "count": 2,
+      "count": 3,
       "uniqueId": "08575bba6e407a35",
-      "lastAiring": "2021-05-22T05:10:00.000Z",
-      "lastUpload": "2021-05-22T23:55:39.727Z",
+      "lastAiring": "2021-05-29T05:10:00.000Z",
+      "lastUpload": "2021-06-03T20:06:31.704Z",
       "seriesId": "2055",
       "title": "A Century on Film"
     },
