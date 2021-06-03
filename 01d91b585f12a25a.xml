@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T07:10:04.066Z</lastUpdated>
+  <lastUpdated>2021-06-03T07:55:03.743Z</lastUpdated>
   <seriesId>01d91b585f12a25a</seriesId>
   <title>The Flame Across Japan</title>
   <episode>
@@ -978,6 +978,7 @@
     <subtitle/>
     <title>The Flame Across Japan</title>
     <uploadedDate>2021-06-03T06:27:31.464Z</uploadedDate>
+    <raw>https://mega.nz/folder/VaIjQYba#7Rlu1dS3OIdPWH6yJQuzqg</raw>
   </episode>
   <episode>
     <airingId>164</airingId>
@@ -1025,5 +1026,6 @@
     <subtitle/>
     <title>The Flame Across Japan</title>
     <uploadedDate>2021-06-03T07:08:33.751Z</uploadedDate>
+    <raw>https://mega.nz/folder/NPYFiKZT#24nnpA1JcXG5x0H3FvJThg</raw>
   </episode>
 </episodeList>

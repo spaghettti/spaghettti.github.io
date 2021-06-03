@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-03T07:10:04.161Z",
+  "lastUpdated": "2021-06-03T07:55:03.835Z",
   "seriesId": "6210",
   "title": "Japan-easy",
   "episodes": [
@@ -130,6 +130,21 @@
       "title": "Japan-easy",
       "uploadedDate": "2021-05-23T19:30:59.188Z",
       "raw": "https://mega.nz/folder/ZLwAgbQL#mc-DkBeX7wECwM6dWLAclg"
+    },
+    {
+      "airingId": "010",
+      "content": "",
+      "description": "Today: Verbs like \"ikimasu (go)\" and \"kimasu (come)\" and their past tense.Explore the wonders of Japan and the Japanese language! Through basic conversations, viewers will see that \"Japanese is easy!\"",
+      "endDate": "2021-05-30T16:00:00.000Z",
+      "link": "https://mega.nz/folder/sf5VQAoQ#oMaG4UB3BSHC-lol9afXkA",
+      "recordDateEnd": "2021-05-30T16:00:26.677Z",
+      "recordDateStart": "2021-05-30T15:44:23.166Z",
+      "seriesId": "6210",
+      "sha256": "7c23817875b6749c71124475e93cc25181f692578bff83f36d4c46a88470a882",
+      "startDate": "2021-05-30T15:45:00.000Z",
+      "subtitle": "",
+      "title": "Japan-easy",
+      "uploadedDate": "2021-06-03T07:52:00.797Z"
     },
     {
       "airingId": "109",

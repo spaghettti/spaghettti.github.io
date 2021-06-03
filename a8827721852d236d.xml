@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T07:10:04.159Z</lastUpdated>
+  <lastUpdated>2021-06-03T07:55:03.834Z</lastUpdated>
   <seriesId>a8827721852d236d</seriesId>
   <title>Japan-easy</title>
   <episode>
@@ -131,6 +131,21 @@
     <title>Japan-easy</title>
     <uploadedDate>2021-05-23T19:30:59.188Z</uploadedDate>
     <raw>https://mega.nz/folder/ZLwAgbQL#mc-DkBeX7wECwM6dWLAclg</raw>
+  </episode>
+  <episode>
+    <airingId>010</airingId>
+    <content/>
+    <description>Today: Verbs like "ikimasu (go)" and "kimasu (come)" and their past tense.Explore the wonders of Japan and the Japanese language! Through basic conversations, viewers will see that "Japanese is easy!"</description>
+    <endDate>2021-05-30T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/sf5VQAoQ#oMaG4UB3BSHC-lol9afXkA</link>
+    <recordDateEnd>2021-05-30T16:00:26.677Z</recordDateEnd>
+    <recordDateStart>2021-05-30T15:44:23.166Z</recordDateStart>
+    <seriesId>6210</seriesId>
+    <sha256>7c23817875b6749c71124475e93cc25181f692578bff83f36d4c46a88470a882</sha256>
+    <startDate>2021-05-30T15:45:00.000Z</startDate>
+    <subtitle/>
+    <title>Japan-easy</title>
+    <uploadedDate>2021-06-03T07:52:00.797Z</uploadedDate>
   </episode>
   <episode>
     <airingId>109</airingId>
