@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T01:45:03.598Z</lastUpdated>
+  <lastUpdated>2021-06-03T04:20:03.938Z</lastUpdated>
   <seriesId>93f1898b227dbd5d</seriesId>
   <title>DESIGN TALKS plus</title>
   <episode>
@@ -307,5 +307,21 @@
     <title>DESIGN TALKS plus</title>
     <uploadedDate>2021-05-27T02:52:23.720Z</uploadedDate>
     <raw>https://mega.nz/folder/78AikbwZ#nHUQIM561oYluWcW1jGBag</raw>
+  </episode>
+  <episode>
+    <airingId>150</airingId>
+    <content>As interest in organized living increases, there's also been a rise in designs that focus on creating neat, clean spaces that help us live in comfort. Hiroshi Yoneya, Ken Kimizuka and Yumi Masuko of design studio TONERICO explore everything from the clean simplicity of tea rooms to cityscapes. Join us on an exploration of the philosophy of Japanese organization through spatial design.</content>
+    <description>Today's theme: Organized. Hiroshi Yoneya, Ken Kimizuka, and Yumi Masuko of design studio Tonerico explore the aesthetics of organized design, from the clean lines of tea rooms to soaring cityscapes.</description>
+    <endDate>2021-06-03T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/4pAn2KKA#xvFklgtgotHSraQWibx5QQ</link>
+    <recordDateEnd>2021-06-03T02:00:31.631Z</recordDateEnd>
+    <recordDateStart>2021-06-03T01:29:20.103Z</recordDateStart>
+    <seriesId>2046</seriesId>
+    <sha256>575daab2c94f435a2db2ee1144b6518b2f98fd7aeb442e489acf9c4a84323b42</sha256>
+    <startDate>2021-06-03T01:30:00.000Z</startDate>
+    <subtitle>Organized</subtitle>
+    <title>DESIGN TALKS plus</title>
+    <uploadedDate>2021-06-03T04:16:29.664Z</uploadedDate>
+    <raw>https://mega.nz/folder/VkoF2aYQ#VGhD_4gYNeiw7QN9Y8V2ww</raw>
   </episode>
 </episodeList>
