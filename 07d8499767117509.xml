@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T08:25:04.051Z</lastUpdated>
+  <lastUpdated>2021-06-03T08:55:03.813Z</lastUpdated>
   <seriesId>07d8499767117509</seriesId>
   <title>Direct Talk</title>
   <episode>
@@ -2931,5 +2931,20 @@
     <title>Direct Talk</title>
     <uploadedDate>2021-05-28T08:34:19.409Z</uploadedDate>
     <raw>https://mega.nz/folder/GJJRXYZI#C_zO3Ev_61q6Y90BmH4Rxw</raw>
+  </episode>
+  <episode>
+    <airingId>770</airingId>
+    <content>A young Czech innovator is drawing attention in the desktop 3D printer market with his open-source approach. What kind of future will be brought to us by the printers evolving with worldwide users?</content>
+    <description>A young Czech innovator is drawing attention in the desktop 3D printer market with his open-source approach. What kind of future will be brought to us by the printers evolving with worldwide users?</description>
+    <endDate>2021-06-03T07:30:00.000Z</endDate>
+    <link>https://mega.nz/folder/MaoVhQDC#g4IGhwpsYB8ZdYBKCkJuQg</link>
+    <recordDateEnd>2021-06-03T07:30:34.875Z</recordDateEnd>
+    <recordDateStart>2021-06-03T07:14:20.012Z</recordDateStart>
+    <seriesId>2058</seriesId>
+    <sha256>7f64d89b5a395b98a36dc2b9752d6435ddadca51d0e8eb7f9ddf4e53df66681b</sha256>
+    <startDate>2021-06-03T07:15:00.000Z</startDate>
+    <subtitle>3D Printers Evolve With an Open-Source Approach: Josef Prusa / Founder and CEO of Prusa Research</subtitle>
+    <title>Direct Talk</title>
+    <uploadedDate>2021-06-03T08:53:17.605Z</uploadedDate>
   </episode>
 </episodeList>
