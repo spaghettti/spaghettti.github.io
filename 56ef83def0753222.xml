@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T14:05:04.332Z</lastUpdated>
+  <lastUpdated>2021-06-03T15:10:03.790Z</lastUpdated>
   <seriesId>56ef83def0753222</seriesId>
   <title>NHK Documentary</title>
   <episode>
@@ -452,5 +452,20 @@ Lee Harvey Oswald, the man who killed JFK, was once a US Marine stationed in Ats
     <title>NHK Documentary</title>
     <uploadedDate>2021-05-22T19:40:05.409Z</uploadedDate>
     <raw>https://mega.nz/folder/neYnFa7S#-NrFdD9HV0L1ZBNICk55dw</raw>
+  </episode>
+  <episode>
+    <airingId>395</airingId>
+    <content>A decade on from its triple core meltdown, we take stock of the mammoth task of decommissioning the Fukushima Daiichi Nuclear Power Plant, an undertaking fraught with both technical and social challenges. The Japanese government maintains the process will take up to 40 years, but the schedule has already been revised 5 times, with pivotal elements postponed. Meanwhile, as people return to their homes in surrounding areas, the issue of how to dispose of unprecedented volumes of radioactive waste has become a sore point of contention between residents and the government. We look back on the 10 years since the nuclear disaster and explore the choices that will shape Fukushima's future.</content>
+    <description>A decade on from its triple core meltdown, we take stock of the mammoth undertaking, fraught with both technical and social challenges, of decommissioning the Fukushima Daiichi Nuclear Power Plant.</description>
+    <endDate>2021-05-29T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/UkoSxJII#jkS99CGreihpGornOIrJCg</link>
+    <recordDateEnd>2021-05-29T16:00:29.157Z</recordDateEnd>
+    <recordDateStart>2021-05-29T15:09:20.136Z</recordDateStart>
+    <seriesId>4001</seriesId>
+    <sha256>ba8e55516380872c02f96a584732b4ad68af205dd5bf7c2d2666c08cc6e564f3</sha256>
+    <startDate>2021-05-29T15:10:00.000Z</startDate>
+    <subtitle>Decommissioning Fukushima 2021: Ten Years on from the Nuclear Accident</subtitle>
+    <title>NHK Documentary</title>
+    <uploadedDate>2021-06-03T15:07:30.857Z</uploadedDate>
   </episode>
 </episodeList>
