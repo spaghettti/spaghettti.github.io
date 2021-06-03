@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T23:25:03.605Z</lastUpdated>
+  <lastUpdated>2021-06-03T23:45:04.286Z</lastUpdated>
   <seriesId>156d54897e343840</seriesId>
   <title>NHK WORLD PRIME</title>
   <episode>
@@ -388,5 +388,20 @@ The award-winning 2019 program and related reporting by NHK triggered a change i
     <title>NHK WORLD PRIME</title>
     <uploadedDate>2021-05-15T03:24:10.936Z</uploadedDate>
     <raw>https://mega.nz/folder/9WQzDQRR#PgRY-UuYcRXoD6lhBKY7Ng</raw>
+  </episode>
+  <episode>
+    <airingId>098</airingId>
+    <content>The January attack on the US Capitol shocked the world. In the crowd that day was retired teacher Jennifer Marler protesting that "Our voices are not being heard." In the midst of the pandemic, divisiveness has accelerated, rocking the foundation of democracy. What is at the root of people's discontent and anger? We interviewed a father and daughter who clash over immigration policy and the income gap, and a woman who spread QAnon conspiracy theories on the Internet. Social scientists weigh in on the question of where the world is headed.</content>
+    <description>The crisis of democracy has intensified during the pandemic. As crowds attacked the US Capitol in January, we followed a protester to learn what drove them. We explore what fuels this changing world.</description>
+    <endDate>2021-05-29T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/j5pkRZQb#p7RT3m_A68qhtVH-vZlyfw</link>
+    <recordDateEnd>2021-05-29T02:00:28.781Z</recordDateEnd>
+    <recordDateStart>2021-05-29T01:09:22.718Z</recordDateStart>
+    <seriesId>3016</seriesId>
+    <sha256>cdd07d9a177d81eb2cfe4a7b31396f0da60fc1530c8e8838d5738e164666c556</sha256>
+    <startDate>2021-05-29T01:10:00.000Z</startDate>
+    <subtitle>Social Media and the Tides of Democracy</subtitle>
+    <title>NHK WORLD PRIME</title>
+    <uploadedDate>2021-06-03T23:42:01.294Z</uploadedDate>
   </episode>
 </episodeList>
