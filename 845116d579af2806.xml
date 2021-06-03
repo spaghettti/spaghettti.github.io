@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T04:20:03.920Z</lastUpdated>
+  <lastUpdated>2021-06-03T04:25:04.239Z</lastUpdated>
   <seriesId>845116d579af2806</seriesId>
   <title>Japanology Plus</title>
   <episode>
@@ -479,5 +479,21 @@ In a Japanophiles interview, Peter Barakan meets Chad Mullane, a comedian from P
     <title>Japanology Plus</title>
     <uploadedDate>2021-05-27T04:45:42.968Z</uploadedDate>
     <raw>https://mega.nz/folder/expXjS5A#OOgo0v9jd-_gJmFIFx2QHA</raw>
+  </episode>
+  <episode>
+    <airingId>238</airingId>
+    <content>*First broadcast on June 3, 2021.
+Furoshiki are traditional Japanese wrapping cloths. For hundreds of years, these square pieces of fabric have been used to protect, store and carry various objects. They often feature beautiful, colorful designs, and are works of art in their own right. Our main guest, Yamada Etsuko, is the art director for a Furoshiki-making company. She teaches Peter Barakan some common wrapping technique, and introduces both traditional and modern designs.</content>
+    <description>Furoshiki: Wrapping Cloths. Beautiful and multifunctional. Each time, Peter Barakan visits the key locations, and meets experts with fascinating cultural insights.</description>
+    <endDate>2021-06-03T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/igA3iaJA#VUotLHzwo5ttBTXjAmQwiw</link>
+    <recordDateEnd>2021-06-03T03:00:29.023Z</recordDateEnd>
+    <recordDateStart>2021-06-03T02:29:23.181Z</recordDateStart>
+    <seriesId>2032</seriesId>
+    <sha256>f0ba4aaf56d9f8a14ba0ddc5e06849f7fcd9c9e8b19849a371f9652be99fecf4</sha256>
+    <startDate>2021-06-03T02:30:00.000Z</startDate>
+    <subtitle>Furoshiki: Wrapping Cloths</subtitle>
+    <title>Japanology Plus</title>
+    <uploadedDate>2021-06-03T04:22:04.111Z</uploadedDate>
   </episode>
 </episodeList>

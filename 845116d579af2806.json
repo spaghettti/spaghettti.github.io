@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-03T04:20:03.923Z",
+  "lastUpdated": "2021-06-03T04:25:04.243Z",
   "seriesId": "2032",
   "title": "Japanology Plus",
   "episodes": [
@@ -450,6 +450,21 @@
       "title": "Japanology Plus",
       "uploadedDate": "2021-05-27T04:45:42.968Z",
       "raw": "https://mega.nz/folder/expXjS5A#OOgo0v9jd-_gJmFIFx2QHA"
+    },
+    {
+      "airingId": "238",
+      "content": "*First broadcast on June 3, 2021.\nFuroshiki are traditional Japanese wrapping cloths. For hundreds of years, these square pieces of fabric have been used to protect, store and carry various objects. They often feature beautiful, colorful designs, and are works of art in their own right. Our main guest, Yamada Etsuko, is the art director for a Furoshiki-making company. She teaches Peter Barakan some common wrapping technique, and introduces both traditional and modern designs.",
+      "description": "Furoshiki: Wrapping Cloths. Beautiful and multifunctional. Each time, Peter Barakan visits the key locations, and meets experts with fascinating cultural insights.",
+      "endDate": "2021-06-03T03:00:00.000Z",
+      "link": "https://mega.nz/folder/igA3iaJA#VUotLHzwo5ttBTXjAmQwiw",
+      "recordDateEnd": "2021-06-03T03:00:29.023Z",
+      "recordDateStart": "2021-06-03T02:29:23.181Z",
+      "seriesId": "2032",
+      "sha256": "f0ba4aaf56d9f8a14ba0ddc5e06849f7fcd9c9e8b19849a371f9652be99fecf4",
+      "startDate": "2021-06-03T02:30:00.000Z",
+      "subtitle": "Furoshiki: Wrapping Cloths",
+      "title": "Japanology Plus",
+      "uploadedDate": "2021-06-03T04:22:04.111Z"
     }
   ]
 }
