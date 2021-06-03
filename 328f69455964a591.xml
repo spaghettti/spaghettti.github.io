@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T00:15:04.623Z</lastUpdated>
+  <lastUpdated>2021-06-03T00:35:04.129Z</lastUpdated>
   <seriesId>328f69455964a591</seriesId>
   <title>Doctor's Insight</title>
   <episode>
@@ -211,5 +211,21 @@
     <title>Doctor's Insight</title>
     <uploadedDate>2021-05-25T05:56:58.447Z</uploadedDate>
     <raw>https://mega.nz/folder/9OJ1mIqR#ww1F0hMfvLVnBECSIw5BTg</raw>
+  </episode>
+  <episode>
+    <airingId>020</airingId>
+    <content>Are you physically active? In the time of COVID-19, there are concerns over increased physical inactivity all around the world. It can lead to a greater risk of various illnesses including breast cancer. Currently, physical activity is attracting attention as a way to prevent breast cancer as well as its recurrence. How much can physical activity lower our risk? What type of exercise is recommended and how much of it should we do? We'll talk to a breast cancer expert and an exercise specialist to find out.</content>
+    <description>In the time of COVID-19, many are becoming physically inactive, leading to a greater risk of various illnesses. Find out how physical activity can reduce your risk of breast cancer and its recurrence.</description>
+    <endDate>2021-06-01T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/FPZQWDbK#0T1Bx9esf1dA_qYC-yex0A</link>
+    <recordDateEnd>2021-06-01T04:55:33.725Z</recordDateEnd>
+    <recordDateStart>2021-06-01T04:44:20.041Z</recordDateStart>
+    <seriesId>2086</seriesId>
+    <sha256>3258d31238bec9879ed42f6ef9208489efb35e08390beccd2d7d3a8278a6c206</sha256>
+    <startDate>2021-06-01T04:45:00.000Z</startDate>
+    <subtitle>Breast Cancer #2: Physical Activity and Prevention</subtitle>
+    <title>Doctor's Insight</title>
+    <uploadedDate>2021-06-03T00:32:50.712Z</uploadedDate>
+    <raw>https://mega.nz/folder/fcAw0ZhK#3koeRH9tJ76CeeDv110nTQ</raw>
   </episode>
 </episodeList>
