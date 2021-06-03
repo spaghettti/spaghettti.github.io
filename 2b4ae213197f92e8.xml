@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T15:10:03.643Z</lastUpdated>
+  <lastUpdated>2021-06-03T15:20:04.304Z</lastUpdated>
   <seriesId>2b4ae213197f92e8</seriesId>
   <title>Trails to Oishii Tokyo</title>
   <episode>
@@ -50,5 +50,20 @@
     <subtitle>Hokkaido Special</subtitle>
     <title>Trails to Oishii Tokyo</title>
     <uploadedDate>2021-05-29T02:39:19.771Z</uploadedDate>
+  </episode>
+  <episode>
+    <airingId>730</airingId>
+    <content>Take a close look at unique herbs and spices, from the world-famous wasabi to the recently popular Sansho pepper. These small ingredients have played a massive role in the development of Japanese cuisine over the centuries, not only providing a punch of flavor but even disinfectant properties and health benefits. Join our reporters on a mouth-watering journey into the world of Japan's herbs and spices.</content>
+    <description>From the world-famous wasabi to the rise of the "sansho" pepper, discover the herbs and spices essential in Japanese cuisine.</description>
+    <endDate>2021-05-30T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/9HomyJza#yfEnwkhA2c7i-T8T9hMcgw</link>
+    <recordDateEnd>2021-05-30T01:00:27.475Z</recordDateEnd>
+    <recordDateStart>2021-05-30T00:09:22.898Z</recordDateStart>
+    <seriesId>3004</seriesId>
+    <sha256>d5a0d2c8697e2d64986732717412fe76c6909d6ebcb0e30c9b12086451fd3ee7</sha256>
+    <startDate>2021-05-30T00:10:00.000Z</startDate>
+    <subtitle>HERBS AND SPICES</subtitle>
+    <title>Trails to Oishii Tokyo</title>
+    <uploadedDate>2021-06-03T15:17:04.106Z</uploadedDate>
   </episode>
 </episodeList>

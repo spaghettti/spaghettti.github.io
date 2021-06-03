@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-03T15:10:03.643Z",
+  "lastUpdated": "2021-06-03T15:20:04.305Z",
   "seriesId": "3004",
   "title": "Trails to Oishii Tokyo",
   "episodes": [
@@ -49,6 +49,21 @@
       "subtitle": "Hokkaido Special",
       "title": "Trails to Oishii Tokyo",
       "uploadedDate": "2021-05-29T02:39:19.771Z"
+    },
+    {
+      "airingId": "730",
+      "content": "Take a close look at unique herbs and spices, from the world-famous wasabi to the recently popular Sansho pepper. These small ingredients have played a massive role in the development of Japanese cuisine over the centuries, not only providing a punch of flavor but even disinfectant properties and health benefits. Join our reporters on a mouth-watering journey into the world of Japan's herbs and spices.",
+      "description": "From the world-famous wasabi to the rise of the \"sansho\" pepper, discover the herbs and spices essential in Japanese cuisine.",
+      "endDate": "2021-05-30T01:00:00.000Z",
+      "link": "https://mega.nz/folder/9HomyJza#yfEnwkhA2c7i-T8T9hMcgw",
+      "recordDateEnd": "2021-05-30T01:00:27.475Z",
+      "recordDateStart": "2021-05-30T00:09:22.898Z",
+      "seriesId": "3004",
+      "sha256": "d5a0d2c8697e2d64986732717412fe76c6909d6ebcb0e30c9b12086451fd3ee7",
+      "startDate": "2021-05-30T00:10:00.000Z",
+      "subtitle": "HERBS AND SPICES",
+      "title": "Trails to Oishii Tokyo",
+      "uploadedDate": "2021-06-03T15:17:04.106Z"
     }
   ]
 }
