@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-03T06:00:04.153Z",
+  "lastUpdated": "2021-06-03T06:15:04.249Z",
   "series": [
     {
       "count": 1,
@@ -714,10 +714,10 @@
       "title": "JAPN SPORTSCOPE \"KARATE\""
     },
     {
-      "count": 24,
+      "count": 25,
       "uniqueId": "b7a2bc9b23a9c5ee",
-      "lastAiring": "2021-05-25T00:30:00.000Z",
-      "lastUpload": "2021-05-25T01:52:53.349Z",
+      "lastAiring": "2021-06-01T00:30:00.000Z",
+      "lastUpload": "2021-06-03T06:10:56.063Z",
       "seriesId": "2007",
       "title": "Journeys in Japan"
     },

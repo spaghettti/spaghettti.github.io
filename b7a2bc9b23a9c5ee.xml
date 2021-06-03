@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T06:00:03.796Z</lastUpdated>
+  <lastUpdated>2021-06-03T06:15:03.877Z</lastUpdated>
   <seriesId>b7a2bc9b23a9c5ee</seriesId>
   <title>Journeys in Japan</title>
   <episode>
@@ -131,6 +131,22 @@
     <title>Journeys in Japan</title>
     <uploadedDate>2021-05-18T03:01:27.931Z</uploadedDate>
     <raw>https://mega.nz/folder/r5wiEJRA#H_r59tdCvCTqePsSeqiDkg</raw>
+  </episode>
+  <episode>
+    <airingId>418</airingId>
+    <content>Otoyo Town in Kochi Prefecture is located in the center of the Shikoku Mountain Range. More than 80% of its land is covered with forest. This mountain community is the only place that produces a special variety of tea, called Goishi-cha. The characteristic of this type of tea is its sweet-sour flavor, which is created through the double fermenting of the tea leaves. Goishi-cha is a traditional specialty of Otoyo, which has been passed down in the community for over 400 years. The tradition of making Goishi-cha was on the point of disappearing, but it has been preserved to the present day, thanks to the efforts of one farming family. We visit the farm where it is produced, to find out how it is produced and how the tradition was kept alive. Otoyo also lies on the Yoshino River, which is one of the 3 rivers with the wildest, strongest currents in Japan -- and also the birthplace of rafting in the country. Many visitors come from far and wide in search of whitewater thrills. On this episode of Journeys in Japan, we meet the people of Otoyo, who have kept alive their traditions over the centuries, as well as newcomers who have moved into the community, lured by the beauty of its natural environment.</content>
+    <description>Violet Pacileo introduces Otoyo (Kochi Pref.), where newcomers are re-energizing a traditional community. On this program, get to know the real Japan and discover useful travel tips.</description>
+    <endDate>2021-06-01T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/4H5A2Tgb#iah1GlKgrOzQD7-F3zRzOA</link>
+    <recordDateEnd>2021-06-01T01:00:26.381Z</recordDateEnd>
+    <recordDateStart>2021-06-01T00:29:20.134Z</recordDateStart>
+    <seriesId>2007</seriesId>
+    <sha256>572038d648a790cf8aa0107000d833729fb22ce194177a7ac5ec7062a611f658</sha256>
+    <startDate>2021-06-01T00:30:00.000Z</startDate>
+    <subtitle>Otoyo: Bringing Fresh Life to a Traditional Community</subtitle>
+    <title>Journeys in Japan</title>
+    <uploadedDate>2021-06-03T06:10:56.063Z</uploadedDate>
+    <raw>https://mega.nz/folder/MlJUwT5I#tM973zKgRQvSUID5nCN5cA</raw>
   </episode>
   <episode>
     <airingId>423</airingId>
