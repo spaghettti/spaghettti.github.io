@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T09:10:04.051Z</lastUpdated>
+  <lastUpdated>2021-06-03T10:10:04.139Z</lastUpdated>
   <seriesId>4c42bed9def1d9d4</seriesId>
   <title>Where We Call Home</title>
   <episode>
@@ -339,5 +339,21 @@
     <title>Where We Call Home</title>
     <uploadedDate>2021-05-17T01:56:25.332Z</uploadedDate>
     <raw>https://mega.nz/folder/TB5kmIoR#CO4eFOrAFXXynab2zCC2KQ</raw>
+  </episode>
+  <episode>
+    <airingId>036</airingId>
+    <content>In this episode, we head to the forested Northern Alps of Nagano Prefecture with Lama Gyalu, a Sherpa and former mountain guide from Nepal. Devoted to preserving the natural environment of his beloved region of adoption, he founded his own forestry company in 2019, combining his wisdom accumulated while a guide in his native country with the knowledge acquired over the years of study in Japan. Also in forestry, we meet French-born Éric Belœuvre, who left the city's comfort to work in the woods of Gifu Prefecture.</content>
+    <description>We meet Nepalese-native Lama Gyalu, a Sherpa and former mountain guide now running a forestry firm in Nagano, as well as another man in forestry, French-born Eric Beloeuvre in mountainous Gifu.</description>
+    <endDate>2021-05-31T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/NO4UBCID#a_uy69yWXzfMcaFz0r9w0A</link>
+    <recordDateEnd>2021-05-31T01:00:33.981Z</recordDateEnd>
+    <recordDateStart>2021-05-31T00:29:20.137Z</recordDateStart>
+    <seriesId>2087</seriesId>
+    <sha256>41bd27b401b44f42e7c07f4b628abe93b5fa8bec6b5a4c537315bd5ce55875d3</sha256>
+    <startDate>2021-05-31T00:30:00.000Z</startDate>
+    <subtitle>Living With Forest and Mountain</subtitle>
+    <title>Where We Call Home</title>
+    <uploadedDate>2021-06-03T10:09:14.347Z</uploadedDate>
+    <raw>https://mega.nz/folder/oTxVzIAS#_2cHoiSZndOQOEYZEpVITA</raw>
   </episode>
 </episodeList>
