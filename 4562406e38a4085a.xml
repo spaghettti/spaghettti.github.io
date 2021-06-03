@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T04:25:04.200Z</lastUpdated>
+  <lastUpdated>2021-06-03T05:15:04.026Z</lastUpdated>
   <seriesId>4562406e38a4085a</seriesId>
   <title>Dining with the Chef</title>
   <episode>
@@ -755,5 +755,20 @@
     <title>Dining with the Chef</title>
     <uploadedDate>2021-05-18T03:38:51.029Z</uploadedDate>
     <raw>https://mega.nz/folder/Qx5mlLbK#NblyY_Y47eVlQxJUIK6W9Q</raw>
+  </episode>
+  <episode>
+    <airingId>293</airingId>
+    <content>Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques! Featured recipes: (1) Tricolored Fish Fry (2) Aromatic Spicy Salad.</content>
+    <description>Featured recipes: (1) Tricolored Fish Fry (2) Aromatic Spicy Salad / Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques!</description>
+    <endDate>2021-06-01T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/q94XkSDB#jwUCxdSxYeYUEXfofWIMig</link>
+    <recordDateEnd>2021-06-01T02:00:32.574Z</recordDateEnd>
+    <recordDateStart>2021-06-01T01:29:20.133Z</recordDateStart>
+    <seriesId>2019</seriesId>
+    <sha256>e621cda6bdb8c66b538069c419c4460d3b032667a1b020548b13c7506fd35a0f</sha256>
+    <startDate>2021-06-01T01:30:00.000Z</startDate>
+    <subtitle>Authentic Japanese Cooking: Tricolored Fish Fry</subtitle>
+    <title>Dining with the Chef</title>
+    <uploadedDate>2021-06-03T05:13:25.113Z</uploadedDate>
   </episode>
 </episodeList>
