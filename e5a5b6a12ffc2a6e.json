@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-03T08:55:03.858Z",
+  "lastUpdated": "2021-06-03T09:10:04.042Z",
   "seriesId": "2077",
   "title": "BENTO EXPO",
   "episodes": [
@@ -226,6 +226,22 @@
       "title": "BENTO EXPO",
       "uploadedDate": "2021-05-24T03:21:14.662Z",
       "raw": "https://mega.nz/folder/RXwnxSAT#ByHzBfsqO6JjIJhdUMUGuA"
+    },
+    {
+      "airingId": "034",
+      "content": "Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!",
+      "description": "Marc's bento features sweet and savory Yaki-udon noodles. Maki makes rice croquettes filled with cheese for her Rice Korokke bento. Bento Topics features Poland's favorite dish, pierogi dumplings.",
+      "endDate": "2021-05-31T01:45:00.000Z",
+      "link": "https://mega.nz/folder/nZpnHAAI#iI1lBC9rn8Oz-9c2DUUbHg",
+      "recordDateEnd": "2021-05-31T01:45:30.564Z",
+      "recordDateStart": "2021-05-31T01:29:20.131Z",
+      "seriesId": "2077",
+      "sha256": "3ebbc1ffd0c88ff46014556839a4ce9ff06f05aea65e263535646d37bada4531",
+      "startDate": "2021-05-31T01:30:00.000Z",
+      "subtitle": "Season 6-4 Yaki-udon Bento & Rice Korokke Bento",
+      "title": "BENTO EXPO",
+      "uploadedDate": "2021-06-03T09:06:05.825Z",
+      "raw": "https://mega.nz/folder/jYxhFCIa#xmub75LznTKSpu0CPSsU6A"
     }
   ]
 }
