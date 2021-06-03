@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T00:05:03.905Z</lastUpdated>
+  <lastUpdated>2021-06-03T00:15:04.620Z</lastUpdated>
   <seriesId>f85084a2d40d190a</seriesId>
   <title>DEEPER LOOK from New York</title>
   <episode>
@@ -291,5 +291,20 @@
     <title>DEEPER LOOK from New York</title>
     <uploadedDate>2021-05-25T05:21:50.554Z</uploadedDate>
     <raw>https://mega.nz/folder/fCZnQS6T#rgu10PbFLuBPEQK2f9OiFg</raw>
+  </episode>
+  <episode>
+    <airingId>032</airingId>
+    <content>While hundreds of people have been killed in Afghanistan in May, reports claim that the U.S. troop withdrawal is accelerating months ahead of the deadline set by President Biden. Responsible for the destruction of the Bamiyan Buddhas, concerns grow over the Islamic fundamentalist group, the Taliban's return to power. If they regain control, how will they govern and treat citizens, especially women and the people who helped the U.S.? We continue our conversation with Cheryl Benard for insights.</content>
+    <description>An exprerienced anchor Del Irani has a cutting-ege dialogue. Today, Cheryl Benard, a national security expert, talks about growing concerns that Taliban takes the power and what happens then.</description>
+    <endDate>2021-06-01T04:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/RHQ0jDrK#n2q-_7BpGBu7AnHVtkLuDA</link>
+    <recordDateEnd>2021-06-01T04:45:33.106Z</recordDateEnd>
+    <recordDateStart>2021-06-01T04:29:20.192Z</recordDateStart>
+    <seriesId>2085</seriesId>
+    <sha256>715d7c1cff8c04d8644b2ba71242ad7c76c3a2978bb194ea04353b75bc0f87a0</sha256>
+    <startDate>2021-06-01T04:30:00.000Z</startDate>
+    <subtitle>What Does US Withdrawal Mean to People in Afghanistan?: Cheryl Benard / Political Analyst, President of Alliance for the Restoration of Cultural Heritage</subtitle>
+    <title>DEEPER LOOK from New York</title>
+    <uploadedDate>2021-06-03T00:11:13.660Z</uploadedDate>
   </episode>
 </episodeList>
