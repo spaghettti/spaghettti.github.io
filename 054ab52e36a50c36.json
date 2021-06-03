@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-03T07:55:03.665Z",
+  "lastUpdated": "2021-06-03T08:25:04.087Z",
   "seriesId": "2070",
   "title": "CYCLE AROUND JAPAN  Highlights",
   "episodes": [
@@ -338,6 +338,21 @@
       "title": "CYCLE AROUND JAPAN  Highlights",
       "uploadedDate": "2021-04-26T06:01:16.359Z",
       "raw": "https://mega.nz/folder/k7oAGA4B#5oggNWRbmaeYHSWtNQxOGQ"
+    },
+    {
+      "airingId": "035",
+      "content": "From Shibuya's newest skyscraper to nearby Shinjuku, where a man in a tiger mask cycles the city streets. Why did he choose such a life? After he introduces us to Shinjuku's lively back alleys, we ride west into a surprisingly natural landscape. By a tranquil river, we meet an artisan reviving a 200-year-old dyeing craft, and in a mountain forest a far-sighted woodsman explains his ecological approach. City and society change with the times, but these are people holding fast to their chosen paths in life.",
+      "description": "To explore Tokyo's unknown side, we ride from the towering central skyscrapers out to the fringes of the city where we find farmland and mountain forests, and meet some unusual characters.",
+      "endDate": "2021-05-31T05:00:00.000Z",
+      "link": "https://mega.nz/folder/Bfx3CYrA#4PBYpLoToNAk8I95JddNQg",
+      "recordDateEnd": "2021-05-31T05:00:26.560Z",
+      "recordDateStart": "2021-05-31T04:29:20.175Z",
+      "seriesId": "2070",
+      "sha256": "c0d19d13775f197e9d09306caaa42049ec0d0bdb00a9d9374063ab7f251deaf5",
+      "startDate": "2021-05-31T04:30:00.000Z",
+      "subtitle": "A Deeper Side to Tokyo",
+      "title": "CYCLE AROUND JAPAN  Highlights",
+      "uploadedDate": "2021-06-03T08:21:01.800Z"
     }
   ]
 }
