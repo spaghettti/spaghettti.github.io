@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T22:50:03.902Z</lastUpdated>
+  <lastUpdated>2021-06-03T23:25:03.630Z</lastUpdated>
   <seriesId>de77f30c8ee5dd46</seriesId>
   <title>Darwin's Amazing Animals</title>
   <episode>
@@ -83,6 +83,21 @@
     <title>Darwin's Amazing Animals</title>
     <uploadedDate>2021-04-24T04:04:01.516Z</uploadedDate>
     <raw>https://mega.nz/folder/9hIhHCIT#3DZyKr0v1gQ9K3nbARuetw</raw>
+  </episode>
+  <episode>
+    <airingId>035</airingId>
+    <content>The Berenty Reserve in Madagascar off the east coast of Africa is famous for its cutest and most popular resident, the ring-tailed lemur. These primitive primates form troops featuring an intricate social system. We followed 2 mothers who were expelled from their group and observed their shared commitment through thick and thin to their friendship and each other's young. It's a tale of perseverance, tragedy and redemption as they carve out a slice of territory between 2 hostile lemur troops.</content>
+    <description>How far would you go to protect your best friend? 2 female lemurs driven from their troop offer us lessons as they show commitment and courage in an arduous quest to establish their own territory.</description>
+    <endDate>2021-05-29T02:50:00.000Z</endDate>
+    <link>https://mega.nz/folder/3kgGiZgB#t_P2r125PbM1coC5KBMc_A</link>
+    <recordDateEnd>2021-05-29T02:50:26.319Z</recordDateEnd>
+    <recordDateStart>2021-05-29T02:24:22.963Z</recordDateStart>
+    <seriesId>4030</seriesId>
+    <sha256>db3f001738bddfe4343081e055f0db4810ef2285c50dbf6ac5c6ec7b4043b67d</sha256>
+    <startDate>2021-05-29T02:25:00.000Z</startDate>
+    <subtitle>Through Thick and Thin -- Ring-Tailed Lemur, Madagascar</subtitle>
+    <title>Darwin's Amazing Animals</title>
+    <uploadedDate>2021-06-03T23:20:14.439Z</uploadedDate>
   </episode>
   <episode>
     <airingId>047</airingId>
