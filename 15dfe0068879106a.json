@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-03T17:25:04.521Z",
+  "lastUpdated": "2021-06-03T19:30:04.256Z",
   "seriesId": "6213",
   "title": "Ani x Para World",
   "episodes": [
@@ -18,6 +18,21 @@
       "title": "Ani x Para World",
       "uploadedDate": "2021-05-22T14:02:46.641Z",
       "raw": "https://mega.nz/folder/Eg5nWSCT#qLEsGp-qUJm_4y0mVThQSw"
+    },
+    {
+      "airingId": "002",
+      "content": "",
+      "description": "For our second episode in this series celebrating para-sports through anime, we'll take a closer look at Para athletics, and meet one of Japan's top runners as she prepares for the Paralympics.",
+      "endDate": "2021-05-29T05:55:00.000Z",
+      "link": "https://mega.nz/folder/HWR3SC5D#LowGf8nImcmydapCPr8-Nw",
+      "recordDateEnd": "2021-05-29T05:55:26.374Z",
+      "recordDateStart": "2021-05-29T05:39:20.066Z",
+      "seriesId": "6213",
+      "sha256": "c303612b07127b96d2b836807a8ed68839c7573b61440b17442c34e752c918da",
+      "startDate": "2021-05-29T05:40:00.000Z",
+      "subtitle": "Episode 2: Para Athletics",
+      "title": "Ani x Para World",
+      "uploadedDate": "2021-06-03T19:29:25.912Z"
     }
   ]
 }

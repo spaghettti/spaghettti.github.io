@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T17:25:04.520Z</lastUpdated>
+  <lastUpdated>2021-06-03T19:30:04.256Z</lastUpdated>
   <seriesId>15dfe0068879106a</seriesId>
   <title>Ani x Para World</title>
   <episode>
@@ -19,5 +19,20 @@
     <title>Ani x Para World</title>
     <uploadedDate>2021-05-22T14:02:46.641Z</uploadedDate>
     <raw>https://mega.nz/folder/Eg5nWSCT#qLEsGp-qUJm_4y0mVThQSw</raw>
+  </episode>
+  <episode>
+    <airingId>002</airingId>
+    <content/>
+    <description>For our second episode in this series celebrating para-sports through anime, we'll take a closer look at Para athletics, and meet one of Japan's top runners as she prepares for the Paralympics.</description>
+    <endDate>2021-05-29T05:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/HWR3SC5D#LowGf8nImcmydapCPr8-Nw</link>
+    <recordDateEnd>2021-05-29T05:55:26.374Z</recordDateEnd>
+    <recordDateStart>2021-05-29T05:39:20.066Z</recordDateStart>
+    <seriesId>6213</seriesId>
+    <sha256>c303612b07127b96d2b836807a8ed68839c7573b61440b17442c34e752c918da</sha256>
+    <startDate>2021-05-29T05:40:00.000Z</startDate>
+    <subtitle>Episode 2: Para Athletics</subtitle>
+    <title>Ani x Para World</title>
+    <uploadedDate>2021-06-03T19:29:25.912Z</uploadedDate>
   </episode>
 </episodeList>
