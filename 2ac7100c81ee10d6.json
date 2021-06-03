@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-03T05:15:04.221Z",
+  "lastUpdated": "2021-06-03T06:00:04.025Z",
   "seriesId": "4023",
   "title": "Lunch ON!",
   "episodes": [
@@ -338,6 +338,22 @@
       "title": "Lunch ON!",
       "uploadedDate": "2021-05-27T05:28:52.102Z",
       "raw": "https://mega.nz/folder/6A4FEQ4Q#VLZ7V6UyZ2x2f_MaXwJ7Xg"
+    },
+    {
+      "airingId": "166",
+      "content": "Tsurumi, Osaka Prefecture, in western Japan is home to one of the country's biggest soap factories. Since the factory's establishment 112 years ago, they have made soap bars in gigantic vats through the same process. The old-fashioned method requires the professionals in charge to fully put their 5 senses to use to detect the slightest things that even high-tech machines cannot. And when it comes time for lunch, we join the professional soap makers at the company cafeteria to check out what they eat!",
+      "description": "Tsurumi, Osaka, in western Japan is home to one of the country's biggest soap factories. Since the factory's establishment, they have made soap bars in gigantic vats through the same process.",
+      "endDate": "2021-06-03T04:55:00.000Z",
+      "link": "https://mega.nz/folder/S4gjRIAY#awDJlOcfyS8CKygB_KcCHg",
+      "recordDateEnd": "2021-06-03T04:55:28.390Z",
+      "recordDateStart": "2021-06-03T04:29:20.102Z",
+      "seriesId": "4023",
+      "sha256": "adad6ff8075a2445430d458fc20e12bdae67cb39a27e56ad9e3a9affc04f628b",
+      "startDate": "2021-06-03T04:30:00.000Z",
+      "subtitle": "Lunchtime at the Soap Factory",
+      "title": "Lunch ON!",
+      "uploadedDate": "2021-06-03T05:59:04.558Z",
+      "raw": "https://mega.nz/folder/NHx1CSBS#Z1TtpLs0OQ9wlReuPUgsog"
     }
   ]
 }
