@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T12:10:03.804Z</lastUpdated>
+  <lastUpdated>2021-06-03T13:15:04.538Z</lastUpdated>
   <seriesId>c2cfe904ce7ecfa5</seriesId>
   <title>Face To Face</title>
   <episode>
@@ -179,5 +179,20 @@
     <title>Face To Face</title>
     <uploadedDate>2021-04-25T09:19:41.163Z</uploadedDate>
     <raw>https://mega.nz/folder/JuB0zR4a#rhFDhHGajvLh0rwMnI7fBg</raw>
+  </episode>
+  <episode>
+    <airingId>067</airingId>
+    <content>Gomi's picture books are free of both moral stories and definite conclusions. He is content to leave the interpretation up to his readers. Rather than presenting a clear plot or conclusion, he wants his works to stir emotions. Therefore, he does not believe in educating children through picture books. He believes that the responsibility of adults is to watch over children, not nurture them. We will take a closer look at the philosophy of this unconventional, free-spirited picture book author.</content>
+    <description>Picture book author Gomi Taro (75) has produced over 400 works which have been published in over 30 countries. Why do his books have such universal appeal? He shares with us his philosophy on art.</description>
+    <endDate>2021-05-30T02:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/GN4xza5T#kUcqqA-DCAogf5P_x-wTUQ</link>
+    <recordDateEnd>2021-05-30T02:40:29.365Z</recordDateEnd>
+    <recordDateStart>2021-05-30T02:09:20.132Z</recordDateStart>
+    <seriesId>2043</seriesId>
+    <sha256>971b078d82be0b8eb2a875440763fb0c4c834ed46d3fbd1d5c1cfaf4b5894129</sha256>
+    <startDate>2021-05-30T02:10:00.000Z</startDate>
+    <subtitle>Picture Books Need No Conclusion</subtitle>
+    <title>Face To Face</title>
+    <uploadedDate>2021-06-03T13:14:10.483Z</uploadedDate>
   </episode>
 </episodeList>
