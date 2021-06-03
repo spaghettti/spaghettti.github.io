@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-03T20:10:04.671Z",
+  "lastUpdated": "2021-06-03T20:45:04.474Z",
   "seriesId": "4008",
   "title": "COOL JAPAN",
   "episodes": [
@@ -306,6 +306,21 @@
       "title": "COOL JAPAN",
       "uploadedDate": "2021-05-08T06:46:31.413Z",
       "raw": "https://mega.nz/folder/XwJDXAIC#S0GnvEGfxl80kN2ibMIP5w"
+    },
+    {
+      "airingId": "253",
+      "content": "Otaku, a term originating in Japan, has evolved a surprising amount in the past ten-plus years. Otaku, who love anime, games and manga in the limelight, used to just be seen as strange people. That has now turned into a nation-wide otaku era. 60% of university students identify as an otaku and 80% of high school girls have a positive impression of otaku. Otaku is now an internationally recognized word. What has changed in the past ten-plus years? We investigate the latest occurrences in the world of otaku.",
+      "description": "\"Otaku,\" once a ridiculing term, is now used more affirmatively for avid pursuers of hobbies, even going global. The panelists examine some otaku activities and discuss why the perception has changed.",
+      "endDate": "2021-05-29T04:55:00.000Z",
+      "link": "https://mega.nz/folder/etgGgY4Q#4ASKHlqpEVzbKki-VdDHSw",
+      "recordDateEnd": "2021-05-29T04:55:21.224Z",
+      "recordDateStart": "2021-05-29T04:09:20.168Z",
+      "seriesId": "4008",
+      "sha256": "14e953be2c3e8abf589d1f576df46f59acbbd84e1bb43eab815d59005dc4f57c",
+      "startDate": "2021-05-29T04:10:00.000Z",
+      "subtitle": "Otaku Culture",
+      "title": "COOL JAPAN",
+      "uploadedDate": "2021-06-03T20:42:00.711Z"
     }
   ]
 }
