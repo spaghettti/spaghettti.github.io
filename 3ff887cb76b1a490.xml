@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T15:20:04.214Z</lastUpdated>
+  <lastUpdated>2021-06-03T16:20:03.680Z</lastUpdated>
   <seriesId>3ff887cb76b1a490</seriesId>
   <title>Japan Railway Journal</title>
   <episode>
@@ -19,6 +19,22 @@
     <title>Japan Railway Journal</title>
     <uploadedDate>2021-05-27T15:54:11.286Z</uploadedDate>
     <raw>https://mega.nz/folder/NeATjQjJ#do_eRgRTRzF-uEKFukhs7Q</raw>
+  </episode>
+  <episode>
+    <airingId>067</airingId>
+    <content>Tokyo Metro operates 9 subway lines with a network stretching a total of 195km. Connecting to a number of main stations in Tokyo on both private and JR lines, Tokyo Metro carries 7.4 million passengers and makes 5,700 trips per day. To handle the demands of such a high-density line, operating schedules are broken down into 5-second increments. We go behind the scenes to find out how the drivers are trained to operate such a precise schedule. Also, see how Japan's very first subway line is being transformed using the latest technology.</content>
+    <description>See the latest technologies and initiatives behind Tokyo Metro, and discover how this high-density subway network manages to operate such a safe and accurate service.</description>
+    <endDate>2021-06-03T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/ixZwGRab#KgJNzb2otPkg044kCKj_Hw</link>
+    <recordDateEnd>2021-06-03T15:00:32.154Z</recordDateEnd>
+    <recordDateStart>2021-06-03T14:29:20.004Z</recordDateStart>
+    <seriesId>2049</seriesId>
+    <sha256>61f38d8e47bb8448d0e2013183672162893d4bb6d52bb89303409fe5a43d1126</sha256>
+    <startDate>2021-06-03T14:30:00.000Z</startDate>
+    <subtitle>Tokyo Metro: A Subway Network On Time &amp; On Track</subtitle>
+    <title>Japan Railway Journal</title>
+    <uploadedDate>2021-06-03T16:17:44.704Z</uploadedDate>
+    <raw>https://mega.nz/folder/J8B2EBYQ#-VYXA3oOhcW9eKd0t6EJGg</raw>
   </episode>
   <episode>
     <airingId>074</airingId>
