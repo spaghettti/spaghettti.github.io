@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-03T10:10:04.192Z",
+  "lastUpdated": "2021-06-03T11:40:03.889Z",
   "seriesId": "4017",
   "title": "Somewhere Street",
   "episodes": [
@@ -210,6 +210,21 @@
       "title": "Somewhere Street",
       "uploadedDate": "2021-05-23T17:18:33.773Z",
       "raw": "https://mega.nz/folder/YGRniAQK#JQcdopMGG8WUCAj-8RcfNw"
+    },
+    {
+      "airingId": "066",
+      "content": "Dunhuang in the northwest region of China, flourished as a major stop along the Silk Road for more than 2,000 years. It served as a place of communication between ancient China and the rest of the world. In this episode, we stroll around the city in an oasis in the desert.",
+      "description": "Dunhuang in the northwest region of China, flourished as a major stop along the Silk Road for more than 2,000 years. In this episode, we stroll around the city in an oasis in the desert.",
+      "endDate": "2021-05-30T05:00:00.000Z",
+      "link": "https://mega.nz/folder/fARkHZZY#OWQnD-AH1mIjkMyclRMHYw",
+      "recordDateEnd": "2021-05-30T05:00:26.287Z",
+      "recordDateStart": "2021-05-30T04:09:20.143Z",
+      "seriesId": "4017",
+      "sha256": "38b02715865f1554c56948b09d669bf6fda0b00bdab704f8ad6557b320b9510a",
+      "startDate": "2021-05-30T04:10:00.000Z",
+      "subtitle": "Dunhuang, China",
+      "title": "Somewhere Street",
+      "uploadedDate": "2021-06-03T11:36:22.701Z"
     },
     {
       "airingId": "082",
