@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T20:45:04.518Z</lastUpdated>
+  <lastUpdated>2021-06-03T21:00:04.533Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -163,6 +163,22 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-05-22T13:51:51.017Z</uploadedDate>
     <raw>https://mega.nz/folder/1SpGXLTB#lgo2Puq41xSPe1nqkI9PZA</raw>
+  </episode>
+  <episode>
+    <airingId>011</airingId>
+    <content/>
+    <description>#11 Do you have any lucky charms? / If you want to ask if a shop has a certain item, say the item's name and "wa arimasu ka."</description>
+    <endDate>2021-05-29T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/FSJ12A6C#iJDuDsuI9CsHkl6Y-XSfpA</link>
+    <recordDateEnd>2021-05-29T05:00:26.270Z</recordDateEnd>
+    <recordDateStart>2021-05-29T04:54:22.754Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>f3726ca3da9e81b28f00c00d99bc5e11b99b70b0ea2a2e1d3f8421b006b8e502</sha256>
+    <startDate>2021-05-29T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-06-03T20:57:22.412Z</uploadedDate>
+    <raw>https://mega.nz/folder/BGJlUIRB#XOtrT5eKmSKq6CZtJT5ZKA</raw>
   </episode>
   <episode>
     <airingId>014</airingId>
