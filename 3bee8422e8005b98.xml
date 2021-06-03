@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-03T16:20:03.844Z</lastUpdated>
+  <lastUpdated>2021-06-03T17:25:04.460Z</lastUpdated>
   <seriesId>3bee8422e8005b98</seriesId>
   <title>PythagoraSwitch mini</title>
   <episode>
@@ -435,5 +435,20 @@
     <title>PythagoraSwitch mini</title>
     <uploadedDate>2021-05-22T14:54:31.189Z</uploadedDate>
     <raw>https://mega.nz/folder/PDR01LwK#jDN-KmWNI3K7iF8V-w4Smg</raw>
+  </episode>
+  <episode>
+    <airingId>044</airingId>
+    <content/>
+    <description>There are hidden rules and unique ways of thinking, we can discover in our daily lives. With anime, songs, exercises, and Pythagora tools, get ready for fun! This time "Tape Measure Jackie"...</description>
+    <endDate>2021-05-29T06:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/nLoVHIwR#Oh9XS9hfOzTLQfPGuyLvwg</link>
+    <recordDateEnd>2021-05-29T06:00:29.784Z</recordDateEnd>
+    <recordDateStart>2021-05-29T05:54:20.028Z</recordDateStart>
+    <seriesId>6021</seriesId>
+    <sha256>a38c19207c8433c0e6e18fde04f98181583ebee5f52cba5bc82b6a86e262cf3a</sha256>
+    <startDate>2021-05-29T05:55:00.000Z</startDate>
+    <subtitle/>
+    <title>PythagoraSwitch mini</title>
+    <uploadedDate>2021-06-03T17:22:20.991Z</uploadedDate>
   </episode>
 </episodeList>
