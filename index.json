@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-04T02:40:04.147Z",
+  "lastUpdated": "2021-06-04T03:25:04.389Z",
   "series": [
     {
       "count": 2,
@@ -1424,6 +1424,14 @@
       "lastUpload": "2021-01-01T06:39:49.629Z",
       "seriesId": "6014",
       "title": "Your Japanese Kitchen mini"
+    },
+    {
+      "count": 1,
+      "uniqueId": "e9feddf5d1433163",
+      "lastAiring": "2021-06-04T01:45:00.000Z",
+      "lastUpload": "2021-06-04T03:24:51.525Z",
+      "seriesId": "2093",
+      "title": "Zero Waste Life"
     },
     {
       "count": 4,
