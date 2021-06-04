@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-06-04T08:30:04.744Z</lastUpdated>
+  <lastUpdated>2021-06-04T10:05:04.413Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -595,10 +595,10 @@
     <title>Inspiring Landscapes</title>
   </series>
   <series>
-    <count>15</count>
+    <count>16</count>
     <uniqueId>4b75bcecb7568a5f</uniqueId>
-    <lastAiring>2021-05-28T04:30:00.000Z</lastAiring>
-    <lastUpload>2021-05-28T05:48:43.550Z</lastUpload>
+    <lastAiring>2021-06-04T08:30:00.000Z</lastAiring>
+    <lastUpload>2021-06-04T10:02:44.977Z</lastUpload>
     <seriesId>2073</seriesId>
     <title>J-Arena</title>
   </series>

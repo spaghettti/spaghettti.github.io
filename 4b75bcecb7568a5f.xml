@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-04T08:30:04.541Z</lastUpdated>
+  <lastUpdated>2021-06-04T10:05:04.198Z</lastUpdated>
   <seriesId>4b75bcecb7568a5f</seriesId>
   <title>J-Arena</title>
   <episode>
@@ -243,5 +243,21 @@
     <title>J-Arena</title>
     <uploadedDate>2021-05-28T05:48:43.550Z</uploadedDate>
     <raw>https://mega.nz/folder/SeoFUaKR#IQMid-DgEaU7UXGADKug-A</raw>
+  </episode>
+  <episode>
+    <airingId>088</airingId>
+    <content>We feature 2 remarkable para badminton stars, both of them wheelchair players. Nagashima Osamu is not only a multiple medalist in international competition, he's also an acclaimed sanitation-tech researcher, equally devoted to his work as his sport. Satomi Sarina, a flexible player with great reach and skillful chair-work, made waves when she became World Champion just 2 years into her career. She's also been playing an active role in helping her hometown recover in the aftermath of a typhoon that hit in 2019. The 2 pioneering players share what they love about their sport.</content>
+    <description>We feature two remarkable para badminton stars: multiple medalist and acclaimed sanitation-tech researcher Nagashima Osamu, and Satomi Sarina, who made World Champion just two years into the sport.</description>
+    <endDate>2021-06-04T09:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/9tpHUKxA#Bqaq3Dm8aEtfSyQadFR14A</link>
+    <recordDateEnd>2021-06-04T09:00:29.640Z</recordDateEnd>
+    <recordDateStart>2021-06-04T08:29:20.090Z</recordDateStart>
+    <seriesId>2073</seriesId>
+    <sha256>0d781456a7428828ade98d24898eb3585502974fed4756e30244cd00d139616c</sha256>
+    <startDate>2021-06-04T08:30:00.000Z</startDate>
+    <subtitle>Para Badminton</subtitle>
+    <title>J-Arena</title>
+    <uploadedDate>2021-06-04T10:02:44.977Z</uploadedDate>
+    <raw>https://mega.nz/folder/Ohw3FQjJ#lFAKwg9XuMOaPw4xC2od9w</raw>
   </episode>
 </episodeList>
