@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-04T10:05:04.263Z</lastUpdated>
+  <lastUpdated>2021-06-04T16:15:04.007Z</lastUpdated>
   <seriesId>a5fed3c217d7b7f6</seriesId>
   <title>Today's Close-Up</title>
   <episode>
@@ -372,5 +372,25 @@ Nakamoto Risa (Nurse/Illustrator)
     <title>Today's Close-Up</title>
     <uploadedDate>2021-05-28T15:59:20.420Z</uploadedDate>
     <raw>https://mega.nz/folder/FSpGSZqb#3wAfYAbyMNHVG3d6VOFyzA</raw>
+  </episode>
+  <episode>
+    <airingId>828</airingId>
+    <content>Today we bring together Dr. Katalin Kariko, the Hungarian biochemist whose research paved the way for mRNA vaccines, and Professor Yamanaka Shinya, the Japanese Nobel Prize winner whose breakthrough on iPS cells indirectly helped to shine the spotlight on Dr. Kariko's work. The two discuss whether mRNA vaccines could be the game changer that brings an end to the coronavirus pandemic, and look at how the vaccines might cope with new strains of the virus.
+Guests: 
+Dr. Katalin Kariko
+Prof. Yamanaka Shinya (Director, Center for iPS Cell Research and
+Application, Kyoto University)
+*Today's Close-Up will continue to report on COVID-19.</content>
+    <description>Hungarian scientist Katalin Kariko, who developed the mRNA technology used in some COVID-19 vaccines, talks with Nobel laureate Shinya Yamanaka about the battle against the coronavirus.</description>
+    <endDate>2021-06-04T15:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/sKgTiSIA#hxNVNGcheyTielSdtBhDBA</link>
+    <recordDateEnd>2021-06-04T15:00:29.614Z</recordDateEnd>
+    <recordDateStart>2021-06-04T14:29:20.100Z</recordDateStart>
+    <seriesId>4002</seriesId>
+    <sha256>0818732d1bdb1beee933d93922e284ba8cf04fa0365406936999d14f240fbaf0</sha256>
+    <startDate>2021-06-04T14:30:00.000Z</startDate>
+    <subtitle>Kariko and Yamanaka: Pioneering Scientists Discuss Covid Vaccines</subtitle>
+    <title>Today's Close-Up</title>
+    <uploadedDate>2021-06-04T16:13:13.268Z</uploadedDate>
   </episode>
 </episodeList>

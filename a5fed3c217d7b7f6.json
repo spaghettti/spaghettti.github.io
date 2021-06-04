@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-04T10:05:04.264Z",
+  "lastUpdated": "2021-06-04T16:15:04.009Z",
   "seriesId": "4002",
   "title": "Today's Close-Up",
   "episodes": [
@@ -322,6 +322,21 @@
       "title": "Today's Close-Up",
       "uploadedDate": "2021-05-28T15:59:20.420Z",
       "raw": "https://mega.nz/folder/FSpGSZqb#3wAfYAbyMNHVG3d6VOFyzA"
+    },
+    {
+      "airingId": "828",
+      "content": "Today we bring together Dr. Katalin Kariko, the Hungarian biochemist whose research paved the way for mRNA vaccines, and Professor Yamanaka Shinya, the Japanese Nobel Prize winner whose breakthrough on iPS cells indirectly helped to shine the spotlight on Dr. Kariko's work. The two discuss whether mRNA vaccines could be the game changer that brings an end to the coronavirus pandemic, and look at how the vaccines might cope with new strains of the virus.\nGuests: \nDr. Katalin Kariko\nProf. Yamanaka Shinya (Director, Center for iPS Cell Research and\nApplication, Kyoto University)\n*Today's Close-Up will continue to report on COVID-19.",
+      "description": "Hungarian scientist Katalin Kariko, who developed the mRNA technology used in some COVID-19 vaccines, talks with Nobel laureate Shinya Yamanaka about the battle against the coronavirus.",
+      "endDate": "2021-06-04T15:00:00.000Z",
+      "link": "https://mega.nz/folder/sKgTiSIA#hxNVNGcheyTielSdtBhDBA",
+      "recordDateEnd": "2021-06-04T15:00:29.614Z",
+      "recordDateStart": "2021-06-04T14:29:20.100Z",
+      "seriesId": "4002",
+      "sha256": "0818732d1bdb1beee933d93922e284ba8cf04fa0365406936999d14f240fbaf0",
+      "startDate": "2021-06-04T14:30:00.000Z",
+      "subtitle": "Kariko and Yamanaka: Pioneering Scientists Discuss Covid Vaccines",
+      "title": "Today's Close-Up",
+      "uploadedDate": "2021-06-04T16:13:13.268Z"
     }
   ]
 }
