@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-04T16:15:03.915Z</lastUpdated>
+  <lastUpdated>2021-06-05T04:20:04.448Z</lastUpdated>
   <seriesId>80afb7aa5174d5ac</seriesId>
   <title>Train Cruise</title>
   <episode>
@@ -83,5 +83,20 @@
     <title>Train Cruise</title>
     <uploadedDate>2021-05-01T04:08:39.118Z</uploadedDate>
     <raw>https://mega.nz/folder/sexgCaYA#eVWiWMI6nv6qLMXaiwXqwA</raw>
+  </episode>
+  <episode>
+    <airingId>024</airingId>
+    <content>We travel the Aizu Railway and JR Tadami Line through mountains in the Aizu region of Fukushima Pref. in Japan's northeast. Cruise with us from Aizu-Tajima Station, through an area known to receive a meter of snow in a single day during the winter. In spring, flowers bloom as the snow melts, and emerald green valleys come to life. Aizu is famous for its ultramarine pottery, and traditional red craftwork believed to repel evil. Enjoy the samurai history and scenery of Aizu in the early spring.</content>
+    <description>Travel the Aizu Railway and JR Tadami Line through Aizu in Fukushima Pref. The valleys spring to life after a snowy winter. The region is famous for traditional red craftwork and ultramarine pottery.</description>
+    <endDate>2021-06-05T02:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/Q052iYIb#FZHnzZaoAfLN-uMcW6mh3Q</link>
+    <recordDateEnd>2021-06-05T02:55:27.254Z</recordDateEnd>
+    <recordDateStart>2021-06-05T02:09:20.102Z</recordDateStart>
+    <seriesId>2068</seriesId>
+    <sha256>527040bd42887f8d36f652fcb132a20e5746fccbe544a6d5b01137176bb85aa4</sha256>
+    <startDate>2021-06-05T02:10:00.000Z</startDate>
+    <subtitle>Spring Transforms Fukushima's Samurai Country</subtitle>
+    <title>Train Cruise</title>
+    <uploadedDate>2021-06-05T04:19:38.203Z</uploadedDate>
   </episode>
 </episodeList>
