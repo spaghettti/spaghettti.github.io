@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-05T05:20:03.621Z",
+  "lastUpdated": "2021-06-05T06:35:03.911Z",
   "seriesId": "4031",
   "title": "GATTEN!",
   "episodes": [
@@ -66,6 +66,21 @@
       "title": "GATTEN!",
       "uploadedDate": "2021-04-03T15:06:14.967Z",
       "raw": "https://mega.nz/folder/PZZXzCrB#V4gMYtXKwxUw2YHpoFSAgA"
+    },
+    {
+      "airingId": "008",
+      "content": "Our topic for this episode is ironing. For plenty of people, it's an annoying chore. Sometimes you'll even iron a shirt, and the wrinkles pop right up again. But watch the experts, and you'll notice they all have the same secret to great ironing: they use their iron's \"steam on/off\" function. Keep this in mind, and you can do much more than keep your shirts crisp. You can make old sweaters look like new. You can keep your winter coat looking sharp. Are you ready to become an ironing master?",
+      "description": "Maybe you think ironing is an annoying chore. Maybe you can never get all the wrinkles out of your shirts... But we'll teach you the one simple trick to becoming a master of ironing!",
+      "endDate": "2021-06-05T04:55:00.000Z",
+      "link": "https://mega.nz/folder/Qxw0BKyS#EbJJTGp05c2ddSiHImcpVg",
+      "recordDateEnd": "2021-06-05T04:55:22.082Z",
+      "recordDateStart": "2021-06-05T04:09:20.101Z",
+      "seriesId": "4031",
+      "sha256": "63697046262918cdf6333b18492e37ee08499d80077931c78933228dc966f425",
+      "startDate": "2021-06-05T04:10:00.000Z",
+      "subtitle": "Iron Like the Pros",
+      "title": "GATTEN!",
+      "uploadedDate": "2021-06-05T06:30:47.788Z"
     }
   ]
 }
