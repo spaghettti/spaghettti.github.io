@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-09T21:40:04.305Z</lastUpdated>
+  <lastUpdated>2021-06-09T22:30:04.519Z</lastUpdated>
   <seriesId>b60ca341c528e0e4</seriesId>
   <title>Easy Japanese</title>
   <episode>
@@ -179,6 +179,21 @@
     <title>Easy Japanese</title>
     <uploadedDate>2021-06-03T20:57:22.412Z</uploadedDate>
     <raw>https://mega.nz/folder/BGJlUIRB#XOtrT5eKmSKq6CZtJT5ZKA</raw>
+  </episode>
+  <episode>
+    <airingId>012</airingId>
+    <content/>
+    <description>#12 This is a cute amulet, isn't it? / To express your impression of something, use any adjective that ends with "i," like "kawaii," followed by the name of the object, and "desu ne."</description>
+    <endDate>2021-06-05T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/RAxlmC7C#Nx3PCwzZzvTFjPLdaNX1lw</link>
+    <recordDateEnd>2021-06-05T05:00:31.269Z</recordDateEnd>
+    <recordDateStart>2021-06-05T04:54:20.003Z</recordDateStart>
+    <seriesId>6022</seriesId>
+    <sha256>4b66983f31758a0abfedf2c7e39aba88fc25a8ee994e83fcf5167d86bce3b1d7</sha256>
+    <startDate>2021-06-05T04:55:00.000Z</startDate>
+    <subtitle/>
+    <title>Easy Japanese</title>
+    <uploadedDate>2021-06-09T22:28:49.419Z</uploadedDate>
   </episode>
   <episode>
     <airingId>014</airingId>

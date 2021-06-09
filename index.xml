@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-06-09T21:40:04.394Z</lastUpdated>
+  <lastUpdated>2021-06-09T22:30:04.605Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -371,10 +371,10 @@
     <title>Dranspotters #5 Nishikigoi</title>
   </series>
   <series>
-    <count>30</count>
+    <count>31</count>
     <uniqueId>b60ca341c528e0e4</uniqueId>
-    <lastAiring>2021-05-29T04:55:00.000Z</lastAiring>
-    <lastUpload>2021-06-03T20:57:22.412Z</lastUpload>
+    <lastAiring>2021-06-05T04:55:00.000Z</lastAiring>
+    <lastUpload>2021-06-09T22:28:49.419Z</lastUpload>
     <seriesId>6022</seriesId>
     <title>Easy Japanese</title>
   </series>
