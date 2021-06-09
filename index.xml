@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-06-09T22:40:04.516Z</lastUpdated>
+  <lastUpdated>2021-06-09T22:50:04.372Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -339,10 +339,10 @@
     <title>Doctor's Insight</title>
   </series>
   <series>
-    <count>28</count>
+    <count>29</count>
     <uniqueId>3181d5ae26726a28</uniqueId>
-    <lastAiring>2021-06-01T02:30:00.000Z</lastAiring>
-    <lastUpload>2021-06-03T01:42:25.360Z</lastUpload>
+    <lastAiring>2021-06-08T02:30:00.000Z</lastAiring>
+    <lastUpload>2021-06-09T22:46:03.891Z</lastUpload>
     <seriesId>4026</seriesId>
     <title>Document 72 Hours</title>
   </series>
@@ -675,10 +675,10 @@
     <title>Japan's Top Inventions</title>
   </series>
   <series>
-    <count>25</count>
+    <count>26</count>
     <uniqueId>a8827721852d236d</uniqueId>
-    <lastAiring>2021-05-30T15:45:00.000Z</lastAiring>
-    <lastUpload>2021-06-03T07:52:00.797Z</lastUpload>
+    <lastAiring>2021-06-06T15:45:00.000Z</lastAiring>
+    <lastUpload>2021-06-09T22:47:52.545Z</lastUpload>
     <seriesId>6210</seriesId>
     <title>Japan-easy</title>
   </series>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-09T22:40:04.394Z</lastUpdated>
+  <lastUpdated>2021-06-09T22:50:04.252Z</lastUpdated>
   <seriesId>3181d5ae26726a28</seriesId>
   <title>Document 72 Hours</title>
   <episode>
@@ -131,6 +131,21 @@
     <title>Document 72 Hours</title>
     <uploadedDate>2020-12-25T19:33:08.913Z</uploadedDate>
     <raw>https://mega.nz/folder/YxVBWAZK#T6PwOYHlgy4nbpneEuY3EA</raw>
+  </episode>
+  <episode>
+    <airingId>120</airingId>
+    <content>Amid the ongoing health boom, many people have been tempted to try "short-term fasting" to improve their physical and mental condition. Visitors to a facility in Izu Kogen in Shizuoka Prefecture, willingly fast for several days not only to become healthier, but also to shake off feelings of gloom and unhappiness. The visitors include a man who manages a real estate agency who says that the fasting has given him a whole different perspective on life, a woman needing a break from caring for her elderly father, and a woman who took over her husband's design company after he died of cancer 10 years ago. During their stay, they eat only a rice porridge and a bland bowl of miso soup each morning and night. What do these people want to change, and what do they hope to achieve by fasting at this facility?</content>
+    <description>A fasting retreat is attracting visitors trying to lose weight, improve their health or shake off feelings of gloom. For 3 days, we asked the guests what inspired them to stay at this unique facility.</description>
+    <endDate>2021-06-08T03:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/LgBnlQgB#Yokde_H6tc3O0naYUhGZ5g</link>
+    <recordDateEnd>2021-06-08T03:00:21.679Z</recordDateEnd>
+    <recordDateStart>2021-06-08T02:29:22.731Z</recordDateStart>
+    <seriesId>4026</seriesId>
+    <sha256>98bf9004a43b09594ab240edc89301f65f1425c686da5079250923147b914e0a</sha256>
+    <startDate>2021-06-08T02:30:00.000Z</startDate>
+    <subtitle>Fasting Retreat: A Break for the Body and Mind</subtitle>
+    <title>Document 72 Hours</title>
+    <uploadedDate>2021-06-09T22:46:03.891Z</uploadedDate>
   </episode>
   <episode>
     <airingId>121</airingId>

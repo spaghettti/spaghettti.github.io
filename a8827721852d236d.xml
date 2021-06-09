@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-09T22:40:04.485Z</lastUpdated>
+  <lastUpdated>2021-06-09T22:50:04.343Z</lastUpdated>
   <seriesId>a8827721852d236d</seriesId>
   <title>Japan-easy</title>
   <episode>
@@ -147,6 +147,21 @@
     <title>Japan-easy</title>
     <uploadedDate>2021-06-03T07:52:00.797Z</uploadedDate>
     <raw>https://mega.nz/folder/7Vx2ARqa#pcbenSskP2HUBcFRvUaKfg</raw>
+  </episode>
+  <episode>
+    <airingId>061</airingId>
+    <content/>
+    <description>Today: Learn the negative past tense form of verbs with sumo wrestlers. Explore the wonders of Japan and the Japanese language! Through basic conversations, viewers will see that "Japanese is easy!"</description>
+    <endDate>2021-06-06T16:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/XkgimJxD#RXqesiS_g5YapbyskE6ISw</link>
+    <recordDateEnd>2021-06-06T16:00:31.184Z</recordDateEnd>
+    <recordDateStart>2021-06-06T15:44:23.035Z</recordDateStart>
+    <seriesId>6210</seriesId>
+    <sha256>9a09b770cc65197fc3b409ab4035928eb33d70d14cf477c20a40d41fcef87dc3</sha256>
+    <startDate>2021-06-06T15:45:00.000Z</startDate>
+    <subtitle/>
+    <title>Japan-easy</title>
+    <uploadedDate>2021-06-09T22:47:52.545Z</uploadedDate>
   </episode>
   <episode>
     <airingId>109</airingId>

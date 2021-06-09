@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-09T22:40:04.524Z",
+  "lastUpdated": "2021-06-09T22:50:04.380Z",
   "series": [
     {
       "count": 2,
@@ -338,10 +338,10 @@
       "title": "Doctor's Insight"
     },
     {
-      "count": 28,
+      "count": 29,
       "uniqueId": "3181d5ae26726a28",
-      "lastAiring": "2021-06-01T02:30:00.000Z",
-      "lastUpload": "2021-06-03T01:42:25.360Z",
+      "lastAiring": "2021-06-08T02:30:00.000Z",
+      "lastUpload": "2021-06-09T22:46:03.891Z",
       "seriesId": "4026",
       "title": "Document 72 Hours"
     },
@@ -674,10 +674,10 @@
       "title": "Japan's Top Inventions"
     },
     {
-      "count": 25,
+      "count": 26,
       "uniqueId": "a8827721852d236d",
-      "lastAiring": "2021-05-30T15:45:00.000Z",
-      "lastUpload": "2021-06-03T07:52:00.797Z",
+      "lastAiring": "2021-06-06T15:45:00.000Z",
+      "lastUpload": "2021-06-09T22:47:52.545Z",
       "seriesId": "6210",
       "title": "Japan-easy"
     },
