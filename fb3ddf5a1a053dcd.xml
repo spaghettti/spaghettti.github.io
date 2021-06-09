@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-09T22:30:04.408Z</lastUpdated>
+  <lastUpdated>2021-06-09T22:40:04.319Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -403,6 +403,21 @@
     <title>Japan's Top Inventions</title>
     <uploadedDate>2021-05-08T07:43:31.128Z</uploadedDate>
     <raw>https://mega.nz/folder/z9wUDLAb#ZLAP--0AgnerNIZ_gL6H_Q</raw>
+  </episode>
+  <episode>
+    <airingId>040</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, an invention that uses magnetic force to help freeze food without destroying its cell structure: a "fresh freezing" system. It was developed by a Japanese venture firm in 1995 as a technology that would help freeze food without altering its flavor. We look into the story behind its creation, inspired in part by microwaves, and learn about the latest versions.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. Today, a "fresh freezing" system, which helps freeze food without destroying cell structures.</description>
+    <endDate>2021-06-05T05:40:00.000Z</endDate>
+    <link>https://mega.nz/folder/L4B3UajB#lNOeoBiEpWIQt-YU7EtTfQ</link>
+    <recordDateEnd>2021-06-05T05:40:33.412Z</recordDateEnd>
+    <recordDateStart>2021-06-05T05:24:20.006Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>94edf9ba7329b5807b7c0ff9a74bce491c7e55ca9f57b61e2bbea3cf230e1de6</sha256>
+    <startDate>2021-06-05T05:25:00.000Z</startDate>
+    <subtitle>Fresh Freezing System</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2021-06-09T22:36:43.708Z</uploadedDate>
   </episode>
   <episode>
     <airingId>041</airingId>
