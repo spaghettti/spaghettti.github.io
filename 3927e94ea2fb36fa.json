@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-09T23:50:04.135Z",
+  "lastUpdated": "2021-06-09T23:55:03.576Z",
   "seriesId": "3004",
   "title": "BENTO EXPO",
   "episodes": [
@@ -82,6 +82,22 @@
       "title": "BENTO EXPO",
       "uploadedDate": "2021-05-17T02:24:57.702Z",
       "raw": "https://mega.nz/folder/ncR13SKa#dHOs43o2YU_Ezyl_MtEJ6Q"
+    },
+    {
+      "airingId": "478",
+      "content": "",
+      "description": "Marc shows us how to make a colorful bento to eat during hanami, cherry blossom viewing. Maki uses a variety of delicious ingredients to make an easy spring roll bento.",
+      "endDate": "2021-06-07T01:45:00.000Z",
+      "link": "https://mega.nz/folder/T0wUBCpQ#m9ad5NpM08_g87aYl5-ybQ",
+      "recordDateEnd": "2021-06-07T01:45:27.083Z",
+      "recordDateStart": "2021-06-07T01:29:20.211Z",
+      "seriesId": "3004",
+      "sha256": "74269be30eee84c3f0264b0b70295792c05c4adc2e27f0be7223ae8a8fb61cc8",
+      "startDate": "2021-06-07T01:30:00.000Z",
+      "subtitle": "Season 2-4 Hanami Bento & Fun Rolls",
+      "title": "BENTO EXPO",
+      "uploadedDate": "2021-06-09T23:54:40.664Z",
+      "raw": "https://mega.nz/folder/AFNz0IQZ#b2udwvGWWVPWhMsPJ8-tiQ"
     }
   ]
 }

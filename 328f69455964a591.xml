@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-09T23:50:04.125Z</lastUpdated>
+  <lastUpdated>2021-06-09T23:55:03.565Z</lastUpdated>
   <seriesId>328f69455964a591</seriesId>
   <title>Doctor's Insight</title>
   <episode>
@@ -227,5 +227,21 @@
     <title>Doctor's Insight</title>
     <uploadedDate>2021-06-03T00:32:50.712Z</uploadedDate>
     <raw>https://mega.nz/folder/fcAw0ZhK#3koeRH9tJ76CeeDv110nTQ</raw>
+  </episode>
+  <episode>
+    <airingId>021</airingId>
+    <content>Do you think of breast cancer as a disease for older women? This is generally true, but roughly 5% of those who get breast cancer are under the age of 40 and they face many issues. According to a survey conducted on young breast cancer survivors in Japan, "pregnancy and childbirth" was the second highest cause for concern following their own health. Most importantly, can women get pregnant after breast cancer? This episode will focus on the topic of breast cancer and pregnancy.</content>
+    <description>Breast cancer is often considered a disease for older women, but roughly 5% who develop it are under 40. This episode focuses on pregnancy and childbirth, a cause for concern for many young survivors.</description>
+    <endDate>2021-06-08T04:55:00.000Z</endDate>
+    <link>https://mega.nz/folder/sZhESKST#vtGt-je-aJzIIvsKEBReEw</link>
+    <recordDateEnd>2021-06-08T04:55:23.408Z</recordDateEnd>
+    <recordDateStart>2021-06-08T04:44:20.039Z</recordDateStart>
+    <seriesId>2086</seriesId>
+    <sha256>5322245e44d4a1adc1356e4028e551315f8f7ea8aea28b65b675294f7fb20643</sha256>
+    <startDate>2021-06-08T04:45:00.000Z</startDate>
+    <subtitle>Breast Cancer #3: Pregnancy and Fertility Preservation</subtitle>
+    <title>Doctor's Insight</title>
+    <uploadedDate>2021-06-09T23:50:09.004Z</uploadedDate>
+    <raw>https://mega.nz/folder/8txgAIjC#QLkM13-OcO9bdRCUX5eOgg</raw>
   </episode>
 </episodeList>
