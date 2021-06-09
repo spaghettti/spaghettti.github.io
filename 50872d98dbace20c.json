@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-09T23:40:04.216Z",
+  "lastUpdated": "2021-06-09T23:50:04.070Z",
   "seriesId": "2053",
   "title": "TOKYO EYE",
   "episodes": [
@@ -306,6 +306,21 @@
       "title": "TOKYO EYE 2020",
       "uploadedDate": "2021-06-02T20:38:52.492Z",
       "raw": "https://mega.nz/folder/vVwGRIAa#9Znfgi37cuoYR6hfhZ-vfg"
+    },
+    {
+      "airingId": "207",
+      "content": "With the pandemic keeping people indoors, people are taking a new look at delivery services. Many such services are taking the initiative, going from neighborhood to neighborhood and delivering items of all kinds. In a way, you could say they're also delivering peace of mind, as well as hope!",
+      "description": "Many delivery services are taking the initiative, going from neighborhood to neighborhood and delivering items of all kinds. They're also delivering peace of mind, as well as hope!",
+      "endDate": "2021-06-09T01:00:00.000Z",
+      "link": "https://mega.nz/folder/sxk2ySAY#YTLNIauGtJtnmqDRww0UPA",
+      "recordDateEnd": "2021-06-09T01:00:24.142Z",
+      "recordDateStart": "2021-06-09T00:29:23.075Z",
+      "seriesId": "2053",
+      "sha256": "7ec90b6341ad437709f5041b4795116e93348e9ee72685ec5458e4bdf7c0826b",
+      "startDate": "2021-06-09T00:30:00.000Z",
+      "subtitle": "It's Mobile! Peace of Mind and Hope, Delivered",
+      "title": "TOKYO EYE 2020",
+      "uploadedDate": "2021-06-09T23:48:06.487Z"
     }
   ]
 }

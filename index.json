@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-09T23:40:04.479Z",
+  "lastUpdated": "2021-06-09T23:50:04.313Z",
   "series": [
     {
       "count": 2,
@@ -714,10 +714,10 @@
       "title": "JAPN SPORTSCOPE \"KARATE\""
     },
     {
-      "count": 25,
+      "count": 26,
       "uniqueId": "b7a2bc9b23a9c5ee",
-      "lastAiring": "2021-06-01T00:30:00.000Z",
-      "lastUpload": "2021-06-03T06:10:56.063Z",
+      "lastAiring": "2021-06-08T00:30:00.000Z",
+      "lastUpload": "2021-06-09T23:48:17.517Z",
       "seriesId": "2007",
       "title": "Journeys in Japan"
     },
@@ -1314,10 +1314,10 @@
       "title": "Today's Close-Up"
     },
     {
-      "count": 19,
+      "count": 20,
       "uniqueId": "50872d98dbace20c",
-      "lastAiring": "2021-06-02T00:30:00.000Z",
-      "lastUpload": "2021-06-02T20:38:52.492Z",
+      "lastAiring": "2021-06-09T00:30:00.000Z",
+      "lastUpload": "2021-06-09T23:48:06.487Z",
       "seriesId": "2053",
       "title": "TOKYO EYE"
     },

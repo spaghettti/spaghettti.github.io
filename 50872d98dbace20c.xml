@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-09T23:40:04.214Z</lastUpdated>
+  <lastUpdated>2021-06-09T23:50:04.068Z</lastUpdated>
   <seriesId>50872d98dbace20c</seriesId>
   <title>TOKYO EYE</title>
   <episode>
@@ -307,5 +307,20 @@
     <title>TOKYO EYE 2020</title>
     <uploadedDate>2021-06-02T20:38:52.492Z</uploadedDate>
     <raw>https://mega.nz/folder/vVwGRIAa#9Znfgi37cuoYR6hfhZ-vfg</raw>
+  </episode>
+  <episode>
+    <airingId>207</airingId>
+    <content>With the pandemic keeping people indoors, people are taking a new look at delivery services. Many such services are taking the initiative, going from neighborhood to neighborhood and delivering items of all kinds. In a way, you could say they're also delivering peace of mind, as well as hope!</content>
+    <description>Many delivery services are taking the initiative, going from neighborhood to neighborhood and delivering items of all kinds. They're also delivering peace of mind, as well as hope!</description>
+    <endDate>2021-06-09T01:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/sxk2ySAY#YTLNIauGtJtnmqDRww0UPA</link>
+    <recordDateEnd>2021-06-09T01:00:24.142Z</recordDateEnd>
+    <recordDateStart>2021-06-09T00:29:23.075Z</recordDateStart>
+    <seriesId>2053</seriesId>
+    <sha256>7ec90b6341ad437709f5041b4795116e93348e9ee72685ec5458e4bdf7c0826b</sha256>
+    <startDate>2021-06-09T00:30:00.000Z</startDate>
+    <subtitle>It's Mobile! Peace of Mind and Hope, Delivered</subtitle>
+    <title>TOKYO EYE 2020</title>
+    <uploadedDate>2021-06-09T23:48:06.487Z</uploadedDate>
   </episode>
 </episodeList>

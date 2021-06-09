@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-09T23:40:04.114Z",
+  "lastUpdated": "2021-06-09T23:50:03.973Z",
   "seriesId": "2007",
   "title": "Journeys in Japan",
   "episodes": [
@@ -402,6 +402,21 @@
       "title": "Journeys in Japan",
       "uploadedDate": "2021-05-25T01:52:53.349Z",
       "raw": "https://mega.nz/folder/at5XSaqa#kisa8WCehQ3XaLhnV_ve4Q"
+    },
+    {
+      "airingId": "439",
+      "content": "Outdoor guide Daniel Moore gets a taste of deep mountain life on a drive around Minami Shinshu in southern Nagano Prefecture. On his way he stays in an abandoned old post town, hikes with a hunter, visits a master wood artisan, camps under a blanket of stars, shoots down the Tenryu River in a traditional boat and sips tea high up on a farmer couple's terraced slope.",
+      "description": "Guide Daniel Moore explores the traditions of mountain life around Minami Shinshu in Nagano and also its outdoor pleasures. On this program, get to know the real Japan and discover useful travel tips.",
+      "endDate": "2021-06-08T01:00:00.000Z",
+      "link": "https://mega.nz/folder/Dvx2XAiL#Xtlw9IYXiGTv5yLV-ZqY6w",
+      "recordDateEnd": "2021-06-08T01:00:28.407Z",
+      "recordDateStart": "2021-06-08T00:29:20.100Z",
+      "seriesId": "2007",
+      "sha256": "7079e6cca6676e9118ceb77c7108906de2d1a1f55fcf9d959e88b0ac6ef41eb6",
+      "startDate": "2021-06-08T00:30:00.000Z",
+      "subtitle": "Minami Shinshu: A Solo Alps Journey",
+      "title": "Journeys in Japan",
+      "uploadedDate": "2021-06-09T23:48:17.517Z"
     }
   ]
 }
