@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-09T22:55:03.766Z",
+  "lastUpdated": "2021-06-09T23:00:04.862Z",
   "series": [
     {
       "count": 2,
@@ -324,8 +324,8 @@
     {
       "count": 185,
       "uniqueId": "07d8499767117509",
-      "lastAiring": "2021-06-04T07:15:00.000Z",
-      "lastUpload": "2021-06-04T08:26:44.859Z",
+      "lastAiring": "2021-06-07T07:15:00.000Z",
+      "lastUpload": "2021-06-09T22:59:06.547Z",
       "seriesId": "2058",
       "title": "Direct Talk"
     },
@@ -754,10 +754,10 @@
       "title": "Kiyo in Kyoto: 3min"
     },
     {
-      "count": 27,
+      "count": 28,
       "uniqueId": "0fb6afa0f420e9e6",
-      "lastAiring": "2021-05-30T03:40:00.000Z",
-      "lastUpload": "2021-06-03T11:57:52.168Z",
+      "lastAiring": "2021-06-06T03:40:00.000Z",
+      "lastUpload": "2021-06-09T22:59:06.800Z",
       "seriesId": "6116",
       "title": "Little Charo"
     },
