@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-06-09T22:50:04.372Z</lastUpdated>
+  <lastUpdated>2021-06-09T22:55:03.759Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1059,10 +1059,10 @@
     <title>Searching for the Standing Boy of Nagasaki</title>
   </series>
   <series>
-    <count>29</count>
+    <count>30</count>
     <uniqueId>206e7d7b56906c70</uniqueId>
-    <lastAiring>2021-05-31T07:30:00.000Z</lastAiring>
-    <lastUpload>2021-06-03T06:55:34.231Z</lastUpload>
+    <lastAiring>2021-06-07T07:30:00.000Z</lastAiring>
+    <lastUpload>2021-06-09T22:51:51.391Z</lastUpload>
     <seriesId>2024</seriesId>
     <title>Seasoning the Seasons</title>
   </series>
@@ -1397,8 +1397,8 @@
   <series>
     <count>22</count>
     <uniqueId>4c42bed9def1d9d4</uniqueId>
-    <lastAiring>2021-05-31T00:30:00.000Z</lastAiring>
-    <lastUpload>2021-06-03T10:09:14.347Z</lastUpload>
+    <lastAiring>2021-06-07T00:30:00.000Z</lastAiring>
+    <lastUpload>2021-06-09T22:50:51.193Z</lastUpload>
     <seriesId>2087</seriesId>
     <title>Where We Call Home</title>
   </series>

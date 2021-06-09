@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-09T22:50:04.080Z</lastUpdated>
+  <lastUpdated>2021-06-09T22:55:03.461Z</lastUpdated>
   <seriesId>206e7d7b56906c70</seriesId>
   <title>Seasoning the Seasons</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>Seasoning the Seasons</title>
     <uploadedDate>2021-05-03T03:42:55.257Z</uploadedDate>
     <raw>https://mega.nz/folder/C0s1HaqK#p6an1Y2XAcUk1lhrI0EZwg</raw>
+  </episode>
+  <episode>
+    <airingId>028</airingId>
+    <content>The mountain hinterlands of Shikoku are dotted with tiny, almost hidden communities. One such place is the Iya Oboke district of Tokushima Prefecture, where the houses cling to the mountainside on a steep slope with an altitude difference of 400m from top to bottom. The people there cultivate fields where the potatoes they dig up could almost roll down the hillside. They feed spring water to their homes and provide for most of their own needs from the blessings of the fields and mountains. Time passes quietly. We discover the people who have built their life on this steep mountainside over the years and the beauties of their four seasons.</content>
+    <description>This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history. Today: Iya, Living in the Mountains.</description>
+    <endDate>2021-06-07T08:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/BTxCiDqB#yRsyej5SmtmYOo50dUYjLw</link>
+    <recordDateEnd>2021-06-07T08:00:29.642Z</recordDateEnd>
+    <recordDateStart>2021-06-07T07:29:24.019Z</recordDateStart>
+    <seriesId>2024</seriesId>
+    <sha256>15f577bf1ca05869fddcaaace318dd06da8576bac726a217b9e549936dc8dd70</sha256>
+    <startDate>2021-06-07T07:30:00.000Z</startDate>
+    <subtitle>Iya - Living in the Mountains</subtitle>
+    <title>Seasoning the Seasons</title>
+    <uploadedDate>2021-06-09T22:51:51.391Z</uploadedDate>
   </episode>
   <episode>
     <airingId>032</airingId>
