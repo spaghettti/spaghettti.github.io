@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-09T23:30:05.094Z</lastUpdated>
+  <lastUpdated>2021-06-09T23:35:04.084Z</lastUpdated>
   <seriesId>49d6f4e33381059a</seriesId>
   <title>The Seasons of Yamato</title>
   <episode>
@@ -35,5 +35,20 @@
     <title>The Seasons of Yamato</title>
     <uploadedDate>2021-05-24T04:02:26.564Z</uploadedDate>
     <raw>https://mega.nz/folder/1h5VESDL#J8aBzv5LhBQ0yAU9gibTjA</raw>
+  </episode>
+  <episode>
+    <airingId>003</airingId>
+    <content/>
+    <description>A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with a pianist, Mine Kawakami, for which she plays exclusive pieces, makes you experience each season.</description>
+    <endDate>2021-06-06T01:45:00.000Z</endDate>
+    <link>https://mega.nz/folder/UP5GjbSb#8yAGymCihoqh32y1piYlCA</link>
+    <recordDateEnd>2021-06-06T01:45:33.096Z</recordDateEnd>
+    <recordDateStart>2021-06-06T01:39:20.001Z</recordDateStart>
+    <seriesId>6042</seriesId>
+    <sha256>c4f8b0ee87c8b8f87453d05884af60b6b297f63ed510054d596a4c9a1796c755</sha256>
+    <startDate>2021-06-06T01:40:00.000Z</startDate>
+    <subtitle/>
+    <title>The Seasons of Yamato</title>
+    <uploadedDate>2021-06-09T23:30:47.302Z</uploadedDate>
   </episode>
 </episodeList>

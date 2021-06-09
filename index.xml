@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-06-09T23:30:05.141Z</lastUpdated>
+  <lastUpdated>2021-06-09T23:35:04.133Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1163,10 +1163,10 @@
     <title>TAKADA KENZO Poet of Cotton</title>
   </series>
   <series>
-    <count>68</count>
+    <count>69</count>
     <uniqueId>01d91b585f12a25a</uniqueId>
-    <lastAiring>2021-06-05T03:55:00.000Z</lastAiring>
-    <lastUpload>2021-06-05T04:35:29.989Z</lastUpload>
+    <lastAiring>2021-06-09T06:23:00.000Z</lastAiring>
+    <lastUpload>2021-06-09T23:33:55.289Z</lastUpload>
     <seriesId>4032</seriesId>
     <title>The Flame Across Japan</title>
   </series>
@@ -1259,10 +1259,10 @@
     <title>The Sea of Japan</title>
   </series>
   <series>
-    <count>2</count>
+    <count>3</count>
     <uniqueId>49d6f4e33381059a</uniqueId>
-    <lastAiring>2021-05-19T01:55:00.000Z</lastAiring>
-    <lastUpload>2021-05-24T04:02:26.564Z</lastUpload>
+    <lastAiring>2021-06-06T01:40:00.000Z</lastAiring>
+    <lastUpload>2021-06-09T23:30:47.302Z</lastUpload>
     <seriesId>6042</seriesId>
     <title>The Seasons of Yamato</title>
   </series>
