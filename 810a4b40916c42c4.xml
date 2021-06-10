@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-10T00:45:04.343Z</lastUpdated>
+  <lastUpdated>2021-06-10T00:50:03.701Z</lastUpdated>
   <seriesId>810a4b40916c42c4</seriesId>
   <title>Hometown Stories</title>
   <episode>
@@ -323,5 +323,21 @@
     <title>Hometown Stories</title>
     <uploadedDate>2021-05-23T02:32:37.343Z</uploadedDate>
     <raw>https://mega.nz/folder/p54QWDwB#Uhz3SJDYRXcj8f4q4PCO8Q</raw>
+  </episode>
+  <episode>
+    <airingId>168</airingId>
+    <content>At any age, a fresh hairstyle can connect us with our inner radiance. A team of hairdressers in Toyama Prefecture visits elderly people who are physically incapable of going to a salon. They create the styles that their customers want and brighten their spirits. Many of the hairdressers are working moms. Some had abandoned their careers to raise their kids, but this job allows them to balance work and family. We look how the right hairstyle helps bring a spark of joy into people's lives.</content>
+    <description>A team of hairdressers in Toyama Prefecture visits elderly clients in nursing homes. They create the styles that their customers want and help to brighten their spirits.</description>
+    <endDate>2021-06-06T01:37:00.000Z</endDate>
+    <link>https://mega.nz/folder/TtYnnQRJ#zKj4Q1ubWJb5ARle2AR7uA</link>
+    <recordDateEnd>2021-06-06T01:37:33.343Z</recordDateEnd>
+    <recordDateStart>2021-06-06T01:09:20.100Z</recordDateStart>
+    <seriesId>5003</seriesId>
+    <sha256>0d8524c03687774ccdf115296d45b96b20151c0804a2a1908d68eb9bfecfc502</sha256>
+    <startDate>2021-06-06T01:10:00.000Z</startDate>
+    <subtitle>Haircut Magic</subtitle>
+    <title>Hometown Stories</title>
+    <uploadedDate>2021-06-10T00:47:38.204Z</uploadedDate>
+    <raw>https://mega.nz/folder/edRj1IYR#EvgaKKTChaq7iu82k2hQ-g</raw>
   </episode>
 </episodeList>
