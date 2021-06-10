@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-10T00:00:05.036Z</lastUpdated>
+  <lastUpdated>2021-06-10T00:05:04.462Z</lastUpdated>
   <seriesId>96934130ea8f6060</seriesId>
   <title>We, in the Time of Corona</title>
   <episode>
@@ -35,6 +35,21 @@
     <title>We, in the Time of Corona</title>
     <uploadedDate>2020-12-24T01:47:40.742Z</uploadedDate>
     <raw>https://mega.nz/folder/M10AlbpR#ndlNE5Kc7IgHkemPl7UXVw</raw>
+  </episode>
+  <episode>
+    <airingId>015</airingId>
+    <content>How will COVID-19 change the way we live in urban spaces? Naito Hiroshi, one of the architects behind the ambitious regeneration of Tokyo's iconic Shibuya neighborhood, shares his ideas.</content>
+    <description>How will COVID-19 change the way we live in urban spaces? Naito Hiroshi, one of the architects behind the ambitious regeneration of Tokyo's iconic Shibuya neighborhood, shares his ideas.</description>
+    <endDate>2021-06-08T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/VChm3ZDB#LcF-HHxIMVz3zw1QLeomJQ</link>
+    <recordDateEnd>2021-06-08T05:00:27.145Z</recordDateEnd>
+    <recordDateStart>2021-06-08T04:54:20.039Z</recordDateStart>
+    <seriesId>6033</seriesId>
+    <sha256>2d27ea66396886b136c87d24200b252596b4b6e506c0293521e1f6705bad4fc6</sha256>
+    <startDate>2021-06-08T04:55:00.000Z</startDate>
+    <subtitle>Naito Hiroshi, Architect</subtitle>
+    <title>We, in the Time of Corona</title>
+    <uploadedDate>2021-06-10T00:00:04.092Z</uploadedDate>
   </episode>
   <episode>
     <airingId>017</airingId>
