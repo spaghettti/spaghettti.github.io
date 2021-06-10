@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-10T00:50:03.668Z",
+  "lastUpdated": "2021-06-10T00:55:04.424Z",
   "seriesId": "4003",
   "title": "The Professionals",
   "episodes": [
@@ -226,6 +226,22 @@
       "title": "The Professionals",
       "uploadedDate": "2021-05-16T04:26:18.539Z",
       "raw": "https://mega.nz/folder/ShZUEbxZ#xmc8ucY7f12tZqdZsYfgRQ"
+    },
+    {
+      "airingId": "155",
+      "content": "Known as \"The Lone Wolf,\" Italian cuisine chef Saito Tomofumi (46) stands apart from the rest. Preferring to do everything himself, he not only cooks course meals, but even makes bread and desserts himself. What's more, when Saito comes up with new dishes, he doesn't make prototypes or taste-test. Under the pressure of an all-or-nothing battle, he pushes himself to the utmost limit and creates unparalleled new dishes. Alongside his wife Noriko, who handles serving customers, he spends his days constantly driving himself as far as he can go. We follow him, seeking what it truly means to cook and run a restaurant.",
+      "description": "We follow an Italian cuisine chef known as \"The Lone Wolf\". He cooks every dish single-handedly, making new dishes without even taste-testing. For what reason does he constantly push his own limits?",
+      "endDate": "2021-06-06T02:55:00.000Z",
+      "link": "https://mega.nz/folder/icRFXAQL#nqYF_JAMxu0MtoX3sg0Rmw",
+      "recordDateEnd": "2021-06-06T02:55:26.188Z",
+      "recordDateStart": "2021-06-06T02:09:20.100Z",
+      "seriesId": "4003",
+      "sha256": "19e0959f275c15d0ba6a2d2c7caff2bab2276585f3969f7422c632e5ebb767a0",
+      "startDate": "2021-06-06T02:10:00.000Z",
+      "subtitle": "The All-Or-Nothing Battle of the Lone Wolf: Saito Tomofumi, Italian Cuisine Chef",
+      "title": "The Professionals",
+      "uploadedDate": "2021-06-10T00:54:09.034Z",
+      "raw": "https://mega.nz/folder/UaBEwRzB#T4UxLv3kF6vKZUzLDod0Lw"
     }
   ]
 }

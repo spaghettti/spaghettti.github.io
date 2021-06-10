@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-06-10T00:50:03.799Z</lastUpdated>
+  <lastUpdated>2021-06-10T00:55:04.563Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1235,10 +1235,10 @@
     <title>The New Coronavirus in 3DCG</title>
   </series>
   <series>
-    <count>14</count>
+    <count>15</count>
     <uniqueId>ac0dc75327258b51</uniqueId>
-    <lastAiring>2021-05-16T02:10:00.000Z</lastAiring>
-    <lastUpload>2021-05-16T04:26:18.539Z</lastUpload>
+    <lastAiring>2021-06-06T02:10:00.000Z</lastAiring>
+    <lastUpload>2021-06-10T00:54:09.034Z</lastUpload>
     <seriesId>4003</seriesId>
     <title>The Professionals</title>
   </series>
