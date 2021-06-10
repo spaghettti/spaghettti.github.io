@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-10T01:25:04.093Z</lastUpdated>
+  <lastUpdated>2021-06-10T01:35:04.275Z</lastUpdated>
   <seriesId>59ce1816235dcb05</seriesId>
   <title>KABUKI KOOL</title>
   <episode>
@@ -115,6 +115,21 @@
     <title>KABUKI KOOL</title>
     <uploadedDate>2021-02-17T05:51:16.612Z</uploadedDate>
     <raw>https://mega.nz/folder/6g1iSKIJ#vrK7YxezdZGkqRiHL0ozZA</raw>
+  </episode>
+  <episode>
+    <airingId>063</airingId>
+    <content>Chushingura is one of the most popular plays. It is based on a sensational historical incident when 47 masterless samurai avenged the death of their lord. Ainosuke explores it in a two-part series. Samurai lord Enya Hangan (L) attacks the high official Ko no Moronao (R) in the shogun's palace after being bullied.</content>
+    <description>Chushingura is one of the most popular plays. It is based on a sensational historical incident when 47 masterless samurai avenged the death of their lord. Ainosuke explores it in a two-part series.</description>
+    <endDate>2021-06-09T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/WsZSwbYL#9s3C6b_tDrsn5mVxBOJvkA</link>
+    <recordDateEnd>2021-06-09T05:00:26.017Z</recordDateEnd>
+    <recordDateStart>2021-06-09T04:29:20.003Z</recordDateStart>
+    <seriesId>2035</seriesId>
+    <sha256>ebe80b7fdb8e2e513a962980bbc8339d6ce15838e7eeaae6582177b16a3fe42f</sha256>
+    <startDate>2021-06-09T04:30:00.000Z</startDate>
+    <subtitle>The World of Chushingura: The Treasury of Loyal Retainers (Part 1)</subtitle>
+    <title>KABUKI KOOL</title>
+    <uploadedDate>2021-06-10T01:32:54.571Z</uploadedDate>
   </episode>
   <episode>
     <airingId>068</airingId>
