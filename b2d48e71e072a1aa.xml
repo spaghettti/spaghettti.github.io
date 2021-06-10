@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-10T00:05:04.318Z</lastUpdated>
+  <lastUpdated>2021-06-10T00:20:03.692Z</lastUpdated>
   <seriesId>b2d48e71e072a1aa</seriesId>
   <title>Wild Hokkaido!</title>
   <episode>
@@ -435,5 +435,20 @@
     <title>Wild Hokkaido!</title>
     <uploadedDate>2021-05-02T08:17:01.576Z</uploadedDate>
     <raw>https://mega.nz/folder/wtpGlZLQ#gbQnCF79KpC3uCfZNPgPyQ</raw>
+  </episode>
+  <episode>
+    <airingId>087</airingId>
+    <content>Spring has arrived in Hokkaido Prefecture. During this season, people enjoy gathering and eating delicious wild plants that have sprouted in the mountains and fields. This time, in Shiraoi Town facing the Pacific Ocean, a Canadian man living in Hokkaido tries his hand at picking wild vegetables, guided by an indigenous Ainu woman who has lived with the blessings of nature. He learns how to identify, pick and cook edible wild plants, as well as the lessons of nature that have been inherited by the Ainu people. Later, we also show you some footage of the unique spring flowers that bloom in the forests of Hokkaido.</content>
+    <description>A Canadian man tries his hand at picking wild vegetables that have sprouted in the mountains and fields, guided by an indigenous Ainu woman who has lived with the blessings of nature.</description>
+    <endDate>2021-06-06T02:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/EAFC3LQB#4PwEXY9uhpZKSaubrEp1nQ</link>
+    <recordDateEnd>2021-06-06T02:00:28.281Z</recordDateEnd>
+    <recordDateStart>2021-06-06T01:44:20.005Z</recordDateStart>
+    <seriesId>2069</seriesId>
+    <sha256>6dcf8acf5141d3e3190c0c12d8486e98a4ccff1222ab58391cbd5ad2aa0a779c</sha256>
+    <startDate>2021-06-06T01:45:00.000Z</startDate>
+    <subtitle>Wild Vegetable Picking in Shiraoi</subtitle>
+    <title>Wild Hokkaido!</title>
+    <uploadedDate>2021-06-10T00:19:02.066Z</uploadedDate>
   </episode>
 </episodeList>
