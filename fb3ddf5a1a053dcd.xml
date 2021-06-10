@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-10T01:15:04.160Z</lastUpdated>
+  <lastUpdated>2021-06-10T01:25:04.170Z</lastUpdated>
   <seriesId>fb3ddf5a1a053dcd</seriesId>
   <title>Japan's Top Inventions</title>
   <episode>
@@ -403,6 +403,21 @@
     <title>Japan's Top Inventions</title>
     <uploadedDate>2021-05-08T07:43:31.128Z</uploadedDate>
     <raw>https://mega.nz/folder/z9wUDLAb#ZLAP--0AgnerNIZ_gL6H_Q</raw>
+  </episode>
+  <episode>
+    <airingId>039</airingId>
+    <content>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. This time, an invention with which you confirm your identity just by holding out your palm: palm vein authentication. This world's first biometric technology, developed by a large Japanese manufacturer in 2003, reads the unique vein patterns in the palm to verify users' identities. It's now used in over 60 countries and regions. Discover the little-known origin story behind this top invention.</content>
+    <description>The behind-the-scenes tales of hit products and creations from Japan: this is Japan's Top Inventions. Today, an invention that confirms your identity by reading your palm: palm vein authentication.</description>
+    <endDate>2021-06-05T05:25:00.000Z</endDate>
+    <link>https://mega.nz/folder/jp8kBBIa#nqLtxafJv0Qv3lspzgoBTw</link>
+    <recordDateEnd>2021-06-05T05:25:32.687Z</recordDateEnd>
+    <recordDateStart>2021-06-05T05:09:20.100Z</recordDateStart>
+    <seriesId>2072</seriesId>
+    <sha256>9752153d2df4b61d36a0e2011c8b0b484a48fe1c920d351898ae4f336572e0f1</sha256>
+    <startDate>2021-06-05T05:10:00.000Z</startDate>
+    <subtitle>Palm Vein Authentication</subtitle>
+    <title>Japan's Top Inventions</title>
+    <uploadedDate>2021-06-10T01:21:24.045Z</uploadedDate>
   </episode>
   <episode>
     <airingId>040</airingId>

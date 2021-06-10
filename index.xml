@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-06-10T01:15:04.372Z</lastUpdated>
+  <lastUpdated>2021-06-10T01:25:04.383Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -659,10 +659,10 @@
     <title>JAPAN SPORTSCOPE</title>
   </series>
   <series>
-    <count>30</count>
+    <count>31</count>
     <uniqueId>fb3ddf5a1a053dcd</uniqueId>
     <lastAiring>2021-06-05T05:25:00.000Z</lastAiring>
-    <lastUpload>2021-06-09T22:36:43.708Z</lastUpload>
+    <lastUpload>2021-06-10T01:21:24.045Z</lastUpload>
     <seriesId>2072</seriesId>
     <title>Japan's Top Inventions</title>
   </series>
