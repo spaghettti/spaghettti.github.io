@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="series-toc.xsl"?>
 <seriesList>
-  <lastUpdated>2021-06-10T01:55:03.658Z</lastUpdated>
+  <lastUpdated>2021-06-10T02:05:04.436Z</lastUpdated>
   <series>
     <count>2</count>
     <uniqueId>026b247d5476c85b</uniqueId>
@@ -1219,10 +1219,10 @@
     <title>The Lifesaving Fuel Train</title>
   </series>
   <series>
-    <count>13</count>
+    <count>15</count>
     <uniqueId>aca3c5281f781918</uniqueId>
     <lastAiring>2021-05-03T04:30:00.000Z</lastAiring>
-    <lastUpload>2021-06-10T01:52:29.229Z</lastUpload>
+    <lastUpload>2021-06-10T02:03:46.111Z</lastUpload>
     <seriesId>4018</seriesId>
     <title>The Mark of Beauty</title>
   </series>
