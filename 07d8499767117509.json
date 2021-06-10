@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2021-06-10T00:20:03.676Z",
+  "lastUpdated": "2021-06-10T00:25:04.231Z",
   "seriesId": "2058",
   "title": "Direct Talk",
   "episodes": [
@@ -2962,6 +2962,21 @@
       "title": "Direct Talk",
       "uploadedDate": "2021-06-03T08:53:17.605Z",
       "raw": "https://mega.nz/folder/YXoDUIzR#w7beELlH8C2o4QlBVRL4lw"
+    },
+    {
+      "airingId": "771",
+      "content": "Over 30 years, Alain Reynes has sought peaceful coexistence between human activities and reintroduced brown bears in the Pyrenees, a mountain range forming a natural border between France and Spain.",
+      "description": "Over 30 years, Alain Reynes has sought peaceful coexistence between human activities and reintroduced brown bears in the Pyrenees, a mountain range forming a natural border between France and Spain.",
+      "endDate": "2021-06-09T07:30:00.000Z",
+      "link": "https://mega.nz/folder/DdgQGaQD#aPOjW1vICLShSzou3EobzQ",
+      "recordDateEnd": "2021-06-09T07:30:30.889Z",
+      "recordDateStart": "2021-06-09T07:14:20.018Z",
+      "seriesId": "2058",
+      "sha256": "612a52966a08759a674e3b44fa262fd07265af07a3f3b82186ec5de11957cd22",
+      "startDate": "2021-06-09T07:15:00.000Z",
+      "subtitle": "Living With Wildlife: Alain Reynes / Environmentalist / NPO Pays de l'Ours - Adet",
+      "title": "Direct Talk",
+      "uploadedDate": "2021-06-10T00:24:25.984Z"
     }
   ]
 }
