@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-10T02:05:04.269Z</lastUpdated>
+  <lastUpdated>2021-06-10T02:20:03.992Z</lastUpdated>
   <seriesId>aca3c5281f781918</seriesId>
   <title>The Mark of Beauty</title>
   <episode>
@@ -65,6 +65,23 @@
     <subtitle>Fragrances of Early Spring</subtitle>
     <title>The Mark of Beauty</title>
     <uploadedDate>2021-06-10T01:52:29.229Z</uploadedDate>
+    <raw>https://mega.nz/folder/9YUllApT#VLIFyU0XI0qV6ngOLTPrsg</raw>
+  </episode>
+  <episode>
+    <airingId>112</airingId>
+    <content>This episode features earth globes. The copywriter Itoi Shigesato tells us what inspired him to develop a state-of-the-art version relying on augmented reality. The astronaut Mori Mamoru shows a treasured globe he used during his training, and talks about a massive version measuring more than 6m across fashioned from organic light-emitting diode panels. And we take a look at some extraordinary, fold-up versions inspired by traditional-style umbrellas from the Edo period (1603-1868), and a firm that has been handcrafting globes for more than 80 years.</content>
+    <description>For centuries, people have made globes, not just as an educational tool, but also as an item to feel closer to the world. This episode features handcrafted globes to the latest high-tech globes.</description>
+    <endDate>2021-01-04T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/WldFVAqQ#yLIqtGQbxo-3Oo-Immn_-Q</link>
+    <recordDateEnd>2021-01-04T05:00:33.305Z</recordDateEnd>
+    <recordDateStart>2021-01-04T04:29:20.098Z</recordDateStart>
+    <seriesId>4018</seriesId>
+    <sha256>4877bb78313fa6d142f25c2e5155232d603e143a6ace83f86e5ba1fb3a5fb083</sha256>
+    <startDate>2021-01-04T04:30:00.000Z</startDate>
+    <subtitle>Globe</subtitle>
+    <title>The Mark of Beauty</title>
+    <uploadedDate>2021-06-10T02:15:31.227Z</uploadedDate>
+    <raw>https://mega.nz/folder/WNkGzC5Z#4RhGYf_nuMRpHstFeA9G4g</raw>
   </episode>
   <episode>
     <airingId>114</airingId>
