@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="episodes-toc.xsl"?>
 <episodeList>
-  <lastUpdated>2021-06-10T02:20:03.992Z</lastUpdated>
+  <lastUpdated>2021-06-10T02:30:04.649Z</lastUpdated>
   <seriesId>aca3c5281f781918</seriesId>
   <title>The Mark of Beauty</title>
   <episode>
@@ -50,6 +50,22 @@
     <title>The Mark of Beauty</title>
     <uploadedDate>2021-03-08T06:30:54.334Z</uploadedDate>
     <raw>https://mega.nz/folder/jk9FlKrJ#GnDX0zHuw8DLgPg_4yTUVg</raw>
+  </episode>
+  <episode>
+    <airingId>109</airingId>
+    <content>This episode provides a taste of sake, or Japanese rice wine. It visits an old, traditional-style earthen-walled brewery, looking at the reason for its high ceilings, and the role played by the inner storeroom. Elsewhere, a brewery whose history spans more than 250 years is maturing its sake in a disused railway tunnel. Also featured is the traditional method for producing the koji mold essential to sake brewing, and the new sake aromas resulting from koji obtained from flowers. There are some new and daring pairings of sake, food and tableware as well.</content>
+    <description>The craft of brewing sake, Japan's very own alcoholic drink goes back centuries. While traditional techniques continue to be used, there are those who are making new sake for the people of today.</description>
+    <endDate>2020-12-21T05:00:00.000Z</endDate>
+    <link>https://mega.nz/folder/RV8HzQ5Y#SACPYqhRO7INYBL0Rg_rQA</link>
+    <recordDateEnd>2020-12-21T05:01:00.908Z</recordDateEnd>
+    <recordDateStart>2020-12-21T04:29:22.782Z</recordDateStart>
+    <seriesId>4018</seriesId>
+    <sha256>b8bb627001e790e1367508e2cebed5a5bfe00586dca6163b770731161c8ceb6e</sha256>
+    <startDate>2020-12-21T04:30:00.000Z</startDate>
+    <subtitle>Sake</subtitle>
+    <title>The Mark of Beauty</title>
+    <uploadedDate>2021-06-10T02:26:11.633Z</uploadedDate>
+    <raw>https://mega.nz/folder/paBXhQoB#5Xx1rF7nv0_jtPsp7-BeEg</raw>
   </episode>
   <episode>
     <airingId>111</airingId>
